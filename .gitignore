@@ -1,6 +1,7 @@
 build
-deploy
 compile/env_settings.py
+deploy
+keys
 
 .DS_Store
 .clang_complete
