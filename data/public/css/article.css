@@ -1,0 +1,175 @@
+#header {
+	color: #000;
+	background-color: #fff;
+}
+
+#article {
+    color: #000;
+}
+
+.articleImage {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+
+    text-align: center;
+    vertical-align: text-bottom;
+    font-family: FuturaPTHeavy;
+    font-size: 8vw;
+    line-height: 24vw;
+    color: #fff;
+    -webkit-filter: brightness(100%);
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+.articleImage:hover {
+    -webkit-filter: brightness(80%);
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+#articleVideo {
+    width: 100%;
+    height: 100%;
+}
+
+#articleContainer {
+    position: relative;
+    padding-left: 23vw;
+    padding-right: 23vw;
+    padding-bottom: 10vw;
+}
+
+.articleAudio, .articleTopCustom {
+    margin-top: 6vw;
+}
+
+.textEntrySpacer {
+    width: 100%;
+    height: 5vw;
+}
+
+.articleTitle {
+    position: relative;
+    font-family: FuturaPTHeavy;
+    font-size: 5.4vw;
+    letter-spacing: -0.2vw;
+    line-height: 6.25vw;
+
+    padding-top: 6.9vw;
+    padding-bottom: 4.1vw;
+}
+.articleTitle em {
+    font-family: FuturaPTHeavyItalic;
+}
+.articleTitle .backgroundColor {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 9.4vw;
+    bottom: 1vw;
+
+    z-index: -1;
+}
+
+.articleSubtitle {
+    position: relative;
+    font-family: FuturaPTMedium;
+    font-size: 3.4vw;
+    letter-spacing: -0.1vw;
+    line-height: 3.9vw;
+}
+.articleSubtitle .backgroundColor {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 1.6vw;
+    bottom: 0;
+
+    z-index: -1;
+}
+
+.articleSubtext {
+    font-family: FuturaPTDemi;
+    font-size: 1vw;
+    letter-spacing: 0vw;
+    line-height: 2vw; /* for authors with e-mails */
+    overflow: hidden;
+
+    padding-top: 3.2vw;
+}
+.articleAuthor {
+    float: left;
+    width: 20.3vw;
+}
+.articleDate {
+    float: left;
+}
+
+.articleSeparator {
+    font-family: FuturaPTBold;
+    font-size: 3.4vw;
+    letter-spacing: 0.2vw;
+
+    padding-top: 3.6vw;
+    padding-bottom: 4.4vw;
+}
+
+.articleLoc {
+    height: 5vw;
+}
+
+/* Below styles are for article text */
+
+p {
+    font-family: FuturaPTBook;
+    font-size: 1.4vw;
+    letter-spacing: 0.01vw;
+    line-height: 2.2vw;
+}
+
+b {
+    font-family: FuturaPTMedium;
+}
+strong {
+    font-family: FuturaPTMedium;
+}
+
+i {
+    font-family: FuturaPTBookItalic;
+}
+em {
+    font-family: FuturaPTBookItalic;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    text-decoration: underline;
+}
+a:hover {
+    color: #ff301b;
+}
+
+#header a {
+    text-decoration: none;
+}
+
+.articleCaption {
+    font-family: FuturaPTBook;
+    font-size: 1.4vw;
+    letter-spacing: 0.01vw;
+    line-height: 2.2vw;
+    color: #aaa;
+
+    margin-top: -1vw;
+}

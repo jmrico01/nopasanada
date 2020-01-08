@@ -1,0 +1,62 @@
+#website {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 7.8125vw;
+    z-index: 10;
+    margin: auto;
+
+    color: #ffffff;
+    background-color: rgba(0%, 0%, 0%, 0%);
+}
+
+#headerContainer {
+    position: relative;
+    height: 100%;
+    margin-left:  3.125vw;
+    margin-right: 3.125vw;
+    overflow: hidden;
+}
+
+#headerLogo {
+    font-family: FuturaPTBold, sans-serif;
+    font-size: 2.35vw;
+    letter-spacing: -0.04vw;
+
+    position: absolute;
+    left: 3vw;
+    top: 2.4vw;
+}
+#headerLogo a {
+    color: inherit;
+}
+
+#headerCategories {
+    position: absolute;
+    left: 24.95vw;
+    right: 5.9vw;
+    top: 2.92vw;
+}
+
+.headerCategory {
+    font-family: FuturaPTDemi, sans-serif;
+    font-size: 1.15vw;
+    line-height: 1.2vw;
+    width: 9.375vw;
+
+    float: left;
+}
+.headerCategory a {
+    display: block;
+    height: 100%;
+}
+
+#categoryRight {
+    float: right;
+}

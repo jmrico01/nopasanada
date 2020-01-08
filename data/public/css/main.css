@@ -1,0 +1,222 @@
+#content {
+    visibility: hidden; /* hide wonky stuff until page loads */
+}
+
+#screenLanding {
+    position: relative;
+}
+
+#landingImageCycler {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+
+    z-index: -1;
+}
+#landingImageCyclerBackground {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+
+    z-index: -10;
+    background-color: #000000;
+}
+
+#landingImageCycler img {
+    position: absolute;
+    top: 0;
+    z-index: -4;
+
+    background-color: #000000;
+}
+#landingImageCycler img.transition {
+    z-index: -3;
+}
+#landingImageCycler img.active {
+    z-index: -2;
+}
+
+#featuredPretitle {
+    font-family: FuturaPTDemi, sans-serif;
+    font-size: 1.5vw;
+    letter-spacing: 0.15vw;
+    color: #fff;
+
+    margin-left: 7.7vw;
+    margin-top: 13.6vw;
+}
+
+#featuredTitle {
+    font-family: Miedinger, sans-serif;
+    font-size: 6.2vw;
+    letter-spacing: 0.2vw;
+    color: #fff;
+
+    float: left;
+    margin-left: 7.4vw;
+    margin-top: 0.95vw;
+}
+#featuredTitle b {
+    font-family: MiedingerBold, sans-serif;
+}
+#featuredTitle:hover {
+    color: #ddd;
+}
+
+#featuredDecoration {
+    font-family: MiedingerBold, sans-serif;
+    font-size: 3.1vw;
+    letter-spacing: 0.4vw;
+    color: #fff;
+
+    float: left;
+    margin-top: 1.6vw;
+    margin-left: 2.3vw;
+}
+
+#featuredText {
+    font-family: FuturaPTMedium, sans-serif;
+    font-size: 0.95vw;
+    letter-spacing: 0.05vw;
+    line-height: 1.6vw;
+    color: #fff;
+
+    clear: both;
+    overflow: hidden;
+    margin-left: 7.7vw;
+    padding-top: 1.8vw;
+}
+#featuredText1 {
+    float: left;
+    width: 17.1875vw;
+}
+#featuredText2 {
+    float: left;
+    width: 17.1875vw;
+    margin-left: 6.3vw;
+}
+
+/* ======================================== POSTERS ======================================== */
+
+#screenPosters {
+    position: relative;
+    overflow-x: hidden;
+    background-color: #000;
+}
+
+#contentList {
+    position: relative;
+    width: 1000vw; /* set by JS */
+    overflow: auto;
+    margin-top: 3.125vw;
+}
+
+.contentArrowContainer {
+    font-family: FuturaPTDemi, sans-serif;
+    font-size: 4.5vw;
+    color: #fff;
+
+    position: absolute;
+    top: 10.9375vw; /* header size + contentList margin-top */
+    height: 25vw;
+    z-index: 1;
+}
+.contentArrowContainer:hover {
+    color: #f00;
+    cursor: pointer;
+}
+#contentArrowLeftButton {
+    left: 0;
+    width: 7.8125vw;
+}
+#contentArrowRightButton {
+    left: 92.1875vw;
+    right: 0;
+}
+#contentArrowLeft {
+    margin-left: 4.95vw;
+    margin-top: 9.15vw;
+}
+#contentArrowRight {
+    margin-left: 1.4vw;
+    margin-top: 9.15vw;
+}
+
+.entry {
+    float: left;
+    width: 15.625vw;
+    -webkit-filter: brightness(100%);
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+.entry:hover {
+    -webkit-filter: brightness(80%);
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+.entryImage {
+    background-color: #231F20;
+
+    position: relative;
+    width: 100%;
+    height: 25vw;
+}
+
+.entryNumber {
+    font-family: Miedinger, sans-serif;
+    font-size: 3.35vw;
+    letter-spacing: -0.1vw;
+    color: #fff;
+    opacity: 1.0;
+
+    position: absolute;
+    left: 1.35vw;
+    top: 1.25vw;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+
+    /*visibility: hidden;*/
+}
+
+.entryPoster {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.entryText {
+    font-family: FuturaPTMedium, sans-serif;
+    font-size: 0.95vw;
+    letter-spacing: 0.05vw;
+    line-height: 1.6vw;
+    color: #fff;
+
+    width: 100%;
+    margin-top: 1vw;
+}
+
+.entrySpace {
+    float: left;
+    width: 1.5625vw;
+    height: 25vw;
+}
+
+.entrySpaceEdge {
+    float: left;
+    height: 25vw;
+    width: 7.8125vw;
+}

@@ -11,7 +11,9 @@ PROJECT_NAME = "nopasanada"
 
 DEPLOY_FILES = []
 
-LIBS_EXTERNAL = []
+LIBS_EXTERNAL = [
+	LibExternal("cpp-httplib", "cpp-httplib")
+]
 
 PATHS = {
 	"win32-vcvarsall": WIN32_VCVARSALL

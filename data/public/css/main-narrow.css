@@ -1,0 +1,74 @@
+body {
+    background-color: #000;
+}
+
+#header {
+	height: 15vw;
+}
+#headerLogo {
+	font-size: 8vw;
+    margin-left: 3vw;
+}
+#headerCategories {
+	visibility: hidden;
+}
+
+#featuredPretitle {
+    font-size: 4vw;
+    letter-spacing: 0.15vw;
+
+    margin-top: 30vw;
+    margin-left: 3vw;
+}
+
+#featuredTitle {
+    font-size: 8vw;
+    letter-spacing: 0.3vw;
+
+    margin-left: 3vw;
+}
+
+#featuredText {
+	visibility: hidden;
+}
+
+#screenPosters {
+    position: relative;
+    overflow-x: hidden;
+    background-color: #000;
+}
+
+#contentList {
+	width: auto;
+	height: auto;
+	overflow: hidden;
+	margin-top: 10vw;
+	padding-bottom: 10vw;
+}
+
+.contentArrowContainer {
+	visibility: hidden;
+}
+
+.entry {
+	width: 28vw;
+}
+
+.entryImage {
+    height: 40vw;
+}
+
+.entryText {
+	font-size: 2.5vw;
+	line-height: 3vw;
+	/*margin-bottom: 15vw;*/
+}
+
+.entrySpace {
+	height: 40vw;
+}
+
+.entrySpaceEdge {
+	width: 3.125vw;
+	height: 40vw;
+}
