@@ -1,0 +1,38 @@
+article {
+    featured {
+        pretitle ÚLTIMA HORA:
+        title ¿Qué pasó en Venezuela?
+        text1 LAS ÚLTIMAS 48 HORAS HAN SIDO EXPLOSIVAS EN VENEZUELA. ¿QUE HA PASADO?
+        text2 POR NEHOMAR A. HERNÁNDEZ
+        highlightColor #00ffff
+    }
+    media {
+        header(type=image) /images/202001/headers/que-paso-venezuela.jpg
+        poster(type=image) /images/202001/posters/que-paso-venezuela.jpg
+    }
+    tags noticias, home
+    title ¿Qué pasó en la Asamblea Nacional de Venezuela?
+    titlePoster
+    description {
+Las últimas 48 horas han sido explosivas en Venezuela. ¿Que ha pasado?
+    }
+    day 07
+    month 01
+    year 2020
+    color #00ffff
+    author Nehomar A. Hernández
+    subtitle Periodista actualmente en Venezuela, Nehomar A. Hernández nos explica que esta sucediendo en Venezuela en estos momentos.
+    text {
+<p><strong>&iquest;Que ha pasado?</strong></p>
+<p>Este domingo 5 de enero se ten&iacute;a prevista la realizaci&oacute;n de la elecci&oacute;n de la nueva junta directiva de la Asamblea Nacional (AN) de Venezuela. Juan Guaid&oacute;, quien hasta entonces ejerc&iacute;a la Presidencia del ente legislativo presentaba su nombre a la reelecci&oacute;n.</p>
+<p>La AN est&aacute; compuesta por un total de 167 diputados, y su Reglamento Interior y de Debate estipula que el qu&oacute;rum reglamentario para proceder a tal escogencia es de, al menos, la mitad m&aacute;s uno del total existente (85).&nbsp;</p>
+<p>En un clima marcado por la opacidad informativa y el bloqueo a los accesos del hemiciclo de sesiones de la AN, protagonizado por miembros de la Guardia Nacional Bolivariana (GNB), los diputados Luis Parra, Franklyn Duarte y Jos&eacute; Gregorio Noriega (opuestos a Guaid&oacute; y vinculados a esc&aacute;ndalos de corrupci&oacute;n y compra de voluntades por parte del chavismo) afirmaron alzarse con la mayor&iacute;a de los votos en la c&aacute;mara, para erigirse as&iacute; &ndash;pr&aacute;cticamente a la fuerza y contando incluso con los votos de la bancada del Partido Socialista Unido de Venezuela con m&aacute;s de 40 legisladores - como nuevos directivos del parlamento.&nbsp;</p>
+<p>En respuesta, y ante la imposibilidad de ingresar a la Asamblea, Juan Guaid&oacute; se traslad&oacute; junto a un grupo de diputados a la Sede del Diario El Nacional, en donde procedi&oacute; a realizar la votaci&oacute;n para la escogencia de la junta directiva.</p>
+<p>En este acto se incorpor&oacute;, a trav&eacute;s del voto electr&oacute;nico a distancia, a m&aacute;s de 20 diputados que al d&iacute;a de hoy est&aacute;n fuera de Venezuela por persecuci&oacute;n pol&iacute;tica, sumando as&iacute; 100 diputados a favor de la reelecci&oacute;n de Juan Guaid&oacute; como presidente, as&iacute; como la elecci&oacute;n de Juan Pablo Guanipa y Carlos Berrizbeitia en las vicepresidencias del ente legislativo venezolano.&nbsp;</p>
+<p>Al llegar el martes 7 de enero el propio Guaid&oacute; y los diputados que le respaldan optaron por desplazarse al Capitolio, logrando superar el piquete militar para entrar a empellones al Hemiciclo de sesiones.</p>
+<p>Parra y los otros parlamentarios que apoyaron su apuntalamiento como Presidente de la AN (incluyendo a los del chavismo) optaron por retirarse r&aacute;pidamente del sitio. Del n&uacute;mero de apoyos con los que cuenta hasta el d&iacute;a de hoy no hay claridad. Sin embargo, Guaid&oacute; ha logrado sumar con quienes est&aacute;n en Venezuela y fuera de ella un n&uacute;mero redondo de 100 Diputados favorables a su reelecci&oacute;n.&nbsp;</p>
+<p><strong>&iquest;Qui&eacute;n controlar&aacute; en definitiva el Hemiciclo en las pr&oacute;ximas semanas?</strong></p>
+<p>Aunque Guaid&oacute; parece superar en el conteo a la maniobra chavista para tomar el control del parlamento, la realidad nos habla de que el manejo del mismo puede depender, en lo sucesivo, m&aacute;s de un asunto de fuerza pura y dura que de apego a la l&oacute;gica y los reglamentos.</p>
+<p>Veremos&hellip;</p>
+    }
+}
