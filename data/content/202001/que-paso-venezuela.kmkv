@@ -1,28 +1,28 @@
-article {
-    featured {
-        pretitle ÚLTIMA HORA:
-        title ¿Qué pasó en Venezuela?
-        text1 LAS ÚLTIMAS 48 HORAS HAN SIDO EXPLOSIVAS EN VENEZUELA. ¿QUE HA PASADO?
-        text2 POR NEHOMAR A. HERNÁNDEZ
-        highlightColor #00ffff
-    }
-    media {
-        header(type=image) /images/202001/headers/que-paso-venezuela.jpg
-        poster(type=image) /images/202001/posters/que-paso-venezuela.jpg
-    }
-    tags noticias, home
-    title ¿Qué pasó en la Asamblea Nacional de Venezuela?
-    titlePoster
-    description {
+type article
+featured{kmkv} {
+    pretitle ÚLTIMA HORA:
+    title ¿Qué pasó en Venezuela?
+    text1 LAS ÚLTIMAS 48 HORAS HAN SIDO EXPLOSIVAS EN VENEZUELA. ¿QUE HA PASADO?
+    text2 POR NEHOMAR A. HERNÁNDEZ
+    highlightColor #00ffff
+}
+media{kmkv} {
+    header{image} /images/202001/headers/que-paso-venezuela.jpg
+    poster{image} /images/202001/posters/que-paso-venezuela.jpg
+}
+tags noticias, home
+title ¿Qué pasó en la Asamblea Nacional de Venezuela?
+titlePoster
+description {
 Las últimas 48 horas han sido explosivas en Venezuela. ¿Que ha pasado?
-    }
-    day 07
-    month 01
-    year 2020
-    color #00ffff
-    author Nehomar A. Hernández
-    subtitle Periodista actualmente en Venezuela, Nehomar A. Hernández nos explica que esta sucediendo en Venezuela en estos momentos.
-    text {
+}
+day 07
+month 01
+year 2020
+color #00ffff
+author Nehomar A. Hernández
+subtitle Periodista actualmente en Venezuela, Nehomar A. Hernández nos explica que esta sucediendo en Venezuela en estos momentos.
+text {
 <p><strong>&iquest;Que ha pasado?</strong></p>
 <p>Este domingo 5 de enero se ten&iacute;a prevista la realizaci&oacute;n de la elecci&oacute;n de la nueva junta directiva de la Asamblea Nacional (AN) de Venezuela. Juan Guaid&oacute;, quien hasta entonces ejerc&iacute;a la Presidencia del ente legislativo presentaba su nombre a la reelecci&oacute;n.</p>
 <p>La AN est&aacute; compuesta por un total de 167 diputados, y su Reglamento Interior y de Debate estipula que el qu&oacute;rum reglamentario para proceder a tal escogencia es de, al menos, la mitad m&aacute;s uno del total existente (85).&nbsp;</p>
@@ -34,5 +34,4 @@ Las últimas 48 horas han sido explosivas en Venezuela. ¿Que ha pasado?
 <p><strong>&iquest;Qui&eacute;n controlar&aacute; en definitiva el Hemiciclo en las pr&oacute;ximas semanas?</strong></p>
 <p>Aunque Guaid&oacute; parece superar en el conteo a la maniobra chavista para tomar el control del parlamento, la realidad nos habla de que el manejo del mismo puede depender, en lo sucesivo, m&aacute;s de un asunto de fuerza pura y dura que de apego a la l&oacute;gica y los reglamentos.</p>
 <p>Veremos&hellip;</p>
-    }
 }
