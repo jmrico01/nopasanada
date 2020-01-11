@@ -18,8 +18,8 @@ global_var const uint64 VALUE_MAX_LENGTH = KILOBYTES(32);
 thread_local FixedArray<char, VALUE_MAX_LENGTH> kmkvValue_;
 
 template <typename Allocator>
-internal bool SearchAndReplace(const Array<char>& string,
-	const HashTable<DynamicArray<char, Allocator>>& items, DynamicArray<char, Allocator>* outString)
+internal bool SearchAndReplace(const Array<char>& string, const HashTable<Array<char>>& items,
+	DynamicArray<char, Allocator>* outString)
 {
 	outString->Clear();
 
@@ -31,13 +31,13 @@ internal bool SearchAndReplace(const Array<char>& string,
 		if (insideBracket) {
 			if (string[i] == '}') {
 				if (oneBracket) {
-					const DynamicArray<char, Allocator>* replaceValuePtr = items.GetValue(replaceKey);
+					const Array<char>* replaceValuePtr = items.GetValue(replaceKey);
 					if (replaceValuePtr == nullptr) {
 						fprintf(stderr, "Failed to find replace key %.*s\n",
 							(int)replaceKey.string.size, replaceKey.string.data);
 						return false;
 					}
-					const DynamicArray<char, Allocator>& replaceValue = *replaceValuePtr;
+					const Array<char>& replaceValue = *replaceValuePtr;
 					// TODO replace with Append(array)
 					for (uint64 j = 0; j < replaceValue.size; j++) {
 						outString->Append(replaceValue[j]);
@@ -278,7 +278,7 @@ int main(int argc, char** argv)
 			return;
 		}
 
-		const DynamicArray<char, StandardAllocator>* type = GetKmkvItemStrValue(kmkv, "type");
+		const auto* type = GetKmkvItemStrValue(kmkv, "type");
 		if (type == nullptr) {
 			fprintf(stderr, "Entry missing string \"type\": %.*s\n",
 				(int)filePathArray.size, filePathArray.data);
@@ -303,26 +303,88 @@ int main(int argc, char** argv)
 		templateString.data = (char*)templateFile.data;
 		templateString.size = templateFile.size;
 
-		HashTable<DynamicArray<char>> templateItems;
-		templateItems.Add("description", ToString("description"));
-		templateItems.Add("url", ToString("/content/202001/que-paso-venezuela"));
+		HashTable<Array<char>> templateItems;
+		templateItems.Add("url", ToString(req.path.c_str()));
+
+		const auto* media = GetKmkvItemStrValue(kmkv, "media");
 		templateItems.Add("image", ToString("/images/202001/que-paso-venezuela.jpg"));
-		templateItems.Add("color", ToString("#ff0000"));
-		templateItems.Add("title", ToString("The Title of the Article"));
-		templateItems.Add("subtitle", ToString("The article's subtitle, and it's probably longer than the title."));
-		templateItems.Add("subtextLeft", ToString("POR JOSE M RICO"));
-		templateItems.Add("subtextRight", ToString("10 DE ENERO"));
-		templateItems.Add("text", ToString("<p><strong>&iquest;Que ha pasado?</strong></p>"
-"<p>Este domingo 5 de enero se ten&iacute;a prevista la realizaci&oacute;n de la elecci&oacute;n de la nueva junta directiva de la Asamblea Nacional (AN) de Venezuela. Juan Guaid&oacute;, quien hasta entonces ejerc&iacute;a la Presidencia del ente legislativo presentaba su nombre a la reelecci&oacute;n.</p>"
-"<p>La AN est&aacute; compuesta por un total de 167 diputados, y su Reglamento Interior y de Debate estipula que el qu&oacute;rum reglamentario para proceder a tal escogencia es de, al menos, la mitad m&aacute;s uno del total existente (85).&nbsp;</p>"
-"<p>En un clima marcado por la opacidad informativa y el bloqueo a los accesos del hemiciclo de sesiones de la AN, protagonizado por miembros de la Guardia Nacional Bolivariana (GNB), los diputados Luis Parra, Franklyn Duarte y Jos&eacute; Gregorio Noriega (opuestos a Guaid&oacute; y vinculados a esc&aacute;ndalos de corrupci&oacute;n y compra de voluntades por parte del chavismo) afirmaron alzarse con la mayor&iacute;a de los votos en la c&aacute;mara, para erigirse as&iacute; &ndash;pr&aacute;cticamente a la fuerza y contando incluso con los votos de la bancada del Partido Socialista Unido de Venezuela con m&aacute;s de 40 legisladores - como nuevos directivos del parlamento.&nbsp;</p>"
-"<p>En respuesta, y ante la imposibilidad de ingresar a la Asamblea, Juan Guaid&oacute; se traslad&oacute; junto a un grupo de diputados a la Sede del Diario El Nacional, en donde procedi&oacute; a realizar la votaci&oacute;n para la escogencia de la junta directiva.</p>"
-"<p>En este acto se incorpor&oacute;, a trav&eacute;s del voto electr&oacute;nico a distancia, a m&aacute;s de 20 diputados que al d&iacute;a de hoy est&aacute;n fuera de Venezuela por persecuci&oacute;n pol&iacute;tica, sumando as&iacute; 100 diputados a favor de la reelecci&oacute;n de Juan Guaid&oacute; como presidente, as&iacute; como la elecci&oacute;n de Juan Pablo Guanipa y Carlos Berrizbeitia en las vicepresidencias del ente legislativo venezolano.&nbsp;</p>"
-"<p>Al llegar el martes 7 de enero el propio Guaid&oacute; y los diputados que le respaldan optaron por desplazarse al Capitolio, logrando superar el piquete militar para entrar a empellones al Hemiciclo de sesiones.</p>"
-"<p>Parra y los otros parlamentarios que apoyaron su apuntalamiento como Presidente de la AN (incluyendo a los del chavismo) optaron por retirarse r&aacute;pidamente del sitio. Del n&uacute;mero de apoyos con los que cuenta hasta el d&iacute;a de hoy no hay claridad. Sin embargo, Guaid&oacute; ha logrado sumar con quienes est&aacute;n en Venezuela y fuera de ella un n&uacute;mero redondo de 100 Diputados favorables a su reelecci&oacute;n.&nbsp;</p>"
-"<p><strong>&iquest;Qui&eacute;n controlar&aacute; en definitiva el Hemiciclo en las pr&oacute;ximas semanas?</strong></p>"
-"<p>Aunque Guaid&oacute; parece superar en el conteo a la maniobra chavista para tomar el control del parlamento, la realidad nos habla de que el manejo del mismo puede depender, en lo sucesivo, m&aacute;s de un asunto de fuerza pura y dura que de apego a la l&oacute;gica y los reglamentos.</p>"
-"<p>Veremos&hellip;</p>"));
+
+		const auto* description = GetKmkvItemStrValue(kmkv, "description");
+		if (description == nullptr) {
+			fprintf(stderr, "Entry missing string \"description\": %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		templateItems.Add("description", description->ToArray());
+
+		const auto* color = GetKmkvItemStrValue(kmkv, "color");
+		if (color == nullptr) {
+			fprintf(stderr, "Entry missing string \"color\": %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		templateItems.Add("color", color->ToArray());
+
+		const auto* title = GetKmkvItemStrValue(kmkv, "title");
+		if (title == nullptr) {
+			fprintf(stderr, "Entry missing string \"title\": %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		templateItems.Add("title", title->ToArray());
+
+		const auto* subtitle = GetKmkvItemStrValue(kmkv, "subtitle");
+		if (subtitle == nullptr) {
+			fprintf(stderr, "Entry missing string \"subtitle\": %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		templateItems.Add("subtitle", subtitle->ToArray());
+
+		const auto* day = GetKmkvItemStrValue(kmkv, "day");
+		if (day == nullptr) {
+			fprintf(stderr, "Entry missing string \"day\": %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		const auto* month = GetKmkvItemStrValue(kmkv, "month");
+		if (month == nullptr) {
+			fprintf(stderr, "Entry missing string \"month\": %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		const auto* year = GetKmkvItemStrValue(kmkv, "year");
+		if (year == nullptr) {
+			fprintf(stderr, "Entry missing string \"year\": %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		templateItems.Add("subtextRight", ToString("10 DE ENERO")); // TODO build date
+
+		const auto* author = GetKmkvItemStrValue(kmkv, "author"); // TODO different per entry type
+		if (author == nullptr) {
+			fprintf(stderr, "Entry missing string \"author\": %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		templateItems.Add("subtextLeft", ToString("POR JOSE M RICO")); // TODO build this
+
+		const auto* text = GetKmkvItemStrValue(kmkv, "text"); // TODO different per entry type
+		if (text == nullptr) {
+			fprintf(stderr, "Entry missing string \"text\": %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		templateItems.Add("text", text->ToArray());
 
 		DynamicArray<char> outString;
 		if (!SearchAndReplace(templateString, templateItems, &outString)) {
