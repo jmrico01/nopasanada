@@ -12,6 +12,9 @@ global_var const int HTTP_STATUS_ERROR = 500;
 
 global_var const int SERVER_PORT = 6060;
 
+global_var const uint64 VALUE_MAX_LENGTH = KILOBYTES(32);
+thread_local FixedArray<char, VALUE_MAX_LENGTH> kmkvValue_;
+
 template <typename Allocator>
 internal bool LoadEntireFile(const char* filePath, Allocator* allocator, Array<uint8>* outFile)
 {
@@ -121,12 +124,12 @@ internal bool LoadKmkvRecursive(Array<char> string, Allocator* allocator,
 	HashTable<KmkvItem<Allocator>>* outHashTable)
 {
 	const uint64 KEYWORD_MAX_LENGTH = 32;
-	const uint64 VALUE_MAX_LENGTH = KILOBYTES(32);
 	FixedArray<char, KEYWORD_MAX_LENGTH> keyword;
-	FixedArray<char, VALUE_MAX_LENGTH> value;
 	KmkvItem<Allocator> kmkvValueItem;
 	while (true) {
-		int read = ReadNextKeywordValue(string, &keyword, &value);
+		// TODO sometimes string changes after this function call. Hmmm...
+		// Maybe it's when value and string are pointing to the same buffer area thing.
+		int read = ReadNextKeywordValue(string, &keyword, &kmkvValue_);
 		if (read < 0) {
 			fprintf(stderr, "kmkv file keyword/value error\n");
 			return false;
@@ -136,7 +139,8 @@ internal bool LoadKmkvRecursive(Array<char> string, Allocator* allocator,
 		}
 		string.size -= read;
 		string.data += read;
-		printf("keyword %.*s, value %.*s\n", (int)keyword.size, keyword.data, (int)value.size, value.data);
+		printf("keyword %.*s, value %.*s\n", (int)keyword.size, keyword.data,
+			(int)kmkvValue_.size, kmkvValue_.data);
 
 		kmkvValueItem.keywordTag.Clear();
 		bool keywordHasTag = false;
@@ -176,7 +180,7 @@ internal bool LoadKmkvRecursive(Array<char> string, Allocator* allocator,
 				return false;
 			}
 			new (kmkvValueItem.hashTablePtr) HashTable<KmkvItem<Allocator>>();
-			LoadKmkvRecursive(value.ToArray(), allocator, kmkvValueItem.hashTablePtr);
+			LoadKmkvRecursive(kmkvValue_.ToArray(), allocator, kmkvValueItem.hashTablePtr);
 		}
 		else {
 			kmkvValueItem.isString = true;
@@ -185,7 +189,7 @@ internal bool LoadKmkvRecursive(Array<char> string, Allocator* allocator,
 			if (kmkvValueItem.dynamicStringPtr == nullptr) {
 				return false;
 			}
-			new (kmkvValueItem.dynamicStringPtr) DynamicArray<char>(value.ToArray());
+			new (kmkvValueItem.dynamicStringPtr) DynamicArray<char>(kmkvValue_.ToArray());
 		}
 		Array<char> keywordArray = keyword.ToArray();
 		if (keywordHasTag) {
@@ -290,7 +294,6 @@ int main(int argc, char** argv)
 "<p>Veremos&hellip;</p>"));
 
 		DynamicArray<char> outString;
-		defer(outString.Free());
 		if (!SearchAndReplace(templateString, templateItems, &outString)) {
 			fprintf(stderr, "Failed to search-and-replace to template file %s\n", templateFilePath);
 			res.status = HTTP_STATUS_ERROR;
