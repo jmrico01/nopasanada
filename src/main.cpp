@@ -1,3 +1,4 @@
+#include <cassert>
 #include <fstream>
 #include <httplib.h>
 #include <ios>
@@ -5,6 +6,7 @@
 
 #include <km_common/km_defines.h>
 #include <km_common/km_lib.h>
+#include <km_common/km_os.h>
 #include <km_common/km_string.h>
 
 global_var const int HTTP_STATUS_OK    = 200;
@@ -14,32 +16,6 @@ global_var const int SERVER_PORT = 6060;
 
 global_var const uint64 VALUE_MAX_LENGTH = KILOBYTES(32);
 thread_local FixedArray<char, VALUE_MAX_LENGTH> kmkvValue_;
-
-template <typename Allocator>
-internal bool LoadEntireFile(const char* filePath, Allocator* allocator, Array<uint8>* outFile)
-{
-	std::ifstream file(filePath, std::ios::binary | std::ios::ate);
-	std::streamsize size = file.tellg();
-	file.seekg(0, std::ios::beg);
-
-	outFile->data = (uint8*)allocator->Allocate(size);
-	if (outFile->data == nullptr) {
-		return false;
-	}
-	if (!file.read((char*)outFile->data, size)) {
-		allocator->Free(outFile->data);
-		return false;
-	}
-
-	outFile->size = size;
-	return true;
-}
-
-template <typename Allocator>
-internal void FreeFile(const Array<uint8>& outFile, Allocator* allocator)
-{
-	allocator->Free(outFile.data);
-}
 
 template <typename Allocator>
 internal bool SearchAndReplace(const Array<char>& string,
@@ -62,6 +38,7 @@ internal bool SearchAndReplace(const Array<char>& string,
 						return false;
 					}
 					const DynamicArray<char, Allocator>& replaceValue = *replaceValuePtr;
+					// TODO replace with Append(array)
 					for (uint64 j = 0; j < replaceValue.size; j++) {
 						outString->Append(replaceValue[j]);
 					}
@@ -118,6 +95,34 @@ struct KmkvItem
 	DynamicArray<char, Allocator>* dynamicStringPtr;
 	HashTable<KmkvItem<Allocator>>* hashTablePtr;
 };
+
+template <typename Allocator>
+const DynamicArray<char, Allocator>* GetKmkvItemStrValue(
+	const HashTable<KmkvItem<Allocator>>& kmkv, const HashKey& itemKey)
+{
+	const KmkvItem<Allocator>* itemValuePtr = kmkv.GetValue(itemKey);
+	if (itemValuePtr == nullptr) {
+		return nullptr;
+	}
+	if (!itemValuePtr->isString) {
+		return nullptr;
+	}
+	return itemValuePtr->dynamicStringPtr;
+}
+
+template <typename Allocator>
+const HashTable<KmkvItem<Allocator>>* GetKmkvItemObjValue(
+	const HashTable<KmkvItem<Allocator>>& kmkv, const HashKey& itemKey)
+{
+	KmkvItem<Allocator>* itemValuePtr = kmkv.GetValue(itemKey);
+	if (itemValuePtr == nullptr) {
+		return nullptr;
+	}
+	if (itemValuePtr->isString) {
+		return nullptr;
+	}
+	return itemValuePtr->hashTablePtr;
+}
 
 template <typename Allocator>
 internal bool LoadKmkvRecursive(Array<char> string, Allocator* allocator,
@@ -202,12 +207,12 @@ internal bool LoadKmkvRecursive(Array<char> string, Allocator* allocator,
 }
 
 template <typename Allocator>
-internal bool LoadKmkv(const char* filePath, Allocator* allocator,
+internal bool LoadKmkv(const Array<char>& filePath, Allocator* allocator,
 	HashTable<KmkvItem<Allocator>>* outHashTable)
 {
-	Array<uint8> kmkvFile;
-	if (!LoadEntireFile(filePath, allocator, &kmkvFile)) {
-		fprintf(stderr, "Failed to load file %s\n", filePath);
+	Array<uint8> kmkvFile = LoadEntireFile(filePath, allocator);
+	if (kmkvFile.data == nullptr) {
+		fprintf(stderr, "Failed to load file %.*s\n", (int)filePath.size, filePath.data);
 		return false;
 	}
 	defer(FreeFile(kmkvFile, allocator));
@@ -224,15 +229,26 @@ int main(int argc, char** argv)
 {
 	httplib::Server httpServer;
 
-	bool result = httpServer.set_base_dir("./data/public");
+	FixedArray<char, PATH_MAX_LENGTH> rootPath = GetExecutablePath(&defaultAllocator_);
+	if (rootPath.size == 0) {
+		fprintf(stderr, "Failed to get executable path\n");
+		return 1;
+	}
+	rootPath.RemoveLast();
+	rootPath.size = GetLastOccurrence(rootPath.ToArray(), '/');
+	printf("Root path: %.*s\n", (int)rootPath.size, rootPath.data);
+
+	FixedArray<char, PATH_MAX_LENGTH> publicPath = rootPath;
+	publicPath.Append(ToString("data/public"));
+	publicPath.Append('\0');
+	bool result = httpServer.set_base_dir(publicPath.data);
 	if (!result) {
-		fprintf(stderr, "set_base_dir failed\n");
+		fprintf(stderr, "set_base_dir failed on dir %s\n", publicPath.data);
 		return 1;
 	}
 
 	// Backwards compatibility =====================================================================
 	httpServer.Get("/el-caso-diet-prada", [](const httplib::Request& req, httplib::Response& res) {
-		printf("article get: %s\n", req.path.c_str());
 		res.set_redirect("/content/201908/el-caso-diet-prada");
 	});
 	httpServer.Get("/la-cerveza-si-es-cosa-de-mujeres", [](const httplib::Request& req, httplib::Response& res) {
@@ -246,7 +262,7 @@ int main(int argc, char** argv)
 	});
 	// =============================================================================================
 
-	httpServer.Get("/content/[^/]+/.+", [](const httplib::Request& req, httplib::Response& res) {
+	httpServer.Get("/content/[^/]+/.+", [rootPath](const httplib::Request& req, httplib::Response& res) {
 		std::string filePath = "./data" + req.path;
 		if (filePath[filePath.size() - 1] == '/') {
 			filePath.pop_back();
@@ -254,16 +270,31 @@ int main(int argc, char** argv)
 		filePath += ".kmkv";
 
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
-		if (!LoadKmkv(filePath.c_str(), &defaultAllocator_, &kmkv)) {
-			fprintf(stderr, "LoadKmkv failed for %s\n", filePath.c_str());
+		Array<char> filePathArray = ToString(filePath.c_str());
+		if (!LoadKmkv(filePathArray, &defaultAllocator_, &kmkv)) {
+			fprintf(stderr, "LoadKmkv failed for %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 
-		Array<uint8> templateFile;
-		const char* templateFilePath = "./data/content/templates/article.html";
-		if (!LoadEntireFile(templateFilePath, &defaultAllocator_, &templateFile)) {
-			fprintf(stderr, "Failed to load template file at %s\n", templateFilePath);
+		const DynamicArray<char, StandardAllocator>* type = GetKmkvItemStrValue(kmkv, "type");
+		if (type == nullptr) {
+			fprintf(stderr, "Entry missing string \"type\": %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		FixedArray<char, PATH_MAX_LENGTH> templatePath = rootPath;
+		templatePath.Append(ToString("data/content/templates/"));
+		templatePath.Append(type->ToArray());
+		templatePath.Append(ToString(".html"));
+		templatePath.Append('\0');
+		Array<uint8> templateFile = LoadEntireFile(templatePath.ToArray(), &defaultAllocator_);
+		if (templateFile.data == nullptr) {
+			fprintf(stderr, "Failed to load template file at %.*s\n",
+				(int)templatePath.size, templatePath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -295,7 +326,8 @@ int main(int argc, char** argv)
 
 		DynamicArray<char> outString;
 		if (!SearchAndReplace(templateString, templateItems, &outString)) {
-			fprintf(stderr, "Failed to search-and-replace to template file %s\n", templateFilePath);
+			fprintf(stderr, "Failed to search-and-replace to template file %.*s\n",
+				(int)templatePath.size, templatePath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -329,4 +361,5 @@ int main(int argc, char** argv)
 
 #include <km_common/km_lib.cpp>
 #include <km_common/km_memory.cpp>
+#include <km_common/km_os.cpp>
 #include <km_common/km_string.cpp>

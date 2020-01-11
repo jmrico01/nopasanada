@@ -9,6 +9,8 @@ class LibExternal:
 
 PROJECT_NAME = "nopasanada"
 
+COPY_DIRS = {}
+
 DEPLOY_FILES = []
 
 LIBS_EXTERNAL = [
