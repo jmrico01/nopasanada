@@ -46,10 +46,10 @@
 .articleSubtext {
     font-size: 10pt;
 }
-.articleAuthor {
+.articleSubtextLeft {
     width: auto;
 }
-.articleDate {
+.articleSubtextRight {
     float: right;
 }
 

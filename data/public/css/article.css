@@ -105,11 +105,11 @@
 
     padding-top: 3.2vw;
 }
-.articleAuthor {
+.articleSubtextLeft {
     float: left;
     width: 20.3vw;
 }
-.articleDate {
+.articleSubtextRight {
     float: left;
 }
 
