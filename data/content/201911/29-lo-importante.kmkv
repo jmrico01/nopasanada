@@ -1,0 +1,140 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>29-11-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/29-lo-importante.jpg
+    poster{image} /images/201911/posters/29-lo-importante.jpg
+    header-desktop1{image} /images/201911/29-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201911/29-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201911/29-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201911/29-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201911/29-lo-importante/square1.jpg
+    header-mobile2{image} /images/201911/29-lo-importante/square2.jpg
+    header-mobile3{image} /images/201911/29-lo-importante/square3.jpg
+    header-mobile4{image} /images/201911/29-lo-importante/square4.jpg
+}
+tags noticias
+title Lo Importante: 29-11-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 29
+month 11
+year 2019
+color #FCC285
+customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-26-11-19-e975fb"" width="100%" frameborder="0" scrolling="no"></iframe>
+title1 Ataque contra subestación eléctrica marca nueva jornada violenta en Chile
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La irrupci&oacute;n de manifestantes a una subestaci&oacute;n el&eacute;ctrica de Copiap&oacute; (norte) que termin&oacute; con una decena de veh&iacute;culos quemados marc&oacute; una nueva noche con incidentes violentos en Chile, tras m&aacute;s de un mes del inicio de un estallido social que el gobierno sigue sin controlar.</p>
+<p>Al incendio de veh&iacute;culos en la planta de la compa&ntilde;&iacute;a el&eacute;ctrica Emelat de Copiap&oacute;, que no gener&oacute; problemas de suministro, se sumaron saqueos en otras ciudades, en especial en la Cisterna, en la periferia de Santiago, donde nuevos saqueos sumaron destrucci&oacute;n a una zona castigada por delincuentes a los que la convulsi&oacute;n social facilita su accionar.</p>
+<p>Si bien cayeron los eventos graves de 31 a 19 desde la madrugada del jueves a la del viernes, Carabineros en su primer informe del d&iacute;a destaca "8 saqueos a nivel nacional", la mayor&iacute;a en Santiago.</p>
+<p>En tanto, cuatro comisarias de Santiago y una de Antofagasta (norte) fueron atacadas con un saldo de 31 efectivos heridos, seg&uacute;n el mismo reporte de la Polic&iacute;a.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Desde el inicio de las manifestaciones el 18 de octubre, cuando las protestas de estudiantes por el alza en las tarifas del ferrocarril metropolitano desembocaron en la mayor crisis social que vive el pa&iacute;s desde el retorno a la democracia en 1990, se reportan casi 7.000 eventos violentos a lo largo del pa&iacute;s con 17.834 personas detenidas hasta el jueves.</p>
+<p>Solo por saqueos la polic&iacute;a ha detenido a 4.857 personas.</p>
+<p>El jueves el gobierno del derechista Sebasti&aacute;n Pi&ntilde;era se reuni&oacute; por primera vez con organizaciones sociales para alcanzar acuerdos ante la implementaci&oacute;n de una agenda social que busca desactivar la crisis.</p>
+<p>A mediados de noviembre, el Congreso lleg&oacute; a un hist&oacute;rico acuerdo para llevar a plebiscito en abril el cambio de la Constituci&oacute;n heredada de la dictadura de Augusto Pinochet (1973-1990), una de las exigencias de los manifestantes.</p>
+<p>Asimismo, avanza en el Congreso un paquete de proyectos de ley lanzados por Pi&ntilde;era para responder a otras demandas sociales.</p>
+<p>El aumento a las pensiones m&aacute;s bajas ya fue aprobado. Sin embargo, las denuncias sobre violaciones a los derechos humanos por parte de las fuerzas policiales y la falta de anuncios sobre cambios estructurales en el criticado sistema privado de pensiones, tambi&eacute;n heredado de Pinochet, mantienen en las calles a los manifestantes.</p>
+}
+title2 Incontrolables corrientes migratorias dificultan a Honduras cumplir acuerdo con EEUU
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>"Ni Donald Trump los ha podido parar, no digamos cuatro polic&iacute;as", se queja un agente hondure&ntilde;o mientras revisan las identificaciones a 30 personas procedentes de &Aacute;frica y Hait&iacute; que entraron a Honduras desde Nicaragua, rumbo a M&eacute;xico y Estados Unidos.</p>
+<p>Tras ingresar por un "punto ciego" cruzando las aguas del fronterizo r&iacute;o Guasaule, los migrantes caminaban por la carretera cuando chocaron con un ret&eacute;n frente a la estaci&oacute;n policial de San Jer&oacute;nimo, a unos 10 km de la aduana de Guasaule.</p>
+<p>"Hemos venido por monta&ntilde;as. Yo vengo desde Brasil", cuenta a la AFP el haitiano Bearthony Estiverne, de 31 a&ntilde;os, mientras hace fila para que los polic&iacute;as le revisen su identidad.</p>
+<p>Explica que todos llegan en avi&oacute;n a Brasil, Chile, Uruguay y otros pa&iacute;ses suramericanos, donde inician la traves&iacute;a.</p>
+<p>Despu&eacute;s de la revisi&oacute;n de los papeles, Bearthony sube con los dem&aacute;s a un bus amarillo de la ruta Choluteca, El Pac&oacute;n, Concepci&oacute;n de Mar&iacute;a, en el sur hondure&ntilde;o.</p>
+<p>Bearthony es apenas uno de los miles de migrantes de pa&iacute;ses africanos, asi&aacute;ticos, o de Cuba y Hait&iacute;, que atraviesan Am&eacute;rica Central en su ruta a Estados Unidos y M&eacute;xico.</p>
+<p>Honduras, al igual que El Salvador y Guatemala, firm&oacute; un acuerdo migratorio con Washington en el que se comprometen a recibirlos mientras tramitan su solicitud de asilo en Estados Unidos.</p>
+<p>Los tres pa&iacute;ses centroamericanos son tambi&eacute;n responsables de gran parte de la migraci&oacute;n irregular al pa&iacute;s del norte, adonde van huyendo de la violencia y la pobreza que viven en sus lugares de origen.</p>
+<p><strong>Salvoconducto</strong></p>
+<p>M&aacute;s adelante lo paran otros polic&iacute;as del ret&eacute;n de Namasig&uuml;e. "Vamos a consultar si los dejamos pasar o se tienen que regresar para Nicaragua", dice a la AFP uno de los agentes. Tras unos minutos autorizan seguir al veh&iacute;culo pero tras avanzar unos kil&oacute;metros tienen que sortear un tercer ret&eacute;n, este de militares.</p>
+<p>En una oficina cercana al parque central de la comunidad de Choluteca, un agente de migraci&oacute;n les abre un port&oacute;n de hierro. En un garaje les llena una ficha y le da un salvoconducto por 183 d&oacute;lares a cada uno.</p>
+<p>"Es la ley de Migraci&oacute;n que faculta a hacer ese cobro", dijo a la AFP el agente migratorio.</p>
+<p>Cuando el grupo sale del garaje, la hondure&ntilde;a Martha Suyapa Castillo ofrece albergue a una pareja con dos ni&ntilde;os peque&ntilde;os por dos d&oacute;lares la noche. "Hay que ser solidarios, todos andamos en el mundo", argumenta a la AFP.</p>
+<p>A Martha le tradujo Wood Stevenson Pierre, un locuaz haitiano de 28 a&ntilde;os que lleg&oacute; a Choluteca un d&iacute;a antes. Cientos de for&aacute;neos deambulan por las calles de Choluteca o se sientan en el parque.</p>
+<p>"Yo vengo de Chile, voy para M&eacute;xico, somos un grupo de haitianos, pero hay diferentes grupos aqu&iacute;, hay de &Aacute;frica, como Ghana, Etiop&iacute;a Banglad&eacute;s&hellip;", explica Wood.</p>
+<p>"Algunos quieren ir a Estados Unidos pero otros se quieren quedar en M&eacute;xico porque entrar a Estados Unidos no es cosa f&aacute;cil, hay que esperar" para cruzar, se consuela.</p>
+<p>La traves&iacute;a fue de "d&iacute;as muy dif&iacute;ciles, pasamos varios pa&iacute;ses, yo vengo de Chile, cruc&eacute; a Per&uacute;, a Ecuador en bus; Colombia es el momento m&aacute;s dif&iacute;cil, hay que caminar como siete, ocho d&iacute;as", repasa Wood, que tiene a su esposa y su hija de dos a&ntilde;os alojadas en un hotel de Choluteca.</p>
+<p>Edwin Castillo, un taxista de 21 a&ntilde;os, muestra uno de los "puntos ciegos": "Palo Verde", un caser&iacute;o de casas desperdigadas entre pastizales con poca vegetaci&oacute;n ba&ntilde;ado por el fronterizo r&iacute;o Guasaule, con m&aacute;s rocas y arena que agua.</p>
+<p>Los migrantes "pasan de madrugada, aunque a veces vienen tres o cuatro en el d&iacute;a", dice Edwin se&ntilde;alando el camino de entrada.</p>
+<p><strong>"Pa&iacute;s seguro" en dudas</strong></p>
+<p>&lsquo;El convenio migratorio con Washington obliga a las autoridades hondure&ntilde;as a retener a los migrantes y a recibir a los que sean devueltos desde M&eacute;xico y Estados Unidos.</p>
+<p>"No hay log&iacute;stica para tener a esa gente aqu&iacute;, son miles los que pasan", advierte el polic&iacute;a de San Jer&oacute;nimo.</p>
+<p>El presidente Juan Orlando Hern&aacute;ndez asegura que "solo el a&ntilde;o anterior (2018) pasaron m&aacute;s de 70.000 personas" por Honduras.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Ricardo Puerta, un soci&oacute;logo experto en el fen&oacute;meno migratorio de nacionalidades cubana, estadounidense y hondure&ntilde;a, considera que el cumplimiento del acuerdo resulta "casi imposible" para Honduras.</p>
+<p>Argumenta que el costo de albergar a miles de migrantes hasta por cinco a&ntilde;os es oneroso, lo mismo que "el costo social" por el descontento que crear&aacute;n los "privilegios" que recibir&iacute;an, como pensiones, educaci&oacute;n y salud, durante la larga espera del asilo.</p>
+<p>De Honduras salen cada d&iacute;a de 300 a 400 personas hacia Estados Unidos, huyendo de la pobreza que afecta al 70% de sus nueve millones de habitantes y de las violentas pandillas y narcotraficantes, seg&uacute;n organismos de apoyo a los migrantes.</p>
+<p>En octubre de 2018 surgieron en Honduras las caravanas migratorias que hasta abril sumaron unas 8.000 personas que intentaron llegar a Estados Unidos.</p>
+<p>Las corrientes masivas indignaron al presidente estadounidense, Donald Trump, quien presion&oacute; a los pa&iacute;ses centroamericanos para que firmaran los acuerdos de "tercer pa&iacute;s seguro".</p>
+}
+title3 Terroristas o no, México rechaza presión de Trump sobre cárteles
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La intenci&oacute;n de Donald Trump de designar a los c&aacute;rteles del narcotr&aacute;fico mexicano como "organizaciones terroristas" ha desatado un intenso debate en M&eacute;xico sobre si las acciones de estos sanguinarios grupos constituyen terrorismo.</p>
+<p>Sin embargo, los mexicanos concuerdan sobre todo en una cosa: no quieren la ayuda de Trump, porque consideran que ser&iacute;a atentar contra la soberan&iacute;a de M&eacute;xico.</p>
+<p>Adem&aacute;s, analistas dicen que tal calificaci&oacute;n tendr&iacute;a poco impacto.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Los poderosos c&aacute;rteles mexicanos han sembrado ciertamente el terror en los &uacute;ltimos a&ntilde;os, ya sea lanzando granadas a una multitud repleta, colgando cad&aacute;veres desmembrados de puentes, asediando una ciudad o --el incidente que llam&oacute; la atenci&oacute;n del presidente estadounidense-- masacrando a nueve mujeres y ni&ntilde;os mormones mexicano-estadounidenses.</p>
+<p>Pero expertos coinciden en que hay una diferencia clave entre grupos como los c&aacute;rteles de Sinaloa o Jalisco Nueva Generaci&oacute;n y los grupos designados como Organizaciones Terroristas Extranjeras por Washington.</p>
+<p>Mientras Al Qaida, el Estado Isl&aacute;mico, ETA, las Fuerzas Armadas Revolucionarias de Colombia (FARC) y el resto de los 68 grupos en la lista negra tienen objetivos pol&iacute;ticos o religiosos, la meta principal de los c&aacute;rteles es ganar dinero.</p>
+<p>"Los c&aacute;rteles mexicanos no son equiparables por ejemplo a las FARC que seguramente ten&iacute;an v&iacute;nculos con el narcotr&aacute;fico pero no eran exclusivamente organizaciones de crimen organizado", dijo a AFP el acad&eacute;mico y excanciller mexicano Jorge Casta&ntilde;eda.</p>
+<p>"Es la primera y la &uacute;nica vez que se ha hecho esto, y la raz&oacute;n es que no son f&aacute;cilmente equiparables&hellip; No existe el componente pol&iacute;tico por parte de estas organizaciones".</p>
+<p><strong>"&iexcl;Son terroristas!"</strong></p>
+<p>El tema se remonta al 4 de noviembre, cuando presuntos integrantes del c&aacute;rtel La L&iacute;nea acribillaron tres camionetas en el norte de M&eacute;xico.</p>
+<p>Dentro hab&iacute;a 17 miembros de tres familias mormonas. Los sicarios mataron a tres mujeres y seis ni&ntilde;os, entre ellos dos beb&eacute;s gemelos de ocho meses de edad, e incendiaron uno de los veh&iacute;culos con los ocupantes a&uacute;n dentro.</p>
+<p>Miembros prominentes de una de las familias, los LeBar&oacute;n, enviaron una petici&oacute;n a la Casa Blanca pidiendo que Trump designe a los c&aacute;rteles mexicanos como grupos terroristas.</p>
+<p>"Sus actos desenfrenados de violencia y asesinatos han rebasado nuestras fronteras y creado una crisis internacional", escribieron.</p>
+<p>"&iexcl;Son terroristas, y es hora de reconocerlo!", demandaron.</p>
+<p>Eso desencaden&oacute; un airado debate en M&eacute;xico.</p>
+<p>En redes sociales, se viralizaron los hashtags #vendepatrias y #LeBaronFueraDeMexico.</p>
+<p>Pero otros mexicanos se sumaron a la idea de que la narcoviolencia s&iacute; es una forma de terrorismo.</p>
+<p>"Eso es lo que intentan provocar en la poblaci&oacute;n: terror. Dejar cuerpos desmembrados y poner narcomantas causan terror en la poblaci&oacute;n", dijo el gobernador de Guanajuato (centro), Diego Sinhue Rodr&iacute;guez, opositor al presidente izquierdista Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+<p><strong>Impacto m&iacute;nimo</strong></p>
+<p>Sin embargo, hubo fuerte rechazo en M&eacute;xico a la medida propuesta por Trump, tanto como a sus declaraciones en Twitter de que Estados Unidos estaba dispuesto a ayudar a M&eacute;xico a "declarar la GUERRA a los c&aacute;rteles de la droga y borrarlos de la faz de la Tierra".</p>
+<p>El canciller Marcelo Ebrard replic&oacute; que "M&eacute;xico no admitir&aacute; nunca acci&oacute;n alguna que signifique violaci&oacute;n a su soberan&iacute;a nacional".</p>
+<p>Seg&uacute;n expertos, el pol&eacute;mico plan de Trump ser&iacute;a, sobre todo, un nuevo y eficaz garrote con el cual forzar a M&eacute;xico a actuar seg&uacute;n sus intereses, justo cuando encara un eventual juicio pol&iacute;tico en Washington y su campa&ntilde;a por la reelecci&oacute;n.</p>
+<p>Para Casta&ntilde;eda, el anuncio busca "evidentemente" obligar a que la administraci&oacute;n de L&oacute;pez Obrador asuma una postura m&aacute;s agresiva ante el narcotr&aacute;fico, contraria a su promesa de pacificar al pa&iacute;s y acabar con la llamada "guerra contra el narco".</p>
+<p>Carlos Rodr&iacute;guez Ulloa, acad&eacute;mico del centro de investigaci&oacute;n en seguridad CASEDE, ve en el anuncio de Trump una maniobra para "mantener su narrativa electoral antimexicana, alimentar su base social y distraer un poco la atenci&oacute;n del impeachment en que est&aacute; envuelto".</p>
+<p>En cuanto a los alcances de la eventual declaraci&oacute;n, Casta&ntilde;eda no ve "en el terreno" mayores cambios sobre la situaci&oacute;n y las acciones que Washington ya ejecuta contra los narcotraficantes mexicanos.</p>
+<p>El gobierno y los bancos estadounidenses llevan a&ntilde;os siguiendo de cerca las finanzas de los c&aacute;rteles y sus presuntos colaboradores, poniendo en listas negras a numerosos ciudadanos mexicanos, congel&aacute;ndoles cuentas o cancel&aacute;ndoles visas.</p>
+<p>"Hay agentes de la DEA aqu&iacute; todo el tiempo, hay gente metida en la Marina mexicana constantemente acompa&ntilde;ando a los marinos a sus operativos&hellip; los aviones americanos&hellip; llevan m&aacute;s de 25 a&ntilde;os sobrevolando territorio mexicano&hellip; o sea, todo esto ya sucede", dijo.</p>
+<p>"Si Estados Unidos le dice a M&eacute;xico, quiero mandar un dron ma&ntilde;ana (&hellip;) pues M&eacute;xico va a decir que s&iacute;, adelante. No hay ninguna necesidad de hacerlo como una invasi&oacute;n".</p>
+}
+title4 Activistas prodemocracia no claudican y organizan nuevas protestas en Hong Kong
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Los activistas prodemocracia reclamaron m&aacute;s acciones este viernes en Hong Kong de cara a los pr&oacute;ximos d&iacute;as, donde la polic&iacute;a levant&oacute; el sitio del campus de la Universidad Polit&eacute;cnica, epicentro del movimiento desde mediados de noviembre.</p>
+<p>Diferentes foros en l&iacute;nea en los que se coordina el movimiento de protesta, que carece de un verdadero l&iacute;der, invitaron a la poblaci&oacute;n a participar en una gran concentraci&oacute;n el domingo y en una huelga el lunes para perturbar los transportes p&uacute;blicos.</p>
+<p>"Si el gobierno comunista de Hong Kong ignora a la opini&oacute;n p&uacute;blica, habr&aacute; durante cinco o seis d&iacute;as seguidos 'una eclosi&oacute;n generalizada' [&hellip;] Debemos fijarnos un plazo", rezaba un mensaje publicado en el foro Reddit-like LIHKG, que recibi&oacute; una acogida muy favorable de los internautas.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La "eclosi&oacute;n generalizada" es el nombre que los manifestantes dan a su nuevo 'modus operandi' adoptado en noviembre, que consiste en llevar a cabo acciones de baja intensidad para poner a prueba a las fuerzas de seguridad y perturbar la circulaci&oacute;n de los transportes p&uacute;blicos.</p>
+<p>Este viernes, cientos de empleados de oficina se concentraron a la hora del desayuno en varios barrios de la ciudad. La polic&iacute;a antidisturbios fue desplegada pero los manifestantes se dispersaron pac&iacute;ficamente.</p>
+<p>Esta nueva movilizaci&oacute;n se produce en medio del rechazo de Pek&iacute;n y del ejecutivo local de hacer concesiones a los manifestantes, pese a su aplastante victoria en las elecciones locales del domingo.</p>
+<p>Tras casi seis meses de protestas los electores infligieron un duro golpe al gobierno local, apoyado por Pek&iacute;n, que hasta entonces siempre alegaba que contaba con el apoyo de una mayor&iacute;a silenciosa en Hong Kong.</p>
+<p><strong>Campus desalojado</strong></p>
+<p>Los d&iacute;as previos y posteriores a las elecciones estuvieron marcados por un inusual periodo de calma, despu&eacute;s de semanas de manifestaciones que derivaron en choques entre la polic&iacute;a y los manifestantes.</p>
+<p>En China, los medios guardaron silencio sobre la victoria de la oposici&oacute;n prodemocr&aacute;tica en Hong Kong, desacreditando las condiciones en las que tuvieron lugar los comicios.</p>
+<p>La jefa del ejecutivo hongkon&eacute;s, Carrie Lam, admiti&oacute; el descontento de la poblaci&oacute;n pero rechaz&oacute; acceder a las demandas de los manifestantes. "Estoy convencida de que Hong Kong puede salir adelante como siempre lo hizo", se limit&oacute; a afirmar durante una visita a Tailandia.</p>
+<p>El viernes por la tarde, la polic&iacute;a puso fin al episodio m&aacute;s violento de las protestas: el sitio de la Universidad Polit&eacute;cnica de Hong Kogn (PolyU).</p>
+<p>All&iacute; se produjeron, el 17 de noviembre, violentos enfrentamientos entre la polic&iacute;a y los manifestantes, que condujeron al sitio del campus por parte de la polic&iacute;a para desalojar a los cientos de activistas atrincherados.</p>
+<p>Una gran mayor&iacute;a de ellos se rindieron antes de ser arrestados, mientras que otros lograron escapar usando cuerdas o por el sistema de alcantarillado.</p>
+<p>Tras la salida de casi todos los manifestantes, la polic&iacute;a penetr&oacute; el jueves en el campus, donde hallaron unos 4.000 c&oacute;cteles Molotov.</p>
+<p>El viernes, los agentes retiraron el cord&oacute;n policial que rodeaba el campus y puso as&iacute; fin a 13 d&iacute;as de asedio.</p>
+<p>El movimiento prodemocracia empez&oacute; en junio a ra&iacute;z de un proyecto de ley, ya suspendido, para facilitar las extradiciones a China, pero luego se fue ampliando y sumando reclamos, como un sufragio universal y una investigaci&oacute;n independiente de la violencia policial.</p>
+<p>M&aacute;s de 5.800 personas fueron arrestadas desde entonces y casi 1.000 inculpadas, seg&uacute;n cifras del gobierno, mientras que la polic&iacute;a lanz&oacute; m&aacute;s de 12.000 granadas lacrim&oacute;genas.</p>
+}

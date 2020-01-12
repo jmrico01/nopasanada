@@ -1,0 +1,126 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>25-11-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/25-lo-importante.jpg
+    poster{image} /images/201911/posters/25-lo-importante.jpg
+    header-desktop1{image} /images/201911/25-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201911/25-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201911/25-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201911/25-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201911/25-lo-importante/square1.jpg
+    header-mobile2{image} /images/201911/25-lo-importante/square2.jpg
+    header-mobile3{image} /images/201911/25-lo-importante/square3.jpg
+    header-mobile4{image} /images/201911/25-lo-importante/square4.jpg
+}
+tags noticias
+title Lo Importante: 25-11-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 25
+month 11
+year 2019
+color #FCC285
+customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-25-11-19-e96fkn" width="100%" frameborder="0" scrolling="no"></iframe>
+title1 Duque lidera "diálogo social" en una Colombia que aún protesta
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El presidente Iv&aacute;n Duque lider&oacute; este domingo un primer "di&aacute;logo social" cuando se cumplen cuatro d&iacute;as de protestas en Colombia, aunque los manifestantes no participaron y se convoc&oacute; a una nueva "gran marcha".</p>
+<p>Luego de reunirse con alcaldes electos de 24 capitales regionales, el mandatario derechista habl&oacute; con gobernadores departamentales que asumir&aacute;n el cargo en enero.</p>
+<p>"El di&aacute;logo que quer&iacute;a empezar con Colombia, quer&iacute;a empezarlo con ustedes, porque ustedes tienen un mandato claro y fresco, que responde a los anhelos de la ciudadan&iacute;a", dijo desde el presidencial Palacio de Nari&ntilde;o en Bogot&aacute;.</p>
+<p>Durante los encuentros, que fueron adelantados tres d&iacute;as mientras prosegu&iacute;an las marchas contra el gobierno central, se trataron temas de educaci&oacute;n, salud, infraestructura, paz, medio ambiente y lucha contra el narcotr&aacute;fico y la corrupci&oacute;n, seg&uacute;n la presidencia.</p>
+<p>"El objetivo m&aacute;s importante que nosotros tenemos por delante es la construcci&oacute;n de una Colombia justa, una Colombia que cierre brechas sociales", agreg&oacute; el mandatario en medio de protestas contra sus pol&iacute;ticas sociales, econ&oacute;micas y de seguridad.</p>
+<p>Duque, que el jueves afront&oacute; las marchas m&aacute;s multitudinarias de los &uacute;ltimos a&ntilde;os, nombr&oacute; al director del Departamento Administrativo de la Presidencia, Diego Molano, como coordinador nacional de las pl&aacute;ticas.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Molano explic&oacute; que hasta el 15 de marzo los colombianos podr&aacute;n presentar propuestas "en espacios de participaci&oacute;n" que girar&aacute;n en torno a cinco temas, que coinciden con algunos de los reclamos de los marchantes: crecimiento con equidad de la econom&iacute;a, lucha contra la corrupci&oacute;n, fortalecimiento de la educaci&oacute;n p&uacute;blica, paz y medioambiente.</p>
+<p>Al t&eacute;rmino del encuentro, la alcaldesa electa de Bogot&aacute;, Claudia L&oacute;pez, cuestion&oacute; el enfoque de la conversaci&oacute;n y pidi&oacute; al presidente dialogar con los manifestantes.</p>
+<p>"El di&aacute;logo no es para explicar con m&aacute;s profundidad las pol&iacute;ticas gubernamentales y comunicarlas mejor, no, el di&aacute;logo tiene que ser para con humildad reconocer errores, hacer cambios y hacer concesiones, de lo contrario no va a ser un di&aacute;logo que lleve a nada concreto sino a m&aacute;s frustraciones", dijo.</p>
+<p>Desde que Duque convoc&oacute; a una "conversaci&oacute;n nacional" el viernes, un d&iacute;a despu&eacute;s de una violenta jornada de manifestaciones en Bogot&aacute;, no ha invitado directamente a participar a los promotores de las protestas del 21 de noviembre y ha dicho que los di&aacute;logos debatir&aacute;n "reformas" sobre su pol&iacute;tica social.</p>
+<p><strong>Nueva "gran marcha"</strong></p>
+<p>A la par que avanzaba el di&aacute;logo, la Central Unitaria de Trabajadores (CUT) llam&oacute; a nuevas movilizaciones contra el gobierno por no haber "resuelto en concreto ninguno de los motivos" de las protestas que iniciaron el jueves y que siguen hasta ahora pero con j&oacute;venes espont&aacute;neos como protagonistas.</p>
+<p>Por eso invitaron el lunes a una "gran marcha" nacional que coincide con las actividades para conmemorar el d&iacute;a internacional de la no violencia contra las mujeres y con un cacerolazo del sindicato de profesores de instituciones p&uacute;blicas.</p>
+<p>Para esa jornada Duque tiene previsto reunirse con la Comisi&oacute;n Nacional de Concertaci&oacute;n Laboral, que agrupa a representantes del gobierno, patrones y empleados, y a lo largo de la semana con otros "sectores sociales".</p>
+<p>Pero Di&oacute;genes Orjuela, presidente de la CUT, asegur&oacute; que esa instancia no representa a las centrales obreras, que en octubre llamaron al paro nacional del 21 de noviembre al que despu&eacute;s se sumaron estudiantes, ind&iacute;genas, partidos opositores y artistas.</p>
+<p>Los sindicatos obreros se hab&iacute;an deslindado de las manifestaciones surgidas de la gran huelga, que este domingo se manten&iacute;an en Bogot&aacute;, Cali y Medell&iacute;n, aunque con menor afluencia.</p>
+<p>En la capital decenas de personas hicieron un plant&oacute;n al frente del hospital donde est&aacute; ingresado en estado cr&iacute;tico un menor de 17 a&ntilde;os tras una agresi&oacute;n de la polic&iacute;a durante una protesta pac&iacute;fica. Y algunos centenares protestaron en zonas del norte y el centro con cacerolazos y montados en bicicleta.</p>
+<p>El descontento contra Duque tiene un abanico de reclamos. Las centrales obreras rechazan supuestas iniciativas gubernamentales para flexibilizar el mercado laboral y las pensiones. Los estudiantes reclaman m&aacute;s recursos para la educaci&oacute;n p&uacute;blica, y los ind&iacute;genas exigen protecci&oacute;n tras el asesinato de decenas de ellos desde que Duque asumi&oacute; el poder en agosto de 2018.</p>
+<p>Todos cuestionan el asesinato de l&iacute;deres sociales y el intento de modificar el pacto de paz de 2016 que desarm&oacute; a la exguerrilla FARC, que tambi&eacute;n ha participado en las movilizaciones y celebra este domingo el tercer aniversario de los acuerdos.</p>
+<p>Con un crecimiento econ&oacute;mico superior al promedio regional, la cuarta econom&iacute;a latinoamericana presenta altos &iacute;ndices de desigualdad y desempleo.</p>
+}
+title2 ¿Qué es el recuento de votos que definirá presidente en Uruguay?
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La diferencia entre los dos candidatos presidenciales que participaron en el balotaje del domingo en Uruguay es tan ajustada en relaci&oacute;n a los votos "observados" o dudosos, que habr&aacute; que esperar a que la Corte Electoral realice el tradicional recuento de votos.</p>
+<p>El presidente de la Corte Electoral, Jos&eacute; Arocena, anticip&oacute; en di&aacute;logo con la AFP que los resultados de la disputa entre el centroderechista Luis Lacalle Pou (Partido Nacional) y el izquierdista Daniel Mart&iacute;nez (Frente Amplio, oficialismo) no se dirimir&iacute;an en la noche del domingo sino el recuento, que comienza siempre dos d&iacute;as despu&eacute;s de terminada la jornada electoral en Uruguay.</p>
+<p>El primer conteo dio 48,71% de los sufragios a Lacalle Pou y 47,51% a Mart&iacute;nez.</p>
+<p>Tras un descanso el lunes, los funcionarios de la Corte Electoral iniciar&aacute;n el martes un escrutinio secundario de las papeletas en cada uno de los 19 departamentos (provincias) en que se divide Uruguay.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La diferencia entre los dos candidatos es de unos 30.000 sufragios, por lo que ser&aacute; determinante el recuento de los llamados votos "observados", que se producen cuando los electores sufragan en circuitos que no les corresponden o no figuran en el padr&oacute;n, en este caso unas 35.000 papeletas</p>
+<p>La ley 13.882 de 1970 establece en su art&iacute;culo quinto que en estos casos la persona podr&aacute; emitir su voto, pero la Corte deber&aacute; reinscribirla en el padr&oacute;n de votantes para que su papeleta sea contabilizada como v&aacute;lida.</p>
+<p>El escenario es adverso para Mart&iacute;nez. Escrutado el 100% de las mesas, el candidato de 62 a&ntilde;os necesita adjudicarse el 91% de los votos observados, seg&uacute;n la consultora Enia, que analiza las estad&iacute;sticas de la votaci&oacute;n.</p>
+<p>Adem&aacute;s, los delegados de los partidos que asistan a los conteos departamentales podr&aacute;n pedir al organismo electoral que se considere v&aacute;lido un voto que fue anulado por alguna anomal&iacute;a, como una papeleta en mal estado, por ejemplo.</p>
+<p>En la primera vuelta electoral de octubre, los votos anulados que fueron finalmente contabilizados apenas alcanzaron 1.700, una cifra que no afecta el resultado de la elecci&oacute;n, explic&oacute; a la AFP Federico Comesa&ntilde;a, director de Enia.</p>
+<p>El escrutinio secundario comenzar&aacute; el martes a las 12H00 GMT y se prolongar&aacute; como m&aacute;ximo hasta el viernes, explic&oacute; Arocena.</p>
+<p>Este conteo definitivo determinar&aacute; oficialmente al ganador de la contienda que asumir&aacute; el poder el pr&oacute;ximo primero de marzo.</p>
+<p>Mientras Lacalle Pou consider&oacute; el resultado "irreversible", Mart&iacute;nez se&ntilde;al&oacute; que esperar&aacute; los resultados oficiales.</p>
+}
+title3 Bolivia va hacia sus primeras elecciones sin Morales como opción en 18 años
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Bolivia emprendi&oacute; este domingo el camino hacia sus primeras elecciones sin la opci&oacute;n presidencial de Evo Morales en 18 a&ntilde;os, tras la promulgaci&oacute;n de una ley que lo excluye como candidato luego de un mes de protestas con 32 muertos.</p>
+<p>La presidenta interina Jeanine &Aacute;&ntilde;ez firm&oacute; la norma que permitir&aacute; el llamado a nuevos comicios generales, en una fecha a&uacute;n por determinar, tras su aprobaci&oacute;n un&aacute;nime en el Congreso bicameral el s&aacute;bado.</p>
+<p>"Llegamos a este d&iacute;a con la satisfacci&oacute;n del deber cumplido porque este es el principal objeto de mi gobierno: nuevas elecciones en el menor tiempo posible", dijo &Aacute;&ntilde;ez durante la ceremonia.</p>
+<p>Comienza as&iacute; un dif&iacute;cil camino para los once millones de bolivianos en b&uacute;squeda de una salida a su peor emergencia pol&iacute;tica en dos d&eacute;cadas, esta vez sin Morales como alternativa. El &iacute;cono de la izquierda latinoamericana, que por casi 14 a&ntilde;os tuvo el tim&oacute;n del pa&iacute;s, no podr&aacute; participar en la campa&ntilde;a, algo in&eacute;dito desde 2002.</p>
+<p>La norma anula los comicios del 20 de octubre en los que Morales fue reelecto y que fueron rechazados por fraudulentos en masivas protestas que encabez&oacute; la oposici&oacute;n. La Organizaci&oacute;n de Estados Americanos (OEA) aval&oacute; las sospechas al detectar irregularidades en el proceso.</p>
+<p><strong>Un proceso expr&eacute;s</strong></p>
+<p>Morales se vio forzado a renunciar el 10 de noviembre despu&eacute;s de perder el apoyo de la polic&iacute;a y las fuerzas militares, y se exili&oacute; en M&eacute;xico alegando un golpe de Estado.</p>
+<p>La crisis se agudiz&oacute; con las protestas de miles de sus seguidores mediante el bloqueo de v&iacute;as en seis de los nueve departamentos, lo que gener&oacute; escasez de combustible y comida en ciudades como La Paz. De a poco se ha venido restableciendo el suministro con el paulatino levantamiento de las acciones.</p>
+<p>El gobierno provisional de la senadora &Aacute;&ntilde;ez, opositora de derecha de Morales, est&aacute; negociando con los movimientos de protesta un acuerdo para la "pacificaci&oacute;n" tras las violentas manifestaciones que dejan 32 muertos, 17 de ellos en choques con las fuerzas oficiales en los &uacute;ltimos diez d&iacute;as.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La ley aprobada este domingo prev&eacute; la renovaci&oacute;n del Tribunal Supremo Electoral (TSE), la inscripci&oacute;n de votantes y la participaci&oacute;n de todos los partidos, aunque impiden a Morales y a su exvicepresidente, &Aacute;lvaro Garc&iacute;a Linera, participar en la pr&oacute;xima contienda.</p>
+<p>Morales fue excluido en virtud de un art&iacute;culo de la Constituci&oacute;n que proh&iacute;be la reelecci&oacute;n despu&eacute;s de dos mandatos consecutivos.</p>
+<p>El exgobernante intent&oacute; modificar esa norma mediante un referendo que perdi&oacute; en 2016. Finalmente, fue la justicia que le permiti&oacute; postularse en las pasadas elecciones.</p>
+<p><strong>Sin 'MAS' Morales</strong></p>
+<p>El l&iacute;der ind&iacute;gena de izquierda lleg&oacute; a la presidencia en 2005 tras fracasar en un primer intento. Fue reelegido en 2009 y 2014. El 20 de octubre obtuvo un nuevo mandato en el cuestionado proceso que desencaden&oacute; la crisis.</p>
+<p>La nueva autoridad electoral ser&aacute; la responsable de fijar la fecha de las elecciones generales en un breve plazo.</p>
+<p>Muy activo en Twitter desde su exilio, sobre todos en las cr&iacute;ticas al gobierno transitorio por la represi&oacute;n de las protestas, Morales no se ha pronunciado a&uacute;n sobre el arreglo que alcanzaron las fuerzas pol&iacute;ticas a la cabeza de su partido, el Movimiento Al Socialismo (MAS), que cuenta con mayor&iacute;as en ambas c&aacute;maras del Congreso.</p>
+<p>Formado por diversas tendencias de izquierda, el MAS ha dominado la pol&iacute;tica boliviana en los &uacute;ltimos tiempos con Morales como figura gravitante.</p>
+<p>Sin embargo, su empe&ntilde;o en mantenerse en el poder y el desgaste de un largo mandato - en el que acumul&oacute; logros como la reducci&oacute;n de la pobreza extrema y un crecimiento econ&oacute;mico promedio del 4,8% - terminaron fisurando al MAS, seg&uacute;n analistas.</p>
+<p>Pero m&aacute;s all&aacute; de la divisi&oacute;n que genera Morales, "lo que tiene que entender Bolivia es que hay que aceptar al MAS, que es una realidad sociol&oacute;gica y electoral", opina Carlos Toranzo, analista pol&iacute;tico de la Fundaci&oacute;n Friedrich Ebert.</p>
+}
+title4 Elecciones en Hong Kong suponen revés para Pekín e incertidumbre
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Los hongkoneses prodemocracia asestaron un duro golpe al gobierno de Hong Kong alineado con Pek&iacute;n en las elecciones locales del domingo, cuyo resultado tambi&eacute;n profundiza la incertidumbre en el territorio semiauton&oacute;nomo tras cinco meses de una crisis pol&iacute;tica sin precedentes.</p>
+<p><strong>&iquest;Por qu&eacute; es tan importante el resultado de la votaci&oacute;n?</strong></p>
+<p>Los grupos a favor de la democracia aprovecharon estas elecciones para demostrar la amplitud del apoyo a las protestas contra la jefa del ejecutivo proPek&iacute;n, Carrie Lam, quien las atribuye a grupos de radicales.</p>
+<p>Hasta ahora, la elecci&oacute;n de concejales de distrito, que administran temas vinculados con la basura o itinerarios de autobuses, generaban poco inter&eacute;s. Pero estos comicios se convirtieron en bar&oacute;metro de opini&oacute;n.</p>
+<p>Ello se debe en gran medida a que la elecci&oacute;n de los 452 miembros de 18 consejos de distrito es la &uacute;nica que se acerca m&aacute;s a la representaci&oacute;n directa.</p>
+<p>El jefe del ejecutivo es escogido por un comit&eacute; de personalidades favorables a Pek&iacute;n y los miembros del cuerpo legislativo mediante una mezcla de escrutinio universal y designaci&oacute;n por grupos de inter&eacute;s econ&oacute;mico fieles al gobierno chino.</p>
+<p><strong>&iquest;Cu&aacute;l es el origen de las manifestaciones?</strong></p>
+<p>Tras ser una colonia brit&aacute;nica durante m&aacute;s de un siglo y medio, Hong Kong fue transferido a China en 1997, seg&uacute;n un acuerdo por el que Pek&iacute;n se compromet&iacute;a a que la regi&oacute;n se beneficie de "un alto grado de autonom&iacute;a".</p>
+<p>Pero en los &uacute;ltimos a&ntilde;os, medidas tomadas por el gobierno chino y hongkon&eacute;s hicieron temer un retroceso de libertades de que goza la poblaci&oacute;n y una influencia creciente de China sobre el territorio.</p>
+<p>En 2014, el consejo legislativo rechaz&oacute; un verdadero sufragio universal y ello fue percibido como un intento de aumentar el control de Pek&iacute;n sobre la designaci&oacute;n del gobernante local.</p>
+<p>La movilizaci&oacute;n comenz&oacute; en junio contra un proyecto de ley que autorizaba la extradici&oacute;n a China continental de ciudadanos hongkoneses. El texto fue abandonado en septiembre, pero las reivindicaciones aumentaron.</p>
+<p>Los manifestantes reclaman principalmente el sufragio universal en el territorio de 7,5 millones de habitantes y una investigaci&oacute;n sobre lo que califican de violencia policial.</p>
+<p><strong>&iquest;Cu&aacute;les son las consecuencias para el movimiento de protesta?</strong></p>
+<p>El resultado de este escrutinio podr&iacute;a dar un nuevo impulso al movimiento de protesta y animarlo a aumentar sus reivindicaciones.</p>
+<p>Los dirigentes prodemocracia pidieron a Lam y a su gobierno ceder inmediatamente a las demandas, una de las cuales es la dimisi&oacute;n del ejecutivo.</p>
+<p>Varias acciones est&aacute;n previstas esta semana para aumentar la presi&oacute;n y foros de internet usados por los manifestantes llamaron a una gran concentraci&oacute;n el domingo.</p>
+<p><strong>&iquest;C&oacute;mo va a reaccionar el gobierno?</strong></p>
+<p>Ante los resultados, Lam prometi&oacute; el lunes "escuchar humildemente" a los electores, pero sigue atada al poder central chino.</p>
+<p>China rechaza todo cuestionamiento de su pol&iacute;tica, en particular en lo que respecta a su autoridad sobre regiones como Hong Kong. Hacer concesiones podr&iacute;a alentar protestas en otras partes del territorio chino.</p>
+<p>"No veo nada en las declaraciones del (presidente chino) Xi Jinping o de otros funcionarios que hagan pensar que har&iacute;an concesiones", declar&oacute; a la AFP Willy Lam, analista de de la pol&iacute;tica de Hong Kong.</p>
+}

@@ -1,0 +1,110 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>18-11-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/18-lo-importante.jpg
+    poster{image} /images/201911/posters/18-lo-importante.jpg
+    header-desktop1{image} /images/201911/18-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201911/18-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201911/18-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201911/18-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201911/18-lo-importante/square1.jpg
+    header-mobile2{image} /images/201911/18-lo-importante/square2.jpg
+    header-mobile3{image} /images/201911/18-lo-importante/square3.jpg
+    header-mobile4{image} /images/201911/18-lo-importante/square4.jpg
+}
+tags noticias
+title Lo Importante: 18-11-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 18
+month 11
+year 2019
+color #FCC285
+title1 Protestas no cesan en Bolivia pero se multiplican las iniciativas de diálogo
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Las protestas no cesan en Bolivia, donde este lunes se espera sean presentadas nuevas propuestas de di&aacute;logo para poner fin a una crisis que se torn&oacute; m&aacute;s violenta tras la renuncia de Evo Morales a la presidencia y que suma 23 muertos en casi un mes.</p>
+<p>La Iglesia cat&oacute;lica convoc&oacute; a una rueda de prensa para la ma&ntilde;ana de este lunes, en la que se espera llame a un "di&aacute;logo nacional" para acercar posiciones entre el gobierno interino de la derechista Jeanine &Aacute;&ntilde;ez y sectores afines a Morales, quien renunci&oacute; hace una semana y se asil&oacute; en M&eacute;xico tras desatarse protestas que denunciaban un fraude electoral en los comicios del pasado 20 de octubre.</p>
+<p>Casi para la misma hora, la bancada del Movimiento Al Socialismo (MAS, de Morales), que es mayor&iacute;a en el Congreso, llam&oacute; a los grupos legislativos minoritarios a una reuni&oacute;n "para trabajar, conversar, debatir sobre la coyuntura pol&iacute;tica" y "pacificar" el pa&iacute;s, seg&uacute;n dijo el domingo la diputada Betty Ya&ntilde;&iacute;quez.</p>
+<p>Y la ministra de Comunicaci&oacute;n, Roxana Liz&aacute;rraga, mostr&oacute; en una carta su disposici&oacute;n a "participar en una mesa trabajo y di&aacute;logo" en la localidad de El Alto, vecina a La Paz, para "atender las demandas" de los l&iacute;deres locales y sellar "acuerdos que permitan pacificar". All&iacute; los vecinos hab&iacute;an llamado desde este lunes a "un cerco a la ciudad de La Paz" para forzar "la renuncia inmediata" de &Aacute;&ntilde;ez.</p>
+<p>En otro intento por calmar los &aacute;nimos, la presidenta interina dijo el domingo que anunciar&aacute; "muy pronto" la convocatoria a nuevas elecciones "transparentes".</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Para hacer ese llamado, su gobierno debe consensuar primero con el partido de Morales, pues seg&uacute;n la Constituci&oacute;n es el Congreso el que elige a seis de los siete titulares del Tribunal Supremo Electoral (TSE). Los anteriores est&aacute;n en prisi&oacute;n preventiva por las irregularidades en las elecciones de octubre, que dieron la reelecci&oacute;n a Morales pero que &eacute;l mismo anul&oacute; horas antes de renunciar.</p>
+<p>Jean Arnault, enviado del Secretario General de la ONU, y un delegado de la Uni&oacute;n Europea se han reunido en los &uacute;ltimos d&iacute;as con el gobierno de &Aacute;&ntilde;ez y organizaciones sociales en un intento de restaurar la paz.</p>
+<p><strong>Bloqueos de v&iacute;as</strong></p>
+<p>Las protestas callejeras, sin embargo, se mantienen.</p>
+<p>Las manifestaciones m&aacute;s violentas se han concentrado los &uacute;ltimos d&iacute;as en Cochabamba (centro). All&iacute;, campesinos cocaleros chocaron el viernes con el ej&eacute;rcito y la polic&iacute;a, con saldo de nueve muertos, seg&uacute;n la Comisi&oacute;n Interamericana de Derechos Humanos (CIDH), que elev&oacute; a 23 el saldo de v&iacute;ctimas desde el estallido de la crisis.</p>
+<p>El domingo, no obstante, el gobierno y la polic&iacute;a aseguraron que estaba "disminuyendo" la intensidad de las protestas en esa regi&oacute;n af&iacute;n a Morales.</p>
+<p>Pero los cortes de rutas por las manifestaciones en varias regiones han comenzado a generar desabastecimiento de comestibles y combustible en La Paz.</p>
+<p>El gobierno envi&oacute; en respuesta 60 toneladas de carne y pollo a la ciudad y busca dialogar con quienes bloquean la v&iacute;a que une La Paz con una importante refiner&iacute;a.</p>
+<p>Adem&aacute;s, para poner m&aacute;s presi&oacute;n, seis sindicatos cocaleros del Chapare, feudo de Morales en Cochabamba, exigieron la noche del s&aacute;bado "la renuncia de la autoproclamada" &Aacute;&ntilde;ez "en un plazo de 48 horas" y pidieron al Legislativo aprobar una ley "que garantice las elecciones nacionales en un plazo de 90 d&iacute;as".</p>
+<p><strong>Pol&eacute;mico decreto</strong></p>
+<p>Desde su exilio en M&eacute;xico, Morales usa constantemente Twitter para pronunciarse sobre lo que ocurre en su pa&iacute;s y el domingo escribi&oacute; que las "FFAA no est&aacute;n exentas de su responsabilidad", al denunciar "delitos de lesa humanidad" que "no deben quedar en la impunidad" y que considera se han cometido en la represi&oacute;n de las protestas.</p>
+<p>Morales ha hecho varias veces referencia en sus tuits a un pol&eacute;mico decreto del gobierno interino, divulgado extraoficialmente el s&aacute;bado, que exime de responsabilidades penales a las Fuerzas Armadas en la conservaci&oacute;n del orden p&uacute;blico y que fue considerado "grave" por la CIDH.</p>
+<p>Aunque el ministro de la presidencia, Jerjes Justiniano, defendi&oacute; el decreto el fin de semana y asegur&oacute; que "no es una licencia para matar".</p>
+}
+title2 ¿Qué hacen las tropas chinas en Hong Kong?
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p>Una breve e ins&oacute;lita salida de las tropas chinas en las calles de Hong Kong para una operaci&oacute;n de limpieza multiplica desde el s&aacute;bado los rumores sobre una posible intervenci&oacute;n militar china para terminar con seis meses de protestas prodemocracia en este territorio semiaut&oacute;nomo.</p>
+<p>Mientras algunos residentes elogiaron que los soldados ayudaran a limpiar las calles, otros vieron la iniciativa como una advertencia de Pek&iacute;n.</p>
+<p><strong>&iquest;Qu&eacute; hicieron estos militares?</strong></p>
+<p>Despu&eacute;s de una de las m&aacute;s violentas semanas vividas en Hong Kong desde que estall&oacute; la crisis, decenas de soldados vestidos con pantalones cortos y camisetas salieron el s&aacute;bado de los cuarteles del Ej&eacute;rcito Popular de Liberaci&oacute;n chino (EPL) hacia un barrio acomodado de Hong Kong.</p>
+<p>Los militares recogieron ladrillos, escombros y repararon barreras, antes de regresar al cuartel. Tambi&eacute;n desfilaron en formaci&oacute;n en una carretera, mientras los medios locales y transe&uacute;ntes los grababan.</p>
+<p>El EPL confirm&oacute; m&aacute;s tarde que llevaron a cabo esta operaci&oacute;n para abrir al tr&aacute;fico la carretera fuera de su cuartel en Kowloon Tong.</p>
+<p><strong>&iquest;Est&aacute;n autorizadas los soldados chinos en las calles de Hong Kong?</strong></p>
+<p>Desde su retrocesi&oacute;n en 1997, en la excolonia brit&aacute;nica rige el principio "un pa&iacute;s, dos sistemas" que da al territorio cierta autonom&iacute;a.</p>
+<p>Como parte de esta autonom&iacute;a, la ley b&aacute;sica de Hong Kong establece que el gobierno local es responsable del mantenimiento del orden p&uacute;blico.</p>
+<p>El EPL est&aacute; autorizado a mantener una guarnici&oacute;n en Hong Kong y aunque la ley establece que los efectivos desplegados en la ciudad "no deben interferir en los asuntos locales de la regi&oacute;n", hay importantes reservas.</p>
+<p>El art&iacute;culo 14 de la ley b&aacute;sica estipula que las autoridades del gobierno local deben pedir, "cuando sea necesario", al gobierno central ayuda del regimiento "en el mantenimiento del orden p&uacute;blico y en caso de cat&aacute;strofe".</p>
+<p>El art&iacute;culo 18 tambi&eacute;n permite al poder central suspender de forma efectiva las leyes de Hong Kong en caso de "estado de guerra" o "caos" que "ponga en peligro la seguridad nacional o la unidad".</p>
+<p>Un portavoz del gobierno de Hong Kong asegur&oacute; el s&aacute;bado que no se hab&iacute;a solicitado la ayuda de las tropas chinas y que su salida "fue iniciativa suya".</p>
+<p><strong>&iquest;Por qu&eacute; los militares limpiaron las calles?</strong></p>
+<p>Esta salida fue un "inequ&iacute;voco" aviso de que desplegar al EPL sigue siendo una opci&oacute;n para China, seg&uacute;n el analista Willy Lam, basado en Hong Kong.</p>
+<p>"(Los soldados) se presentaron como personas muy amistosas, tranquilas, ante la gente de Hong Kong", dijo Lam respecto a la iniciativa de salir a limpiar.</p>
+<p>"Pero, la otra cara del mensaje fue que pod&iacute;an participar en cualquier momento en la tarea mucho m&aacute;s dif&iacute;cil de eliminar a los llamados alborotadores", agreg&oacute;.</p>
+<p>La semana pasada, el presidente chino, Xi Jinping, en un inusual comunicado sobre las protestas, afirm&oacute; que "poner fin a la violencia y restaurar el orden es la tarea m&aacute;s urgente por cumplir".</p>
+<p>El portavoz del ministerio de Defensa, Wu Qian, abund&oacute; el lunes en el comentario de Xi, cuando defendi&oacute; la operaci&oacute;n de limpieza de los militares, e insisti&oacute; que la guarnici&oacute;n est&aacute; decidida a "salvaguardar los intereses de la soberan&iacute;a" china.</p>
+<p><strong>&iquest;Enviar&aacute;n al ej&eacute;rcito para reprimir las protestas?</strong></p>
+<p>Pek&iacute;n parece sin embargo poco interesado en movilizar al ej&eacute;rcito contra las manifestaciones mientras queden otras opciones sobre la mesa, explica Lam a la AFP.</p>
+<p>Si Pek&iacute;n quisiera desplegar fuerzas de seguridad, ser&iacute;an m&aacute;s bien las fuerzas paramilitares de la Polic&iacute;a Armada Popular (PAP) o agentes policiales de la provincia vecina de Guangdong.</p>
+<p>"La PAP no forma parte de la guarnici&oacute;n de Hong Kong, as&iacute; que pol&iacute;ticamente genera menos susceptibilidad que usar a soldados en las calles de Hong Kong", se&ntilde;ala.</p>
+<p>Para este analista, ser&aacute; no obstante "dif&iacute;cil" saber si la PAP ser&aacute; desplegada, y cu&aacute;ndo.</p>
+<p>"Lo har&iacute;an a escondidas, y podr&iacute;an usar el uniforme de la polic&iacute;a de Hong Kong", asegura.</p>
+}
+title3 Justicia francesa se enfrenta a caso de pederastia inédito con unas 250 víctimas
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La justicia francesa ha identificado 250 v&iacute;ctimas potenciales de un cirujano jubilado, acusado de violaci&oacute;n y agresiones sexuales contra pacientes menores durante 30 a&ntilde;os de carrera, en un caso de pederastia de una magnitud desconocida en el pa&iacute;s.</p>
+<p>"Unas 250 v&iacute;ctimas potenciales de estos hechos de pederastia que a&uacute;n no han prescrito fueron identificadas durante la investigaci&oacute;n", anunci&oacute; el lunes el fiscal de La Rochelle, ciudad del oeste de Francia, Laurent Zuchowicz.</p>
+<p>Jo&euml;l Le Scouarnec, de 68 a&ntilde;os actualmente, est&aacute; en prisi&oacute;n desde mayo de 2017 por una parte de los cargos que pesan sobre &eacute;l.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Concretamente por las "violaciones de menores de menos de 15 a&ntilde;os, agresiones sexuales y exhibicionismo sexual", en un caso que afecta a cuatro v&iacute;ctimas y por el que ser&aacute; juzgado en los meses venideros.</p>
+<p>Cuando este caso se cerr&oacute;, el excirujano volvi&oacute; a ser investigado debido al descubrimiento de cuadernos que le pertenec&iacute;an, durante un registro policial, y que permitieron identificar a m&aacute;s v&iacute;ctimas.</p>
+<p>Un total de "209 pudieron ser interrogadas, algunas de ellas ten&iacute;an recuerdos muy concretos", dice el comunicado del fiscal que a&ntilde;adi&oacute; que "184 decidieron denunciar" al excirujano.</p>
+<p>En sus diarios personales, este hombre describ&iacute;a escenas sexuales con nombres concretos. Eran escenas imaginadas, seg&uacute;n la defensa.</p>
+<p>En el despacho del m&eacute;dico tambi&eacute;n se encontraron im&aacute;genes de pornograf&iacute;a infantil.</p>
+}
+title4 Corea del Norte "ya no está interesada" en cumbre con Estados Unidos
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Corea del Norte "ya no est&aacute; interesada" en cumbres con Estados Unidos si Washington persiste en no hacer concesiones, indic&oacute; el lunes el gobierno de Pyongyang, horas despu&eacute;s de que Donald Trump aludiera a una posible reuni&oacute;n.</p>
+<p>"Deber&iacute;a actuar r&aacute;pidamente y cerrar un acuerdo" hab&iacute;a tuiteado el domingo el presidente estadounidense, , dirigi&eacute;ndose al l&iacute;der norcoreano Kim Jong Un, antes de a&ntilde;adir: "&iexcl;Hasta pronto!"</p>
+<p>Los dos hombres se han reunido tres veces desde junio de 2018. Sin embargo las negociaciones entre Estados Unidos y Corea del Norte sobre el desmantelamiento del programa nuclear norcoreano est&aacute;n estancadas.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Pyongyang ha dado a Washington hasta fines de 2019 para proponer una nueva oferta. Kim Kye Gwan, un consejero del ministerio, afirm&oacute; en un comunicado difundido por la agencia de prensa oficial KCNA: "Ya no estamos interesados en este tipo de reuniones que no aportan nada".</p>
+<p>"No daremos nada m&aacute;s al presidente estadounidense de lo que pueda vanagloriarse" agreg&oacute;, y precis&oacute; que Pyongyang deber&iacute;a ser recompensado por los "&eacute;xitos" que Trump presenta como propios.</p>
+<p>Estas cr&iacute;ticas directas contra el inquilino de la Casa Blanca constituyen una novedad por parte de Corea del Norte, que hasta ahora dirig&iacute;a su descontento contra otros miembros de la administraci&oacute;n norteamericana.</p>
+}

@@ -1,0 +1,126 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>26-11-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/26-lo-importante.jpg
+    poster{image} /images/201911/posters/26-lo-importante.jpg
+    header-desktop1{image} /images/201911/26-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201911/26-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201911/26-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201911/26-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201911/26-lo-importante/square1.jpg
+    header-mobile2{image} /images/201911/26-lo-importante/square2.jpg
+    header-mobile3{image} /images/201911/26-lo-importante/square3.jpg
+    header-mobile4{image} /images/201911/26-lo-importante/square4.jpg
+}
+tags noticias
+title Lo Importante: 26-11-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 26
+month 11
+year 2019
+color #FCC285
+customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-26-11-19-e975fb"" width="100%" frameborder="0" scrolling="no"></iframe>
+title1 Muere manifestante herido por la fuerza pública en protestas en Colombia
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Un joven manifestante muri&oacute; este lunes, luego de haber sido herido por la fuerza p&uacute;blica el s&aacute;bado en medio de las protestas contra el gobierno de Iv&aacute;n Duque, que cumplen cinco d&iacute;as en Colombia.</p>
+<p>"Con pesar informamos, que no obstante la atenci&oacute;n brindada durante estos d&iacute;as, en nuestra Unidad de Cuidados Intensivos, Dilan Cruz, en raz&oacute;n a su estado cl&iacute;nico, acaba de fallecer", indic&oacute; el Hospital San Ignacio de Bogot&aacute; en un comunicado.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Cruz es el cuarto muerto registrado en las protestas contra el gobierno, que dejan de momento 500 heridos entre civiles, polic&iacute;as y militares, 172 detenidos y 61 extranjeros expulsados por participar en "actos vand&aacute;licos", la mayor&iacute;a venezolanos.</p>
+<p>"Lamentamos profundamente la muerte del joven Dilan Cruz. Expresamos nuestras sinceras condolencias a su mam&aacute;, su abuelo y sus dos hermanas. Reitero mi solidaridad con esta familia", indic&oacute; en un tuit el mandatario derechista.</p>
+<p>El estudiante de un colegio p&uacute;blico fue herido en la cabeza el s&aacute;bado por un artefacto no identificado lanzado por un miembro del escuadr&oacute;n antidisturbios, mientras manifestaba en el centro de Bogot&aacute;, seg&uacute;n qued&oacute; registrado en diferentes videos.</p>
+<p>Desde ese d&iacute;a se instal&oacute; una vigilia con flores y pancartas frente al hospital en donde fue internado.</p>
+<p>Tras su muerte se iniciaron cacerolazos y marchas en varios barrios de Bogot&aacute;, donde miles han manifestado contra las pol&iacute;ticas sociales, econ&oacute;micas y de seguridad del gobierno.</p>
+<p>Sus padres han llamado a evitar la violencia, a trav&eacute;s de comunicados.</p>
+<p><strong>Intento de di&aacute;logo</strong></p>
+<p>Presionado por las movilizaciones y con una popularidad en rojo, Duque convoc&oacute; a una reuni&oacute;n el martes con los promotores del llamado paro nacional, quienes de momento no han respondido a la invitaci&oacute;n.</p>
+<p>Los convocantes son de sectores tan amplios como los reclamos y exigencias contra el gobierno.</p>
+<p>Las centrales obreras rechazan supuestas iniciativas gubernamentales para flexibilizar el mercado laboral y las pensiones. Los estudiantes reclaman m&aacute;s recursos para la educaci&oacute;n p&uacute;blica, y los ind&iacute;genas, que no hacen parte del comit&eacute;, exigen protecci&oacute;n tras el asesinato de decenas de ellos desde que Duque asumi&oacute; el poder en agosto de 2018.</p>
+<p>Todos cuestionan el asesinato de l&iacute;deres sociales y el intento de modificar el pacto de paz de 2016 que desarm&oacute; a la exguerrilla FARC, que tambi&eacute;n ha participado en las marchas.</p>
+}
+title2 Ministro de Economía de Brasil revive polémica por decreto de dictadura militar
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El ministro de Econom&iacute;a de Brasil, Paulo Guedes, evoc&oacute; este lunes en Washington el decreto fundacional de la dictadura militar de su pa&iacute;s, en un duro intercambio con la prensa en el que critic&oacute; al expresidente Luiz In&aacute;cio Lula da Silva por llamar a la gente a las calles.</p>
+<p>Guedes revivi&oacute; una pol&eacute;mica lanzada a finales de octubre por Eduardo Bolsonaro, hijo del presidente Jair Bolsonaro, cuando dijo que si la izquierda se radicaliza una respuesta podr&iacute;a ser revivir el Acta Institucional n&uacute;mero 5 (AI-5), mediante la cual el r&eacute;gimen militar cerr&oacute; en 1968 el Congreso.</p>
+<p>"Es irresponsable llamar a la calle para decirles que tienen el poder", dijo el ministro sobre el pedido de Lula. "No se asusten si alguien pide el AI-5", agreg&oacute; despu&eacute;s de participar en un foro empresarial en Estados Unidos.</p>
+<p>Guedes defendi&oacute; que es irresponsable un llamado a movilizarse del expresidente de izquierda, en un momento en que su gobierno lleva menos de un a&ntilde;o en el poder y hay protestas en varios pa&iacute;ses de la regi&oacute;n.</p>
+<p>"Es irresponsable llamar a alguien a la calle ahora para generar una ruptura. Para decir que tienes que tomar el poder. Si uno cree en la democracia, espera ganar y ser elegido", afirm&oacute;.</p>
+<p>Guedes se refiri&oacute; en dos ocasiones al pol&eacute;mico decreto AI-5, pese a que a finales de octubre las declaraciones del hijo de Bolsonaro provocaron un generalizado rechazo y fueron incluso desestimadas por el presidente, que es conocido por sus posturas de ultraderecha.</p>
+<p>En un momento, ya visiblemente exasperado, Guedes sentenci&oacute;: "Fue una imprudencia comentar eso, yo me arrepiento profundamente" y agreg&oacute; que &eacute;l "jam&aacute;s aceptar&iacute;a un AI-5".</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Bolsonaro ha levantado varias pol&eacute;micas por sus reivindicaciones -desde que era congresista- tanto de la dictadura militar brasile&ntilde;a (1964-85) como de las que gobernaron los dem&aacute;s pa&iacute;ses de Am&eacute;rica Latina, que dejaron miles de muertos y desaparecidos en las d&eacute;cadas de 1970 y 1980.</p>
+<p>Sin embargo, el mandatario se&ntilde;al&oacute; en su momento que las declaraciones de su v&aacute;stago fueron "distorsionadas".</p>
+}
+title3 Una pregunta ronda en Bolivia: ¿por qué los militares abandonaron a Evo Morales?
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Las Fuerzas Armadas de Bolivia fueron determinantes en la renuncia de Evo Morales a la presidencia. Pero la pregunta a&uacute;n se mantiene: &iquest;por qu&eacute; los militares le dieron la espalda a quien fue su "capit&aacute;n general" por casi 14 a&ntilde;os?</p>
+<p>El domingo 10 de noviembre el comandante de las Fuerzas Armadas, general William Kaliman, le pidi&oacute; a Morales que diera un paso al costado, luego de dos semanas de violentas protestas propiciadas por la oposici&oacute;n que denunciaron un fraude del oficialismo en los comicios presidenciales del 20 de octubre.</p>
+<p>Kaliman ofreci&oacute; una declaraci&oacute;n de prensa que sell&oacute; la suerte de Morales y sepult&oacute; toda aspiraci&oacute;n para seguir en el poder: "Luego de analizar la situaci&oacute;n conflictiva interna, pedimos al presidente del Estado que renuncie a su mandato presidencial permitiendo la pacificaci&oacute;n y el mantenimiento de la estabilidad, por el bien de nuestra Bolivia".</p>
+<p>El mismo domingo, el comandante de la Polic&iacute;a, general Yuri Calder&oacute;n, se pleg&oacute; a ese llamado dos d&iacute;as despu&eacute;s que sus subalternos se rebelaran en todo el pa&iacute;s: "Nos sumamos al pedido del pueblo boliviano de sugerir al se&ntilde;or presidente Evo Morales que presente su renuncia para pacificar al pueblo de Bolivia".</p>
+<p>M&aacute;s tarde y despu&eacute;s de casi 14 a&ntilde;os en el poder, Morales dijo al pa&iacute;s y al mundo: "renuncio".</p>
+<p><strong>Sorpresa</strong></p>
+<p>&iquest;Por qu&eacute; los militares le dieron la espalda al presidente, tras a&ntilde;os de invariable lealtad? Por Constituci&oacute;n, el presidente cumple la funci&oacute;n de m&aacute;xima autoridad de las Fuerzas Armadas, con el rango de "capit&aacute;n general".</p>
+<p>La presidenta del Senado, Eva Copa, del partido Movimiento Al Socialismo (MAS) liderado por Morales, en el exilio en M&eacute;xico desde hace dos semanas, desliz&oacute; este lunes su sorpresa por el comportamiento de los uniformados.</p>
+<p>Consider&oacute; necesario que el exgobernante de 60 a&ntilde;os pueda explicar las dudas surgidas: "que nos contextualice para ver por qu&eacute; los militares pidieron su renuncia, cuando el presidente ten&iacute;a reuni&oacute;n todos los lunes con los militares".</p>
+<p>El Alto Mando Militar sol&iacute;a mantener encuentros semanales en Palacio de Gobierno, para evaluar la situaci&oacute;n pol&iacute;tica del pa&iacute;s y para definir acciones de pol&iacute;tica conjunta.</p>
+<p>Al llegar al poder en 2006, Morales busc&oacute; la forma de cambiar la l&oacute;gica pensante de las Fuerzas Armadas, a la que sol&iacute;a acusar de "colonialista" o de actuar al servicio de la derecha local. En 2010, a poco de comenzar su segundo mandato, sugiri&oacute; a los uniformados responder en los actos p&uacute;blicos con un "venceremos" al saludo presidencial de "patria o muerte" que utiliz&oacute; su mentor cubano Fidel Castro.</p>
+<p>Los militares asumieron y defendieron el grito. "Dicho lema resume un compromiso para velar por el destino de Bolivia, por lo que recogemos las palabras patria o muerte", dijo el entonces jefe militar, general Ramiro de la Fuente.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El exmandatario impuso un proceso de "desinstitucionalizaci&oacute;n" de las Fuerzas Armadas, dice el abogado y militar retirado Omar Dur&aacute;n. "Morales agarr&oacute; a las Fuerzas Armadas a su manera y a su estilo y eso motiv&oacute; un llunker&iacute;o (zalamer&iacute;o), por ejemplo, del general Kaliman".</p>
+<p>Los altos mandos se sometieron pol&iacute;ticamente, como &uacute;nica forma de que los uniformados puedan ascender de grado o llegar a alg&uacute;n puesto de jerarqu&iacute;a, agreg&oacute;.</p>
+<p>Pero, dice, tras la descomposici&oacute;n pol&iacute;tica, el mismo alto mando oblig&oacute; a Kaliman a pedir a Morales su renuncia.</p>
+<p>"Fue obligado a pedir renuncia", asegura Dur&aacute;n, algo que se desliz&oacute; en medios locales, aunque no hubo confirmaci&oacute;n oficial.</p>
+<p>"Lo que se necesita ahora es discutir qu&eacute; pas&oacute; con las Fuerzas Armadas, cicatrizar las heridas y discutir c&oacute;mo recuperar la institucionalidad", apunta el militar retirado.</p>
+<p><strong>Mot&iacute;n policial</strong></p>
+<p>Cuando se rompi&oacute; la cadena de mando con los militares, Morales ya soportaba desde hac&iacute;a dos d&iacute;as un mot&iacute;n policial. Los polic&iacute;as basaron sus reclamos "tras un tiempo de maltrato y menosprecio", explica a la AFP el exmayor David Vargas, quien comand&oacute; otro mot&iacute;n en 2003 contra el entonces presidente Gonzalo S&aacute;nchez de Lozada.</p>
+<p>Vargas afirma que los polic&iacute;as manten&iacute;an reclamos que no hab&iacute;an sido atendidos por el gobierno de Morales, como mejoras salariales y jubilaciones similares a las que reciben los militares (pensi&oacute;n vitalicia con el 100% del sueldo).</p>
+<p>Tanto Dur&aacute;n como Vargas coinciden en que las Fuerzas Armadas y la Polic&iacute;a deben encuadrar sus actos en la Constituci&oacute;n y las leyes y hacer los esfuerzos para no caer en un manoseo pol&iacute;tico de parte de los gobernantes de turno.</p>
+}
+title4 Manifestaciones en el mundo contra la violencia machista
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Decenas de miles de personas salieron a la calle en el mundo este lunes en el D&iacute;a Internacional contra la Violencia de G&eacute;nero, especialmente en Espa&ntilde;a, considerada pionera en la lucha contra esta lacra, y tambi&eacute;n en Centroam&eacute;rica, con un n&uacute;mero elevado de feminicidios.</p>
+<p>En la cuarta edici&oacute;n de esta jornada hubo movilizaciones en pa&iacute;ses tan diversos como Rusia, Sud&aacute;frica, Sud&aacute;n o Turqu&iacute;a, donde la polic&iacute;a dispers&oacute; con gases lacrim&oacute;genos y balas de goma a varios miles de manifestantes, en su mayor&iacute;a mujeres, que se congregaban en la capital.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La indignaci&oacute;n contra los feminicidios --87.000 mujeres asesinadas en el mundo en 2017, la mitad de ellas por gente cercana, seg&uacute;n la ONU-- ha ido en aumento estas &uacute;ltimas semanas en numerosos pa&iacute;ses. Y los llamados para que se produzca un cambio se han ido multiplicando.</p>
+<p>El lunes, la misi&oacute;n de Naciones Unidas en Afganist&aacute;n inst&oacute; al gobierno de Kabul a hacer un esfuerzo contra la violencia de g&eacute;nero, masiva en este pa&iacute;s y en alza, seg&uacute;n un reciente informe de la Comisi&oacute;n afgana de los derechos humanos.</p>
+<p>Decenas de miles de personas secundaron la convocatoria en Madrid, con lemas como "Basta ya, ni una m&aacute;s" o "Que viva la lucha de las mujeres".</p>
+<p><strong>Espa&ntilde;a, pa&iacute;s puntero</strong></p>
+<p>"Se ha avanzado mucho, pero hace falta bastante m&aacute;s", afirm&oacute; Marta Mart&iacute;nez, empleada de una empresa financiera, que incidi&oacute; en la necesidad de erradicar la brecha salarial entre hombres y mujeres, y aumentar los medios para prevenir este tipo de cr&iacute;menes.</p>
+<p>Espa&ntilde;a presume de ser un pa&iacute;s puntero en la lucha contra los feminicidios, reportados sistem&aacute;ticamente en la prensa y denunciados individualmente por autoridades y asociaciones.</p>
+<p>En 2004 se adopt&oacute; una ley contra la violencia de g&eacute;nero, bajo el gobierno socialista de Jos&eacute; Luis Rodr&iacute;guez Zapatero, y en 2017 un pacto de Estado, con el ejecutivo conservador de Mariano Rajoy.</p>
+<p>La novedad este a&ntilde;o es que la unanimidad hasta ahora imperante a nivel pol&iacute;tico se ha visto rota por la extrema derecha de Vox, tercera fuerza en el Parlamento espa&ntilde;ol.</p>
+<p>Vox se opone a la ley de violencia de g&eacute;nero pues, seg&uacute;n reiter&oacute; en un manifiesto el mi&eacute;rcoles pasado, "colectiviza y victimiza a la mujer" y "criminaliza" a los hombres.</p>
+<p>Una posici&oacute;n que le vali&oacute; una reprimenda al concejal y n&uacute;mero 2 de Vox, Javier Ortega-Smith, en un acto en el ayuntamiento, cuyas im&aacute;genes grabadas circularon r&aacute;pidamente por redes sociales.</p>
+<p>"&iexcl;Con la violencia no se hace pol&iacute;tica en este pa&iacute;s!", le espet&oacute; Nadia Otmani, una mujer marroqu&iacute; en silla de ruedas desde hace m&aacute;s de 20 a&ntilde;os, por unos disparos recibidos de su cu&ntilde;ado, cuando trataba de defender a su hermana. El dirigente de extrema derecha mir&oacute; a otro lado, mientras escuchaba esto.</p>
+<p>Las movilizaciones en Espa&ntilde;a se producen tras las celebradas el fin de semana en capitales europeas como Par&iacute;s, Roma o Bruselas.</p>
+<p>Los feminicidios se han erigido como una gran causa pol&iacute;tica en Francia, donde al menos 117 mujeres fueron asesinadas por sus c&oacute;nyuges o exc&oacute;nyuges este a&ntilde;o, seg&uacute;n un recuento realizado por la AFP.</p>
+<p>En respuesta, el primer ministro franc&eacute;s, &Eacute;douard Philippe, anunci&oacute; un vasto plan contra los asesinatos de mujeres, que incluir&aacute; en la ley la noci&oacute;n de "control psicol&oacute;gico".</p>
+<p><strong>"Vivas nos queremos"</strong></p>
+<p>En distintos pa&iacute;ses de Centroam&eacute;rica, la regi&oacute;n que exhibe las tasas m&aacute;s altas de feminicidios, tambi&eacute;n cientos de mujeres marcharon este lunes para decir basta.</p>
+<p>"Vivas nos queremos" o "Exigimos una vida libre de violencia" eran algunas de las consignas en la manifestaci&oacute;n en San Salvador.</p>
+<p>El Salvador registr&oacute; en 2018 la tasa m&aacute;s alta de feminicidios, con 6,8 por cada 100.000, de la regi&oacute;n, seg&uacute;n la Comisi&oacute;n Econ&oacute;mica para Am&eacute;rica Latina y el Caribe (Cepal).</p>
+<p>Otras marchas tuvieron lugar en San Jos&eacute;, en Costa Rica, y en la capital hondure&ntilde;a.</p>
+<p>En M&eacute;xico, donde seg&uacute;n cifras oficiales son asesinadas unas 10 mujeres al d&iacute;a, miles marcharon por la capital en una manifestaci&oacute;n encabezada por familiares de v&iacute;ctimas de feminicidio -que llevaban velas en sus manos-, pero que por momentos se torn&oacute; violenta y dej&oacute; destrozos y pintadas.</p>
+<p>M&aacute;s al sur en Latinoam&eacute;rica, cientos de mujeres marcharon en la capital argentina para expresar su repudio a la violencia machista y aprovecharon la ocasi&oacute;n para denunciar "un golpe de Estado" en Bolivia y manifestar su solidaridad con los manifestantes en Chile.</p>
+<p>En tanto, en Santiago la marcha confluy&oacute; con protestas contra el gobierno de Sebasti&aacute;n Pi&ntilde;era. Igual que en Colombia, donde miles de mujeres clamaron por respeto a sus derechos vestidas con prendas violetas en medio de las manifestaciones contra el presidente Iv&aacute;n Duque.</p>
+<p>En el continente africano, la mujeres tambi&eacute;n se movilizaron, como en Sud&aacute;n, donde se celebr&oacute; la primera concentraci&oacute;n de este tipo en d&eacute;cadas.</p>
+<p>Las manifestantes gritaban "Libertad, paz, justicia", uno de los esl&oacute;ganes del movimiento de protesta que sacudi&oacute; Sud&aacute;n de diciembre de 2018 a agosto de 2019 y aceler&oacute; la ca&iacute;da del presidente Omar Al Bashir, destituido por el ej&eacute;rcito en abril.</p>
+<p>En Sud&aacute;frica, donde una mujer es asesinada cada tres horas, el presidente Cyril Ramaphosa pidi&oacute; a los hombres que renuncien a las "actitudes sexistas y patriarcales", y lanz&oacute; un plan de urgencia de m&aacute;s de 1.500 millones de rands (100 millones de euros).</p>
+}

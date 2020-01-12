@@ -1,0 +1,107 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>09-01-20. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA NOTICIAS
+}
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/09-lo-importante.jpg
+    poster{image} /images/202001/posters/09-lo-importante.jpg
+    header-desktop1{image} /images/202001/09-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/202001/09-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/202001/09-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/202001/09-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/202001/09-lo-importante/square1.jpg
+    header-mobile2{image} /images/202001/09-lo-importante/square2.jpg
+    header-mobile3{image} /images/202001/09-lo-importante/square3.jpg
+    header-mobile4{image} /images/202001/09-lo-importante/square4.jpg
+}
+tags noticias, home
+title Lo Importante: 09-01-20
+description 4 historias importantes de las más recientes noticias internacionales
+day 09
+month 01
+year 2020
+color #ffff00
+title1 Guaidó llama a asambleas ciudadanas buscando recuperar poder de convocatoria
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El l&iacute;der opositor Juan Guaid&oacute;, ratificado como presidente del Parlamento venezolano, llam&oacute; este jueves a asambleas ciudadanas, en momentos en que busca recuperar el poder de convocatoria perdido en los &uacute;ltimos meses.</p>
+<p>Las asambleas, pautadas para las 18H00 locales (22H00 GMT), se realizar&aacute;n en el este de Caracas y se prev&eacute; que asistan algunos diputados opositores, sin la presencia del jefe parlamentario.&nbsp;</p>
+<p>Guaid&oacute; hab&iacute;a convocado a "actividades de calle" este jueves y viernes, as&iacute; como a una protesta para el s&aacute;bado y una manifestaci&oacute;n hacia el Palacio Legislativo el pr&oacute;ximo martes.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>El dirigente jur&oacute; el martes como "presidente encargado" de Venezuela al frente de la unicameral Asamblea Nacional, tras ser reelegido jefe parlamentario con los votos de un centenar de diputados opositores en las instalaciones de un peri&oacute;dico.</p>
+<p>Desde ese cargo, Guaid&oacute; reclam&oacute; en 2019 la presidencia interina con reconocimiento de medio centenar de pa&iacute;ses, despu&eacute;s de que la mayor&iacute;a opositora legislativa declarara "usurpador" al gobernante socialista Nicol&aacute;s Maduro, acus&aacute;ndole de haber sido reelegido fraudulentamente.</p>
+<p>El opositor intenta recuperar poder de convocatoria, pues le ha sido imposible reeditar en los &uacute;ltimos meses las multitudinarias protestas de principios de 2019.</p>
+<p>Tras fracasar en sus intentos de deponer a Maduro en 2019, su popularidad, que hab&iacute;a llegado a 63%, cay&oacute; a 38,9% en diciembre, seg&uacute;n la encuestadora Datan&aacute;lisis.</p>
+}
+title2 Brexit está a un paso de su histórica aprobación
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-&nbsp;</strong></p>
+<p>Boris Johnson se dispone a lograr lo que durante mucho tiempo pareci&oacute; imposible. Tras a&ntilde;os de divisiones, los diputados brit&aacute;nicos deben aprobar el jueves, en una sesi&oacute;n hist&oacute;rica, el acuerdo para sacar al Reino Unido de la Uni&oacute;n Europea el 31 de enero.</p>
+<p>El texto, inicialmente negociado por la anterior primera ministra, Theresa May, y modificado por Johnson tras su llegada al poder en julio, hab&iacute;a sido reiteradamente rechazado por el Parlamento, lo que oblig&oacute; a tres aplazamientos y provoc&oacute; adem&aacute;s una profunda crisis pol&iacute;tica.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-&nbsp;</strong></p>
+<p>Pero ahora, gracias a la aplastante mayor&iacute;a que el primer ministro conservador logr&oacute; en las legislativas anticipadas de diciembre, el proyecto de ley que traduce a la legislaci&oacute;n brit&aacute;nica el acuerdo de divorcio con Bruselas debe ser aprobado sin dificultades.</p>
+<p>Tras tres d&iacute;as de desapasionado examen legislativo, que contrasta con los acalorados debates que durante a&ntilde;os jalonaron un proceso ca&oacute;tico en una c&aacute;mara dividida entre partidarios y detractores del Brexit, los diputados adoptar&aacute;n el texto en una sesi&oacute;n no menos hist&oacute;rica por resultar totalmente previsible.</p>
+<p>Y que podr&iacute;a quedar deslucida si, como se especulaba despu&eacute;s de que comenzara el debate a primera hora de la tarde, la votaci&oacute;n se hace solo de viva voz: si nadie se opone, el texto podr&iacute;a ser aprobado directamente.</p>
+<p>"Lograr la adopci&oacute;n de la legislaci&oacute;n en la C&aacute;mara de los Comunes ser&aacute; un paso significativo", afirm&oacute; el portavoz de Johnson. "Habremos cumplido con el compromiso del primer ministro de realizar el Brexit", agreg&oacute;.</p>
+<p>As&iacute;, el 31 de enero, tres a&ntilde;os y medio despu&eacute;s del refer&eacute;ndum de 2016 en que 52% de brit&aacute;nicos vot&oacute; por el Brexit, el Reino Unido pondr&aacute; fin a 47 a&ntilde;os de complicada relaci&oacute;n con la UE. Y el bloque, por primera vez desde su creaci&oacute;n, perder&aacute; un pa&iacute;s miembro y ganar&aacute; un poderoso competidor comercial y financiero a sus puertas.</p>
+<p>Tras la aprobaci&oacute;n del jueves, el texto pasar&aacute; la semana que viene a la C&aacute;mara de los Lores, donde tampoco deber&iacute;a encontrar contratiempos. Se prev&eacute; que el proceso concluya, con la firma de la ley por la reina Isabel II, el 22 o 23 de enero.</p>
+<p>El acuerdo, que permite un divorcio suave y una transici&oacute;n hasta diciembre de 2020 para evitar rupturas abruptas y negociar la futura relaci&oacute;n, debe ser tambi&eacute;n ratificado por el Parlamento Europeo.</p>
+<p><br /><strong>-"Duras conversaciones por delante"-</strong></p>
+<p>El texto recoge entre otras cuestiones los derechos de los ciudadanos europeos en el Reino Unido y los brit&aacute;nicos en la UE, la factura -de unos 39.000 millones de libras- que Londres deber&aacute; pagar para honrar sus compromisos financieros con el bloque y el modo de mantener abierta la frontera terrestre en la isla de Irlanda.</p>
+<p>Tras el Brexit, Londres y Bruselas emprender&aacute;n una segunda, y m&aacute;s complicada, fase de negociaci&oacute;n, la de su futura relaci&oacute;n.</p>
+<p>Johnson prometi&oacute; concluirla antes de finales de a&ntilde;o para no tener que ampliar el periodo de transici&oacute;n.&nbsp;</p>
+<p>"Despu&eacute;s de haber esperado m&aacute;s de tres a&ntilde;os para realizar el Brexit, los ciudadanos brit&aacute;nicos y europeos esperan con raz&oacute;n que las negociaciones sobre un ambicioso acuerdo de libre comercio terminen a tiempo", le dijo el mi&eacute;rcoles a la nueva presidenta de la Comisi&oacute;n Europea, Ursula von der Leyen.</p>
+<p>Esta, que viaj&oacute; por primera vez a Londres tras asumir el cargo en diciembre, dej&oacute; sin embargo claro que el tiempo es insuficiente para alcanzar un acuerdo completo de libre comercio.</p>
+<p>"Tenemos duras conversaciones por delante y cada lado har&aacute; lo que sea mejor para &eacute;l", dijo. Y advirti&oacute; de que Londres podr&iacute;a perder su acceso al mercado europeo si insiste en concluirlas antes de finales de a&ntilde;o.</p>
+}
+title3 Franceses se dan cita en las calles para frenar la reforma de las pensiones de Macron
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Profesores, abogados, m&eacute;dicos y empleados ferroviarios se echar&aacute;n a las calles este jueves en Francia para intentar doblegar al presidente Emmanuel Macron y hacer que retire su pol&eacute;mica reforma de las pensiones tras m&aacute;s de un mes de huelgas y movilizaciones que no ceden.&nbsp;</p>
+<p>Con la promesa de crear un sistema "m&aacute;s justo" en el que cada euro cotizado genere los mismos derechos para todos, el mandatario franc&eacute;s quiere unificar el sistema de jubilaci&oacute;n del pa&iacute;s, en el que actualmente conviven 42 reg&iacute;menes diferentes.</p>
+<p>Pretende adem&aacute;s subir la edad de jubilaci&oacute;n que da derecho a cobrar el 100% de la prestaci&oacute;n de los 62 a los 64 a&ntilde;os, una "l&iacute;nea roja" para los sindicatos, que consideran esta medida "injusta e injustificada".</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>El 5 de diciembre, en la primera jornada de paro nacional contra la reforma de Macron, m&aacute;s de 800.000 personas salieron a las calles en todo el pa&iacute;s en rechazo a su reforma. Esta nueva convocatoria, la cuarta en poco m&aacute;s de un mes, ser&aacute; crucial.</p>
+<p>Tras m&aacute;s de un mes de manifestaciones y huelgas, principalmente en los transportes, el apoyo a la movilizaci&oacute;n, que se mantuvo alto en un primer tiempo, ha comenzado a caer.</p>
+<p>Seg&uacute;n una encuesta, un poco m&aacute;s del 60% de los franceses sigue apoyando a los manifestantes, 5 puntos menos que a mediados de diciembre.&nbsp;</p>
+<p>Las pensiones son un tema delicado en Francia, pues la poblaci&oacute;n est&aacute; muy apegada a un sistema de reparto conocido, hasta ahora, por ser uno de los m&aacute;s protectores del mundo.</p>
+<p><br /><strong>-Trenes, metros y vuelos afectados-</strong></p>
+<p>La compa&ntilde;&iacute;a ferroviaria nacional, SNCF, pidi&oacute; a los habitantes de la regi&oacute;n parisina optar por otros medios para desplazarse este jueves ya que s&oacute;lo uno de cada tres trenes suburbano funcionar&aacute; y una afluencia importante en las estaciones podr&iacute;a ser "peligrosa".</p>
+<p>"Para la seguridad de todos, y en la medida de lo posible, la SNCF recomienda no venir a las estaciones y utilizar otras soluciones de transporte, como compartir coches", indic&oacute; la compa&ntilde;&iacute;a.</p>
+<p>Tambi&eacute;n se prev&eacute;n fuertes perturbaciones en los trenes de larga distancia que conectan las principales ciudades de Francia, en los Thalys que unen Par&iacute;s a B&eacute;lgica, Holanda y Alemania, y en los Eurostar que van a Londres.</p>
+<p>La mayor&iacute;a de l&iacute;neas del metro de Par&iacute;s funcionaban &uacute;nicamente en las horas pico, pero estaban abarrotadas, al igual que los autobuses. Ante la falta de transportes, muchos parisinos optaron por ir a sus lugares de trabajo o de estudio en bicicleta o a pie.</p>
+<p>Tras 36 d&iacute;as de huelga ininterrumpida, el paro en los transportes bate r&eacute;cords. Se trata del m&aacute;s largo desde la creaci&oacute;n de la empresa de ferrocarriles francesa en 1938.</p>
+<p>Tambi&eacute;n se prev&eacute;n perturbaciones el jueves en la aviaci&oacute;n, as&iacute; como en las refiner&iacute;as, varias de las cuales votaron una huelga desde el martes y hasta finales de semana, lo que despierta temores de una escasez de combustible.</p>
+<p><br /><strong>-Torre Eiffel cerrada-</strong></p>
+<p>Varias escuelas amanecieron tambi&eacute;n cerradas el jueves. Los sindicatos prev&eacute;n 40% de huelguistas entre los profesores, que se oponen a la reforma de las pensiones porque consideran que cobrar&aacute;n menos pensi&oacute;n una vez que se jubilen.</p>
+<p>Tampoco abrir&aacute; sus puertas al p&uacute;blico la Torre Eiffel, uno de los monumentos m&aacute;s visitados del mundo, debido a que una parte de sus trabajadores est&aacute;n en huelga. Sin embargo, el acceso a la plaza donde se encuentra el monumento permanecer&aacute; abierto de manera gratuita.</p>
+<p>Los abogados, que con el proyecto de Macron perder&aacute;n su r&eacute;gimen aut&oacute;nomo de pensiones, saldr&aacute;n tambi&eacute;n a manifestar este jueves. Desde el lunes, 70.000 est&aacute;n en huelga en todo el pa&iacute;s.</p>
+<p>Las negociaciones entre el gobierno y los sindicatos para salir de esta crisis social, una de las peores desde la llegada al poder de Emmanuel Macron en 2017, est&aacute;n estancadas.</p>
+<p>El martes, d&iacute;a en el que se reanudaron las discusiones tras una pausa por las vacaciones de Navidad, ambas partes se mantuvieron firmes en sus posiciones.</p>
+<p>Ya se han fijado nuevas negociaciones para el viernes sobre la financiaci&oacute;n de las pensiones pero los sindicatos ya han convocado una nueva manifestaci&oacute;n para este s&aacute;bado.</p>
+}
+title4 UE defiende acuerdo nuclear iraní pese a llamado de Trump
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El presidente del Consejo Europeo, Charles Michel, defendi&oacute; este jueves el acuerdo nuclear con Ir&aacute;n, pese al llamado de Donald Trump a los europeos para que lo abandonen, y advirti&oacute; a Teher&aacute;n contra cualquier "acci&oacute;n irreversible".</p>
+<p>El acuerdo fue "un logro importante tras 10 a&ntilde;os de intensas negociaciones internacionales y sigue siendo una herramienta importante para la estabilidad regional", dijo Michel, seg&uacute;n un comunicado de su oficina.</p>
+<p>En una conversaci&oacute;n telef&oacute;nica con el presidente iran&iacute; Hasan Rohani, Michel reiter&oacute; el compromiso de los europeos "con todas las partes para desactivar las tensiones" tras los recientes acontecimientos, precisa el comunicado.</p>
+<p>Ir&aacute;n atac&oacute; en la madrugada del mi&eacute;rcoles con misiles bal&iacute;sticos bases en Irak que albergan a los soldados estadounidenses, en represalia por la eliminaci&oacute;n del general iran&iacute; Qasem Soleimani en Bagdad.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>El presidente estadounidense, que jug&oacute; el mi&eacute;rcoles la carta del apaciguamiento, urgi&oacute; no obstante a los europeos a abandonar del acuerdo nuclear sobre Ir&aacute;n firmado en 2015. Washington as&iacute; lo hizo en 2018 y reimpuso sanciones a Teher&aacute;n.</p>
+<p>El Reino Unido, Francia y Alemania siguen dentro de este pacto internacional, al igual que Rusia y China.</p>
+<p>"La UE tiene sus propios intereses y su visi&oacute;n", se&ntilde;ala el comunicado, que precisa que Michel urgi&oacute; a Rohani a "evitar adentrarse en acciones irreversibles".</p>
+<p>Los cancilleres europeos deben reunirse el viernes en Bruselas para abordar la situaci&oacute;n en Ir&aacute;n, &uacute;ltimo episodio de una intensa semana diplom&aacute;tica, un encuentro durante el cual buscar&aacute;n tambi&eacute;n calmar la crisis en Libia.</p>
+}

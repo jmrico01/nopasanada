@@ -1,0 +1,56 @@
+type article
+featured{kmkv} {
+    pretitle CULTURA:
+    title STREETWEAR
+    text1 {
+EL LEGADO DE STÜSSY
+}
+    text2 {
+POR MAURICIO FONSECA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/27-stussy.jpg
+    poster{image} /images/201911/posters/27-stussy.jpg
+    ceviche1{image} /images/201911/13-ceviches/ceviche1.jpg
+    ceviche2{image} /images/201911/13-ceviches/ceviche2.jpg
+    boomer1{image} /images/201911/26-ok-boomer/boomer1.jpg
+    boomer2{image} /images/201911/26-ok-boomer/boomer2.jpg
+    boomer3{image} /images/201911/26-ok-boomer/boomer3.jpg
+    boomer4{image} /images/201911/26-ok-boomer/boomer4.jpg
+    shawnstussy{image} /images/201911/27-stussy/shawnstussy.jpg
+    stussytribejacket{image} /images/201911/27-stussy/stussytribejacket.jpg
+    skaterstussy{image} /images/201911/27-stussy/skaterstussy.jpg
+}
+tags cultura
+title Stüssy: la marca pionera del streetwear
+description Shawn Stussy cambió de forma definitiva el mercado de la ropa casual, a pesar de que nunca invirtió en publicidad para su marca. @mauriciofonsecavargas - dueño de la marca @milagro_1990 - nos cuenta la historia del padre del streetwear.
+day 27
+month 11
+year 2019
+color #ffb3a1
+author Mauricio Fonseca
+subtitle A pesar de no invertir en publicidad ni aceptar las ofertas de inversionistas, Shawn Stussy y Frank Sinatra Jr. cambiaron para siempre la ropa casual con su marca.
+text {
+<p>Mauricio Fonseca es el due&ntilde;o de la marca de streetwear Milagro.</p>
+<p>En 1982, de forma casi accidental, <a href="https://www.stussy.com/">Shawn Stussy</a> cambi&oacute; para siempre el mercado de la ropa casual, y muchos lo consideran el creador de una nueva rama de la industria de la moda, com&uacute;nmente conocida como streetwear - una s&iacute;ntesis formidable de las subculturas generadas &ldquo;en las calles&rdquo; de las grandes ciudades del mundo, como el skateboarding, el hip hop, el surf, el punk, entre otros.</p>
+<p>$instagram/B5DtXpkpWfg$</p>
+<p>En el a&ntilde;o 1980 Shawn Stussy ya era un reconocido artesano de tablas de surf, las cuales se diferenciaban por sus gr&aacute;ficas basadas en el New Wave y el Punk Rock. Como una estrategia de promoci&oacute;n alternativa para sus tablas, estamp&oacute; camisetas con su logo para un peque&ntilde;o stand en el Action Sports Retailer trade show de 1981. <a href="https://www.grailed.com/drycleanonly/stussy-master-class">Las camisetas se vendieron mejor y m&aacute;s r&aacute;pido que las tablas.</a></p>
+<p>Hoy en d&iacute;a, Stussy contin&uacute;a influenciando miles de marcas alrededor del mundo - algunas de alta costura; obtener una de sus prendas es objeto de orgullo. La marca sustent&oacute; el origen de un movimiento, hizo relevante piezas que hoy son b&aacute;sicas, como las gorras de b&eacute;isbol, y funcion&oacute; de contraparte para toda la ropa con dise&ntilde;os extravagantes de la &eacute;poca.</p>
+<p>$image/shawnstussy$</p>
+<p>&iquest;C&oacute;mo se convirti&oacute; Stussy en una marca de dise&ntilde;o tan influyente, a pesar de que su inversi&oacute;n en publicidad fue casi nula? Su modelo estuvo siempre basado en la autenticidad de sus productos, y el de-boca-en-boca de sus influyentes clientes.</p>
+<p>La organicidad y simpleza de las prendas empez&oacute; a encontrar una exponencial popularidad a partir del a&ntilde;o 1986. Motivado por el &eacute;xito de ventas de sus pocas prendas e influenciado por sus propios gustos hacia algunas subculturas - como el hip hop, punk rock, skate (adem&aacute;s de algunos viajes a lugares como Nueva York, Tokio y Londres) - Shawn Stussy le fue dando forma a su marca. &ldquo;Nos vimos en el inicio de esta tendencia del Streetwear, cuando algunos de nuestros clientes m&aacute;s vanguardistas empezaron a buscar ropa para ir a los clubes en la noche&mdash;y no para un d&iacute;a en la playa,&rdquo; cuenta el cofundador de Stussy Frank Sinatra Jr en entrevista para Complex.</p>
+<p>Frank era amigo de la infancia de Shawn; totalmente convencido de su capacidad, le ofreci&oacute; una peque&ntilde;a cantidad de dinero para asociarse y realizar la primera verdadera l&iacute;nea completa de moda. En 1984 establecieron oficialmente Stussy, Inc.</p>
+<p>Para el a&ntilde;o 1988 Stussy contaba con un reconocimiento envidiable, no solamente en Estados Unidos, sino tambi&eacute;n en Europa y Jap&oacute;n. Incluso, se pod&iacute;a ver a los Beastie Boys y otros artistas <em>mainstream</em> en videos o campa&ntilde;a publicitarias vistiendo las camisetas, su&eacute;teres o los pioneros sombreros y gorras de b&eacute;isbol de Stussy. Mientras tanto Frank y Shawn lograban mantener la autenticidad de su preciado proyecto rechazando ofertas de inversionistas, con el fin de mantener las decisiones entre ellos.</p>
+<p>A inicios de la d&eacute;cada de los 90 Shawn fund&oacute; la <a href="https://straatosphere.com/bbcs-the-look-featuring-stussy/">International Stussy Tribe (IST),</a> un grupo de personas, amigos de diferentes ciudades y disciplinas que &eacute;l consideraba influyentes. Reconociendo la necesidad de todas las personas por buscar una identidad, Shawn aprovechaba al m&aacute;ximo su talento para importar y exportar tendencias.</p>
+<p>$image/stussytribejacket$</p>
+<p>Shawn y Frank consideraban la exclusividad como uno de los elementos principales de su marca: adem&aacute;s de no invertir en publicidad, la venta al por mayor de sus productos no se realizaba a cualquier tienda; el &eacute;xito de la marca se deb&iacute;a a los j&oacute;venes que, tras descubrir la calidad y el concepto de sus piezas, corr&iacute;an la voz a sus amigos. Tambi&eacute;n, se aventuraron a ofrecer a sus seguidores dise&ntilde;os basados en marcas de alta costura, porque de todas formas, la cultura del Hip Hop ya buscaba estos acercamientos al lujo que dichas marcas representaban.</p>
+<p>La primera tienda exclusiva de Stussy abri&oacute; en el barrio de Soho en Nueva York gracias a James Jebbia (fundador de la marca Supreme). Durante la primera mitad de la d&eacute;cada de los 90s, la marca disfrut&oacute; de un crecimiento exponencial; pero las cosas cambiaron r&aacute;pida y dr&aacute;sticamente. El estilo en las calles ya no era el mismo. Sin embargo, a&uacute;n en este momento cr&iacute;tico, los fundadores no quer&iacute;an abandonar la integridad de su proyecto, y se negaron a producir lo que los inversionistas les ped&iacute;an. No era sincero. Shawn decidi&oacute; partir su camino.</p>
+<p>As&iacute; naci&oacute; Supreme: Shawn Stussy abandon&oacute; su propia compa&ntilde;&iacute;a y Jebbia no quer&iacute;a depender m&aacute;s de Stussy. Frank dej&oacute; de suplicar atenci&oacute;n en Estados Unidos y concentr&oacute; sus esfuerzos en el mercado Europeo y Japon&eacute;s, para luego volver con m&aacute;s fuerzas a trav&eacute;s del &ldquo;Stussy Skateboarding Team&rdquo; al mercado que los vio nacer. Con este equipo, en Stussy no estaban interesados en conseguir los mejores skaters del mundo, sino armar un grupo de j&oacute;venes con estilo y personalidad. Ellos representaban a las nuevas generaciones.</p>
+<p>$image/skaterstussy$</p>
+<p>El skateboarding le hab&iacute;a devuelto a Stussy su credibilidad, pero la marca volvi&oacute; a las grandes ligas a trav&eacute;s de las tenis deportivas. Stussy se ali&oacute; con Nike para dise&ntilde;ar dos estilos especiales de los cuales se hicieron cerca de 5000 pares, para lanzarlos solo en las tiendas Stussy. Todas las tenis se vendieron por completo en dos d&iacute;as.</p>
+<p>Desde entonces, el streetwear no hace m&aacute;s que crecer: cada vez m&aacute;s cerca de los escenarios principales, pero conservando mucho de su est&eacute;tica. &ldquo;La diferencia entre Stussy y muchas otras compa&ntilde;&iacute;as es que las dem&aacute;s sienten que "Todo es nuestro, no quiero que nadie m&aacute;s opine o haga dinero" Nosotros no,&rdquo; cuenta Frank, continuando as&iacute; con el sentido de comunidad que cultiv&oacute; la marca desde sus inicios en los a&ntilde;os 80. Para este momento, en Jap&oacute;n y Korea la fiebre por el Street fashion crecer&iacute;a hasta alcanzar niveles de consumo quiz&aacute; mayores que en occidente.</p>
+<p>La enorme huella y legado que ha dejado la compa&ntilde;&iacute;a se debe a la autenticidad vanguardista de Shawn Stussy, pero sobre todo a la filosof&iacute;a que su co-fundador Frank Sinatra Jr. ha mantenido a lo largo de las d&eacute;cadas: en las buenas y en las malas, la integridad y la solidaridad hacia su propio mercado&hellip; y siempre, la creatividad primero.</p>
+<p>Fotograf&iacute;as @St&uuml;ssy</p>
+}

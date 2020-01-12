@@ -1,0 +1,56 @@
+type article
+featured{kmkv} {
+    pretitle CULTURA:
+    title TRISTEZA COMO<br>ACTO DE MAGIA<br>
+    text1 {
+DE LA EXPERIENCIA PERSONAL AL PRODUCTO, SIN PENSAR EN EL RESULTADO: UN CINEASTA NOS DETALLA SU PROCESO CREATIVO.
+}
+    text2 {
+POR JOSÉ PABLO GARCÍA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/30-tristeza.jpg
+    poster{image} /images/201911/posters/30-tristeza.jpg
+    ceviche1{image} /images/201911/13-ceviches/ceviche1.jpg
+    ceviche2{image} /images/201911/13-ceviches/ceviche2.jpg
+    boomer1{image} /images/201911/26-ok-boomer/boomer1.jpg
+    boomer2{image} /images/201911/26-ok-boomer/boomer2.jpg
+    boomer3{image} /images/201911/26-ok-boomer/boomer3.jpg
+    boomer4{image} /images/201911/26-ok-boomer/boomer4.jpg
+    shawnstussy{image} /images/201911/27-stussy/shawnstussy.jpg
+    stussytribejacket{image} /images/201911/27-stussy/stussytribejacket.jpg
+    skaterstussy{image} /images/201911/27-stussy/skaterstussy.jpg
+}
+tags cultura
+title Convertir la tristeza en un acto de magia
+day 30
+month 11
+year 2019
+color #ffb3a1
+author José Pablo García
+subtitle De la experiencia personal al producto, sin pensar en el resultado: un cineasta y escritor nos insta a dejar salir todo para iniciar el proceso creativo.
+text {
+<p><strong><em>Jos&eacute; Pablo Garc&iacute;a</em></strong> es el creador de la serie web Dele Viaje; tambi&eacute;n es fot&oacute;grafo, comunicador, creador audiovisual, y profesor universitario. Instagram: <a href="https://www.instagram.com/p__e__r__s__o__n__a/">@p<strong>e</strong>r<strong>s</strong>o<strong>n</strong>a</a></p>
+<p><em>Imagen destacada: <a href="https://www.instagram.com/deleviaje/">@DeleViaje</a></em></p>
+<p>Una y media de la ma&ntilde;ana. Sigo d&aacute;ndole vueltas a lo mismo. No tengo sue&ntilde;o, pero muero por descansar. Agotado. No puedo parar de llorar. No s&eacute; qu&eacute; me pasa. Ya se me hizo tan com&uacute;n esa sensaci&oacute;n de tener los ojos pesados y con unas ganas terribles por explotar en l&aacute;grimas&hellip; Pero ya no quiero llorar m&aacute;s. &iexcl;No tiene sentido tener que llorar tanto!</p>
+<p>&iquest;Por qu&eacute; estos momentos de vulnerabilidad son tan valiosos desde un punto de vista art&iacute;stico? Vivimos en una sociedad que se ha vuelto adicta a la rutina y a la comodidad. Suprimimos y camuflamos las emociones como resultado de imposiciones y obligaciones. Pero si logramos exponernos a nosotros mismos como seres humanos m&aacute;s vulnerables, podemos aprender a construir mayor confianza en nosotros mismos y nuestras relaciones humanas.</p>
+<p>En una de las &uacute;ltimas sesiones del curso de T&eacute;cnicas de Narraci&oacute;n que doy para la Universidad de Costa Rica, vimos un par de fragmentos de la pel&iacute;cula <a href="https://www.rottentomatoes.com/m/wings_of_desire">Wings of Desire</a> (1987) de <a href="https://es.wikipedia.org/wiki/Wim_Wenders">Wim Wenders</a>: la historia de un grupo de &aacute;ngeles invisibles e inmortales que transitan por la ciudad de Berl&iacute;n, pero que pueden escuchar todos los pensamientos de los seres humanos sin poder interactuar con ellos. &iquest;Qu&eacute; estar&iacute;a escuchando uno de esos &aacute;ngeles si estuviera sentado a la par tuya en este momento? Cuando les comparto esta pregunta, los estudiantes se sorprenden, algunos se muestran inc&oacute;modos. Pero en general, el ejercicio resulta ser una &ldquo;incomodidad&rdquo; agradable para la gran mayor&iacute;a de ellos, que pocas veces han experimentando una escritura sobre la que ejerzan menos juicio y que active zonas desconocidas, vulnerables, m&aacute;gicas y asombrosas.</p>
+<p>Ha sido un gran reto incorporar un enfoque mucho m&aacute;s introspectivo a un curso que tradicionalmente dedica m&aacute;s energ&iacute;a a la parte te&oacute;rica e hist&oacute;rica de la narraci&oacute;n. Sin dejar de lado ese reconocimiento fundamental por la forma en que los seres humanos contamos y estructuramos historias desde que existimos, he buscado abrir espacios para ejercicios pr&aacute;cticos que permiten a los estudiantes escribir y crear a partir de la estimulaci&oacute;n del inconsciente y la intuici&oacute;n.</p>
+<p>Nunca fui muy fan de los proyectos esot&eacute;ricos y surrealistas de <a href="https://es.wikipedia.org/wiki/Alejandro_Jodorowsky">Alejandro Jodorowsky</a> (escritor, director de cine, guionista y actor chileno). A pesar de que me parec&iacute;an interesantes e inc&oacute;modas sus propuestas, me costaba conectar emocionalmente con las historias y los personajes. Pero en los &uacute;ltimos a&ntilde;os, mi curiosidad por su <em>psicomagia</em> me llev&oacute; a conectar con su visi&oacute;n desde otra perspectiva: una m&aacute;s consciente e interpretativa. De esta forma, cada vez que me siento muy triste, muy enojado, o muy feliz, recuerdo la posibilidad que tengo de convertir ese momento en un peque&ntilde;o <em>acto de magia.</em></p>
+<p>Alejandro Jodorowsky define a la <a href="https://www.guioteca.com/psicologia-y-tendencias/psicomagia-para-principiantes-lo-que-hay-que-saber-de-la-tecnica-espiritual-de-jodorowsky/">psicomagia</a> como <em>&ldquo;una t&eacute;cnica de sanaci&oacute;n espiritual que propone actuar a trav&eacute;s de actos, im&aacute;genes, sonidos, olores, sabores o sensaciones t&aacute;ctiles; para que nuestro inconsciente acepte la realizaci&oacute;n simb&oacute;lico-metaf&oacute;rica de la &lsquo;soluci&oacute;n&rsquo; que busc&aacute;bamos.&rdquo;</em> A m&iacute; me gusta interpretarlo como un espacio para improvisar y abrirnos a lo desconocido, donde la vulnerabilidad te permite sentir la fragilidad de la vida, y al mismo tiempo crear desde el inconsciente.</p>
+<p><a href="https://es.wikipedia.org/wiki/Derek_Bailey_(guitarrista)">Derek Bailey</a>, un guitarrista brit&aacute;nico muy importante que descubr&iacute; recientemente, dibuj&oacute; una especie de mapa para la improvisaci&oacute;n musical y la inspiraci&oacute;n espont&aacute;nea en los a&ntilde;os 80. En su libro <em><a href="https://www.amazon.com/Improvisation-Its-Nature-Practice-Music/dp/0306805286">La improvisaci&oacute;n. Su naturaleza y su pr&aacute;ctica en la m&uacute;sica</a></em>, asegura que <em>&ldquo;a muchos improvisadores les gusta improvisar por las posibilidades. Cosas que pueden suceder, pero que lo hacen raramente. Una de esas cosas es que &lsquo;sales de ti mismo&rsquo;. Sucede algo que te desorienta tanto que, durante un tiempo, quiz&aacute;s solo un par de segundos, tus reacciones y respuestas no son las habituales. Puedes hacer algo que no sab&iacute;as que eras capaz de hacer&rdquo;.</em></p>
+<p>Cuando algo se desencadena dentro de nosotros, tenemos una oportunidad &uacute;nica para iniciar un proceso que nos permite cuestionar, aceptar, descubrir&hellip; Es una oportunidad que permite a la improvisaci&oacute;n liderar un proceso creativo valios&iacute;simo. Pero es necesario tomar el riesgo&hellip;</p>
+<p>&iquest;Y si estimulamos el subconsciente y las capas m&aacute;s profundas de la mente? &iquest;Aprovechamos la intuici&oacute;n y la espontaneidad para construir historias y personajes que se sientan m&aacute;s honestos&hellip; como una nueva forma de cuestionar la realidad, el tiempo y la transformaci&oacute;n de la existencia? Dejar salir lo que normalmente reprimimos. Canalizar lo que sentimos sin ejercer tanto control y tanto juicio. Vale la pena arriesgar; la historia la podemos armar despu&eacute;s, a trav&eacute;s de la edici&oacute;n del material</p>
+<p>El proceso y el resultado</p>
+<p>Sigo llorando. Muy identificado con pensamientos negativos. No tengo ganas de nada. No quiero hablar. No quiero dormir. No quiero escribir.</p>
+<p>Saco la c&aacute;mara.</p>
+<p>Alisto el micr&oacute;fono (por aquello de que se logre escuchar algo).</p>
+<p>Acomodo las luces que tengo. Tambi&eacute;n el espacio (un poquito).</p>
+<p>Pongo la c&aacute;mara y el micr&oacute;fono a grabar.</p>
+<p>Me acuesto en la cama frente a la c&aacute;mara.</p>
+<p>Capturo lo que sea que est&eacute; sintiendo en ese momento.</p>
+<p>Termino de grabar.</p>
+<p>Me siento a editar y construir una historia con el material que logr&eacute; capturar. El resultado se puede ver <a href="https://vimeo.com/339285450/9fc560911c">aqu&iacute;.</a></p>
+}

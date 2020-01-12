@@ -1,0 +1,19 @@
+type video
+featured{kmkv} {
+}
+media{kmkv} {
+    header{image} /images/unused/garrazo.jpg
+}
+tags deporte, pasaen
+title HEREDIANO VA POR EL TÍTULO
+titlePoster Pasa En La Liga Promerica
+description Luego de un largo y difícil camino, conocemos como el Club Sport Herediano va por el titulo de esta Liga Promerica.
+day 10
+month 12
+year 2019
+color #E89EA2
+videoID ITcpZFbDV4w
+subtitle Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
+text {
+<p>Luego de un largo y dif&iacute;cil camino, conocemos como el Club Sport Herediano va por el titulo de esta Liga Promerica.</p>
+}

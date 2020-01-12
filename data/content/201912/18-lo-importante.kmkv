@@ -1,0 +1,117 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>18-12-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201912/headers/18-lo-importante.jpg
+    poster{image} /images/201912/posters/18-lo-importante.jpg
+    header-desktop1{image} /images/201912/18-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201912/18-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201912/18-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201912/18-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201912/18-lo-importante/square1.jpg
+    header-mobile2{image} /images/201912/18-lo-importante/square2.jpg
+    header-mobile3{image} /images/201912/18-lo-importante/square3.jpg
+    header-mobile4{image} /images/201912/18-lo-importante/square4.jpg
+}
+tags noticias, home
+title Lo Importante: 18-12-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 18
+month 12
+year 2019
+color #FCC285
+customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-18-12-19-e9jomo" width="100%" frameborder="0" scrolling="no"></iframe>
+title1 Trump insiste, horas antes de voto sobre juicio político, en que no hizo "nada malo"
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p dir="ltr"><strong>-&iquest;Qu&eacute; necesitas saber?-&nbsp;</strong></p>
+<p dir="ltr">El presidente estadounidense, Donald Trump, insisti&oacute; este mi&eacute;rcoles que no hizo "nada malo", horas antes de una votaci&oacute;n en la C&aacute;mara de Representantes que podr&iacute;a activar un juicio pol&iacute;tico en su contra en el Senado.</p>
+<p dir="ltr">"Pueden creer que ser&eacute; acusado hoy por la Izquierda Radical y los dem&oacute;cratas que no hacen nada, &iexcl;Y NO HICE NADA MALO! Es una cosa terrible", dijo Trump en Twitter.</p>
+<p dir="ltr">"Esto no deber&iacute;a nunca pasarle a otro presidente. Recen", a&ntilde;adi&oacute;.</p>
+<p dir="ltr"><strong>-&iquest;Por qu&eacute; nos importa?-&nbsp;</strong></p>
+<p dir="ltr">La C&aacute;mara de Representantes, controlada por la oposici&oacute;n dem&oacute;crata, decidir&aacute; al final de la tarde, tras una sesi&oacute;n de seis horas, si aprueba los dos cargos de la acusaci&oacute;n (impeachment) contra el presidente: "abuso de poder" y "obstrucci&oacute;n al trabajo del Congreso".</p>
+<p dir="ltr">Ser&iacute;a el tercer juicio pol&iacute;tico en la historia de Estados Unidos.</p>
+<p dir="ltr">Los dem&oacute;cratas acusan a Trump de haber abusado su poder con fines pol&iacute;ticos personales al congelar una ayuda militar a Ucrania para forzar al pa&iacute;s europeo a abrir una investigaci&oacute;n contra Joe Biden, su potencial rival en la elecci&oacute;n presidencial de 2020.</p>
+<p dir="ltr">Si la C&aacute;mara Baja aprueba las acusaciones, el Senado tomar&aacute; las riendas del juicio pol&iacute;tico, probablemente en enero. La mayor&iacute;a republicana en la c&aacute;mara alta hace de una destituci&oacute;n del mandatario un resultado altamente improbable.</p>
+<p><!--EndFragment--></p>
+}
+title2 Macron, dispuesto a "mejorar" su polémica reforma de pensiones ante la presión de las calles
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p dir="ltr"><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p dir="ltr">El presidente de Francia, Emmanuel Macron, dio a entender el mi&eacute;rcoles que podr&iacute;a hacer alguna concesi&oacute;n en su proyecto de reforma de pensiones durante las negociaciones con los sindicatos, despu&eacute;s de dos semanas de huelga de transporte y movilizaci&oacute;n en las calles que amenazan con aguar las fiestas de fin de a&ntilde;o de los franceses.</p>
+<p dir="ltr">"El presidente no abandonar&aacute; el proyecto, pero est&aacute; dispuesto a mejorarlo durante las conversaciones previstas con los sindicatos", afirmaron este mi&eacute;rcoles fuentes cercanas al jefe de Estado, que auguran "avances importantes" antes de que finalice la semana.</p>
+<p dir="ltr">El primer ministro franc&eacute;s, Edouard Philippe, recibir&aacute; este mi&eacute;rcoles por la tarde a los responsables de los sindicatos y la patronal para intentar encontrar una salida a la crisis que tiene entre la espada y la pared al gobierno, preocupa a los comerciantes y tiene hastiada a la poblaci&oacute;n.</p>
+<p dir="ltr">Es urgente hallar una soluci&oacute;n cuando faltan tres d&iacute;as para el inicio de las vacaciones de Navidad, durante las cuales miles de personas podr&iacute;an encontrarse sin trenes para pasar las fiestas en familia.</p>
+<p dir="ltr">Macron, al que esta protesta no ha perjudicado a&uacute;n en t&eacute;rminos de popularidad, quiere "obtener una pausa" en la movilizaci&oacute;n social "durante las fiestas" de fin de a&ntilde;o, seg&uacute;n fuentes del gobierno.</p>
+<p dir="ltr">Los sindicatos, sin embargo, reiteraron esta semana que no tienen intenciones de hacer una "tregua" navide&ntilde;a si el gobierno no da su brazo a torcer y retira su proyecto de reforma.</p>
+<p dir="ltr"><strong>-&iquest;Por qu&eacute; nos importa?-&nbsp;</strong></p>
+<p dir="ltr">Seg&uacute;n las informaciones filtradas por fuentes cercanas a Macron, el ejecutivo podr&iacute;a hacer concesiones sobre uno de los puntos m&aacute;s pol&eacute;micos de su reforma: la llamada "edad de equilibrio" o edad oficial de jubilaci&oacute;n, que la reforma sit&uacute;a en 64 a&ntilde;os a partir de 2027 frente a los 62 actuales.</p>
+<p dir="ltr">Trabajar menos de esa edad dar&iacute;a derecho a una pensi&oacute;n m&aacute;s peque&ntilde;a, trabajar m&aacute;s all&aacute; de esa edad, a una remuneraci&oacute;n mayor. Esta idea ha sido rechazada en bloque por los sindicatos, sobre todo la CFDT, que era hasta hace poco el principal aliado del gobierno, que la considera como una "l&iacute;nea roja" peligrosa que el gobierno hab&iacute;a atravesado.</p>
+<p dir="ltr">Philippe har&aacute; todo lo posible para recuperar a su aliado, con la ayuda de Laurent Pietraszewski, el nuevo encargado del gobierno para esta reforma de las pensiones, que reemplaza a otro responsable que dimiti&oacute; en plena crisis social por un presunto conflicto de intereses.</p>
+<p dir="ltr">Los sindicatos llegan a la mesa de negociaciones fortalecidos despu&eacute;s de que el martes lograran sacar a las calles a cientos de miles de personas en todo el pa&iacute;s, en la tercera jornada de protestas nacionales en dos semanas.</p>
+<p dir="ltr">M&aacute;s de 600.000 manifestantes, seg&uacute;n el ministerio del Interior, y 1,8 millones, seg&uacute;n los sindicatos, participaron en las protestas en varias ciudades de Francia, en rechazo a esta reforma que prev&eacute; fusionar los 42 reg&iacute;menes de pensiones existentes en un sistema &uacute;nico.</p>
+<p dir="ltr"><strong>-14 d&iacute;as de caos en los transportes-&nbsp;</strong></p>
+<p dir="ltr">La situaci&oacute;n en los transportes segu&iacute;a siendo ca&oacute;tica este mi&eacute;rcoles, en el decimocuarto d&iacute;a de huelgas y la exasperaci&oacute;n entre la poblaci&oacute;n se hac&iacute;a sentir.</p>
+<p dir="ltr">Ir al trabajo o a sus lugares de estudio era un desaf&iacute;o para miles de franceses, principalmente en la regi&oacute;n parisina.</p>
+<p dir="ltr">A primera hora del mi&eacute;rcoles se registraban 350 kil&oacute;metros de embotellamientos en los accesos a Par&iacute;s, un volumen de veh&iacute;culos in&eacute;dito.</p>
+<p dir="ltr">Desplazarse dentro de la capital era tambi&eacute;n una odisea: 8 de las 16 l&iacute;neas del metro estaban cerradas, cuatro funcionaban parcialmente, y solo dos, totalmente automatizadas, operaban con normalidad.</p>
+<p dir="ltr">Los trenes suburbanos y los autobuses circulaban a cuentagotas y en ellos no cabe una alfiler. Muchos ciudadanos prefer&iacute;an tomar bicicletas o monopatines o recorrer decenas de kil&oacute;metros a pie.</p>
+<p dir="ltr">Seg&uacute;n una encuesta, 62% de los franceses sigue apoyando la huelga, pero el 69% desea una "tregua" por Navidad.</p>
+<p dir="ltr">Las pensiones es un tema particularmente delicado en Francia, en donde la poblaci&oacute;n est&aacute; muy apegada a un sistema por repartici&oacute;n, en el que los trabajadores actuales pagan las pensiones de los jubilados actuales, y conocido por ser uno de los m&aacute;s protectores del mundo.</p>
+}
+title3 Autoridad forense estima que en Colombia hay unos 200.000 cuerpos sin identificar
+author3 No Pasa Noticias y AFP
+text3 {
+<p dir="ltr"><strong>-&iquest;Qu&eacute; necesitas saber?-&nbsp;</strong></p>
+<p dir="ltr">Alrededor de 200.000 cuerpos sin identificar est&aacute;n en cementerios y fosas clandestinas de Colombia, inform&oacute; este martes la autoridad forense.</p>
+<p dir="ltr">La estimaci&oacute;n fue realizada a partir de la cantidad de cad&aacute;veres que han pasado por morgues y el sistema de salud. Tambi&eacute;n incluye a los desaparecidos que pueden estar enterrados en tumbas sin nombre, se&ntilde;al&oacute; a la AFP la directora del Instituto Nacional de Medicina Legal y Ciencias Forenses, Claudia Garc&iacute;a.</p>
+<p dir="ltr">"La cifra es m&aacute;s o menos de 200.000 casos", dijo la funcionaria, enfatizando en que se requerir&iacute;a "casi 100 a&ntilde;os" para identificarlos.&nbsp;</p>
+<p dir="ltr">En declaraciones a RCN Radio, agreg&oacute; que por a&ntilde;o est&aacute;n resolviendo de 1.000 a 2.000 de esos casos.</p>
+<p dir="ltr">El &oacute;rgano estatal forense divulg&oacute; su estimaci&oacute;n a prop&oacute;sito del hallazgo de una fosa donde, por versiones de un militar que colabora con la justicia, hay enterrados hasta 50 civiles que fueron ejecutados por soldados y presentados como guerrilleros ca&iacute;dos en combate.</p>
+<p dir="ltr">La identificaci&oacute;n de los cuerpos ser&aacute; un primer paso para dar respuesta a quienes buscan a sus familiares desaparecidos y poder decirles "la verdad de lo que pas&oacute;", agreg&oacute; Garc&iacute;a.</p>
+<p dir="ltr">Los presuntos cr&iacute;menes de civiles engrosar&iacute;an el expediente de lo que en Colombia se conoce como "falsos positivos", ejecuciones extrajudiciales de al menos 2.248 personas en las &uacute;ltimas d&eacute;cadas.</p>
+<p dir="ltr"><strong>-&iquest;Por qu&eacute; nos importa?-&nbsp;</strong></p>
+<p dir="ltr">El 59% de esas muertes ocurri&oacute; entre 2006 y 2008 bajo el gobierno del expresidente &Aacute;lvaro Uribe.</p>
+<p dir="ltr">La pr&aacute;ctica consist&iacute;a b&aacute;sicamente en un premiado "body count": contar cuerpos para inflar los logros del ej&eacute;rcito.&nbsp;Decenas de j&oacute;venes fueron enga&ntilde;ados con promesas de empleo, sacados de sus territorios y llevados lejos para ser asesinados y disfrazados de guerrilleros.</p>
+<p dir="ltr">En Colombia hay 80.514 desaparecidos en medio del conflicto armado que desde hace m&aacute;s de medio siglo desangra al pa&iacute;s, donde se han enfrentado grupos guerrilleros, paramilitares y fuerzas del Estado.</p>
+<p dir="ltr">Los desaparecidos en Colombia a su vez superan los 32.300 que dejaron las dictaduras de Argentina, Brasil y Chile en el siglo XX, seg&uacute;n datos oficiales de esos pa&iacute;ses.</p>
+}
+title4 Panamá busca conocer la verdad de la invasión estadounidense 30 años después
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p dir="ltr"><strong>-&iquest;Qu&eacute; necesitas saber?-&nbsp;</strong></p>
+<p dir="ltr">Panam&aacute; recuerda este viernes la cruenta invasi&oacute;n militar estadounidense de 1989, que sac&oacute; del poder al exdictador Manuel Antonio Noriega, una intervenci&oacute;n que tres d&eacute;cadas despu&eacute;s a&uacute;n genera suspicacias, recelos y reclamos a Washington.</p>
+<p dir="ltr">"En estos 30 a&ntilde;os ha habido un velo sobre todo lo ocurrido. Ahora se est&aacute; haciendo la averiguaci&oacute;n que se debi&oacute; haber hecho en su momento para determinar c&oacute;mo ocurrieron los hechos y sus consecuencias", dijo Juan Planells, presidente de la comisi&oacute;n gubernamental paname&ntilde;a que investiga la invasi&oacute;n.</p>
+<p dir="ltr">El 20 de diciembre de 1989, m&aacute;s de 27.000 soldados estadounidenses invadieron Panam&aacute; para derrocar a Noriega (1983-1989), reclamado por un tribunal de Miami por narcotr&aacute;fico.</p>
+<p dir="ltr">Pese al tiempo transcurrido, las investigaciones se han desarrollado "a paso de tortuga" porque "ha habido un deseo de no investigar" y "hemos tenido que empezar de cero", reconoci&oacute; Planells a la AFP.</p>
+<p dir="ltr">La invasi&oacute;n dividi&oacute; a los paname&ntilde;os durante a&ntilde;os, aunque ahora parece un tema casi olvidado. Oficialmente el n&uacute;mero de muertos durante la denominada operaci&oacute;n "Causa Justa" fue de 500, aunque organizaciones de derechos humanos elevan la cifra a varios miles.</p>
+<p dir="ltr">La comisi&oacute;n investigadora iniciar&aacute; en enero pr&oacute;ximo las primeras exhumaciones para identificar a las v&iacute;ctimas.</p>
+<p dir="ltr">"Sin duda esas leyendas urbanas de que murieron miles no tienen ning&uacute;n fundamento, aunque evidentemente despu&eacute;s de 30 a&ntilde;os es muy dif&iacute;cil llegar a la cifra exacta", admiti&oacute; Planells.</p>
+<p dir="ltr"><strong>-&iquest;Por qu&eacute; nos importa?-&nbsp;</strong></p>
+<p dir="ltr">Seg&uacute;n el entonces presidente de Estados Unidos, George Bush (1989-1993), la invasi&oacute;n se produjo para capturar a Noriega, quien fuera colaborador de la CIA, por su relaci&oacute;n con el narcotr&aacute;fico, y liberar a Panam&aacute; de la dictadura.</p>
+<p dir="ltr">Tras la invasi&oacute;n y hasta su muerte en 2017, Noriega estuvo preso en Estados Unidos, Francia y Panam&aacute; sentenciado por narcotr&aacute;fico, blanqueo de capitales y desaparici&oacute;n de opositores durante su r&eacute;gimen.</p>
+<p dir="ltr">La captura de Noriega fue "un pretexto utilizado por Estados Unidos para posteriores prop&oacute;sitos estrat&eacute;gicos y geopol&iacute;ticos, no solamente con Panam&aacute; sino con Centroam&eacute;rica", refut&oacute; Benjam&iacute;n Colamarco, exdirigente de las milicias populares que se opusieron a la invasi&oacute;n.</p>
+<p dir="ltr">Entre esos supuestos planes de Washington estar&iacute;an renegociar la entrega a Panam&aacute; del canal interoce&aacute;nico (que finalmente se dio en diciembre de 1999), castigar a Noriega por su negativa a intervenir contra el gobierno sandinista de Nicaragua, en momentos que Estados Unidos tem&iacute;a el avance del comunismo.&nbsp;</p>
+<p dir="ltr">"Fue una invasi&oacute;n brutal con grandes desproporciones. Ellos sab&iacute;an que aqu&iacute; no hab&iacute;a m&aacute;s de unos 2.000 hombres que realmente se pod&iacute;an considerar soldados", manifest&oacute; a la AFP el coronel Roberto D&iacute;az Herrera, n&uacute;mero tres del r&eacute;gimen de Noriega que termin&oacute; rebel&aacute;ndose contra el exdictador.</p>
+<p dir="ltr">"Dec&iacute;a Bush que ven&iacute;an a cazar a un bandido, pero resulta que lo dec&iacute;a el se&ntilde;or que aliment&oacute; ese bandido", en su condici&oacute;n de exdirector de la CIA", a&ntilde;adi&oacute;.</p>
+<p dir="ltr"><strong>- Contra el olvido -&nbsp;</strong></p>
+<p dir="ltr">En los &uacute;ltimos a&ntilde;os los actos conmemorativos de la invasi&oacute;n solo han congregado a un pu&ntilde;ado de familiares de las v&iacute;ctimas. Adem&aacute;s, en 30 a&ntilde;os solo un mandatario paname&ntilde;o ha acudido a los homenajes y ning&uacute;n gobierno ha cobrado responsabilidades a Estados Unidos, el mayor socio diplom&aacute;tico y comercial de Panam&aacute;.&nbsp;</p>
+<p dir="ltr">"Imagino que tiene que ver con el hecho de que se trata de Estados Unidos y no se ha querido introducir elementos que puedan hacer dif&iacute;cil esa relaci&oacute;n", coment&oacute; Planells.</p>
+<p dir="ltr">"Hay un Alzheimer hist&oacute;rico. No podemos olvidar que aqu&iacute; hay una influencia rancia y cr&oacute;nica ya de los Estados Unidos", dijo D&iacute;az.</p>
+<p dir="ltr">De poco ha servido que el a&ntilde;o pasado la Comisi&oacute;n Interamericana de Derechos Humanos (CIDH) se&ntilde;alara a Estados Unidos como responsable por las "violaciones de derechos humanos" durante la invasi&oacute;n y pidiera a Washington "reparar integralmente" a las v&iacute;ctimas.</p>
+<p dir="ltr">Tampoco las autoridades han querido declarar el 20 de diciembre como d&iacute;a de duelo nacional, como solicitan las v&iacute;ctimas, bajo el argumento de un supuesto rechazo empresarial a dar la jornada como festiva.</p>
+<p dir="ltr">La abogada paname&ntilde;a que demand&oacute; a Estados Unidos en 1990 ante la CIDH, Gilma Camargo, lament&oacute; que "el gobierno paname&ntilde;o pone los intereses personales de las &eacute;lites comerciales primero".</p>
+<p dir="ltr">"No han sido ni siquiera capaces de reconocer un d&iacute;a de duelo nacional como har&iacute;a cualquier Estado que se considere soberano", coment&oacute; Camargo a la AFP.&nbsp;</p>
+<p dir="ltr">Planells parece estar de acuerdo.&nbsp;</p>
+<p dir="ltr">"La caja registrado</p>
+}

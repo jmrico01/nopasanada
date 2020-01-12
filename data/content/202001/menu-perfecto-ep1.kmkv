@@ -1,0 +1,45 @@
+type article
+featured{kmkv} {
+    pretitle MENÚ PERFECTO
+    title Probando el menu perfecto en Johnny Rockets
+    text1 {
+Enviamos a Alberto Gatgens a que pruebe el menú de Johnny Rockets y nos diga cuál es el menu perfecto que todos deberiámos probar.
+}
+    text2 {
+feat. Alberto Gatgens
+}
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/menu-perfecto-ep1.jpg
+    poster{image} /images/202001/posters/menu-perfecto-ep1.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
+    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
+    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
+    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+}
+tags cultura, home
+title Probando el menu perfecto en Johnny Rockets
+description Enviamos a Alberto Gatgens a que pruebe el menú de Johnny Rockets y nos diga cuál es el menu perfecto que todos deberíamos probar.
+day 10
+month 01
+year 2020
+color #ffff00
+author feat. Alberto Gatgens
+subtitle Enviamos a Alberto Gatgens a que pruebe el menú de Johnny Rockets y nos diga cuál es el menu perfecto que todos deberíamos probar.
+text {
+<p style="text-align: center;"><strong>Vea el primer episodio de Men&uacute; Perfecto:</strong></p>
+<hr />
+<p>$youtube/TmNO6PX0Pfw$</p>
+<hr />
+<p style="text-align: center;"><a href="bit.ly/subscribe-2-nopasanada">S&uacute;scribete a nuestro canal de youtube</a></p>
+<p>&nbsp;</p>
+}

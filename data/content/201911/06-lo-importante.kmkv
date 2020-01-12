@@ -1,0 +1,52 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>06-11-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/06-lo-importante.jpg
+    poster{image} /images/201911/posters/06-lo-importante.jpg
+    header-desktop1{image} /images/201911/06-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201911/06-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201911/06-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201911/06-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201911/06-lo-importante/square1.jpg
+    header-mobile2{image} /images/201911/06-lo-importante/square2.jpg
+    header-mobile3{image} /images/201911/06-lo-importante/square3.jpg
+    header-mobile4{image} /images/201911/06-lo-importante/square4.jpg
+}
+tags noticias
+title Lo Importante: 06-11-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 06
+month 11
+year 2019
+color #FCC285
+customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-06-11-19-e8rn7d" width="100%" frameborder="0" scrolling="no"></iframe>
+title1 Trump incita a declarar la guerra a los cárteles mexicanos tras ataque a mormones
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>El presidente de Estados Unidos, Donald Trump, ofreció ayuda a México este martes para enfrentar a los cárteles de la droga, tras un ataque a una familia mormona méxico-estadounidense que dejó un saldo de nueve fallecidos: tres mujeres y seis niños.</p></p><p><p>Autoridades mexicanas confirmaron que el ataque del lunes contra integrantes de la familia LeBarón, un grupo de mormones con doble nacionalidad asentado desde hace generaciones en el norte de México, ocurrió en los límites de los estados de Sonora y Chihuahua, fronterizos con Estados Unidos, zona montañosa donde actúan bandas criminales.</p></p><p><p>"Este es el momento para que México, con la ayuda de EEUU, le declare la guerra a los cárteles de la droga y los borre de la faz de la Tierra. ¡Simplemente esperamos una llamada de su nuevo gran presidente!", escribió Trump en Twitter.</p></p><p><p>Durante su conferencia de prensa diaria, el mandatario mexicano, Andrés Manuel López Obrador, descartó que su gobierno busque una guerra contra criminales.</p></p><p><p>"En eso no coincidimos, los que tienen esa manera de pensar, se les respeta (…) lo peor que puede haber es la guerra (…) La guerra es sinónimo de irracionalidad", dijo.</p></p><p><p>El secretario de seguridad mexicano, Alfonso Durazo, informó que además de las tres mujeres y seis niños muertos, la agresión también dejó seis niños heridos, dos de ellos de gravedad.</p></p><p><p>Julián LeBarón, uno de los jefes de la comunidad y quien denunció el ataque el lunes, dijo a Radio Fórmula que una niña de ocho años que estaba desaparecida fue localizada ilesa a unos kilómetros del sitio del ataque.</p></p><p><p>Según Durazo, el ataque pudo ser el resultado de "una confusión" de grupos delictivos que se disputan el control de la región.</p></p><p><p>Pero LeBarón dijo que tras la reconstrucción de los hechos están convencidos de que fue un ataque directo contra las mujeres, que viajaban conduciendo cada una de ellas una camioneta con niños a bordo.</p></p>
+}
+title2 Elecciones en España parecen llevar hacia otro bloqueo
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>Paralizada políticamente, España vuelve a las urnas este domingo por cuarta vez en cuatro años, con una crisis abierta en Cataluña que podría favorecer al partido de extrema derecha Vox.</p></p><p><p>Vencedor de las legislativas de abril pero incapaz de ponerse de acuerdo con la izquierda radical de Podemos para continuar en el poder, el presidente del gobierno y líder del Partido Socialista, Pedro Sánchez, vuelve a ser el favorito de los sondeos.</p></p><p><p>Sin embargo, y contrariamente a lo que esperaba, podría salir de estas elecciones legislativas con menos diputados de los que obtuvo en abril, 123 de los 350 que integran la cámara baja.</p></p><p><p>Los sondeos no prevén mayoría absoluta para el PSOE de Sánchez ni en solitario, ni en alianza con Podemos y una reciente escisión de este último, Más País.</p></p><p><p>Tampoco prevén una mayoría absoluta de 176 diputados para la derecha, aunque dentro de este campo, dividido también en tres partidos, se espera una fuerte subida del Partido Popular (PP) y de la extrema derecha de Vox, en detrimento de los liberales de Ciudadanos.</p></p><p><p>Vox, que irrumpió en las legislativas de abril con 24 diputados, podría incluso convertirse en la tercera fuerza política del país, y escalar hasta cerca de 50 escaños. Ante ello, Pedro Sánchez ha advertido contra un regreso a "la España en blanco y negro de hace 40 años, que no puede volver jamás".</p></p><p><p><strong>¿Por qué nos interesa?</strong></p></p><p><p>Las legislativas no parece que vayan a poner fin a la inestabilidad que afecta a la cuarta economía de la Eurozona, desde que el tradicional bipartidismo PP-PSOE volara por los aires en 2015 con la irrupción de Podemos y Ciudadanos.</p></p><p><p>Un nuevo intento de alianza entre el PSOE y Podemos parece difícil, dada la desconfianza acumulada entre ambos desde que en verano fracasaran sus negociaciones para formar un gobierno de coalición, que habría sido el primero en la historia de la España democrática.</p></p><p><p>El último recurso sería que el PP y otros partidos permitan a Sánchez gobernar en minoría, absteniéndose en una futura sesión de investidura.</p></p><p><p>Es "la única (solución) posible" y será "precisamente el abismo de unas nueves elecciones que en el último minuto forzará (a los partidos a) una negociación sobre la abstención", estima José Ignacio Torreblanca, del centro de reflexión European Council on Foreign Relations.</p></p><p><p>Pero con un gobierno en minoría, advierte Barroso, "la legislatura [de 4 años] no se completaría" y la inestabilidad impediría cualquier reforma "para prepararnos para la próxima recesión", en momentos de neta ralentización de la economía española y malos datos de empleo.</p></p>
+}
+title3 La CIDH pide visitar Chile para observar situación de DDHH en medio de protestas
+author3 No Pasa Noticias y AFP
+text3 {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>La Comisión Interamericana de Derechos Humanos (CIDH) pidió a Chile autorización para realizar una visita al país para observar la situación de los derechos humanos tras la ola de protestas que comenzó el 18 de octubre y que ha dejado hasta ahora 20 muertos.</p></p><p><p>"La CIDH a solicitud de un centenar de organizaciones, instituciones y movimientos de derechos humanos de Chile ha formalizado pedido de anuencia al Estado para una visita in loco de observación sobre la situación general de los Derechos Humanos en el marco de las protestas sociales", dijo este miércoles en Twitter la Comisión.</p></p><p><p>El Alto Comisionado de Derechos Humanos de la ONU, encabezado por la expresidenta chilena Michelle Bachelet, envió una misión a Chile la semana pasada destinada a investigar las denuncias. </p></p><p><p>Las manifestaciones, que comenzaron con protestas contra un alza del transporte, derivaron en un movimiento más amplio contra el gobierno y que pide reformas profundas en una sociedad con mucha desigualdad y donde las jubilaciones están en manos de privados.  </p></p><p><p><strong>¿Por qué nos interesa?</strong></p></p><p><p>En las protestas han muerto 20 personas, cinco a manos de agentes del Estado, y hay más de 1.500 heridos y se reportan unos 150 manifestantes con heridas oculares por el uso de perdigones. </p></p><p><p>El secretario ejecutivo de la Comisión, Paulo Abrão, envió una carta a las autoridades chilenas el 1 de noviembre tras recibir solicitudes de movimientos sociales, pueblos indígenas, representantes de partidos políticos y legisladores, entre otros. </p></p><p><p>El 23 de octubre, la CIDH condenó el "excesivo uso de la fuerza" e instó al gobierno de Chile y a las partes involucradas a entablar un "diálogo efectivo e inclusivo" para abordar "las demandas legítimas de la población".</p></p>
+}
+title4 Expertos chinos participarán en la reconstrucción de Notre Dame de París
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>Un grupo de expertos chinos participará en los trabajos de reconstrucción y renovación de la catedral de Notre Dame en París, en virtud de un acuerdo firmado entre los dos países durante la visita del presidente francés a Pekín, anunció el miércoles la prensa china.</p></p><p><p>"China y Francia decidirán en 2020 las modalidades y los expertos chinos que serán seleccionados para esta colaboración", dijo la agencia de prensa Xinhua. </p></p><p><p>"Los expertos serán enviados a Francia rápidamente para unirse a los equipos franceses en las obras de renovación", agregó la agencia, citando un acuerdo firmado el miércoles.</p></p><p><p>No se han dado más detalles sobre el trabajo que realizarán exactamente los expertos chinos.</p></p><p><p><strong>¿Por qué nos interesa?</strong></p></p><p><p>Un incendio provocó importantes daños en Notre Dame el pasado abril. Parte del techo de la catedral terminó consumido por las llamas y la emblemática flecha, que hacía su perfil inconfundible, se desplomó.</p></p><p><p>"China acumula una rica experiencia en la protección de vestigios culturales y en cooperación internacional", dijeron fuentes del gobierno chino, citadas por China Nueva.</p></p>
+}

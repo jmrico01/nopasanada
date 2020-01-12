@@ -1,0 +1,52 @@
+type article
+featured{kmkv} {
+    pretitle CULTURA:
+    title GLOBOS DE <br><b>ORO POLÍTICOS<b>
+    text1 {
+LA CEREMONIA DE PREMIOS SE CONVIRTIÓ EN UN ESCENARIO PARA HABLAR DE TEMAS TRASCENDENTALES.
+}
+    text2 {
+POR NPN CULTURA
+}
+    highlightColor #f4b6a5
+}
+media{kmkv} {
+    header{image} /images/202001/headers/06-golden-globes.jpg
+    poster{image} /images/202001/posters/06-golden-globes.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
+    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
+    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
+    sweden1{image} /images/201912/22-navidad-laica/sweden1.jpg
+    sweden2{image} /images/201912/22-navidad-laica/sweden2.jpg
+    sweden4{image} /images/201912/22-navidad-laica/sweden4.jpg
+    sweden5{image} /images/201912/22-navidad-laica/sweden5.jpg
+    sweden7{image} /images/201912/22-navidad-laica/sweden7.jpg
+    sweden8{image} /images/201912/22-navidad-laica/sweden8.jpg
+    finalsweden{image} /images/201912/22-navidad-laica/finalsweden.jpg
+}
+tags cultura, noticias, home
+title Los Globos de Oro: escenario para mensajes políticos
+description En la ceremonia de los Globo de Oro de anoche, la velada usualmente alienante se convirtió en un escenario para hacer un llamado de atención sobre temas trascendentales, y pedir acción urgente.
+day 06
+month 01
+year 2020
+color #f4b6a5
+author NPN Cultura
+subtitle Es bueno que las ceremonias de premios - históricamente alienantes y diseñadas para ensalzar el culto a la personalidad - se conviertan en escenarios para discutir temas trascendentales.
+text {
+<p dir="ltr">Joaqu&iacute;n Phoenix gan&oacute; por su Joker, Chernobyl se llev&oacute; el merecido premio a mejor miniserie, y la pel&iacute;cula Surcoreana Par&aacute;sitos arranc&oacute; lo que seguro ser&aacute; su larga temporada de premios. Pero la ceremonia de anoche fue relevante por otras razones - fue una ceremonia donde no se pudo mirar para el otro lado, y se tuvo que hablar sobre el decadente y preocupante estado del mundo.</p>
+<p dir="ltr">Las audiencias miran los Golden Globe por muchas razones: el mundo del entretenimiento los considera &ldquo;la antesala de los &Oacute;scar&rdquo;, ya que supuestamente predicen cu&aacute;les pel&iacute;culas recibir&aacute;n la atenci&oacute;n de &ldquo;La Academia&rdquo; - aunque no siempre pegan -; la llamada &ldquo;carpeta roja&rdquo; se convierte en una pasarela para entusiastas de la moda que comparan y analizan los vestidos de la celebridades, y la ceremonia sirve para brindar un rato de esparcimiento, con un (o una) comediante como maestrx de ceremonia, con presentaciones musicales en vivo y la eventual observaci&oacute;n antropol&oacute;gica de las celebridades en su estado no tan natural, donde predominan las sonrisas, los apretones de manos, los aplausos cordiales, las caras apenas-levemente- decepcionadas, y los abrazos falsamente c&oacute;modos.</p>
+<p dir="ltr">En la ceremonia de anoche, el host fue el actor brit&aacute;nico Ricky Gervais, quien comenz&oacute; por lanzar una broma que - en vista de los actuales sucesos mundiales - cay&oacute; un poco mal: le pidi&oacute; a las celebridades (quienes, en sus palabras, &ldquo;pasan menos tiempo en la escuela que Greta Thunberg&rdquo;) que se abstuvieran de tratar de dar mensajes pol&iacute;ticos.&nbsp;</p>
+<p dir="ltr">Decididamente, muchos de los presentadores/as y ganadores/as hicieron caso omiso de esta &ldquo;advertencia&rdquo;. En las palabras de Catherine Shoard en su pieza de opini&oacute;n &ldquo;<a href="https://www.theguardian.com/film/2020/jan/06/ricky-gervais-is-wrong-political-engagement-at-the-golden-globes-was-essential">Ricky Gervais no tiene raz&oacute;n</a>&rdquo;, escrita para el peri&oacute;dico The Guardian: &ldquo;en la ceremonia de este a&ntilde;o, hubo un rechazo masivo de la apolitizaci&oacute;n.&rdquo; Los actores, actrices, productores, productoras, directores y directoras aprovecharon sus cortos tiempos sobre el escenario para hablar sobre temas como cambio clim&aacute;tico, derecho al aborto, visibilizaci&oacute;n de la comunidad LGBTI, y hasta acusar a Mark Zuckerberg de<a href="https://www.independent.co.uk/arts-entertainment/films/news/sacha-baron-cohen-mark-zuckerberg-golden-globes-nazi-jojo-rabbit-a9271571.html"> alentar la distribuci&oacute;n de &ldquo;propaganda Nazi&rdquo;</a>.&nbsp;</p>
+<p dir="ltr">Sacha Baron Cohen, al presentar la nominaci&oacute;n de la pel&iacute;cula &ldquo;Jojo Rabbit&rdquo; como Mejor Musical o Comedia, describi&oacute; el film de la siguiente forma: &ldquo;el h&eacute;roe en esta pel&iacute;cula es un ni&ntilde;o ingenuo que sin querer distribuye propaganda Nazi y tiene puros amigos imaginarios,&rdquo; para luego tirar la bomba: &ldquo;Su nombre es Mark Zuckerberg.&rdquo;</p>
+<p dir="ltr">Al ganar el Globo de Oro como Mejor Actor de Drama por &ldquo;Joker&rdquo;, Joaqu&iacute;n Phoenix alent&oacute; a los millonarios presentes a pensar en el ambiente antes de &ldquo;tomar su jet privado y volar a Palm Springs.&rdquo;&nbsp;</p>
+<p dir="ltr">El actor Australiano Russell Crowe no pudo atender la ceremonia debido <a href="https://nopasanada.com/content/202001/04-bush-fires">a los incendios masivos que est&aacute;n sucediendo en su pa&iacute;s natal</a>, pero pidi&oacute; que, de ganar por su interpretaci&oacute;n en &ldquo;The Loudest Voice,&rdquo; se leyera el siguiente mensaje: &ldquo;No existe malinterpretaci&oacute;n: la tragedia que est&aacute; sucediendo en Australia tiene sus ra&iacute;ces en el cambio clim&aacute;tico. Debemos actuar bas&aacute;ndonos en la ciencia, mover nuestras fuerzas globales hacia la energ&iacute;a renovable y respetar a nuestro &uacute;nico y sorprendente planeta.&rdquo;&nbsp;</p>
+<p dir="ltr">Leer en detalle: <a href="https://www.thewrap.com/golden-globes-2020-winners-get-political-with-speeches-on-climate-change-abortion-rights-and-war/">Los ganadores de los Golden Globe se ponen pol&iacute;ticos.</a></p>
+<p dir="ltr">La actriz Michelle Williams urgi&oacute; a las mujeres a votar a favor de sus propios intereses en la elecci&oacute;n estadounidense del pr&oacute;ximo a&ntilde;o, y no fue la &uacute;nica en referirse a la elecci&oacute;n que se aproxima; Patricia Arquette rog&oacute; que la audiencia se presentara a las urnas y calific&oacute; al actual presidente de Estados Unidos - qui&eacute;n tiene la intenci&oacute;n de re-elegirse a pesar de su voto de destituci&oacute;n en proceso - de la siguiente forma: &ldquo;un presidente que se dedica a tweetear acerca de su intenci&oacute;n de tirar 52 bombas en sitios culturales, mientras gente joven de todo el mundo arriesga sus vidas, y la gente no sabe si esas bombas terminaran cayendo sobre sus cabezas.&rdquo;</p>
+<p dir="ltr">Al final de la noche, el mismo Ricky Gervais no pudo resistirse a la tentaci&oacute;n de hacer algunas bromas pol&iacute;ticas, refiri&eacute;ndose a la pel&iacute;cula Birdbox como &ldquo;una historia donde la gente sobrevive pretendiendo que no ven lo que sucede a su alrededor - muy parecido a trabajar para Harvey Weinstein&rdquo; y cerrando la ceremonia pidiendo a la audiencia y celebridades que &ldquo;por favor donen a Australia.&rdquo;</p>
+<p dir="ltr">La verdad, resulta pertinente que las ceremonias de premios - hist&oacute;ricamente alienantes y dise&ntilde;adas para ensalzar el culto a la personalidad - est&eacute;n tomando estos nuevos giros pol&iacute;ticos, y que los problemas que vive el mundo sean tan visibles que incluso se apoderen de ese escenario.</p>
+}

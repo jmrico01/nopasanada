@@ -1,0 +1,127 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>08-01-20. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA NOTICIAS
+}
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/08-lo-importante.jpg
+    poster{image} /images/202001/posters/08-lo-importante.jpg
+    header-desktop1{image} /images/202001/08-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/202001/08-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/202001/08-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/202001/08-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/202001/08-lo-importante/square1.jpg
+    header-mobile2{image} /images/202001/08-lo-importante/square2.jpg
+    header-mobile3{image} /images/202001/08-lo-importante/square3.jpg
+    header-mobile4{image} /images/202001/08-lo-importante/square4.jpg
+}
+tags noticias, home
+title Lo Importante: 08-01-20
+description 4 historias importantes de las más recientes noticias internacionales
+day 08
+month 01
+year 2020
+color #ffff00
+title1 Irán responde a EEUU con un ataque con misiles contra bases iraquíes
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Ir&aacute;n llev&oacute; a cabo el mi&eacute;rcoles un ataque con misiles contra dos bases militares en Irak en las que hay soldados estadounidenses, como represalia a la muerte del general iran&iacute; Qasem Soleimani, una respuesta militar que marca una "nueva etapa" en las tensiones pero no ha provocado por ahora la temida escalada.</p>
+<p>En plena noche y en tan solo media ahora, un total de 22 misiles bal&iacute;sticos cayeron sobre las bases de Ain al Asad (oeste) y Erbil (norte) que albergan a militares extranjeros, entre ellos algunos de los 5.200 soldados estadounidenses desplegados en Irak.&nbsp;</p>
+<p>Seg&uacute;n el ej&eacute;rcito iraqu&iacute;, los bombardeos no causaron muertos entre sus filas. La televisi&oacute;n estatal iran&iacute; dijo que al menos 80 estadounidenses murieron en este ataque, una informaci&oacute;n que no se ha confirmado.&nbsp;</p>
+<p>"Se est&aacute;n evaluando los da&ntilde;os y las v&iacute;ctimas. Hasta ahora &iexcl;todo va bien!, se limit&oacute; a decir el presidente Donald Trump en la red social Twitter.</p>
+<p>Tanto el gobierno iraqu&iacute; como las fuerzas de la coalici&oacute;n fueron avisadas directa o indirectamente de la inminencia de un ataque, seg&uacute;n fuentes iraqu&iacute;es y militares.</p>
+<p>Los ataques se produjeron exactamente a la misma hora en que un dron estadounidense mat&oacute; a Soleimani cerca del aeropuerto de Bagdad, el 3 de enero. La operaci&oacute;n de este mi&eacute;rcoles se llam&oacute; "m&aacute;rtir Soleimani", en honor a este popular general, considerado el arquitecto de la estrategia de Teher&aacute;n en Oriente Medio.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-&nbsp;</strong></p>
+<p>Ha sido "una bofetada en la cara" de Estados Unidos, afirm&oacute; el gu&iacute;a supremo de Ir&aacute;n, el ayatol&aacute; Ali Jamenei, pidiendo que la venganza vaya a&uacute;n m&aacute;s lejos. "La presencia corrompida de Estados Unidos en la regi&oacute;n debe terminar", dijo.&nbsp;</p>
+<p>"No retrocedemos" frente a Estados Unidos, se felicit&oacute; por su parte el presidente iran&iacute; Hasan Rohani.</p>
+<p>Esta fue la primera respuesta militar iran&iacute; tras la muerte del general y las reacciones no se hicieron esperar. La Uni&oacute;n Europea lo calific&oacute; de "escalada". El Reino Unido, Francia y Alemania condenaron con firmeza el accionar de Teher&aacute;n.</p>
+<p>En Bagdad, el presidente Barham Saleh lament&oacute; este ataque y pidi&oacute; que su pa&iacute;s no se convierta en un "campo de batalla" regional.</p>
+<p>Los miedos a una escalada regional o a un conflicto directo entre Ir&aacute;n y Estados Unidos siguen presentes, pero los dirigentes de ambos pa&iacute;ses parecen querer calmar los &aacute;nimos y han enviado mensajes que dan a entender que no quieren una guerra.</p>
+<p>"No estamos buscando una escalada o la guerra", dijo el ministro iran&iacute; de Relaciones Exteriores, Mohammad Javad Zarif, explicando que las represalias de la noche del martes al mi&eacute;rcoles fueron "proporcionadas" y se daban por "terminadas".</p>
+<p>En Irak, el Hashd al-Shaabi, coalici&oacute;n de grupos paramilitares proiran&iacute;es, amenaz&oacute; a Estados Unidos con una "respuesta" tan "importante como la efectuada por Ir&aacute;n y que durar&aacute; hasta que se marche el &uacute;ltimo soldado estadounidense".</p>
+<p>Para el especialista de los grupos chiitas armados, Phillip Smyth, "el lanzamiento de misiles bal&iacute;sticos desde Ir&aacute;n contra objetivos estadounidenses representa el inicio de una nueva etapa".</p>
+<p>Ir&aacute;n "ha enviado una respuesta p&uacute;blica contundente para mandar una se&ntilde;al", afirma. El paso siguiente podr&iacute;a dejarse en manos de "agentes iran&iacute;es", es decir, las numerosas facciones armadas proiran&iacute;es en Irak, L&iacute;bano, Siria o en otros lugares.</p>
+<p>Coincidiendo con este aumento de la tensi&oacute;n, un avi&oacute;n ucraniano se estrell&oacute; este mi&eacute;rcoles nada m&aacute;s despegar del aeropuerto de Teher&aacute;n en direcci&oacute;n a Kiev y todos los pasajeros y miembros de la tripulaci&oacute;n fallecieron. En total, las v&iacute;ctimas superan las 170 y las razones de este accidente se desconocen hasta el momento.</p>
+<p>En se&ntilde;al de que puede haber otros ataques, la agencia federal de la aviaci&oacute;n estadounidense, la FAA, prohibi&oacute; que los aviones civiles estadounidenses sobrevuelen Irak, Ir&aacute;n y la regi&oacute;n del Golfo. Varias aerol&iacute;neas, incluyendo Lufthansa, Air France, KLM y otras compa&ntilde;&iacute;as del golfo, tambi&eacute;n suspendieron este mi&eacute;rcoles los sobrevuelos de los espacios a&eacute;reos de Ir&aacute;n e Irak.</p>
+<p>&nbsp;</p>
+}
+title2 2019 fue el segundo año más cálido jamás registrado en el mundo
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-&nbsp;</strong></p>
+<p>El a&ntilde;o 2019 fue el segundo m&aacute;s c&aacute;lido jam&aacute;s registrado en el mundo y culmin&oacute; una d&eacute;cada r&eacute;cord en temperaturas, anunci&oacute; este mi&eacute;rcoles el servicio europeo Copernicus, en un contexto de multiplicaci&oacute;n de fen&oacute;menos clim&aacute;ticos extremos, como los incendios en Australia.</p>
+<p>Los datos publicados revelan que 2019 se situ&oacute; s&oacute;lo 0,04 &ordm;C por detr&aacute;s del a&ntilde;o r&eacute;cord de 2016, cuando las temperaturas se vieron afectadas por un episodio especialmente intenso del fen&oacute;meno meteorol&oacute;gico El Ni&ntilde;o.</p>
+<p>Seg&uacute;n la NASA, El Ni&ntilde;o provoc&oacute; ese a&ntilde;o un aumento de la temperatura mundial de 0,2 &ordm;C.</p>
+<p>Los cinco a&ntilde;os m&aacute;s c&aacute;lidos jam&aacute;s registrados fueron los que integran el &uacute;ltimo lustro, cuando el mercurio subi&oacute; entre 1,1 y 1,2 &ordm;C, respecto a la era preindustrial.</p>
+<p>El periodo de 2010-2019 fue tambi&eacute;n la d&eacute;cada m&aacute;s c&aacute;lida, seg&uacute;n Copernicus.</p>
+<p>Las temperaturas en 2019 fueron 0,6 &ordm;C superiores al promedio del periodo 1981-2010.&nbsp;</p>
+<p>"Es innegable que se trata de se&ntilde;ales alarmantes", subray&oacute; Jean-No&euml;l Th&eacute;paut, director del Centro Europeo de Previsiones Meteorol&oacute;gicas a Medio Plazo, del que depende este servicio especializado en cambio clim&aacute;tico.</p>
+<p>Debido a las emisiones de gases de efecto invernadero generadas por la actividad humana, el planeta ya registr&oacute; un alza de al menos 1 &ordm;C respecto a la era preindustrial, con efectos devastadores.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-&nbsp;</strong></p>
+<p>Conforme a las previsiones de los meteor&oacute;logos, 2019 registr&oacute; numerosos fen&oacute;menos extremos.</p>
+<p>En Australia, los incendios en curso hallaron un terreno id&oacute;neo para propagarse debido a la sequ&iacute;a y a unas temperaturas excepcionales. Unos 80.000 km2 se esfumaron con las llamas, una superficie equivalente a la de la isla de Irlanda.</p>
+<p>Durante el verano boreal, Europa vivi&oacute; por su parte periodos caniculares sin precedentes. Seg&uacute;n Copernicus, 2019 fue el a&ntilde;o m&aacute;s c&aacute;lido jam&aacute;s registrado en este continente, justo por delante de 2014, 2015 y 2018.</p>
+<p>Las temperaturas tambi&eacute;n fueron especialmente elevadas en Alaska y en vastas regiones del &Aacute;rtico.</p>
+<p>Copernicus confirm&oacute; por otro lado que las concentraciones de CO2 en la atm&oacute;sfera continuaron aumentando el a&ntilde;o pasado.</p>
+<p>Seg&uacute;n el balance anual del Global Carbon Project (GCP) publicado en diciembre, estas emisiones progresaron 0,6% en 2019.</p>
+<p>Sin embargo, la ONU se&ntilde;al&oacute; recientemente que las emisiones de gases de efecto invernadero deber&iacute;an reducirse en 7,6% anual hasta 2030, para limitar el aumento de la temperatura a 1,5 &ordm;C, el objetivo ideal que se marc&oacute; la comunidad internacional en el Acuerdo de Par&iacute;s de 2015.</p>
+<p>Sin embargo, al ritmo actual, la temperatura mundial podr&iacute;a aumentar hasta 4 o 5 &ordm;C a finales de siglo respecto a la era preindustrial y comprometer el futuro de las j&oacute;venes generaciones.&nbsp;</p>
+<p>E incluso si los pa&iacute;ses respetaran sus promesas actuales de reducci&oacute;n de emisiones, el aumento podr&iacute;a superar los 3 &ordm;C.</p>
+<p>Los cient&iacute;ficos demostraron que cada medio grado adicional aumenta la intensidad y/o la frecuencia de fen&oacute;menos como can&iacute;culas, tormentas, sequ&iacute;as e inundaciones.</p>
+}
+title3 Pedro Sánchez asume como presidente de un gobierno de coalición en España
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-&nbsp;</strong></p>
+<p>El socialista Pedro S&aacute;nchez jur&oacute; este mi&eacute;rcoles ante el rey de Espa&ntilde;a el cargo de presidente de un in&eacute;dito gobierno de coalici&oacute;n con la izquierda radical de Podemos, cuya configuraci&oacute;n a&uacute;n debe anunciar.</p>
+<p>Elegido por el Congreso de los Diputados el martes al frente del primer gobierno de coalici&oacute;n desde el fin de la dictadura de Francisco Franco (1975), S&aacute;nchez jur&oacute; respetar la Constituci&oacute;n ante el rey Felipe VI en el Palacio de la Zarzuela.</p>
+<p>"Prometo por mi conciencia y honor cumplir fielmente con las obligaciones del cargo de presidente del gobierno, con lealtad al rey, y guardar y hacer guardar la Constituci&oacute;n como norma fundamental del Estado", dijo S&aacute;nchez.</p>
+<p>Al igual que lo hiciera en junio de 2018 cuando lleg&oacute; al poder mediante una moci&oacute;n de censura que desbanc&oacute; al conservador Mariano Rajoy, jur&oacute; el cargo sin Biblia ni crucifijo, lo que era costumbre hasta entonces.</p>
+<p>Licenciado en Econom&iacute;a de 47 a&ntilde;os, S&aacute;nchez tendr&aacute; ahora que formar su gabinete, donde tendr&aacute;n cabida sus socios de Podemos, formaci&oacute;n surgida del movimiento antiausteridad de los "indignados" que llega por primera vez al gobierno.</p>
+<p>Seg&uacute;n el Partido Socialista (PSOE), el anuncio del organigrama se producir&aacute; la semana pr&oacute;xima, aunque inicialmente se esperaba esta semana. De hecho, el Palacio de Moncloa, sede del gobierno, hab&iacute;a anunciado un primer consejo de ministros este viernes, que qued&oacute; en el aire.</p>
+<p>"El presidente pide unos cuantos d&iacute;as para poder armar un gobierno" que pueda ser "estable", porque "tenemos muchos problemas acumulados", justific&oacute; en la radio p&uacute;blica RNE la vicepresidenta saliente Carmen Calvo, minimizando las cr&iacute;ticas por el retraso luego de una sesi&oacute;n de investidura realizada en la &uacute;ltima semana de la temporada de Navidad.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Vencedor de las elecciones legislativas del 10 de noviembre, S&aacute;nchez obtuvo el martes la confianza de la C&aacute;mara Baja por una muy ajustada diferencia (167 votos a favor, 165 en contra y 18 abstenciones), lo que augura una legislatura dif&iacute;cil.</p>
+<p>El gobierno se ver&aacute; obligado a negociar a m&uacute;ltiples bandos para sacar cada ley en un contexto de gran polarizaci&oacute;n y con la derecha y la extrema derecha realizando una oposici&oacute;n sin tregua.</p>
+<p>"S&aacute;nchez no habr&iacute;a ganado las elecciones si hubiera reconocido que iba a pactar con estos socios. (...) Y es lo que ha acabado haciendo. Ha habido un enga&ntilde;o masivo", fustig&oacute; en la radio COPE Pablo Casado, el l&iacute;der del conservador Partido Popular, segunda fuerza del pa&iacute;s.</p>
+<p>A la oposici&oacute;n le irrit&oacute; sobre todo que S&aacute;nchez haya sido investido gracias a la abstenci&oacute;n de la formaci&oacute;n independentista de Izquierda Republicana de Catalu&ntilde;a (ERC), que consigui&oacute; a cambio una controvertida mesa de negociaci&oacute;n entre Madrid y Barcelona para intentar solventar la crisis en Catalu&ntilde;a, cuyo punto &aacute;lgido fue el fallido intento se secesi&oacute;n en 2017.</p>
+<p>En el debate, Casado acus&oacute; a S&aacute;nchez de buscar "destruir Espa&ntilde;a tal y como la conocemos hasta ahora" y Santiago Abascal, l&iacute;der de la extrema derecha de Vox, la tercera fuerza parlamentaria, habl&oacute; de gobierno "ileg&iacute;timo".</p>
+<p><br /><strong>-Programa "moderado"-</strong></p>
+<p>Apenas sea conformado, el ejecutivo buscar&aacute; un giro a la izquierda con medidas como un alza impositiva a los m&aacute;s ricos, la regulaci&oacute;n de los alquileres que se han disparado en Madrid o Barcelona y la derogaci&oacute;n parcial de una reforma liberal del mercado laboral.</p>
+<p>Una propuestas que encendieron alarmas en c&iacute;rculos empresariales, frente a los cual Pablo Iglesias, l&iacute;der de Podemos y quien apunta a ocupar una vicepresidencia, lanz&oacute; un mensaje tranquilizador.</p>
+<p>"Hemos negociado un programa muy moderado, precisamente pensando en Europa. Somos perfectamente conscientes que hay l&iacute;mites (...)" se&ntilde;al&oacute; Iglesias, aunque defendiendo una pol&iacute;tica "que por primera vez ponga a la gente humilde en el centro y que haga que los que se esfuercen sean los que nunca se han esforzado".</p>
+<p>Pese a que la elecci&oacute;n de S&aacute;nchez puso fin a varios meses de bloqueo, analistas ponen en duda que el nuevo gobierno finalice con la inestabilidad cr&oacute;nica persistente en la cuarta econom&iacute;a de la zona euro desde 2015, cuando vol&oacute; en pedazos el bipartidismo del PSOE y el PP y el Parlamento se fragment&oacute;.</p>
+}
+title4 Un ejecutivo de Facebook reconoce que la red social ayudó a elegir a Trump
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Facebook jug&oacute; un papel en el arribo a la Casa Blanca de Donald Trump, quien supo llevar la mejor estrategia en la mayor red social del mundo, estim&oacute; un ejecutivo de la compa&ntilde;&iacute;a, que sin embargo advirti&oacute; contra cambios muy dr&aacute;sticos en las reglas de la plataforma.</p>
+<p>"&iquest;Fue Facebook responsable por la elecci&oacute;n de Donald Trump?", se pregunta Andrew Bosworth en un largo escrito dedicado a sus colegas.</p>
+<p>"Creo que la respuesta es s&iacute;, pero no por las razones que todos piensan", responde en el texto titulado "Reflexiones para 2020", difundido el martes primero por el New York Times y luego por el propio autor.</p>
+<p>Bosworth, considerado parte del c&iacute;rculo &iacute;ntimo de asesores de Mark Zuckerberg, jefe de Facebook, argumenta que el presidente estadounidense no fue electo por una campa&ntilde;a de desinformaci&oacute;n de Rusia o de la empresa Cambridge Analytica. Gan&oacute;, seg&uacute;n &eacute;l, porque llev&oacute; adelante "la mejor campa&ntilde;a publicitaria digital" que ha visto jam&aacute;s.&nbsp;</p>
+<p>Facebook ha sido fuertemente criticada por no haber frenado la desinformaci&oacute;n durante la campa&ntilde;a presidencial de 2016; y de cara a las elecciones de 2020 en Estados Unidos, el grupo multiplica los esfuerzos para luchar contra los intentos de manipulaci&oacute;n en sus plataformas.</p>
+<p>Pero la campa&ntilde;a de Trump no recurri&oacute; "a la desinformaci&oacute;n o los enga&ntilde;os" en 2016, subraya Bosworth. "Solo usaron las herramientas que pusimos a disposici&oacute;n" de manera m&aacute;s efectiva, se&ntilde;ala.</p>
+<p>Debido a que la red social no ha cambiado sus normas sobre anuncios pol&iacute;ticos de cara a las presidenciales de 2020, "se podr&iacute;a llegar al mismo resultado" este a&ntilde;o, se&ntilde;ala el ejecutivo, que subraya que apoya activamente a la oposici&oacute;n dem&oacute;crata.</p>
+<p>Pero por "tentador que sea usar las herramientas disponibles para cambiar el resultado, estoy seguro de que nunca debemos hacer eso o nos convertiremos en eso que tememos", agrega.</p>
+<p>"Eso no quiere decir que no hay una l&iacute;nea" trazada por Facebook, advierte Bosworth, mencionando el ejemplo de la incitaci&oacute;n a la violencia.</p>
+<p>Pero "si cambiamos el resultado [de una elecci&oacute;n] sin realmente convencer a quienes ser&aacute;n gobernados, entonces tenemos una democracia solo en el papel. Si limitamos la informaci&oacute;n a la cual las personas tienen acceso y lo que pueden decir, entonces no tenemos una democracia en absoluto", afirma.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-&nbsp;</strong></p>
+<p>Los comentarios de Bosworth llegan en un momento en que Facebook est&aacute; bajo presi&oacute;n para proteger mejor los datos de sus usuarios y evitar que sus servicios sean usados para difundir desinformaci&oacute;n o influenciar en las opiniones pol&iacute;ticas, como en 2016 en Estados Unidos.</p>
+<p>Mantener la seguridad en esta red social mientras luchan contra la desinformaci&oacute;n y la competencia fueron algunas de las prioridades marcadas por los ejecutivos de Facebook en el Consumer Electronics Show (CES) de Las Vegas.</p>
+<p>"La innovaci&oacute;n es importante para nosotros, mientras mantenemos a la gente en la compa&ntilde;&iacute;a enfocada en la seguridad", dijo la vicepresidenta de marketing global de Facebook, Carolyn Everson.</p>
+<p>La red social permiti&oacute; a los visitantes del CES dar un vistazo a una herramienta de "chequeo de privacidad" que saldr&aacute; esta semana.</p>
+<p>"Lo que tengo m&aacute;s presente es la regulaci&oacute;n", dijo Everson. "Nos gustar&iacute;a ayudar en el frente regulatorio para la privacidad y la seguridad".</p>
+<p>Los objetivos de Facebook este a&ntilde;o incluyen evitar que la red sea usada por factores perjudiciales para influenciar las elecciones de 2020 en Estados Unidos, seg&uacute;n Everson. La experiencia all&iacute; obtenida luego ser&aacute; aplicada en los casi 200 pa&iacute;ses en los que Facebook est&aacute; presente.</p>
+<p>Facebook seguir&aacute; teniendo un "cuarto de guerra" para coordinar las respuestas a los esfuerzos de manipulaci&oacute;n de elecciones o votantes en tiempo real.</p>
+<p>"El modelo de cuarto de guerra ha funcionado alrededor del mundo", dijo Everson. "Tenemos entre 70 y 90 elecciones cada a&ntilde;o, as&iacute; que hemos estado mejorando. Los cuartos de guerra son parte de nuestra estrategia".</p>
+<p>De cara a las elecciones de Estados Unidos, Facebook anunci&oacute; que prohibir&aacute; los videos ultrafalsos -o "deepfake"- pero seguir&aacute; permitiendo aquellos de s&aacute;tira o parodia aunque est&eacute;n muy editados. Tambi&eacute;n mantendr&aacute; su controvertida decisi&oacute;n de permitir que los pol&iacute;ticos publiquen informaci&oacute;n a pesar de que se haya probado su falsedad.</p>
+}

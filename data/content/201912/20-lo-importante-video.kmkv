@@ -1,0 +1,20 @@
+type video
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title SOLO LO <b>IMPORTANTE<b>
+}
+media{kmkv} {
+    header{image} /images/201912/headers/20-lo-importante-video.jpg
+    poster{image} /images/201912/posters/20-lo-importante-video.jpg
+}
+tags home, noticias
+titlePoster Solo Lo Importante con Jovel Álvarez 20.12.19
+day 20
+month 12
+year 2019
+color #ffe11a
+text {
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}

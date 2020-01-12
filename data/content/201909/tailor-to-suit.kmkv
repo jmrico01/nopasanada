@@ -1,0 +1,27 @@
+type video
+featured{kmkv} {
+    pretitle NUEVO VIDEO:
+    title TAILOR TO SUIT<br><b>MAGPIE JAY *</b>
+    text1 {
+PRODUCIDO POR NO PASA NADA
+}
+    text2 {
+VER VIDEO
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201909/headers/tailor1.jpg
+}
+tags cultura, home
+title Magpie Jay — <br> Tailor to Suit
+titlePoster Magpie Jay — <br> Tailor to Suit
+description Video de música de Magpie Jay para la canción “Tailor To Suit", producido por N.P.N. Producciones S.A ( No Pasa Nada ). Todos los derechos reservados.
+day 16
+month 09
+year 2019
+color #ff613c
+videoID Fjp2AFBleRs
+text {
+<p><p>Nuevo album <a href="https://open.spotify.com/track/3XBxBRWK26SFv3ZEgt6d1M?si=sjSsZu4sQqS96rS4sFDM7g"><em>Tragaluz</em></a> disponible ahora</p></p><p><p><strong>Director:</strong> Pietro Cercone <br> <strong>Dirección de Fotografia:</strong>  Dominik Panasiuk <br> <strong>Dirección de Arte:</strong> Julian Garita <br> <strong>Productor:</strong> Federico Lang <br> <strong>Productora:</strong> No Pasa Nada <br> <strong>Colorista:</strong> Piotr Nowicki <br> <strong>Diseñador Gráfico:</strong> Lauren Gilleland <br></p></p><p><p>Grabado en el teatro Nico Baker.</p></p><p><p><em>Video de música de Magpie Jay para la canción “Tailor To Suit" producido por N.P.N. Producciones S.A ( No Pasa Nada ) todos los derechos reservados.</em></p></p>
+}

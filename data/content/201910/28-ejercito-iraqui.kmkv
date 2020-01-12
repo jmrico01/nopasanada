@@ -1,0 +1,26 @@
+type article
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title PROTESTAS EN<br><b>BAGDAD</b>
+    text1 {
+EJÉRCITO IRAQUÍ DECRETA TOQUE DE QUEDA EN BAGDAD POR PROTESTAS
+}
+    text2 {
+POR NO PASA NADA NOTICIAS Y AFP
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201910/headers/28-ejercito-iraqui.jpg
+}
+tags noticias
+title Ejército iraquí decreta toque de queda en Bagdad por protestas
+description Ejército iraquí decreta toque de queda en Bagdad por protestas.
+day 28
+month 10
+year 2019
+color #ffb3a1
+author No Pasa Nada Noticias y AFP
+text {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>El ejército iraquí decretó este lunes un toque de queda desde medianoche hasta las 6 de la mañana en Bagdad, en el marco de un movimiento de protesta por "la caída del régimen" que dejó 5 manifestantes muertos el mismo día en la capital.</p></p><p><p>La movilización renació el jueves, tras un primer episodio a principios de octubre, y desde entonces se ha ido extendiendo desde la capital a varias ciudades del sur, secundada desde este fin de semana, además, por los estudiantes.</p></p><p><p><strong>¿Por qué nos importa?</strong></p></p><p><p>Por su parte, la Comisión gubernamental de Derechos Humanos informó que cinco manifestantes murieron este lunes en Bagdad, llevando a 82 el número de fallecidos desde el jueves en el marco de la protesta en todo el país, muchos de los cuales a causa de las granadas lacrimógenas, según la misma fuente. </p></p><p><p>Desde que empezaron las manifestaciones, el 1 de octubre, más de 200 personas perdieron la vida y más de 8.000 resultaron heridas. </p></p><p><p>La situación llevó al ejército a decretar un toque de queda en la capital "hasta nueva orden", mientras que el movimiento ganaba intensidad en otros puntos, como Basora, Diwaniya, Nasiriya o Kut, donde estudiantes de todos los niveles, funcionarios y sindicatos se manifestaron y protagonizaron sentadas.</p></p><p><p>Mientras que el sindicato de profesores anunció "cuatro días de huelga general", en la calle, los manifestantes -que reclaman más empleos para los jóvenes (que representan el 60% de la población) y un mejor funcionamiento de los servicios públicos- no bajan la guardia.</p></p><p><p>La movilización también ganó fuerza en la emblemática plaza Tahrir de Bagdad, que desde el jueves está llena de tiendas y puestos de distribución de alimentos y de protección contra las granadas lacrimógenas que lanzan las fuerzas de seguridad. </p></p><p><p>El domingo, los estudiantes se unieron al movimiento, pese al despliegue de policías antidisturbios en los alrededores de las universidades, y al llamado del ministro de Enseñanza Superior, Qusai al Suheil, que instó a que "las universidades se mantengan al margen" del movimiento. </p></p><p><p>Sin embargo, los estudiantes salieron de nuevo a las calles. "Sin país, no hay escuela", declaró un estudiante entrevistado por la AFP en la plaza Tahrir. </p></p><p><p>"Le dije a mi madre que iba a clase. Pero, de hecho, ¡aquí estoy!", dijo, sonriendo, una joven, también en la plaza.</p></p><p><p>En Diwaniya, a 200 km al sur de Bagdad, profesores y alumnos de todas las universidades, públicas y privadas, decretaron una "sentada de diez días para obtener la caída del régimen", según un corresponsal de la AFP.</p></p><p><p>Los sindicatos de otras profesiones, sobre todo abogados o ingenieros, se unieron al movimiento, mientras que los piquetes bloqueaban las entradas de las administraciones.</p></p><p><p><strong>Parálisis política</strong></p></p><p><p>En las ciudades meridionales de Nasiriya, Kut, Basora, Hilla y Samawa también se manifestaron estudiantes y funcionarios, así como en la provincia de Diyala, fronteriza con Irán, y la ciudad santa de Nayaf. </p></p><p><p>Los manifestantes reclaman modificar un sistema académico que refuerza el clientelismo, según ellos, y que no favorece la creación de empleo. Demandan una nueva Constitución y que los "peces gordos" de la corrupción devuelvan el dinero absorbido por esta lacra, que representaría el doble del PIB del país. </p></p><p><p>"Queremos la disolución del Parlamento, un gobierno de transición, una nueva Constitución y elecciones anticipadas supervisadas por la ONU", declaró un manifestante en Bagdad. </p></p><p><p>Este lunes, el Parlamento debía reunirse a las 10H00 GMT, aunque las sesiones no han dado frutos hasta la fecha, a falta de cuórum. </p></p><p><p>La cincuentena de diputados del líder chiita Moqtada Sadr, que desde el sábado protagonizan una sentada en apoyo de los manifestantes, anunciaron que se iban a la oposición. </p></p><p><p>Cuatro diputados dimitieron y la mayoría parlamentaria del primer ministro, Adel Abdel Mahdi (un independiente), que contaba con el respaldo de Moqtada Sadr y la lista de las Unidades de Movilización Popular (paramilitares), saltó por los aires. </p></p><p><p>Desde el viernes, decenas de sedes de partidos y de facciones de las Unidades de Movilización Popular fueron incendiadas, en unos incidentes que dejaron varios manifestantes muertos.</p></p>
+}

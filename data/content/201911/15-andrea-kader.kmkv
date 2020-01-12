@@ -1,0 +1,31 @@
+type video
+featured{kmkv} {
+    pretitle MODA:
+    title ANDREA KADER
+    text1 {
+LA EDITORA DE MODA DE NO PASA NADA PAULINA JOARISTI CONVERSA CON LA DISEÑADORA ANDREA KADER ACERCA DE SU NUEVA COLECCIÓN
+}
+    text2 {
+POR PAULINA JOARISTI
+}
+    highlightColor #E89EA2
+}
+media{kmkv} {
+    header{image} /images/201911/headers/15-andrea-kader.jpg
+}
+tags cultura
+title Andrea Kader: Diseñadora de moda comprometida con el ambiente
+titlePoster Andrea Kader
+description {
+La editora de moda de No Pasa Nada Paulina Joaristi conversa con la diseñadora Andrea Kader acerca de su nueva colección, y el proceso detrás de sus diseños sostenibles.
+
+www.nopasanada.com
+}
+day 15
+month 11
+year 2019
+color #E89EA2
+videoID bi6K93p_Usw
+text {
+<p><p><em>La editora de moda de No Pasa Nada Paulina Joaristi conversa con la diseñadora Andrea Kader acerca de su nueva colección, y el proceso detrás de sus diseños sostenibles.</em></p></p><p><p><em>www.nopasanada.com</em></p></p>
+}

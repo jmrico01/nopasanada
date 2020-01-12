@@ -1,0 +1,33 @@
+type article
+featured{kmkv} {
+    pretitle RECOMENADO:
+    title RESTAURANTE<br><b>AL MERCAT<b>
+    text1 {
+Una columna de La Guida dedicada a destacar las cosas favoritas de nuestros sabiondos editores para comer, beber y comprar.
+}
+    text2 {
+POR ADRIANO C.M
+}
+    highlightColor #f4b6a5
+}
+media{kmkv} {
+    header{image} /images/201912/headers/09-al-mercat.jpg
+    poster{image} /images/201912/posters/09-al-mercat.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    cebolla{image} /images/201912/09-al-mercat/cebolla.jpg
+}
+tags cultura, home
+title Recomendado: Un almuerzo no tan típico en Al Mercat
+description En un pequeño espacio del acogedor Barrio Escalante, encuentre una excelente propuesta de nueva cocina costarricense por el chef José González.
+day 09
+month 12
+year 2019
+color #f4b6a5
+author Adriano C.M
+subtitle Chorizo, chicharrones y tortillas caseras destacan en el menú de una de las más modernas propuestas gastronómicas de Costa Rica.
+text {
+<p><p><strong><em>Recomendado: Una columna de La Guida dedicada a destacar las cosas favoritas de nuestros sabiondos editores para comer, beber y comprar.</em></strong></p></p><p><p><strong>Al Mercat | $$$ | 7.5 - Bueno |</strong> <em>Barrio Escalante, De la Iglesia Sta. Teresita 200 metros norte y 150 este</em> </p></p><p><p>$image/header2$ </p></p><p><p>La gastronomía de autor costarricense ha sido toda una revolución culinaria para Costa Rica. La oferta de restaurantes que incorporan lo que se ha conocido en la tradición del país con aspectos de la cocina contemporánea han marcado tendencias en el planteamiento culinario del país. Hoy se pueden probar diferentes menu’s de chef’s que se están arriesgándose a hacer algo diferente con su cocina y entre estos encontramos a José González y su propuesta de “Al mercat.”</p></p><p><p>José González vuelve a Costa Rica luego de graduarse del Cordon Bleu en Paris y trabajar 3 años en Francia. Luego de regresar, José se incursiona en la búsqueda de ingredientes e inspiración basándose en la diversidad de productos que tiene su país, algo que en el menu esto se representa como capas de sabores profundos que buscan contar una historia. </p></p><p><p>Durante nuestra visita en diciembre vimos gallos de chorizo y chicharron, lomo de cerdo en salsa de tamarindo acompañado de curiosas cebollas fritas y costillas de cerdo que se caen del hueso. Esto sin mencionar el postre de chocolate con helados de horchata ( algo que nunca había visto y vale la pena llegar a probar ) y barquillos. </p></p><p><p>El pequeño espacio lleno de luz y decoración moderna se destaca en tener platos simples con ingredientes traídos de fincas, ferias y productores locales. El ambiente relajado del interior invita a estar cómodo y una vez que probamos los chicharrones sobre las más increíbles tortillas caseras, estaba claro que José había alcanzado contar una historia propia. </p></p><p><p><strong>¿Cómo es?:</strong>&nbsp;Un pequeño espacio moderno y cautivador en el acogedor Barrio Escalante.</p></p><p><p><strong>¿Que pedirse?:</strong> Los gallos y/o algo con sus tortillas caseras: El restaurante se esmera su conexión con lo tradicional y esto se vive de primera mano en su trabajo con el maíz. Las tortillas caseras son espectaculares y destacan lo que se le ponga encima. </p></p><p><p><strong>Lo bueno:</strong> Encontrar una propuesta de cocina diferente y moderna en un espacio casual que no necesita una reservación con tres meses de anterioridad. </p></p><p><p><strong>Lo mejorable:</strong> El servicio durante nuestra visita fue lento relativo a lo que se espera en un lugar de este perfil, tanto al realizar las ordenes de comida como entre cada plato. Un pequeño detalle que al final no minimizó el ambiente, comida, o experiencia en general. </p></p><p><p><strong>¿Recomendado?:</strong> Absolutamente. </p></p><p><p>$image/bottom$</p></p><p><hr /></p><p><p><strong>LEA MÁS: <a href="www.nopasanada.com/content/201908/fuimos-a-la-feria">Fuimos a la feria con 5 rojos y esto fue lo que compramos</a></strong> | </p></p><p><p>$image/cebolla$</p></p>
+}

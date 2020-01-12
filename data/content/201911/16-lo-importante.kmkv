@@ -1,0 +1,28 @@
+type article
+featured{kmkv} {
+    pretitle ÚLTIMA HORA:
+    title EN<br><b>VENEZUELA</b>
+    text1 {
+INCERTIDUMBRE ES EL SENTIMIENTO CON EL CUAL VENEZUELA HA VIVIDO YA MÁS DE DOS DÉCADAS Y QUE HOY 16 DE NOVIEMBRE NO SOLO SE SIENTE PERO SE MAGNIFICA.
+}
+    text2 {
+POR NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/16-lo-importante.jpg
+    poster{image} /images/201911/posters/16-lo-importante.jpg
+}
+tags noticias
+title LO IMPORTANTE 16.11.19
+description Incertidumbre es el sentimiento con el cual Venezuela ha vivido ya más de dos décadas y que hoy 16 de Noviembre no solo se siente pero se magnifica.
+day 16
+month 11
+year 2019
+color #ffb3a1
+author NO PASA NADA
+subtitle EN VENEZUELA
+text {
+<p><p>Incertidumbre es el sentimiento con el cual Venezuela ha vivido ya más de dos décadas y que hoy 16 de Noviembre no solo se siente pero se magnifica.                   </p></p><p><p>Esta  incertidumbre se magnifica por el llamado que hace el presidente Juan Guaidó al pueblo Venezolano para salir una vez más a manifestarse  en las calles de Caracas ante el regimen dictatorial de Nicolas Maduro. </p></p><p><p>Y este sentimiento de incertidumbre, icono del Estado Venezolano, es por mucho el punto principal que se concentra alrededor de este llamado  16 de Noviembre.</p></p><p><p>Nadie ha dado ninguna claridad, ni el mismo Guaido, el supuesto caudillo de este llamado porque todavía, a tan solo horas del comienzo de lo que sea que sera hoy, no comunica objetivos, y no comunica  un plan. </p></p><p><p>Es con esta compartida falta de claridad que entonces todos, tanto nosotros observadores a distancia, como aquellos preparándose para salir hoy en Carcas  que nos hacemos preguntas. Hoy salir a las calles… ¿Pero para qué? Confiar en Guaido… ¿Pero para que haga qué? Enfrentarse a Maduro… ¿Pero con qué fin? </p></p><p><p>La respuesta ya no basta en decir que esto es la pronunciación de un pueblo ante un gobierno porque el pueblo si se ha pronunciado, y es más, es el único que sí ha sido claro. El pueblo ha diferencia de sus lideres sí ha sido contundente y sus exigencias han sido concisas y explícitas. El pueblo Venezolano quiere el fin del regimen y lo quiere ya. </p></p><p><p>¿Entonces que podemos decir que si sabemos sobre este 16 de Noviembre? Sabemos que el pueblo de Venezuela esta nuevamente listo para entregarse a realizar la labor que ha hecho durante estas dos décadas de desamparo sociopolitico y se prepara para exigir lo mismo que han exigido una y otra vez, con voces ahogadas a dictadores sordos: DANOS LIBERTAD. </p></p><p><p>¿Que no sabemos? Qué hará Juan Guaidó cuando todos aquellos que quieren cambio, salgan a pedírselo. Uno solo puede esperar que se los de, y que este no sea tan solo otro llamado a decepcionar a un pueblo suficientemente maltratado.</p></p><p><p>¿Que podemos decir? Hoy Estamos con ustedes Venezuela</p></p><p><p>Hay horas que pasan con particular lentitud cuando la historia busca escribirse en las paginas de un pais. Horas decisivas, horas que aun a la distancia se ven pasar con incertidumbre y esperanza.</p></p><p><p>Quienes han seguido mi trabajo en No Pasa Nada saben que mi ojo critico ha aplicado tanto hacia el regimen como hacia el gobierno que yo reconozco como legitimo (el de Juan Guaidó Marquez). He puesto particular atención al desempeño del presidente en ejercicio,  porque mi anhelo es ver el triunfo de la ruta que propuso en enero y que con ello podamos ir a Venezuela quienes amamos ese pais con tanto fervor. Hayamos o no nacido en esa tierra.</p></p><p><p>Se por amigos en Caracas que hay una expectativa grande, nacida esta mañana en vísperas de una convocatoria de calle que llega sin un norte definido y en medio de profundas incoherencias politicas. </p></p><p><p>Una cosa tengo clara: Juan Guaidó no puede darse el lujo de convocar una vez mas para no hacer nada. Eso solo le valdría una ira popular que no sabría manejar. Es este el hecho que me hace pensar que algo tiene bajo la manga (no tengo prueba alguna de que esta suposición sea verdadera, y tal vez sea esa esperanza latente la que se cuela entre mis dedos para dejar ver en este articulo un nuevo atisbo de esperanza).</p></p><p><p>Si yo estuviera en Caracas, saldria. Sin duda. Saldría a exigirle al presidente coherencia. A apoyar su tactica, siempre y cuando no implique modelo alguno de cohabitación.</p></p><p><p>Tras el allanamiento de las oficinas de Voluntad Popular un video del presidente diciendo: “¡ya basta!” circula en redes. Ya basta. Si. Ya basta de mafias. De oposiciones complacientes y colabnoracionistas. Ya basta de opresi[on. Es hora de libertad.</p></p><p><p>Salgan, Venezolanos. Salgan. Pero háganlo para exigir libertad a quienes deben actuar para obtenerla. En efecto, depende de todos.</p></p><p><p>En la distancia, estamos con ustedes.</p></p>
+}

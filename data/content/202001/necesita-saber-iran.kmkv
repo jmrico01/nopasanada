@@ -1,0 +1,100 @@
+type article
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title Todo lo que necesita saber sobre los ataques de Irán contra bases de EE.UU
+    text1 {
+Iran tuvo una respuesta sobre la muerte del general Soleimani: esto es lo que necesita saber
+}
+    text2 {
+POR NPN NOTICIAS
+}
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/necesita-saber-iran.jpg
+    poster{image} /images/202001/posters/necesita-saber-iran.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
+    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
+    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
+    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+    trumpflag{image} /images/202001/necesita-saber-iran/trumpflag.jpg
+    trumptweet{image} /images/202001/necesita-saber-iran/trumptweet.jpg
+    tweet1{image} /images/202001/necesita-saber-iran/tweet1.jpg
+    zariftweet{image} /images/202001/necesita-saber-iran/zariftweet.jpg
+    perdidas{image} /images/202001/necesita-saber-iran/perdidas.jpg
+    respuesta{image} /images/202001/necesita-saber-iran/respuesta.jpg
+    dubai{image} /images/202001/necesita-saber-iran/dubai.jpg
+    propaganda{image} /images/202001/necesita-saber-iran/propaganda.jpg
+}
+tags noticias, home
+title Todo lo que necesita saber sobre los ataques de Irán contra bases de EE.UU
+description Iran mantuvo una respuesta sobre la muerte del general Soleimani, aqui una explicación sobre lo que necesita saber al respecto.
+day 08
+month 01
+year 2020
+color #ffff00
+author NPN Noticias
+subtitle Iran mantuvo una respuesta sobre la muerte del general Soleimani, aqui una explicación sobre lo que necesita saber al respecto.
+text {
+<p>&nbsp;</p>
+<p><strong>-&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>&nbsp;</p>
+<p>El Mi&eacute;rcoles Iran llevo acabo un ataque con misiles contra dos bases militares en Irak,&nbsp;</p>
+<p>Ain al Asad (oeste) y Erbil (norte) las cuales albergan a militares extranjeros, entre ellos algunos de los 5.200 soldados estadounidenses desplegados en Irak.&nbsp;</p>
+<p>Esto fue una respuesta militar Directa a la muerte del general Iran&iacute; Qasem Soleimani ( lea la historia aqu&iacute; ) y marca una "nueva etapa" en las tensiones entre los dos pa&iacute;ses.</p>
+<p>Iraq disparo 22 misiles bal&iacute;sticos que cayeron sobre las base en Irak. Seg&uacute;n ambos el ej&eacute;rcito iraqu&iacute; y el pent&aacute;gono los bombardeos no causaron muertos entre ninguna de sus filas. A pesar de esto la televisi&oacute;n estatal iran&iacute; dijo que al menos 80 estadounidenses murieron en este ataque, una informaci&oacute;n que no se ha confirmado.&nbsp;</p>
+<p>Donald Trump pareci&oacute; intentar desescalar la situaci&oacute;n en Twitter:&nbsp;</p>
+<p>"Se est&aacute;n evaluando los da&ntilde;os y las v&iacute;ctimas. Hasta ahora &iexcl;todo va bien!, se limit&oacute; a decir el presidente Donald Trump en la red social Twitter.</p>
+<p>&nbsp;</p>
+<p>$image/trumptweet$</p>
+<p>&nbsp;</p>
+<p>Horas despu&eacute;s del ataque el ministro de exterior de Iran Mohammad Javad Zarif comunico que Iran hab&iacute;a &ldquo;concluido&rdquo; lo que ellos consideraban una respuesta apropiada a el ataque realizado por los Estados Unidos ( en relaci&oacute;n al asesinato de Soleimani )</p>
+<p>"No buscamos la escalada o la guerra, sino que nos defenderemos de cualquier agresi&oacute;n", agreg&oacute; Zarif.</p>
+<p>&nbsp;</p>
+<p>$image/zariftweet$</p>
+<p>&nbsp;</p>
+<p>El Mi&eacute;rcoles por la ma&ntilde;ana Donald Trump realizo un pronunciamiento sobre el ataque y anuncio nuevas sanciones sobre Iran diciendo:</p>
+<p>&ldquo;Estados Unidos impondr&aacute; de inmediato sanciones econ&oacute;micas punitivas adicionales al r&eacute;gimen iran&iacute;", dijo Trump.&rdquo;</p>
+<p>Ademas agrego que Iran parece estar retirando de alg&uacute;n mayor esfuerzo militar:</p>
+<p>&ldquo;"Ir&aacute;n parece estar retir&aacute;ndose, lo cual es algo bueno para todas las partes interesadas y algo muy bueno para el mundo", dijo Trump.</p>
+<p>&nbsp;</p>
+<p><strong>-&iquest;Qu&eacute; pas&oacute;?</strong></p>
+<p>&nbsp;</p>
+<p>Los ataques se produjeron exactamente a la misma hora en que un dron estadounidense mat&oacute; a Soleimani cerca del aeropuerto de Bagdad, el 3 de enero.&nbsp;La operaci&oacute;n de este miercoles que se llam&oacute; "m&aacute;rtir Soleimani", se produjo exactamente a la misma hora que un dron mat&oacute; a Soleimani cerca del aeropuerto de Bagdad, el 3 de enero.</p>
+<p>Justo antes de las 2 am hora local, se tuvo confirmaci&oacute;n de que misiles se hab&iacute;an lanzado desde Iran hacia objetivos localizados en Iraq.&nbsp;</p>
+<p>&nbsp;</p>
+<p>$image/tweet1$</p>
+<p>&nbsp;</p>
+<p>Estados Unidos dijo que se lanzaron 15 misiles contra bases a&eacute;reas en Irak, mientras que las autoridades iraqu&iacute;es dijeron que se dispararon 22 misiles durante una ventana de 30 minutos el mi&eacute;rcoles por la ma&ntilde;ana.</p>
+<p>Oficiales Irani&rsquo;s hicieron varias referencias al ataque que produjo la muerte del general Soleimani. Como fue este tweet de un oficial Iran&iacute; en el cual puso tweete&oacute; una bandera de Iran&iacute; en referencia a Trump cuando puso una bandera estadounidense luego de la muerte del general.&nbsp;</p>
+<p>&nbsp;</p>
+<p>$image/trumpflag$</p>
+<p>&nbsp;</p>
+<p>Iran realizo varias declaraciones haciendo saber que not tenia mayor intenci&oacute;n de escalar la situaci&oacute;n, pero que a pesar de esto si hubiera respuesta por parte de los Estados Unidos estaban preparados para causar mayor devastaci&oacute;n, infiriendo inclusive que destruir&iacute;an Dub&aacute;i y Haifa:</p>
+<p>&nbsp;</p>
+<p>$image/dubai$</p>
+<p>&nbsp;</p>
+<p>$image/respuesta$</p>
+<p>&nbsp;</p>
+<p>El Pent&aacute;gono informo que Estados Unidos no hab&iacute;a tenia perdidas luego del ataque, pero que todav&iacute;a continuaban realizando reportes sobre la situaci&oacute;n.&nbsp;</p>
+<p>&nbsp;</p>
+<p>$image/perdidas$</p>
+<p>&nbsp;</p>
+<p>Varios analistas Americanos han apuntado al hecho de que las capacidades militares Irani&rsquo;s son amplias, por ende el hecho de que los misiles cayeran sobre &aacute;reas de las bases en las cuales no hab&iacute;an soldados americanos no fue un accidente.&nbsp;</p>
+<p>"Sus capacidades son mucho mejores de lo que indican los dos lanzamientos de esta noche", dijo el ex comandante de la Fuerza Delta, Jerry Boykin, a Fox News. "Creo que es completamente factible que no tengan la intenci&oacute;n de da&ntilde;ar a los estadounidenses, creo que esto es propaganda&rdquo;&nbsp;</p>
+<p>&nbsp;</p>
+<p>$image/propaganda$&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p>Lea: <a href="https://www.nopasanada.com/content/202001/qasem-soleimani">Estados Unidos mata al general m&aacute;s poderoso de Ir&aacute;n y Tehran promete 'severa venganza&rsquo; - &iquest;Qu&eacute; necesitas saber?&nbsp;</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}

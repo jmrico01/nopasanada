@@ -1,0 +1,28 @@
+type article
+featured{kmkv} {
+    pretitle CULTURA:
+    title HIMNO <b>FEMINISTA<b>
+    text1 {
+CON VERSOS SENCILLOS, PEGAJOSOS Y ASERTIVOS, NACIÓ EN VALPARAÍSO “UN VIOLADOR EN TU CAMINO,” UNA INTERVENCIÓN QUE HA SIDO REPLICADA EN EL MUNDO ENTERO.
+}
+    text2 {
+POR NO PASA NADA EDITORIAL
+}
+    highlightColor #f4b6a5
+}
+media{kmkv} {
+    header{image} /images/201912/headers/05-himno-feminista.jpg
+    poster{image} /images/201912/posters/05-himno-feminista.jpg
+}
+tags cultura, home
+title El himno feminista viral que nació en Chile
+description #viral “Un violador en tu camino,” la intervención que nació en Chile y ha sido replicada en el mundo entero, denuncia a los estados por permitir la violencia de género sistémica.
+day 06
+month 12
+year 2019
+color #f4b6a5
+author No Pasa Nada Editorial
+subtitle Con versos sencillos, pegajosos y asertivos, nació en Valparaíso una intervención que ha sido replicada en el mundo entero.
+text {
+<p><p>Desde Estocolmo hasta París, de Bogotá hasta Barcelona; el performance feminista “Un Violador en tu Camino”, se ha replicado en todas las grandes ciudades del mundo. Este pegajoso y asertivo himno - que va acompañado de una coreografía grupal - se originó en Valparaíso, Chile, y la primera intervención urbana sucedió en esta ciudad el pasado 20 de Noviembre. En la coreografía participaron decenas de mujeres, entre ellas las creadoras del performance Dafne Valdés, Paula Cometa, Sibila Sotomayor y Lea Cáceres. Desde entonces, se ha viralizado. </p></p><p><p>Los versos están pensados para acompañar una coreografía donde participan de forma masiva mujeres con los ojos vendados; son sencillos y directos para hacerlos fáciles de replicar. </p></p><p><p>Mujeres de todo el mundo se han sumado a esta “intervención global” para denunciar la misoginia institucionalizada, que se manifiesta en que una de cada tres mujeres haya sido víctima de violencia física o sexual por parte de sus parejas, y en gobiernos e instituciones que encubren a abusadores por medio de sus leyes. </p></p><p><p>Acá podés ver varios vídeos capturando el performance alrededor del mundo:</p><p>$youtube/watch?v=aB7r6hdo3W4&amp;list=RDaB7r6hdo3W4&amp;start_radio=1$</p></p><p><p>Con versos como <em>“El patriarcado es un juez / que nos juzga por nacer, / y nuestro castigo / es la violencia que no ves,”</em> el performance es difícil de pasar por alto, lo cual es sin duda la intención de sus creadoras: hacer viral que la violencia sexual no es un “problema personal” o que tiene que ver con “el individuo”, y poner en el centro de la discusión al estado que permite la violencia de género sistémica. </p></p><p><p>Su verso más controversial, “el violador eres tú,” ha causado quejas de parte de hombres que consideran “ofensivo” que se les llame directamente violadores (también, otros muchos que se han burlado del performance y lo han tachado de “tontería”, a los cuáles no nos referiremos).</p><p>Sin embargo, sus creadoras - y muchas activistas y académicas feministas - recalcan que, al señalar con el dedo hacia el frente durante la coreografía, no se le está hablando directamente al que escucha. Se trata más bien de un grito que acusa al estado de violencia sistémica. </p></p><p><p>Como lo dice bien el periódico argentino Página 12 <a href="https://www.pagina12.com.ar/234664-el-violador-eres-tu">en este artículo</a>, el performance no apela a una posible “guerra entre los sexos”, sino que “interpela el origen de esa violencia como estructural al sistema capitalista y sus múltiples mecanismos.” Se trata de una manifestación que responde al contexto en Chile, y que engloba el espíritu de las protestas del pueblo Chileno. </p></p><p><p>$instagram/B5YpDhoFHsU$</p></p><p><div class="articleCaption">Las Tesis son las creadoras del performance viral.</div></p><p><p>Lee más sobre la violencia de género sistémica en nuestro editorial sobre el Gender Bias, <a href="https://nopasanada.com/content/201911/29-gender-bias">acá</a>.</p></p>
+}

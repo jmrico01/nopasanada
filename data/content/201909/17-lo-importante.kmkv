@@ -1,0 +1,51 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>17-09-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201909/headers/17-lo-importante.jpg
+    poster{image} /images/201909/posters/17-lo-importante.jpg
+    header-desktop1{image} /images/201909/17-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201909/17-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201909/17-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201909/17-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201909/17-lo-importante/square1.jpg
+    header-mobile2{image} /images/201909/17-lo-importante/square2.jpg
+    header-mobile3{image} /images/201909/17-lo-importante/square3.jpg
+    header-mobile4{image} /images/201909/17-lo-importante/square4.jpg
+}
+tags noticias
+title Lo Importante: 17-09-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 17
+month 09
+year 2019
+color #FCC285
+title1 Violencia e impunidad favorecen la deforestación en Amazonía brasileña
+author1 AFP
+text1 {
+<p><p>El gobierno de Brasil "fracasa" en la protección de los defensores del medio ambiente, favoreciendo el avance de redes criminales que destruyen la Amazonía, afirmó Human Rights Watch (HRW) en un informe divulgado este martes.</p></p><p><p>Impunidad y reducción de fiscalización ambiental contribuyen a la deforestación de la mayor selva tropical del mundo, sostiene la organización en su informe "Mafias del lapacho". </p></p><p><p>Según cifras oficiales, la deforestación de la Amazonía brasileña prácticamente se duplicó entre enero y agosto, pasando de 3.336,7 km2 en ese periodo de 2018 a 6.404,4 km2 este año, el equivalente a 640.000 canchas de fútbol.</p></p><p><p>La destrucción de la Amazonía "es impulsada en gran parte por redes criminales que emplean la violencia e intimidación contra quienes se colocan en su camino", denunció HRW, que instó al presidente brasileño, Jair Bolsonaro, a parar "sus ataques verbales y acusaciones sin fundamento" a las oenegés y "restablecer la cooperación" entre el gobierno y la sociedad civil para proteger a indígenas, defensores del medio ambiente y a la selva.</p></p><p><p>"Las redes criminales tienen capacidad logística de coordinar la extracción, el procesamiento y la venta de la madera a gran escala, mientras emplean hombres armados para intimidar y, en algunos casos, ejecutar a quienes buscan defender la selva", afirmó la organización.</p></p><p><p>Brasil es el cuarto país con más homicidios de defensores del medio ambiente, según el informe publicado en julio por la oenegé Global Witness, que contabilizó 20 muertes en el país por esta causa en 2018. </p></p><p><p>Las amenazas en la región amazónica no son una novedad para Brasil, que ocupó titulares internacionales en diciembre de 1988 con el asesinato de Chico Mendes, una de las voces de la defensa ambiental más conocidas en el mundo.</p></p><p><p>Sin embargo, HRW observa "retrocesos" en la gestión ambiental de Bolsonaro, un excapitán de ultraderecha que defiende la reducción de tierras indígenas y la explotación comercial de la selva tropical.</p></p><p><p>El informe critica que el presidente de Brasil nombrara un canciller que tilda el cambio climático como "una táctica globalista", amenazó con retirar al país del Pacto de París y redujo el presupuesto del Ministerio del Medio Ambiente, además de debilitar su estructura operativa y dejarlo en manos de un ministro acusado de crimen ambiental.</p></p><p><p>Madereros y hacendados son apuntados como los principales responsables de deforestar ilegalmente la Amazonía para la cría de ganado y para la venta de madera noble, como la del lapacho, avistado con facilidad por sus flores de colores que resaltan en la alfombra verde amazónica.</p></p><p><p>HRW enumeró 28 asesinatos en los últimos años cuyos responsables podrían estar involucrados en la extracción ilegal de madera, "según pruebas confiables". </p></p><p><p>"Los responsables de la violencia raramente son llevados ante la justicia", dice HRW. En muchos de los casos, agrega, las denuncias de amenazas ni siquiera son investigadas por la policía.</p></p><p><p>"Mientras Brasil no adopte medidas urgentes contra la violencia que facilita la extracción ilegal de madera, la destrucción de la mayor selva tropical del mundo continuará desenfrenada", afrimó Daniel Wilkinson, director de derechos humanos y medio ambiente de HRW.</p></p>
+}
+title2 Presidente boliviano Evo Morales irá a la ONU y hablará con Macron sobre la Amazonia
+author2 AFP
+text2 {
+<p><p>El presidente de Bolivia, Evo Morales, asistirá la próxima semana a la Asamblea de la ONU y se reunirá con su colega francés Emmanuel Macron para tratar los incendios en la Amazonia, confirmó este lunes el canciller Diego Pary. </p></p><p><p>Morales "estará participando en la Asamblea de las Naciones Unidas a realizarse en Nueva York", dijo Pary a periodistas.</p></p><p><p>El jefe de la diplomacia boliviana adelantó que la reunión bilateral con el mandatario francés está prevista en la antesala de la reunión de la Asamblea General de la ONU.</p></p><p><p>"El presidente (Evo Morales) estará participando junto el presidente Macron en este evento y también se tendrá una reunión bilateral con el presidente Macron", precisó.</p></p><p><p>"Paralelamente hay importantes eventos que se van a realizar (en medio de la Asamblea), uno que es convocada por Francia se denomina Alianza para la Amazonía, donde también participarán algunos países amazónicos, es un tema que nos interesa", agregó.</p><p>La participación del gobernante boliviano en las Naciones Unidas -detalló Pary- se realizará en el marco de "la reunión convocada por el Secretario General de la ONU, sobre cambio climático".</p></p><p><p>Bolivia pretende participar de planes destinados a contener los incendios en la Amazonía, como los que se registra con fuerza en su país desde agosto y que ya arrasaron con 2,9 millones de hectáreas de bosque y pastizales, según la ONG Fundación Amigos de la Naturaleza.</p></p>
+}
+title3 Ataques contra plantas petroleras sauditas fueron lanzados desde Irán, según EEUU
+author3 AFP
+text3 {
+<p><p>Estados Unidos compartió con Arabia Saudita información según la cual los ataques contra instalaciones petroleras sauditas el fin de semana fueron lanzados desde Irán, publicó el diario The Wall Street Journal.</p></p><p><p>"Funcionarios estadounidenses compartieron información de servicios de inteligencia con Arabia Saudita y su conclusión es que Irán lanzó más de veinte drones y al menos una decena de misiles contra las instalaciones petroleras sauditas el sábado", informó el periódico estadounidense el lunes citando fuentes cercanas al caso.</p></p><p><p>Pero los funcionarios sauditas estimaron que Estados Unidos no tenía pruebas suficientes para probar que los ataques habían sido lanzados desde Irán, publicó el diario, y agregó que Estados Unidos tiene previsto brindar a Riad más formación en los próximos días. </p></p><p><p>Estados Unidos y Arabia Saudita intentan determinar quién fue responsable de los ataques contra dos plantas petroleras en Arabia Saudita que hicieron caer a la mitad la producción de petróleo del primer exportador mundial de crudo.</p></p><p><p>Arabia Saudita consideró el lunes que las armas utilizadas en el ataque fueron fabricadas en Irán y señaló que se está investigando el origen de los disparos.</p></p><p><p>El presidente de Estados Unidos, Donald Trump, por su parte, al ser interrogado por periodistas sobre si creía que Teherán fue responsable del ataque, respondió: "Ciertamente parece así en este momento". </p></p><p><p>El mandatario dijo que su país quería determinar con certeza quién perpetró el ataque y también expresó su determinación a ayudar a Arabia Saudita, aunque matizó que le gustaría "evitar" una guerra.</p></p><p><p>La ofensiva fue reivindicada por los rebeldes hutíes chiitas de Yemen, un país en guerra civil en el que Riad interviene al frente de una coalición militar desde 2015, junto al gobierno, para intentar frenar la rebelión apoyada por Irán.</p></p><p><p>Pero el ejército saudita rechazó esta versión y el secretario de Estado estadounidense, Mike Pompeo, acusó a Irán el sábado al estimar que no había pruebas de que los drones fueran lanzados desde Yemen.</p></p>
+}
+title4 UE recuerda a gobierno venezolano que el diálogo debe ser "representativo"
+author4 AFP
+text4 {
+<p><p>La Unión Europea (UE) recordó el martes al gobierno venezolano que un diálogo nacional es "la única vía" para salir de la crisis, pero subrayó que las negociaciones deben tener la representación de los principales actores políticos.</p></p><p><p>"La UE sigue creyendo que una solución política negociada es la única manera pacífica y duradera de salir de la crisis en Venezuela", estimó un portavoz.</p></p><p><p>Sin embargo, Bruselas recalcó que para "tener éxito y generar la confianza necesaria, es importante que cualquier proceso de negociación sea representativo, cuente con el respaldo de la Asamblea Nacional y tenga el objetivo de organizar elecciones presidenciales creíbles".</p></p><p><p>El gobierno venezolano de Nicolás Maduro anunció el lunes el inicio de un diálogo y un primer acuerdo con un sector minoritario de la oposición, que no incluye a su adversario, Juan Guaidó, quien dio por agotadas las conversaciones auspiciadas por Noruega.</p></p><p><p>Este acuerdo incluye a cuatro movimientos con presencia minoritaria en el Congreso y vinculados a menudo con el chavismo. Guaidó, a quien medio centenar de países reconocen como mandatario encargado tras autoproclamarse en enero, es el presidente del Congreso.</p></p><p><p>"La UE reitera su apoyo a un proceso serio e inclusivo como el auspiciado por Noruega y evaluará las medidas a su alcance para restablecer la democracia, el estado de derecho y los derechos humanos en Venezuela", agregó el portavoz.</p></p>
+}

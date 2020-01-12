@@ -1,0 +1,79 @@
+type article
+featured{kmkv} {
+    pretitle CIENCIA:
+    title <b>INCENDIOS<b> <br>EN AUSTRALIA
+    text1 {
+5 DATOS QUE EXPLICAN SU SIGNIFICANCIA
+}
+    text2 {
+POR NPN Y AFP
+}
+    highlightColor #f4b6a5
+}
+media{kmkv} {
+    header{image} /images/202001/headers/04-bush-fires.jpg
+    poster{image} /images/202001/posters/04-bush-fires.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    cebolla{image} /images/201912/09-al-mercat/cebolla.jpg
+    almafria{image} /images/201912/lo-mejor-2019/almafria.jpg
+    novillocostilla{image} /images/201912/lo-mejor-2019/novillocostilla.jpg
+    caldosa{image} /images/201912/lo-mejor-2019/caldosa.jpg
+    costilla{image} /images/201912/lo-mejor-2019/costilla.jpg
+    costilla2{image} /images/201912/lo-mejor-2019/costilla2.jpg
+    croquetas{image} /images/201912/lo-mejor-2019/croquetas.jpg
+    dados{image} /images/201912/lo-mejor-2019/dados.jpg
+    gamabs{image} /images/201912/lo-mejor-2019/gamabs.jpg
+    lengua{image} /images/201912/lo-mejor-2019/lengua.jpg
+    martini{image} /images/201912/lo-mejor-2019/martini.jpg
+    negroni{image} /images/201912/lo-mejor-2019/negroni.jpg
+    whiskey{image} /images/201912/lo-mejor-2019/whiskey.jpg
+    oreja{image} /images/201912/lo-mejor-2019/oreja.jpg
+    palak{image} /images/201912/lo-mejor-2019/palak.jpg
+    petrus{image} /images/201912/lo-mejor-2019/petrus.jpg
+    steaktartar{image} /images/201912/lo-mejor-2019/steaktartar.jpg
+    trago{image} /images/201912/lo-mejor-2019/trago.jpg
+    crushedpoints{image} /images/201912/lo-mejor-2019/crushedpoints.jpg
+    fka{image} /images/201912/lo-mejor-2019/fka.jpg
+    kikwana{image} /images/201912/lo-mejor-2019/kikwana.jpg
+    igor{image} /images/201912/lo-mejor-2019/igor.jpg
+    infest{image} /images/201912/lo-mejor-2019/infest.jpg
+    albums{image} /images/201912/5-albumes/albums.jpg
+    bushfire1{image} /images/202001/04-bush-fires/bushfire1.jpg
+    bushfire2{image} /images/202001/04-bush-fires/bushfire2.jpg
+}
+tags noticias, home, ciencia
+title Los incendios forestales en Australia
+day 04
+month 01
+year 2020
+color #f4b6a5
+author Por AFP y NPN ciencia
+subtitle 5 datos que explican su magnitud
+text {
+<p dir="ltr">Las im&aacute;genes son devastadoras, espeluznantes, de mal augurio: videos de bomberos y militares atrapados en autos mientras los sobrepasa el fuego, familias acampando en botes en el agua, habiendo agotado cualquier v&iacute;a de escape, animales calcinados, miles de personas tomando refugio en las playas bajo cielos te&ntilde;idos de anaranjado... No se puede creer lo que ven los ojos. &iquest;Qu&eacute; combinaci&oacute;n de factores se dio para que esta temporada de incendios en Australia se saliera de control de esta manera?&nbsp;</p>
+<p>Ac&aacute; un resumen de alguna data que te puede ayudar a entender la gravedad de lo que est&aacute; sucediendo:</p>
+<p dir="ltr" role="presentation"><strong>1. Australia es el pa&iacute;s desarrollado m&aacute;s vulnerable al cambio clim&aacute;tico</strong></p>
+<p>Esto se debe tambi&eacute;n a la resistencia por parte del gobierno nacional hacia adoptar pol&iacute;ticas acordes a la magnitud del fen&oacute;meno, que le permitan desacelerar la devastaci&oacute;n clim&aacute;tica, sobretodo considerando de que se trata de un pa&iacute;s seco y caliente, y que la mayor&iacute;a de su poblaci&oacute;n vive en las costas. Se podr&iacute;a decir que Australia est&aacute; cometiendo &ldquo;<a href="https://www.nytimes.com/2020/01/03/opinion/australia-fires-climate-change.html">suicidio clim&aacute;tico</a>&rdquo;. Los gobiernos locales de varios estados Australianos han tomado medidas para reducir las emisiones de di&oacute;xido de carbono en concordancia con el Acuerdo de Par&iacute;s, pero el gobierno, liderado por una coalici&oacute;n conservadora, ha fallado en escuchar a <a href="https://www.unaa.org.au/wp-content/uploads/2019/02/UNAA-Climate-Change-Position-Paper-2019-1-1.pdf,">los cient&iacute;ficos de su propio pa&iacute;s </a>quienes insisten que se tomen medidas con miras a la carbono neutralidad - en cambio, ha decidido errar a favor de la industria minera y sus poderosos lobbys.&nbsp;</p>
+<p>&ldquo;No voy a dejar a miles de Australianos sin trabajo, alej&aacute;ndome de las industrias tradicionales,&rdquo; dijo en entrevista con Canal 7 de Australia, y en noviembre, propuso prohibir las protestas acerca del cambio clim&aacute;tico porque podr&iacute;an hacer da&ntilde;o a estas industrias.&nbsp;</p>
+<p>&nbsp;El pa&iacute;s logr&oacute; bajar sus emisiones de carbono en el 2007 - sin embargo, en los &uacute;ltimos a&ntilde;os, los n&uacute;meros han vuelto a subir, y el pa&iacute;s ha fallado en alcanzar su meta - ya de por s&iacute; baja - de reducir en un 28% su emisi&oacute;n de gases con efecto invernadero para el 2050. No es de sorprenderse que, en visitas a pueblos devastados por los incendios, el primer ministro Scott Morrison <a href="https://www.washingtonpost.com/world/2020/01/02/australias-prime-minister-visited-families-devastated-by-wildfires-it-did-not-go-well/">sea recibido con rechazo, descontento, y avalanchas de cr&iacute;ticas</a> por parte de los residentes y bomberos.&nbsp;&nbsp;</p>
+<p dir="ltr" role="presentation"><strong>2. Siempre ha habido incendios forestales en Australia, pero estos son diferentes.</strong></p>
+<p dir="ltr">$image/bushfire1$</p>
+<p dir="ltr">Es cierto que Australia experimenta una &ldquo;temporada de incendios&rdquo; cada verano, debido a sus condiciones secas y calientes, y que incluso es necesaria para que algunos organismos germinen. Pero la acumulaci&oacute;n de yesca proveniente de los &aacute;rboles, arbustos y zacate calcinados por las altas temperaturas se ha convertido en el material inflamable perfecto para iniciar un desastre cerca de zonas densamente pobladas.&nbsp; No hay que olvidar las condiciones espec&iacute;ficas en las que se da esta temporada (la cual ha sido una de las peores en la historia de Australia): el pa&iacute;s experiment&oacute; su &ldquo;d&iacute;a m&aacute;s caliente jam&aacute;s registrado&rdquo;, y la ola de calor ha mantenido las temperaturas en alrededor de 41 grados celsius.&nbsp;</p>
+<p>Esto despu&eacute;s de haber experimentado la primavera m&aacute;s seca jam&aacute;s registrada, y serias sequ&iacute;as que contin&uacute;an desde el 2017. En estas condiciones, los incendios han devastado m&aacute;s de 14 millones de hect&aacute;reas, matando alrededor de 500 millones de animales, y desplazado a miles de personas. Las llamas y el humo han convertido a ciudades con millones de habitantes en hornos, donde respirar al aire puede traer serias consecuencias a su salud.&nbsp;</p>
+<p dir="ltr" role="presentation"><strong>3. Los incendios est&aacute;n creando sus propias condiciones meteorol&oacute;gicas.</strong></p>
+<p dir="ltr">Para que se entienda: existe una diferencia entre clima y tiempo (o condiciones meteorol&oacute;gicas). Con tiempo, nos referimos a las condiciones atmosf&eacute;ricas del d&iacute;a a d&iacute;a, es decir, la combinaci&oacute;n de precipitaci&oacute;n, temperatura, humedad, nubosidad, y la direcci&oacute;n y velocidad del viento.</p>
+<p>$image/bushfire2$</p>
+<p dir="ltr">Los incendios intensos como los que se han visto en Australia la &uacute;ltima semana, crean condiciones temporales espec&iacute;ficas: su calor puede ocasionar cambios en el comportamiento de la atm&oacute;sfera.&nbsp;</p>
+<p dir="ltr">Cuando la nube de polvo y calor sube se enfr&iacute;a, creando nubes de lluvia, pero tambi&eacute;n puede llevar las ascuas del fuego y la ceniza caliente hacia otros lugares, esparciendo el &aacute;rea del incendio. Eventualmente, las gotas de agua que se encontraban en la nube se condensan, soltando lluvia. Pero el golpe entre el aire calmo de afuera de la zona del incendio y la nube de tormenta es tan fuerte, que provoca rayer&iacute;a - la cual precipita nuevos incendios. As&iacute;, una vez que los incendios alcanzan esta magnitud, las condiciones meteorol&oacute;gicas que ellos mismos provocan contribuye a que se esparzan y el fuego se haga m&aacute;s grande y cubra mayores &aacute;reas. Un ciclo vicioso.</p>
+<p dir="ltr" role="presentation"><strong>4. Varias condiciones clim&aacute;ticas de los &uacute;ltimos a&ntilde;os est&aacute;n directamente vinculadas con los incendios.</strong></p>
+<p>V&iacute;a: <a href="https://www.vox.com/2019/12/30/21039298/40-celsius-australia-fires-2019-heatwave-climate-change">Australia&rsquo;s hellish heat wave and wildfires, explained&nbsp;</a></p>
+<p>El calor extremo de las &uacute;ltimas semanas en Australia no es aleatorio: patrones de lluvia, temperatura y otros factores que los cient&iacute;ficos detectaron anteriormente confabularon para que esto sucediera. El tiempo en Australia es dif&iacute;cil de predecir debido a las condiciones geogr&aacute;ficas espec&iacute;ficas del continente, y la variaci&oacute;n en sus climas: desde tropicales al norte, hasta desiertos y climas templados m&aacute;s al sur. Tambi&eacute;n, est&aacute; entre dos oc&eacute;anos, y vulnerable a los patrones de circulaci&oacute;n de ambos. Este a&ntilde;o, el ciclo de vientos alrededor de la Ant&aacute;rtica trajo sequ&iacute;a a Australia, y se mezcl&oacute; con una ola de calor en la estratosfera, dirigiendo vientos secos y calientes hacia el norte del continente. Las lluvias monzones, aunque inundaron Queensland, tambi&eacute;n vinieron muy tarde, permitiendo que se acumulara much&iacute;simo calor en el centro del pa&iacute;s. Todo esto sumado a que, desde hace 3 inviernos, Australia ha enfrentado una larga sequ&iacute;a; es decir, que sin lluvia evapor&aacute;ndose, hay menos humedad, la cual servir&iacute;a para enfriar este aire y dar algo de alivio.&nbsp;</p>
+<p dir="ltr" role="presentation"><strong>5. No hay mejor&iacute;a a la vista para los incendios - el verano apenas comienza.</strong></p>
+<p dir="ltr">Esta semana, Australia pidi&oacute; ayuda de sus aliados para combatir el fuego, y ha enviado a sus fuerzas militares a las ciudades costeras donde la mayor&iacute;a de la gente se encuentra atrapada. Pero la verdad es esta: el verano apenas comienza, y los incendios son como un ciclo vicioso, que se esparcen gracias al tiempo seco y caliente, el cual est&aacute; previsto para todo Enero.&nbsp;</p>
+<p dir="ltr">A largo plazo, los cient&iacute;ficos predicen que las condiciones de la temporada de incendios en Australia se volver&aacute;n cada vez peores, y que los cuerpos de bomberos, guardaparques y fuerzas militares no tendr&aacute;n el entrenamiento necesario para combatir este nuevo orden de las cosas: ya no se puede actuar acorde a eventos pasados, porque el futuro est&aacute; fuera de cualquier magnitud que hayan experimentado hasta ahora.&nbsp;</p>
+<p dir="ltr">&nbsp;</p>
+<p dir="ltr"><em>Cr&eacute;dito foto de cabecera: Saaed Kahn / AFP</em></p>
+}

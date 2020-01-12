@@ -1,0 +1,23 @@
+type text
+featured{kmkv} {
+}
+media{kmkv} {
+    header{image} /images/201909/headers/coral.jpg
+}
+tags 
+title Historias
+description Nos han dicho que el protector solar que dejamos detrás en el mar contribuye al blaqueamiento de los corales, pero los científicos no están del todo convencidos.
+subtext1 {
+Fecha límite: Oct 20
+}
+subtext2 {
+Tema: Historias que tienen lugar en latinoamérica
+}
+day 25
+month 09
+year 2019
+color #ffb3a1
+subtitle ¿Cómo se vive en Latinoamérica? ¿Quiénes habitan sus ciudades?
+text {
+<p><p>Si escribiste alguna vez sobre tu ciudad, sobre los lugares que frecuentas, y los personajes que abundan en tu barrio, y te gustaría tener un lugar en el cual compartir tu historia, esta convocatoria te concierne: en No Pasa Nada, nos interesa encontrar las historias que todavía no se han contado. Por eso, estamos buscando escritores Latinoamericanos que quieran usar nuestra plataforma como un amplificador, que nos hablen sobre cómo es vivir en Latinoamérica, que nos acerquen a los barrios, los lugares, y los personajes que los habitan.</p></p><p><p>Estamos recibiendo cuentos o historias cortas (de no más de 1200 palabras) en las que las ciudades Latinoamericanas sean protagonistas, para publicar en nuestra nueva sección “Historias.” Si querés publicar con nosotros, solamente tenés que enviar tu cuento a <a href="mailto:info@nopasanada.com">info@nopasanada.com</a> con el asunto “Historia Ciudad”, especificando tu nombre y país (también aceptamos entradas anónimas). Si tu historia es seleccionada para publicación en la plataforma, nos comunicaremos vía correo para hacértelo saber; el equipo de No Pasa Nada se encargará de la revisión filológica del texto. </p></p><p><p>Tenés tiempo hasta el 20 de octubre. ¡Queremos leerte y tender puentes para conocernos mejor!</p></p>
+}

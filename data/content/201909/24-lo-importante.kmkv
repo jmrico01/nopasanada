@@ -1,0 +1,52 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>24-09-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201909/headers/24-lo-importante.jpg
+    poster{image} /images/201909/posters/24-lo-importante.jpg
+    header-desktop1{image} /images/201909/24-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201909/24-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201909/24-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201909/24-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201909/24-lo-importante/square1.jpg
+    header-mobile2{image} /images/201909/24-lo-importante/square2.jpg
+    header-mobile3{image} /images/201909/24-lo-importante/square3.jpg
+    header-mobile4{image} /images/201909/24-lo-importante/square4.jpg
+}
+tags noticias
+title Lo Importante: 24-09-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 24
+month 09
+year 2019
+color #FCC285
+customTop <iframe class="articleAudio" frameborder="0" allowfullscreen="" scrolling="no" height="200" src="https://mx.ivoox.com/en/player_ej_41905767_4_1.html?c1=575757" style='border:1px solid #EEE; box-sizing:border-box; width:100%;'></iframe>
+title1 Irán y Venezuela centrarán discurso de Trump en la ONU
+author1 AFP
+text1 {
+<p><p><strong>¿Qué tienes que saber?</strong></p><p>Irán centrará el discurso del presidente estadounidense Donald Trump este martes en la Asamblea General de la ONU, en un contexto de gran tensión y escepticismo internacional ante la estrategia de Washington. Desde los ataques del 14 de septiembre contra dos instalaciones petroleras sauditas, atribuidas por Washington a la República Islámica, el inquilino de la Casa Blanca se muestra amenazante y defiende la "contención".</p><p>Trump, que tomará la palabra en la Asamblea General de la ONU justo después de uno de sus admiradores declarados, el presidente de Brasil, Jair Bolsonaro, posiblemente se dirija en su discurso también a su base electoral, a unos 400 días de la próxima elección presidencial.</p><p>Trump debe referirse también en su discurso a Venezuela. Desde que Estados Unidos y luego otros 50 países reconocieran en enero al opositor Juan Guaidó como presidente interino, la situación no ha cambiado mucho.</p><p>Trump convocó a varios líderes latinoamericanos el miércoles de mañana para una reunión sobre Venezuela.</p><p>Alentados por Estados Unidos, los países que conforman el pacto de defensa interamericano TIAR -conocido también como Tratado de Rio- decidieron el lunes activar el tratado para actuar de forma colectiva con el fin de sancionar a altos funcionarios del gobierno del presidente de Venezuela, Nicolás Maduro.</p><p><strong>¿Por qué te interesa?</strong></p><p>La Asamblea General de las Naciones Unidas es uno de los eventos diplomáticos más importantes del año. Trump llega en un momento difícil para su administración tras admitir que habló sobre Joe Biden con el presidente de Ucrania. Esta llamada podría conducir a un impeachment.</p><p>En su carrera por la reelección, el mandatario estadounidense buscará dar demostraciones de fuerza en una política exterior que ha brillado por su poca efectividad.</p></p>
+}
+title2 Tribunal Supremo Español avala la exhumación de Franco
+author2 AFP
+text2 {
+<p><p><strong>¿Qué tienes que saber?</strong></p><p>El Tribunal Supremo español dio luz verde este martes a la decisión del gobierno de Pedro Sánchez (PSOE) de exhumar los restos de Francisco Franco de su monumental mausoleo en las afueras de Madrid a pesar del rechazo de los descendientes del dictador.</p><p>Según el jefe de gobierno, la decisión no solo avala la retirada de sus restos del mausoleo del Valle de los Caídos, sino también la decisión gubernamental de reinhumarlos junto a su esposa en el discreto cementerio de El Pardo, en el norte de la capital del Reino.</p><p><strong>¿Por qué te interesa?</strong></p><p>Desde su llegada al poder en junio de 2018, Pedro Sánchez convirtió la exhumación de los restos del dictador en una de las prioridades de su mandato para que el conocido como Valle de los Caídos dejara de ser un lugar de enaltecimiento del franquismo.</p><p>Ideado por el mismo 'Caudillo', el complejo consiste en una basílica horadada en el flanco de una montaña (en la sierra del Guadarrama) y coronada por una cruz de 150 metros de altura.</p><p>En su interior, frente al altar, está la tumba del dictador, habitualmente cubierta de flores frescas.</p><p>Aunque Sánchez quería solventar la exhumación en pocos meses, las múltiples acciones judiciales lanzadas por los descendientes del dictador alteraron sus planes. En junio, el Supremo suspendió la exhumación prevista ese mes para estudiar el recurso ahora desestimado.</p></p>
+}
+title3 Boris Johnson recibe un golpe implacable de la Corte Suprema británica
+author3 AFP
+text3 {
+<p><p><strong>¿Qué tienes que saber?</strong></p><p>La justicia británica dio un duro golpe al primer ministro Boris Johnson al considerar "ilegal y sin efecto" su decisión de suspender el parlamento hasta los días previos al Brexit, tras lo cual se multiplicaron los llamados a su dimisión.</p><p>Johnson, que se encontraba en Nueva York para la Asamblea General de la ONU, afirmó estar "profundamente en desacuerdo con lo que los jueces dictaron".</p><p>En consecuencia los diputados volverán al trabajo el miércoles por la mañana, anunció el presidente de la Cámara de los Comunes, el conservador John Bercow, quien había denunciado la medida como un "ultraje constitucional".</p><p><strong>¿Por qué te interesa?</strong></p><p>La suspensión del parlamento provocó una ola de manifestaciones y varias demandas judiciales que desembocaron en recursos ante la Corte Suprema después de que un tribunal de Edimburgo y otro de Londres dictasen sentencias contradictorias.</p><p>Johnson fue acusado por sus opositores de haber tomado esta medida para amordazar a sus detractores y conducir al Reino Unido hacia una salida sin acuerdo de la Unión Europea el 31 de octubre.</p><p>El primer ministro británico aseguró que de no lograr un acuerdo con la Unión Europea promoverá una salida brutal del bloque.</p></p>
+}
+title4 Países latinoamericanos activan sanciones del TIAR contra Maduro
+author4 AFP
+text4 {
+<p><p><strong>¿Qué tienes que saber?</strong></p><p>Los países que conforman el Tratado Interamericano de Asistencia Recíproca decidieron este lunes activar el tratado para actuar de forma colectiva con el fin de sancionar a altos funcionarios del gobierno del presidente de Venezuela, Nicolás Maduro.</p><p>Esta iniciativa promovida por Estados Unidos fue aprobada por 16 votos a favor, de un total de 19 países que componen el Tratado Interamericano de Asistencia Recíproca (TIAR), también conocido como el Tratado de Rio, con el voto en contra de Uruguay, la abstención de Trinidad y Tobago y la ausencia de Cuba.<br /></p><p>El canciller colombiano, Carlos Holmes indicó que la votación en el Órgano de Consulta del TIAR permite "utilizar todas las medidas disponibles para investigar, perseguir, capturar, extraditar y sancionar" a funcionarios designados.</p><p>También habilita a congelar los activos de las personas designadas en cualquiera de los países firmantes.<br /></p><p>Holmes explicó que este instrumento va a permitir "identificar y designar a personas y entidades del régimen de Nicolás Maduro involucradas en redes de delincuencia".</p><p><strong>¿Por qué te interesa?</strong></p><p>El tratado de defensa lo integran Argentina, Bahamas, Brasil, Chile, Colombia, Costa Rica, República Dominicana, El Salvador, Guatemala, Haití, Honduras, Panamá, Paraguay, Perú, Trinidad y Tobago, Estados Unidos, Uruguay y Venezuela, además de Cuba.</p><p>Caracas abandonó hace seis años este tratado, pero en julio, la Asamblea Nacional venezolana liderada por Guaidó aprobó su regreso. Guaidó celebró la decisión afirmando que cuentan "con el respaldo y el reconocimiento del mundo".</p><p>Según un alto funcionario del Departamento de Estado, el TIAR es un mecanismo muy útil de presión económica y diplomática y para imponer sanciones contra Venezuela que Estados Unidos desea que apliquen más países.</p><p>A mediados de septiembre, Guaidó declaró "agotada" la instancia de los diálogos que el gobierno y la oposición mantenían en Barbados desde mayo con la mediación de Noruega.</p></p>
+}

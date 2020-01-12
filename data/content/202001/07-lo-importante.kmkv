@@ -1,0 +1,98 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>07-01-20. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/202001/headers/07-lo-importante.jpg
+    poster{image} /images/202001/posters/07-lo-importante.jpg
+    header-desktop1{image} /images/202001/07-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/202001/07-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/202001/07-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/202001/07-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/202001/07-lo-importante/square1.jpg
+    header-mobile2{image} /images/202001/07-lo-importante/square2.jpg
+    header-mobile3{image} /images/202001/07-lo-importante/square3.jpg
+    header-mobile4{image} /images/202001/07-lo-importante/square4.jpg
+}
+tags noticias, home
+title Lo Importante: 07-01-20
+description 4 historias importantes de las más recientes noticias internacionales
+day 07
+month 01
+year 2020
+color #FCC285
+title1 EEUU advierte que tomará medidas si Guaidó es arrestado
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Estados Unidos tomar&aacute; medidas si se produce una escalada de la crisis en Venezuela y el l&iacute;der opositor Juan Guaid&oacute; es detenido por las fuerzas leales al mandatario Nicol&aacute;s Maduro, advirti&oacute; el martes una funcionaria del gobierno de Donald Trump.</p>
+<p>La subsecretaria adjunta del Departamento de Estado para Cuba y Venezuela, Carrie Filipetti, dijo a periodistas que si la seguridad de Guaid&oacute; est&aacute; en riesgo, Washington aumentar&aacute; su presi&oacute;n para propiciar la salida de Maduro, cuya reelecci&oacute;n en mayo de 2018 desconoce por "fraudulenta".&nbsp;</p>
+<p><strong>-&iquest;Por qu&eacute; nos importa?-&nbsp;</strong></p>
+<p>"Han visto las t&aacute;cticas que el gobierno de Estados Unidos ha utilizado y desplegado a lo largo del a&ntilde;o pasado. Si hubiera algo como una escalada y un arresto de Guaid&oacute;, creo que ver&iacute;an incluso acciones adicionales mucho m&aacute;s all&aacute; de lo que hemos promovido hasta la fecha", dijo.</p>
+<p>"Y, por supuesto, tambi&eacute;n ser&aacute; completamente inaceptable para nuestros socios internacionales", agreg&oacute;.</p>
+<p>Estados Unidos y medio centenar de pa&iacute;ses reconocen a Guaid&oacute; como presidente encargado de Venezuela con miras a encabezar un gobierno de transici&oacute;n y convocar nuevas elecciones "libres y transparentes".</p>
+<p>Este martes la Guardia Nacional Bolivariana impidi&oacute; en un primer momento que Guaid&oacute;, ratificado el domingo como jefe parlamentario por 100 de los 167 miembros de la Asamblea Nacional, ingresara al Palacio Legislativo para juramentarse en el cargo, mientras el diputado rival Luis Parra, autoproclamado jefe de la C&aacute;mara el mismo domingo con apoyo del oficialismo, dirig&iacute;a la sesi&oacute;n.</p>
+<p>"Si Luis Parra y otras 18 personas deciden quedarse en el edificio de la Asamblea Nacional, bueno, no tienen qu&oacute;rom, no tienen autoridad para estar all&iacute;, no fueron elegidos para ese puesto, de acuerdo con la Constituci&oacute;n venezolana", afirm&oacute; Filipetti, al se&ntilde;alar que para Estados Unidos lo &uacute;nico que importa es la Asamblea Nacional elegida democr&aacute;ticamente en 2015 y presidida desde enero de 2019 por Guaid&oacute;.</p>
+<p>"Esto es algo que estamos siguiendo muy de cerca", remarc&oacute;.</p>
+<p>Guaid&oacute; consigui&oacute; finalmente entrar al Palacio Legislativo este martes y juramentarse como presidente del Parlamento venezolano.&nbsp;</p>
+<p>Elliott Abrams, el alto funcionario del Departamento de Estado dedicado a la crisis en Venezuela, reiter&oacute; el lunes la posibilidad de una intervenci&oacute;n militar estadounidense en Venezuela.</p>
+<p>"Las opciones militares existen, es un hecho. Existen. Pero nuestra pol&iacute;tica es una pol&iacute;tica de presi&oacute;n econ&oacute;mica, diplom&aacute;tica, financiera, y estamos siguiendo con eso", dijo a periodistas.</p>
+}
+title2 Bomberos australianos libran batalla contrarreloj ante nueva subida de temperaturas
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Los bomberos aprovechaban este martes la breve tregua que dieron las temperaturas y, en algunas zonas, la lluvia para controlar los incendios que asolan desde septiembre el sur de Australia antes de una nueva subida de los term&oacute;metros para el fin de semana.</p>
+<p>Los voluntarios, exahustos tras meses de intenso combate al fuego descontrolado, aprovecharon para limpiar la vegetaci&oacute;n y realizar quemas controladas antes de una nueva subida anunciada para el viernes.&nbsp;</p>
+<p>"Realmente se trata de apuntalar la protecci&oacute;n para limitar el da&ntilde;o potencial y la aparici&oacute;n de nuevos fuegos en los pr&oacute;ximos d&iacute;as", dice el comisario del Servicio Rural de Bomberos de Nueva Gales del Sur, Shane Fitzsimmons.</p>
+<p>Las condiciones actuales, seg&uacute;n &eacute;l, son "mucho m&aacute;s favorables" pero "esperamos que vuelvan las altas temperaturas al final de semana", alerta.</p>
+<p><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Docenas de focos siguen fuera de control en el este del pa&iacute;s y se teme que dos grandes incendios en Nueva Gales del Sur y Victoria se junten para dar lugar a un megaincendio sin control.</p>
+<p>La lluvia dio el lunes un respiro, pero no fue suficientemente intensa como para apagar el fuego y en algunas zonas, incluso dificult&oacute; las labores de los bomberos para realizar las quemas controladas.</p>
+<p>En total, 25 personas han perdido la vida desde el inicio de esta cat&aacute;strofe en septiembre, m&aacute;s de 1.800 viviendas han sido consumidas por el fuego y unos 8 millones de hect&aacute;reas (80.000 kil&oacute;metros cuadrados), un tama&ntilde;o similar a Irlanda, han ardido.</p>
+<p>El humo de los incendios se &nbsp;ha percibido en Chile y Argentina, a m&aacute;s de 12.000 kil&oacute;metros, seg&uacute;n anunciaron las autoridades en estos pa&iacute;ses sudamericanos.</p>
+<p>No hay un valor definitivo de los da&ntilde;os, pero el Consejo de Seguros de Australia ya ha recibido reclamaciones que superan los 700 millones de d&oacute;lares australianos (unos 485 millones de d&oacute;lares USD) aunque se espera que el total sea muy superior.</p>
+<p>El gobierno ha previsto destinar inicialmente 2.000 millones de d&oacute;lares australianos (USD 1.400 millones) para un fondo de ayuda a las comunidades afectadas.</p>
+<p>El n&uacute;mero de v&iacute;ctimas fue revisado al alza el martes. Los bomberos realizaron un funeral en S&iacute;dney por el joven colega Andrew O'Dwyer, que muri&oacute; a los 36 a&ntilde;os, combatiendo el fuego a finales de diciembre.</p>
+<p>Los voluntarios, con sus uniformes de color naranja flanquearon la calle al paso del cortejo f&uacute;nebre. El f&eacute;retro estaba envuelto en la bandera del Servicio Rural de Bomberos.</p>
+}
+title3 Pompeo defiende legalidad de las acciones de EEUU contra Soleimani e Irán
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El secretario de Estado de EEUU, Mike Pompeo, defendi&oacute; el martes la legalidad del ataque estadounidense que mat&oacute; al poderoso general Qasem Soleimani, as&iacute; como la de cualquier futura acci&oacute;n militar de su pa&iacute;s contra Ir&aacute;n.</p>
+<p>"Nunca hab&iacute;a visto a esta administraci&oacute;n tomar decisiones de esta naturaleza sin una revisi&oacute;n completa y profunda de la base legal", dijo Pompeo en una conferencia de prensa en Washington.</p>
+<p><strong>-&iquest;Por qu&eacute; nos importa?-&nbsp;</strong></p>
+<p>Cuando se le pregunt&oacute; si juristas hab&iacute;an sido consultados antes del ataque del viernes que mat&oacute; al poderoso general iran&iacute; mientras estaba de visita en Bagdad, no pudo responder de forma muy precisa. "A menudo, los juristas revisan de antemano todas las opciones que se presentan al Presidente de Estados Unidos para que cada opci&oacute;n sea validada legalmente. Estoy seguro de que sucedi&oacute; as&iacute;", dijo.</p>
+<p>Tambi&eacute;n acus&oacute; al ministro de Relaciones Exteriores iran&iacute;, Mohamad Javad Zarif, de mentir sobre la naturaleza de la presencia en Irak de Soleimani, jefe de la unidad a cargo de las operaciones externas de los Guardianes de la Revoluci&oacute;n, el ej&eacute;rcito ideol&oacute;gico iran&iacute;.</p>
+<p>"Dijo que Soleimani estaba en Bagdad en una misi&oacute;n diplom&aacute;tica. &iquest;Qui&eacute;n puede creer eso?", lanz&oacute; Pompeo, quien lo calific&oacute; al difunto ir&oacute;nicamente de "este caballero, este diplom&aacute;tico de alto nivel".</p>
+<p>"Sabemos que no es cierto", se&ntilde;al&oacute; el jefe de la diplomacia estadounidense. "Eso es totalmente falso. No estaba all&iacute; en una misi&oacute;n diplom&aacute;tica", insisti&oacute;.</p>
+<p>Pompeo neg&oacute; tambi&eacute;n que el general iran&iacute; estuviera trabajando en un "acuerdo" con los saud&iacute;es "para reducir los riesgos" de conflicto en el Medio Oriente.</p>
+<p>Cuando se le pregunt&oacute; sobre la amenaza del presidente de Estados Unidos, Donald Trump, de atacar sitios culturales iran&iacute;es en caso de una respuesta militar de Teher&aacute;n a la muerte de Soleimani, Pompeo asegur&oacute; una vez m&aacute;s, como lo hab&iacute;a hecho varias veces el domingo, que Washington actuar&iacute;a de conformidad con el derecho internacional.</p>
+<p>Soleimani era jefe de la Fuerza Quds, la unidad de &eacute;lite encargada de las operaciones exteriores de los Guardianes de la Revoluci&oacute;n y fue arquitecto de la estrategia para aumentar la influencia de Ir&aacute;n en la regi&oacute;n. El viernes muri&oacute; en un ataque estadounidense con dron cerca del aeropuerto de Bagdad.</p>
+}
+title4 Manifestaciones en Chile por segundo día de prueba de ingreso a universidades
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Nuevos incidentes impidieron este martes que estudiantes de algunos colegios se presentaran por segundo d&iacute;a a la Prueba de Selecci&oacute;n Universitaria (PSU), el examen &uacute;nico de admisi&oacute;n a las universidades chilenas, considerado "discriminatorio" por grupos de secundarios que llamaron a boicotear el proceso.</p>
+<p>Grupos de estudiantes volvieron a protestar en las afueras de varios colegios, evitando el ingreso de estudiantes inscritos para pasar la PSU.&nbsp;</p>
+<p><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>El lunes esa protesta estudiantil ya hab&iacute;a impedido que el examen se realizara en 86 establecimientos, afectando a unos 42.000 estudiantes, el equivalente a un 14% del total de inscritos, seg&uacute;n las autoridades.</p>
+<p>"Es una situaci&oacute;n que estaba prevista, pero la actitud y la violencia ha sido mayor que la presupuestada", afirm&oacute; Leonor Varas, directora del Departamento de Evaluaci&oacute;n, Medici&oacute;n y Registro Educacional (Demre).</p>
+<p>Varas asegur&oacute; sin embargo que el proceso va a culminar para todos los inscritos. "Por supuesto que va a funcionar y todos los estudiantes van a poder postular, nosotros tenemos una holgura de dos semanas en febrero, va a funcionar, que no les quepa ninguna duda", dijo.</p>
+<p>La PSU estaba programada para noviembre del a&ntilde;o pasado, pero fue pospuesta en dos ocasiones debido a las manifestaciones sociales que estallaron en Chile a fines de octubre y que dejaron 29 muertos.</p>
+<p>Cerca de 300.000 estudiantes se inscribieron para realizar el examen -que se toma una vez al a&ntilde;o- en 729 colegios y otras instituciones a lo largo de Chile.</p>
+<p>La Asamblea Coordinadora de Estudiantes Secundarios (ACES) llam&oacute; a "boicotear" el proceso de selecci&oacute;n, al estimar que la PSU perpet&uacute;a los problemas de segregaci&oacute;n de la educaci&oacute;n chilena.</p>
+<p>La prueba estandarizada mide habilidades y el conocimiento acumulado en los &uacute;ltimos cuatro a&ntilde;os de la secundaria. Para el c&aacute;lculo del puntaje se consideran tambi&eacute;n las calificaciones escolares.</p>
+<p>Durante a&ntilde;os, quienes obtienen los mayores puntajes de la PSU provienen de colegios privados, donde estudia el 8% de los estudiantes chilenos. Son ellos los que logran entrar mayoritariamente a las principales universidades del pa&iacute;s, dejando fuera a quienes provienen de colegios p&uacute;blicos.</p>
+<p>La desigualdad en el acceso a la educaci&oacute;n, la salud, las pensiones y otros beneficios sociales han estado en el centro del estallido social de los &uacute;ltimos meses en Chile.</p>
+}

@@ -1,0 +1,51 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>08-10-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201910/headers/08-lo-importante.jpg
+    poster{image} /images/201910/posters/08-lo-importante.jpg
+    header-desktop1{image} /images/201910/08-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201910/08-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201910/08-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201910/08-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201910/08-lo-importante/square1.jpg
+    header-mobile2{image} /images/201910/08-lo-importante/square2.jpg
+    header-mobile3{image} /images/201910/08-lo-importante/square3.jpg
+    header-mobile4{image} /images/201910/08-lo-importante/square4.jpg
+}
+tags noticias
+title Lo Importante: 08-10-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 08
+month 10
+year 2019
+color #FCC285
+title1 Desmantelan el mayor tráfico de droga jamás descubierto en Reino Unido
+author1 AFP
+text1 {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>Diecinueve personas fueron detenidas en el Reino Unido y Holanda en el marco de una investigación sobre el mayor tráfico de droga descubierto en suelo británico, por un valor total de varios miles de millones de libras, anunciaron el martes las autoridades. </p></p><p><p>Figuran entre los detenidos 13 hombres de entre 24 y 59 años, cuyas identidades y nacionalidades no fueron divulgadas.</p></p><p><p>Son sospechosos de pertenecer a la filial británica de un grupo criminal internacional que importó desde Holanda más de 50 toneladas de heroína, cocaína y cannabis estimadas en varios miles de millones de libras mediante "empresas pantalla holandesas y británicas", informó la Agencia Nacional de lucha contra el Crimen (NCA) británica en un comunicado.</p></p><p><p>En el marco de la misma investigación, en abril se detuvo en Holanda a cuatro hombres y dos mujeres que esperan a ser extraditados al Reino Unido, precisó. </p></p><p><p>En colaboración con la policía holandesa, "creemos haber desmantelado una ruta de abastecimiento de droga bien establecido", agregó.</p></p><p><p><strong>¿Por qué nos importa?</strong></p></p><p><p>Según la NCA, entre febrero de 2017 y octubre de 2018 esta red importó miles de kilos de cocaína, heroína, cannabis y hachís ocultos en cargamentos de verduras y jugos trasportados a través de los puertos británicos.</p></p>
+}
+title2 South Park desaparece de internet en China después de un episodio crítico
+author2 AFP
+text2 {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>La serie de dibujos animados South Park, conocida por su ironía y su carácter provocador, había prácticamente desaparecido este martes de internet en China, después de la difusión de un episodio en el que se burlaba de la represión contra los opositores políticos en el país.</p></p><p><p>El último capítulo de esta serie estadounidense, que usa un humor absurdo y un tono sarcástico para tratar temas polémicos, atacaba a las empresas estadounidenses que están dispuestas a todo para hacerse un hueco en el mercado chino.</p></p><p><p><strong>¿Por qué nos importa?</strong></p></p><p><p>La serie describía los trabajos forzados en un centro de detención chino y hacía una parodia de las empresas que anteponen sus intereses comerciales y ceden ante la censura.</p></p><p><p>El martes, cuando se buscaba "South Park" en Weibo, el equivalente chino de Twitter, y en otras páginas, no se obtenía ningún resultado. Algunas páginas de videos en 'streaming' remitían a algunos episodios pero los capítulos no podían verse.</p></p><p><p><strong>Polémica con la NBA</strong></p></p><p><p>El incidente coincide con la polémica provocada por un tuit de un dirigente del equipo de básquetbol Houston Rockets a favor de los manifestantes prodemocracia de Hong Kong, que ha provocado las críticas del gobierno de China y amenaza con perjudicar los negocios de la NBA en el país asiático. </p></p><p><p>La NBA emitió un comunicado lamentando la publicación del tuit de Daryl Morey, director general de los Houston Rockets, pero este martes un dirigente de la NBA aseguró que ni se pedirá perdón por el tuit ni tampoco se controlarán las declaraciones de jugadores y directivos.</p></p><p><p>En Twitter, los creadores de South Park, Trey Parker y Matt Stone, presentaron a China unas excusas muy irónicas. "Al igual que la NBA estamos felices de recibir a los censores chinos en nuestras casas y en nuestros corazones. Nosotros también amamos el dinero más que la libertad y la democracia", dijeron.</p></p>
+}
+title3 Murió en Afganistán un jefe de Al Qaida en operación militar
+author3 AFP
+text3 {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>El jefe de Al Qaida en el subcontinente indio, Asim Umar, resultó muerto en un ataque de las fuerzas afganas y estadounidenses en el sur de Afganistán a fines de septiembre, anunció el martes el servicio de inteligencia afgano (NDS).  </p></p><p><p>"El NDS puede confirmar la muerte de Asim Umar, jefe de Al Qaida en el subcontinente indio, en un ataque conjunto de Estados Unidos y Afganistán contra una base de talibanes", indicó en un tuit esta entidad.</p></p><p><p>El ministerio de Defensa afgano informó el 23 de septiembre de un ataque en Musa Qala (sur de Afganistán) contra "una guarida utilizada por los talibanes y terroristas extranjeros pertenecientes a Al Qaida".</p></p>
+}
+title4 Gobierno de Trump impide a diplomático testificar en pesquisa de juicio político
+author4 AFP
+text4 {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>El gobierno de Donald Trump impidió a su embajador ante la Unión Europea testificar en la investigación de juicio político contra el mandatario que llevan adelante los demócratas en el Congreso, informó el martes el abogado del diplomático.</p></p><p><p>"Temprano esta mañana, el Departamento de Estado estadounidense ordenó al embajador Gordon Sondland no comparecer hoy para su deposición programada ante el Comité Conjunto de la Cámara de Representantes", dijo el abogado Robert Luskin, señalando que su cliente "está listo para testificar a corto plazo, siempre y cuando se le permita".</p></p>
+}

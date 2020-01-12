@@ -1,0 +1,29 @@
+type video
+featured{kmkv} {
+    pretitle PASA EN LA LIGA PROMERICA:
+    title TRAILER OFICIAL
+    text1 {
+Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
+}
+    text2 {
+COLECCIÓN DE NO PASA NADA
+}
+    highlightColor #E89EA2
+}
+media{kmkv} {
+    header{image} /images/201911/headers/15-andrea-kader.jpg
+    poster{image} /images/201912/posters/03-pasaen.jpg
+}
+tags deporte, pasaen
+title LDA: PORTEROS Y LA VIDA BAJO LOS TRES POSTES
+titlePoster Pasa En La Liga Promerica: EP 03
+description En el segundo episodio de "Pasa En: La Liga Promerica" conocemos historias de Adonis Pineda de La Liga Deportiva Alajuelense y Luis Alipzar de Jicaral de Sercoba.
+day 09
+month 12
+year 2019
+color #E89EA2
+videoID l8dCwwRVR28
+subtitle Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
+text {
+<p><p>En el segundo episodio de "Pasa En: La Liga Promerica" conocemos historias de Adonis Pineda de La Liga Deportiva Alajuelense y Luis Alipzar de Jicaral de Sercoba.</p></p>
+}

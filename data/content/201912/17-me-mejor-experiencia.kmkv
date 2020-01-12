@@ -1,0 +1,29 @@
+type video
+featured{kmkv} {
+    pretitle DEPORTE:
+    title ME <b>MEJOR<br>EXPERIENCIA<b>
+    text1 {
+EN ESTE PROGRAMA REUNIMOS A TRES GOLEADORES DE LA LIGA PROMERICA:
+}
+    text2 {
+ARIEL LASSITER, FRANK ZAMORA Y BRIAN PARA QUE HABLARAN DE SU MEJOR EXPERIENCIA EN LA LIGA PROMERIA Y EN EL FÚTBOL NACIONAL.
+}
+    highlightColor #f7d466
+}
+media{kmkv} {
+    header{image} /images/201912/headers/17-me-mejor-experiencia.jpg
+    poster{image} /images/201912/posters/17-me-mejor-experiencia.jpg
+}
+tags deporte, pasaen
+title Me Mejor Experiencia | Liga Promerica a Outback
+description En este episodio de Pasa en La Liga Promerica vemos cómo El Deportivo Saprissa se enfrenta a el equipo de Grecia. Pronto, su destino se decidirá en las semi-finales del La Liga, pero antes tendrá que ver qué sucederá ante un equipo como Grecia.
+day 17
+month 12
+year 2019
+color #f7d466
+videoID djJQK2QmDAU
+text {
+<p>&nbsp;</p>
+<p>En este programa reunimos a tres goleadores de la Liga Promerica: Ariel Lassiter - Liga Deportiva Alajuelense , Frank Zamora - Guadalupe F.C y Brian Rubio - Club Sport Herediano para que hablaran de su mejor experiencia en la Liga Promeria y en el f&uacute;tbol nacional.<span class="Apple-converted-space">&nbsp;</span></p>
+<p>&nbsp;</p>
+}

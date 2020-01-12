@@ -1,0 +1,45 @@
+type article
+featured{kmkv} {
+    pretitle COLA DE GALLO
+    title ¿COMO HACER? <b>LONG ISLAND ICE TEA<b> PERFECTO
+    text1 {
+En este episodio de Cola De Gallo te enseñamos a hacer el "Long Island Ice Tea", perfecto.
+}
+    text2 {
+feat. Jose Daniel Pacheco
+}
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/coladegallo-ep-1.jpg
+    poster{image} /images/202001/posters/coladegallo-ep-1.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
+    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
+    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
+    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+}
+tags cultura, home
+title El Long Island Ice Tea Perfecto
+description En este episodio de Cola De Gallo mixólogo profesional Jose Daniel Pacheco te enseña a hacer el "Long Island Ice Tea" perfecto.
+day 09
+month 01
+year 2020
+color #ffff00
+author feat. Jose Daniel Pacheco
+subtitle En este episodio de Cola De Gallo mixólogo profesional Jose Daniel Pacheco te enseña a hacer el "Long Island Ice Tea" perfecto.
+text {
+<p style="text-align: center;"><strong>Vea el primer episodio de Cola de Gallo:</strong></p>
+<hr />
+<p>$youtube/-XizN7ekMA8$</p>
+<hr />
+<p style="text-align: center;"><a href="bit.ly/subscribe-2-nopasanada">S&uacute;scribete a nuestro canal de youtube</a></p>
+<p>&nbsp;</p>
+}

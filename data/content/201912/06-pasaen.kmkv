@@ -1,0 +1,28 @@
+type video
+featured{kmkv} {
+    pretitle PASA EN LA LIGA PROMERICA:
+    title TRAILER OFICIAL
+    text1 {
+Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
+}
+    text2 {
+COLECCIÓN DE NO PASA NADA
+}
+    highlightColor #E89EA2
+}
+media{kmkv} {
+    header{image} /images/201911/headers/15-andrea-kader.jpg
+}
+tags deporte, pasaen
+title LOS GUERREROS DEL SUR "AUGE Y TRADICIÓN"
+titlePoster Pasa En La Liga Promerica
+description Buscando el norte luego de una jornada sin definir, Jicaral viaja a Pérez Zeledón donde se encuentra con "Los Guerreros del Sur". Conozca al famoso equipo de Pérez Zeledón, su nuevo estadio, e impetuosa organización.
+day 09
+month 12
+year 2019
+color #E89EA2
+videoID Q6ipSJPhYac
+subtitle Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
+text {
+<p><p>Buscando el norte luego de una jornada sin definir, Jicaral viaja a Pérez Zeledón donde se encuentra con "Los Guerreros del Sur". Conozca al famoso equipo de Pérez Zeledón, su nuevo estadio, e impetuosa organización.</p></p>
+}

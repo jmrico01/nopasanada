@@ -1,0 +1,109 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>16-12-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201912/headers/13-lo-importante.jpg
+    poster{image} /images/201912/posters/16-lo-importante.jpg
+    header-desktop1{image} /images/201912/16-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201912/16-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201912/16-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201912/16-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201912/16-lo-importante/square1.jpg
+    header-mobile2{image} /images/201912/16-lo-importante/square2.jpg
+    header-mobile3{image} /images/201912/16-lo-importante/square3.jpg
+    header-mobile4{image} /images/201912/16-lo-importante/square4.jpg
+}
+tags noticias, home
+title Lo Importante: 16-12-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 16
+month 12
+year 2019
+color #FCC285
+customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-13-12-19-e9gqgt" width="100%" frameborder="0" scrolling="no"></iframe>
+title1 Evo Morales planifica campaña electoral de Bolivia desde Argentina
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El expresidente de Bolivia Evo Morales, refugiado en Argentina desde el jueves pasado, mantuvo reuniones con dirigentes de su partido MAS para "planificar la campa&ntilde;a electoral" de Bolivia, anunci&oacute; este domingo por las redes sociales.</p>
+<p>"A un mes del golpe de Estado en #Bolivia, sostuvimos nuestra primera reuni&oacute;n en Buenos Aires con algunos dirigentes departamentales y nacionales de movimientos sociales, alcaldes, dirigentes del MAS y asamble&iacute;stas para hacer una evaluaci&oacute;n pol&iacute;tica y planificar para la campa&ntilde;a", tuite&oacute; Morales.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La reuni&oacute;n para dise&ntilde;ar las estrategias del Movimiento al Socialismo (MAS) de cara a las pr&oacute;ximas elecciones bolivianas, cuya fecha a&uacute;n no fue definida, se realiz&oacute; el s&aacute;bado en una casa del barrio de Liniers, al oeste de la capital, donde Morales, que no ser&aacute; candidato, tuvo su primera improvisada aparici&oacute;n p&uacute;blica en Argentina.</p>
+<p>"Evo Morales sale a las calles de Argentina y es acompa&ntilde;ado por multitudes de personas en una concentraci&oacute;n espont&aacute;nea. Ante el pedido de escucharlo, se arma una testera improvisada donde el pueblo argentino junto a varios bolivianos residentes le prepararon un micr&oacute;fono", se explic&oacute; desde la cuenta de Twitter @Resistencia Boliviana.</p>
+<p>Desde la terraza de una casa, el expresidente boliviano agradeci&oacute; ante sus seguidores "al gobierno argentino y al pueblo argentino estar ac&aacute;".</p>
+<p>"Como siempre en Am&eacute;rica Latina y la Patria Grande hemos derrotado a los golpistas, vamos a volver pronto", lanz&oacute; el expresidente, seg&uacute;n grabaciones caseras.</p>
+<p>Evo Morales renunci&oacute; el pasado 10 de noviembre a la presidencia de Bolivia, despu&eacute;s de dos semanas de protestas tras los cuestionados resultados de las elecciones generales del 20 de octubre, cuando buscaba su cuarto mandato. Su salida del poder se vio forzada cuando las fuerzas armadas le retiraron su apoyo.</p>
+<p>Inicialmente se exili&oacute; en M&eacute;xico, pero tras un fugaz viaje a Cuba se traslad&oacute; a Argentina, donde el gobierno del peronista de centroizquierda Alberto Fern&aacute;ndez le concedi&oacute; el estatus de refugiado.</p>
+<p>Argentina no reconoce al gobierno provisional de Jeanine A&ntilde;ez.</p>
+<p>"Evo Morales tiene car&aacute;cter de refugiado en nuestro pa&iacute;s. Los refugiados tienen los mismos derechos de cualquier argentino. Puede expresarse libremente. Nadie le va a coartar las libertades. Obviamente &eacute;l eso lo va a hacer con mucha responsabilidad", declar&oacute; el domingo el jefe de Gabinete, Santiago Cafiero, al diario Tiempo Argentino.</p>
+<p>Explic&oacute; que Morales "no pod&iacute;a ser asilado porque el asilo se concede en una embajada argentina en otro lugar, no en el propio territorio de Argentina", precis&oacute;.</p>
+<p>El canciller Felipe Sol&aacute; hab&iacute;a dicho que se le hab&iacute;a solicitado "un compromiso de no hacer declaraciones pol&iacute;ticas".</p>
+<p>En Argentina hay una fuerte presencia de bolivianos. Seg&uacute;n el &uacute;ltimo censo de 2010, residen unos 350.000 ciudadanos de ese pa&iacute;s lim&iacute;trofe, un 19% de los extranjeros en el pa&iacute;s. Pero las asociaciones de la comunidad cifran entre uno y dos millones los residentes bolivianos.</p>
+}
+title2 Chilenos respaldan cambiar la Constitución de Pinochet en consulta municipal
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Con la participaci&oacute;n de m&aacute;s de 200 municipios, los chilenos reafirmaron en las urnas que apoyan un cambio en la Constituci&oacute;n heredada de la dictadura, seg&uacute;n resultados preliminares de esta consulta voluntaria y no vinculante difundidos este domingo por autoridades locales.</p>
+<p>La consulta, que se materializa casi dos meses despu&eacute;s del inicio de un estallido social, comenz&oacute; esta semana con votaciones a trav&eacute;s de p&aacute;ginas web de los municipios, sum&aacute;ndose este domingo sufragios presenciales que completar&iacute;an un total de casi 1,5 millones de electores.</p>
+<p>En las elecciones generales de 2017, el padr&oacute;n de electores era de 14,3 millones de personas.</p>
+<p>En su primer reporte de resultados, la Asociaci&oacute;n Chilena de Municipalidades inform&oacute; que en las 29 comunas que realizaron la consulta de forma electr&oacute;nica se registraron 1.055.044 votos.</p>
+<p>Del total, 846.110 votaron por cambiar la Constituci&oacute;n.</p>
+<p>"Un 80% de la ciudadan&iacute;a pide una nueva Constituci&oacute;n y un 70% pide que esa Constituci&oacute;n sea hecha por una convenci&oacute;n constitucional", dijo Felipe Delpin, alcalde de la Granja, regi&oacute;n Metropolitana de Santiago, a radio Cooperativa.</p>
+<p>Los otros temas que la gente prioriz&oacute; fueron las demandas que han marcado la revuelta: pensiones, salud y educaci&oacute;n p&uacute;blica.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El llamado a las urnas fue lanzado por los alcaldes respondiendo a la exigencia de los manifestantes de cambiar la Constituci&oacute;n heredada la dictadura de Augusto Pinochet (1973-1990).</p>
+<p>Sin embargo, con el posterior acuerdo pol&iacute;tico alcanzado en el Congreso para decidir en un plebiscito nacional en abril de 2020 sobre si cambiar o no la Carta Magna, la votaci&oacute;n de este domingo se ampli&oacute; a otras &aacute;reas.</p>
+<p>Mientras, las comunas de Las Condes, Vitacura y Lo Barnechea, tres de las m&aacute;s ricas de Santiago, quitaron la pregunta sobre Constituci&oacute;n de la consulta.</p>
+<p>"Quiero cambios, necesitamos cambios pero estructurales y siento que esta es una manera de manifestarse, diciendo ac&aacute; que es lo que necesitamos realmente", dijo a la AFP Jacqueline Bonjardin, de 37 a&ntilde;os, mientras votaba en la comuna de Independencia, lindera con el centro de Santiago.</p>
+<p>La mayor crisis social que vive el pa&iacute;s desde el regreso a la democracia en 1990 se salda con 24 muertes, miles de heridos -m&aacute;s de 300 de ellos con lesiones oculares graves- y denuncias sobre violaciones a los derechos humanos por parte de las fuerzas de seguridad.</p>
+<p>Un informe de la Alta comisionada de la ONU para los derechos humanos (ACNUDH), la expresidenta chilena Michelle Bachelet, denunci&oacute; el "elevado n&uacute;mero de violaciones a los derechos humanos" por represi&oacute;n policial en las protestas.</p>
+<p>El gobierno del derechista Sebasti&aacute;n Pi&ntilde;era lament&oacute; esas conclusiones, pero llam&oacute; a valorar el "contexto" de violencia que envolvi&oacute; a las protestas.</p>
+}
+title3 Líder demócrata dice que conducta de Trump es "crimen en desarrollo"
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Jerry Nadler, representante dem&oacute;crata que lidera el Comit&eacute; Judicial de la C&aacute;mara Baja, dijo el domingo que la conducta del presidente Donald Trump es un "crimen en desarrollo" que amenaza a la democracia de Estados Unidos, en la antesala de una votaci&oacute;n hist&oacute;rica sobre el juicio pol&iacute;tico al mandatario republicano.</p>
+<p>"&iquest;Tenemos una democracia constitucional, o tenemos una monarqu&iacute;a, en la que el presidente no rinde cuentas?", se pregunt&oacute; Nadler en el programa "This Week" de la cadena ABC.</p>
+<p>"Eso es lo que est&aacute; en juego aqu&iacute;".</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Nadler expres&oacute; su enojo con los senadores republicanos que dijeron que ya hab&iacute;an tomado la decisi&oacute;n, sin conocer pruebas o testimonios, de exonerar a Trump en el juicio pol&iacute;tico que se espera tenga lugar en enero de 2020.</p>
+<p>El pr&oacute;ximo mi&eacute;rcoles, el pleno de la C&aacute;mara Baja votar&aacute; sobre los dos cargos aprobados por el panel que preside Nadler, y se espera que la mayor&iacute;a dem&oacute;crata haga avanzar el proceso de destituci&oacute;n a su siguiente etapa en el Senado.</p>
+<p>De cumplirse el pron&oacute;stico, Trump se convertir&aacute; en el tercer presidente de la historia de Estados Unidos en ser sometido a juicio pol&iacute;tico, mecanismo constitucional que solo se aplic&oacute; a Andrew Johnson en 1868 y a Bill Clinton en 1998.</p>
+<p>En 1974, ante la perspectiva de que la C&aacute;mara Baja votar&iacute;a a favor de un juicio en su contra, Richard Nixon present&oacute; su renuncia. Ni Johnson ni Clinton fueron destituidos por el Senado.</p>
+<p><strong>"Justicia imparcial"</strong></p>
+<p>Trump conf&iacute;a que la mayor&iacute;a republicana en la C&aacute;mara Alta lo exonerar&aacute; de responsabilidad por las acusaciones de abuso de poder y obstrucci&oacute;n del Congreso.</p>
+<p>El domingo, el inquilino de la Casa Blanca se burl&oacute; en su cuenta de Twitter, en varias oportunidades, sobre el proceso de destituci&oacute;n en marcha, y retuite&oacute; a un comentarista conservador que dec&iacute;a: "El Presidente no hizo nada mal aqu&iacute;. No hay crimen", a lo que agreg&oacute;: "&iexcl;Enga&ntilde;o de Juicio pol&iacute;tico!".</p>
+<p>Mitch McConnell, l&iacute;der de la mayor&iacute;a republicana en el Senado, prometi&oacute; "coordinaci&oacute;n total" con la Casa Blanca y dijo que no existe chance de que Trump sea declarado culpable.</p>
+<p>Adam Schiff, el dem&oacute;crata que impuls&oacute; la medida en la C&aacute;mara Baja, considera que la actitud los republicanos es "vergonzosa".</p>
+<p>Nadler, por su parte, dijo que ese comportamiento iba en contra del juramento que pide "justicia imparcial" a todos los senadores en un juicio pol&iacute;tico.</p>
+<p>"Es una completa subversi&oacute;n del mecanismo constitucional", dijo.</p>
+<p>Las audiencias de este proceso han resultado un ejercicio amargo para los dem&oacute;cratas, que temen por el costo pol&iacute;tico que podr&iacute;a suponerles votar a favor del juicio pol&iacute;tico.</p>
+<p>Los m&aacute;s perjudicados: moderados en distritos que simpatizan por Trump, que creen que podr&iacute;an perder sus esca&ntilde;os el pr&oacute;ximo a&ntilde;o si van contra el presidente.</p>
+}
+title4 Encargado de la reforma de las pensiones en Francia dimite por presunto conflicto de intereses
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El alto comisionado franc&eacute;s Jean-Paul Delevoye, encargado de redactar el proyecto sobre la reforma de las pensiones en Francia que tiene al pa&iacute;s sumido en un fuerte conflicto social, dimiti&oacute; este lunes, acusado de "conflicto de intereses" con el sector de las aseguradoras privadas.</p>
+<p>En un comunicado enviado a la AFP, Delevoye estim&oacute; que su credibilidad hab&iacute;a sido socavada por "ataques violentos" y "amalgamas" que pretend&iacute;an desacreditar una reforma que dijo era "esencial para Francia".</p>
+<p>Delevoye ser&aacute; remplazado "lo antes posible", indic&oacute; la presidencia francesa, que acept&oacute; su dimisi&oacute;n "con pesar".</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El ejecutivo intent&oacute; defender a Delevoye durante d&iacute;as pero su posici&oacute;n se hab&iacute;a vuelto insostenible despu&eacute;s de que la prensa revelara que el funcionario no hab&iacute;a declarado que manten&iacute;a una decena de cargos paralelamente a su mandato en el gobierno, algunos de los cuales eran remunerados, lo que est&aacute; prohibido en Francia.</p>
+<p>Entre los cargos que Delevoye no declar&oacute; a la Alta Autoridad para la Transparencia de la Vida P&uacute;blica (HATVP), que controla el patrimonio y actividades de los miembros del gobierno, figura uno relacionado con el mundo de las aseguradoras privadas, y uno con la empresa nacional ferroviaria (SNCF), por los que no recib&iacute;a sueldo.</p>
+<p>Tambi&eacute;n sigui&oacute; recibiendo un sueldo de 5.000 euros por mes, por parte de una empresa de formaci&oacute;n, despu&eacute;s de que entrara al gobierno, lo que est&aacute; prohibido por la Constituci&oacute;n francesa.</p>
+<p>Para el alto funcionario se trataron de "omisiones por olvido".</p>
+<p>La dimisi&oacute;n de Delevoye, nombrado en septiembre 2017 para redactar la reforma de las pensiones, tiene lugar en pleno conflicto social contra el proyecto emblem&aacute;tico del mandato de Macron.</p>
+<p>Ciudades como Par&iacute;s llevan 12 d&iacute;as sumidas en una huelga en los transportes p&uacute;blicos y los sindicatos preparan una manifestaci&oacute;n nacional el martes contra la reforma de las pensiones.</p>
+<p>El gobierno franc&eacute;s desea unificar los 42 reg&iacute;menes de pensiones existentes en el pa&iacute;s en un sistema &uacute;nico por puntos y atrasar la edad de jubilaci&oacute;n para recibir una pensi&oacute;n completa.</p>
+}

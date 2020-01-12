@@ -1,0 +1,81 @@
+type article
+featured{kmkv} {
+    pretitle LA GUIDA:
+    title LOS 5 DESAYUNOS QUE DEBE PROBAR EN SAN JOSÉ<br><b>DICIEMBRE 2019<b>
+    text1 {
+Recomendado: Una columna de La Guida dedicada a destacar las cosas favoritas de nuestros sabiondos editores para comer, beber y comprar.
+}
+    text2 {
+POR ALBERTO GATGENS
+}
+    highlightColor #ffe11a
+}
+media{kmkv} {
+    header{image} /images/201912/headers/13-desayunos.jpg
+    poster{image} /images/201912/posters/13-desayunos.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    desayunos{image} /images/201912/13-desayunos/desayunos.jpg
+    quesopinto{image} /images/201912/13-desayunos/quesopinto.jpg
+    christophe{image} /images/201912/13-desayunos/christophe.jpg
+    petit1{image} /images/201912/13-desayunos/petit1.jpg
+    lagranja{image} /images/201912/13-desayunos/lagranja.jpg
+    petit{image} /images/201912/13-desayunos/petit.jpg
+    pancakes{image} /images/201912/13-desayunos/pancakes.jpg
+}
+tags cultura, home
+title Los 5 desayunos que debe probar en San José, Diciembre 2019
+description ¿Dónde están los mejores desayunos de San José? Te compartimos esta lista de La Guida para encontrarlos.
+day 13
+month 12
+year 2019
+color #f4b6a5
+author Alberto Gatgens
+subtitle Bienvenido a La Guida: una herramienta que define la escena gastronómica de esta ciudad, en este momento.
+text {
+<p><strong><em>En La Guida buscamos satisfacer las necesidades de encontrar restaurantes tanto para locales como para visitantes y hacer lo posible para que encuentren todo desde un cl&aacute;sico, hasta un spot del vecindario. Cada mes, algunos restaurantes salen de la lista para dar campo a lugares que han mejorado, hecho algo diferente, o tienen una relevancia creciente.</em></strong></p>
+<p><strong><em>Y por &uacute;ltimo&hellip; En lugar de tener un colapso por la exclusi&oacute;n de tu restaurante favorito de esta lista, te damos la opci&oacute;n de nominarlo para su inclusi&oacute;n el pr&oacute;ximo mes. Escr&iacute;benos tus nominaciones a: info@nopasanada.com</em></strong></p>
+<hr />
+<p>El desayuno tiene sus propias reglas y juega en otra liga. Es una galaxia aparte en el universo de la gastronom&iacute;a. &iquest;Por qu&eacute;? Porque es una comida especial. Buscamos que todas las comidas sean especiales, pero a esta, seg&uacute;n el d&iacute;a, podemos ir en pijama, con el perro, con una calma que desconocemos entre semana. Para el desayuno buscamos un placer l&uacute;dico en el paladar, que nos acerque a la memoria de los a&ntilde;os maravillosos de la ni&ntilde;ez. Cedemos a los caprichos y queremos ser arrullados por el arrurr&uacute; mi ni&ntilde;o, arrurr&uacute; mi sol de un rico pan, tortillas palmeadas, un pinto, unos huevitos, cafecito caliente.</p>
+<p>O bien, buscamos los placeres de adultos que solo el desayuno sabe dar: unos huevos benedictinos, un s&aacute;nguche de quesos fuertes y jamones contundentes con un caf&eacute; expreso &aacute;cido de notas complejas. Para disfrutar como ni&ntilde;os grandes del desayuno, sin orden de importancia, estas cinco recomendaciones ser&aacute;n su gu&iacute;a del desayuno:</p>
+<hr />
+<p><strong>Panader&iacute;a La Petit France:</strong> | $$ | Plaza Del Sol 300m Sur antigua casa Torre Lobo, San Jos&eacute;</p>
+<hr />
+<p>El pan en Francia (lo mismo que el resto de la comida) es asunto de importancia vital para esa gran naci&oacute;n. Orgullosos de su pan, de su arte gastron&oacute;mico, &iquest;Qu&eacute; mejor lugar para disfrutar los sabores de Francia que un restaurante de una familia de afanados y orgullosos panaderos?</p>
+<p>$image/petit$</p>
+<p>En este negocio familiar &ndash;mam&aacute;, pap&aacute; y los dos hijos&ndash; se encargan de preparar y servir desde la boller&iacute;a m&aacute;s infaltable como croasaints, baguetes, hasta los sublimes financieros. Todo, m&aacute;s que rico, es elevado. Sin embargo, ocupa un sitio especial en mi corazoncito goloso su croque madame. Servido en su pan baguete, con una salsa bechamel muy ligera, con queso suavemente derretido y jam&oacute;n de pierna, un huevo frito hecho al gusto corona la escultura del sabor.</p>
+<hr />
+<p><strong>La Granja</strong> | $ | <strong><em>Rohmoser, 200 oeste de la embajada americana, 1010 Pavas, San Jos&eacute;</em></strong></p>
+<hr />
+<p>Tradicional restaurante de comida t&iacute;pica en Pavas, La Granja ha sabido resistir con calidad de sus productos a la oleada de negocios patrioteros que reventaron hace unos a&ntilde;os y se diluyeron en el flujo de la historia con pena que gloria.</p>
+<p>$image/lagranja$</p>
+<p>La Granja es tambi&eacute;n un emprendimiento familiar que ya suma a la tercera generaci&oacute;n entre sus filas. Ah&iacute;, las tortillas palmeadas son el est&aacute;ndar que da paso a un pinto servido en hoja de pl&aacute;tano con sabores limpios, que esperan complacer a un gran p&uacute;blico.</p>
+<p>A toda hora se puede comer pinto, pl&aacute;tanos maduros, natilla, tamales, los huevitos al gusto, picadillos, caf&eacute; en jarro de loza o agua dulce. Los sabores est&aacute;n a la altura de la memoria y de la expectativa.</p>
+<hr />
+<p><strong>Chez Christophe</strong>| $$ | <strong><em>Al otro lado de la calle Centro Comercial Paco, San Rafael de Escaz&uacute;:</em></strong></p>
+<hr />
+<p>Restaurante franc&eacute;s muy especializado en desayunos. Su carta es amplia y su enfoque en los desayunos le ha deparado una muy fiel clientela.</p>
+<p>$image/christophe$</p>
+<p>El croque madame Par&iacute;s se asienta en lonjas de pan casero con una salsa bechamel muy r&uacute;stica. El conjunto se matiza con el queso de sabor y textura suave, que redondea notas dulces en el posgusto.</p>
+<p>El omelette de tocineta y queso es un infaltable en la lista de los deseos: cremoso sin estar l&iacute;quido el huevo, la tocineta crocante (como debe ser) eleva el plato a la alta dimensi&oacute;n del placer.</p>
+<p>Su croissant bien hojaldrado y mantequilloso, compa&ntilde;&iacute;a perfecta para un buen caf&eacute; cualquier d&iacute;a de la semana, a toda hora del d&iacute;a.</p>
+<hr />
+<p><strong>Soda Las Delicias del Ma&iacute;z</strong> | $ | <strong><em>Fer&iacute;a del Agricultor de Guadalupe los s&aacute;bados y los domingos en la de Zapote</em></strong></p>
+<hr />
+<p>En otras oportunidades he escrito sobre el quesopinto de do&ntilde;a Gerardina, el alma de Las Delicias del Ma&iacute;z, en la Feria de Zapote, los domingos y sigo convencido de que debo ir por el mundo evangelizando sobre este plato in&eacute;dito en la cocina criolla costarricense.</p>
+<p>$image/quesopinto$</p>
+<p>Una generosa porci&oacute;n de queso fresco tierno, medio y maduro van a la plancha a formar una especie de tortilla que se carameliza, sobre la que anidar&aacute; una buena porci&oacute;n de gallo pinto, chicharr&oacute;n, chorizo o carne en salsa (o lo que haya a mano). Luego, se cerrar&aacute; el queso, formando un caparaz&oacute;n de queso con pinto dentro.</p>
+<p>El resultado es un alto porcentaje de umami que contrasta con el acre del pinto y los olores verde, como el culantro. Adem&aacute;s, hay tortillas con queso, empanadas, chorreadas y otros platos habituales del universo criollo. S&uacute;mele un ambiente distendido, de feria del agricultor, con mesas compartidas y el resultado no podr&iacute;a ser m&aacute;s aut&eacute;ntico.</p>
+<hr />
+<p><strong>The Breakfast Club:</strong> | $$ | <strong><em>400mts sur De La Rotonda De Multiplaza Escaz&uacute; Centro Comercial Boulevard Local #20 Guachipelin, Escaz&uacute;, San Jos&eacute;</em></strong></p>
+<hr />
+<p>El desayuno es su men&uacute; completo. Viven y mueren por que tu desayuno sea memorable. Discurren en su amplio men&uacute; muchas opciones: desde bagels hasta huevos benedictinos, pasando por tazones de gallo pinto y pancakes.</p>
+<p>$image/pancakes$</p>
+<p>Entre mis favoritos est&aacute;n los pancakes de banano, de presentaci&oacute;n divertida, gorditos y esponjosos y de muy conseguido sabor a banano, sin pasarse de la raya. Tambi&eacute;n los huevos benedictinos son recomendables: la salsa holandesa espesa, de buen sabor, hizo su trabajo de realzar al infinito y m&aacute;s all&aacute; a los humildes huevos pochados.</p>
+<p>Es de resaltar del bagel con huevo y tocineta de sabores vibrantes que dejaban con facilidad saborear el huevo, que estaba en el punto de cocci&oacute;n, es decir, cremoso.</p>
+<hr />
+<p><strong>LEA M&Aacute;S: <a href="https://www.nopasanada.com/content/201912/09-al-mercat">Recomendado: Un almuerzo no tan t&iacute;pico en Al Mercat</a></strong> |</p>
+<p>$image/platofuerte$</p>
+}

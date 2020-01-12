@@ -1,0 +1,28 @@
+type video
+featured{kmkv} {
+    pretitle PASA EN LA LIGA PROMERICA:
+    title JICARAL, CARTAGO Y UCR DEFIENDEN LA CLASIFICACIÓN
+    text1 {
+Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
+}
+    text2 {
+COLECCIÓN DE NO PASA NADA
+}
+    highlightColor #E89EA2
+}
+media{kmkv} {
+    header{image} /images/201911/headers/15-andrea-kader.jpg
+}
+tags deporte, pasaen
+title JICARAL, CARTAGO Y UCR DEFIENDEN LA CLASIFICACIÓN
+titlePoster Pasa En La Liga Promerica
+description Después de un partido lleno de emociones entre Jicaral y Cartago, vemos en el tercer episodio de "Pasa En: La Liga Promerica" como se defiende la búsqueda por la clasificación. Feat: Rafel Angel Núñez, Jameson Scott Guevara y Cristian Montero.
+day 09
+month 12
+year 2019
+color #E89EA2
+videoID kImBaTPZJpU
+subtitle Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
+text {
+<p><p>Después de un partido lleno de emociones entre Jicaral y Cartago, vemos en el tercer episodio de "Pasa En: La Liga Promerica" como se defiende la búsqueda por la clasificación. Feat: Rafel Angel Núñez, Jameson Scott Guevara y Cristian Montero.</p></p>
+}

@@ -1,0 +1,26 @@
+type video
+featured{kmkv} {
+    pretitle ESTO ES:
+    title <b>NO</b> PASA<br>NADA<b>.</b>
+    text1 {
+LA PLATAFORMA PREMIER DE CONTENIDO ORIGINAL, REPORTAJES Y NOTICIAS EN ESPAÑOL PARA Y POR UNA NUEVA GENERACIÓN
+}
+    text2 {
+VER VIDEO
+}
+    highlightColor #36fffd
+}
+media{kmkv} {
+    header{image} /images/201908/headers/garrotex1.jpg
+}
+tags nopasanada
+title No Pasa Nada: El porqué.
+titlePoster No Pasa Nada:<br>El porqué.
+day 12
+month 08
+year 2019
+color #36fffd
+videoID TzxV2HgY35s
+text {
+<p><p>La incertidumbre es una de nuestras respuestas más humanas. Aparece ante eventos inesperados, o momentos que quiebran nuestra rutina. Además, la incertidumbre es tan cordial que no sólo nos acompaña cuando no tenemos control e intentamos buscar orden, pero además, cuando tenemos control y buscamos hacer algo diferente.</p></p><p><p>La incertidumbre es ese sentimiento que nos abruma con impotencia, nos confunde, nos pesa como yugo de madera vieja en los hombros y nos quita el aire en ese espacio hueco entre nuestras costillas, arriba del estomago y debajo del corazõn.</p></p><p><p>La incertidumbre es miedo, es ansiedad, es emoción y felicidad. Es lo que sentimos al entender que vivimos nuestro primer amor, y que ese mismo se acabó. La incertidumbre es el no saber qué va a pasar.</p></p><p><p>Ante la incertidumbre siempre va a existir una respuesta. La respuesta nos encara con nuestra naturaleza, nos hace accionar sobre lo que somos. Ese momento de acción con el cual nos enfrentamos ante lo que se interpuso entre nosotros y lo incierto; nos analiza, nos juzga, nos hace lo que somos, y nos prepara para lo que vamos a ser.</p></p><p><p>Lo que nos define no es no es la situación que se interpone, ni el sentimiento previo a esta, ni tampoco sus consecuencias absolutas e incambiables. Lo que nos define sólo existe en el hacer, porque en un mundo de constantes intangibles podemos sólo decir que somos eso que realmente hacemos.</p></p><p><p>Es entonces ese espacio, ese hueco entre nuestras costillas, arriba del estomago y debajo del corazón que se llena en grande de incertidumbre en el antes del hacer, que nace: “No Pasa Nada.”</p></p><p><p>Es una voz que habla con amor y responsabilidad para decir:</p></p><p><p><em>“Anda amigo, tranquilo, no pasa nada.”</em></p></p>
+}

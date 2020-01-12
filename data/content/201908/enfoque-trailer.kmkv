@@ -1,0 +1,17 @@
+type video
+featured{kmkv} {
+}
+media{kmkv} {
+    header{image} /images/201908/headers/enfoque3.jpg
+}
+tags cultura
+title Enfoque, Episodio 1. Trailer
+titlePoster Enfoque, Episodio 1.<br>Trailer
+day 15
+month 08
+year 2019
+color #7fffcb
+videoID g36TGvzIi5o
+text {
+<p><p><em>En Enfoque conocemos las vidas e historias de celebrados y nuevos artistas viviendo y trabajando en Latinoamérica.</em></p></p>
+}

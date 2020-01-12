@@ -1,0 +1,103 @@
+type article
+featured{kmkv} {
+    pretitle Cinco álbumes para recordar el 2019
+    title 5 discos del 2019 que vale la pena escuchar
+    text1 {
+Una lista para conmemorar el año que acaba.
+}
+    text2 {
+POR PABLO HERNÁNDEZ
+}
+    highlightColor #f4b6a5
+}
+media{kmkv} {
+    header{image} /images/201912/headers/5-albumes.jpg
+    poster{image} /images/201912/posters/5-albumes.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    cebolla{image} /images/201912/09-al-mercat/cebolla.jpg
+    almafria{image} /images/201912/lo-mejor-2019/almafria.jpg
+    novillocostilla{image} /images/201912/lo-mejor-2019/novillocostilla.jpg
+    caldosa{image} /images/201912/lo-mejor-2019/caldosa.jpg
+    costilla{image} /images/201912/lo-mejor-2019/costilla.jpg
+    costilla2{image} /images/201912/lo-mejor-2019/costilla2.jpg
+    croquetas{image} /images/201912/lo-mejor-2019/croquetas.jpg
+    dados{image} /images/201912/lo-mejor-2019/dados.jpg
+    gamabs{image} /images/201912/lo-mejor-2019/gamabs.jpg
+    lengua{image} /images/201912/lo-mejor-2019/lengua.jpg
+    martini{image} /images/201912/lo-mejor-2019/martini.jpg
+    negroni{image} /images/201912/lo-mejor-2019/negroni.jpg
+    whiskey{image} /images/201912/lo-mejor-2019/whiskey.jpg
+    oreja{image} /images/201912/lo-mejor-2019/oreja.jpg
+    palak{image} /images/201912/lo-mejor-2019/palak.jpg
+    petrus{image} /images/201912/lo-mejor-2019/petrus.jpg
+    steaktartar{image} /images/201912/lo-mejor-2019/steaktartar.jpg
+    trago{image} /images/201912/lo-mejor-2019/trago.jpg
+    crushedpoints{image} /images/201912/lo-mejor-2019/crushedpoints.jpg
+    fka{image} /images/201912/lo-mejor-2019/fka.jpg
+    kikwana{image} /images/201912/lo-mejor-2019/kikwana.jpg
+    igor{image} /images/201912/lo-mejor-2019/igor.jpg
+    infest{image} /images/201912/lo-mejor-2019/infest.jpg
+    albums{image} /images/201912/5-albumes/albums.jpg
+}
+tags cultura, home
+title 5 discos del 2019 que vale la pena escuchar
+description Para conmemorar el año que acaba, te recomendamos cinco álbumes
+day 31
+month 12
+year 2019
+color #f4b6a5
+author Pablo Hernandez
+subtitle Para conmemorar el año que acaba, te recomendamos cinco álbumes
+text {
+<p>$image/albums$</p>
+<p dir="ltr">Cuando nac&iacute; ya exist&iacute;a m&aacute;s m&uacute;sica de la que yo podr&iacute;a escuchar en toda una vida, y a&uacute;n as&iacute; siguen haciendo m&aacute;s. Puede ser intimidante meterse a Spotify sin saber por d&oacute;nde comenzar a buscar m&uacute;sica nueva as&iacute; que hago una lista de cinco discos que me emocionaron y creo que valen la pena sacar una tarde para escuchar.</p>
+<hr />
+<p dir="ltr">En ning&uacute;n orden - si supiera ordenar cosas ordenar&iacute;a mi cuarto.</p>
+<p dir="ltr"><strong>5. KIWANUKA</strong></p>
+<p dir="ltr"><strong>Michael Kiwanuka | Folk Rock, Indie Rock <a href="https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ" target="_blank" rel="noopener">|<em> Spotify Link</em></a></strong></p>
+<p dir="ltr">El disco KIWANUKA probablemente no va a revolucionar el mundo de la m&uacute;sica. No crea un g&eacute;nero nuevo, no inventa un movimiento dentro de la escena musical. Es &ldquo;solo&rdquo; un disco de rock, pero uno muy, muy bueno. Su m&uacute;sica es una fusi&oacute;n interesante de rock con elementos de folk, disco, soul y funk.</p>
+<p>$image/kikwana$</p>
+<p dir="ltr">Desde su primera canci&oacute;n, <a href="https://www.youtube.com/watch?v=ivvs_qL6t_c">You Ain&rsquo;t the Problem</a>, sab&iacute;a que necesitaba escuchar m&aacute;s. La forma en la que la banda comienza con las frecuencias altas cortadas: percusi&oacute;n, bajo, piano y risas. Cuando se quita el filtro llegamos a la entrada triunfal de la guitarra de Michael y se une un coro de vocales que parecer&iacute;an sacados de un hit de soul de los setentas. De no ser por la calidad moderna de producci&oacute;n, sus canciones podr&iacute;an pasar f&aacute;cilmente como producto de esa d&eacute;cada. Solos de guitarra como el de Hero y Final Days, est&aacute;n llenos de la influencia de guitarristas como Hendrix, los arreglos de cuerdas y coros en temas como Piano Joint (This Kind of Love) o Light ser&iacute;an perfecto acompa&ntilde;amiento para un tema de Marvin Gaye o Otis Redding y las trompetas de Living in Denial, son soul puro.</p>
+<p dir="ltr">KIWANUKA est&aacute; lleno de temas de introspecci&oacute;n, aceptaci&oacute;n personal y mucho optimismo. En tiempos tan ca&oacute;ticos como los que vivimos, estas canciones de amor propio y protesta son m&aacute;s que bienvenidas.</p>
+<hr />
+<p>&nbsp;</p>
+<p dir="ltr"><strong>4. CRUSH</strong></p>
+<p dir="ltr"><strong>Floating Points | Electronic Music <a href="https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L" target="_blank" rel="noopener">|<em> Spotify Link</em></a></strong></p>
+<p dir="ltr">Tuve la hermosa coincidencia de escuchar este disco un d&iacute;a despu&eacute;s de ver <a href="https://www.youtube.com/watch?v=89OP78l9oF0">Annihilation</a> y desde entonces asocio ambos proyectos, para bien. La pel&iacute;cula tiene un uso tan intencional para el sonido de los sintetizadores que es imposible de ignorar, y fue lo mismo que sent&iacute; al escuchar Crush. La primera canci&oacute;n que escuch&eacute; fue <a href="https://www.youtube.com/watch?v=lvbRb2G8lh4">Requiem for CS70 and Strings</a>, un hermoso arreglo de instrumentos de cuerdas ac&uacute;sticos y el sintetizador Roland CS-70m. El balance entre lo ac&uacute;stico y lo el&eacute;ctrico, lo natural y lo alien&iacute;gena. La canci&oacute;n grita ciencia ficci&oacute;n.</p>
+<p dir="ltr">$image/crushedpoints$</p>
+<p dir="ltr">Una de mis cosas favoritas de la m&uacute;sica electr&oacute;nica es lo amplia que es. Sam Shepherd (el artista detr&aacute;s del nombre Floating Points) tiene una capacidad sorprendente de cubrir el espectro de posibilidades dentro del g&eacute;nero. Dentro del mismo disco muestra pasa de canciones como Falaise o Sea-Watch, llenas de experimentaci&oacute;n s&oacute;nica y espacial, casi dignas de una sala de meditaci&oacute;n New Age, hasta canciones como Anasickmodular, LesAlpx y Bias, que no estar&iacute;an fuera de lugar en una pista de baile.</p>
+<p dir="ltr">Este tipo de rango creativo merecer&iacute;a ser celebrado por s&iacute; solo, pero los detalles de producci&oacute;n realmente son lo que lo hace estar por encima de muchos otros proyectos. Sam es claramente un m&uacute;sico y productor muy talentoso, y sus proyectos finales nunca se siente accidentales. Las frecuencias del bajo al comienzo de Bias, el sonido distorsionado e instable de la melod&iacute;a que se le une, la forma en la que los sonidos bailan de un lado de los parlantes a otro en Falaise. Las texturas que crea, y la forma de balancear tantos rangos de frecuencias en canciones como Apoptose, Pt. 2 parecen un ejercicio complejo en el que podemos enfocarnos en sonidos individuales y luego agruparlos y experimentar el resultado colaborativo entre ellos.</p>
+<p dir="ltr">Como un entusiasta en los sintetizadores an&aacute;logos, no me queda m&aacute;s que so&ntilde;ar con el <a href="https://www.youtube.com/watch?v=GpCdodqTYtE">sistema Buchla que usa</a> para sus discos y presentaciones en vivo. Este disco es perfecto para estrenar un nuevo par de aud&iacute;fonos o un sistema de sonido y explorar algunas de las posibilidades s&oacute;nicas de los sintetizadores.</p>
+<hr />
+<p dir="ltr">&nbsp;</p>
+<p dir="ltr"><strong>3. MAGDALENE</strong></p>
+<p dir="ltr"><strong>Fka Twigs | Art Pop, Avant Pop <a href="https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH" target="_blank" rel="noopener">|<em> Spotify Link</em></a></strong></p>
+<p dir="ltr">FKA twigs ha sido una de las artistas m&aacute;s interesantes de la d&eacute;cada, y su segundo disco solo agrega a su reputaci&oacute;n. MAGDALENE est&aacute; lleno de conceptos afro-futuristas, producci&oacute;n impecable y dise&ntilde;o de sonido precioso. Es dif&iacute;cil categorizar el disco, con tantas fuentes de inspiraci&oacute;n y una mezcla de g&eacute;neros y sonidos que no es f&aacute;cil de encontrar.</p>
+<p>$image/fka$</p>
+<p dir="ltr">El primer single, <a href="https://www.youtube.com/watch?v=YkLjqFpBh84">cellophane</a>, es una balada extremadamente vulnerable, una confesi&oacute;n de amor con miedo y un poco de decepci&oacute;n, donde el enfoque nunca deja de ser la voz. El video de FKA twigs haciendo una rutina de pole dance solo agrega un talento m&aacute;s que envidiarle. El resto del disco var&iacute;a desde el art pop experimental hasta el trap y hip-hop. <a href="https://www.youtube.com/watch?v=p2Rro6TQgpU">home with you</a> toca temas de representaci&oacute;n y la comunicaci&oacute;n honesta dentro de relaciones, con elementos musicales como el ad lib famoso en canciones de trap, armon&iacute;as de piano perfectas para una balada y un cierre con instrumentaci&oacute;n que pertenecer&iacute;a m&aacute;s en un disco de jazz libre que una balada de pop. &iquest;Mencion&eacute; que ella dirigi&oacute; el video? holy terrain y fallen alien tienen la percusi&oacute;n perfecta para un hit de trap, con producci&oacute;n de twigs y Nicolas Jaar.</p>
+<p dir="ltr">El disco es una combinaci&oacute;n perfecta de art pop al estilo de Bj&ouml;rk o Kate Bush, con la perspectiva de una mujer de ascendencia caribe&ntilde;a. Los vocales de fka twigs son hermosos a trav&eacute;s de todo el disco, y los arreglos en las canciones son el acompa&ntilde;amiento perfecto.</p>
+<hr />
+<p dir="ltr" style=" font-weight: 400;">&nbsp;</p>
+<p dir="ltr" style=" font-weight: 400;"><strong>2. IGOR</strong></p>
+<p dir="ltr" style=" font-weight: 400;"><strong>Tyler, The Creator | Art Pop, Avant Pop |<em> <a href="https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE" target="_blank" rel="noopener">Spotify Link</a></em></strong></p>
+<p dir="ltr">El sexto disco de Tyler, The Creator es el primero producido completamente por &eacute;l y toma una direcci&oacute;n muy distinta al resto de su discograf&iacute;a, al punto que hubieron fans que no lo disfrutaron inicialmente. Tyler construy&oacute; su reputaci&oacute;n como artista de rap y hip-hop, mientras que este disco, aunque a&uacute;n tenga canciones m&aacute;s tradicionales de hip-hop como I THINK y NEW MAGIC WAND, el disco contiene muchas canciones donde el enfoque es m&aacute;s una est&eacute;tica de synthpop y R&amp;B.</p>
+<p>$image/igor$</p>
+<p dir="ltr">IGOR continua la transformaci&oacute;n de Tyler que comenz&oacute; en su &uacute;ltimo disco, Flower Boy, donde el artista ya estaba experimentando con elementos de m&uacute;sica pop y soul. Hay canciones tanto en Flower Boy como en IGOR que Tyler escribi&oacute; inicialmente con Justin Bieber y Zayn Malik de One Direction en mente, incluyendo el primer single del disco, <a href="https://www.youtube.com/watch?v=HmAsUQEFYGI">EARFQUAKE</a>. Es claro que Tyler no tiene el mismo nivel de talento vocal que esos otros artistas, pero hay valor en la autenticidad de los vocales que &eacute;l mismo grab&oacute;, y adem&aacute;s caben dentro de la narrativa del personaje que cre&oacute; para este disco.</p>
+<p dir="ltr">Canciones como A BOY IS A GUN* y ARE WE STILL FRIENDS? tienen una fusi&oacute;n de soul cl&aacute;sico con acompa&ntilde;amientos de vocales y cuerdas, pero con dise&ntilde;o de sonido y percusi&oacute;n de hip-hop moderno. El talento de producci&oacute;n de Tyler se puede ver reflejado en su uso y manipulaci&oacute;n de samples vocales, la implementaci&oacute;n de sintetizadores, el respeto al espacio s&oacute;nico que requiere una percusi&oacute;n con un kick tan poderoso como el de una TR-808 tradicional en hip-hop.</p>
+<p dir="ltr">IGOR es un paso desafiante de un artista establecido en una direcci&oacute;n nueva, con m&aacute;s control art&iacute;stico y expresi&oacute;n personal.</p>
+<hr />
+<p dir="ltr" style=" font-weight: 400;">&nbsp;</p>
+<p dir="ltr" style=" font-weight: 400;"><strong>1. INFEST THE RAT'S NEST</strong></p>
+<p dir="ltr" style=" font-weight: 400;"><strong>King Gizzard | Thrash | <a href="https://open.spotify.com/album/5Bz2LxOp0wz7ov0T9WiRmc" target="_blank" rel="noopener"><em>Spotify Link</em></a></strong></p>
+<p dir="ltr">No habr&iacute;a podido escoger otro disco como mi favorito del a&ntilde;o. No es que este sea el mejor disco del 2019, es simplemente el que m&aacute;s me habl&oacute;. Un disco de thrash metal conceptual sobre el futuro dist&oacute;pico, lleno de referencias a tem&aacute;ticas de ciencia ficci&oacute;n y algunas no tan ficci&oacute;n, Infest the Rat&rsquo;s Nest habla de un punto en la historia donde la crisis clim&aacute;tica llega a un punto del que no podemos regresar, donde los millonarios logran comenzar una colonia en Marte mientras el resto del planeta Tierra los ve en las televisiones, atrapados en un planeta lleno de enfermedades y desastres naturales.</p>
+<p>$image/infest$</p>
+<p dir="ltr">Este fue el segundo disco del a&ntilde;o para King Gizzard and the Wizard Lizard, y para cualquier otra banda eso ya ser&iacute;a un logro dentro de s&iacute; mismo, pero hace dos a&ntilde;os se retaron a sacar 5 discos en un a&ntilde;o. Para quienes los conozcan saben que es una banda que ama experimentar, y este disco no suena para nada como otros de sus proyectos. Inclusive su otro disco de este a&ntilde;o, <a href="https://www.youtube.com/watch?v=beIDKFwXam0">Fishing for Fishies</a>, es lo m&aacute;s lejano que podr&iacute;a imaginar, un disco lleno de rock psicod&eacute;lico y blues acompa&ntilde;ado de un video de Stu Mackenzie (cantante y guitarrista) pescando al resto de la banda frente a un mar animado con caricaturas uni&eacute;ndose a la m&uacute;sica. Cuando sali&oacute; el primer single de ITRN, <a href="https://www.youtube.com/watch?v=qtTi_uyYynA">Organ Farmer</a>, yo no pod&iacute;a creerlo. Aunque la banda hab&iacute;a mostrado influencias de metal y rock pesado antes, nunca de una forma tan evidente como lo hac&iacute;an aqu&iacute;.</p>
+<p>&nbsp;</p>
+<p dir="ltr">Entre uno de los lanzamientos m&aacute;s interesantes, la banda acompa&ntilde;&oacute; el disco con un videojuego claramente influenciado por los &lsquo;shooters&rsquo; originales como Doom, los cuales siempre estuvieron llenos de m&uacute;sica influenciada por thrash metal de los ochentas. El juego lo puedes encontrar <a href="https://marsfortherich.com/">aqu&iacute;</a>. Comienzas caminando hacia una plataforma parecida a la pir&aacute;mide con huesos que se ve en la portada del disco, cuando recolectas balas suena Mars for the Rich, la segunda canci&oacute;n de ITRN, y debes pelear contra un ej&eacute;rcito aparentemente infinito de ratas.</p>
+<p>&nbsp;</p>
+<p dir="ltr">Una de mis cosas favoritas de este disco es la aparente contradicci&oacute;n entre cosas que usualmente asociamos a la masculinidad (metal pesado, videojuegos violentos, armas) con cosas que usualmente no (&iquest;sab&iacute;as que hay hombres que no reciclan porque <a href="https://psmag.com/environment/how-gender-stereotypes-affect-pro-environment-behavior">asocian el ambientalismo con la feminidad</a>?). &ldquo;Abre los ojos y mira que no hay un planeta &lsquo;B&rsquo;&rdquo;.</p>
+<p><br /><br /></p>
+}

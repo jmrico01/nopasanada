@@ -1,0 +1,119 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>13-12-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201912/headers/13-lo-importante.jpg
+    poster{image} /images/201912/posters/13-lo-importante.jpg
+    header-desktop1{image} /images/201912/13-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201912/13-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201912/13-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201912/13-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201912/13-lo-importante/square1.jpg
+    header-mobile2{image} /images/201912/13-lo-importante/square2.jpg
+    header-mobile3{image} /images/201912/13-lo-importante/square3.jpg
+    header-mobile4{image} /images/201912/13-lo-importante/square4.jpg
+}
+tags noticias, home
+title Lo Importante: 13-12-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 13
+month 12
+year 2019
+color #FCC285
+customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-13-12-19-e9gqgt" width="100%" frameborder="0" scrolling="no"></iframe>
+title1 Johnson llama a "cerrar las heridas" del Brexit tras su aplastante victoria
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Boris Johnson llam&oacute; el viernes a "cerrar las heridas" del Brexit tras recibir carta blanca de los brit&aacute;nicos para hacer efectiva una salida de la Uni&oacute;n Europea que lleva paralizando la pol&iacute;tica y dividiendo al pa&iacute;s desde hace m&aacute;s de tres a&ntilde;os.</p>
+<p>"Insto a todos, a un lado y otro del debate, a permitir que comiencen a cerrarse las heridas", dijo en un mensaje a la naci&oacute;n tras haberse reunido con la reina Isabel II en el Palacio de Buckingham.</p>
+<p style="text-align: left;"><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"Llevaremos a cabo [el Brexit] a tiempo el 31 de enero, sin 'si', sin 'pero', sin 'tal vez'", hab&iacute;a dicho euf&oacute;rico, proclamando un "terremoto" pol&iacute;tico, despu&eacute;s de obtener la mayor victoria conservadora desde 1987 en las legislativas del jueves.</p>
+<p>En el poder desde julio pero con minor&iacute;a en el Parlamento, Johnson se hab&iacute;a arriesgado a convocar comicios anticipados en diciembre, un mes oscuro y fr&iacute;o, poco propicio a atraer a los brit&aacute;nicos a las urnas.</p>
+<p>Y la jugada le sali&oacute; redonda: sumando una tras otra circunscripciones tradicionalmente obreras, su Partido Conservador obtuvo 365 diputados, 47 m&aacute;s que en 2017, en una c&aacute;mara de 650 esca&ntilde;os.</p>
+<p>El presidente estadounidense Donald Trump fue uno de los primeros en felicitarlo por "su gran victoria". "El Reino Unido y Estados Unidos ser&aacute;n libres ahora para forjar un masivo acuerdo comercial tras el Brexit", tuite&oacute;.</p>
+<p>"Muy decepcionados", los opositores del Partido Laborista, encabezados por Jeremy Corbyn, perdieron 59 diputados para quedarse con 203.</p>
+<p>Corbyn anunci&oacute; que lanzar&aacute; "una reflexi&oacute;n" interna y no liderar&aacute; el partido en las pr&oacute;ximas elecciones.</p>
+<p>Los nacionalistas escoceses del SNP llegaron en tercera posici&oacute;n con 48 esca&ntilde;os (+13) de los 59 en juego en Escocia, lo que llev&oacute; a su l&iacute;der Nicola Sturgeon a redoblar los esfuerzos por conseguir que se autorice un nuevo refer&eacute;ndum sobre la independencia tras el que perdieron en 2014.</p>
+<p>En cuarta posici&oacute;n quedaron, con 11 diputados, los centristas del Partido Liberaldem&oacute;crata, cuya l&iacute;der Jo Swinson perdi&oacute; su esca&ntilde;o tras hacer campa&ntilde;a prometiendo revocar el Brexit.</p>
+<p><strong>Brexit el 31 de enero</strong></p>
+<p>"Esto significa que el Brexit se llevar&aacute; a cabo el 31 de enero", subray&oacute; Tony Travers, profesor de la London School of Economics. "Tambi&eacute;n significa el fin definitivo de la idea de que el Brexit pod&iacute;a evitarse", agregaba su colega Sara Hobolt.</p>
+<p>El fin de la incertidumbre impuls&oacute; la libra esterlina, que se disparaba 2% respecto al d&oacute;lar. Las principales bolsas europeas tambi&eacute;n acogieron con euforia la aplastante victoria conservadora.</p>
+<p>Decidido por refer&eacute;ndum con 52% de los votos en 2016, el Brexit deb&iacute;a tener lugar el pasado marzo. Pero el rechazo de un Parlamento fragmentado al acuerdo de divorcio negociado con Bruselas oblig&oacute; a aplazarlo tres veces.</p>
+<p>Desde hace m&aacute;s de tres a&ntilde;os, el tema paraliza la pol&iacute;tica brit&aacute;nica en un ambiente de caos y divide a la sociedad.</p>
+<p>Tras presentar su nuevo gobierno, Johnson podr&aacute; someter la pr&oacute;xima semana su acuerdo de Brexit al nuevo Parlamento, aunque previsiblemente no ser&aacute; aprobado hasta enero.</p>
+<p>Para entrar en vigor, el texto debe tambi&eacute;n ser ratificado por el Parlamento Europeo, en nombre de los otros 27 pa&iacute;ses miembros.</p>
+<p>Sus l&iacute;deres, reunidos en una cumbre en Bruselas, parec&iacute;an aliviados por la certidumbre que dar&aacute; este resultado, aunque tras el divorcio habr&aacute; a&uacute;n que negociar la futura relaci&oacute;n entre ambas partes y el plazo prometido por Johnson, diciembre de 2020, parece excesivamente ajustado.</p>
+<p>Es un objetivo "muy ambicioso" reconoci&oacute; la presidenta de la Comisi&oacute;n Europea, Ursula von der Leyen, quien se declar&oacute; "dispuesta a trabajar" desde el d&iacute;a siguiente al Brexit con miras a una relaci&oacute;n "lo m&aacute;s cercana posible".</p>
+<p><strong>Las elecciones "m&aacute;s importantes"</strong></p>
+<p>Para los laboristas, que hab&iacute;an prometido transformar el pa&iacute;s con un programa muy izquierdista de lucha contra la desigualdad, es la peor de cuatro derrotas consecutivas.</p>
+<p>Se debe a "la fatiga del Brexit", afirm&oacute; su n&uacute;mero dos, John McDonnell. "La gente quiere terminar con esto".</p>
+<p>Pero lo cierto es que la indefinici&oacute;n de Corbyn le pas&oacute; factura: si llegaba al poder promet&iacute;a enzarzarse en la negociaci&oacute;n de un nuevo acuerdo con Bruselas, que mantuviese estrechas relaciones entre ambas partes, y someterlo a otro refer&eacute;ndum junto con la posibilidad de permanecer dentro de la UE.</p>
+<p>Una estrategia que decepcion&oacute; en muchas circunscripciones del norte de Inglaterra, bastiones laboristas pero que en 2016 votaron por poner fin a m&aacute;s de 45 a&ntilde;os de pertenencia a la UE.</p>
+<p>"Es muy decepcionante que la gente haya preferido un mentiroso a las cuestiones sociales", dijo a la AFP un votante, Pete Wells, de 35 a&ntilde;os, en referencia a la reputaci&oacute;n de un primer ministro acusado de faltar a la verdad.</p>
+}
+title2 Gobierno argentino dicta garantías para aborto ante violación o peligro de vida
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El gobierno del presidente Alberto Fern&aacute;ndez puso en marcha el viernes medidas para garantizar en Argentina el aborto no punible, como fijar un plazo de 10 d&iacute;as para realizarlo, sin modificar la ley que proh&iacute;be la interrupci&oacute;n libre del embarazo.</p>
+<p>"Los antiderechos siempre usan cualquier tipo de argumentos y hasta la Justicia para que no se cumpla la ley. Esto es s&oacute;lo una gu&iacute;a o protocolo de procedimientos. Es salud p&uacute;blica, no tiene sentido convertirlo en un debate religioso o pol&iacute;tico", dijo el ministro de Salud, Gin&eacute;s Gonz&aacute;lez Garc&iacute;a a la radio La Red.</p>
+<p>Amnist&iacute;a Internacional (AI) celebr&oacute; en un comunicado la decisi&oacute;n: "El protocolo no crea nuevos derechos, pero ofrece claridad y certeza a la comunidad m&eacute;dica respecto del proceder frente a casos de peligro para la vida o la salud de la mujer, o cuando el embarazo fuese producto de una violaci&oacute;n, adem&aacute;s de evitar obst&aacute;culos innecesarios a las mujeres y ni&ntilde;as que buscan acceder a la pr&aacute;ctica del aborto en los servicios de salud".</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Los abortos son legales en Argentina s&oacute;lo cuando la vida de la mujer est&eacute; en peligro o cuando el embarazo fuese producto de una violaci&oacute;n.</p>
+<p>"Somos respetuosos [de los m&eacute;dicos] que plantean objeciones de conciencia, pero esto no puede ser una coartada para que las instituciones [sanitarias] no cumplan la ley", hab&iacute;a precisado el ministro en una rueda de prensa.</p>
+<p>Un plazo de 10 d&iacute;as se establece para la realizaci&oacute;n del aborto a contar desde que se solicita la Interrupci&oacute;n Legal del Embarazo (ILE).</p>
+<p>Un proyecto de ley que autorizaba el aborto legal, seguro y gratuito fue aprobado por la C&aacute;mara de Diputados en 2018 pero fracas&oacute; en el Senado.</p>
+<p>Desde entonces sectores antiabortistas recrudecieron las presiones y trabas para que tampoco se cumpla ley de aborto no punible que rige desde 1921 e incluso hay provincias que se niegan a cumplir la norma.</p>
+<p>Fern&aacute;ndez anunci&oacute; que promover&aacute; un nuevo debate sobre el aborto en el Congreso, donde el bloque oficialista es la primera minor&iacute;a en la C&aacute;mara Baja y el presidente tiene mayor&iacute;a en el Senado.</p>
+<p>El ministro admiti&oacute; que el protocolo ayuda a que "trabajadores de la salud est&eacute;n respaldados por la ley porque en las controversias [con los antiabortistas] se asustan o intimidan".</p>
+<p>"El protocolo dice qu&eacute; deben hacer los equipos de salud, las evaluaciones m&eacute;dicas, cu&aacute;l es la bibliograf&iacute;a a consultar y la medicaci&oacute;n que se utiliza", dijo Gonz&aacute;lez, quien es favorable a legalizar el aborto.</p>
+<p>Dijo que le protocolo cumple con recomendaciones de la Organizaci&oacute;n Mundial de la Salud.</p>
+<p>Una pol&eacute;mica se hab&iacute;a desatado en noviembre cuando el gobierno saliente del presidente Mauricio Macri vet&oacute; un protocolo similar al instrumentado este viernes, pese a que lo hab&iacute;a firmado el anterior ministro de Salud, Adolfo Rubinstein, quien tuvo que renunciar.</p>
+<p>Organizaciones no gubernamentales aseguran que en Argentina hay entre 370.000 y 520.000 abortos clandestinos al a&ntilde;o.</p>
+}
+title3 ONU denuncia "elevado número" de violaciones de DDHH de policía en protestas en Chile
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La oficina de la Alta comisionada de la ONU para los derechos humanos, Michelle Bachelet, denunci&oacute; este viernes un "elevado n&uacute;mero de violaciones de derechos humanos" por la represi&oacute;n policial a las protestas en Chile, al presentar un informe sobre la situaci&oacute;n en el pa&iacute;s sudamericano.</p>
+<p>"Estas violaciones incluyen el uso excesivo e innecesario de la fuerza que ocasion&oacute; muertes il&iacute;citas y heridas, tortura y malos tratos, violencia sexual y detenciones arbitrarias", dice el documento de 30 p&aacute;ginas que resume el trabajo del equipo que viaj&oacute; a Chile para investigar la situaci&oacute;n durante tres semanas de noviembre.</p>
+<p>Seg&uacute;n las pruebas recabadas, "existen razones fundadas para creer que, desde el 18 de octubre, se ha cometido un elevado n&uacute;mero de violaciones de derechos humanos".</p>
+<p>"La gesti&oacute;n de las manifestaciones por parte de Carabineros se ha llevado a cabo de manera fundamentalmente represiva. Carabineros ha incumplido, de forma reiterada, con el deber de distinguir entre personas que se manifestaban pac&iacute;ficamente y manifestantes violentos", concluye.</p>
+<p>Una de las cuestiones que m&aacute;s llam&oacute; la atenci&oacute;n de los expertos fue "el n&uacute;mero alarmantemente alto de personas con lesiones en los ojos o la cara", por el "uso desproporcionado y a veces innecesario" de escopetas antidisturbios.</p>
+<p>"En cuanto a responsabilidades individuales en la polic&iacute;a, no podemos sacar conclusiones", afirm&oacute; Imma Guerras-Delgado, jefa del equipo de misi&oacute;n en Chile, en una conferencia de prensa en Ginebra.</p>
+<p>Las protestas sociales que estallaron el 18 de octubre en Chile han provocado la crisis m&aacute;s profunda desde el retorno a la democracia en 1990, con un saldo hasta el momento m&aacute;s de una veintena de muertos y miles de heridos.</p>
+<p>"La mayor&iacute;a de las personas que ha ejercido su derecho a la asamblea durante este periodo lo ha hecho de manera pac&iacute;fica", aunque tambi&eacute;n "ha habido numerosos ataques contra fuerzas de seguridad y sus instalaciones", as&iacute; como "saqueos y destrucci&oacute;n de propiedad", asegura el informe.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Durante su misi&oacute;n, el equipo document&oacute; "113 casos espec&iacute;ficos de tortura y malos tratos, y 24 casos de violencia sexual contra mujeres, hombres y ni&ntilde;os y ni&ntilde;as adolescentes, perpetrados por miembros de carabineros y militares".</p>
+<p>La ONU precis&oacute; que el equipo se reuni&oacute; con "m&aacute;s de 300 miembros de la sociedad civil" y realiz&oacute; "235 entrevistas a v&iacute;ctimas de presuntas violaciones de derechos humanos", as&iacute; como tambi&eacute;n "60 entrevistas a oficiales de Carabineros de Chile".</p>
+<p>El informe no se limita a una denuncia contra las fuerzas de seguridad, sino que indica que las autoridades "ten&iacute;an informaci&oacute;n sobre el alcance de las lesiones desde el 22 de octubre".</p>
+<p>"La pronta acci&oacute;n de autoridades responsables podr&iacute;a haber evitado que otras personas sufrieran heridas graves", se&ntilde;ala en ese sentido.</p>
+<p>La oficina de Bachelet propone ahora crear un mecanismo de seguimiento para evaluar dentro de tres meses la implementaci&oacute;n de las recomendaciones realizadas en este informe.</p>
+<p>"Este mecanismo de seguimiento deber&iacute;a tener como prop&oacute;sito establecer medidas para prevenir que se repitan esos hechos tristes y preocupantes en los que Chile se ha visto sumergido en los &uacute;ltimos dos meses", indic&oacute; Bachelet, citada en un comunicado.</p>
+}
+title4 Hacker afirma que invadió teléfonos de Bolsonaro y sus hijos
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Walter Delgatti Neto, el brasile&ntilde;o que est&aacute; preso bajo sospecha de liderar un grupo de hackers, dijo a una revista local que antes de su detenci&oacute;n invadi&oacute; los celulares del presidente Jair Bolsonaro y de tres de sus hijos.</p>
+<p>"Acced&iacute; al Telegram de ellos", dijo Delgatti Neto en entrevista con la revista Veja en una sede judicial. Sin embargo, el joven aclar&oacute; que no encontr&oacute; nada en los dos celulares de Bolsonaro porque no usaba esta aplicaci&oacute;n de mensajer&iacute;a instant&aacute;nea.</p>
+<p>Agreg&oacute; haber colectado informaciones de dos tel&eacute;fonos del concejal Carlos Bolsonaro y del diputado Eduardo Bolsonaro.</p>
+<p>Delgatti Neto dijo ser un votante arrepentido del mandatario de ultraderecha. "Hice campa&ntilde;a para Bolsonaro y me arrepent&iacute; despu&eacute;s", coment&oacute; citado por Veja.</p>
+<p>Detenido en julio de este a&ntilde;o, Delgatti, de 30 a&ntilde;os, confes&oacute; en el pasado haber hackeado los celulares del exjuez y ahora ministro de Justicia, S&eacute;rgio Moro, as&iacute; como de otros integrantes de la operaci&oacute;n anticorrupci&oacute;n Lava Jato y varias autoridades.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Tambi&eacute;n dijo que, con la mediaci&oacute;n de la exdiputada del Partido Comunista Manuela D'&Aacute;vila, hizo llegar las conversaciones de Telegram de sus v&iacute;ctimas al periodista estadounidense Glenn Greenwald, uno de los fundadores del portal The Intercept Brasil.</p>
+<p>Este sitio de noticias ha publicado desde junio parte de las conversaciones entre los integrantes de la Lava Jato, conocida por haber llevado a la c&aacute;rcel a decenas de empresarios y pol&iacute;ticos, entre ellos el expresidente Luiz In&aacute;cio Lula da Silva a la c&aacute;rcel.</p>
+<p>Las filtraciones causaron impacto por mostrar afinidades pol&iacute;ticas del entonces juez Moro que sentenci&oacute; a Lula y el equipo de fiscales a cargo de las investigaciones. Moro niega la veracidad de los mensajes, pero declaraciones de otros involucrados tienden a confirmar el material.</p>
+<p>En la entrevista con Veja, Delgatti dijo que el grupo que lideraba tambi&eacute;n invadi&oacute; los tel&eacute;fonos del general Walter Braga Neto, actual jefe del Estado mayor del Ej&eacute;rcito, y de la expresidenta del Supremo Tribunal de Federal, Carmen L&uacute;cia.</p>
+<p>Seg&uacute;n Veja, Delgatti coment&oacute; con compa&ntilde;eros de prisi&oacute;n en Brasilia que lo difundido hasta ahora era una "peque&ntilde;a muestra". "Lo peor est&aacute; por venir", habr&iacute;a agregado.</p>
+}

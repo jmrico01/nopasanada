@@ -1,0 +1,90 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>27-11-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/27-lo-importante.jpg
+    poster{image} /images/201911/posters/27-lo-importante.jpg
+    header-desktop1{image} /images/201911/27-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201911/27-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201911/27-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201911/27-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201911/27-lo-importante/square1.jpg
+    header-mobile2{image} /images/201911/27-lo-importante/square2.jpg
+    header-mobile3{image} /images/201911/27-lo-importante/square3.jpg
+    header-mobile4{image} /images/201911/27-lo-importante/square4.jpg
+}
+tags noticias
+title Lo Importante: 27-11-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 27
+month 11
+year 2019
+color #FCC285
+customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-26-11-19-e975fb"" width="100%" frameborder="0" scrolling="no"></iframe>
+title1 El calentamiento global ya es real y lo peor está por llegar
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>&iquest;Que necesitas saber?</strong></p>
+<p>En menos de un a&ntilde;o cuatro informes del grupo de expertos de la ONU ilustraron un panorama demoledor para la Tierra, que fueron publicados en paralelo al auge de una movilizaci&oacute;n ciudadana mundial.</p>
+<p>Ambos factores aumentan la presi&oacute;n sobre los pa&iacute;ses firmantes del Acuerdo de Par&iacute;s, reunidos a partir del lunes en Madrid para la COP25.</p>
+<p><strong>&iquest;Porque nos importa?</strong></p>
+<p><strong>-R&eacute;cords de calor-</strong></p>
+<p>Los &uacute;ltimos cuatro a&ntilde;os fueron los m&aacute;s c&aacute;lidos jam&aacute;s registrados en el planeta, Julio del 2019 fue el mes m&aacute;s caliente de la historia.</p>
+<p>Y solo es el principio. Incluso si los Estados mantienen sus compromisos de reducci&oacute;n de emisiones, a finales de siglo se alcanzar&aacute; +3 oC. Es entendido que cada medio grado suplementario aumenta la intensidad y/o la frecuencia de cat&aacute;strofes meteorol&oacute;gicas.</p>
+<p>Incluido en esto, los cient&iacute;ficos que trabajan sobre nuevos modelos clim&aacute;ticos sugieren un calentamiento todav&iacute;a m&aacute;s acentuado de lo previsto, con el peor escenario a +7 oC en 2100, frente a +4,8 oC temidos actualmente.</p>
+<p><strong>-Se multiplican las cat&aacute;strofes-</strong></p>
+<p>Si bien es dif&iacute;cil atribuir una cat&aacute;strofe espec&iacute;fica a un desarreglo clim&aacute;tico, la multiplicaci&oacute;n de los fen&oacute;menos clim&aacute;ticos extremos se adecua a las previsiones de los cient&iacute;ficos.</p>
+<p>En un mundo a +1,5 oC, los episodios de precipitaciones fuertes ser&aacute;n m&aacute;s frecuentes, intensos y/o abundantes, seg&uacute;n el IPCC. As&iacute; medio grado adicional supondr&aacute; ya una diferencia "neta" en t&eacute;rminos de impacto. Y un techo de +2 oC, el objetivo m&iacute;nimo del Acuerdo de Par&iacute;s, provocar&aacute; ciclones, huracanes y tifones m&aacute;s potentes.</p>
+<p><strong>El hielo se funde, el agua sube</strong></p>
+<p>Seg&uacute;n el IPCC, el nivel del mar aument&oacute; 15 cm durante el siglo XX. El ritmo de esta elevaci&oacute;n se acelera, amenazando zonas poco elevadas en las que vivir&aacute;n en 2050 m&aacute;s de 1.000 millones de personas.</p>
+<p>Los dos casquetes glaciares, en Ant&aacute;rtida y Groenlandia, perdieron un promedio de 430.000 millones de toneladas anuales desde 2006.</p>
+<p>Incluso si el mundo logra reducir fuertemente las emisiones, el alza de los oc&eacute;anos podr&iacute;a alcanzar entre 30 y 60 cm en 2100. Y de 60 a 110 cm si las emisiones contin&uacute;an aumentando.</p>
+<p><strong>Un mill&oacute;n de especies amenazadas</strong></p>
+<p>Pr&aacute;cticas agr&iacute;colas, explotaci&oacute;n forestal, contaminaci&oacute;n&hellip; Seg&uacute;n los expertos de biodiversidad de la ONU (IPBES), se ha degradado el 75% del medioambiente terrestre y el 66% del medioambiente marino.</p>
+<p>Resultado: un mill&oacute;n de especies animales y vegetales est&aacute;n en peligro de extinci&oacute;n, muchas de ellas en los pr&oacute;ximos a&ntilde;os.</p>
+}
+title2 “Operación histórica” intercepta narco submarino con 100 millones de Euros en Cocaína
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Un narcosubmarino fue interceptado en Espa&ntilde;a con unas tres toneladas de coca&iacute;na, valoradas en 100 millones de euros (110 millones de d&oacute;lares), "una operaci&oacute;n hist&oacute;rica" afirm&oacute; el gobierno espa&ntilde;ol este mi&eacute;rcoles.</p>
+<p>El recurso a submarinos ya viene observ&aacute;ndose en Colombia, donde los narcos los utilizan para introducirla en el mercado estadounidense. Sin embargo, &eacute;sta es "la primera vez que se detecta en Europa", indic&oacute; la polic&iacute;a espa&ntilde;ola en un comunicado.</p>
+<p>Fueron detenidos dos tripulantes de nacionalidad ecuatoriana, que hab&iacute;an intentado darse a la fuga. Un tercero "ha huido y se encuentra actualmente en paradero desconocido", precis&oacute; la polic&iacute;a.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Es una t&eacute;cnica usada a nivel mundial. Los c&aacute;rteles de la droga empezaron a hacer uso frecuente de los submarinos en 2005, seg&uacute;n Robert J. Bunker, profesor del U.S. Army War College.</p>
+<p>En general los submarinos son construidos en las selvas de Colombia, Ecuador o Guyana por un precio que ronda el mill&oacute;n de d&oacute;lares. Los mejores candidatos para pilotarlos, a&ntilde;adi&oacute;, son "pescadores capaces de navegar en mar abierto y arreglar la maquinaria" en caso de aver&iacute;a.</p>
+<p>Bunker cree que los c&aacute;rteles han construido hasta ahora alrededor de un millar de narcosubmarinos.</p>
+}
+title3 Dos manifestantes muertos en Bagdad en violenta jornada de protestas
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Al menos dos manifestantes murieron este mi&eacute;rcoles por impacto de bala en Bagdad, un d&iacute;a despu&eacute;s de otra violenta jornada que se sald&oacute; con al menos un muerto y varios heridos.</p>
+<p>Seg&uacute;n un corresponsal de la AFP en el lugar, se produjeron intensos disparos desde muros de cemento instalados en varias calles, tras los que se encuentran las fuerzas de seguridad.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Irak, uno de los pa&iacute;ses m&aacute;s ricos en petr&oacute;leo del mundo, est&aacute; sumido en la peor crisis social de su historia reciente. Los manifestantes reclaman la reforma del sistema pol&iacute;tico y la renovaci&oacute;n total de su clase dirigente, que consideran corrupta e incompetente.</p>
+<p>Este movimiento, el primero espont&aacute;neo en d&eacute;cadas, se caracteriz&oacute; por la violencia, que dej&oacute; m&aacute;s de 350 muertos desde el 1 de octubre.</p>
+}
+title4 Noche de saqueos e incendios suman a crisis Chilena.
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Saqueos a un hotel y a varios supermercados as&iacute; como incendios en distintos puntos de Chile se produjeron en la madrugada de este mi&eacute;rcoles.</p>
+<p>Uno de los episodios m&aacute;s violentos se registr&oacute; en la ciudad de La Serena, con el saqueo e incendio de un tradicional hotel del centro de la ciudad, el Costa Real.</p>
+<p>En la regi&oacute;n de Valpara&iacute;so, se replic&oacute; la furia con actos vand&aacute;licos que incluyeron la quema de las oficinas del diario local El L&iacute;der.</p>
+<p>En Concepci&oacute;n, una masiva manifestaci&oacute;n -congregada en medio de la huelga de dos d&iacute;as llamada por el principal sindicato de Chile (CUT)- termin&oacute; con incidentes violentos entre encapuchados y la Polic&iacute;a.</p>
+<p>En Santiago, la estaci&oacute;n de Metro &ldquo;Rep&uacute;blica" volvi&oacute; a sufrir da&ntilde;os que obligaron a las autoridades a suspender su funcionamiento.</p>
+<p>En varios puntos del pa&iacute;s, las cacerolas volvieron a sonar con fuerza en la noche del martes tras conocerse que el universitario Gustavo Gatica qued&oacute; totalmente ciego por perdigones lanzados por agentes antidisturbios semanas atr&aacute;s.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Chile esta viviendo un momento de protestas y violencia ins&oacute;lito. &ldquo;Se est&aacute; llegando a niveles de violencia que no se hab&iacute;an visto en Chile desde el retorno a la democracia", en 1990, afirm&oacute; el ministro de Defensa, Alberto Espina.</p>
+<p>Peso chileno cae a m&iacute;nimo hist&oacute;rico de 812 por d&oacute;lar debido a la crisis</p>
+}

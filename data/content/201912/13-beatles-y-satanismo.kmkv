@@ -1,0 +1,37 @@
+type article
+featured{kmkv} {
+    pretitle OPINIÓN:
+    title FRASES <b>INSÓLITAS<b>
+    text1 {
+SEGÚN LA ULTRADERECHA BRASILEÑA: “EL ROCK ALIMENTA EL SATANISMO” Y “DICAPRIO AYUDÓ A INCENDIAR EL AMAZONAS.”
+}
+    text2 {
+POR LUCÍA MERCEDES NAVARRA Y LUISA MORA FERNÁNDEZ
+}
+    highlightColor #f4b6a5
+}
+media{kmkv} {
+    header{image} /images/201912/headers/13-beatles-y-satanismo.jpg
+    poster{image} /images/201912/posters/13-beatles-y-satanismo.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
+}
+tags opinion, home
+title Según la ultraderecha brasileña, el rock “alimenta el satanismo” y DiCaprio “ayudó a incendiar el Amazonas”
+description {
+#opinión Según la ultraderecha brasileña: el rock “alimenta el satanismo” y DiCaprio “ayudó a incendiar el Amazonas.” 
+
+Soltamos una carcajada cuando escuchamos estas cosas insólitas salir de las bocas de figuras políticas... pero, más bien, deberíamos preocuparnos.
+}
+day 13
+month 12
+year 2019
+color #f4b6a5
+author Lucía Mercedes Navarra y Luisa Mora Fernández
+subtitle Tal vez, soltamos una carcajada cuando escuchamos estas cosas insólitas salir de las bocas de figuras políticas... pero, más bien, deberíamos preocuparnos.
+text {
+<p><p><strong>¿Qué relación existe entre los Beatles y Theodor Adorno?</strong> Puede que nuestro amigo trosko disfrute mucho de ambos. Pero hay alguien parado en el otro extremo político que también los pone juntos. </p></p><p><p>Dante Mantovani, presidente de la <a href="http://www.funarte.gov.br/a-funarte/">Funarte</a> (Fundación Nacional de las Artes), profesor, graduado en música y especialista en filosofía política y jurídica, sostiene en su video “Qual a relação entre os Beatles e Adorno?” (<a href="https://www.youtube.com/watch?v=wozkvbecbSI&t=91s">¿Cuál es la relación entre los Beatles y Adorno?</a>) que - en sus propias palabras - : <em>"el rock activa la droga que activa el sexo que activa la industria del aborto. La industria del aborto, a su vez, alimenta una cosa mucho más pesada que es el satanismo.”</em></p></p><p><p>Después de pasar los últimos cuatro años escuchando a Donald Trump decir frase tras frase sin sentido, puede que ya nada nos sorprenda. Los periodistas estadounidenses cuentan que el verdadero nivel de incoherencia que maneja Trump al hablar ni siquiera se ve fielmente reflejado en las citas que aparecen después en los periódicos: aparentemente, los medios hacen lo posible por editar lo que dice el presidente de manera que se logre al menos entender <em>algo.</em> </p></p><p><p>Con figuras políticas de ultraderecha y mercaderes-de-la-fe-convertidos-en-políticos ascendiendo al poder por todo el mundo, tampoco nos sorprende escuchar implausibles teorías conspiratorias convertirse en foco de debate político: las que niegan el cambio climático, califican de “agenda gay” o “ideología de género” los avances de derechos humanos para las minorías, o hablan del supuesto “marxismo cultural.” </p></p><p><p>Tal vez, soltamos incluso una carcajada cuando escuchamos estas cosas insólitas - por ejemplo, cuando la aspirante a primera dama de Costa Rica habla en lenguas en un facebook live en media campaña electoral, o el presidente de Brasil <a href="https://edition.cnn.com/2019/11/30/world/leonardo-dicaprio-bolsonaro-amazon-fires-trnd/index.html">acusa al actor de Hollywood Leonardo DiCaprio de prenderle fuego al amazonas</a>.</p></p><p><p><strong>Brasil: fuente inagotable de frases infames.</strong></p></p><p><p><em>“Hay indicios de que la distribución a gran escala del LSD fue hecha por la Agencia Central de Inteligencia (CIA)", porque "había infiltrados del servicio soviético allí,”</em> afirmó también Mantovani; en esta guerra invisible, no está solo - en noviembre, el gobierno del presidente Jair Bolsonaro colocó al frente de la Secretaría de Cultura al director de teatro Roberto Alvim, <a href="https://www.chicagotribune.com/hoy/entretenimiento/ct-hoy-rock-lleva-al-aborto-y-al-satanismo-20191203-elv73jfkfzgo3d2x6jprkwaeya-story.html">quien prometió lanzar una "cruzada" contra el "marxismo cultural</a>.” </p></p><p><p>Y no olvidemos a la Ministra de la Mujer del gobierno Brasileño, la pastora evangélica Damares Alves, quien, en vez de condenar a los que violentan la integridad sexual de la niñez, <a href="https://www.infobae.com/america/america-latina/2019/07/26/la-ministra-de-la-mujer-de-brasil-afirmo-que-las-ninas-pobres-son-violadas-porque-no-llevan-calzones/">se dejó decir lo siguiente respecto a las niñas en la región Amazonia</a>, mientras presentaba en Brasil - irónicamente - una iniciativa en contra de la violencia sexual: <em>"especialistas nos dijeron que las niñas de allá son violadas porque no tienen calzones, la niñas no usan calzones porque son pobres.”</em></p></p><p><p>Si se transportaron de pronto a una escena de la edad media, no están solos. </p></p><p><p>Más allá de que no parezca plausible que alguien, con total seriedad, le diga “satánica” a una de las expresiones populares más replicadas y amadas en todo el mundo (el <em>rock-and-roll</em>), lo realmente preocupante es el hecho de que lo haga el director de una fundación en apoyo a las artes, las cuales dependen de la libre expresión para ayudar a construir sociedades más justas y democracias saludables. ¿No es paradójico que tomen cargos públicos personas tan sesgadas en contra de la misma población que deberían representar?</p></p>
+}

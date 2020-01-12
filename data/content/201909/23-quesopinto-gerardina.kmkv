@@ -1,0 +1,27 @@
+type article
+featured{kmkv} {
+    pretitle CRÓNICA:
+    title <b>QUESOPINTO. *</b>
+    text1 {
+EL INÉDITO PLATILLO DE DOÑA GERARDINA.
+}
+    text2 {
+CRÓNICAS GASTRONÓMICAS<BR>POR ALBERTO GATGENS
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201909/headers/23-quesopinto.jpg
+}
+tags cultura
+title El inédito quesopinto de Doña Gerardina.
+description En la feria del agricultor de Zapote, más de una docena de quiosquitos rescatan y proponen su visión de la cocina criolla. Pero hay uno en especial que apuesta por su propia creación: la sodita Las Delicias del Maíz, de doña Gerardina.
+day 23
+month 09
+year 2019
+color #ffb3a1
+author Alberto Gatgens<br>republicaindependiente@gmail.com
+subtitle En la feria del agricultor de Zapote, más de una docena de quiosquitos rescatan y proponen su visión de la cocina criolla. Pero hay uno en especial que apuesta por su propia creación: la sodita Las Delicias del Maíz, de doña Gerardina.
+text {
+<p><p>La feria arranca con las primeras luces del día, pero para los vendedores comenzó el día anterior: cuando llegaron a instalar los toldos o los chinamos. Desde las primeras luces, el desayuno está listo: gallo pinto, tortillas de queso, chorreadas, empanadas, pupusas, jugo de caña, jugo de naranja, resbaladera, fresco de mozote, pejibaye recién cocinado, choripán, costilla de cerdo, torta de huevo y granizados de pulpa de fruta.</p></p><p><p>Podría parecer que la oferta es la normal de cualquier soda o feria; sin embargo, hay varias sorpresas. La primera es el quesopinto de Las Delicias del Maíz. Es una soda familiar comandada por doña Gerardina Rodríguez Soto, una pequeña y dulce mujer de pelo corto, quien con su voz y su presencia cargada de energía en media calle anuncia el menú: “¿Qué le damos, qué le vendemos? ¿Quiere enyucados, quiere pupusas, quiere quesopinto, quiere empanadas, quiere tortillas con queso?”. </p></p><p><p>El menú sigue. Y mientras anuncia los platos, saluda y abraza a docenas de personas que la conocen. El quesopinto es lo primero que llama la atención. Luego nos sorprendería. El quesopinto es justamente eso: una mezcla de quesos Turrialba, tierno, semi y maduro, que sacan de un estañoncito plástico verde y dejan caer sobre la plancha muy caliente.</p></p><p><p>El queso se empieza a derretir con burbujitas que explotan y dejan en el aire un olor ácido y dulce. Luego, el pinto, fresco, con frijoles negros, cebolla y culantro coyote, se posa sobre el queso. Si el cliente lo desea, puede coronar su quesopinto con chicharrón de carne en pedacitos o carne en salsa.</p></p><p><p>En la plancha, el queso se caramelizará, los bordes delgados se tostarán, quedarán dorados como el cobre y entonces, con maestría, la cocinera Rita Burgos doblará en partes iguales el quesopinto y se convertirá en una especie de calzone de queso, pinto y chicharrón. O una empanada gigante de queso rellena de lo que usted quiera.</p></p><p><p>Por dentro, al abrir el pintoqueso, los hilos del queso derretido brillan y anuncian lo que vendrá en el primer bocado: un sabor ligeramente ácido y prolongado que se queda en la lengua y el resto de la boca por largos segundos (medidos con el reloj de la felicidad) gracias al queso Turrialba maduro, rico en umami, lo que potencia los otros sabores y humedece la boca. Doña Gerardina sabe lo que vende.</p></p><p><p>Doña Gerardina tiene 28 años de ir cada domingo a la Feria de Zapote. Ella es de Coronado, da empleo a unas nueve personas y a lo lo largo de las décadas ha ido ampliando la oferta: hace unos cinco años decidió ofrecer el quesopinto, receta de su madre, ante el pedido de los comensales que los vieron a ellos comiendo el platillo;ahora es uno de los platos que más piden los clientes, pues no deja de ser una novedad por la cual vale la pena la excusa de ir a la feria temprano un domingo.</p></p><p><p><strong><em>Alberto Gatgens, el gastronomista (<a href="http://www.elgastronomista.com">www.elgastronomista.com</a>).</strong> ¿Vivís para comer o comés para vivir? Si tu respuesta es la primera parte de la pregunta, mi propuesta es tu propuesta. Hace año y pico inicié un viaje en el que decidí unir los caminos de mis experiencias e intereses previos para servir reseñas honestas de la comida que me gusta. Estudié periodismo y literatura, entre otras cosas, pero cuando me formé en cocina profesional todo el andamiaje se entrelazó y ahora disfruto tanto comer como escribir sobre comida. Visito restaurantes por mi cuenta, a veces recibo invitaciones de dueños de establecimientos que me invitan, pero les advierto que si no me gusta su comida no los reseño, y a veces cocino y comparto mis recetas. No busco ser crítico de comida. Busco compartir buenas experiencias y explicar por qué son buenas.</em></p></p>
+}

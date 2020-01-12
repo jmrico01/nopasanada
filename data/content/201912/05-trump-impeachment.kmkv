@@ -1,0 +1,27 @@
+type article
+featured{kmkv} {
+    pretitle ULTIMA HORA:
+    title TRUMP <b>IMPEACHMENT<b>
+    text1 {
+ES OFICIAL: PELOSI PIDE ARTÍCULOS DE JUICIO POLÍTICO CONTRA TRUMP.
+}
+    text2 {
+POR AFP Y NO PASA NADA NOTICIAS
+}
+    highlightColor #f4b6a5
+}
+media{kmkv} {
+    header{image} /images/201912/headers/05-trump-impeachment.jpg
+    poster{image} /images/201912/posters/05-trump-impeachment.jpg
+}
+tags noticias, home
+title Es oficial: Pelosi pide artículos de juicio político contra Trump.
+description Es oficial: Pelosi pide artículos de juicio político contra Trump.
+day 05
+month 12
+year 2019
+color #f4b6a5
+author AFP y No Pasa Nada Noticias
+text {
+<p><p>Es oficial: Pelosi pide artículos de juicio político contra Trump. </p></p><p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>La presidenta de la Cámara de Representantes de Estados Unidos, Nancy&nbsp;Pelosi, pidió el jueves formalmente la redacción de cargos para someter a juicio político al mandatario Donald Trump.</p></p><p><p>Pelosi dijo en una declaración televisada que las acciones del presidente republicano no dejan "otra opción" que proceder a juzgarlo.</p></p><p><p>"Tristemente, pero con confianza y humildad, con lealtad a nuestros fundadores y el corazón lleno de amor por Estados Unidos, hoy le pido al presidente (del Comité Judicial de la Cámara de Representantes, Jerry Nadler) que proceda con la redacción de los artículos de juicio político", dijo&nbsp;Pelosi.</p></p><p><p>Pelosi&nbsp;no anunció los cargos, pero Trump podría ser acusado de abuso de poder y soborno, obstrucción del Congreso y obstrucción de la justicia.</p></p><p><p>"Los hechos son indiscutibles. El presidente abusó de su poder para su propio beneficio político a expensas de nuestra seguridad nacional", dijo Pelosi.</p></p><p><p><strong>¿Por qué nos importa?</strong></p></p><p><p>El proceso para la eventual destitución de Trump fue iniciado por los demócratas a finales de septiembre, después de conocerse que el mandatario pidió a Ucrania que investigara a Joe Biden, su rival potencial en las elecciones en 2020.</p></p><p><p>Si la acusación fuera aprobada por el pleno de la Cámara de Representantes, como se espera que ocurra tal vez antes de Navidad, Trump se convertirá en el tercer presidente en la historia de Estados Unidos en ser llevado a juicio político, después de Andrew Johnson en 1868 y de Bill Clinton en 1998, ambos absueltos.</p></p>
+}

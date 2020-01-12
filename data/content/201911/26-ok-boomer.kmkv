@@ -1,0 +1,51 @@
+type article
+featured{kmkv} {
+    pretitle OPINIÓN:
+    title OK<br><b>BOOMER</b>
+    text1 {
+EL MANIFIESTO DETRÁS DEL MEME.
+}
+    text2 {
+EDITORIAL NO PASA NADA.
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/26-ok-boomer.jpg
+    poster{image} /images/201911/posters/26-ok-boomer.jpg
+    ceviche1{image} /images/201911/13-ceviches/ceviche1.jpg
+    ceviche2{image} /images/201911/13-ceviches/ceviche2.jpg
+    boomer1{image} /images/201911/26-ok-boomer/boomer1.jpg
+    boomer2{image} /images/201911/26-ok-boomer/boomer2.jpg
+    boomer3{image} /images/201911/26-ok-boomer/boomer3.jpg
+    boomer4{image} /images/201911/26-ok-boomer/boomer4.jpg
+}
+tags opinion
+title OK BOOMER: el manifiesto detrás del meme.
+description Lo que está detrás del meme que une a la GenZ y los Millennials: “así que, boomers... hablemos - pero no solo eso: escuchémonos. Hasta que eso no pase, seguiremos saliendo de la conversación con la cabeza en alto, al mejor estilo descarado del OK, BOOMER.”
+day 26
+month 11
+year 2019
+color #ffb3a1
+author NO PASA NADA
+subtitle OK BOOMER es un meme que trasciende fronteras, porque convierte la desesperanza de las nuevas generaciones en comedia.
+text {
+<p>Los memes son como ensayos sociales colectivos: una buena broma posteada en alguna esquina oscura del internet puede convertirse de pronto en un manifiesto, que crece y crece colaborativamente. Algunos, son m&aacute;s nicho; rebuscados, locales, cr&iacute;pticos - pero parece que cuando un meme es bueno, y deja espacio para la imaginaci&oacute;n, es posible aplicarlo a cualquier contexto.</p>
+<p>Otros, se viralizan y se vuelven tendencias porque, de alguna forma, nos conciernen a todos, sin importar d&oacute;nde estemos. A la hora de consumirlos, nos retan a ver m&aacute;s all&aacute; de la broma, y entender el mensaje y las circunstancias debajo de la superficie. Este es el caso del meme del momento: el &ldquo;OK, BOOMER.&rdquo;</p>
+<p>$image/boomer1$</p>
+<p><strong>&iquest;Qu&eacute; es &ldquo;OK, BOOMER&rdquo;?</strong></p>
+<p>Para los que crecimos con el internet - los millenials y GenZ - el &ldquo;mundo virtual&rdquo; es un espacio seguro, crucial para nuestra supervivencia emocional e intelectual; el lugar en el que podemos expresar nuestro deseos y nuestras inquietudes sobre los temas que encontramos dif&iacute;ciles de conversar, pero que afectan nuestro bienestar e integridad.</p>
+<p>Seguro por eso, este meme en espec&iacute;fico se ha viralizado tan r&aacute;pido y con tanta fuerza: es que en serio, desde lo m&aacute;s profundo de nuestras emociones, conectamos org&aacute;nicamente con &eacute;l. &iquest;A qui&eacute;n no le ha pasado que, al tratar de hablar con alg&uacute;n &ldquo;mayor&rdquo; sobre algo que le importa, termina m&aacute;s bien escuchando comentarios racistas, mis&oacute;ginos o s&uacute;per conservadores sobre lo bien que se viv&iacute;a &ldquo;antes, cuando no &eacute;ramos tan sensibles&rdquo; y &ldquo;todo era como deb&iacute;a ser&rdquo;?</p>
+<p>&ldquo;OK, BOOMER&rdquo; representa esa conversaci&oacute;n inc&oacute;moda que no logramos tener con &ldquo;los mayores&rdquo;, o que al tenerla, no logramos llevar a ninguna parte. Y - no podemos creer que tengamos que hacer esta aclaraci&oacute;n, pero es necesaria porque algunos <a href="https://www.nytimes.com/2019/10/29/style/ok-boomer.html">se han tomado el asunto muy literal</a> - el elemento &ldquo;boomer&rdquo; del meme no se refiere necesariamente a cada uno de los individuos de esa generaci&oacute;n, <a href="https://www.theoccidentalnews.com/opinions/2019/11/19/ok-boomer-attacks-a-mindset-not-a-generation/2899726">sino a una manera de pensar</a> que de cierta forma - por circunstancias sociales, pol&iacute;ticas, y econ&oacute;micas <a href="https://www.vox.com/2019/11/19/20963757/what-is-ok-boomer-meme-about-meaning-gen-z-millennials">que no deber&iacute;an pasarse por alto o calificarse de &ldquo;ocurrencias&rdquo;</a> - asociamos con ese colectivo: en algunos casos, pensamientos retr&oacute;grados o sexistas; en otros, la negaci&oacute;n de la ciencia; el llamado &ldquo;<em>ageism</em>&rdquo; (o adultocentrismo) en ambientes laborales; las clases pol&iacute;ticas que no gobiernan para los j&oacute;venes, y los escritores de <a href="https://www.ranker.com/list/no-more-millennials/mariel-loveland">esos art&iacute;culos sobre c&oacute;mo los millennials somos perezosos, no sabemos ahorrar, o estamos matando las industrias.</a></p>
+<p>$image/boomer2$</p>
+<p>Es cierto: ninguna de estas problem&aacute;ticas son perpetradas exclusivamente por los <em>boomers,</em> ni todos los <em>boomers</em> las perpetran&hellip; y creo que eso la mayor&iacute;a lo sabemos. Pero lo que los <em>boomers</em> ofendidos por el meme parecen no entender, es que, en vez de pelearse con nosotros al respecto, deber&iacute;a inclinarse por <em>comprendernos.</em></p>
+<p>Repasemos lo que es un meme: para que se viralice, y por la falta de espacio de su formato (es decir, el hecho de que se trata de una imagen, y que para ser exitoso, deber&iacute;a usar el menor texto posible), tiene que ser un resumen llevado al extremo, una caricatura que transmite un mensaje muy serio a trav&eacute;s de la s&iacute;ntesis c&oacute;mica. Esa es la lectura que se le debe dar, ese es el esp&iacute;ritu de cualquier <em>meme.</em></p>
+<p><strong>Entonces&hellip; &iquest;qu&eacute; es lo que queremos decir los millenials y GenZ con &ldquo;OK, BOOMER&rdquo;?</strong></p>
+<p>Que nosotros tambi&eacute;n vivimos en este planeta, y que la estamos pasando mal: tenemos serias angustias acerca del clima, la pol&iacute;tica, los derechos humanos, la misoginia, la violencia y la econom&iacute;a que nos cuesta expresar en las cenas familiares, ya sea porque nos interrumpen, hablan encima de nosotros, o porque sabemos que seremos juzgados a <em>priori.</em></p>
+<p>Tenemos miedo porque probablemente nunca tengamos casa propia; frustraci&oacute;n porque el mercado laboral nos ofrece - a la mayor&iacute;a - un trabajo mal pagado y explotador en un call center; sufrimos de un serio sentimiento de <em>impending doom</em> porque el mundo natural est&aacute; por acabarse; nos deprimimos, nos sentimos solos, batallamos con nuestra salud mental; nuestras metas no se resumen en casarnos, tener un carro y una propiedad, sino que nos importa explorar nuestros talentos y sentirnos plenos; no queremos regirnos por doctrinas religiosas que menosprecian nuestras identidades, etc&hellip;</p>
+<p>$image/boomer3$</p>
+<p>No nos gusta - obviamente - que estas ansiedades que tanto nos afectan el cuerpo y la mente sean calificadas como &ldquo;chiquilladas&rdquo;; buscamos empat&iacute;a. Queremos poder decirle estas cosas a las generaciones que nos anteceden; queremos poder tener esta conversaci&oacute;n&hellip; y que nos escuchen. El &ldquo;OK, BOOMER&rdquo; es lo contrario a cerrarle la puerta en la cara a los <em>boomers</em> o cualquiera con ese pensamiento - m&aacute;s bien, es un llamado de atenci&oacute;n por parte de las nuevas generaciones.</p>
+<p>Siguiendo la tradici&oacute;n de la buena comedia, hemos convertido la desesperanza que sentimos en una s&iacute;ntesis ir&oacute;nica.</p>
+<p>As&iacute; que, <em>boomers</em>: hablemos&hellip; pero no solo eso: escuch&eacute;monos. Y <em>sorry</em>, hasta que eso no pase, seguiremos saliendo de la conversaci&oacute;n con la cabeza en alto, al mejor estilo descarado del &ldquo;OK, BOOMER.&rdquo;</p>
+<p>$image/boomer4$</p>
+}

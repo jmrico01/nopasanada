@@ -1,0 +1,53 @@
+type article
+featured{kmkv} {
+    pretitle LADO B:
+    title FAKE NEWS
+    text1 {
+CONVERSAMOS CON UN FACT-CHECKER ACERCA DE LAS NOTICIAS FALSAS, CÓMO EVITAR CAER EN SUS TRAMPAS, Y QUÉ TIENEN QUE VER LAS REDES SOCIALES CON EL PROBLEMA
+}
+    text2 {
+PODCAST LADO B, EPISODIO “POST-VERDAD Y FACT-CHECKING”
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/19-lado-b.jpg
+    poster{image} /images/201911/posters/19-lado-b.jpg
+}
+tags cultura
+title Fact-checking: aprendiendo a lidiar con los “fake news”.
+description ¿Qué impacto tienen las noticias falsas en la estabilidad social? ¿Qué rol juegan las redes sociales en su diseminación? Un fact-checker nos habla sobre los alt-facts y la importancia de pausar antes de compartir.
+day 19
+month 11
+year 2019
+color #ffb3a1
+author Luisa Mora Fernández
+subtitle Podcast Lado B: conversamos con un fact-checker acerca de las noticias falsas, cómo evitar caer en sus trampas, y qué tienen que ver las redes sociales con el problema.
+text {
+<p><iframe src="https://anchor.fm/lado-b5/embed/episodes/Lado-B-Post-verdad-y-fact-checking-e92gi7" width="100%" frameborder="0" scrolling="no"></iframe></p>
+<div class="articleCaption">&ldquo;Post-verdad y Fact-Checking&rdquo; Escuch&aacute; el primer episodio de &ldquo;Lado B&rdquo;, un podcast para complementar los art&iacute;culos editoriales.</div>
+<p>Somos bombardeados con decenas de noticias falsas todos los d&iacute;as. El <em>click-bait</em> m&aacute;s &ldquo;inofensivo&rdquo; (aunque habr&iacute;a que ver qu&eacute; tanto), el presidente que se deja decir mentiras en media rueda de prensa, los medios que no corroboran sus fuentes (o que tergiversan la informaci&oacute;n a prop&oacute;sito), y los familiares y amigos que tratan de convencernos de las cosas m&aacute;s inveros&iacute;miles pas&aacute;ndonos ese link de dudosa procedencia.</p>
+<p>Los <em>fake-news</em> son parte de nuestra vida contempor&aacute;nea, y por una serie de factores, a veces estamos indefensos ante ellas: los algoritmos de p&aacute;ginas como youtube y facebook est&aacute;n dise&ntilde;ados para vendernos mensajes directo al coraz&oacute;n y al h&iacute;gado, y la mayor&iacute;a estamos acostumbrados a consumir estos mensajes en piloto autom&aacute;tico. &iquest;Esto suena como algo que me gustar&iacute;a creer? Click, like, share, siguiente video, por favor&hellip; Las consecuencias de este &ldquo;vivir el momento&rdquo; , o este <em>scrolling infinito</em> en redes, nos est&aacute;n llevando a <a href="https://journalistsresource.org/studies/society/internet/fake-news-conspiracy-theories-journalism-research/">una crisis de la desinformaci&oacute;n</a>: una que posiblemente est&eacute; desestabilizando democracias y sociedades enteras.</p>
+<p>Conversamos con Daniel Salazar Murillo, periodista de <a href="https://doblecheck.cr/">Doble Check</a> - el servicio de fact-checking del peri&oacute;dico costarricense Semanario Universidad - acerca de los factores involucrados en la problem&aacute;tica de las &ldquo;realidades alternativas&rdquo; o (<em>alt-facts</em> en ingl&eacute;s), y la importancia de pausar, analizar e investigar antes de compartir.</p>
+<p><strong>Glosario del fact-checking: aprendiendo a lidiar con las noticias falsas; una lectura para acompa&ntilde;ar la escucha del podcast.</strong></p>
+<p><strong>Fake News</strong></p>
+<p>Noticias falsas publicadas en medios y viralizadas en redes - muchas veces por equipos de trabajo contratados para ese fin - para impulsar la desinformaci&oacute;n y la creencia en datos incorrectos.</p>
+<p><strong>Trolls/Cuentas Falsas</strong></p>
+<p>Perfiles falsos en redes sociales creados con el fin de diseminar noticias falsas y manipular la opini&oacute;n p&uacute;blica a trav&eacute;s de comentarios incendiarios, ya sea para beneficio o en contra de gobiernos u organizaciones partidarias, o refiri&eacute;ndose a temas espec&iacute;ficos y controversiales que polarizan a la poblaci&oacute;n.</p>
+<p><strong>Alt-facts</strong></p>
+<p>Abreviaci&oacute;n de <em>Alternative Facts</em> o &ldquo;Realidades Alternativas&rdquo;; un t&eacute;rmino originalmente utilizado por Kellyanne Conway - asesora presidencial de Donald Trump - <a href="https://www.independent.co.uk/news/world/americas/kellyanne-conway-sean-spicer-alternative-facts-lies-press-briefing-donald-trump-administration-a7540441.html">durante una rueda de prensa en enero del a&ntilde;o 2017</a>, para calificar las falsedades del secretario de prensa Sean Spicer acerca de la cantidad de gente que se hizo presente en la inauguraci&oacute;n presidencial de Trump. Ella defendi&oacute; esta falsa data ante los periodistas inquisitivos, insistiendo que la misma no era mentira, sino m&aacute;s bien parte de una &ldquo;realidad alternativa&rdquo;. El t&eacute;rmino entr&oacute; en el <em>mainstream</em> period&iacute;stico desde entonces, para describir cualquier lectura err&oacute;nea de la realidad que trata de hacerse pasar por una verdad cient&iacute;fica, pero socavando la importancia de la data y las lecturas correctas de la misma.</p>
+<p><strong>Sesgo de confirmaci&oacute;n</strong></p>
+<p>La parcializaci&oacute;n - o el <em>bias</em> - hacia lo que ya creemos, y aquellas noticias o lecturas que confirman nuestra visi&oacute;n de mundo. Cuando recibimos un link que confirma lo que ya creemos, tendemos a creer en su contenido inmediatamente, y en muchos casos, compartirlo. Daniel nos confirm&oacute; que, utilizando la vasta data e informaci&oacute;n que tienen sobre sus usuarios, los algoritmos de redes sociales como youtube y facebook potencian este sesgo de confirmaci&oacute;n, haciendo dif&iacute;cil acceder a informaci&oacute;n que pone en duda lo que saben que creemos.</p>
+<p><strong>C&aacute;mara de Eco</strong></p>
+<p>Nos pasa a todos; nuestros amigos y seguidores en redes tienen la misma visi&oacute;n de mundo que nosotros y creen en las mismas cosas. Al compartir y amplificar mensajes dentro de nuestro propio c&iacute;rculo, potenciamos una da&ntilde;ina c&aacute;mara de eco que no nos permite acceso a informaciones que no son de nuestro inmediato agrado, pero que podr&iacute;an ayudarnos a considerar &ldquo;el otro lado&rdquo; de la historia.</p>
+<p><strong>Fact-checking</strong></p>
+<p>El ejercicio de analizar las informaciones compartidas por figuras p&uacute;blicas, celebridades, pol&iacute;ticos y medios de comunicaci&oacute;n para definir si lo dicho tiene sustento en la realidad, o si se trata de una falsedad (ya sea porque se tergivers&oacute; o exager&oacute; informaci&oacute;n verdadera, se cometi&oacute; un error, o directamente se invent&oacute; el contenido), con el prop&oacute;sito de permitir la rectificaci&oacute;n.</p>
+<p><strong>Periodismo Amarillo</strong></p>
+<p>Periodismo sensacionalista que exagera o fabrica realidades, muchas veces por medio de titulares incendiarios y controversiales, con el prop&oacute;sito de vender ejemplares o manipular la opini&oacute;n p&uacute;blica. Tal como lo explica Daniel, <a href="https://time.com/4858683/fact-checking-history/">el fact-checking tuvo sus inicios como respuesta a este tipo de periodismo</a>, mucho antes del internet y las redes sociales.</p>
+<p><strong>Contrato Social</strong></p>
+<p>El voto de confianza entre las partes activas de la sociedad, que permite el intercambio de bienes, la estabilidad econ&oacute;mica y social, y el buen funcionamiento del estado. Seg&uacute;n Daniel: &ldquo;la verdad tienen el mismo valor que la confianza,&rdquo;; las mentiras socavan esta confianza - ha habido una serie de fracasos de confianza porque los mismos pol&iacute;ticos y figuras p&uacute;blicas han dejado de lado la importancia de ese contrato social.</p>
+<p><strong>Global Disinformation Order</strong></p>
+<p><a href="https://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2019/09/CyberTroop-Report19.pdf">Estudio de Oxford</a> que hace un inventario de organizaciones partidarias o gobiernos involucrados en la manipulaci&oacute;n de la poblaci&oacute;n y el electorado por medio de las redes sociales. El estudio encontr&oacute; evidencia de que, en el 2017, el fen&oacute;meno se daba en 28 pa&iacute;ses; en el 2019, encontr&oacute; que esto se daba en 70 pa&iacute;ses - muchas veces con departamentos enteros creados para ese fin.</p>
+<p><strong>Alfabetizaci&oacute;n Medi&aacute;tica</strong></p>
+<p>Seg&uacute;n Daniel, la &uacute;nica forma posible de luchar en contra de la desinformaci&oacute;n global y el da&ntilde;o que causan las noticias falsas en nuestra sociedad es generalizar la alfabetizaci&oacute;n medi&aacute;tica; es decir, darle las herramientas a la poblaci&oacute;n para consumir contenido de forma m&aacute;s objetiva, y recopilar, analizar y transmitir informaci&oacute;n de manera &eacute;tica, tal y como si fueran periodistas.</p>
+}

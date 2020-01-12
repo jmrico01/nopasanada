@@ -1,0 +1,31 @@
+type article
+featured{kmkv} {
+    pretitle ARTISTA DESTACADO:
+    title KOORNEA (CR)<b>.</b>
+    text1 {
+BAJO EL PSEUDÓNIMO KOORNEA, ESTE JOVEN FOTÓGRAFO COSTARRICENSE IMAGINA ESCENAS ETÉREAS LLENAS DE CALMA IMPOSIBLE.
+}
+    text2 {
+POR RICARDO DELGADO.
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201910/headers/18-koornea.jpg
+    image1{image} /images/201910/18-koornea/1.jpg
+    image2{image} /images/201910/18-koornea/2.jpg
+    image3{image} /images/201910/18-koornea/3.jpg
+    image4{image} /images/201910/18-koornea/4.jpg
+}
+tags cultura
+title Koornea: los ojos de Andrés Orozco
+description Andrés Orozco es un joven fotógrafo costarricense. En Instagram, trabaja y comparte de manera personal bajo el pseudónimo de Koornea; su extenso repertorio demuestra su flexibilidad y sensibilidad como artista.
+day 18
+month 10
+year 2019
+color #ffb3a1
+author Ricardo Delgado
+subtitle Andrés Orozco es un joven fotógrafo costarricense. En Instagram, trabaja y comparte de manera personal bajo el pseudónimo de Koornea; su extenso repertorio demuestra su flexibilidad y sensibilidad como artista.
+text {
+<p><p>Existen emociones colectivas que trascienden descripción y todavía no logramos poner en palabras; por eso es tan valiosa la comunicación no verbal que alcanzamos por medio de las imágenes.</p></p><p><p>La función de la córnea es proteger el ojo de daños menores, pero también controla el enfoque y la entrada de luz a nuestros ojos. Es parte fundamental del por qué vemos el mundo como lo vemos y de las verdades que con seguridad nos repetimos todos los días. Al igual que las imágenes que nos mostramos, termina siendo un manipulador inmediato de nuestra percepción del mundo. </p></p><p><p>$image/image1$</p></p><p><div class="articleCaption">Fotografía por <a href="https://www.aorozco.net">Andrés Orozco</a> (<a href="https://www.instagram.com/koornea">@koornea</a>)</div></p><p><p><a href="https://www.aorozco.net">Andrés Orozco</a> es un joven fotógrafo costarricense. En <em>Instagram</em>, Andrés trabaja y comparte de manera personal bajo el pseudónimo de <strong>“Koornea”</strong>; se enfoca en producir imágenes etéreas llenas de una calma imposible y un estilo innegable; imágenes inundadas de nostalgia y belleza, plenas y palpables, casi amenazando con una vida a distancia, y el humo de incertidumbre que cubre a toda y todo jóven que está allá afuera.</p></p><p><p>Andrés no trabaja un solo estilo en particular.</p></p><p><p>Dentro de su repertorio se encuentra un extenso <a href="https://www.aorozco.net/trabajos">trabajo de fotografía comercial</a> que muestra su flexibilidad como artista y su eficacia capturando momentos. Allí, podemos ver retratos individuales perfectos para compañías de alto calibre, junto a <a href="https://www.aorozco.net/panoramas">panoramas hermosos</a> que se extienden por kilómetros bajo un cielo; todo muy sutil y efectivo, aunque muy distinto a lo que hace con <a href="https://www.instagram.com/koornea/">su proyecto personal <strong>Koornea</strong>.</a></p></p><p><p>$image/image2$</p></p><p><div class="articleCaption">Fotografía por <a href="https://www.aorozco.net">Andrés Orozco</a> (<a href="https://www.instagram.com/koornea">@koornea</a>)</div></p><p><p>Su perfil personal profundiza en la lejanía, a través del uso frecuente de neblina, una delicada edición de los colores y una sed insaciable de estilo. Todo esto, por lo general en combinación con el uso de un “personaje principal”: una chica sin nombre que toma el centro focal. Esta clase de musa a la cual se sigue en todo momento, parece un reflejo de los deseos que tenemos para nosotras y nosotros mismos; deseos que anhelan y exponen una vida en la que nada es suficiente, una vida en la que siempre hay duelo, sin importar que tan fabulosas sean las prendas con las que nos vestimos; una vida de dualidades con las que todas y todos estamos forzados a vivir, sin importar quienes somos, ni quienes pretendemos ser.</p></p><p><p>En esta búsqueda de identidad, la córnea, como el arte, es determinante; nos ayuda a reconocer quiénes somos, y quiénes queremos ser.</p></p><p><p>$image/image3$</p><p>$image/image4$</p></p><p><div class="articleCaption">Fotografías por <a href="https://www.aorozco.net">Andrés Orozco</a> (<a href="https://www.instagram.com/koornea">@koornea</a>)</div></p>
+}

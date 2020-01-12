@@ -1,0 +1,26 @@
+type article
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title EN UN<br><b>LÍBANO PARALIZADO</b>
+    text1 {
+MANIFESTANTES REFUERZAN SUS BLOQUEOS EN UN LÍBANO PARALIZADO.
+}
+    text2 {
+POR NO PASA NADA NOTICIAS Y AFP
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201910/headers/28-manifestantes-libano.jpg
+}
+tags noticias
+title Manifestantes refuerzan sus bloqueos en un Líbano paralizado
+description Manifestantes refuerzan sus bloqueos en un Líbano paralizado.
+day 28
+month 10
+year 2019
+color #ffb3a1
+author No Pasa Nada Noticias y AFP
+text {
+<p><p><strong>¿Qué necesitas saber?</strong></p><p>Manifestantes libaneses reforzaron este lunes sus bloqueos de carretera, un día después de formar una cadena humana en una demostración de unidad sin precedentes, aumentando aún más la presión contra el gobierno en un país paralizado.</p></p><p><p><strong>¿Por qué nos importa?</strong></p></p><p><p>Las imágenes de la inmensa cadena humana que formaron el domingo decenas de miles de libaneses con la bandera nacional a lo largo de 170 km de la costa ocupó este lunes las portadas de todos los periódicos.</p></p><p><p>La prensa lo considera un símbolo de un levantamiento sin precedentes en la historia del Líbano por su magnitud y armonía. Los manifestantes reclaman la partida de toda una clase política que ha hundido al país y a la que considera corrupta.</p></p><p><p>A primera hora de la mañana del lunes, los bloqueos de la carretera a la entrada de Beirut fueron reforzados con decenas de vehículos en las calles, que se sumaron a barricadas instaladas desde hace más de diez días.</p></p><p><p>"Si la clase política corrupta no entiende a qué punto está enfermo este país, entonces no pasará nada", explicó Ali, de 21 años, encargado de "vigilar" una fila de vehículos que cierran una de las entradas en el norte de Beirut.</p></p><p><p><strong>"Ahora o nunca"</strong></p></p><p><p>El malestar popular estalló el 17 de octubre tras el anuncio de un impuesto sobre las llamadas vía mensajería de WhatsApp. La rápida anulación de la medida no impidió que la movilización se extendiera por todo el país.</p></p><p><p>Pero, en duodécimo día del levantamiento, no se vislumbraba ninguna solución. Bancos, escuelas y universidades continúan cerradas hasta nueva orden. El fin de mes se acerca y algunos podrían no recibir sus salarios.</p></p><p><p>"¡Qué más da! A estas alturas, no tenemos nada que perder. Es ahora o nunca", aseguró Omar, un estudiante de arquitectura, en la Plaza de los Mártires en Beirut, donde miles gritaron, cantaron y bailaron de nuevo durante la noche, en Trípoli y otras ciudades.</p></p><p><p>La "Oda a la Alegría" de Beethoven, cuya letra fue adaptada en árabe, se canta ahora a todo pulmón igual que el himno nacional.</p></p><p><p>Según los comentaristas, la prioridad de las autoridades es lograr que se levanten los bloqueos para que el país se ponga en marcha.</p></p><p><p>Pero el ejército, que hasta ahora se ha mantenido neutral, hizo saber que rechazaba el uso de la fuerza contra los manifestantes.</p></p><p><p>La noche del sábado ocurrieron breves enfrentamientos con el ejército cerca de Trípoli, que dejaron siete heridos, pero desde entonces no se ha registrado ningún otro incidente de este tipo.</p></p><p><p><strong>"Revolución de octubre"</strong></p></p><p><p>En una época amenazantes, los militantes de Hezbolá proiraní abandonaron las manifestaciones siguiendo las órdenes de su líder, Hasan Nasralá. También rechazaron la petición popular de dimisión del gobierno.</p></p><p><p>En el ámbito político parece haber punto muerto. Ya no hay en el orden del día una reorganización ministerial, en un momento evocada. Los principales ministros, incluso los más rechazados en la calle, se niegan a ser sacrificados, según la prensa.</p></p><p><p>El país padece una escasez crónica de electricidad, agua y servicios médicos básicos desde hace 30 años, cuando terminó la guerra civil (1975-1990).</p></p><p><p>Hace una semana, el primer ministro, Saad Hariri, anuncio un paquete de reformas para dinamizar la economía, que lleva meses al borde del colapso.</p></p><p><p>"Nadie sabe adónde vamos. Pero para mí lo que vivimos es tan importante como la caída del Muro de Berlín", aseguró, agitando su bandera, Ziad Omais, un agente inmobiliario de 52 años cuyos negocios "van mal desde hace varios años".</p></p><p><p>Omar, el estudiante que se dice comunista, desearía que este levantamiento que aún no ha sido bautizado quedara en la memoria como "la revolución de octubre". "Como la que cambió para siempre el rostro de Rusia", agregó.</p></p>
+}

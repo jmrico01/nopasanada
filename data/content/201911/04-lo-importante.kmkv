@@ -1,0 +1,52 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>04-11-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/04-lo-importante.jpg
+    poster{image} /images/201911/posters/04-lo-importante.jpg
+    header-desktop1{image} /images/201911/04-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201911/04-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201911/04-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201911/04-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201911/04-lo-importante/square1.jpg
+    header-mobile2{image} /images/201911/04-lo-importante/square2.jpg
+    header-mobile3{image} /images/201911/04-lo-importante/square3.jpg
+    header-mobile4{image} /images/201911/04-lo-importante/square4.jpg
+}
+tags noticias
+title Lo Importante: 04-11-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 04
+month 11
+year 2019
+color #FCC285
+customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-04-11-19-e8oeb2" width="100%" frameborder="0" scrolling="no"></iframe>
+title1 El Salvador se suma a presión sobre Venezuela con expulsión de diplomáticos
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>El presidente salvadoreño, Nayib Bukele, ordenó la noche del sábado al cuerpo diplomático venezolano abandonar el país en 48 horas, al ratificar su reconocimiento al líder opositor Juan Guaidó como mandatario encargado del país.</p></p><p><p>Venezuela ordenó la salida este domingo del cuerpo diplomático de El Salvador, en respuesta a la expulsión por San Salvador de los representantes de Caracas, en un nuevo frente para el gobierno de Nicolás Maduro, sometido a una dura presión internacional para que abandone el poder.</p></p><p><p><strong>¿Por qué te interesa?</strong></p></p><p><p>De esa manera El Salvador se une a más de 50 países que, liderados por Estados Unidos, presionan por la salida de Maduro y por que en su reemplazo asuma Guaidó, quien celebró en Twitter el "espaldarazo a la causa venezolana" de Bukele.</p></p><p><p>Bukele señaló este domingo en su cuenta de Twitter que los diplomáticos salvadoreños que han sido expulsados por Caracas no fueron nombrados por su gobierno sino que fueron "funcionarios nombrados 100%" por el gobierno del expresidente salvadoreño Salvador Sánchez Cerén (2014-2019), "a quienes llamaban sus amigos".</p></p><p><p>El embajador estadounidense en San Salvador, Ronald Johnson, aplaudió en Twitter a Bukele por "asegurarse que El Salvador está del lado correcto de la historia al reconocer" a Guaidó, que intenta reactivar la presión de calle contra Maduro.</p></p><p><p>Un informe de la alta comisionada para los Derechos Humanos, Michelle Bachelet, indicó en julio pasado que el gobierno venezolano reportó 5.287 muertes por "resistencia a la autoridad" en 2018 y otras 1.569 entre el 1 de enero y el 19 de mayo de 2019. Muchos de esos casos, según Bachelet, pueden constituir ejecuciones extrajudiciales.</p></p>
+}
+title2 Maduro desafía a quienes buscan derrocarlo y apoya a Evo Morales
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>Nicolás Maduro aseguró el domingo haber resistido con éxito varios ultimátum para sacarlo del poder y auguró que su aliado Evo Morales, cuya reelección es cuestionada por la oposición en Bolivia, también saldrá airoso.</p></p><p><p>Maduro acudió sorpresivamente a la clausura del denominado Encuentro Antimperialista en La Habana, donde ofreció un discurso y compartió la mesa de honor con el líder socialista cubano Raúl Castro y el presidente Miguel Díaz-Canel.</p></p><p><p><strong>¿Por qué te interesa?</strong></p></p><p><p>La administración de Maduro es desconocida por Estados Unidos, que busca apartarlo del poder, y por más de medio centenar de países que consideran al líder opositor Juan Guaidó como presidente encargado de Venezuela. </p></p><p><p>Maduro aseguró que en Bolivia hay una "derecha racista, fascista (…), peor que la venezolana", y que, con el apoyo de Estados Unidos, "todo lo han intentado y no han podido" sacarlo del poder. "El indio Evo va a resistir y va a triunfar contra esta amenaza racista", dijo.</p></p><p><p>La oposición boliviana exige la anulación de la votación y la convocatoria a nuevas elecciones generales (presidenciales y legislativas).</p></p><p><p>En su discurso, Maduro también felicitó a Chile por las protestas que se suceden en ese país desde hace más de dos semanas, en la peor crisis social que vive la nación andina desde que recuperó la democracia en 1990.</p></p><p><p>En el encuentro, que sesionó durante tres días en La Habana, también participaron los expresidentes Salvador Sánchez Cerén (El Salvador) y Fernando Lugo (Paraguay), y la abogada y política colombiana Piedad Córdoba.</p></p>
+}
+title3 Lewis Hamilton conquista su sexto tíulo mundial de Fórmula 1
+author3 No Pasa Noticias y AFP
+text3 {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>El británico Lewis Hamilton ganó este domingo su sexto título mundial de pilotos de Fórmula 1 al acabar segundo en el Gran Premio de Estados Unidos, celebrado en Austin, Texas.</p></p><p><p>Hamilton, de Mercedes, queda así a un título del récrod del alemán Michael Schumacher, que con siete es el piloto con más campeonatos de la historia.</p></p><p><p>El británico de 34 años llegó segundo detrás de su compañero de equipo, Valtteri Bottas, en la 19na carrera de la temporada, disputada en el Circuito de las Américas, para añadir otro título a los ya conquistados en 2008, 2014, 2015, 2017 y 2018.</p></p><p><p>El británico luchó con determinación tras iniciar la prueba en el quinto puesto, pero no pudo darle caza a su compañero de escudería, Bottas, que salió desde la pole y finalmente se llevó la victoria.</p></p><p><p><strong>¿Por qué te interesa?</strong></p></p><p><p>Hamilton selló su sexto título, quedando a uno de Michael Schumacher, el máximo ganador de la historia de la Fórmula 1.</p></p><p><p>"No sabía si sería posible, pero trabajé tan duro como pude aquí con mi equipo de la escudería. Mi mamá, papá, madrastra y padrastro y mi familia están aquí y es un honor estar aquí con seis títulos con esos grandes. Mi papá me dijo que cuando tenía seis o siete años nunca me rendiría y ese es el lema familiar", señaló Hamilton.</p></p><p><p>La de este domingo fue la cuarta victoria de Bottas de la temporada y la séptima de su carrera. "Se siente bien, es una buena victoria", dijo el finlandés. "Personalmente, fallé en mi objetivo este año, pero Lewis se lo merece. Ha tenido una buena temporada".</p></p><p><p>Verstappen finalizó tercero por delante de Charles Leclerc, de Ferrari, una compensación para el jefe del equipo Mattia Binotto en su 50 cumpleaños después del abandono de Sebastian Vettel, y el tailandés Alex Albon, de Rde Bull, fue quintol.</p></p><p><p>Hamilton ganó cinco veces el Gran Premio de Estados Unidos desde que se disputa en el Circuito de las Américas, desde 2013. En total, el británico ahora tiene un récord de 83 victorias, 150 podios y 87 poles. Ahora está a solo 8 victorias del récord absoluto de victorias, de Michael Schumacher (93).</p></p><p><p>La carrera fue disputada bajo un clima soleado pero en una pista muy accidentada, y atrajo a multitud en un país donde la Fórmula 1 no es muy popular, incluso si su promotor es el grupo estadounidense Liberty Media.</p></p>
+}
+title4 Muere el astrólogo Walter Mercado en Puerto Rico
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>El astrólogo puertorriqueño Walter Mercado, quien con sus extravagantes capas y joyas se convirtió en un ícono de la televisión hispanoamericana de los años '80 y '90, murió a los 87 años en la capital de Puerto Rico, informó la prensa local el domingo.</p></p><p><p>Mercado falleció el sábado en el hospital Auxilio Mutuo al parecer por una falla renal, dijo al diario El Nuevo Día su sobrina Ivonne Bennet. El diario añadió que el funeral se celebrará el martes en San Juan.</p></p><p><p>Nacido el 9 de marzo de 1932, Mercado se crió en la ciudad de Ponce, al sur de Puerto Rico, y exploró varias carreras universitarias hasta que se dedicó al baile y la actuación.</p><p>Comenzó su carrera actuando en telenovelas, pero se hizo célebre entre los hispanos de Estados Unidos y en los hogares de Latinoamérica por sus apariciones en televisión como astrólogo, donde supuestamente vaticinaba el futuro.</p></p><p><p>Vestía amplios vestidos o batas, a veces con capas barrocamente adornadas, que acompañaba con vistosas joyas y un cuidado maquillaje.</p></p><p><p><strong>¿Por qué nos interesa?</strong></p></p><p><p>Mercado trabajó 15 años en el programa de Univisión "Primer Impacto", donde siempre se despedía de sus televidentes diciendo: "Reciban de mí, siempre, mucha paz, pero sobre todo, mucho, mucho, amor".</p></p><p><p>En septiembre de este año dio una entrevista al periodista Jorge Ramos, quien le preguntó por su sexualidad. </p></p><p><p>"Lo importante es que soy un ser humano y acepto a la gente como otros seres humanos y la gente me ama por lo que soy. Aquí estoy, soy lo que soy", dijo en ese momento.</p></p>
+}

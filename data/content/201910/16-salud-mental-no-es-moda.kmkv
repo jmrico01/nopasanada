@@ -1,0 +1,28 @@
+type article
+featured{kmkv} {
+    pretitle MODA:
+    title SALUD <b>MENTAL.</b>
+    text1 {
+EL MENSAJE DE UNA MODELO A LOS DISEÑADORES DE GUCCI.
+}
+    text2 {
+POR PAULINA JOARISTI
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201910/headers/16-salud-mental-moda.jpg
+    poster{image} /images/201910/posters/16-salud-mental-moda.jpg
+}
+tags cultura
+title “La salud mental no es moda”: El mensaje de una modelo a los diseñadores de Gucci
+description Las camisas de fuerza no deberían tratarse a la ligera: esta parece ser la lección para los diseñadores de la marca Gucci.
+day 16
+month 10
+year 2019
+color #ffb3a1
+author Paulina Joaristi
+subtitle Las camisas de fuerza no deberían tratarse a la ligera: esta parece ser la lección para los diseñadores de la marca Gucci.
+text {
+<p><p>El pasado 10 de octubre se celebró el día mundial de la salud mental en el mundo entero; el mismo es una oportunidad para crear conciencia acerca de los diferentes trastornos mentales que pueden afectar a las personas, y la importancia de darles tratamiento e invertir en su prevención.</p></p><p><p>El tema está presente en todas las esferas de la vida, y la moda no es la excepción, sobretodo en la semana de la moda de Milán, la cual ocurrió a finales de septiembre de este año: la pasarela de Gucci fue la más destacada de la temporada, aunque no por algo positivo. Ayesha Tan-Jones, una modelo de 26 años, llevó a cabo una protesta sobre la pasarela. La joven utilizó un marcador negro para escribir en las palmas de sus manos la frase "La salud mental no es moda”, y caminó con las manos en alto para que el público pudiera leer bien el mensaje. </p></p><p><p>Gucci incluyó piezas de ropas que asemejan camisas de fuerza en su colección de primavera 2020. Según comentó en su página de Instagram, Jones considera que los diseños son “de mal gusto” y “ofensivos” para quienes han sufrido o tenido experiencias con enfermedades mentales. </p></p><p><p>La modelo le <a href="https://www.buzzfeednews.com/article/tasneemnashrulla/gucci-ayesha-tan-jones-model-mental-health-protest-fashion-s">comentó a BuzzFeed</a> que la noche antes de la pasarela, ella y un grupo de modelos se habían decidido a protestar; esto luego de que una compañera renunciara por su gran disgusto con los diseños. Aunque sus compañeras no protestaron junto a ella, sí le dieron el apoyo moral necesario para que pudiera hacerlo. Además, utilizó su página de Instagram para subrayar que las camisas de fuerza son un símbolo de crueldad, porque se utilizaban para torturar a los pacientes cuando los médicos no comprendían los padecimientos mentales.</p></p><p><p>Jones y otras cuantas de sus compañeras donarán sus ingresos de la pasarela a organizaciones benéficas a favor de la salud mental. </p></p><p><p>Alessandro Michele, el diseñador de Gucci, confirmó que la ropa restrictiva formaba parte del <em>performance</em> o actuación en la pasarela, y que no se tenía pensado venderla. Afirmó, en cambio, que todos sus diseños se tratan sobre “la libertad”, y aceptó que las modelos tienen derecho de protestar. La casa de moda no dió ningún otro comunicado oficial -; no es la primera vez que han sido criticados por usar temas sensibles a la ligera en su diseños.</p></p>
+}

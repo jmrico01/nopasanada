@@ -1,0 +1,31 @@
+type article
+featured{kmkv} {
+    pretitle CULTURA:
+    title <b>JESUS</b><br>IS KING<b>.</b>
+    text1 {
+KANYE WEST ATRASA LANZAMIENTO DE JESUS IS KING.
+}
+    text2 {
+POR PIETRO CERCONE
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201910/headers/25-kanye-west-jesus-is-king.jpg
+    poster{image} /images/201910/posters/25-kanye-west-jesus-is-king.jpg
+    kanye-tweet{image} /images/201910/25-kanye-west-jesus-is-king/kanye-tweet.jpg
+    image3{image} /images/201910/25-kanye-west-jesus-is-king/image3.jpg
+    image2{image} /images/201910/25-kanye-west-jesus-is-king/image2.jpg
+}
+tags cultura
+title Kanye West atrasa lanzamiento de Jesus is King.
+description Kanye West atrasa lanzamiento de Jesús is King. West planeaba debutar su nuevo albúm de influencia religiosa "Jesus is King" el Jueves 24, pero el lanzamiento fue marcado por uno de sus habituales atrasos.
+day 25
+month 10
+year 2019
+color #ffb3a1
+author Pietro Cercone
+subtitle West planeaba debutar su nuevo albúm de influencia religiosa "Jesus is King" el Jueves 24, pero el lanzamiento fue marcado por uno de sus habituales atrasos.
+text {
+<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>El polemico rappero americano Kanye West, quien desde hace año y medio ha ocupado los titulares más por su particular relación con el presidente Donald Trump, que por su música, había anunciado el lanzamiento de su nuevo disco ( por segunda vez ) “Jesus is King” para el Viernes 25 de Octubre a las 11 p.m.  A pesar de esto, como ya sus fans han de esperar, Kanye atraso el lanzamiento con un tweet el viernes a las 11:18 p.m diciendo: </p></p><p><p>$image/kanye-tweet$</p></p><p><div class="articleCaption">Twitter de Kanye West.</div></p><p><p>“Para mis fans Gracias por ser leal y paciente. Estamos arreglando específicamente mezclas en "Todo lo que necesitamos", "Sigue a Dios" y "Agua"  ¡No vamos a dormir hasta que este álbum salga!”</p></p><p><p>El álbum originalmente estaba programado para lanzarse el 27 de septiembre.</p></p><p><p>$image/image3$</p></p><p><div class="articleCaption">Copyright de Kanye West.</div></p><p><p>Este disco concreta un cambio radical para Kanye, quien desde hace unos meses le ha dado un enfoque religoso a su música e imagen.  En una entrevista con Zane Lowe en Apple music dijo:</p></p><p><p>"Mi posición pública está en ruinas, no estoy en buena forma, tengo altibajos con mi salud, la gente me llama loca, la gente no quiere sentarse y reunirse conmigo, todo esto está sucediendo y tuve para entregarlo todo a Dios ".</p></p><p><p>Este cambio se ha visto desde el comienzo de su gira de conciertos denominados “Sunday Services” anteriormente este año. Estos conciertos se han diferenciado por la presencia de elementos religosos, como es la presencia de un coro góspel el cual cubre canciones suyas y de otros generos, además incluir canciones de góspel tradicionales. </p></p><p><p>$image/image2$</p></p><p><div class="articleCaption">Copyright de Kanye West.</div></p><p><p>Ademas del disco, el rappero debuto su película bajo el mismo nombre ‘Jesus is King’ con un ‘listenting party’ en el foro de Los Angeles. La Pelicula es un cortometraje de 35 minutos que ve uno de estos “Sunday Services” en el ‘James Tureell’s Roden Crater Land-Art Project’ en Arizona.  Según reportes, el cortometraje es mas video arte que documental. </p></p><p><p><strong>¿Por qué nos importa?</strong></p></p><p><p>Kanye West es un artista controversial e icono mediatico que ha marcado la cultura popular desde hace más de una decada. Nos guste o no su música, opiniones, o comportamientos, si algo es cierto: Kanye siempre es interesante. </p></p><p><p>Illustrado por un comentario de la misma entrevista con Zane Lowe el cual dijo:</p><p>"Sin lugar a dudas soy, sin duda, el mejor artista humano de todos los tiempos. Es solo un hecho".</p></p>
+}

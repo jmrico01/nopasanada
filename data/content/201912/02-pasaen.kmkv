@@ -1,0 +1,27 @@
+type video
+featured{kmkv} {
+    pretitle PASA EN LA LIGA PROMERICA:
+    title JICARAL: EL HÚRACAN DE LA PENINUSLA
+    text1 {
+Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
+}
+    text2 {
+COLECCIÓN DE NO PASA NADA
+}
+    highlightColor #E89EA2
+}
+media{kmkv} {
+    header{image} /images/201911/headers/15-andrea-kader.jpg
+}
+tags deporte, pasaen
+title JICARAL: EL HÚRACAN DE LA PENINUSLA
+titlePoster Pasa En La Liga Promerica
+description Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
+day 09
+month 12
+year 2019
+color #E89EA2
+videoID 6rYgSJNTsfA
+text {
+<p><p>Pasa En La Liga Promerica cuenta las historias del campeonato nacional de fútbol de Costa Rica: La Liga Promerica, a través de los ojos de su nuevo miembro: Jicaral de Sercoba.</p></p>
+}

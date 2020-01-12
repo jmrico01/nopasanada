@@ -1,0 +1,115 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>20-11-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/20-lo-importante.jpg
+    poster{image} /images/201911/posters/20-lo-importante.jpg
+    header-desktop1{image} /images/201911/20-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201911/20-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201911/20-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201911/20-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201911/20-lo-importante/square1.jpg
+    header-mobile2{image} /images/201911/20-lo-importante/square2.jpg
+    header-mobile3{image} /images/201911/20-lo-importante/square3.jpg
+    header-mobile4{image} /images/201911/20-lo-importante/square4.jpg
+}
+tags noticias
+title Lo Importante: 20-11-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 20
+month 11
+year 2019
+color #FCC285
+customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-20-11-19-e93nj7" width="100%" frameborder="0" scrolling="no"></iframe>
+title1 Demora en convocatoria de elecciones complica situación en Bolivia
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Tras la muerte de tres personas m&aacute;s en los disturbios -y van 27-, el gobierno interino de Bolivia estar&aacute; este mi&eacute;rcoles bajo la lupa de la OEA, que discutir&aacute; en Washington una resoluci&oacute;n apremi&aacute;ndole a convocar elecciones para superar la crisis que provoc&oacute; la salida de Evo Morales.</p>
+<p>En La Paz, la presidenta interina Jeanine &Aacute;&ntilde;ez convoc&oacute; al Congreso para abordar los mecanismos para realizar nuevos comicios presidenciales y legislativos, aunque sin precisar la fecha. La bancada mayoritaria del Movimiento Al Socialismo (MAS, de Morales) ha anunciado que acudir&aacute; a la sesi&oacute;n.</p>
+<p>Las discrepancias sobre la composici&oacute;n de un nuevo Tribunal Supremo Electoral (TSE) son las que obstaculizan el nuevo llamado a las urnas, pero dos aliados de &Aacute;&ntilde;ez, el l&iacute;der regional Luis Fernando Camacho y el rival de Morales en las elecciones, Carlos Mesa, la instaron a convocarlas por decreto presidencial.</p>
+<p>Los choques entre las fuerzas de seguridad y los manifestantes que bloqueaban el acceso a una estrat&eacute;gica planta de hidrocarburos en la ciudad de El Alto, vecina de La Paz, dejaron tres nuevos muertos y unos 30 heridos, en el marco de las protestas que sacuden el pa&iacute;s desde los comicios del 20 de octubre y que desembocaron en la dimisi&oacute;n de Morales.</p>
+<p>La falta de gasolina ha virtualmente paralizado el transporte p&uacute;blico, en un contexto de escasez que afecta tambi&eacute;n a los alimentos. En La Paz se formaron largas filas para conseguir comida.</p>
+<p>El primer presidente ind&iacute;gena de la historia del pa&iacute;s renunci&oacute; el pasado 10 de noviembre tras casi 14 a&ntilde;os en el poder, despu&eacute;s de anular unas elecciones tachadas de fraudulentas por la Organizaci&oacute;n de Estados Americanos, y luego de tres semanas de presi&oacute;n popular y de perder el apoyo de polic&iacute;as y militares.</p>
+<p>Ahora son los partidarios de Morales quienes denuncian un "golpe de Estado" y exigen la salida de la derechista &Aacute;&ntilde;ez.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La Comisi&oacute;n Interamericana de Derechos Humanos (CIDH) dio cuenta el fin de semana de un total de 23 muertos en un mes de conflicto, a los que hay que sumar los tres del martes y el polic&iacute;a que muri&oacute; el lunes tras una semana de agon&iacute;a, con lo que la cifra de v&iacute;ctimas mortales asciende al menos a 27.</p>
+<p>El ministro de Defensa del gobierno interino, Luis Fernando L&oacute;pez, dijo que, aunque dos de las v&iacute;ctimas del martes murieron por balas, "de las Fuerzas Armadas no sali&oacute; ni un solo proyectil".</p>
+<p>Asilado en M&eacute;xico desde hace una semana, Morales, que este mi&eacute;rcoles ofrecer&aacute; una conferencia de prensa, atribuy&oacute; las muertes de los manifestantes del martes a "la dictadura" boliviana, "en una operaci&oacute;n coordinada con EEUU".</p>
+<p>"La dictadura de &Aacute;&ntilde;ez, Camacho y Mesa ya ha provocado 30 muertes y decenas de heridos con represi&oacute;n de la Polic&iacute;a y FFAA", tuite&oacute; este mi&eacute;rcoles, llamando a la CIDH y a la ONU a "frenar esta masacre de hermanos ind&iacute;genas".</p>
+<p>La CIDH anunci&oacute; que enviar&aacute; este viernes una misi&oacute;n a Bolivia para "observar la situaci&oacute;n de los derechos humanos", luego de que &Aacute;&ntilde;ez promulgara un decreto que exime a los militares de cargos penales si se generan v&iacute;ctimas en sus tareas de mantener el orden.</p>
+<p>El organismo con sede en Washington calific&oacute; de "grave" esa decisi&oacute;n, que el gobierno se apresur&oacute; a defender negando que se tratara de "una licencia para matar".</p>
+<p><strong>Nuevas elecciones</strong></p>
+<p>El l&iacute;der regional de derechas Luis Fernando Camacho, que precipit&oacute; la ca&iacute;da de Morales y respald&oacute; a &Aacute;&ntilde;ez, le dio un ultim&aacute;tum a la presidenta interina hasta el jueves para que nombre un nuevo tribunal electoral que llame a comicios para el 19 de enero de 2020.</p>
+<p>Seg&uacute;n la Constituci&oacute;n, a partir de su asunci&oacute;n el 13 de noviembre, &Aacute;&ntilde;ez dispone de 90 d&iacute;as calendario para convocar a nuevos comicios. Idealmente la mandataria debe entregar el mando el 22 de enero, fecha en que concluye el actual per&iacute;odo presidencial de cinco a&ntilde;os.</p>
+<p>Unas negociaciones interpartidarias propiciadas por la Iglesia cat&oacute;lica, con el apoyo de las Naciones Unidas y la Uni&oacute;n Europea, apuntaban tambi&eacute;n en el sentido de que sea el Congreso que designe seis miembros del TSE y que &Aacute;&ntilde;&eacute;z designe el s&eacute;ptimo, como manda la Constituci&oacute;n.</p>
+<p>En caso de no haber consenso en el Congreso, &Aacute;&ntilde;ez podr&iacute;a reunir un tribunal por decreto supremo.</p>
+<p><strong>La OEA toma cartas en el asunto</strong></p>
+<p>La crisis pol&iacute;tico-social en Bolivia ser&aacute; analizada tambi&eacute;n este mi&eacute;rcoles por el Consejo Permanente de la OEA, que discutir&aacute; una propuesta de Colombia y Brasil para instar a Bolivia a llamar "urgentemente" a adoptar un calendario electoral que brinde todas las garant&iacute;as democr&aacute;ticas.</p>
+<p>La iniciativa instruye adem&aacute;s a la Secretar&iacute;a General del organismo regional a otorgar a Bolivia todo el apoyo t&eacute;cnico "para que se d&eacute; inicio inmediato al proceso electoral, de conformidad con los principios de transparencia, independencia, credibilidad y confianza".</p>
+<p>La ca&iacute;da de Morales, quien aspiraba a un cuarto mandato, se precipit&oacute; tras divulgarse un informe de auditor&iacute;a de la OEA que revel&oacute; irregularidades en el recuento de los resultados en favor del l&iacute;der ind&iacute;gena.</p>
+}
+title2 UE llama a Nicaragua a liberar a opositores detenidos en ciudad de Masaya
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La Uni&oacute;n Europea (UE) urgi&oacute; este mi&eacute;rcoles a Nicaragua a liberar a los opositores detenidos en Masaya y a levantar el sitio a la iglesia de San Miguel, reiterando su disposici&oacute;n a tomar medidas para "apoyar" la democracia en el pa&iacute;s.</p>
+<p>"La UE llama al gobierno de Nicaragua y a las fuerzas del orden a liberar a los detenidos y a retirar los cargos, a levantar el sitio de la iglesia", reza una declaraci&oacute;n de la jefa de la diplomacia europea, Federica Mogherini, en nombre del bloque.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Diecis&eacute;is l&iacute;deres sociales, entre ellos la estudiante belgo-nicarag&uuml;ense Amaya Coppens, fueron detenidos a mediados de noviembre cuando intentaron auxiliar con agua a un grupo de mujeres en huelga de hambre en esa iglesia.</p>
+<p>La justicia decret&oacute; el lunes prisi&oacute;n preventiva para estos, acusados de tenencia de armas de fuego. La polic&iacute;a argument&oacute; que trasladaban artefactos explosivos y armas y los acus&oacute; de planear "actos terroristas".</p>
+<p>Las detenciones y el "asedio" de las fuerzas policiales a la iglesia de Masaya, 30 km al sureste de Managua, "representan una violaci&oacute;n de los derechos fundamentales" y "un grave rev&eacute;s para el proceso pol&iacute;tico", apunta la UE.</p>
+<p>Los 28 pa&iacute;ses europeos llaman as&iacute; al gobierno del sandinista Daniel Ortega a garantizar "el pleno respeto de los derechos", entre ellos "la libertad de expresi&oacute;n, de reuni&oacute;n, de religi&oacute;n y de protesta pac&iacute;fica".</p>
+<p>El bloque llama as&iacute; a Managua a cumplir con los acuerdos cerrados con la oposici&oacute;n en marzo y a retomar un di&aacute;logo nacional para "resolver la crisis actual" y lograr una "salida pac&iacute;fica y democr&aacute;tica".</p>
+<p>La UE, que se dot&oacute; en octubre de un r&eacute;gimen de sanciones contra las autoridades nicarag&uuml;enses que por el momento no activ&oacute;, reiter&oacute; su llamado a utilizar "todos sus instrumentos" para "apoyar" la democracia en el pa&iacute;s.</p>
+<p>La oposici&oacute;n nicarag&uuml;ense lanz&oacute; en los &uacute;ltimos d&iacute;as una nueva campa&ntilde;a de presi&oacute;n contra el gobierno de Ortega, tras las violentas protestas del a&ntilde;o pasado exigiendo la renuncia del mandatario sandinista.</p>
+<p>El objetivo es presionar por la liberaci&oacute;n de m&aacute;s de 130 opositores presos durante la represi&oacute;n de aquellas protestas, que dejaron 328 muertos y 88.000 exiliados, seg&uacute;n datos de la Comisi&oacute;n Interamericana de Derechos Humanos (CIDH).</p>
+<p>Ortega, en el poder desde 2007, calific&oacute; la revuelta como un intento de golpe de Estado fraguado por la oposici&oacute;n con el apoyo de Estados Unidos, que por su parte sancion&oacute; a tres funcionarios del gobierno nicarag&uuml;ense.</p>
+}
+title3 Caravana de centroamericanos llega a México en busca de desaparecidos
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Medio centenar de centroamericanos, la mayor&iacute;a mujeres, llegaron este martes en caravana a M&eacute;xico en busca de familiares desaparecidos o para reencontrarse con allegados tras pasar a&ntilde;os separados y sin comunicaci&oacute;n alguna.</p>
+<p>La Caravana de Madres Centroamericanas de Migrantes Desaparecidos, integrada por 45 mujeres y cinco hombres de Honduras, Nicaragua, El Salvador y Guatemala, ingres&oacute; a M&eacute;xico por el estado de Chiapas, fronterizo con Guatemala.</p>
+<p>Por la noche, en Tuxtla Guti&eacute;rrez, capital de Chiapas, las hermanas Claudia Joaquina y Socorro Jaqueline Valladares, nativas del departamento de Francisco Moraz&aacute;n, en Honduras, se reencontraron despu&eacute;s de 15 a&ntilde;os de no verse.</p>
+<p>Socorro Jaqueline sali&oacute; de Honduras para darle una mejor vida a su hija de tres a&ntilde;os, pero ya no volvi&oacute; a comunicarse con su familia porque en su pa&iacute;s cambiaron los c&oacute;digos de los tel&eacute;fonos. "Cuando yo marcaba me dec&iacute;a que el tel&eacute;fono que marcaba hab&iacute;a sido cambiado", relat&oacute;.</p>
+<p>"Siento mucha alegr&iacute;a, mucha emoci&oacute;n volver a ver a mi hermana de quien no sab&iacute;a nada desde hace mucho tiempo", dijo por su parte Claudia.</p>
+<p>Rub&eacute;n Figueroa, del Movimiento Migrante Centroamericano y uno de los promotores de la caravana, explic&oacute; que la localizaci&oacute;n de Socorro Jaqueline se logr&oacute; luego de una larga b&uacute;squeda en varios municipios de Chiapas, siguiendo pistas de las personas que la hab&iacute;an visto y que le dieron trabajo.</p>
+<p>Socorro Jaqueline piensa volver a su pa&iacute;s a finales del a&ntilde;o para ver a toda su familia, pero principalmente a su madre, quien no pudo viajar en la caravana por motivos de salud, y a su hija, que est&aacute; por cumplir los 18 a&ntilde;os.</p>
+<p>Figueroa coment&oacute; que este es el primer reencuentro que ocurre durante el recorrido de la caravana. El grupo viajar&aacute; el mi&eacute;rcoles a Veracruz, donde se prev&eacute;n dos reencuentros m&aacute;s, y un cuarto tendr&aacute; lugar en el norte&ntilde;o estado de Nuevo L&eacute;on.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Esta caravana en busca de centroamericanos desaparecidos en su recorrido por M&eacute;xico se realiza desde hace 15 a&ntilde;os y se han localizado a poco m&aacute;s de 300 personas cuyo paradero era desconocido por sus familiares.</p>
+<p>Cientos de miles de centroamericanos que escapan de la violencia y la pobreza en sus pa&iacute;ses recorren anualmente M&eacute;xico en su intento por llegar a Estados Unidos.</p>
+<p>En el recorrido son blanco de extorsiones, agresiones y v&iacute;ctimas del crimen organizado. En octubre de 2018 familias enteras de centroamericanos empezaron a migrar en multitudinarias caravanas como una forma de protecci&oacute;n.</p>
+<p>Sin embargo, esta in&eacute;dita oleada migratoria desat&oacute; una dura reacci&oacute;n de Estados Unidos, lo que llev&oacute; a M&eacute;xico a desplegar a miles de militares para controlar el tr&aacute;fico irregular de migrantes.</p>
+}
+title4 Crisis diplomática entre China y EEUU tras un voto del senado sobre Hong Kong
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El Senado estadounidense adopt&oacute; el martes por unanimidad un texto reclamando democracia y respeto de los derechos humanos en Hong Kong. que provoc&oacute; la c&oacute;lera de Pek&iacute;n y llev&oacute; al gobierno chino a convocar a un alto responsable diplom&aacute;tico estadounidense.</p>
+<p>Los senadores tambi&eacute;n aprobaron una medida que prohibir&iacute;a la venta a la polic&iacute;a de Hong Kong de gases lacrim&oacute;genos, balas de goma y otro tipo de equipamiento destinado a reprimir a los manifestantes.</p>
+<p>Pek&iacute;n reaccion&oacute; con c&oacute;lera al texto y advirti&oacute; que tomar&iacute;a medidas de represalia si el texto se adopta definitivamente.</p>
+<p>Seg&uacute;n China, el objetivo de Estados Unidos es "apoyar a los extremistas y a los elementos antichinos violentos que intentan sembrar el caos en Hong Kong (&hellip;) para cumplir su siniestro objetivo de dificultar el desarrollo de China aprovechando la cuesti&oacute;n de Hong Kong", declar&oacute; en un comunicado el portavoz de la diplomacia china, Geng Shuang.</p>
+<p>Pek&iacute;n convoc&oacute; por su parte el mi&eacute;rcoles al encargado de negocios temporal de la embajada de Estados Unidos William Klein para "protestar solemnemente" contra este texto.</p>
+<p>"Cualquier intento de socavar la prosperidad y la estabilidad de Hong Kong y de dificultar el desarrollo de China est&aacute; destinado al fracaso", dijo el viceministro de Relaciones Exteriores, Ma Zhaoxu, citado por la diplomacia china.</p>
+<p>China ya hab&iacute;a expresado su "extrema indignaci&oacute;n" tras la adopci&oacute;n a mediados de octubre en la c&aacute;mara baja del congreso estadounidense de un texto similar.</p>
+<p>Los dos proyectos de ley son un poco diferentes por lo que las dos c&aacute;maras tiene que armonizarlos antes de un voto final para que pueda ser luego promulgado por el presidente Donald Trump.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"Hoy el Senado estadounidense envi&oacute; un mensaje claro a los hongkoneses que luchan por las libertades a las que est&aacute;n apegados desde hace mucho tiempo: les o&iacute;mos, estamos a su lado y no nos quedaremos sin reaccionar mientras Pek&iacute;n socava su autonom&iacute;a", declar&oacute; el senador republicano Marco Rubio.</p>
+<p>Hong Kong tiene y Washington tienen un estatuto econ&oacute;mico especial que permite al territorio chino quedar exento de las restricciones que se aplican a la China continental.</p>
+<p>El texto aprobado por el senado pondr&iacute;a como condici&oacute;n para mantener vigente este estatuto especial que el departamento de Estado supervise cada a&ntilde;o que las autoridades de Hong Kong respetan los derechos.</p>
+<p>Esta medida implicar&iacute;a en particular una evaluaci&oacute;n sobre "la autonom&iacute;a en la toma de decisiones de su gobierno en lo que afecta a los derechos humanos, el respeto de las leyes y las demandas de extradici&oacute;n, el sufragio universal, la independencia de la justicia, las funciones de la polic&iacute;a y la fuerzas de seguridad, el control de las exportaciones y el respeto de sanciones".</p>
+<p>El texto tambi&eacute;n prev&eacute; sanciones contra cualquier "persona extranjera" considerada como responsable de una "extradici&oacute;n extrajudicial" o que viole los derechos humanos en Hong Kong.</p>
+<p>El movimiento de protesta empez&oacute; en Hong Kong en junio tras el rechazo de un proyecto de ley para autorizar las extradiciones hacia China continental, con manifestaciones cada vez m&aacute;s violentas.</p>
+}

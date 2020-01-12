@@ -1,0 +1,33 @@
+type article
+featured{kmkv} {
+    pretitle CULTURA:
+    title ARTE<b>ROBADO<b>
+    text1 {
+A VECES CON PASAMONTAÑAS EN MEDIO DE UNA TORMENTA, A VECES EN CONTEXTOS DE GUERRA Y OPRESIÓN.
+}
+    text2 {
+POR NO PASA NADA CULTURA
+}
+    highlightColor #f4b6a5
+}
+media{kmkv} {
+    header{image} /images/201912/headers/12-gustav-klimt.jpg
+    poster{image} /images/201912/posters/12-gustav-klimt.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
+}
+tags cultura, home
+title Arte robado: a veces con pasamontañas en medio de una tormenta, a veces en contextos de guerra y opresión.
+description “Encuentran pintura robada de Gustav Klimt escondida dentro de la pared de un museo italiano”: aunque suene como el tagline de una secuela de Ocean’s Eleven, la noticia es real y le dio la vuelta al mundo el pasado 11 de Diciembre.
+day 12
+month 12
+year 2019
+color #f4b6a5
+author No Pasa Nada Cultura
+subtitle Una pintura de Gustav Klimt, robada en 1997 y valorada en $60 millones, fue recientemente encontrada dentro de la pared de una galería italiana. El caso no es atípico en el mundo del arte.
+text {
+<p><p>“Encuentran pintura robada de Gustav Klimt escondida detrás de una placa de metal, dentro de la pared de un museo italiano”: aunque suene como el <em>tagline</em> de una secuela de Ocean’s Eleven, la noticia es real y le dio la vuelta al mundo el pasado 11 de Diciembre.</p></p><p><p>“Portrait of a Lady,” del famosísimo pintor (mejor conocido por “El Beso,” pintura impresa en las portadas de cuadernos y bolsos <em>tote</em> que suelen llevar las chicas con corte de pelo estilo Amelie), fue robada hace más de dos décadas, durante la preparación de una exhibición en su honor.  </p></p><p><p>$image/portraitofalady$</p></p><p><p>Según la revista Artsy, <a href="https://www.artsy.net/news/artsy-editorial-stolen-gustav-klimt-painting-hidden-wall-italian-museum">fue descubierta por un jardinero</a> mientras limpiaba la maleza en el exterior de la galería Ricci Oddi Gallery of Modern Art, en Piacenza, Italia. Como reporta el periódico The Guardian, en caso de que se pruebe la autenticidad de la pintura, la galería se prepara para exhibirla en enero del próximo año, ya que se trata de la pintura “<a href="https://www.theguardian.com/artanddesign/2019/dec/11/painting-found-hidden-in-italian-gallery-wall-may-be-stolen-klimt">más buscada en todo el mundo, después de “Natividad con San Francisco y San Lorenzo” de Caravaggio.</a>” </p></p><p><p>El reciente descubrimiento de la pieza -- valorada en $60 millones -- no es un acontecimiento aislado: la lista de pinturas robadas a lo largo de la historia es larga e incluye obras icónicas, algunas robadas en contextos bastante sombríos. </p></p><p><p><strong>Muchos trabajos de “maestros” de la pintura figuran en la infame lista.</strong> La pintura anteriormente mencionada de Caravaggio - robada durante una noche de tormenta en 1969, y aún sin recuperarse - está lejos de haber sido la única víctima de robos furtivos e inesperados en circunstancias a veces pintorescas; artistas como Leonardo Da Vinci, Johannes Vermeer, Vincent Van Gogh, Rafael y, <a href="https://www.bbc.com/news/av/world-us-canada-50076603/salvador-dali-etching-stolen-from-us-art-gallery">recientemente, Salvador Dalí</a>, figuran en la lista. Algunas obras han sido inclusive robadas más de una vez  - por ejemplo, “El grito” de Edvard Munch, desaparecida de la Galería Nacional de Oslo en 1994 y recuperada, solo para ser robada de nuevo de forma más hollywoodense posible (por sujetos en pasamontañas); esa vez del Museo Munch, también en Oslo, en el 2004. <strong>Leer más:</strong> “<a href="https://www.bbc.com/news/av/world-us-canada-50076603/salvador-dali-etching-stolen-from-us-art-gallery">Las pinturas robadas más caras.</a>”</p></p><p><p><strong>Pero, muchas veces, el robo de arte tiene implicaciones políticas, y se da en contextos mucho más dolorosos.</strong> No es la primera vez que se roban una pintura de Gustav Klimt: anteriormente, otra de sus pinturas (“La dama de dorado”) había sido robada por los Nazis durante la segunda guerra mundial, directo de la casa de la dama misma, Adele Bloch-Bauer, quien pertenecía a la familia judía que había comisionado el retrato. También robada por los nazis, la pintura titulada “Winter”, por el pintor estadounidense artist Gari Melchers, <a href="https://www.bbc.com/news/world-us-canada-50166562">fue “encontrada” este año</a> mientras se exhibía en la pared del Museo Arkell en Nueva York. La curadora en jefe del museo reportó estar “muy afectada” por la historia que resultó estar detrás de la pintura.</p></p><p><p>Ni hablar de los museos de pudientes naciones europeas, repletos de arte y objetos de herencia cultural usurpados durante sus conquistas coloniales; aunque algunos <a href="https://www.youtube.com/watch?v=x73PkUvArJY">se rehúsan a repatriar esta herencia</a> aún cuando son confrontados por el asunto, otros, como Emmanuel Macron en Francia, han hecho la promesa de devolver los objetos a sus orígenes. <strong>Leer más:</strong> <a href="https://www.theguardian.com/culture/2019/jun/29/should-museums-return-their-colonial-artefacts">¿Deberían los museos devolver sus artefactos coloniales?</a></p></p>
+}

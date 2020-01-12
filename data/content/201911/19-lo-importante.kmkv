@@ -1,0 +1,141 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>19-11-19. *</b>
+    text1 {
+4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+}
+    text2 {
+CURADAS POR<br>NO PASA NADA
+}
+    highlightColor #ff613c
+}
+media{kmkv} {
+    header{image} /images/201911/headers/19-lo-importante.jpg
+    poster{image} /images/201911/posters/19-lo-importante.jpg
+    header-desktop1{image} /images/201911/19-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/201911/19-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/201911/19-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/201911/19-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/201911/19-lo-importante/square1.jpg
+    header-mobile2{image} /images/201911/19-lo-importante/square2.jpg
+    header-mobile3{image} /images/201911/19-lo-importante/square3.jpg
+    header-mobile4{image} /images/201911/19-lo-importante/square4.jpg
+}
+tags noticias
+title Lo Importante: 19-11-19
+description 4 historias importantes de las más recientes noticias internacionales
+day 19
+month 11
+year 2019
+color #FCC285
+title1 Sandinistas arremeten contra opositores en Nicaragua por caída de Morales en Bolivia
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La renuncia forzada del expresidente boliviano Evo Morales despert&oacute; temores en el gobernanate Frente Sandinista de Nicaragua, que desat&oacute; una agresiva campa&ntilde;a con amenazas de c&aacute;rcel y balazos contra sus opositores.</p>
+<p>Dirigentes del partido del presidente Daniel Ortega advirtieron a opositores que "no se enreden" por lo ocurrido en Bolivia porque en Nicaragua "los revolucionarios est&aacute;n armados".</p>
+<p>Para la oposici&oacute;n, esos mensajes son una forma de atemorizar a la poblaci&oacute;n para que no se manifieste.</p>
+<p>"Entramos a una etapa de radicalizaci&oacute;n del r&eacute;gimen producto del miedo que sienten al ver lo que pas&oacute; en Bolivia", reaccion&oacute; en Twitter el exdiputado opositor El&iacute;seo N&uacute;&ntilde;ez.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La renovada presi&oacute;n la vive un grupo de mujeres que inici&oacute; una huelga de hambre en un templo cat&oacute;lico en la ciudad sure&ntilde;a de Masaya para exigir la liberaci&oacute;n de 130 opositores presos.</p>
+<p>La polic&iacute;a y simpatizantes sandinistas rodearon la iglesia para asediar a las huelguistas e impedir que sus allegados les lleven agua.</p>
+<p>Nicaragua arrastra las consecuencias de la crisis pol&iacute;tica iniciada por las manifestaciones de 2018 que pusieron en jaque al gobierno de Ortega, cuyas fuerzas de seguridad reprimieron las protestas dejando 325 muertos, centenares de detenidos y 62.500 exiliados, seg&uacute;n grupos humanitarios.</p>
+<p>Evo Morales renuncio el 10 de noviembre luego de tres semanas de protestas a ra&iacute;z de denuncias de irregularidades en los comicios del 20 de diciembre. Morales dimiti&oacute; tras perder el apoyo del ej&eacute;rcito y la polic&iacute;a.</p>
+<p>Ortega, un aliado de Morales, atribuy&oacute; su ca&iacute;da a "un golpe de Estado", y advirti&oacute; que tendr&aacute; como consecuencia la p&eacute;rdida de credibilidad en los procesos electorales.</p>
+<p>"Hemos apostado a la v&iacute;a electoral, pero lo de Bolivia es una prueba de fuego para que se pueda sostener la m&iacute;nima confianza en la v&iacute;a electoral", declar&oacute; Ortega la semana pasada en un acto p&uacute;blico.</p>
+<p>De lo contrario, advirti&oacute;, "los pueblos se sentir&aacute;n con todo el derecho de tomar las armas para buscar el poder por la v&iacute;a revolucionaria".</p>
+<p>El economista Juan Sebasti&aacute;n Chamorro, miembro de la opositora Alianza C&iacute;vica por la Justicia y la Democracia (ACJD), calific&oacute; lo dicho por Ortega como una "bravuconada" y una amenaza de destruir lo poco que queda de institucionalidad.</p>
+<p><strong>Cierran filas</strong></p>
+<p>"Aqu&iacute; los revolucionarios estamos armados (Polic&iacute;a, Ej&eacute;rcito y pueblo organizado) y si algo sabemos hacer los sandinistas es vencer", expres&oacute; en Twitter Carlos Fonseca Ter&aacute;n, hijo del fallecido fundador del FSLN, Carlos Fonseca Amador.</p>
+<p>Juan Carlos Ortega, hijo del mandatario, acudi&oacute; la semana pasada con un grupo de seguidores a las oficinas de la c&uacute;pula empresarial, donde record&oacute; una frase del l&iacute;der nacionalista Augusto Sandino: "La libertad no se conquista con flores, sino a balazos".</p>
+<p>Empresarios interpretaron sus palabras como una amenaza en su contra.</p>
+<p>El presidente del parlamento y cercano a Ortega, Gustavo Porras, en una reciente arenga a sindicatos sandinistas, llam&oacute; a estar movilizados "ante cualquier acci&oacute;n del enemigo", porque "si nosotros no actuamos, ellos quisieran actuar como sucedi&oacute; en Bolivia".</p>
+<p>"Nosotros nos estamos preparando como movimiento sindical porque sabemos que si llega a ganar la derecha, viene a quitarnos todo", dijo a la AFP el dirigente obrero, Luis Barbosa, en referencia a las reivindicaciones obtenidas en los 12 a&ntilde;os de gobierno de Ortega.</p>
+<p>Los sindicatos sandinistas protagonizaron duras jornadas de protestas durante los gobiernos liberales en la d&eacute;cada de 1990, que paralizaban al pa&iacute;s semanas enteras.</p>
+<p>"No tenemos temor" por la crisis en Bolivia, pero "existen millones de d&oacute;lares para desestabilizar a este pa&iacute;s", apunto Barbosa, tras acusar a Estados Unidos de financiar con esos fines a organismos no gubernamentales, de derechos humanos y medios de comunicaci&oacute;n.</p>
+<p>La exguerrillera sandinista e historiadora Dora Mar&iacute;a T&eacute;llez consider&oacute; que "el s&iacute;ndrome de Bolivia y las protestas de abril es a lo que Ortega le tiene terror, porque teme a la movilizaci&oacute;n popular".</p>
+<p>T&eacute;llez indic&oacute; que ese "terror" explica que, tras la ca&iacute;da de Morales, los sandinistas "sacan a los paramilitares a la calle, amenazan con asesinatos a opositores y dicen que est&aacute;n dispuestos a matar otra vez".</p>
+}
+title2 Presidenta interina de Bolivia bajo fuego cruzado de opositores y aliados
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La presidenta interina de Bolivia, Jeanine &Aacute;&ntilde;ez, se encuentra este martes bajo fuego cruzado, en momentos en que la oposici&oacute;n fiel al exmandatario Evo Morales demanda su renuncia y sus propios aliados le exigen convocar elecciones generales a la brevedad posible.</p>
+<p>En este marco conflictivo y de m&uacute;ltiples presiones, la Iglesia cat&oacute;lica mantiene un espacio de di&aacute;logo con oficialistas y opositores para acordar la elecci&oacute;n de autoridades electorales y la convocatoria a nuevos comicios, luego de que denuncias de fraude en las presidenciales del 20 de octubre desencadenaran la actual crisis.</p>
+<p>Cocaleros seguidores de Morales, quien renunci&oacute; y est&aacute; asilado en M&eacute;xico desde hace una semana, se enfrentaron el lunes con militares y polic&iacute;as en la regi&oacute;n de Cochabamba (centro), en su af&aacute;n por continuar su ruta a La Paz, sede del poder Ejecutivo, para buscar la dimisi&oacute;n de la mandataria interina.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Los incidentes se registraron en las afueras de la ciudad de Cochabamba (400 km este de La Paz), despu&eacute;s de otros violentos choques en el poblado cercano de Sacaba, que dejaron el viernes pasado nueve labriegos muertos. Los cocaleros salieron d&iacute;as antes de la regi&oacute;n del Chapare, basti&oacute;n inexpugnable de Morales, para pasar a Cochabamba y terminar en La Paz.</p>
+<p>El lunes, enfurecidos por la muerte de sus compa&ntilde;eros, los seguidores de Morales intentaron entrar a la ciudad por la fuerza, pero fueron dispersados con bombas lacrim&oacute;genas y veh&iacute;culos blindados, mientras la multitud respond&iacute;a con piedras.</p>
+<p>"Vamos a seguir intentando llegar (a Cochabamba) hasta que lo logremos. Aqu&iacute; nadie se rinde", dijo el campesino Ronald Cruz, de 37 a&ntilde;os, en la protesta.</p>
+<p>En la ciudad de El Alto, vecina de La Paz, persiste un bloqueo de calles y el cerco a la planta distribuidora de carburantes de Senkata, lo que ha provocado la escasez de combustibles y v&iacute;veres.</p>
+<p>Y en La Paz, ind&iacute;genas aymaras replicaron sus marchas, haciendo detonar petardos, bajo una f&eacute;rrea vigilancia policial, y dijeron que repetir&aacute;n esta semana sus manifestaciones.</p>
+<p>La consigna de todos ellos es la misma: la salida de &Aacute;&ntilde;ez, a quien consideran ileg&iacute;tima y la vuelta al poder de Morales, de 60 a&ntilde;os y quien gobern&oacute; por casi 14.</p>
+<p>En casi un mes de conflicto, la crisis suma al menos 24 muertos.</p>
+<p><strong>Elecciones generales a la brevedad</strong></p>
+<p>Mientras los leales a Morales no han descansado en sus protestas callejeras, el poderoso l&iacute;der regional de Santa Cruz y pieza clave en la renuncia del exmandatario, Luis Fernando Camacho, fij&oacute; un plazo hasta el jueves para que el Congreso elija a los miembros del Tribunal Supremo Electoral (TSE).</p>
+<p>"Exigimos elecciones hasta el 19 de enero de 2020, con la incorporaci&oacute;n de nuevos actores y un Tribunal Electoral transparente y sobre todo imparcial", escribi&oacute; Camacho en Twitter, sin precisar qu&eacute; medidas asumir&aacute; si sus pedidos son deso&iacute;dos.</p>
+<p>Todos los cargos del TSE quedaron vacantes desde la detenci&oacute;n de sus autoridades, a ra&iacute;z de un informe de auditor&iacute;a de la OEA, hace m&aacute;s de una semana, que encontr&oacute; irregularidades en el recuento de sufragios en los comicios de octubre que hab&iacute;an dado la reelecci&oacute;n a Morales frente al expresidente Carlos Mesa.</p>
+<p>Mesa y el tambi&eacute;n exmandatario Jorge Quiroga urgieron asimismo por separado a &Aacute;&ntilde;ez llamar a elecciones generales a la brevedad, incluso por decreto presidencial, si es que el Parlamento -donde el partido de Morales es mayor&iacute;a- no logra concertar la conformaci&oacute;n del &oacute;rgano electoral.</p>
+<p>El partido del exgobernante convoc&oacute; a una reuni&oacute;n del Congreso bicameral para este martes para sentar las bases para la nominaci&oacute;n de las autoridades del TSE, aunque el oficialismo consider&oacute; la reuni&oacute;n ilegal por no cumplirse procedimientos parlamentarios.</p>
+}
+title3 Manifestantes siguen atrincherados en Universidad Politécnica de Hong Kong
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Decenas de manifestantes que ocupan desde el domingo la Universidad Polit&eacute;cnica (PolyU) de Hong Kong segu&iacute;an atrincherados este martes, a pesar de las amenazas de intervenci&oacute;n cada vez m&aacute;s expl&iacute;citas del gobierno chino.</p>
+<p>El bloqueo de esta universidad es la confrontaci&oacute;n m&aacute;s larga y violenta con la polic&iacute;a desde que en junio empezaron las protestas prodemocracia en la excolonia brit&aacute;nica.</p>
+<p>Numerosos estudiantes segu&iacute;an en el interior del campus, situado en la pen&iacute;nsula de Kowloon, donde temen ser detenidos por la polic&iacute;a. Muchos usaban coberturas de emergencia para protegerse del fri&oacute;.</p>
+<p>Algunos manifestantes lograron el lunes salir del campus desliz&aacute;ndose con cuerdas por una pasarela y huyendo luego en moto.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El destino de los atrincherados en PolyU suscita una ola de emoci&oacute;n dentro del movimiento prodemocracia en Hong Kong, la excolonia brit&aacute;nica que vive su peor crisis pol&iacute;tica desde que volvi&oacute; en 1997 a estar bajo soberan&iacute;a china.</p>
+<p>Decenas de miles de personas se manifestaron el lunes en Kowloon para intentar rebajar la presi&oacute;n en PolyU y crear otro foco para atraer a la polic&iacute;a antidisturbios, que est&aacute; dispuesta a usar balas reales.</p>
+<p>La jefa del ejecutivo de Hong Kong, Carrie Lam, elegida por un comit&eacute; favorable al poder de Pek&iacute;n, estim&oacute; el martes que hay todav&iacute;a unos cien manifestantes encerrados en el campus.</p>
+<p>Lam habl&oacute; por primera vez de la situaci&oacute;n y dijo que no les queda otro remedio que rendirse.</p>
+<p>"Este objetivo solo se puede alcanzar con la plena cooperaci&oacute;n de los manifestantes y sobre todo de los amotinados, que tienen que poner fin a la violencia, entregar las armas y salir pac&iacute;ficamente escuchando las instrucciones de la polic&iacute;a", advirti&oacute;.</p>
+<p>Tambi&eacute;n prometi&oacute; que los menores que se rindan no ser&aacute;n detenidos mientras que los mayores de edad se exponen a diez a&ntilde;os de prisi&oacute;n.</p>
+<p>"Incluso si nos rendimos nos meter&aacute;n en prisi&oacute;n", dijo un estudiante de mec&aacute;nica. "Nos quieren dar la impresi&oacute;n que tenemos dos opciones pero solo hay una, la prisi&oacute;n".</p>
+<p><strong>Amenazas de Pek&iacute;n</strong></p>
+<p>Desde hace tres d&iacute;as, los manifestantes respondieron a los intentos de desalojarles del campus con c&oacute;cteles Molotov y un polic&iacute;a result&oacute; herido en la pierna por el disparo de una flecha con un arco de competici&oacute;n.</p>
+<p>Los soldados del ej&eacute;rcito chino, estacionados en Hong Kong desde la retrocesi&oacute;n de 1997, salieron el fin de semana de su cuartel para limpiar las barricadas de algunas calles, una salida que hace temer una posible intervenci&oacute;n militar.</p>
+<p>El embajador de China en el Reino Unido, Liu Xiaoming, advirti&oacute; por su parte que Pek&iacute;n no seguir&aacute; con "los brazos cruzados" si la situaci&oacute;n en el territorio es "incontrolable".</p>
+<p>El r&eacute;gimen chino tambi&eacute;n rechaz&oacute; una decisi&oacute;n de la alta corte de Hong Kong, que considera institucional la prohibici&oacute;n a los manifestantes de llevar m&aacute;scaras.</p>
+<p>"La decisi&oacute;n del alto tribunal debilita gravemente la gobernanza de la jefe del ejecutivo y del gobierno" de Hong Kong, declar&oacute; Zang Tiewei, el portavoz de la comisi&oacute;n de leyes del comit&eacute; permanente de la Asamblea Nacional Popular (ANP), seg&uacute;n los medios estatales.</p>
+<p>Zang considera que solo la ANP tiene el poder de decidir si una ley es o no conforme a la ley fundamental de Hong Kong.</p>
+<p>La Universidad PolyU est&aacute; situada cerca del Cross Harbour Tunnel, uno de los t&uacute;neles de la isla de Hong Kong bloqueado desde hace una semana.</p>
+<p>El movimiento de protesta empez&oacute; en junio como rechazo a un proyecto de ley, luego abandonado, que iba a autorizar las extradiciones a la China continental.</p>
+<p>Desde entonces los manifestantes ampliaron sus reinvindicaciones para exigir reformas democr&aacute;ticas y una investigaci&oacute;n sobre la violencia policial. Cerca de 4.500 personas fueron detenidas en cinco meses y medio.</p>
+<p>La semana pasada las protestas entraron en una nueva fase, mucho m&aacute;s violenta, con una estrategia llamada de "eclosi&oacute;n general" ("Blossom Everywhere") que consiste en multiplicar las acciones en varios puntos a la vez para poner a prueba la capacidad de la polic&iacute;a.</p>
+}
+title4 Ex dirigentes socialistas condenados por escándalo de corrupción en España
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Diecinueve ex dirigentes socialistas de Andaluc&iacute;a fueron condenados este martes en uno de los mayores esc&aacute;ndalos de corrupci&oacute;n de la Espa&ntilde;a moderna, en un momento inc&oacute;modo para el l&iacute;der del PSOE, Pedro S&aacute;nchez, quien negocia para intentar ser investido presidente del gobierno.</p>
+<p>La Audiencia Provincial de Sevilla entreg&oacute; la esperada decisi&oacute;n, en un macroesc&aacute;ndalo en el que se juzgaba el reparto opaco y clientelista de cientos de millones de euros de ayudas p&uacute;blicas, procedentes de un fondo para desempleados y empresas en crisis.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Las condenas recayeron sobre 19 ex altos cargos socialistas del gobierno regional de Andaluc&iacute;a, en manos del PSOE durante 36 a&ntilde;os ininterrumpidos, hasta el pasado enero.</p>
+<p>Jos&eacute; Antonio Gri&ntilde;&aacute;n, presidente andaluz de 2009 a 2013, ex consejero regional de Hacienda y ex ministro fue condenado a seis a&ntilde;os de c&aacute;rcel y a 15 de inhabilitaci&oacute;n por malversaci&oacute;n de caudales p&uacute;blicos y prevaricaci&oacute;n.</p>
+<p>Su predecesor, el hist&oacute;rico presidente andaluz (1990-2009) y ex ministro Manuel Chaves recibi&oacute; nueve a&ntilde;os de inhabilitaci&oacute;n para cargo o empleo p&uacute;blico por prevaricaci&oacute;n.</p>
+<p>Otra ex ministra y ex consejera andaluza de Hacienda, Magdalena &Aacute;lvarez, fue condenada a nueve a&ntilde;os de inhabilitaci&oacute;n por prevaricaci&oacute;n.</p>
+<p>La sentencia, recurrible ante el Tribunal Supremo, cae en mal momento para Pedro S&aacute;nchez, ganador de las legislativas del 10 de noviembre, pero con tres esca&ntilde;os menos de los obtenidos en los anteriores comicios, en abril.</p>
+<p>Su intenci&oacute;n, apuntan fuentes gubernamentales, es "acortar plazos" y tratar de ser investido presidente en el Parlamento la semana del 16 de diciembre.</p>
+<p>De momento amarr&oacute; los apoyos de la izquierda radical de Podemos, con la que anunci&oacute; que gobernar&aacute; en coalici&oacute;n.</p>
+<p>Pero para ser investido necesita m&aacute;s apoyos, por lo que sus colaboradores m&aacute;s estrechos est&aacute;n negociando estos d&iacute;as con distintos partidos, entre ellos los independentistas catalanes de ERC, cuyo respaldo se anuncia de momento muy dif&iacute;cil.</p>
+<p><strong>El PP contraataca</strong></p>
+<p>Una tarea que la oposici&oacute;n conservadora del Partido Popular quiere complicarle, despu&eacute;s de haberle arrebatado Andaluc&iacute;a al PSOE, donde gobierna en coalici&oacute;n con los liberales de Ciudadanos y el apoyo parlamentario de la extrema derecha de Vox.</p>
+<p>Si no se pronuncia, "el se&ntilde;or S&aacute;nchez est&aacute; inhabilitado para seguir siendo presidente, ni siquiera en funciones", dijo el n&uacute;mero dos del PP, Teodoro Garc&iacute;a-Egea, sin anunciar medidas concretas.</p>
+<p>El PP sigue muy dolido con un Pedro S&aacute;nchez que lleg&oacute; al poder en junio de 2018, merced a una moci&oacute;n de censura contra el entonces gobierno conservador de Mariano Rajoy.</p>
+<p>La moci&oacute;n estuvo motivada por una sentencia judicial en otra macrocausa por corrupci&oacute;n, la de la llamada 'trama G&uuml;rtel'.</p>
+<p>La justicia conden&oacute; entonces al PP como "part&iacute;cipe a t&iacute;tulo lucrativo" de una trama en la que cargos 'populares' daban contratos p&uacute;blicos a una red de "empresas amigas". La sentencia estableci&oacute; tambi&eacute;n que durante dos d&eacute;cadas el PP mantuvo una contabilidad irregular.</p>
+<p><strong>"Descontrol absoluto"</strong></p>
+<p>La sentencia de este martes, de 1.821 p&aacute;ginas, culmina una macrocausa cuya instrucci&oacute;n arranc&oacute; en 2011, en plena crisis econ&oacute;mica en Espa&ntilde;a, y que dio lugar a un juicio oral de un a&ntilde;o de duraci&oacute;n.</p>
+<p>Los hechos se prolongaron durante una d&eacute;cada, de 2000 a 2010.</p>
+<p>Su n&uacute;cleo es el manejo de un fondo p&uacute;blico dotado de 854 millones de euros, y destinado a financiar despidos colectivos de trabajadores por parte de empresas en dificultades, en los llamados Expedientes de Regulaci&oacute;n de Empleo (EREs).</p>
+<p>El dinero se concedi&oacute; sin embargo discrecionalmente, "eliminando los mecanismos de control legalmente establecidos", seg&uacute;n la sentencia.</p>
+<p>"No fue fiscalizado ni uno s&oacute;lo de los expedientes de concesi&oacute;n de ayudas sociolaborales y ayudas a empresas", afirma la sentencia, que habla de "descontrol absoluto" en el manejo de esos fondos p&uacute;blicos.</p>
+<p>La consecuencia de todo este mecanismo clientelar es que recibieron ayudas para prejubilarse personas por completo ajenas a las empresas beneficiarias, se abonaron comisiones irregulares a mediadores, y se perjudic&oacute; a muchos otros trabajadores que s&iacute; precisaban esas ayudas.</p>
+<p>"La sentencia de los ERE confirma que durante a&ntilde;os algunos dirigentes del PSOE-A utilizaron dinero p&uacute;blico en Andaluc&iacute;a para sostener una red mafiosa que compraba la paz social y alimentaba la corrupci&oacute;n", reaccion&oacute; Alberto Garz&oacute;n, l&iacute;der del peque&ntilde;o partido Izquierda Unida y aliado de Podemos.</p>
+<p>La fiscal&iacute;a lleg&oacute; a cifrar el fraude en 741 millones de euros, un montante que en sus conclusiones definitivas redujo a 680 millones.</p>
+<p>Durante el juicio, Gri&ntilde;&aacute;n y Chaves defendieron su inocencia, aseverando que no les correspond&iacute;a controlar el gasto p&uacute;blico.</p>
+}
