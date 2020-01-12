@@ -114,7 +114,7 @@ template <typename Allocator>
 const HashTable<KmkvItem<Allocator>>* GetKmkvItemObjValue(
 	const HashTable<KmkvItem<Allocator>>& kmkv, const HashKey& itemKey)
 {
-	KmkvItem<Allocator>* itemValuePtr = kmkv.GetValue(itemKey);
+	const KmkvItem<Allocator>* itemValuePtr = kmkv.GetValue(itemKey);
 	if (itemValuePtr == nullptr) {
 		return nullptr;
 	}
@@ -144,8 +144,6 @@ internal bool LoadKmkvRecursive(Array<char> string, Allocator* allocator,
 		}
 		string.size -= read;
 		string.data += read;
-		printf("keyword %.*s, value %.*s\n", (int)keyword.size, keyword.data,
-			(int)kmkvValue_.size, kmkvValue_.data);
 
 		kmkvValueItem.keywordTag.Clear();
 		bool keywordHasTag = false;
@@ -271,6 +269,7 @@ int main(int argc, char** argv)
 
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		Array<char> filePathArray = ToString(filePath.c_str());
+		// TODO I'm not passing the full path here
 		if (!LoadKmkv(filePathArray, &defaultAllocator_, &kmkv)) {
 			fprintf(stderr, "LoadKmkv failed for %.*s\n",
 				(int)filePathArray.size, filePathArray.data);
@@ -306,8 +305,21 @@ int main(int argc, char** argv)
 		HashTable<Array<char>> templateItems;
 		templateItems.Add("url", ToString(req.path.c_str()));
 
-		const auto* media = GetKmkvItemStrValue(kmkv, "media");
-		templateItems.Add("image", ToString("/images/202001/que-paso-venezuela.jpg"));
+		const auto* media = GetKmkvItemObjValue(kmkv, "media");
+		if (media == nullptr) {
+			fprintf(stderr, "Entry missing kmkv object \"media\": %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		const auto* header = GetKmkvItemStrValue(*media, "header");
+		if (header == nullptr) {
+			fprintf(stderr, "Entry media missing string \"header\": %.*s\n",
+				(int)filePathArray.size, filePathArray.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		templateItems.Add("image", header->ToArray());
 
 		const auto* description = GetKmkvItemStrValue(kmkv, "description");
 		if (description == nullptr) {
