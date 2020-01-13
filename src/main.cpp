@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 #include <km_common/km_defines.h>
+#include <km_common/km_kmkv.h>
 #include <km_common/km_lib.h>
 #include <km_common/km_os.h>
 #include <km_common/km_string.h>
@@ -85,142 +86,6 @@ internal bool SearchAndReplace(const Array<char>& string, const HashTable<Array<
 	return true;
 }
 
-template <typename Allocator = StandardAllocator>
-struct KmkvItem
-{
-	DynamicArray<char, Allocator> keywordTag;
-	bool isString;
-	DynamicArray<char, Allocator>* dynamicStringPtr;
-	HashTable<KmkvItem<Allocator>>* hashTablePtr;
-};
-
-template <typename Allocator>
-const DynamicArray<char, Allocator>* GetKmkvItemStrValue(
-	const HashTable<KmkvItem<Allocator>>& kmkv, const HashKey& itemKey)
-{
-	const KmkvItem<Allocator>* itemValuePtr = kmkv.GetValue(itemKey);
-	if (itemValuePtr == nullptr) {
-		return nullptr;
-	}
-	if (!itemValuePtr->isString) {
-		return nullptr;
-	}
-	return itemValuePtr->dynamicStringPtr;
-}
-
-template <typename Allocator>
-const HashTable<KmkvItem<Allocator>>* GetKmkvItemObjValue(
-	const HashTable<KmkvItem<Allocator>>& kmkv, const HashKey& itemKey)
-{
-	const KmkvItem<Allocator>* itemValuePtr = kmkv.GetValue(itemKey);
-	if (itemValuePtr == nullptr) {
-		return nullptr;
-	}
-	if (itemValuePtr->isString) {
-		return nullptr;
-	}
-	return itemValuePtr->hashTablePtr;
-}
-
-template <typename Allocator>
-internal bool LoadKmkvRecursive(Array<char> string, Allocator* allocator,
-	HashTable<KmkvItem<Allocator>>* outHashTable)
-{
-	const uint64 KEYWORD_MAX_LENGTH = 32;
-	FixedArray<char, KEYWORD_MAX_LENGTH> keyword;
-	KmkvItem<Allocator> kmkvValueItem;
-	while (true) {
-		// TODO sometimes string changes after this function call. Hmmm...
-		// Maybe it's when value and string are pointing to the same buffer area thing.
-		int read = ReadNextKeywordValue(string, &keyword, &kmkvValue_);
-		if (read < 0) {
-			fprintf(stderr, "kmkv file keyword/value error\n");
-			return false;
-		}
-		else if (read == 0) {
-			break;
-		}
-		string.size -= read;
-		string.data += read;
-
-		kmkvValueItem.keywordTag.Clear();
-		bool keywordHasTag = false;
-		uint64 keywordTagInd = 0;
-		while (keywordTagInd < keyword.size) {
-			if (keyword[keywordTagInd] == '{') {
-				keywordHasTag = true;
-				break;
-			}
-			keywordTagInd++;
-		}
-		if (keywordHasTag) {
-			keywordTagInd++;
-			bool bracketMatched = false;
-			while (keywordTagInd < keyword.size) {
-				if (keyword[keywordTagInd] == '}') {
-					bracketMatched = true;
-					break;
-				}
-				kmkvValueItem.keywordTag.Append(keyword[keywordTagInd++]);
-			}
-			if (!bracketMatched) {
-				fprintf(stderr, "kmkv keyword tag unmatched bracket\n");
-				return false;
-			}
-			if (bracketMatched && keywordTagInd != keyword.size - 1) {
-				fprintf(stderr, "found characters after kmkv keyword tag bracket, keyword %.*s\n",
-					(int)keyword.size, keyword.data);
-				return false;
-			}
-		}
-		if (StringCompare(kmkvValueItem.keywordTag.ToArray(), "kmkv")) {
-			kmkvValueItem.isString = false;
-			// "placement new" - allocate with custom allocator, but still call constructor
-			kmkvValueItem.hashTablePtr = allocator->New<HashTable<KmkvItem<Allocator>>>();
-			if (kmkvValueItem.hashTablePtr == nullptr) {
-				return false;
-			}
-			new (kmkvValueItem.hashTablePtr) HashTable<KmkvItem<Allocator>>();
-			LoadKmkvRecursive(kmkvValue_.ToArray(), allocator, kmkvValueItem.hashTablePtr);
-		}
-		else {
-			kmkvValueItem.isString = true;
-			// "placement new" - allocate with custom allocator, but still call constructor
-			kmkvValueItem.dynamicStringPtr = allocator->New<DynamicArray<char>>();
-			if (kmkvValueItem.dynamicStringPtr == nullptr) {
-				return false;
-			}
-			new (kmkvValueItem.dynamicStringPtr) DynamicArray<char>(kmkvValue_.ToArray());
-		}
-		Array<char> keywordArray = keyword.ToArray();
-		if (keywordHasTag) {
-			keywordArray = keywordArray.SliceTo(keywordArray.size - 2 - kmkvValueItem.keywordTag.size);
-		}
-		outHashTable->Add(keywordArray, kmkvValueItem);
-	}
-
-	return true;
-}
-
-template <typename Allocator>
-internal bool LoadKmkv(const Array<char>& filePath, Allocator* allocator,
-	HashTable<KmkvItem<Allocator>>* outHashTable)
-{
-	Array<uint8> kmkvFile = LoadEntireFile(filePath, allocator);
-	if (kmkvFile.data == nullptr) {
-		fprintf(stderr, "Failed to load file %.*s\n", (int)filePath.size, filePath.data);
-		return false;
-	}
-	defer(FreeFile(kmkvFile, allocator));
-
-	Array<char> fileString;
-	fileString.size = kmkvFile.size;
-	fileString.data = (char*)kmkvFile.data;
-
-	outHashTable->Clear();
-	return LoadKmkvRecursive(fileString, allocator, outHashTable);
-}
-
 int main(int argc, char** argv)
 {
 	httplib::Server httpServer;
@@ -296,9 +161,6 @@ int main(int argc, char** argv)
 			return;
 		}
 		defer(FreeFile(templateFile, &defaultAllocator_));
-		Array<char> templateString;
-		templateString.data = (char*)templateFile.data;
-		templateString.size = templateFile.size;
 
 		HashTable<Array<char>> templateItems;
 		templateItems.Add("url", requestPath);
@@ -319,41 +181,22 @@ int main(int argc, char** argv)
 		}
 		templateItems.Add("image", header->ToArray());
 
-		const auto* description = GetKmkvItemStrValue(kmkv, "description");
-		if (description == nullptr) {
-			fprintf(stderr, "Entry missing string \"description\": %.*s\n",
-				(int)kmkvPath.size, kmkvPath.data);
-			res.status = HTTP_STATUS_ERROR;
-			return;
+		if (StringCompare(type->ToArray(), "newsletter")) {
+			const char* NEWSLETTER_IMAGE_FIELDS[] = {
+				"header-desktop1", "header-desktop2", "header-desktop3", "header-desktop4",
+				"header-mobile1",  "header-mobile2",  "header-mobile3",  "header-mobile4"
+			};
+			for (int i = 0; i < 8; i++) {
+				const auto* image = GetKmkvItemStrValue(*media, NEWSLETTER_IMAGE_FIELDS[i]);
+				if (image == nullptr) {
+					fprintf(stderr, "Entry media missing string \"%s\": %.*s\n",
+						NEWSLETTER_IMAGE_FIELDS[i], (int)kmkvPath.size, kmkvPath.data);
+					res.status = HTTP_STATUS_ERROR;
+					return;
+				}
+				templateItems.Add(NEWSLETTER_IMAGE_FIELDS[i], image->ToArray());
+			}
 		}
-		templateItems.Add("description", description->ToArray());
-
-		const auto* color = GetKmkvItemStrValue(kmkv, "color");
-		if (color == nullptr) {
-			fprintf(stderr, "Entry missing string \"color\": %.*s\n",
-				(int)kmkvPath.size, kmkvPath.data);
-			res.status = HTTP_STATUS_ERROR;
-			return;
-		}
-		templateItems.Add("color", color->ToArray());
-
-		const auto* title = GetKmkvItemStrValue(kmkv, "title");
-		if (title == nullptr) {
-			fprintf(stderr, "Entry missing string \"title\": %.*s\n",
-				(int)kmkvPath.size, kmkvPath.data);
-			res.status = HTTP_STATUS_ERROR;
-			return;
-		}
-		templateItems.Add("title", title->ToArray());
-
-		const auto* subtitle = GetKmkvItemStrValue(kmkv, "subtitle");
-		if (subtitle == nullptr) { // TODO only required for some article types
-			fprintf(stderr, "Entry missing string \"subtitle\": %.*s\n",
-				(int)kmkvPath.size, kmkvPath.data);
-			res.status = HTTP_STATUS_ERROR;
-			return;
-		}
-		templateItems.Add("subtitle", subtitle->ToArray());
 
 		const auto* day = GetKmkvItemStrValue(kmkv, "day");
 		if (day == nullptr) {
@@ -413,39 +256,147 @@ int main(int argc, char** argv)
 		dateString.Append(ToString(monthNames[monthInt]));
 		templateItems.Add("subtextRight", dateString.ToArray());
 
-		const auto* author = GetKmkvItemStrValue(kmkv, "author"); // TODO different per entry type
-		if (author == nullptr) {
-			fprintf(stderr, "Entry missing string \"author\": %.*s\n",
+		if (StringCompare(type->ToArray(), "newsletter")) {
+			templateItems.Add("subtextRight1", dateString.ToArray());
+			templateItems.Add("subtextRight2", dateString.ToArray());
+			templateItems.Add("subtextRight3", dateString.ToArray());
+			templateItems.Add("subtextRight4", dateString.ToArray());
+		}
+
+		const auto* description = GetKmkvItemStrValue(kmkv, "description");
+		if (description == nullptr) {
+			fprintf(stderr, "Entry missing string \"description\": %.*s\n",
 				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
+		templateItems.Add("description", description->ToArray());
 
-		const uint64 AUTHOR_STRING_MAX_LENGTH = 64;
-		FixedArray<char, AUTHOR_STRING_MAX_LENGTH> authorString;
-		authorString.Clear();
-		authorString.Append(ToString("POR "));
-		DynamicArray<char> authorUpper;
-		if (!Utf8ToUppercase(author->ToArray(), &authorUpper)) {
-			fprintf(stderr, "Entry author to-upper failed: %.*s\n",
+		const auto* color = GetKmkvItemStrValue(kmkv, "color");
+		if (color == nullptr) {
+			fprintf(stderr, "Entry missing string \"color\": %.*s\n",
 				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		authorString.Append(authorUpper.ToArray());
-		templateItems.Add("subtextLeft", authorString.ToArray());
+		templateItems.Add("color", color->ToArray());
 
-		const auto* text = GetKmkvItemStrValue(kmkv, "text"); // TODO different per entry type
-		if (text == nullptr) {
-			fprintf(stderr, "Entry missing string \"text\": %.*s\n",
+		const auto* title = GetKmkvItemStrValue(kmkv, "title");
+		if (title == nullptr) {
+			fprintf(stderr, "Entry missing string \"title\": %.*s\n",
 				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		templateItems.Add("text", text->ToArray());
+		templateItems.Add("title", title->ToArray());
 
+		if (StringCompare(type->ToArray(), "newsletter")) {
+			const char* TITLE_STRINGS[4] = {
+				"title1", "title2", "title3", "title4"
+			};
+			for (int i = 0; i < 4; i++) {
+				const auto* titleNL = GetKmkvItemStrValue(kmkv, TITLE_STRINGS[i]);
+				if (titleNL == nullptr) {
+					fprintf(stderr, "Entry missing string \"%s\": %.*s\n", TITLE_STRINGS[i],
+						(int)kmkvPath.size, kmkvPath.data);
+					res.status = HTTP_STATUS_ERROR;
+					return;
+				}
+				templateItems.Add(TITLE_STRINGS[i], titleNL->ToArray());
+			}
+
+			const auto* customTop = GetKmkvItemStrValue(kmkv, "customTop");
+			if (customTop == nullptr) {
+				templateItems.Add("customTop", ToString(""));
+			}
+			else {
+				templateItems.Add("customTop", customTop->ToArray());
+			}
+		}
+		else {
+			const auto* subtitle = GetKmkvItemStrValue(kmkv, "subtitle");
+			if (subtitle == nullptr) {
+				fprintf(stderr, "Entry missing string \"subtitle\": %.*s\n",
+					(int)kmkvPath.size, kmkvPath.data);
+				res.status = HTTP_STATUS_ERROR;
+				return;
+			}
+			templateItems.Add("subtitle", subtitle->ToArray());
+		}
+
+		FixedArray<const char*, 8> AUTHOR_STRINGS_NEWSLETTER;
+		AUTHOR_STRINGS_NEWSLETTER.Clear();
+		AUTHOR_STRINGS_NEWSLETTER.Append("author1");
+		AUTHOR_STRINGS_NEWSLETTER.Append("subtextLeft1");
+		AUTHOR_STRINGS_NEWSLETTER.Append("author2");
+		AUTHOR_STRINGS_NEWSLETTER.Append("subtextLeft2");
+		AUTHOR_STRINGS_NEWSLETTER.Append("author3");
+		AUTHOR_STRINGS_NEWSLETTER.Append("subtextLeft3");
+		AUTHOR_STRINGS_NEWSLETTER.Append("author4");
+		AUTHOR_STRINGS_NEWSLETTER.Append("subtextLeft4");
+		FixedArray<const char*, 2> AUTHOR_STRINGS_OTHER;
+		AUTHOR_STRINGS_OTHER.Clear();
+		AUTHOR_STRINGS_OTHER.Append("author");
+		AUTHOR_STRINGS_OTHER.Append("subtextLeft");
+
+		Array<const char*> authorStrings = AUTHOR_STRINGS_OTHER.ToArray();
+		if (StringCompare(type->ToArray(), "newsletter")) {
+			authorStrings = AUTHOR_STRINGS_NEWSLETTER.ToArray();
+		}
+
+		for (uint64 i = 0; i < authorStrings.size / 2; i++) {
+			const auto* author = GetKmkvItemStrValue(kmkv, authorStrings[i * 2]);
+			if (author == nullptr) {
+				fprintf(stderr, "Entry missing string \"%s\": %.*s\n", authorStrings[i * 2],
+					(int)kmkvPath.size, kmkvPath.data);
+				res.status = HTTP_STATUS_ERROR;
+				return;
+			}
+
+			const uint64 AUTHOR_STRING_MAX_LENGTH = 64;
+			FixedArray<char, AUTHOR_STRING_MAX_LENGTH> authorString;
+			authorString.Clear();
+			authorString.Append(ToString("POR "));
+			DynamicArray<char> authorUpper;
+			if (!Utf8ToUppercase(author->ToArray(), &authorUpper)) {
+				fprintf(stderr, "Entry author to-upper failed: %.*s\n",
+					(int)kmkvPath.size, kmkvPath.data);
+				res.status = HTTP_STATUS_ERROR;
+				return;
+			}
+			authorString.Append(authorUpper.ToArray());
+			templateItems.Add(authorStrings[i * 2 + 1], authorString.ToArray());
+		}
+
+		if (StringCompare(type->ToArray(), "newsletter")) {
+			const char* TEXT_FIELD_NAMES[4] = { "text1", "text2", "text3", "text4" };
+			for (int i = 0; i < 4; i++) {
+				const auto* text = GetKmkvItemStrValue(kmkv, TEXT_FIELD_NAMES[i]);
+				if (text == nullptr) {
+					fprintf(stderr, "Entry missing string \"%s\": %.*s\n", TEXT_FIELD_NAMES[i],
+						(int)kmkvPath.size, kmkvPath.data);
+					res.status = HTTP_STATUS_ERROR;
+					return;
+				}
+				templateItems.Add(TEXT_FIELD_NAMES[i], text->ToArray());
+			}
+		}
+		else {
+			const auto* text = GetKmkvItemStrValue(kmkv, "text");
+			if (text == nullptr) {
+				fprintf(stderr, "Entry missing string \"text\": %.*s\n",
+					(int)kmkvPath.size, kmkvPath.data);
+				res.status = HTTP_STATUS_ERROR;
+				return;
+			}
+			templateItems.Add("text", text->ToArray());
+		}
+		
 		// TODO process $media/X$ tags
 
+		Array<char> templateString;
+		templateString.data = (char*)templateFile.data;
+		templateString.size = templateFile.size;
 		DynamicArray<char> outString;
 		if (!SearchAndReplace(templateString, templateItems, &outString)) {
 			fprintf(stderr, "Failed to search-and-replace to template file %.*s\n",
@@ -481,6 +432,7 @@ int main(int argc, char** argv)
 
 #define LOG_ERROR(format, ...) fprintf(stderr, format, ##__VA_ARGS__)
 
+#include <km_common/km_kmkv.cpp>
 #include <km_common/km_lib.cpp>
 #include <km_common/km_memory.cpp>
 #include <km_common/km_os.cpp>
