@@ -424,13 +424,16 @@ int main(int argc, char** argv)
 	fprintf(stderr, "Assert failed:\n"); \
 	fprintf(stderr, format, ##__VA_ARGS__); \
 	abort(); }
-#define DEBUG_ASSERT(expression) DEBUG_ASSERTF(expression, "")
+#define DEBUG_ASSERT(expression) DEBUG_ASSERTF(expression, "nothing")
 #define DEBUG_PANIC(format, ...) \
 	fprintf(stderr, "PANIC!\n"); \
 	fprintf(stderr, format, ##__VA_ARGS__); \
 	abort();
 
 #define LOG_ERROR(format, ...) fprintf(stderr, format, ##__VA_ARGS__)
+
+#define STB_SPRINTF_IMPLEMENTATION
+#include <stb_sprintf.h>
 
 #include <km_common/km_kmkv.cpp>
 #include <km_common/km_lib.cpp>

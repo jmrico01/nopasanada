@@ -14,7 +14,8 @@ COPY_DIRS = {}
 DEPLOY_FILES = []
 
 LIBS_EXTERNAL = [
-	LibExternal("cpp-httplib", "cpp-httplib")
+	LibExternal("cpp-httplib", "cpp-httplib"),
+	LibExternal("stb_sprintf", "stb_sprintf-1.06")
 ]
 
 PATHS = {
