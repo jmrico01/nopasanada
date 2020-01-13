@@ -1,7 +1,5 @@
 #include <cassert>
-#include <fstream>
 #include <httplib.h>
-#include <ios>
 #include <stdio.h>
 
 #include <km_common/km_defines.h>
@@ -261,18 +259,18 @@ int main(int argc, char** argv)
 	// =============================================================================================
 
 	httpServer.Get("/content/[^/]+/.+", [rootPath](const httplib::Request& req, httplib::Response& res) {
-		std::string filePath = "./data" + req.path;
-		if (filePath[filePath.size() - 1] == '/') {
-			filePath.pop_back();
+		Array<char> requestPath = ToString(req.path.c_str());
+		if (requestPath[requestPath.size - 1] == '/') {
+			requestPath.RemoveLast();
 		}
-		filePath += ".kmkv";
 
+		FixedArray<char, PATH_MAX_LENGTH> kmkvPath = rootPath;
+		kmkvPath.Append(ToString("data"));
+		kmkvPath.Append(requestPath);
+		kmkvPath.Append(ToString(".kmkv"));
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
-		Array<char> filePathArray = ToString(filePath.c_str());
-		// TODO I'm not passing the full path here
-		if (!LoadKmkv(filePathArray, &defaultAllocator_, &kmkv)) {
-			fprintf(stderr, "LoadKmkv failed for %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+		if (!LoadKmkv(kmkvPath.ToArray(), &defaultAllocator_, &kmkv)) {
+			fprintf(stderr, "LoadKmkv failed for %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -280,7 +278,7 @@ int main(int argc, char** argv)
 		const auto* type = GetKmkvItemStrValue(kmkv, "type");
 		if (type == nullptr) {
 			fprintf(stderr, "Entry missing string \"type\": %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -303,19 +301,19 @@ int main(int argc, char** argv)
 		templateString.size = templateFile.size;
 
 		HashTable<Array<char>> templateItems;
-		templateItems.Add("url", ToString(req.path.c_str()));
+		templateItems.Add("url", requestPath);
 
 		const auto* media = GetKmkvItemObjValue(kmkv, "media");
 		if (media == nullptr) {
 			fprintf(stderr, "Entry missing kmkv object \"media\": %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 		const auto* header = GetKmkvItemStrValue(*media, "header");
 		if (header == nullptr) {
 			fprintf(stderr, "Entry media missing string \"header\": %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -324,7 +322,7 @@ int main(int argc, char** argv)
 		const auto* description = GetKmkvItemStrValue(kmkv, "description");
 		if (description == nullptr) {
 			fprintf(stderr, "Entry missing string \"description\": %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -333,7 +331,7 @@ int main(int argc, char** argv)
 		const auto* color = GetKmkvItemStrValue(kmkv, "color");
 		if (color == nullptr) {
 			fprintf(stderr, "Entry missing string \"color\": %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -342,16 +340,16 @@ int main(int argc, char** argv)
 		const auto* title = GetKmkvItemStrValue(kmkv, "title");
 		if (title == nullptr) {
 			fprintf(stderr, "Entry missing string \"title\": %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 		templateItems.Add("title", title->ToArray());
 
 		const auto* subtitle = GetKmkvItemStrValue(kmkv, "subtitle");
-		if (subtitle == nullptr) {
+		if (subtitle == nullptr) { // TODO only required for some article types
 			fprintf(stderr, "Entry missing string \"subtitle\": %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -360,43 +358,93 @@ int main(int argc, char** argv)
 		const auto* day = GetKmkvItemStrValue(kmkv, "day");
 		if (day == nullptr) {
 			fprintf(stderr, "Entry missing string \"day\": %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 		const auto* month = GetKmkvItemStrValue(kmkv, "month");
 		if (month == nullptr) {
 			fprintf(stderr, "Entry missing string \"month\": %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 		const auto* year = GetKmkvItemStrValue(kmkv, "year");
 		if (year == nullptr) {
 			fprintf(stderr, "Entry missing string \"year\": %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		templateItems.Add("subtextRight", ToString("10 DE ENERO")); // TODO build date
+
+		const uint64 DATE_STRING_MAX_LENGTH = 64;
+		FixedArray<char, DATE_STRING_MAX_LENGTH> dateString;
+		dateString.Clear();
+		if (day->size == 1) {
+			dateString.Append('0');
+		}
+		else if (day->size != 2) {
+			fprintf(stderr, "Entry bad day string length %d: %.*s\n", (int)day->size,
+				(int)kmkvPath.size, kmkvPath.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		dateString.Append(day->ToArray());
+		dateString.Append(ToString(" DE "));
+		int monthInt;
+		if (!StringToIntBase10(month->ToArray(), &monthInt)) {
+			fprintf(stderr, "Entry month to-integer conversion failed: %.*s\n",
+				(int)kmkvPath.size, kmkvPath.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		if (monthInt < 0 || monthInt >= 12) {
+			fprintf(stderr, "Entry month %d out of range: %.*s\n", monthInt,
+				(int)kmkvPath.size, kmkvPath.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		const char* monthNames[] = {
+			"ENERO", "FEBRERO", "MARZO",
+			"ABRIL", "MAYO", "JUNIO",
+			"JULIO", "AGOSTO", "SEPTIEMBRE",
+			"OCTUBRE", "NOVIEMBRE", "DICIEMBRE"
+		};
+		dateString.Append(ToString(monthNames[monthInt]));
+		templateItems.Add("subtextRight", dateString.ToArray());
 
 		const auto* author = GetKmkvItemStrValue(kmkv, "author"); // TODO different per entry type
 		if (author == nullptr) {
 			fprintf(stderr, "Entry missing string \"author\": %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		templateItems.Add("subtextLeft", ToString("POR JOSE M RICO")); // TODO build this
+
+		const uint64 AUTHOR_STRING_MAX_LENGTH = 64;
+		FixedArray<char, AUTHOR_STRING_MAX_LENGTH> authorString;
+		authorString.Clear();
+		authorString.Append(ToString("POR "));
+		DynamicArray<char> authorUpper;
+		if (!Utf8ToUppercase(author->ToArray(), &authorUpper)) {
+			fprintf(stderr, "Entry author to-upper failed: %.*s\n",
+				(int)kmkvPath.size, kmkvPath.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		authorString.Append(authorUpper.ToArray());
+		templateItems.Add("subtextLeft", authorString.ToArray());
 
 		const auto* text = GetKmkvItemStrValue(kmkv, "text"); // TODO different per entry type
 		if (text == nullptr) {
 			fprintf(stderr, "Entry missing string \"text\": %.*s\n",
-				(int)filePathArray.size, filePathArray.data);
+				(int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 		templateItems.Add("text", text->ToArray());
+
+		// TODO process $media/X$ tags
 
 		DynamicArray<char> outString;
 		if (!SearchAndReplace(templateString, templateItems, &outString)) {
@@ -422,14 +470,14 @@ int main(int argc, char** argv)
 #undef DEBUG_ASSERT
 #undef DEBUG_PANIC
 #define DEBUG_ASSERTF(expression, format, ...) if (!(expression)) { \
-    fprintf(stderr, "Assert failed:\n"); \
-    fprintf(stderr, format, ##__VA_ARGS__); \
-    abort(); }
+	fprintf(stderr, "Assert failed:\n"); \
+	fprintf(stderr, format, ##__VA_ARGS__); \
+	abort(); }
 #define DEBUG_ASSERT(expression) DEBUG_ASSERTF(expression, "")
 #define DEBUG_PANIC(format, ...) \
-    fprintf(stderr, "PANIC!\n"); \
-    fprintf(stderr, format, ##__VA_ARGS__); \
-    abort();
+	fprintf(stderr, "PANIC!\n"); \
+	fprintf(stderr, format, ##__VA_ARGS__); \
+	abort();
 
 #define LOG_ERROR(format, ...) fprintf(stderr, format, ##__VA_ARGS__)
 
