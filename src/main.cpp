@@ -8,7 +8,6 @@
 #include <km_common/km_os.h>
 #include <km_common/km_string.h>
 
-global_var const int HTTP_STATUS_OK    = 200;
 global_var const int HTTP_STATUS_ERROR = 500;
 
 global_var const int SERVER_PORT = 6060;
