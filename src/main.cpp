@@ -98,6 +98,14 @@ int main(int argc, char** argv)
 	rootPath.size = GetLastOccurrence(rootPath.ToArray(), '/');
 	printf("Root path: %.*s\n", (int)rootPath.size, rootPath.data);
 
+	FixedArray<char, PATH_MAX_LENGTH> mediaKmkvPath = rootPath;
+	mediaKmkvPath.Append(ToString("data/media.kmkv"));
+	HashTable<KmkvItem<StandardAllocator>> mediaKmkv;
+	if (!LoadKmkv(mediaKmkvPath.ToArray(), &defaultAllocator_, &mediaKmkv)) {
+		fprintf(stderr, "LoadKmkv failed for media file\n");
+		return 1;
+	}
+
 	FixedArray<char, PATH_MAX_LENGTH> publicPath = rootPath;
 	publicPath.Append(ToString("data/public"));
 	publicPath.Append('\0');
@@ -390,8 +398,6 @@ int main(int argc, char** argv)
 			}
 			templateItems.Add("text", text->ToArray());
 		}
-		
-		// TODO process $media/X$ tags
 
 		Array<char> templateString;
 		templateString.data = (char*)templateFile.data;
@@ -402,6 +408,40 @@ int main(int argc, char** argv)
 				(int)templatePath.size, templatePath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
+		}
+
+		const uint64 MEDIA_TYPE_MAX = 12;
+		const uint64 MEDIA_NAME_MAX = 32;
+		DynamicArray<char> outStringMedia;
+		uint64 i = 0;
+		while (i < outString.size) {
+			if (outString[i] == '$') {
+				uint64 j = i + 1;
+				while (j < outString.size && outString[j] != '/' && j - i - 1 < MEDIA_TYPE_MAX) {
+					j++;
+				}
+				if (outString[j] != '/') {
+					i++;
+					continue;
+				}
+				Array<char> mediaType = outString.ToArray().Slice(i + 1, j);
+
+				uint64 nameStart = ++j;
+				while (j < outString.size && outString[j] != '$' && j - nameStart < MEDIA_NAME_MAX) {
+					j++;
+				}
+				if (outString[j] != '$') {
+					i++;
+					continue;
+				}
+				Array<char> mediaName = outString.ToArray().Slice(nameStart, j);
+				i = j + 1;
+
+				printf("Media type %.*s, name %.*s\n", (int)mediaType.size, mediaType.data,
+					(int)mediaName.size, mediaName.data);
+				continue;
+			}
+			i++;
 		}
 
 		res.set_content(outString.data, outString.size, "text/html");
