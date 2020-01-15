@@ -16,11 +16,9 @@ global_var const uint64 VALUE_MAX_LENGTH = KILOBYTES(32);
 thread_local FixedArray<char, VALUE_MAX_LENGTH> kmkvValue_;
 
 template <typename Allocator>
-internal bool SearchAndReplace(const Array<char>& string, const HashTable<Array<char>>& items,
+internal bool SearchReplaceAndAppend(const Array<char>& string, const HashTable<Array<char>>& items,
 	DynamicArray<char, Allocator>* outString)
 {
-	outString->Clear();
-
 	uint64 i = 0;
 	bool oneBracket = false;
 	bool insideBracket = false;
@@ -35,11 +33,7 @@ internal bool SearchAndReplace(const Array<char>& string, const HashTable<Array<
 							(int)replaceKey.string.size, replaceKey.string.data);
 						return false;
 					}
-					const Array<char>& replaceValue = *replaceValuePtr;
-					// TODO replace with Append(array)
-					for (uint64 j = 0; j < replaceValue.size; j++) {
-						outString->Append(replaceValue[j]);
-					}
+					outString->Append(*replaceValuePtr);
 
 					insideBracket = false;
 					oneBracket = false;
@@ -130,7 +124,7 @@ int main(int argc, char** argv)
 	});
 	// =============================================================================================
 
-	httpServer.Get("/content/[^/]+/.+", [rootPath](const httplib::Request& req, httplib::Response& res) {
+	httpServer.Get("/content/[^/]+/.+", [rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
 		Array<char> requestPath = ToString(req.path.c_str());
 		if (requestPath[requestPath.size - 1] == '/') {
 			requestPath.RemoveLast();
@@ -403,7 +397,7 @@ int main(int argc, char** argv)
 		templateString.data = (char*)templateFile.data;
 		templateString.size = templateFile.size;
 		DynamicArray<char> outString;
-		if (!SearchAndReplace(templateString, templateItems, &outString)) {
+		if (!SearchReplaceAndAppend(templateString, templateItems, &outString)) {
 			fprintf(stderr, "Failed to search-and-replace to template file %.*s\n",
 				(int)templatePath.size, templatePath.data);
 			res.status = HTTP_STATUS_ERROR;
@@ -437,14 +431,44 @@ int main(int argc, char** argv)
 				Array<char> mediaName = outString.ToArray().Slice(nameStart, j);
 				i = j + 1;
 
-				printf("Media type %.*s, name %.*s\n", (int)mediaType.size, mediaType.data,
-					(int)mediaName.size, mediaName.data);
+				const auto* mediaHtml = GetKmkvItemStrValue(mediaKmkv, mediaType);
+				if (mediaHtml == nullptr) {
+					fprintf(stderr, "Media type not found: %.*s in %.*s\n",
+						(int)mediaType.size, mediaType.data, (int)kmkvPath.size, kmkvPath.data);
+					res.status = HTTP_STATUS_ERROR;
+					return;
+				}
+
+				HashTable<Array<char>> mediaHtmlItems;
+				if (StringCompare(mediaType, "image")) {
+					// TODO if there are non-image media things in the future, this will need to be
+					// expanded upon / keyword tag needs to be checked for type=image
+					const auto* imageLocation = GetKmkvItemStrValue(*media, mediaName);
+					if (imageLocation == nullptr) {
+						fprintf(stderr, "Image not found: %.*s in %.*s\n",
+							(int)mediaName.size, mediaName.data, (int)kmkvPath.size, kmkvPath.data);
+						res.status = HTTP_STATUS_ERROR;
+						return;
+					}
+					mediaHtmlItems.Add("location", imageLocation->ToArray());
+				}
+				else {
+					mediaHtmlItems.Add("location", mediaName);
+				}
+				mediaHtmlItems.Add("style", ToString(""));
+				if (!SearchReplaceAndAppend(mediaHtml->ToArray(), mediaHtmlItems, &outStringMedia)) {
+					fprintf(stderr, "Failed to search-and-replace media HTML, type %.*s in %.*s\n",
+						(int)mediaType.size, mediaType.data, (int)kmkvPath.size, kmkvPath.data);
+					res.status = HTTP_STATUS_ERROR;
+					return;
+				}
 				continue;
 			}
-			i++;
+
+			outStringMedia.Append(outString[i++]);
 		}
 
-		res.set_content(outString.data, outString.size, "text/html");
+		res.set_content(outStringMedia.data, outStringMedia.size, "text/html");
 	});
 
 	printf("Listening on port %d\n", SERVER_PORT);
