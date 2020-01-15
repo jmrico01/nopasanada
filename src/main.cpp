@@ -1,4 +1,5 @@
 #include <cassert>
+#include <filesystem>
 #include <httplib.h>
 #include <stdio.h>
 
@@ -11,9 +12,6 @@
 global_var const int HTTP_STATUS_ERROR = 500;
 
 global_var const int SERVER_PORT = 6060;
-
-global_var const uint64 VALUE_MAX_LENGTH = KILOBYTES(32);
-thread_local FixedArray<char, VALUE_MAX_LENGTH> kmkvValue_;
 
 template <typename Allocator>
 internal bool SearchReplaceAndAppend(const Array<char>& string, const HashTable<Array<char>>& items,
@@ -109,6 +107,40 @@ int main(int argc, char** argv)
 		return 1;
 	}
 
+	FixedArray<char, PATH_MAX_LENGTH> contentPath = rootPath;
+	contentPath.Append(ToString("data/content"));
+	contentPath.Append('\0');
+	for (const auto& entryIt : std::filesystem::recursive_directory_iterator(contentPath.data)) {
+		if (!entryIt.is_regular_file()) {
+			continue;
+		}
+
+		const std::filesystem::path::value_type* dirPath = entryIt.path().c_str();
+		contentPath.Clear();
+		// Oof, hacky and I love it. Handles wchar_t on Windows.
+		while (*dirPath != '\0') {
+			contentPath.Append((char)(*(dirPath++)));
+		}
+
+		HashTable<KmkvItem<StandardAllocator>> entryKmkv;
+		if (!LoadKmkv(contentPath.ToArray(), &defaultAllocator_, &entryKmkv)) {
+			fprintf(stderr, "LoadKmkv failed for entry %.*s\n",
+				(int)contentPath.size, contentPath.data);
+			return 1;
+		}
+
+		HashTable<KmkvItem<StandardAllocator>> metadataKmkv;
+		// TODO build metadataKmkv from entryKmkv here
+
+		DynamicArray<char> metadataJson;
+		if (!KmkvToJson(metadataKmkv, &metadataJson)) {
+			fprintf(stderr, "KmkvToJson failed for entry %.*s\n",
+				(int)contentPath.size, contentPath.data);
+			return 1;
+		}
+		printf("%.*s\n", (int)metadataJson.size, metadataJson.data);
+	}
+
 	// Backwards compatibility =====================================================================
 	httpServer.Get("/el-caso-diet-prada", [](const httplib::Request& req, httplib::Response& res) {
 		res.set_redirect("/content/201908/el-caso-diet-prada");
@@ -123,6 +155,9 @@ int main(int argc, char** argv)
 		res.set_redirect("/content/201909/newsletter-03");
 	});
 	// =============================================================================================
+
+	httpServer.Get("/entries", [](const httplib::Request& req, httplib::Response& res) {
+	});
 
 	httpServer.Get("/content/[^/]+/.+", [rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
 		Array<char> requestPath = ToString(req.path.c_str());
@@ -150,7 +185,7 @@ int main(int argc, char** argv)
 		}
 
 		FixedArray<char, PATH_MAX_LENGTH> templatePath = rootPath;
-		templatePath.Append(ToString("data/content/templates/"));
+		templatePath.Append(ToString("data/templates/"));
 		templatePath.Append(type->ToArray());
 		templatePath.Append(ToString(".html"));
 		templatePath.Append('\0');
@@ -440,7 +475,7 @@ int main(int argc, char** argv)
 				}
 
 				HashTable<Array<char>> mediaHtmlItems;
-				if (StringCompare(mediaType, "image")) {
+				if (StringCompare(mediaType, "image") || StringCompare(mediaType, "imageHalfWidth")) {
 					// TODO if there are non-image media things in the future, this will need to be
 					// expanded upon / keyword tag needs to be checked for type=image
 					const auto* imageLocation = GetKmkvItemStrValue(*media, mediaName);
@@ -455,6 +490,7 @@ int main(int argc, char** argv)
 				else {
 					mediaHtmlItems.Add("location", mediaName);
 				}
+				// TODO implement style extraction from KMKV (multiple keyword tag support)
 				mediaHtmlItems.Add("style", ToString(""));
 				if (!SearchReplaceAndAppend(mediaHtml->ToArray(), mediaHtmlItems, &outStringMedia)) {
 					fprintf(stderr, "Failed to search-and-replace media HTML, type %.*s in %.*s\n",

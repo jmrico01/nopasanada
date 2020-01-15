@@ -6,9 +6,9 @@ media{kmkv} {
     insert{image} /images/201908/article-21/insert.png
     folds1{image} /images/201908/article-21/folds1.png
     folds2{image} /images/201908/article-21/folds2.png
-    opinion1{image}{style=width: 50%;} /images/201908/article-21/opinion1.png
-    opinion2{image}{style=width: 50%;} /images/201908/article-21/opinion2.png
-    opinion3{image}{style=width: 50%;} /images/201908/article-21/opinion3.png
+    opinion1{image} /images/201908/article-21/opinion1.png
+    opinion2{image} /images/201908/article-21/opinion2.png
+    opinion3{image} /images/201908/article-21/opinion3.png
 }
 tags ciencia
 title 8 preguntas frecuentes sobre la copa menstrual respondidas con la ciencia
