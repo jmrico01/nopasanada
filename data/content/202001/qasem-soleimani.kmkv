@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle ÚLTIMA HORA:
     title IRÁN PROMETE <br><b>'SEVERA VENGANZA'<b>
-    text1 {
-¿QUÉ NECESITAS SABER?
-}
-    text2 {
-NPN NOTICIAS
-}
+    text1 ¿QUÉ NECESITAS SABER?
+    text2 NPN NOTICIAS
     highlightColor #f4b6a5
 }
 media{kmkv} {

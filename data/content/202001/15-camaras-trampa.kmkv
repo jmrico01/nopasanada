@@ -1,0 +1,63 @@
+type article
+featured{kmkv} {
+    pretitle CIENCIA:
+    title CÁMARAS <b>TRAMPA<b>
+    text1 LA BIODIVERSIDAD DE COSTA RICA CAPTURADA POR ESTOS DISPOSITIVOS.
+    text2 POR NPN CIENCIA
+    highlightColor #00ff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/15-camaras-trampa.jpg
+    poster{image} /images/202001/posters/15-camaras-trampa.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
+    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
+    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
+    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+    trumpflag{image} /images/202001/necesita-saber-iran/trumpflag.jpg
+    trumptweet{image} /images/202001/necesita-saber-iran/trumptweet.jpg
+    tweet1{image} /images/202001/necesita-saber-iran/tweet1.jpg
+    zariftweet{image} /images/202001/necesita-saber-iran/zariftweet.jpg
+    perdidas{image} /images/202001/necesita-saber-iran/perdidas.jpg
+    respuesta{image} /images/202001/necesita-saber-iran/respuesta.jpg
+    dubai{image} /images/202001/necesita-saber-iran/dubai.jpg
+    propaganda{image} /images/202001/necesita-saber-iran/propaganda.jpg
+}
+tags ciencia, home
+title Las cámaras trampa que registran los animales de Costa Rica
+description Las cámaras trampa que registran la fauna de Costa Rica: en medio de noticias bélicas e incendios forestales en otras latitudes, es bueno recordar la maravillosa biodiversidad costarricense, y la importancia de su conservación.
+day 15
+month 01
+year 2020
+color #00ff00
+author NPN Ciencia
+subtitle Ocelotes, osos hormigueros, armadillos, venados y muchísimas especies más: la biodiversidad de Costa Rica capturada por estos dispositivos.
+text {
+<p>Por un trillo, en un d&iacute;a cualquiera de las zonas boscosas de Costa Rica, pueden pasar armadillos, osos hormigueros, monos, felinos enormes, felinos peque&ntilde;os, coyotes, venados, y dantas. Los que estamos enclaustrados en las ciudades costarricenses tenemos pocas oportunidades de observar esta incre&iacute;ble biodiversidad, y a menudo tenemos que conformarnos con admirar los pericos y las palomas del centro de San Jos&eacute;&hellip; vivir inmersos en el ambiente urbano puede hacernos olvidar que en las densas selvas y bosques de nuestro pa&iacute;s existe tal abundancia de vida natural.&nbsp;</p>
+<p>$youtube/3S-EAsBMZHU4$</p>
+<p>&nbsp;</p>
+<p>Adem&aacute;s, este a&ntilde;o empez&oacute; poni&eacute;ndonos los nervios de punta: las noticias de posibles enfrentamientos b&eacute;licos se han mezclado con la realidad de incendios forestales devastadores - con cifras de p&eacute;rdidas de vida natural alarmantes - y nos han sumido en una profunda desesperanza acerca del futuro del planeta. Por eso, de vez en cuando, es bueno leer alg&uacute;n<em> feel good story</em>, que nos recuerde que todav&iacute;a hay causas por las cuales luchar, y que hay que seguir intent&aacute;ndolo.&nbsp;</p>
+<p>Las c&aacute;maras trampa de iniciativas como <a href="https://guanacastewildlifemonitoring.com/about/">Guanacaste Wildlife Monitoring</a> y la Red de C&aacute;maras Trampa de Osa, entre otros, nos ofrecen precisamente eso: un ojo que esp&iacute;a la vida de la fauna que habita nuestros bosques, para recordarnos que, en la era de los desastres ambientales causados por actividad humana, los headlines melosos que circulan sobre Costa Rica no nos deber&iacute;an indisponer, porque el pa&iacute;s a&uacute;n tiene la capacidad de ser un santuario para millones de especies.&nbsp;</p>
+<p><strong>La biodiversidad de Costa Rica: un compromiso pa&iacute;s</strong></p>
+<p>Costa Rica es un pa&iacute;s famoso por su biodiversidad. Aunque el dato se ha repetido hasta el cansancio, es cierto: 5 - 6% de toda la biodiversidad del mundo habita en territorio costarricense. Eso no significa que el 6% de todos los animales, plantas, insectos, anfibios y reptiles del mundo viven en Costa Rica; m&aacute;s bien, se refiere al porcentaje de <em>especies</em> que se pueden contabilizar en el pa&iacute;s. Costa Rica, a pesar de ser bastante peque&ntilde;o, hizo un compromiso - que ha fluctuado y ha tenido sus altibajos - que con el tiempo le ha permitido mantener en un 26% de &aacute;reas protegidas de su territorio, y cuenta con una <a href="http://enbcr.go.cr/al-2025-se-habra-consolidado-y-ampliado-el-sistema-de-areas-silvestres-protegidas-y-se-mejora-la-eficacia-de-su-gestion-inversion-y-sostenibilidad-financiera">estrategia nacional de biodiversidad</a> que pretende seguir ampliando ese porcentaje, adem&aacute;s de administrar mejor las &aacute;reas que ya existen.&nbsp;</p>
+<p><strong>Leer m&aacute;s:</strong> <a href="http://www.crbio.cr/crbio/?page_id=63&amp;lang=en">Atlas de la biodiversidad de Costa Rica</a></p>
+<p>A diferencia de lo que ocurre en Australia, cuyo gobierno de coalici&oacute;n conservadora no da el brazo a torcer y se ha opuesto a tomar medidas urgentes para dejar de contribuir al calentamiento global, Costa Rica tambi&eacute;n asumi&oacute; un compromiso por descarbonizarse. Claro, eso no significa que Costa Rica est&eacute; haciendo todo bien: para hacerse una idea de lo que Costa Rica hace bien y mal en materia ambiental, pueden leer nuestro art&iacute;culo &ldquo;<a href="https://nopasanada.com/content/201910/29-campeon-ambiental">&iquest;Costa Rica campe&oacute;n ambiental? S&iacute; y no.</a>&rdquo;</p>
+<p>$youtube/kX_qPWqwNyE$</p>
+<p><br />Las c&aacute;maras trampa nos dan una oportunidad &uacute;nica: observar a los animales en su estado natural, recordarnos lo que todav&iacute;a tenemos y debemos presionar por conservar, adem&aacute;s de lo que podr&iacute;amos perder si Costa Rica se desviara de sus compromisos.</p>
+<p><strong>Para qu&eacute; son las c&aacute;maras trampa y c&oacute;mo funcionan&nbsp;</strong></p>
+<p>Seg&uacute;n el estudio realizado por el proyecto Mapcobio, un esfuerzo conjunto del Sistema Nacional de &Aacute;reas de Conservaci&oacute;n (SINAC), y la Agencia de Cooperaci&oacute;n de Jap&oacute;n, a pesar de que las c&aacute;maras trampa existen desde la d&eacute;cada de 1890 - cuando el fot&oacute;grafo y abogado estadounidense George Shiras III desarroll&oacute; un m&eacute;todo para que los animales silvestres se tomaran fotograf&iacute;as a s&iacute; mismos, utilizando un flash y un sistema de cuerdas activado por los mismos animales al tocarlo -, en Costa Rica <a href="http://investigadoresacg.org/blog/wp-content/uploads/2015/11/MAPCOBIO-camaras-trampa.pdf">se utilizaron por primera vez en 1998.</a></p>
+<p>La tecnolog&iacute;a ha modificado el mecanismo con el que se activan las c&aacute;maras, y hoy en d&iacute;a, seg&uacute;n la p&aacute;gina oficial de Guanacaste Wildlife monitoring, las c&aacute;maras se activan con sensores de movimiento - de esta manera limitando el contacto humano con las especies, logrando no intervenir con su comportamiento. Su fin cient&iacute;fico es contabilizar y visibilizar la fauna presente en diferentes propiedades - algunas privadas - para poder contribuir a la conservaci&oacute;n de las mismas.&nbsp;</p>
+<p>$youtube/44sqlYX7IM0$</p>
+<p>&nbsp;</p>
+<p><strong>Estudiar los felinos para saber el estado de salud de los bosques</strong></p>
+<p>La posible contribuci&oacute;n de esta tecnolog&iacute;a se explica muy bien en el caso del estudio del jaguar en la zona de Osa. Para la <a href="https://osaconservation.org/2017/09/red-de-camaras-trampa-de-osa/">Red de C&aacute;maras Trampa de Osa</a>, existe un inter&eacute;s especial en estudiar los felinos de la zona, espec&iacute;ficamente el puma y el jaguar, ya que seg&uacute;n su p&aacute;gina: &ldquo;los felinos son tambi&eacute;n llamados &ldquo;especies indicadoras&rdquo; pues ayudan a evaluar la salud de sus ecosistemas (...) son especies clave, cruciales para el equilibrio y salud de los ecosistemas tropicales. Siendo los m&aacute;ximos depredadores en nuestros ecosistemas, est&aacute;n en la cima de la cadena alimenticia. Esto quiere decir que no tienen depredadores naturales y juegan un papel sumamente importante controlando los diferentes niveles subsecuentes de la cadena alimenticia. Por consiguiente, tener felinos como jaguar y puma en un ecosistema, es sin&oacute;nimo de la buena salud de este. Esta es la raz&oacute;n por la cual monitorear sus poblaciones es una herramienta precisa y efectiva para el monitoreo de la calidad de los ecosistemas tropicales.&rdquo;</p>
+<p>$youtube/TeFV6cFSuOI$</p>
+<p><br />M&aacute;s all&aacute; de sus fines cient&iacute;ficos, los v&iacute;deos que han circulado estos d&iacute;as en redes grabados con estos incre&iacute;bles dispositivos, ayudan estrechar el v&iacute;nculo important&iacute;simo entre la naturaleza y la poblaci&oacute;n de Costa Rica y del mundo; un puente necesario para crear conciencia ecol&oacute;gica e impulsar la conservaci&oacute;n.&nbsp;</p>
+}

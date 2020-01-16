@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle MENÚ PERFECTO
     title Probando el menu perfecto en Johnny Rockets
-    text1 {
-Enviamos a Alberto Gatgens a que pruebe el menú de Johnny Rockets y nos diga cuál es el menu perfecto que todos deberiámos probar.
-}
-    text2 {
-feat. Alberto Gatgens
-}
+    text1 Enviamos a Alberto Gatgens a que pruebe el menú de Johnny Rockets y nos diga cuál es el menu perfecto que todos deberiámos probar.
+    text2 feat. Alberto Gatgens
     highlightColor #ffff00
 }
 media{kmkv} {

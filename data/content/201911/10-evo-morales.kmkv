@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle ÚLTIMA HORA:
     title EVO MORALES<br><b>RENUNCIA</b>
-    text1 {
-PRESIDENTE EVO MORALES RENUNCIA TRAS 14 AÑOS EN EL PODER
-}
-    text2 {
-POR AFP
-}
+    text1 PRESIDENTE EVO MORALES RENUNCIA TRAS 14 AÑOS EN EL PODER
+    text2 POR AFP
     highlightColor #ff613c
 }
 media{kmkv} {

@@ -2,12 +2,8 @@ type newsletter
 featured{kmkv} {
     pretitle NOTICIAS:
     title LO IMPORTANTE<br><b>21-11-19. *</b>
-    text1 {
-4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
-}
-    text2 {
-CURADAS POR<br>NO PASA NADA
-}
+    text1 4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+    text2 CURADAS POR<br>NO PASA NADA
     highlightColor #ff613c
 }
 media{kmkv} {

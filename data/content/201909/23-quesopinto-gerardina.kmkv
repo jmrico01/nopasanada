@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle CRÓNICA:
     title <b>QUESOPINTO. *</b>
-    text1 {
-EL INÉDITO PLATILLO DE DOÑA GERARDINA.
-}
-    text2 {
-CRÓNICAS GASTRONÓMICAS<BR>POR ALBERTO GATGENS
-}
+    text1 EL INÉDITO PLATILLO DE DOÑA GERARDINA.
+    text2 CRÓNICAS GASTRONÓMICAS<BR>POR ALBERTO GATGENS
     highlightColor #ff613c
 }
 media{kmkv} {

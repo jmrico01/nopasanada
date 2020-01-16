@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle MODA:
     title SALUD <b>MENTAL.</b>
-    text1 {
-EL MENSAJE DE UNA MODELO A LOS DISEÑADORES DE GUCCI.
-}
-    text2 {
-POR PAULINA JOARISTI
-}
+    text1 EL MENSAJE DE UNA MODELO A LOS DISEÑADORES DE GUCCI.
+    text2 POR PAULINA JOARISTI
     highlightColor #ff613c
 }
 media{kmkv} {

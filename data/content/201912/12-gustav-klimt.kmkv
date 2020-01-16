@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle CULTURA:
     title ARTE<b>ROBADO<b>
-    text1 {
-A VECES CON PASAMONTAÑAS EN MEDIO DE UNA TORMENTA, A VECES EN CONTEXTOS DE GUERRA Y OPRESIÓN.
-}
-    text2 {
-POR NO PASA NADA CULTURA
-}
+    text1 A VECES CON PASAMONTAÑAS EN MEDIO DE UNA TORMENTA, A VECES EN CONTEXTOS DE GUERRA Y OPRESIÓN.
+    text2 POR NO PASA NADA CULTURA
     highlightColor #f4b6a5
 }
 media{kmkv} {

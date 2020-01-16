@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle GASTRONOMÍA:
     title LOS<br><b>FERMENTOS. *</b>
-    text1 {
-LA FERMENTACIÓN DEMUESTRA LA INTRÍNSECA RELACIÓN ENTRE LA CIENCIA Y LA COMIDA.
-}
-    text2 {
-POR RODOLFO GUTIÉRREZ.
-}
+    text1 LA FERMENTACIÓN DEMUESTRA LA INTRÍNSECA RELACIÓN ENTRE LA CIENCIA Y LA COMIDA.
+    text2 POR RODOLFO GUTIÉRREZ.
     highlightColor #ff613c
 }
 media{kmkv} {

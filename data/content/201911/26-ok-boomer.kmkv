@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle OPINIÓN:
     title OK<br><b>BOOMER</b>
-    text1 {
-EL MANIFIESTO DETRÁS DEL MEME.
-}
-    text2 {
-EDITORIAL NO PASA NADA.
-}
+    text1 EL MANIFIESTO DETRÁS DEL MEME.
+    text2 EDITORIAL NO PASA NADA.
     highlightColor #ff613c
 }
 media{kmkv} {

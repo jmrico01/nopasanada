@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle GASTRONOMÍA:
     title FESTIVAL DE<br><b>CEVICHE </b>
-    text1 {
-SESENTA PROPUESTAS DE CEVICHE, UNA LOCACIÓN AL LADO DEL MAR.
-}
-    text2 {
-CRÓNICAS GASTRONÓMICAS POR ALBERTO GATGENS.
-}
+    text1 SESENTA PROPUESTAS DE CEVICHE, UNA LOCACIÓN AL LADO DEL MAR.
+    text2 CRÓNICAS GASTRONÓMICAS POR ALBERTO GATGENS.
     highlightColor #ff613c
 }
 media{kmkv} {

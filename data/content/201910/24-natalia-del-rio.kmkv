@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle LA VERDAD ESTÁ
     title <b>EN</b><br>EL BAÑO<b>.</b>
-    text1 {
-NATALIA DEL RÍO VA POR EL MUNDO EN BICICLETA, FOTOGRAFIANDO A LA GENTE EN EL ESPACIO MÁS ÍNTIMO DE SUS CASAS.
-}
-    text2 {
-POR LUISA MORA FERNÁNDEZ.
-}
+    text1 NATALIA DEL RÍO VA POR EL MUNDO EN BICICLETA, FOTOGRAFIANDO A LA GENTE EN EL ESPACIO MÁS ÍNTIMO DE SUS CASAS.
+    text2 POR LUISA MORA FERNÁNDEZ.
     highlightColor #ff613c
 }
 media{kmkv} {

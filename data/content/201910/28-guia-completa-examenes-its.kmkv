@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle INFECCIONES DE
     title <b>TRANSMISIÓN</b><br>SEXUAL<b>.</b>
-    text1 {
-GUÍA COMPLETA A LAS INFECCIONES DE TRANSMISIÓN SEXUAL EN COSTA RICA, CORTESÍA DE NACIÓN OVULACIÓN.
-}
-    text2 {
-POR ALEJANDRA VÁZQUEZ.
-}
+    text1 GUÍA COMPLETA A LAS INFECCIONES DE TRANSMISIÓN SEXUAL EN COSTA RICA, CORTESÍA DE NACIÓN OVULACIÓN.
+    text2 POR ALEJANDRA VÁZQUEZ.
     highlightColor #ff613c
 }
 media{kmkv} {

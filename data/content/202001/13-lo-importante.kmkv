@@ -1,0 +1,100 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>13-01-20. *</b>
+    text1 4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+    text2 CURADAS POR<br>NO PASA NADA NOTICIAS
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/13-lo-importante.jpg
+    poster{image} /images/202001/posters/13-lo-importante.jpg
+    header-desktop1{image} /images/202001/13-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/202001/13-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/202001/13-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/202001/13-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/202001/13-lo-importante/square1.jpg
+    header-mobile2{image} /images/202001/13-lo-importante/square2.jpg
+    header-mobile3{image} /images/202001/13-lo-importante/square3.jpg
+    header-mobile4{image} /images/202001/13-lo-importante/square4.jpg
+}
+tags noticias, home
+title Lo Importante: 13-01-20
+description 4 historias importantes de las más recientes noticias internacionales
+day 13
+month 01
+year 2020
+color #ffff00
+title1 Trump advierte a Irán y deja abierta la puerta del diálogo
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El presidente estadounidense, Donald Trump, pidi&oacute; nuevamente el domingo a Ir&aacute;n que no mate a los manifestantes descontentos por el derribo de un avi&oacute;n civil en la Rep&uacute;blica Isl&aacute;mica, mientras su secretario de Defensa dejaba la puerta abierta a pl&aacute;ticas con Teher&aacute;n sin condiciones previas.</p>
+<p>La advertencia de Trump se da en momentos en que el r&eacute;gimen iran&iacute; enfrenta en las calles el enojo de los manifestantes en un contexto de alta tensi&oacute;n entre Washington y Teher&aacute;n.</p>
+<p>"A los l&iacute;deres de Ir&aacute;n: NO MATEN A SUS MANIFESTANTES", tuite&oacute; Trump, advirtiendo que el mundo y "m&aacute;s importante, Estados Unidos, est&aacute; mirando".</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>La polic&iacute;a iran&iacute; dispers&oacute; el s&aacute;bado manifestaciones estudiantiles en la capital en memoria de las 176 personas que murieron el mi&eacute;rcoles cuando el ej&eacute;rcito destruy&oacute; "por error" un avi&oacute;n comercial de una aerol&iacute;nea ucraniana.</p>
+<p>"Miles de personas ya han sido asesinadas o detenidas por ustedes", se quej&oacute; Trump, haciendo referencia a las manifestaciones que comenzaron a mediados de noviembre en Ir&aacute;n y que dejan m&aacute;s de 300 muertos, seg&uacute;n Amnist&iacute;a Internacional.</p>
+<p>El contexto bilateral es especialmente tenso despu&eacute;s de la muerte del general iran&iacute; Qasem Soleimani en un ataque estadounidense el 3 de enero en Irak.</p>
+<p>El mi&eacute;rcoles, fuerzas iran&iacute;es lanzaron misiles sobre bases con soldados estadounidenses en Irak, sin dejar v&iacute;ctimas.</p>
+<p>Pese a las tensiones, en una entrevista con la cadena CBS emitida justo antes de la publicaci&oacute;n del tuit del mandatario, el secretario de Defensa, Mark Esper, dijo este domingo que Trump a&uacute;n est&aacute; dispuesto a dialogar con los l&iacute;deres iran&iacute;es.</p>
+<p>"Estamos dispuestos a sentarnos y discutir sin condiciones previas una nueva v&iacute;a, una serie de medidas que har&aacute;n de Ir&aacute;n un pa&iacute;s m&aacute;s normal", dijo el jefe del Pent&aacute;gono.</p>
+<p><br /><strong>-"La amenaza era inminente"-</strong></p>
+<p>El domingo, varios miembros de la administraci&oacute;n estadounidense insistieron en que la informaci&oacute;n recopilada por la inteligencia estadounidense justificaba la decisi&oacute;n de matar a Soleimani.&nbsp;</p>
+<p>Los iran&iacute;es "se interesaban por instalaciones estadounidenses en la regi&oacute;n y quer&iacute;an hacer v&iacute;ctimas entre los soldados, los marines, la fuerza &aacute;erea y los diplom&aacute;ticos", asegur&oacute; al canal NBC Robert O'Brien, asesor de Seguridad Nacional de la Casa Blanca. "La amenaza era inminente", a&ntilde;adi&oacute;.&nbsp;</p>
+<p>"Ir&aacute;n est&aacute; siendo ahogado y no tendr&aacute; otra opci&oacute;n que venir a la mesa", dijo luego en el programa de ABC "This Week". &nbsp;</p>
+<p>El domingo por la noche, Trump abofete&oacute; a O'Brien y dijo: "En realidad, no podr&iacute;a importarme menos si negocian. Depender&aacute; totalmente de ellos".</p>
+<p>"Un ataque de gran magnitud iba a perpetrarse en los pr&oacute;ximos d&iacute;as", dijo Esper a la cadena CBS. "(Un ataque) en varios pa&iacute;ses y de mayor importancia que los precedentes, capaz de llevarnos a un conflicto abierto con Ir&aacute;n".&nbsp;</p>
+<p>Esper reconoci&oacute;, sin embargo, que no exist&iacute;an informaciones precisas sobre la supuesta amenaza de ataque contra cuatro embajadas estadounidenses que Trump hab&iacute;a revelado el viernes. &nbsp;</p>
+<p>El presidente del Comit&eacute; de Inteligencia de la C&aacute;mara de Representantes, el dem&oacute;crata Adam Schiff, acus&oacute; este domingo al gobierno de haber "sobrestimado y exagerado lo que indicaban los servicios de inteligencia".&nbsp;</p>
+<p>"Y, cuando uno justifica actos que pueden llevar a un conflicto armado con Ir&aacute;n, es una estrategia peligrosa", a&ntilde;adi&oacute; el congresista en una entrevista para CBS.&nbsp;</p>
+<p>Congresistas dem&oacute;cratas y algunos republicanos reprocharon a Trump no haber avisado al Congreso ni haberle pedido su visto bueno antes de ordenar el asesinato del general Soleimani.&nbsp;</p>
+<p>La C&aacute;mara de Representantes adopt&oacute; el jueves una resoluci&oacute;n para limitar el poder del presidente estadounidense a la hora de lanzar operaciones militares contra Ir&aacute;n, un texto sin valor legal.&nbsp;</p>
+}
+title2 Trudeau promete "justicia" a familiares de víctimas canadienses de avión derribado en Irán
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>"No nos detendremos hasta que se haga justicia" para las familias de las v&iacute;ctimas del derribo del avi&oacute;n ucraniano en Ir&aacute;n, prometi&oacute; el primer ministro canadiense, Justin Trudeau, el domingo en una ceremonia de homenaje en Edmonton (oeste).</p>
+<p>"Ustedes deben sentirse insoportablemente solos, pero no lo est&aacute;n", dijo el jefe de gobierno, muy conmovido. "El pa&iacute;s entero est&aacute; a su lado esta noche, ma&ntilde;ana y en los a&ntilde;os venideros", dijo a unas 1.700 personas reunidas en la Universidad de Edmonton, la ciudad donde viv&iacute;an 13 de las 57 v&iacute;ctimas canadienses del aparato estrellado el mi&eacute;rcoles en territorio iran&iacute;.&nbsp;</p>
+<p>"Nos est&aacute;n dando una raz&oacute;n para exigir en su nombre que se haga justicia y que se rindan cuentas", agreg&oacute;.&nbsp;</p>
+<p>"Continuaremos trabajando con nuestros socios para garantizar que se realice una investigaci&oacute;n transparente y exhaustiva", dijo Trudeau. "No nos detendremos hasta que tengamos respuestas" a nuestras preguntas.&nbsp;</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Trudeau exige una "investigaci&oacute;n completa y transparente" tras el derribo por un misil iran&iacute; del Boeing 737-800 de Ukraine International Airlines, en el que murieron 176 personas, incluidos 57 canadienses.&nbsp;</p>
+<p>El d&iacute;a anterior, despu&eacute;s de que Ir&aacute;n admiti&oacute; que hab&iacute;a derribado el avi&oacute;n por error, le hab&iacute;a pedido al presidente iran&iacute; que "arrojara luz" sobre el desastre y "asumiera toda la responsabilidad".</p>
+<p>"Todos los canadienses est&aacute;n desconsolados", todos est&aacute;n "conmocionados e indignados", "todos est&aacute;n de luto", dijo. "Esta tragedia golpe&oacute; a la comunidad iran&iacute;-canadiense, dejando a ciudades como Edmonton en estado de shock, pero fue realmente una tragedia canadiense", dijo Justin Trudeau, evocando el testimonio "desgarrador" de familiares de v&iacute;ctimas.</p>
+}
+title3 Morales dice que si vuelve a Bolivia formaría "milicias armadas" como Venezuela
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El expresidente boliviano Evo Morales dijo este domingo que si vuelve a su pa&iacute;s formar&iacute;a "milicias armadas del pueblo" como en Venezuela, al evocar su renuncia en noviembre tras perder el apoyo de militares y polic&iacute;as ante denuncias de fraude electoral.</p>
+<p>En un contacto desde Argentina, donde actualmente reside, con la Radio Kawsachum Coca (RKC), de propiedad del sindicato cocalero al que pertenece, Morales dijo que "de ac&aacute; a poco tiempo, si volver&iacute;a (...), hay que organizar como Venezuela milicias armadas del pueblo".</p>
+<p>Morales consider&oacute; "un error garrafal" no haber tenido "un plan B" para defender su gobierno, que se desmoron&oacute; tras un mot&iacute;n policial y la declaraci&oacute;n p&uacute;blica del mando de las fuerzas armadas para que declinara el cargo que ostent&oacute; durante casi 14 a&ntilde;os.</p>
+<p>"&iquest;Por qu&eacute; este golpe de Estado? Entre los movimientos sociales y el gobierno [que presid&iacute;a] hemos reconocido (...), mucho nos hemos confiado; un error garrafal, no ten&iacute;amos un plan B", sostuvo.</p>
+<p>Las declaraciones de Morales, sobre quien pesa orden de detenci&oacute;n emitida por la fiscal&iacute;a de Bolivia tras una denuncia por "sedici&oacute;n y terrorismo", podr&iacute;an agravar su caso, dijo Israel Alanoca, viceministro del gobierno de Jeanine &Aacute;&ntilde;ez, que se proclam&oacute; al frente del Ejecutivo boliviano.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>"Ya existe un proceso en curso y un mandamiento de aprehensi&oacute;n por los delitos de sedici&oacute;n, terrorismo y financiamiento al terrorismo en contra de Morales, lo que haga se sumar&aacute; al proceso y puede haber incluso agravantes", dijo Alanoca, viceministro de Coordinaci&oacute;n Gubernamental.</p>
+<p>Su principal rival en las elecciones de octubre, el expresidente Carlos Mesa tuite&oacute; que Morales "primero quiso cercar las ciudades y ahora sugiere armar grupos irregulares y violentos para enfrentar a los bolivianos y a las FFAA".&nbsp;</p>
+<p>Mesa hac&iacute;a referencia a la acusaci&oacute;n del gobierno de &Aacute;&ntilde;ez sobre un audio que le atribuye a Morales, donde una voz instruye a un dirigente cocalero a sitiar las ciudades y cortar el suministro de comida.</p>
+<p>"Estas amenazas recurrentes muestran las verdaderos intenciones" de Morales, dijo Mesa.</p>
+<p>En Venezuela, unos 3,2 millones de civiles integran la Milicia, un cuerpo anexado a la Fuerza Armada creado por el fallecido mandatario Hugo Ch&aacute;vez, fuerte aliado de Morales y padre pol&iacute;tico del actual presidente Nicol&aacute;s Maduro.</p>
+<p>Tras dimitir el 10 de noviembre pasado, Morales se refugi&oacute; d&iacute;as despu&eacute;s primero en M&eacute;xico y hace un mes en Argentina.&nbsp;</p>
+<p>Un gobierno provisional encabezado por la derechista Jeanine &Aacute;&ntilde;ez tom&oacute; su lugar para llamar a nuevas elecciones,</p>
+<p>Tras la anulaci&oacute;n de los comicios de octubre por indicios de fraude, Bolivia celebrar&aacute; nuevas elecciones el 3 de mayo, sin Morales como candidato y dirigidas por un renovado Tribunal Supremo Electoral.</p>
+}
+title4 Marcha de mujeres recrimina a presidente de Guatemala muerte de menores en incendio
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Decenas de mujeres recriminaron este domingo en una protesta al presidente guatemalteco Jimmy Morales, quien dejar&aacute; el cargo el martes, la muerte de 41 menores en un incendio ocurrido en marzo de 2017 en un refugio estatal, una tragedia que sacudi&oacute; su administraci&oacute;n.</p>
+<p>"Jimmy Morales es un asesino y un asesino impune", dijo a la AFP Brenda Hern&aacute;ndez, una de las participantes en la manifestaci&oacute;n frente al Palacio Nacional, en el centro capitalino.</p>
+<p>El grupo de mujeres vestidas de negro y portando pa&ntilde;uelos con los nombres de las 41 v&iacute;ctimas mortales del incendio lanz&oacute; consignas contra Morales, a quien se&ntilde;alan como el principal responsable de la tragedia que dej&oacute; otras 15 menores heridas.&nbsp;</p>
+<p>Hern&aacute;ndez, quien hac&iacute;a sonar un sart&eacute;n, pidi&oacute; justicia por lo que considera uno de los "cr&iacute;menes m&aacute;s atroces" ocurrido en el pa&iacute;s durante la era democr&aacute;tica, iniciada en 1985 tras el fin de gobiernos militares.&nbsp;</p>
+<p>El siniestro en el Hogar Seguro Virgen de la Asunci&oacute;n, en el municipio de San Jos&eacute; Pinula, al este de Ciudad de Guatemala, ocurri&oacute; el 8 de marzo de 2017 luego de que las menores incendiaron colchonetas en un sal&oacute;n donde fueron encerradas bajo llave luego de que intentaron escapar.&nbsp;</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Seg&uacute;n las investigaciones, las ni&ntilde;as y adolescentes protestaban por malos tratos e incluso explotaci&oacute;n sexual en el centro. Altos exfuncionarios de gobierno a cargo del refugio, polic&iacute;as y una jueza, entre otros sindicados, son actualmente procesados por el hecho.&nbsp;</p>
+<p>Ada Valenzuela, de la Uni&oacute;n Nacional de Mujeres Guatemaltecas, a&ntilde;adi&oacute; que existen indicios de que el presidente Morales "dio ordenes" para retener a las menores que murieron posteriormente. &nbsp;</p>
+<p>"Exigimos que Jimmy Morales sea juzgado" al perder su inmunidad como presidente, agreg&oacute; Valenzuela. La justicia rechaz&oacute; levantar los fueros al mandatario para que sea investigado por la fiscal&iacute;a.</p>
+<p>Morales, un ex c&oacute;mico de televisi&oacute;n, ser&aacute; relevado por el m&eacute;dico de derecha Alejandro Giammattei, aunque el mismo martes jurar&aacute; como diputado al Parlamento Centroamericano, puesto que tambi&eacute;n goza de inmunidad.&nbsp;</p>
+}

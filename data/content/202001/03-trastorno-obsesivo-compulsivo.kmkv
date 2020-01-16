@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle CIENCIA:
     title TRASTORNO <b>OBSESIVO<br> COMPULSIVO<b>
-    text1 {
-CAÓTICO, ANGUSTIANTE, COMO UNA PESADILLA INCESANTE: ASÍ ES VIVIR CON ESTE DIAGNÓSTICO.
-}
-    text2 {
-POR ROBERTO MORALES
-}
+    text1 CAÓTICO, ANGUSTIANTE, COMO UNA PESADILLA INCESANTE: ASÍ ES VIVIR CON ESTE DIAGNÓSTICO.
+    text2 POR ROBERTO MORALES
     highlightColor #f4b6a5
 }
 media{kmkv} {

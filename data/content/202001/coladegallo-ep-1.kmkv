@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle COLA DE GALLO
     title ¿COMO HACER? <b>LONG ISLAND ICE TEA<b> PERFECTO
-    text1 {
-En este episodio de Cola De Gallo te enseñamos a hacer el "Long Island Ice Tea", perfecto.
-}
-    text2 {
-feat. Jose Daniel Pacheco
-}
+    text1 En este episodio de Cola De Gallo te enseñamos a hacer el "Long Island Ice Tea", perfecto.
+    text2 feat. Jose Daniel Pacheco
     highlightColor #ffff00
 }
 media{kmkv} {

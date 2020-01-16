@@ -2,12 +2,8 @@ type video
 featured{kmkv} {
     pretitle ESTO ES:
     title <b>NO</b> PASA<br>NADA<b>.</b>
-    text1 {
-LA PLATAFORMA PREMIER DE CONTENIDO ORIGINAL, REPORTAJES Y NOTICIAS EN ESPAÑOL PARA Y POR UNA NUEVA GENERACIÓN
-}
-    text2 {
-VER VIDEO
-}
+    text1 LA PLATAFORMA PREMIER DE CONTENIDO ORIGINAL, REPORTAJES Y NOTICIAS EN ESPAÑOL PARA Y POR UNA NUEVA GENERACIÓN
+    text2 VER VIDEO
     highlightColor #36fffd
 }
 media{kmkv} {

@@ -2,12 +2,8 @@ type video
 featured{kmkv} {
     pretitle NUEVO VIDEO:
     title TAILOR TO SUIT<br><b>MAGPIE JAY *</b>
-    text1 {
-PRODUCIDO POR NO PASA NADA
-}
-    text2 {
-VER VIDEO
-}
+    text1 PRODUCIDO POR NO PASA NADA
+    text2 VER VIDEO
     highlightColor #ff613c
 }
 media{kmkv} {

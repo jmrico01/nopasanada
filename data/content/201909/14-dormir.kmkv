@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle EDITORIAL:
     title <b>DORMIR</b> NO<br>ESTÁ DE MODA
-    text1 {
-LOS ESTRAGOS DE LA DEPRIVACIÓN DE SUEÑO EN EL CUERPO.<br>POR DIANA GONZÁLEZ
-}
-    text2 {
-PRIMERA PARTE DE NUESTRO ESPECIAL SOBRE EL SUEÑO
-}
+    text1 LOS ESTRAGOS DE LA DEPRIVACIÓN DE SUEÑO EN EL CUERPO.<br>POR DIANA GONZÁLEZ
+    text2 PRIMERA PARTE DE NUESTRO ESPECIAL SOBRE EL SUEÑO
     highlightColor #ff613c
 }
 media{kmkv} {

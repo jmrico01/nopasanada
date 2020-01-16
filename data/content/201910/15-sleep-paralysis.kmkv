@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle MEDICINA:
     title SLEEP<br><b>PARALYSIS.</b>
-    text1 {
-¿QUÉ SE SABE SOBRE LA PARÁLISIS DEL SUEÑO, Y CÓMO SE PUEDE EVITAR?
-}
-    text2 {
-POR DIANA GONZÁLEZ
-}
+    text1 ¿QUÉ SE SABE SOBRE LA PARÁLISIS DEL SUEÑO, Y CÓMO SE PUEDE EVITAR?
+    text2 POR DIANA GONZÁLEZ
     highlightColor #ff613c
 }
 media{kmkv} {

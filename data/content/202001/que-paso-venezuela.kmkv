@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle ÚLTIMA HORA:
     title ¿Qué pasó en Venezuela?
-    text1 {
-LAS ÚLTIMAS 48 HORAS HAN SIDO EXPLOSIVAS EN VENEZUELA. ¿QUE HA PASADO?
-}
-    text2 {
-POR NEHOMAR A. HERNÁNDEZ
-}
+    text1 LAS ÚLTIMAS 48 HORAS HAN SIDO EXPLOSIVAS EN VENEZUELA. ¿QUE HA PASADO?
+    text2 POR NEHOMAR A. HERNÁNDEZ
     highlightColor #00ffff
 }
 media{kmkv} {

@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle ULTIMA HORA:
     title TRUMP <b>IMPEACHMENT<b>
-    text1 {
-ES OFICIAL: PELOSI PIDE ARTÍCULOS DE JUICIO POLÍTICO CONTRA TRUMP.
-}
-    text2 {
-POR AFP Y NO PASA NADA NOTICIAS
-}
+    text1 ES OFICIAL: PELOSI PIDE ARTÍCULOS DE JUICIO POLÍTICO CONTRA TRUMP.
+    text2 POR AFP Y NO PASA NADA NOTICIAS
     highlightColor #f4b6a5
 }
 media{kmkv} {

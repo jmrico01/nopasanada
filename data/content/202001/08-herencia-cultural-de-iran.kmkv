@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle CULTURA:
     title 4 SITIOS DE <b>HERENCIA CULTURAL<b> IRANÍ
-    text1 {
-UNA MUESTRA DE LO QUE SE PERDERÍA SI TRUMP LLEVARA A CABO SU AMENAZA DE GUERRA.
-}
-    text2 {
-POR NPN CULTURA
-}
+    text1 UNA MUESTRA DE LO QUE SE PERDERÍA SI TRUMP LLEVARA A CABO SU AMENAZA DE GUERRA.
+    text2 POR NPN CULTURA
     highlightColor #ffff00
 }
 media{kmkv} {

@@ -2,12 +2,8 @@ type video
 featured{kmkv} {
     pretitle SERIE:
     title PILOTOS <b>*</><br><b>EP 1.</b>
-    text1 {
-CONOCEMOS A UNA FAMILIA EN COSTA RICA QUE HA TRIUNFADO EN EL DEPORTE DE ENDURO POR MÁS DE 50 AÑOS.
-}
-    text2 {
-VER TRAILER
-}
+    text1 CONOCEMOS A UNA FAMILIA EN COSTA RICA QUE HA TRIUNFADO EN EL DEPORTE DE ENDURO POR MÁS DE 50 AÑOS.
+    text2 VER TRAILER
     highlightColor #ff613c
 }
 media{kmkv} {

@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle NOTICIAS:
     title PESO CHILENO
-    text1 {
-PESO CHILENO CAE A MÍNIMO HISTÓRICO DEBIDO A LA CRISIS
-}
-    text2 {
-POR NO PASA NADA NOTICIAS
-}
+    text1 PESO CHILENO CAE A MÍNIMO HISTÓRICO DEBIDO A LA CRISIS
+    text2 POR NO PASA NADA NOTICIAS
     highlightColor #ff613c
 }
 media{kmkv} {

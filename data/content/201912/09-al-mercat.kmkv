@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle RECOMENADO:
     title RESTAURANTE<br><b>AL MERCAT<b>
-    text1 {
-Una columna de La Guida dedicada a destacar las cosas favoritas de nuestros sabiondos editores para comer, beber y comprar.
-}
-    text2 {
-POR ADRIANO C.M
-}
+    text1 Una columna de La Guida dedicada a destacar las cosas favoritas de nuestros sabiondos editores para comer, beber y comprar.
+    text2 POR ADRIANO C.M
     highlightColor #f4b6a5
 }
 media{kmkv} {

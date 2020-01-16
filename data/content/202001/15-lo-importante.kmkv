@@ -1,0 +1,114 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>15-01-20. *</b>
+    text1 4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+    text2 CURADAS POR<br>NO PASA NADA NOTICIAS
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/15-lo-importante.jpg
+    poster{image} /images/202001/posters/15-lo-importante.jpg
+    header-desktop1{image} /images/202001/15-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/202001/15-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/202001/15-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/202001/15-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/202001/15-lo-importante/square1.jpg
+    header-mobile2{image} /images/202001/15-lo-importante/square2.jpg
+    header-mobile3{image} /images/202001/15-lo-importante/square3.jpg
+    header-mobile4{image} /images/202001/15-lo-importante/square4.jpg
+}
+tags noticias, home
+title Lo Importante: 15-01-20
+description 4 historias importantes de las más recientes noticias internacionales
+day 15
+month 01
+year 2020
+color #ffff00
+title1 Bancos sufren la ira popular durante los enfrentamientos nocturnos en Beirut
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>La ira popular se manifest&oacute; contra los bancos en L&iacute;bano, pa&iacute;s sumido en una crisis econ&oacute;mica y un callej&oacute;n sin salida pol&iacute;tico, con actos de vandalismo contra establecimientos que adoptan restricciones cada vez m&aacute;s severas contra sus clientes.</p>
+<p>Las acciones de violencia en el distrito comercial de Hamra comenzaron el martes por la noche despu&eacute;s de los enfrentamientos frente al Banco Central, cuando la polic&iacute;a dispar&oacute; gases lacrim&oacute;genos y carg&oacute; a cientos de manifestantes para obligarlos a alejarse. Estos &uacute;ltimos respondieron lanzando piedras.</p>
+<p>Las fuerzas de seguridad anunciaron 59 detenciones, mientras que los enfrentamientos causaron, al menos, 37 heridos entre civiles y polic&iacute;as, inform&oacute; un portavoz de la Cruz Roja libanesa a la AFP.</p>
+<p>El martes por la noche, los manifestantes rompieron m&aacute;quinas expendedoras de billetes, incendiaron contenedores de basura y atacaron bancos, usando extintores de incendios, tablas de madera o postes del metal de los paneles de se&ntilde;alizaci&oacute;n para romper las ventanas.</p>
+<p>El mi&eacute;rcoles por la ma&ntilde;ana, las agencias bancarias volvieron a abrir a pesar de sus fachadas da&ntilde;adas, constat&oacute; un corresponsal de la AFP. Los empleados recog&iacute;an los cristales rotos o trataban de limpiar la pintura de los graffitis, mientras que algunos inspeccionaban los distribuidores da&ntilde;ados y las cortinas de hierro.</p>
+<p>Los empleados municipales tambi&eacute;n sustituyeron los sem&aacute;foros demolidos por los manifestantes.</p>
+<p>Los bancos est&aacute;n cristalizando gran parte de la ira p&uacute;blica debido, entre otras cosas, a las restricciones cada vez m&aacute;s severas impuestas desde septiembre.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-&nbsp;</strong></p>
+<p>En medio de la escasez del d&oacute;lar, utilizado en el L&iacute;bano al igual que la moneda nacional, los bancos impusieron restricciones a los retiros (limitados a unos 1.000 d&oacute;lares al mes), transferencias y conversiones en d&oacute;lares, causando largas colas y a veces altercados entre clientes y cajeros.</p>
+<p>Oficialmente, la moneda libanesa, atada al d&oacute;lar desde 1997, mantiene la misma cotizaci&oacute;n fijada en 1.507 libras por d&oacute;lar.</p>
+<p>Pero en las casas de cambio perdi&oacute; casi la mitad de su valor, a veces hasta 2.500 libras por d&oacute;lar.</p>
+<p>Los ahorristas acusan a los bancos de tomar su dinero como reh&eacute;n, al mismo tiempo que permiten a los pol&iacute;ticos y a los altos funcionarios efectuar transferencias al extraNjero.</p>
+<p>El Banco Central anunci&oacute; que estaba investigando fugas de capital. Tambi&eacute;n indic&oacute; que quer&iacute;a unificar y proporcionar una "cobertura legal" a las restricciones draconianas de los bancos.</p>
+<p>Despu&eacute;s de una pausa que coincidi&oacute; con las fiestas de fin de a&ntilde;o, las manifestaciones populares se reanudaron el s&aacute;bado. En las &uacute;ltimas semanas, s&oacute;lo se hab&iacute;an celebrado reuniones simb&oacute;licas y de menor magnitud, especialmente ante el Banco Central.&nbsp;</p>
+<p>La situaci&oacute;n se complica por el estancamiento pol&iacute;tico. Desde la dimisi&oacute;n a finales de octubre del primer ministro Saad Hariri, su gobierno, encargado de los asuntos corrientes, es acusado de inercia.</p>
+<p>Has&aacute;n Diab, nombrado su sucesor el 19 de diciembre, todav&iacute;a no form&oacute; un equipo. Si bien los participantes en las protestas callejeras exigen un gabinete compuesto exclusivamente por tecn&oacute;cratas independientes, los principales partidos pol&iacute;ticos siguen negociando para preservar su representaci&oacute;n.</p>
+<p>El coordinador especial de las Naciones Unidas para el L&iacute;bano, Jan Kubis, lament&oacute; las "manifestaciones cada vez m&aacute;s violentas" y la "econom&iacute;a en ca&iacute;da libre".</p>
+}
+title2 Presidente iraní pide "unidad nacional" tras las protestas por el derribo del avión ucraniano
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>-&iquest;Qu&eacute; &nbsp;necesitas saber?-</strong></p>
+<p>El presidente iran&iacute;, Hasan Rohani, llam&oacute; este mi&eacute;rcoles a la "unidad nacional" y pidi&oacute; un cambio importante en la forma de gobernar en su pa&iacute;s, admitiendo impl&iacute;citamente que la cat&aacute;strofe del avi&oacute;n ucraniano derribado en Teher&aacute;n provoc&oacute; una crisis de confianza en las autoridades.</p>
+<p>El derribo del Boeing 737, provocado por un misil iran&iacute; el 8 de enero caus&oacute; 176 muertos. Las autoridades no reconocieron de inmediato su responsabilidad en la tragedia, lo que provoc&oacute; manifestaciones de ira contra el ejecutivo y una ola de indignaci&oacute;n desde el s&aacute;bado.&nbsp;</p>
+<p>Por su parte, el gu&iacute;a supremo iran&iacute;, Al&iacute; Jamenei, anunci&oacute; que dirigir&aacute; la gran oraci&oacute;n del viernes en Teher&aacute;n, anunci&oacute; este mi&eacute;rcoles la agencia oficial Irna.</p>
+<p>Aunque &eacute;l es el im&aacute;n oficial de la oraci&oacute;n de Teher&aacute;n, suele delegar la tarea en otros, y la &uacute;ltima vez que la ofici&oacute; fue el 3 de febrero de 2012, con ocasi&oacute;n del 33&ordm; aniversario del a Revoluci&oacute;n Isl&aacute;mica y en plena crisis internacional en torno al programa nuclear iran&iacute;.&nbsp;</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>La tragedia del avi&oacute;n tuvo lugar en un contexto de importantes tensiones entre la Rep&uacute;blica Isl&aacute;mica y Estados Unidos, que tocaron m&aacute;ximos con la eliminaci&oacute;n, el 3 de enero en Bagdad, del general Qasem Soleimani, art&iacute;fice de la estrategia iran&iacute; en Oriente Medio, en el ataque de un dron estadounidense.&nbsp;</p>
+<p>En represalia, Ir&aacute;n lanz&oacute; misiles contra objetivos estadounidenses en Irak, lo que caus&oacute; importantes da&ntilde;os materiales pero no dej&oacute; muertos entre las filas estadounidenses, seg&uacute;n Washington.</p>
+<p>Horas despu&eacute;s, el vuelo PS752 de UIA se estrellaba. Pero hubo que esperar tres d&iacute;as hasta que las fuerzas armadas iran&iacute;es admitieron que hab&iacute;an abatido "por error" el avi&oacute;n.&nbsp;</p>
+<p>Antes de ello, el gobierno -que afirma que no fue informado de lo sucedido hasta el viernes- hab&iacute;a desmentido categ&oacute;ricamente que el Boeing hubiera sido derribado por un misil, tal y como aseguraba el gobierno canadiense desde el mi&eacute;rcoles por la noche.</p>
+<p>Haciendo alusi&oacute;n a una serie de acontecimientos "tr&aacute;gicos", Rohani declar&oacute; que esto deber&iacute;a conducir a "una gran decisi&oacute;n" dentro del sistema pol&iacute;tico iran&iacute;.&nbsp;</p>
+<p>"Y esta decisi&oacute;n importante", a&ntilde;adi&oacute;, "es la reconciliaci&oacute;n nacional".&nbsp;</p>
+<p>Las elecciones legislativas, previstas para el 21 de febrero, "deben ser la primera etapa", declar&oacute; el presidente, en un discurso ofrecido despu&eacute;s de un consejo de ministros.</p>
+<p>"Permitan a todos los partidos y grupos presentarse [...] estoy seguro de que no tienen nada que perder", declar&oacute;, dirigi&eacute;ndose impl&iacute;citamente al Consejo de los Guardianes, que se encarga del control de las elecciones, y que suele ser acusado por los reformistas de excederse a la hora de seleccionar candidatos.</p>
+<p>"El pa&iacute;s no puede estar gobernado por una &uacute;nica ala pol&iacute;tica. El pa&iacute;s le pertenece a todo el mundo", recalc&oacute;. "El pueblo quiere diversidad".</p>
+<p>El drama del avi&oacute;n ucraniano dio lugar a manifestaciones masivas en las calles y en internet, en las que los ciudadanos daban cuenta de su descontento con el gobierno y desconfianza en las autoridades, a las que acusan de haber querido esconder la verdad.&nbsp;</p>
+<p>"Tuvimos a gente en las calles de Teher&aacute;n manifest&aacute;ndose contra el hecho de que les mentimos durante dos o tres d&iacute;as", admiti&oacute; por su parte el ministro de Relaciones Exteriores, Mohammad Javad Zarif, de visita en India.</p>
+<p><br /><strong>-"Sinceridad, integridad y confianza"-</strong></p>
+<p>"La gente quiere la garant&iacute;a de que las autoridades la trata con sinceridad, integridad y confianza", sostuvo Rohani, agregando que "el pueblo es nuestro amo" y "nosotros somos sus servidores. El servidor debe dirigirse al amo con modestia, precisi&oacute;n y honestidad".</p>
+<p>El presidente inst&oacute; a las fuerzas armadas a explicar lo ocurrido entre el accidente y el momento en que se anunci&oacute; la verdad, para que la gente "entienda que no quer&iacute;an esconder nada", agreg&oacute;.</p>
+<p>Asimismo, Rohani les exigi&oacute; "que pidan disculpas" si hubo un "retraso" en la transmisi&oacute;n de la informaci&oacute;n.&nbsp;</p>
+<p>Por otro lado, el presidente iran&iacute; carg&oacute; contra los occidentales, empezando por Estados Unidos, a quienes culp&oacute; de promover la inseguridad en Oriente Medio con una serie de "errores", como el asesinato de Soleimani, las intervenciones militares en Irak, Yemen y Libia, y las sanciones de Estados Unidos contra el petr&oacute;leo iran&iacute;.</p>
+<p>Tambi&eacute;n el rey de Jordania, Abadal&aacute; II, expres&oacute; su temor a que la tensi&oacute;n entre Estados Unidos e Ir&aacute;n degenere en un "caos indescriptible".&nbsp;</p>
+<p>"Una guerra total hace peligrar la estabilidad de toda la regi&oacute;n. Adem&aacute;s, podr&iacute;a perturbar masivamente el conjunto de la econom&iacute;a mundial (...), pero tambi&eacute;n provocar un resurgimiento del terrorismo en todo el mundo", advirti&oacute; el monarca durante un discurso en el Parlamento Europeo, en la ciudad francesa de Estrasburgo.</p>
+}
+title3 Una nueva caravana de migrantes sale de Honduras hacia EEUU
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>-&iquest;Qu&eacute; &nbsp;necesitas saber?-</strong></p>
+<p>Cientos de hondure&ntilde;os partieron desde la medianoche del martes en una nueva caravana migratoria en busca de mejores condiciones de vida en Estados Unidos, pese a las barreras impuestas por el presidente Donald Trump con colaboraci&oacute;n de los gobiernos centroamericanos.</p>
+<p>Con mochilas en la espalda, cerca de 1.000 personas, hombres y mujeres, algunos con ni&ntilde;os en brazos o en coches, se aglomeraron en la estaci&oacute;n de buses de San Pedro Sula, 180 km al norte de Tegucigalpa.</p>
+<p>Al filo de la medianoche, cerca de la mitad del contingente sali&oacute; de imprevisto caminando hacia Corinto, frontera hacia Guatemala.</p>
+<p>En el trayecto, grupos de hasta 70 personas subieron a camiones o veh&iacute;culos que ofrecieron llevarlos, mientras los dem&aacute;s avanzaban lentamente a pie a la orilla de la carretera.</p>
+<p>Los migrantes caminaban por la carretera asfaltada a la orilla del mar Caribe mientras Polic&iacute;as y militares los segu&iacute;an de cerca en veh&iacute;culos y retenes.</p>
+<p>"Ya no puedo m&aacute;s, no tengo ni cama donde dormir", dijo a la AFP una mujer de 28 a&ntilde;os que se identific&oacute; como Yoly Sabill&oacute;n, originaria del departamento de Santa B&aacute;rbara, noroeste, y madre de tres hijos de 13, 7 y 3 a&ntilde;os.</p>
+<p>"No hay trabajo aqu&iacute;, el gobierno nos tiene abandonados", se quej&oacute; Antony G&oacute;mez, de 26 a&ntilde;os, oriundo de San Luis, tambi&eacute;n en Santa B&aacute;rbara, mientras acompa&ntilde;aba a Yoly con otros dos migrantes.</p>
+<p>Antes del amanecer, partieron los dem&aacute;s que quedaban en la terminal de transporte.</p>
+<p>"Buscamos refugio: En Honduras nos matan", dec&iacute;a un afiche de la convocatoria a la "caravana migrante" que circul&oacute; por las redes sociales en las &uacute;ltimas semanas.</p>
+<p><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>La modalidad de migrar en caravanas comenz&oacute; en Honduras el 14 de octubre de 2018, con unas 2.000 personas que hu&iacute;an del desempleo y la violencia de las sangrientas pandillas y narcotraficantes que dominan vastas zonas del territorio hondure&ntilde;o.</p>
+<p>Al &eacute;xodo masivo se sumaron salvadore&ntilde;os, guatemaltecos y mexicanos, lo que provoc&oacute; la ira del presidente Trump, quien despach&oacute; soldados a reforzar el cord&oacute;n policial de fronteras para bloquearles el paso.</p>
+<p>La colaboraci&oacute;n de los gobiernos de El Salvador, Guatemala y M&eacute;xico para dificultar los &eacute;xodos hab&iacute;an disuadido a los migrantes, por lo que sorprendi&oacute; que acudieran a la nueva convocatoria.&nbsp;</p>
+<p>Unos 30.000 hondure&ntilde;os que llegaron en caravanas o en grupos menores permanecen en M&eacute;xico en espera de la respuesta de su pedido de asilo Estados Unidos, seg&uacute;n la canciller&iacute;a de Honduras.&nbsp;</p>
+}
+title4 Diputados de oposición de Venezuela denuncian que grupos chavistas disparan contra ellos
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Diputados de la mayor&iacute;a opositora del Parlamento de Venezuela denunciaron que grupos civiles afines al chavismo, llamados "colectivos", dispararon este mi&eacute;rcoles contra ellos cuando intentaban llegar en autom&oacute;viles al Palacio Legislativo en el centro de Caracas, sin que se reportaran heridos.</p>
+<p>"Colectivos armados disparan contra nosotros", escribi&oacute; en Twitter Delsa Sol&oacute;rzano, integrante de una comisi&oacute;n de legisladores opositores que iba al lugar. "Nos disparan en el carro".</p>
+<p>Sol&oacute;rzano se dirig&iacute;a en varios veh&iacute;culos, junto a otros congresistas, hacia la sede de la unicameral Asamblea Nacional, cercada por militares y polic&iacute;as desde temprano. Periodistas de la AFP escucharon detonaciones en los alrededores.</p>
+<p>La Asamblea Nacional, que difundi&oacute; fotos de camionetas con vidrios destrozados denunciando un "atentado", anunci&oacute; que una sesi&oacute;n que hab&iacute;a convocado el l&iacute;der legislativo Juan Guaid&oacute; se realizar&aacute; finalmente en un anfiteatro en El Hatillo, en el este de la capital venezolana.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Guaid&oacute;, jefe del Parlamento reconocido como presidente encargado de Venezuela por medio centenar de pa&iacute;ses encabezados por Estados Unidos, denunci&oacute; el "secuestro" de la sede del Parlamento por militares, polic&iacute;as y grupos civiles del chavismo.</p>
+<p>"Se revelan como lo que son: una dictadura que secuestr&oacute; el Palacio Federal (Legislativo)", escribi&oacute; en Twitter.</p>
+<p>Guaid&oacute; convoc&oacute; a sesi&oacute;n para este mi&eacute;rcoles con motivo del D&iacute;a del Maestro, en momentos en los que el profesorado reclama mejoras ante los bajos salarios y las pobres condiciones de trabajo.</p>
+<p>Sin embargo, el presidente de la oficialista Asamblea Constituyente que rige en el pa&iacute;s, Diosdado Cabello, llam&oacute; a una sesi&oacute;n de ese &oacute;rgano el mismo d&iacute;a y a la misma hora.</p>
+<p>El oficialismo desconoce las decisiones del Parlamento despu&eacute;s de que fuese declarado en desacato en 2016, poco despu&eacute;s de que la oposici&oacute;n asumiese su control. La Constituyente tom&oacute; en la pr&aacute;ctica sus atribuciones.</p>
+<p>"Si nos impiden, como han venido haciendo, el acceso (...), sesionaremos en cualquier parte", hab&iacute;a se&ntilde;alado el legislador Carlos Prosperi a la prensa.</p>
+<p>Guaid&oacute; fue ratificado el 5 de enero por 100 diputados como jefe del Parlamento, cargo desde el cual reclam&oacute; la presidencia interina hace un a&ntilde;o luego que el Legislativo declarara "usurpador" a Maduro acus&aacute;ndole de haber sido reelegido fraudulentamente en 2018.</p>
+<p>Ese d&iacute;a, un congresista que rompi&oacute; con Guaid&oacute; en diciembre despu&eacute;s de ser acusado de corrupci&oacute;n, Luis Parra, fue proclamado en paralelo como presidente de la Asamblea Nacional con respaldo chavista, en una sesi&oacute;n sin Guaid&oacute; y otros legisladores, a quienes les bloquearon la entrada.</p>
+}

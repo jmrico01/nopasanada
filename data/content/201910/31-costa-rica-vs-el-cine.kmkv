@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle OPINIÓN:
     title <b>COSTA RICA</b><br><b>VS.</b> EL CINE<b>.</b>
-    text1 {
-LO QUE DICE EL RECORTE A LA PRODUCCIÓN CINEMATOGRÁFICA SOBRE LA SOCIEDAD COSTARRICENSE.
-}
-    text2 {
-POR LUISA MORA FERNÁNDEZ
-}
+    text1 LO QUE DICE EL RECORTE A LA PRODUCCIÓN CINEMATOGRÁFICA SOBRE LA SOCIEDAD COSTARRICENSE.
+    text2 POR LUISA MORA FERNÁNDEZ
     highlightColor #ff613c
 }
 media{kmkv} {

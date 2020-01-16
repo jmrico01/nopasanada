@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle NOTICIAS:
     title Todo lo que necesita saber sobre los ataques de Irán contra bases de EE.UU
-    text1 {
-Iran tuvo una respuesta sobre la muerte del general Soleimani: esto es lo que necesita saber
-}
-    text2 {
-POR NPN NOTICIAS
-}
+    text1 Iran tuvo una respuesta sobre la muerte del general Soleimani: esto es lo que necesita saber
+    text2 POR NPN NOTICIAS
     highlightColor #ffff00
 }
 media{kmkv} {

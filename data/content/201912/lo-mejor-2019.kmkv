@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle RECOMENDADO:
     title Lo Mejor: una guía a lugares, platos, bebidas y más...
-    text1 {
-Un repaso de los mejores platos, tragos, chef's, restaurantes y más... en Costa Rica durante este 2019.
-}
-    text2 {
-POR DIENGO CHOU
-}
+    text1 Un repaso de los mejores platos, tragos, chef's, restaurantes y más... en Costa Rica durante este 2019.
+    text2 POR DIENGO CHOU
     highlightColor #f4b6a5
 }
 media{kmkv} {

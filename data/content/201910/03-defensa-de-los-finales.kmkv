@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle CINE & TV:
     title FRANQUICIAS &<br>SECUELAS<b>. *</b>
-    text1 {
-POR QUÉ LAS MEJORES HISTORIAS SON LAS QUE TERMINAN.
-}
-    text2 {
-POR MARCO GOLCHER.
-}
+    text1 POR QUÉ LAS MEJORES HISTORIAS SON LAS QUE TERMINAN.
+    text2 POR MARCO GOLCHER.
     highlightColor #ff613c
 }
 media{kmkv} {

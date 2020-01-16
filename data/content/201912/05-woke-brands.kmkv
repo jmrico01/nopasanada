@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle OPINIÓN:
     title MARCAS <b>"WOKE"<b>
-    text1 {
-AL FIN Y AL CABO, ESTÁN TRATANDO DE VENDERNOS UN PRODUCTO.
-}
-    text2 {
-POR LUCÍA MERCEDES NAVARRA
-}
+    text1 AL FIN Y AL CABO, ESTÁN TRATANDO DE VENDERNOS UN PRODUCTO.
+    text2 POR LUCÍA MERCEDES NAVARRA
     highlightColor #f4b6a5
 }
 media{kmkv} {

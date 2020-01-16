@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle TERCERA PERSONA:
     title <b>FÉLIX</b><br>EN EL MANGLAR<b>.</b>
-    text1 {
-UN DÍA DOCUMENTANDO LOS ECOSISTEMAS AMENAZADOS DE GUANACASTE PROFUNDO.
-}
-    text2 {
-POR LUISA MORA FERNÁNDEZ.
-}
+    text1 UN DÍA DOCUMENTANDO LOS ECOSISTEMAS AMENAZADOS DE GUANACASTE PROFUNDO.
+    text2 POR LUISA MORA FERNÁNDEZ.
     highlightColor #ff613c
 }
 media{kmkv} {

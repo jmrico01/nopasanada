@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle CULTURA:
     title STREETWEAR
-    text1 {
-EL LEGADO DE STÜSSY
-}
-    text2 {
-POR MAURICIO FONSECA
-}
+    text1 EL LEGADO DE STÜSSY
+    text2 POR MAURICIO FONSECA
     highlightColor #ff613c
 }
 media{kmkv} {

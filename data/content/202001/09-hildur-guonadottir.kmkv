@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle CULTURA:
     title HILDUR <b>GUÐNADÓTTIR<b>
-    text1 {
-LA COMPOSITORA DETRÁS DE LOS MEJORES SCORES ORIGINALES DEL 2019.
-}
-    text2 {
-POR LUISA MORA FERNÁNDEZ
-}
+    text1 LA COMPOSITORA DETRÁS DE LOS MEJORES SCORES ORIGINALES DEL 2019.
+    text2 POR LUISA MORA FERNÁNDEZ
     highlightColor #00ffff
 }
 media{kmkv} {

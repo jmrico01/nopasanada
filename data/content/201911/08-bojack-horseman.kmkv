@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle CINE Y TV:
     title BOJACK<br><b>HORSEMAN:</b>
-    text1 {
-LO QUE LA SERIE NOS ENSEÑA SOBRE LOS MACHOS TÓXICOS EN EL CINE.
-}
-    text2 {
-POR MARCO GÖLCHER
-}
+    text1 LO QUE LA SERIE NOS ENSEÑA SOBRE LOS MACHOS TÓXICOS EN EL CINE.
+    text2 POR MARCO GÖLCHER
     highlightColor #ff613c
 }
 media{kmkv} {

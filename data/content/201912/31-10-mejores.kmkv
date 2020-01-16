@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle 10 cancionesa
     title PELÍCULAS <b><br>SUBESTIMADAS<b>
-    text1 {
-LAS 10 MEJORES CINTAS DE LA DÉCADA… QUE SEGURAMENTE NO VISTE.
-}
-    text2 {
-POR MARCO GOLCHER
-}
+    text1 LAS 10 MEJORES CINTAS DE LA DÉCADA… QUE SEGURAMENTE NO VISTE.
+    text2 POR MARCO GOLCHER
     highlightColor #f4b6a5
 }
 media{kmkv} {

@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle LA GUIDA:
     title LOS 5 DESAYUNOS QUE DEBE PROBAR EN SAN JOSÉ<br><b>DICIEMBRE 2019<b>
-    text1 {
-Recomendado: Una columna de La Guida dedicada a destacar las cosas favoritas de nuestros sabiondos editores para comer, beber y comprar.
-}
-    text2 {
-POR ALBERTO GATGENS
-}
+    text1 Recomendado: Una columna de La Guida dedicada a destacar las cosas favoritas de nuestros sabiondos editores para comer, beber y comprar.
+    text2 POR ALBERTO GATGENS
     highlightColor #ffe11a
 }
 media{kmkv} {

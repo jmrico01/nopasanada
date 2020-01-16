@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle NOTICIAS:
     title EN UN<br><b>LÍBANO PARALIZADO</b>
-    text1 {
-MANIFESTANTES REFUERZAN SUS BLOQUEOS EN UN LÍBANO PARALIZADO.
-}
-    text2 {
-POR NO PASA NADA NOTICIAS Y AFP
-}
+    text1 MANIFESTANTES REFUERZAN SUS BLOQUEOS EN UN LÍBANO PARALIZADO.
+    text2 POR NO PASA NADA NOTICIAS Y AFP
     highlightColor #ff613c
 }
 media{kmkv} {

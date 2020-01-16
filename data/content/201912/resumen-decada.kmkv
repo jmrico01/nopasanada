@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle FELIZ AÑO:
     title <b>BREVE HISTORIA<b><br>DE LA DÉCADA
-    text1 {
-¿QUÉ PASÓ DURANTE LOS 2010S? UN RESUMEN.
-}
-    text2 {
-POR NPN EDITORIA
-}
+    text1 ¿QUÉ PASÓ DURANTE LOS 2010S? UN RESUMEN.
+    text2 POR NPN EDITORIA
     highlightColor #f4b6a5
 }
 media{kmkv} {

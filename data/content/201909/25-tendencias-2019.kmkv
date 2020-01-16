@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle MODA:
     title FASHION TRENDS<br> <b>2019. *</b>
-    text1 {
-PATCHWORK, RAINCOATS, TYE DYES Y MÁS...
-}
-    text2 {
-¿BONITO O FEO? DEPENDE DE CÓMO SE USE<br>POR PAULINA JOARISTI
-}
+    text1 PATCHWORK, RAINCOATS, TYE DYES Y MÁS...
+    text2 ¿BONITO O FEO? DEPENDE DE CÓMO SE USE<br>POR PAULINA JOARISTI
     highlightColor #ff613c
 }
 media{kmkv} {

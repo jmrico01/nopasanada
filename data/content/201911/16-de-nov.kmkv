@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle EN VENEZUELA
     title ESCRIBIR<br><b>'ARRECHO'</b>
-    text1 {
-LOS TRAFICANTES DE ESPERANZA LO HICIERON DE NUEVO
-}
-    text2 {
-POR JOVEL ÁLVAREZ
-}
+    text1 LOS TRAFICANTES DE ESPERANZA LO HICIERON DE NUEVO
+    text2 POR JOVEL ÁLVAREZ
     highlightColor #ff613c
 }
 media{kmkv} {

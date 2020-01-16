@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle CULTURA:
     title <b>JESUS</b><br>IS KING<b>.</b>
-    text1 {
-KANYE WEST ATRASA LANZAMIENTO DE JESUS IS KING.
-}
-    text2 {
-POR PIETRO CERCONE
-}
+    text1 KANYE WEST ATRASA LANZAMIENTO DE JESUS IS KING.
+    text2 POR PIETRO CERCONE
     highlightColor #ff613c
 }
 media{kmkv} {

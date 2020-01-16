@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle HISTORIAS:
     title LUCES DE <br><b>ESTOCOLMO<b>
-    text1 {
-CÓMO CELEBRAN LA NAVIDAD EN UNO DE LOS PAÍSES MÁS SECULARES DEL MUNDO.
-}
-    text2 {
-POR LUISA MORA FERNÁNDEZ
-}
+    text1 CÓMO CELEBRAN LA NAVIDAD EN UNO DE LOS PAÍSES MÁS SECULARES DEL MUNDO.
+    text2 POR LUISA MORA FERNÁNDEZ
     highlightColor #f4b6a5
 }
 media{kmkv} {

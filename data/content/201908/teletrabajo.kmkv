@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle OPINIÓN:
     title LA <b>LEY</b> DEL <b>*</b><br>TELETRABAJO</b>
-    text1 {
-LA NUEVA LEY PARA REGULAR EL TELETRABAJO ES UN RESPIRO PARA EMPLEADOS, EMPRESAS - Y EL PAÍS.
-}
-    text2 {
-POR ALICIA CASTRO
-}
+    text1 LA NUEVA LEY PARA REGULAR EL TELETRABAJO ES UN RESPIRO PARA EMPLEADOS, EMPRESAS - Y EL PAÍS.
+    text2 POR ALICIA CASTRO
     highlightColor #ff613c
 }
 media{kmkv} {

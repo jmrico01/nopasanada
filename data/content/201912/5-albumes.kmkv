@@ -2,12 +2,8 @@ type article
 featured{kmkv} {
     pretitle Cinco álbumes para recordar el 2019
     title 5 discos del 2019 que vale la pena escuchar
-    text1 {
-Una lista para conmemorar el año que acaba.
-}
-    text2 {
-POR PABLO HERNÁNDEZ
-}
+    text1 Una lista para conmemorar el año que acaba.
+    text2 POR PABLO HERNÁNDEZ
     highlightColor #f4b6a5
 }
 media{kmkv} {
