@@ -77,6 +77,13 @@ internal bool SearchReplaceAndAppend(const Array<char>& string, const HashTable<
 	return true;
 }
 
+void AllocAndSetString(KmkvItem<StandardAllocator>* item, const Array<char>& string)
+{
+	item->isString = true;
+	item->dynamicStringPtr = defaultAllocator_.template New<DynamicArray<char, StandardAllocator>>();
+	new (item->dynamicStringPtr) DynamicArray<char, StandardAllocator>(string);
+}
+
 int main(int argc, char** argv)
 {
 	httplib::Server httpServer;
@@ -107,6 +114,9 @@ int main(int argc, char** argv)
 		return 1;
 	}
 
+	DynamicArray<char> allMetadataJson;
+	allMetadataJson.Append('[');
+
 	FixedArray<char, PATH_MAX_LENGTH> contentPath = rootPath;
 	contentPath.Append(ToString("data/content"));
 	contentPath.Append('\0');
@@ -130,7 +140,33 @@ int main(int argc, char** argv)
 		}
 
 		HashTable<KmkvItem<StandardAllocator>> metadataKmkv;
-		// TODO build metadataKmkv from entryKmkv here
+		const auto* entryType = GetKmkvItemStrValue(entryKmkv, "type");
+		if (entryType == nullptr) {
+			fprintf(stderr, "Entry missing \"type\": %.*s\n",
+				(int)contentPath.size, contentPath.data);
+			return 1;
+		}
+		AllocAndSetString(metadataKmkv.Add("type"), entryType->ToArray());
+		AllocAndSetString(metadataKmkv.Add("tags"),
+			ToString("[\"noticias\",\"home\",\"ciencia\",\"cultura\",\"opinion\",\"deporte\",\"nopasanada\"]"));
+		// TODO nope. would be nice do substring search for "content" and cut string from there
+		AllocAndSetString(metadataKmkv.Add("link"), contentPath.ToArray().SliceTo(contentPath.size - 6));
+		AllocAndSetString(metadataKmkv.Add("image"),
+			ToString("/images/202001/posters/04-bush-fires.jpg"));
+		AllocAndSetString(metadataKmkv.Add("title"), ToString("Los incendios forestales en Australia"));
+
+		auto* featured = metadataKmkv.Add("featuredInfo");
+		featured->isString = false;
+		featured->hashTablePtr = defaultAllocator_.template New<HashTable<KmkvItem<StandardAllocator>>>();
+		new (featured->hashTablePtr) HashTable<KmkvItem<StandardAllocator>>();
+		auto& featuredKmkv = *featured->hashTablePtr;
+		AllocAndSetString(featuredKmkv.Add("images"),
+			ToString("/images/202001/headers/04-bush-fires.jpg"));
+		AllocAndSetString(featuredKmkv.Add("pretitle"), ToString("CIENCIA:"));
+		AllocAndSetString(featuredKmkv.Add("title"), ToString("&lt;b&gt;INCENDIOS&lt;b&gt; &lt;br&gt;EN AUSTRALIA"));
+		AllocAndSetString(featuredKmkv.Add("text1"), ToString("5 DATOS QUE EXPLICAN SU SIGNIFICANCIA"));
+		AllocAndSetString(featuredKmkv.Add("text2"), ToString("POR NPN Y AFP"));
+		AllocAndSetString(featuredKmkv.Add("highlightColor"), ToString("#ff0000"));
 
 		DynamicArray<char> metadataJson;
 		if (!KmkvToJson(metadataKmkv, &metadataJson)) {
@@ -138,8 +174,14 @@ int main(int argc, char** argv)
 				(int)contentPath.size, contentPath.data);
 			return 1;
 		}
-		printf("%.*s\n", (int)metadataJson.size, metadataJson.data);
+		allMetadataJson.Append(metadataJson.ToArray());
+		allMetadataJson.Append(',');
 	}
+
+	allMetadataJson.RemoveLast();
+	allMetadataJson.Append(']');
+
+	printf("all metadata:\n%.*s\n", (int)allMetadataJson.size, allMetadataJson.data);
 
 	// Backwards compatibility =====================================================================
 	httpServer.Get("/el-caso-diet-prada", [](const httplib::Request& req, httplib::Response& res) {
@@ -156,7 +198,12 @@ int main(int argc, char** argv)
 	});
 	// =============================================================================================
 
-	httpServer.Get("/entries", [](const httplib::Request& req, httplib::Response& res) {
+	httpServer.Get("/entries", [&allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+		res.set_content(allMetadataJson.data, allMetadataJson.size, "application/json");
+	});
+
+	httpServer.Get("/featured", [&allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+		res.set_content("{\"home\":\"/content/202001/15-camaras-trampa\",\"noticias\":\"/content/202001/15-lo-importante\",\"ciencia\":\"/content/202001/15-camaras-trampa\",\"cultura\":\"/content/202001/09-hildur-guonadottir\",\"opinion\":\"/content/202001/09-hildur-guonadottir\",\"deporte\":\"/content/201912/17-me-mejor-experiencia\",\"nopasanada\":\"/content/201908/nopasanada\"}", "application/json");
 	});
 
 	httpServer.Get("/content/[^/]+/.+", [rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
