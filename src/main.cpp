@@ -131,6 +131,11 @@ int main(int argc, char** argv)
 		while (*dirPath != '\0') {
 			contentPath.Append((char)(*(dirPath++)));
 		}
+		for (uint64 i = 0; i < contentPath.size; i++) {
+			if (contentPath[i] == '\\') {
+				contentPath[i] = '/';
+			}
+		}
 
 		HashTable<KmkvItem<StandardAllocator>> entryKmkv;
 		if (!LoadKmkv(contentPath.ToArray(), &defaultAllocator_, &entryKmkv)) {
@@ -147,26 +152,87 @@ int main(int argc, char** argv)
 			return 1;
 		}
 		AllocAndSetString(metadataKmkv.Add("type"), entryType->ToArray());
-		AllocAndSetString(metadataKmkv.Add("tags"),
-			ToString("[\"noticias\",\"home\",\"ciencia\",\"cultura\",\"opinion\",\"deporte\",\"nopasanada\"]"));
-		// TODO nope. would be nice do substring search for "content" and cut string from there
-		AllocAndSetString(metadataKmkv.Add("link"), contentPath.ToArray().SliceTo(contentPath.size - 6));
+
+		const auto* entryTags = GetKmkvItemStrValue(entryKmkv, "tags");
+		if (entryTags == nullptr) {
+			fprintf(stderr, "Entry missing \"tags\": %.*s\n",
+				(int)contentPath.size, contentPath.data);
+			return 1;
+		}
+		AllocAndSetString(metadataKmkv.Add("tags"), ToString(""));
+		auto& tagsString = *(metadataKmkv.GetValue("tags")->dynamicStringPtr);
+		tagsString.Append('[');
+		tagsString.Append('"');
+		for (uint64 i = 0; i < entryTags->size; i++) {
+			char c = (*entryTags)[i];
+			if (c == ' ') {
+				continue;
+			}
+			if (c == ',') {
+				tagsString.Append('"');
+			}
+			tagsString.Append(c);
+			if (c == ',') {
+				tagsString.Append('"');
+			}
+		}
+		tagsString.Append('"');
+		tagsString.Append(']');
+		metadataKmkv.GetValue("tags")->keywordTag.Append(ToString("array"));
+
+		uint64 start = SubstringSearch(contentPath.ToArray(), ToString("content"));
+		if (start == contentPath.size) {
+			fprintf(stderr, "Couldn't find \"content\" substring in path\n");
+			return 1;
+		}
+		Array<char> link = contentPath.ToArray().Slice(start - 1, contentPath.size - 5);
+		AllocAndSetString(metadataKmkv.Add("link"), link);
+
 		AllocAndSetString(metadataKmkv.Add("image"),
 			ToString("/images/202001/posters/04-bush-fires.jpg"));
-		AllocAndSetString(metadataKmkv.Add("title"), ToString("Los incendios forestales en Australia"));
 
+		const auto* entryTitle = GetKmkvItemStrValue(entryKmkv, "title");
+		if (entryTitle == nullptr) {
+			fprintf(stderr, "Entry missing \"title\": %.*s\n",
+				(int)contentPath.size, contentPath.data);
+			return 1;
+		}
+		AllocAndSetString(metadataKmkv.Add("title"), entryTitle->ToArray());
+
+		const auto* entryFeaturedKmkv = GetKmkvItemObjValue(entryKmkv, "featured");
+		if (entryFeaturedKmkv == nullptr) {
+			fprintf(stderr, "Entry missing \"featured\": %.*s\n",
+				(int)contentPath.size, contentPath.data);
+			return 1;
+		}
 		auto* featured = metadataKmkv.Add("featuredInfo");
 		featured->isString = false;
 		featured->hashTablePtr = defaultAllocator_.template New<HashTable<KmkvItem<StandardAllocator>>>();
 		new (featured->hashTablePtr) HashTable<KmkvItem<StandardAllocator>>();
 		auto& featuredKmkv = *featured->hashTablePtr;
 		AllocAndSetString(featuredKmkv.Add("images"),
-			ToString("/images/202001/headers/04-bush-fires.jpg"));
-		AllocAndSetString(featuredKmkv.Add("pretitle"), ToString("CIENCIA:"));
-		AllocAndSetString(featuredKmkv.Add("title"), ToString("&lt;b&gt;INCENDIOS&lt;b&gt; &lt;br&gt;EN AUSTRALIA"));
-		AllocAndSetString(featuredKmkv.Add("text1"), ToString("5 DATOS QUE EXPLICAN SU SIGNIFICANCIA"));
-		AllocAndSetString(featuredKmkv.Add("text2"), ToString("POR NPN Y AFP"));
-		AllocAndSetString(featuredKmkv.Add("highlightColor"), ToString("#ff0000"));
+			ToString("[ \"/images/202001/headers/04-bush-fires.jpg\" ]"));
+		featuredKmkv.GetValue("images")->keywordTag.Append(ToString("array"));
+		const auto* entryFeaturedPretitle = GetKmkvItemStrValue(*entryFeaturedKmkv, "pretitle");
+		if (entryFeaturedPretitle != nullptr) {
+			AllocAndSetString(featuredKmkv.Add("pretitle"), entryFeaturedPretitle->ToArray());
+		}
+		const auto* entryFeaturedTitle = GetKmkvItemStrValue(*entryFeaturedKmkv, "title");
+		if (entryFeaturedTitle != nullptr) {
+			AllocAndSetString(featuredKmkv.Add("title"), entryFeaturedTitle->ToArray());
+		}
+		const auto* entryFeaturedText1 = GetKmkvItemStrValue(*entryFeaturedKmkv, "text1");
+		if (entryFeaturedText1 != nullptr) {
+			AllocAndSetString(featuredKmkv.Add("text1"), entryFeaturedText1->ToArray());
+		}
+		const auto* entryFeaturedText2 = GetKmkvItemStrValue(*entryFeaturedKmkv, "text2");
+		if (entryFeaturedText2 != nullptr) {
+			AllocAndSetString(featuredKmkv.Add("text2"), entryFeaturedText2->ToArray());
+		}
+		const auto* entryFeaturedColor = GetKmkvItemStrValue(*entryFeaturedKmkv, "highlightColor");
+		if (entryFeaturedColor != nullptr) {
+			AllocAndSetString(featuredKmkv.Add("highlightColor"), entryFeaturedColor->ToArray());
+		}
 
 		DynamicArray<char> metadataJson;
 		if (!KmkvToJson(metadataKmkv, &metadataJson)) {
@@ -399,12 +465,12 @@ int main(int argc, char** argv)
 		else {
 			const auto* subtitle = GetKmkvItemStrValue(kmkv, "subtitle");
 			if (subtitle == nullptr) {
-				fprintf(stderr, "Entry missing string \"subtitle\": %.*s\n",
-					(int)kmkvPath.size, kmkvPath.data);
-				res.status = HTTP_STATUS_ERROR;
-				return;
+				// TODO make empty string literal
+				templateItems.Add("subtitle", ToString(""));
 			}
-			templateItems.Add("subtitle", subtitle->ToArray());
+			else {
+				templateItems.Add("subtitle", subtitle->ToArray());
+			}
 		}
 
 		FixedArray<const char*, 8> AUTHOR_STRINGS_NEWSLETTER;
@@ -430,12 +496,10 @@ int main(int argc, char** argv)
 		for (uint64 i = 0; i < authorStrings.size / 2; i++) {
 			const auto* author = GetKmkvItemStrValue(kmkv, authorStrings[i * 2]);
 			if (author == nullptr) {
-				fprintf(stderr, "Entry missing string \"%s\": %.*s\n", authorStrings[i * 2],
-					(int)kmkvPath.size, kmkvPath.data);
-				res.status = HTTP_STATUS_ERROR;
-				return;
+				// TODO make empty string literal
+				templateItems.Add(authorStrings[i * 2 + 1], ToString(""));
+				continue;
 			}
-
 			const uint64 AUTHOR_STRING_MAX_LENGTH = 64;
 			FixedArray<char, AUTHOR_STRING_MAX_LENGTH> authorString;
 			authorString.Clear();
@@ -473,6 +537,17 @@ int main(int argc, char** argv)
 				return;
 			}
 			templateItems.Add("text", text->ToArray());
+		}
+
+		if (StringCompare(type->ToArray(), "video")) {
+			const auto* videoId = GetKmkvItemStrValue(kmkv, "videoID");
+			if (videoId == nullptr) {
+				fprintf(stderr, "Entry missing string \"videoID\": %.*s\n",
+					(int)kmkvPath.size, kmkvPath.data);
+				res.status = HTTP_STATUS_ERROR;
+				return;
+			}
+			templateItems.Add("videoID", videoId->ToArray());
 		}
 
 		Array<char> templateString;

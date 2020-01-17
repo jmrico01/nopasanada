@@ -1,7 +1,7 @@
 type article
 featured{kmkv} {
     pretitle CIENCIA:
-    title <b>INCENDIOS<b> <br>EN AUSTRALIA
+    title <b>INCENDIOS</b><br>EN AUSTRALIA
     text1 5 DATOS QUE EXPLICAN SU SIGNIFICANCIA
     text2 POR NPN Y AFP
     highlightColor #f4b6a5
