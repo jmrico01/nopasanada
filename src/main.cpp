@@ -664,6 +664,12 @@ int main(int argc, char** argv)
 	return 0;
 }
 
+#define STB_SPRINTF_IMPLEMENTATION
+#include <stb_sprintf.h>
+#undef STB_SPRINTF_IMPLEMENTATION
+#define UTF8PROC_STATIC
+#include <utf8proc.c>
+
 #undef GAME_SLOW
 #undef GAME_INTERNAL
 #include <km_common/km_debug.h>
@@ -681,9 +687,6 @@ int main(int argc, char** argv)
 	abort();
 
 #define LOG_ERROR(format, ...) fprintf(stderr, format, ##__VA_ARGS__)
-
-#define STB_SPRINTF_IMPLEMENTATION
-#include <stb_sprintf.h>
 
 #include <km_common/km_kmkv.cpp>
 #include <km_common/km_lib.cpp>
