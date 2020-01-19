@@ -16,6 +16,8 @@
 global_var const int HTTP_STATUS_ERROR = 500;
 
 global_var const int SERVER_PORT = 6060;
+global_var const char* SERVER_CERT = "/mnt/c/Users/jmric/Documents/Development/ssl/server.crt";
+global_var const char* SERVER_KEY  = "/mnt/c/Users/jmric/Documents/Development/ssl/server.key";
 
 template <typename Allocator>
 internal bool SearchReplaceAndAppend(const Array<char>& string, const HashTable<Array<char>>& items,
@@ -250,7 +252,11 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 
 int main(int argc, char** argv)
 {
+#ifdef CPPHTTPLIB_OPENSSL_SUPPORT
+	httplib::SSLServer httpServer(SERVER_CERT, SERVER_KEY);
+#else
 	httplib::Server httpServer;
+#endif
 
 	FixedArray<char, PATH_MAX_LENGTH> rootPath = GetExecutablePath(&defaultAllocator_);
 	if (rootPath.size == 0) {
