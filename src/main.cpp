@@ -1,5 +1,9 @@
 #include <cassert>
 #include <filesystem>
+#if GAME_LINUX
+#define CPPHTTPLIB_OPENSSL_SUPPORT
+#define CPPHTTPLIB_ZLIB_SUPPORT
+#endif
 #include <httplib.h>
 #include <stdio.h>
 
