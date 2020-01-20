@@ -1,4 +1,4 @@
-from env_settings import WIN32_VCVARSALL
+from env_settings import DEFINES_ENV, WIN32_VCVARSALL
 
 class LibExternal:
 	def __init__(self, name, path, compiledNames = None, dllNames = None):
@@ -10,6 +10,8 @@ class LibExternal:
 PROJECT_NAME = "nopasanada"
 
 COPY_DIRS = {}
+
+DEFINES = DEFINES_ENV
 
 DEPLOY_FILES = []
 

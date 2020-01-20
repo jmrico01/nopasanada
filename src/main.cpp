@@ -1,11 +1,12 @@
 #include <cassert>
 #include <filesystem>
-#if GAME_LINUX
+#if SERVER_HTTPS
 #define CPPHTTPLIB_OPENSSL_SUPPORT
 #define CPPHTTPLIB_ZLIB_SUPPORT
 #endif
 #include <httplib.h>
 #include <stdio.h>
+#include <thread>
 
 #include <km_common/km_defines.h>
 #include <km_common/km_kmkv.h>
@@ -15,9 +16,16 @@
 
 global_var const int HTTP_STATUS_ERROR = 500;
 
-global_var const int SERVER_PORT = 6060;
-global_var const char* SERVER_CERT = "/mnt/c/Users/jmric/Documents/Development/ssl/server.crt";
-global_var const char* SERVER_KEY  = "/mnt/c/Users/jmric/Documents/Development/ssl/server.key";
+global_var const int SERVER_PORT     = 6060;
+global_var const int SERVER_PORT_DEV = 6161;
+global_var const char* SERVER_CERT   = "/mnt/c/Users/jmric/Documents/Development/ssl/server.crt";
+global_var const char* SERVER_KEY    = "/mnt/c/Users/jmric/Documents/Development/ssl/server.key";
+
+#if SERVER_HTTPS
+	typedef httplib::SSLServer ServerType;
+#else
+	typedef httplib::Server ServerType;
+#endif
 
 enum class EntryType
 {
@@ -390,9 +398,19 @@ void AllocAndSetString(KmkvItem<StandardAllocator>* item, const Array<char>& str
 	new (item->dynamicStringPtr) DynamicArray<char, StandardAllocator>(string);
 }
 
+int CompareMetadataDate(const void* p1, const void* p2)
+{
+	const auto* kmkv1 = (HashTable<KmkvItem<StandardAllocator>>*)p1;
+	const auto* kmkv2 = (HashTable<KmkvItem<StandardAllocator>>*)p2;
+
+	return 0;
+}
+
 bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, StandardAllocator>* outJson)
 {
 	outJson->Append('[');
+
+	DynamicArray<HashTable<KmkvItem<StandardAllocator>>> metadataKmkvs;
 
 	FixedArray<char, PATH_MAX_LENGTH> pathBuffer;
 	pathBuffer.Clear();
@@ -427,7 +445,8 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 			return false;
 		}
 
-		HashTable<KmkvItem<StandardAllocator>> metadataKmkv;
+		HashTable<KmkvItem<StandardAllocator>>* metadataKmkvPtr = metadataKmkvs.Append();
+		HashTable<KmkvItem<StandardAllocator>>& metadataKmkv = *metadataKmkvPtr;
 		AllocAndSetString(metadataKmkv.Add("uri"), uri);
 		AllocAndSetString(metadataKmkv.Add("type"), entryData.typeString.ToArray());
 		AllocAndSetString(metadataKmkv.Add("tags"), Array<char>::empty);
@@ -445,6 +464,16 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		tagsString.Append(']');
 		metadataKmkv.GetValue("tags")->keywordTag.Append(ToString("array"));
 		AllocAndSetString(metadataKmkv.Add("title"), entryData.title.ToArray());
+		DynamicArray<char> dateString;
+		dateString.Append(entryData.yearString[0]);
+		dateString.Append(entryData.yearString[1]);
+		dateString.Append(entryData.yearString[2]);
+		dateString.Append(entryData.yearString[3]);
+		dateString.Append(entryData.monthString[0]);
+		dateString.Append(entryData.monthString[1]);
+		dateString.Append(entryData.dayString[0]);
+		dateString.Append(entryData.dayString[1]);
+		AllocAndSetString(metadataKmkv.Add("date"), dateString.ToArray());
 
 		auto* featured = metadataKmkv.Add("featuredInfo");
 		featured->isString = false;
@@ -474,8 +503,15 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		featuredImagesString.Append('"');
 		featuredImagesString.Append(']');
 		featuredKmkv.GetValue("images")->keywordTag.Append(ToString("array"));
+	}
 
-		if (!KmkvToJson(metadataKmkv, outJson)) {
+	DynamicArray<HashTable<KmkvItem<StandardAllocator>>*> metadataKmkvPtrs(metadataKmkvs.size);
+	for (uint64 i = 0; i < metadataKmkvs.size; i++) {
+		metadataKmkvPtrs.Append(&metadataKmkvs[i]);
+	}
+
+	for (uint64 i = 0; i < metadataKmkvPtrs.size; i++) {
+		if (!KmkvToJson(*metadataKmkvPtrs[i], outJson)) {
 			fprintf(stderr, "KmkvToJson failed for entry %.*s\n",
 				(int)pathBuffer.size, pathBuffer.data);
 			return false;
@@ -513,12 +549,31 @@ bool LoadFeaturedJson(const Array<char>& rootPath, DynamicArray<char, StandardAl
 	return true;
 }
 
+bool ServerListen(ServerType& server, const char* host, int port)
+{
+	printf("Listening on host \"%s\", port %d\n", host, port);
+	if (!server.listen(host, port)) {
+		fprintf(stderr, "server listen failed for host \"%s\", port %d\n", host, port);
+		return false;
+	}
+
+	return true;
+}
+
 int main(int argc, char** argv)
 {
-#ifdef CPPHTTPLIB_OPENSSL_SUPPORT
-	httplib::SSLServer httpServer(SERVER_CERT, SERVER_KEY);
+#if SERVER_HTTPS
+	ServerType server(SERVER_CERT, SERVER_KEY);
 #else
-	httplib::Server httpServer;
+	ServerType server;
+#endif
+
+#if SERVER_DEV
+#if SERVER_HTTPS
+	ServerType serverDev(SERVER_CERT, SERVER_KEY);
+#else
+	ServerType serverDev;
+#endif
 #endif
 
 	FixedArray<char, PATH_MAX_LENGTH> rootPath = GetExecutablePath(&defaultAllocator_);
@@ -538,20 +593,12 @@ int main(int argc, char** argv)
 		return 1;
 	}
 
-	FixedArray<char, PATH_MAX_LENGTH> publicPath = rootPath;
-	publicPath.Append(ToString("data/public"));
-	publicPath.Append('\0');
-	bool result = httpServer.set_base_dir(publicPath.data);
-	if (!result) {
-		fprintf(stderr, "set_base_dir failed on dir %s\n", publicPath.data);
-		return 1;
-	}
-
 	DynamicArray<char> allMetadataJson;
 	if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
 		fprintf(stderr, "Failed to load all entry metadata to JSON\n");
 		return 1;
 	}
+	printf("Metadata JSON:\n%.*s\n", (int)allMetadataJson.size, allMetadataJson.data);
 
 	DynamicArray<char> featuredJson;
 	if (!LoadFeaturedJson(rootPath.ToArray(), &featuredJson)) {
@@ -560,29 +607,29 @@ int main(int argc, char** argv)
 	}
 
 	// Backwards compatibility =====================================================================
-	httpServer.Get("/el-caso-diet-prada", [](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/el-caso-diet-prada", [](const httplib::Request& req, httplib::Response& res) {
 		res.set_redirect("/content/201908/el-caso-diet-prada");
 	});
-	httpServer.Get("/la-cerveza-si-es-cosa-de-mujeres", [](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/la-cerveza-si-es-cosa-de-mujeres", [](const httplib::Request& req, httplib::Response& res) {
 		res.set_redirect("/content/201908/la-cerveza-si-es-cosa-de-mujeres");
 	});
-	httpServer.Get("/content/201908/el-amazonas", [](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/content/201908/el-amazonas", [](const httplib::Request& req, httplib::Response& res) {
 		res.set_redirect("/content/201908/newsletter-29");
 	});
-	httpServer.Get("/content/201909/newsletter-03", [](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/content/201909/newsletter-03", [](const httplib::Request& req, httplib::Response& res) {
 		res.set_redirect("/content/201909/newsletter-03");
 	});
 	// =============================================================================================
 
-	httpServer.Get("/entries", [&allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/entries", [&allMetadataJson](const httplib::Request& req, httplib::Response& res) {
 		res.set_content(allMetadataJson.data, allMetadataJson.size, "application/json");
 	});
 
-	httpServer.Get("/featured", [&featuredJson](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/featured", [&featuredJson](const httplib::Request& req, httplib::Response& res) {
 		res.set_content(featuredJson.data, featuredJson.size, "application/json");
 	});
 
-	httpServer.Get("/content/[^/]+/.+", [rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/content/[^/]+/.+", [rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
 		Array<char> uri = ToString(req.path.c_str());
 		if (uri[uri.size - 1] == '/') {
 			uri.RemoveLast();
@@ -793,8 +840,31 @@ int main(int argc, char** argv)
 		res.set_content(outStringMedia.data, outStringMedia.size, "text/html");
 	});
 
-	printf("Listening on port %d\n", SERVER_PORT);
-	httpServer.listen("localhost", SERVER_PORT);
+	FixedArray<char, PATH_MAX_LENGTH> publicPath = rootPath;
+	publicPath.Append(ToString("data/public"));
+	publicPath.Append('\0');
+	if (!server.set_base_dir(publicPath.data)) {
+		fprintf(stderr, "server set_base_dir failed on dir %s\n", publicPath.data);
+		return 1;
+	}
+
+#if SERVER_DEV
+	publicPath = rootPath;
+	publicPath.Append(ToString("data/public-dev"));
+	publicPath.Append('\0');
+	if (!serverDev.set_base_dir(publicPath.data)) {
+		fprintf(stderr, "serverDev set_base_dir failed on dir %s\n", publicPath.data);
+		return 1;
+	}
+
+	std::thread devThread(ServerListen, std::ref(serverDev), "localhost", SERVER_PORT_DEV);
+#endif
+
+	ServerListen(server, "localhost", SERVER_PORT);
+
+#if SERVER_DEV
+	devThread.join();
+#endif
 
 	return 0;
 }
