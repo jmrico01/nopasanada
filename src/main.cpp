@@ -147,7 +147,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	}
 	outEntryData->type = EntryType::LAST;
 	for (uint64 i = 0; i < (uint64)EntryType::LAST; i++) {
-		if (StringCompare(type->ToArray(), ENTRY_TYPE_STRINGS[i])) {
+		if (StringEquals(type->ToArray(), ENTRY_TYPE_STRINGS[i])) {
 			outEntryData->type = (EntryType)i;
 		}
 	}
@@ -398,12 +398,16 @@ void AllocAndSetString(KmkvItem<StandardAllocator>* item, const Array<char>& str
 	new (item->dynamicStringPtr) DynamicArray<char, StandardAllocator>(string);
 }
 
-int CompareMetadataDate(const void* p1, const void* p2)
+int CompareMetadataDateDescending(const void* p1, const void* p2)
 {
-	const auto* kmkv1 = (HashTable<KmkvItem<StandardAllocator>>*)p1;
-	const auto* kmkv2 = (HashTable<KmkvItem<StandardAllocator>>*)p2;
+	const auto* kmkv1 = *((const HashTable<KmkvItem<StandardAllocator>>**)p1);
+	const auto* kmkv2 = *((const HashTable<KmkvItem<StandardAllocator>>**)p2);
 
-	return 0;
+	const auto* date1 = GetKmkvItemStrValue(*kmkv1, "date");
+	assert(date1 != nullptr);
+	const auto* date2 = GetKmkvItemStrValue(*kmkv2, "date");
+	assert(date2 != nullptr);
+	return StringCompare(date1->ToArray(), date2->ToArray()) * -1;
 }
 
 bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, StandardAllocator>* outJson)
@@ -510,6 +514,9 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		metadataKmkvPtrs.Append(&metadataKmkvs[i]);
 	}
 
+	qsort(metadataKmkvPtrs.data, metadataKmkvPtrs.size,
+		sizeof(HashTable<KmkvItem<StandardAllocator>>*), CompareMetadataDateDescending);
+
 	for (uint64 i = 0; i < metadataKmkvPtrs.size; i++) {
 		if (!KmkvToJson(*metadataKmkvPtrs[i], outJson)) {
 			fprintf(stderr, "KmkvToJson failed for entry %.*s\n",
@@ -598,7 +605,7 @@ int main(int argc, char** argv)
 		fprintf(stderr, "Failed to load all entry metadata to JSON\n");
 		return 1;
 	}
-	printf("Metadata JSON:\n%.*s\n", (int)allMetadataJson.size, allMetadataJson.data);
+	// printf("Metadata JSON:\n%.*s\n", (int)allMetadataJson.size, allMetadataJson.data);
 
 	DynamicArray<char> featuredJson;
 	if (!LoadFeaturedJson(rootPath.ToArray(), &featuredJson)) {
@@ -808,7 +815,7 @@ int main(int argc, char** argv)
 				}
 
 				HashTable<Array<char>> mediaHtmlItems;
-				if (StringCompare(mediaType, "image") || StringCompare(mediaType, "imageHalfWidth")) {
+				if (StringEquals(mediaType, "image") || StringEquals(mediaType, "imageHalfWidth")) {
 					// TODO if there are non-image media things in the future, this will need to be
 					// expanded upon / keyword tag needs to be checked for type=image
 					const auto* imageLocation = GetKmkvItemStrValue(entryData.media, mediaName);
