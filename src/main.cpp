@@ -17,14 +17,23 @@
 global_var const int HTTP_STATUS_ERROR = 500;
 
 global_var const int SERVER_PORT     = 6060;
-global_var const int SERVER_PORT_DEV = 6161;
+
+#if SERVER_HTTPS
+
+typedef httplib::SSLServer ServerType;
 global_var const char* SERVER_CERT   = "/mnt/c/Users/jmric/Documents/Development/ssl/server.crt";
 global_var const char* SERVER_KEY    = "/mnt/c/Users/jmric/Documents/Development/ssl/server.key";
 
-#if SERVER_HTTPS
-	typedef httplib::SSLServer ServerType;
 #else
-	typedef httplib::Server ServerType;
+
+typedef httplib::Server ServerType;
+
+#endif
+
+#if SERVER_DEV
+
+global_var const int SERVER_PORT_DEV = 6161;
+
 #endif
 
 enum class EntryType
