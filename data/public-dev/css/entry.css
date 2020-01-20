@@ -1,0 +1,119 @@
+#backButton, #previewButton {
+    background-color: #ccf;
+}
+#backButton:hover, #previewButton:hover {
+    background-color: #99f;
+}
+
+#saveButton {
+    background-color: #f7ea7c;
+}
+#saveButton:hover {
+    background-color: #e3d02b;
+}
+
+#deleteButton {
+    background-color: #f88;
+}
+#deleteButton:hover {
+    background-color: #f55;
+}
+
+#imageUploadButton {
+    background-color: #8f8;
+}
+#imageUploadButton:hover {
+    background-color: #4f4;
+}
+
+#imageUploadCancelButton {
+    background-color: #f88;
+}
+#imageUploadCancelButton:hover {
+    background-color: #f55;
+}
+
+.section {
+    margin-top: 20pt;
+    margin-bottom: 20pt;
+    padding: 20pt;
+    border-radius: 10pt;
+    background-color: #eee;
+}
+
+input[type=text], textarea {
+    width: 100%;
+}
+
+#imagesListAdd {
+    overflow: auto;
+}
+
+#imageDropzone, #imageUploadProcessor {
+    width: 48%;
+    height: 400pt;
+}
+
+#imageDropzone {
+    float: left;
+}
+
+#imageUploadProcessor {
+    float: right;
+}
+
+input[type=file] {
+    font-family: sans-serif;
+    font-size: 12pt;
+    font-weight: normal;
+    text-align: left;
+}
+
+.imagesListRow {
+    overflow: hidden;
+}
+
+.imagesListRow hr {
+    width: 100%;
+    margin-top: 20pt;
+    margin-bottom: 20pt;
+}
+
+.rowInfo {
+	position: relative;
+	float: left;
+	width: 33%;
+	height: 100%;
+}
+
+.rowEditButton {
+    background-color: #ff8;
+}
+.rowEditButton:hover {
+    cursor: pointer;
+    background-color: #ee2;
+}
+.rowDeleteButton {
+    margin-left: 20pt;
+
+    background-color: #f88;
+}
+.rowDeleteButton:hover {
+    cursor: pointer;
+    background-color: #f55;
+}
+
+.rowText {
+	padding-right: 20pt;
+	font-size: 14pt;
+	text-align: right;
+}
+
+.rowImage {
+	float: left;
+	width: 67%;
+	height: 100%;
+}
+.rowImage img {
+    height: 300pt;
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>No Pasa Nada</title>
+
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+	<script type="application/javascript" src="js/jquery-3.4.1.min.js"></script>
+	<script type="application/javascript" src="js/main.js"></script>
+</head>
+
+<body>
+    <div id="header">
+        <h3 id="statusMessage"></h3>
+        <a id="previewLink" href="">
+            <div id="previewButton" class="bigBoyButton">PREVIEW</div>
+        </a>
+        <div id="diffButton" class="bigBoyButton">DIFF</div>
+        <div id="resetButton" class="bigBoyButton">RESET</div>
+        <div id="commitButton" class="bigBoyButton">COMMIT</div>
+        <div id="deployButton" class="bigBoyButton">DEPLOY</div>
+    </div>
+
+	<div id="content">
+		<h1>No Pasa Nada: Back-End</h1>
+        <div id="newEntryButton" class="bigBoyButton">NEW ENTRY</div>
+        <h2>Featured entries</h2>
+        <div id="featuredEntryTable">
+            <!-- Filled in by JS -->
+        </div>
+        <h2>All entries</h2>
+        <table id="entryTable">
+            <!-- Filled in by JS -->
+        </table>
+	</div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+        </div>
+    </div>
+</body>
+</html>

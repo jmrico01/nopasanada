@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>No Pasa Nada</title>
+
+    <link rel="stylesheet" type="text/css" href="../css/dropzone.css">
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+    <link rel="stylesheet" type="text/css" href="../css/entry.css">
+
+    <script type="application/javascript" src="../js/jquery-3.4.1.min.js"></script>
+    <script type="application/javascript" src="../js/dropzone.js"></script>
+    <script type="application/javascript" src="../js/tinymce/tinymce.min.js"></script>
+    <script type="application/javascript" src="../js/entry.js"></script>
+</head>
+
+<body>
+    <div id="header">
+        <h3 id="statusMessage"></h3>
+        <a href="../">
+            <div id="backButton" class="bigBoyButton">BACK</div>
+        </a>
+        <a id="previewLink" href="">
+            <div id="previewButton" class="bigBoyButton">PREVIEW</div>
+        </a>
+        <div id="saveButton" class="bigBoyButton">SAVE</div>
+        <div id="deleteButton" class="bigBoyButton">DELETE</div>
+    </div>
+
+    <div id="content">
+        <form>
+            <div class="section">
+                <h1>Featured Page Info</h1>
+                <h3>Pre-Title</h3>
+                <input type="text" name="featuredPretitle"><br>
+                <h3>Title</h3>
+                <input type="text" name="featuredTitle"><br>
+                <h3>Small Text Left</h3>
+                <input type="text" name="featuredText1"><br>
+                <h3>Small Text Right</h3>
+                <input type="text" name="featuredText2"><br>
+                <h3>Category Highlight Color (color picker coming soon)</h3>
+                <input type="text" name="highlightColor"><br>
+            </div>
+
+            <div class="section">
+                <h1>Content</h1>
+                <h3>Type</h3>
+                <select id="contentType" name="contentType">
+                    <option value="article">article</option>
+                    <option value="newsletter">newsletter</option>
+                    <option value="text">text</option>
+                    <option value="video">video</option>
+                </select>
+                <br>
+
+                <h3>Tags</h3>
+                <input type="text" name="tags"></input><br>
+
+                <h3>Title</h3>
+                <input type="text" name="title"></input><br>
+                <h3>Title for Poster (leave blank to use Title above)</h3>
+                <input type="text" name="titlePoster"><br>
+                <h3>Highlight Color (color picker coming soon)</h3>
+                <input type="text" name="color"><br>
+                <h3>Description (shows in social medial links)</h3>
+                <textarea class="taSmall" name="description"></textarea><br>
+                <h3>Date (dd/mm/yyyy)</h3>
+                <input type="text" name="date"><br>
+
+                <div class="input-article">
+                    <h3>Author</h3>
+                    <input type="text" name="author"><br>
+                </div>
+                <div class="input-video">
+                    <h3>YouTube ID</h3>
+                    <input type="text" name="youtubeID"><br>
+                </div>
+                <div class="input-newsletter">
+                    <h3>Top Content (custom embeds)</h3>
+                    <textarea class="taSmall" name="customTop"></textarea><br>
+
+                    <h2>Article 1</h2>
+                    <h3>Title</h3>
+                    <input type="text" name="title1"></input><br>
+                    <h3>Author</h3>
+                    <input type="text" name="author1"><br>
+                    <h3>Text</h3>
+                    <tinymce id="text1"></tinymce><br>
+
+                    <h2>Article 2</h2>
+                    <h3>Title</h3>
+                    <input type="text" name="title2"></input><br>
+                    <h3>Author</h3>
+                    <input type="text" name="author2"><br>
+                    <h3>Text</h3>
+                    <tinymce id="text2"></tinymce><br>
+
+                    <h2>Article 3</h2>
+                    <h3>Title</h3>
+                    <input type="text" name="title3"></input><br>
+                    <h3>Author</h3>
+                    <input type="text" name="author3"><br>
+                    <h3>Text</h3>
+                    <tinymce id="text3"></tinymce><br>
+
+                    <h2>Article 4</h2>
+                    <h3>Title</h3>
+                    <input type="text" name="title4"></input><br>
+                    <h3>Author</h3>
+                    <input type="text" name="author4"><br>
+                    <h3>Text</h3>
+                    <tinymce id="text4"></tinymce><br>
+                </div>
+                <div class="input-article input-text input-video">
+                    <h3>Subtitle</h3>
+                    <textarea class="taSmall" name="subtitle"></textarea><br>
+                    <h3>Text</h3>
+                    <tinymce id="text"></tinymce><br>
+                </div>
+            </div>
+        </form>
+
+        <div class="section">
+            <h1>Images</h1>
+            <div id="imagesListAdd">
+                <form id="imageDropzone" class="dropzone" action="/newImage"></form>
+                <div id="imageUploadProcessor">
+                    <h3><b><div id="imageUploadFileName">filename.jpg</div></b></h3>
+                    <hr><br>
+                    <h3>Image Type</h3>
+                    <select id="imageUploadType" name="imageUploadType">
+                    </select>
+                    <br>
+                    <div id="imageUploadNameCustom">
+                        <h3>Custom Image Label (only lower-case letters, numbers, and dashes)</h3>
+                        <input type="text" name="imageUploadNameCustom"><br>
+                    </div>
+                    <br>
+                    <div id="imageUploadButton" class="bigBoyButton">UPLOAD</div>
+                    <div id="imageUploadCancelButton" class="bigBoyButton">CANCEL</div>
+                </div>
+            </div>
+            <div id="imagesList">
+                <div id="imagesListRowTemplate">
+                    <div class="imagesListRow">
+                        <hr>
+                        <div class="rowInfo">
+                            <div class="rowText">
+                                <h2>Some text</h2>
+                            </div>
+                        </div>
+                        <div class="rowImage">
+                            <img src="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

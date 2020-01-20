@@ -1,0 +1,21 @@
+input[type=text], input[type=password], input[type=submit] {
+    width: 50%;
+    padding: 8pt 12pt;
+    margin: 8pt 0;
+    display: inline-block;
+    border: 2pt solid #ccc;
+    border-radius: 5pt;
+    box-sizing: border-box;
+
+    font-family: sans-serif;
+    font-size: 12pt;
+    font-weight: normal;
+    text-align: left;
+}
+
+input[type=submit] {
+    width: 100pt;
+    margin-top: 20pt;
+
+    text-align: center;
+}

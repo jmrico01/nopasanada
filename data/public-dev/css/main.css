@@ -1,0 +1,185 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: sans-serif;
+    font-size: 12pt;
+}
+
+h1 {
+    font-size: 24pt;
+    font-weight: bold;
+}
+h2 {
+    font-size: 18pt;
+    font-weight: bold;
+    font-style: italic;
+}
+h3 {
+    font-size: 14pt;
+    font-weight: normal;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 6pt;
+}
+th {
+    font-family: sans-serif;
+    font-size: 18pt;
+    font-weight: bold;
+    text-align: left;
+    font-style: italic;
+}
+td {
+    font-family: sans-serif;
+    font-size: 12pt;
+    font-weight: normal;
+    text-align: left;
+}
+td a {
+    color: #33f;
+    text-decoration: underline;
+}
+td a:hover {
+    color: #77f;
+    text-decoration: underline;
+}
+
+a {
+    color: inherit;
+    font-weight: inherit;
+    text-decoration: inherit;
+}
+a:hover {
+    color: inherit;
+    font-weight: inherit;
+    text-decoration: inherit;
+}
+
+.modal {
+    position: fixed;
+    z-index: 10000;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    overflow: auto;
+
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.modal-content {
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+
+    background-color: #fefefe;
+}
+
+#header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    padding: 24pt;
+    height: 50pt;
+    z-index: 10;
+
+    background-color: #aaa;
+}
+
+#statusMessage {
+    float: right;
+}
+
+#content {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 120pt; /* at least #header height + 2*padding-top */
+    margin-bottom: 120pt;
+}
+
+#entryTable {
+    width: 100%;
+}
+
+.bigBoyButton {
+    display: inline-block;
+    padding: 8pt 12pt;
+    border-radius: 5pt;
+
+    font-size: 24pt;
+    font-weight: bold;
+    text-align: center;
+}
+.bigBoyButton:hover {
+    cursor: pointer;
+}
+
+#previewButton {
+    margin-right: 20pt;
+
+    background-color: #ccf;
+}
+#previewButton:hover {
+    background-color: #99f;
+}
+
+#diffButton {
+    background-color: #dfaef2;
+}
+#diffButton:hover {
+    background-color: #ca81e6;
+}
+
+#resetButton {
+    background-color: #dfaef2;
+}
+#resetButton:hover {
+    background-color: #ca81e6;
+}
+
+#commitButton {
+    background-color: #f7ea7c;
+}
+#commitButton:hover {
+    background-color: #e3d02b;
+}
+
+#deployButton {
+    background-color: #f88;
+}
+#deployButton:hover {
+    background-color: #f55;
+}
+
+#newEntryButton {
+    background-color: #8f8;
+}
+#newEntryButton:hover {
+    background-color: #4f4;
+}
+
+input[type=text], input[type=submit], textarea, select {
+    padding: 8pt 12pt;
+    margin: 8pt 0;
+    display: inline-block;
+    border: 2pt solid #ccc;
+    border-radius: 5pt;
+    box-sizing: border-box;
+
+    font-family: sans-serif;
+    font-size: 12pt;
+    font-weight: normal;
+    text-align: left;
+}
+input[type=submit]:hover {
+    border: 2pt solid #444;
+}
+select {
+    width: auto;
+}
