@@ -42,7 +42,7 @@ function SetFeaturedContent(featuredEntries, category, instant)
     let entry = featuredEntries[category];
     $("#featuredPretitle").html(entry.pretitle);
     $("#featuredTitle a").html(entry.title);
-    $("#featuredTitle a").attr("href", entry.link);
+    $("#featuredTitle a").attr("href", entry.uri);
     $("#featuredDecoration").html(entry.decoration);
     $("#featuredText1").html(entry.text1);
     $("#featuredText2").html(entry.text2);
@@ -155,7 +155,7 @@ function ResetPosters(entries)
         let entryData = entries[i];
 
         let $entry = $(entryTemplate_);
-        $entry.find("a").attr("href", entryData.link);
+        $entry.find("a").attr("href", entryData.uri);
         $entry.find("img").attr("src", entryData.image);
         $entry.find(".entryNumber").html(i + 1 + ".");
         $entry.find(".entryText").html(entryData.title);
@@ -288,9 +288,9 @@ $(document).ready(function() {
             for (let category in data) {
                 const uri = data[category];
                 for (let i = 0; i < allEntries_.length; i++) {
-                    if (allEntries_[i].link === uri) {
+                    if (allEntries_[i].uri === uri) {
                         featuredEntries_[category] = allEntries_[i].featuredInfo;
-                        featuredEntries_[category].link = uri;
+                        featuredEntries_[category].uri = uri;
                         break;
                     }
                 }
