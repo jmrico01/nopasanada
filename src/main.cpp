@@ -147,7 +147,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	}
 	outEntryData->type = EntryType::LAST;
 	for (uint64 i = 0; i < (uint64)EntryType::LAST; i++) {
-		if (StringEquals(type->ToArray(), ENTRY_TYPE_STRINGS[i])) {
+		if (StringEquals(type->ToArray(), ToString(ENTRY_TYPE_STRINGS[i]))) {
 			outEntryData->type = (EntryType)i;
 		}
 	}
@@ -815,7 +815,8 @@ int main(int argc, char** argv)
 				}
 
 				HashTable<Array<char>> mediaHtmlItems;
-				if (StringEquals(mediaType, "image") || StringEquals(mediaType, "imageHalfWidth")) {
+				if (StringEquals(mediaType, ToString("image"))
+				|| StringEquals(mediaType, ToString("imageHalfWidth"))) {
 					// TODO if there are non-image media things in the future, this will need to be
 					// expanded upon / keyword tag needs to be checked for type=image
 					const auto* imageLocation = GetKmkvItemStrValue(entryData.media, mediaName);
