@@ -4,7 +4,7 @@ const TABLE_FIELDS = [
     [ "type" , "Type"     ],
     [ "title", "Title"    ],
     [ "tags" , "Tags"     ],
-    [ "link" , "ID / URL" ],
+    [ "uri" , "ID / URL" ],
 ];
 
 let resetInProgress_  = false;
@@ -41,8 +41,8 @@ function GetDateStringsFromUnixTime(unixTime)
 function FormatTableFieldValue(tableField, entry)
 {
     const entryValue = entry[tableField[0]];
-    if (tableField[0] === "link") {
-        return "<a href=\"/entry?entry=" + entryValue + "\">" + entryValue + "</a>";
+    if (tableField[0] === "uri") {
+        return "<a href=\"/entry/?entry=" + entryValue + "\">" + entryValue + "</a>";
     }
     else if (tableField[0] === "title") {
         return "<i>" + entryValue + "</i>";
@@ -53,40 +53,13 @@ function FormatTableFieldValue(tableField, entry)
     return entryValue;
 }
 
-function SaveFeatured()
-{
-    console.log("saving featured");
-
-    let featured = {};
-    $("#featuredForm select").each(function() {
-        let $this = $(this);
-        featured[$this.attr("name")] = $this.val();
-    });
-
-    $.ajax({
-        type: "POST",
-        url: "/featured",
-        contentType: "application/json",
-        async: true,
-        data: featured,
-        dataType: "text",
-        success: function(data) {
-            $("#statusMessage").html("New entry created successfully.");
-        },
-        error: function(error) {
-            console.log(error);
-            $("#statusMessage").html("New entry creation failed, error: " + error.responseText);
-        }
-    });
-}
-
 function UpdateFeaturedTable(featured)
 {
     let featuredTableHtml = "<form id=\"featuredForm\"><table><tr><th>Tag</th><th>ID / URL</th></tr>";
     for (let category in featured) {
         let uriHtml = "<select name=\"" + category + "\">";
         for (let i = 0; i < entryData_.length; i++) {
-            uriHtml += "<option value=\"" + entryData_[i].link + "\">" + entryData_[i].link + "</option>";
+            uriHtml += "<option value=\"" + entryData_[i].uri + "\">" + entryData_[i].uri + "</option>";
         }
         featuredTableHtml += "<tr><td>" + category + "</td><td>" + uriHtml + "</td></tr>\n";
     }
@@ -199,7 +172,7 @@ $(document).ready(function() {
         // Copy from
         newEntryHtml += "<h3>Copy from</h3><select name=\"copyFrom\"><option value=\"none\">None</option>";
         for (let i = 0; i < entryData_.length; i++) {
-            newEntryHtml += "<option value=\"" + entryData_[i].link + "\">" + entryData_[i].link + "</option>";
+            newEntryHtml += "<option value=\"" + entryData_[i].uri + "\">" + entryData_[i].uri + "</option>";
         }
         newEntryHtml += "</select><br>";
         // Content type

@@ -58,12 +58,17 @@ function LoadEntryData(entryData)
     let images = [];
     for (let key in entryData.media) {
         let mediaItem = entryData.media[key];
-        if (mediaItem.$.type === "image") {
-            images.push({
-                name: key,
-                uri: mediaItem._
-            });
-        }
+        // if (mediaItem.$.type === "image") {
+        //     images.push({
+        //         name: key,
+        //         uri: mediaItem._
+        //     });
+        // }
+        // TODO only support media type=image
+        images.push({
+            name: key,
+            uri: mediaItem
+        });
     }
 
     let imagesDedup = [];
@@ -81,7 +86,7 @@ function LoadEntryData(entryData)
     }
     UpdateImageList(imagesDedup);
 
-    document.getElementById("contentType").value = entryData.contentType;
+    document.getElementById("contentType").value = entryData.type;
     OnContentTypeChanged();
 
     document.getElementsByName("featuredPretitle")[0].value = entryData.featured.pretitle;
@@ -93,20 +98,16 @@ function LoadEntryData(entryData)
     document.getElementsByName("tags")[0].value = entryData.tags.join(", ");
 
     document.getElementsByName("title")[0].value = entryData.title;
-    let titlePoster = entryData.titlePoster;
-    if (titlePoster === undefined) {
-        titlePoster = "";
-    }
-    document.getElementsByName("titlePoster")[0].value = titlePoster;
+    document.getElementsByName("titlePoster")[0].value = entryData.titlePoster === undefined ? "" : entryData.titlePoster;
     document.getElementsByName("description")[0].value = entryData.description;
     let dateString = entryData.day + "/" + entryData.month + "/" + entryData.year;
     document.getElementsByName("date")[0].value = dateString;
     document.getElementsByName("color")[0].value = entryData.color;
 
     document.getElementsByName("author")[0].value = entryData.author;
-    document.getElementsByName("youtubeID")[0].value = entryData.videoID;
+    document.getElementsByName("youtubeID")[0].value = entryData.videoID === undefined ? "" : entryData.videoID;
 
-    document.getElementsByName("customTop")[0].value = entryData.customTop;
+    document.getElementsByName("customTop")[0].value = entryData.customTop === undefined ? "" : entryData.customTop;
     document.getElementsByName("title1")[0].value = entryData.title1;
     document.getElementsByName("author1")[0].value = entryData.author1;
     if ("text1" in entryData) {
@@ -194,7 +195,7 @@ function SaveEntryData()
     }
 
     let entryData = {
-        contentType: document.getElementById("contentType").value,
+        type: document.getElementById("contentType").value,
         featured: {
             pretitle:       document.getElementsByName("featuredPretitle")[0].value,
             title:          document.getElementsByName("featuredTitle")[0].value,

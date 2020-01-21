@@ -55,6 +55,8 @@ struct NewsletterData
 
 struct EntryData
 {
+	HashTable<KmkvItem<StandardAllocator>> kmkv;
+
 	DynamicArray<char> featuredPretitle;
 	DynamicArray<char> featuredTitle;
 	DynamicArray<char> featuredText1;
@@ -93,14 +95,13 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	kmkvPath.Append(ToString("data"));
 	kmkvPath.Append(uri);
 	kmkvPath.Append(ToString(".kmkv"));
-	HashTable<KmkvItem<StandardAllocator>> kmkv;
-	if (!LoadKmkv(kmkvPath.ToArray(), &defaultAllocator_, &kmkv)) {
+	if (!LoadKmkv(kmkvPath.ToArray(), &defaultAllocator_, &outEntryData->kmkv)) {
 		fprintf(stderr, "LoadKmkv failed for entry %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 
 	// Load featured info
-	const auto* featuredKmkv = GetKmkvItemObjValue(kmkv, "featured");
+	const auto* featuredKmkv = GetKmkvItemObjValue(outEntryData->kmkv, "featured");
 	if (featuredKmkv == nullptr) {
 		fprintf(stderr, "Entry missing \"featured\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
@@ -127,7 +128,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	}
 
 	// Load media
-	const auto* mediaKmkv = GetKmkvItemObjValue(kmkv, "media");
+	const auto* mediaKmkv = GetKmkvItemObjValue(outEntryData->kmkv, "media");
 	if (mediaKmkv == nullptr) {
 		fprintf(stderr, "Entry missing \"media\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
@@ -141,7 +142,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	outEntryData->header = *headerImage;
 
 	// Load entry type string and enum
-	const auto* type = GetKmkvItemStrValue(kmkv, "type");
+	const auto* type = GetKmkvItemStrValue(outEntryData->kmkv, "type");
 	if (type == nullptr) {
 		fprintf(stderr, "Entry missing \"type\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
@@ -159,7 +160,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	outEntryData->typeString = *type;
 
 	// Load tags string array
-	const auto* tags = GetKmkvItemStrValue(kmkv, "tags");
+	const auto* tags = GetKmkvItemStrValue(outEntryData->kmkv, "tags");
 	if (tags == nullptr) {
 		fprintf(stderr, "Entry missing \"tags\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
@@ -179,9 +180,9 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	}
 
 	// Load date string and integer values
-	const auto* day = GetKmkvItemStrValue(kmkv, "day");
-	const auto* month = GetKmkvItemStrValue(kmkv, "month");
-	const auto* year = GetKmkvItemStrValue(kmkv, "year");
+	const auto* day = GetKmkvItemStrValue(outEntryData->kmkv, "day");
+	const auto* month = GetKmkvItemStrValue(outEntryData->kmkv, "month");
+	const auto* year = GetKmkvItemStrValue(outEntryData->kmkv, "year");
 	if (day == nullptr || month == nullptr || year == nullptr) {
 		fprintf(stderr, "Entry missing string day, month, or year field(s): %.*s\n",
 			(int)kmkvPath.size, kmkvPath.data);
@@ -251,31 +252,31 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	}
 
 	// Load article contents
-	const auto* title = GetKmkvItemStrValue(kmkv, "title");
+	const auto* title = GetKmkvItemStrValue(outEntryData->kmkv, "title");
 	if (title == nullptr) {
 		fprintf(stderr, "Entry missing \"title\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	outEntryData->title = *title;
-	const auto* color = GetKmkvItemStrValue(kmkv, "color");
+	const auto* color = GetKmkvItemStrValue(outEntryData->kmkv, "color");
 	if (color == nullptr) {
 		fprintf(stderr, "Entry missing \"color\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	outEntryData->color = *color;
-	const auto* description = GetKmkvItemStrValue(kmkv, "description");
+	const auto* description = GetKmkvItemStrValue(outEntryData->kmkv, "description");
 	if (description != nullptr) {
 		outEntryData->description = *description;
 	}
-	const auto* subtitle = GetKmkvItemStrValue(kmkv, "subtitle");
+	const auto* subtitle = GetKmkvItemStrValue(outEntryData->kmkv, "subtitle");
 	if (subtitle != nullptr) {
 		outEntryData->subtitle = *subtitle;
 	}
-	const auto* author = GetKmkvItemStrValue(kmkv, "author");
+	const auto* author = GetKmkvItemStrValue(outEntryData->kmkv, "author");
 	if (author != nullptr) {
 		outEntryData->author = *author;
 	}
-	const auto* text = GetKmkvItemStrValue(kmkv, "text");
+	const auto* text = GetKmkvItemStrValue(outEntryData->kmkv, "text");
 	if (text == nullptr && outEntryData->type != EntryType::NEWSLETTER) {
 		fprintf(stderr, "Entry missing \"text\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
@@ -285,7 +286,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	}
 
 	// Load video ID
-	const auto* videoID = GetKmkvItemStrValue(kmkv, "videoID");
+	const auto* videoID = GetKmkvItemStrValue(outEntryData->kmkv, "videoID");
 	if (videoID == nullptr && outEntryData->type == EntryType::VIDEO) {
 		fprintf(stderr, "Entry missing \"videoID\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
@@ -296,7 +297,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 
 	// Load newsletter contents
 	if (outEntryData->type == EntryType::NEWSLETTER) {
-		const auto* customTop = GetKmkvItemStrValue(kmkv, "customTop");
+		const auto* customTop = GetKmkvItemStrValue(outEntryData->kmkv, "customTop");
 		if (customTop != nullptr) {
 			outEntryData->newsletterData.customTop = *customTop;
 		}
@@ -304,18 +305,18 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 		const char* AUTHOR_FIELD_NAMES[4] = { "author1", "author2", "author3", "author4" };
 		const char* TEXT_FIELD_NAMES[4]   = { "text1",   "text2",   "text3",   "text4" };
 		for (int i = 0; i < 4; i++) {
-			const auto* titleN = GetKmkvItemStrValue(kmkv, TITLE_FIELD_NAMES[i]);
+			const auto* titleN = GetKmkvItemStrValue(outEntryData->kmkv, TITLE_FIELD_NAMES[i]);
 			if (titleN == nullptr) {
 				fprintf(stderr, "Newsletter missing \"%s\": %.*s\n", TITLE_FIELD_NAMES[i],
 					(int)kmkvPath.size, kmkvPath.data);
 				return false;
 			}
 			outEntryData->newsletterData.titles[i] = *titleN;
-			const auto* authorN = GetKmkvItemStrValue(kmkv, AUTHOR_FIELD_NAMES[i]);
+			const auto* authorN = GetKmkvItemStrValue(outEntryData->kmkv, AUTHOR_FIELD_NAMES[i]);
 			if (authorN != nullptr) {
 				outEntryData->newsletterData.authors[i] = *authorN;
 			}
-			const auto* textN = GetKmkvItemStrValue(kmkv, TEXT_FIELD_NAMES[i]);
+			const auto* textN = GetKmkvItemStrValue(outEntryData->kmkv, TEXT_FIELD_NAMES[i]);
 			if (textN == nullptr) {
 				fprintf(stderr, "Newsletter missing \"%s\": %.*s\n", TEXT_FIELD_NAMES[i],
 					(int)kmkvPath.size, kmkvPath.data);
@@ -858,6 +859,89 @@ int main(int argc, char** argv)
 	}
 
 #if SERVER_DEV
+	serverDev.Get("/entries", [&allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+		res.set_content(allMetadataJson.data, allMetadataJson.size, "application/json");
+	});
+
+	serverDev.Get("/featured", [&featuredJson](const httplib::Request& req, httplib::Response& res) {
+		res.set_content(featuredJson.data, featuredJson.size, "application/json");
+	});
+
+	serverDev.Get("/previewSite", [](const httplib::Request& req, httplib::Response& res) {
+		DynamicArray<char> responseJson;
+		responseJson.Append(ToString("{\"url\":\""));
+#if SERVER_HTTPS
+		responseJson.Append(ToString("https://preview.nopasanada.com"));
+#else
+		responseJson.Append(ToString("http://localhost:"));
+		Array<char> portString = AllocPrintf(&defaultAllocator_, "%d", SERVER_PORT);
+		defer(defaultAllocator_.Free(portString.data));
+		responseJson.Append(portString);
+#endif
+		responseJson.Append('"');
+		responseJson.Append('}');
+		res.set_content(responseJson.data, responseJson.size, "application/json");
+	});
+
+	serverDev.Get("/content/[^/]+/.+", [rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
+		Array<char> uri = ToString(req.path.c_str());
+		if (uri[uri.size - 1] == '/') {
+			uri.RemoveLast();
+		}
+
+		EntryData entryData;
+		if (!LoadEntry(rootPath.ToArray(), uri, &entryData)) {
+			fprintf(stderr, "LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		auto& tagsString = *(entryData.kmkv.GetValue("tags")->dynamicStringPtr);
+		tagsString.Clear();
+		tagsString.Append('[');
+		for (uint64 i = 0; i < entryData.tags.size; i++) {
+			tagsString.Append('"');
+			tagsString.Append(entryData.tags[i].ToArray());
+			tagsString.Append('"');
+			tagsString.Append(',');
+		}
+		if (entryData.tags.size > 0) {
+			tagsString.RemoveLast();
+		}
+		tagsString.Append(']');
+		entryData.kmkv.GetValue("tags")->keywordTag.Append(ToString("array"));
+
+		DynamicArray<char> entryJson;
+		if (!KmkvToJson(entryData.kmkv, &entryJson)) {
+			fprintf(stderr, "KmkvToJson failed for entry %.*s\n", (int)uri.size, uri.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		res.set_content(entryJson.data, entryJson.size, "application/json");
+	});
+
+	serverDev.Post("/newImage", [](const httplib::Request& req, httplib::Response& res) {
+		if (!req.has_file("imageFile")) {
+			fprintf(stderr, "newImage request missing \"imageFile\"\n");
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		if (!req.has_file("npnEntryPath")) {
+			fprintf(stderr, "newImage request missing \"npnEntryPath\"\n");
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		if (!req.has_file("npnLabel")) {
+			fprintf(stderr, "newImage request missing \"npnLabel\"\n");
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		const auto& file = req.get_file_value("imageFile");
+		const auto& npnEntryPath = req.get_file_value("npnEntryPath");
+		const auto& npnLabel = req.get_file_value("npnLabel");
+	});
+
 	publicPath = rootPath;
 	publicPath.Append(ToString("data/public-dev"));
 	publicPath.Append('\0');
