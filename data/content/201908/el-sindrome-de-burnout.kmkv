@@ -4,7 +4,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201908/headers/burnout.jpg
 }
-tags ciencia
+tags{array} ciencia
 title El síndrome de burnout: la condición ignorada que acecha los lugares de trabajo
 description Sentirse agobiado por el trabajo se ha normalizado, pero a veces, el estrés en el trabajo es tanto que tiene nombre: burnout. ¿Qué dice la ciencia respecto a este fenómeno recientemente reconocido por la OMS?
 day 27

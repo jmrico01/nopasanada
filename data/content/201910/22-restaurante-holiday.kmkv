@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201910/headers/22-restaurante-holiday.jpg
     poster{image} /images/201910/posters/22-restaurante-holiday.jpg
 }
-tags cultura
+tags{array} cultura
 title Restaurante Holiday: uno de los favoritos se renueva
 description Ecléctico, rompedor, retador. Holiday es un restaurante que se ha hecho un lugar en el paladar de quienes quieren descubrir la verdadera comida china.
 day 22

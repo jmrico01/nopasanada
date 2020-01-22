@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201911/headers/04-sociedad.jpg
     poster{image} /images/201911/posters/04-sociedad.jpg
 }
-tags ciencia
+tags{array} ciencia
 title Sociedad: ¿qué tenemos en común con los roedores?
 description Durante el experimento “Universo 25”, la vida en este espacio reducido llevó a los ratones a la locura.
 day 04

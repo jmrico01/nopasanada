@@ -13,7 +13,7 @@ media{kmkv} {
     meme2{image} /images/201911/08-bojack-horseman/meme2.jpg
     meme3{image} /images/201911/08-bojack-horseman/meme3.jpg
 }
-tags cultura
+tags{array} cultura
 title Lo que nos enseña Bojack Horseman sobre los protagonistas tóxicos.
 description Bojack Horseman dice que no es “cool” que te identifiques tanto con Tyler Durden: lo que los “filmbros” no entienden sobre los machos tóxicos en el cine por @estossonmisojos Link en bio | Artículo: “Protagonistas Tóxicos.”
 day 08

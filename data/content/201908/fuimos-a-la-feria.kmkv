@@ -12,7 +12,7 @@ media{kmkv} {
     image7{image} /images/201908/article-28/7.jpg
     image8{image} /images/201908/article-28/8.jpg
 }
-tags cultura
+tags{array} cultura
 title Fuimos a la feria con 5 rojos y esto fue lo que compramos
 description Las razones para ir a la feria del agricultor sobran: se gasta menos dinero, las cosas están más frescas y se conecta con la comunidad que produce y cosecha nuestros alimentos.
 day 28

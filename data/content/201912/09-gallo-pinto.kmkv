@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201912/headers/09-gallo-pinto.jpg
     poster{image} /images/201912/posters/09-gallo-pinto.jpg
 }
-tags cultura, home
+tags{array} cultura, home
 title Re-encontrarse con la comida típica en el restaurante La Granja
 description ¿Cuál es el platillo tradicional de tu país que más te transporta a tu infancia? La comida típica nos re-conecta con los paisajes de y momentos felices de nuestro pasado. La Granja es un restaurante de comida costarricense que ha servido tortillas palmeadas, gallo pinto, olla de carne y demás delicias por más de veinte años.
 day 09

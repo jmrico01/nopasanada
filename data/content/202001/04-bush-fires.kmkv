@@ -40,7 +40,7 @@ media{kmkv} {
     bushfire1{image} /images/202001/04-bush-fires/bushfire1.jpg
     bushfire2{image} /images/202001/04-bush-fires/bushfire2.jpg
 }
-tags noticias, home, ciencia
+tags{array} noticias, home, ciencia
 title Los incendios forestales en Australia
 day 04
 month 01

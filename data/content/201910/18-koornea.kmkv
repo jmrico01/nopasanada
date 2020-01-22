@@ -13,7 +13,7 @@ media{kmkv} {
     image3{image} /images/201910/18-koornea/3.jpg
     image4{image} /images/201910/18-koornea/4.jpg
 }
-tags cultura
+tags{array} cultura
 title Koornea: los ojos de Andrés Orozco
 description Andrés Orozco es un joven fotógrafo costarricense. En Instagram, trabaja y comparte de manera personal bajo el pseudónimo de Koornea; su extenso repertorio demuestra su flexibilidad y sensibilidad como artista.
 day 18

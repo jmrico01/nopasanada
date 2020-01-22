@@ -30,7 +30,7 @@ media{kmkv} {
     dubai{image} /images/202001/necesita-saber-iran/dubai.jpg
     propaganda{image} /images/202001/necesita-saber-iran/propaganda.jpg
 }
-tags noticias, home
+tags{array} noticias, home
 title Todo lo que necesita saber sobre los ataques de Irán contra bases de EE.UU
 description Iran mantuvo una respuesta sobre la muerte del general Soleimani, aqui una explicación sobre lo que necesita saber al respecto.
 day 08

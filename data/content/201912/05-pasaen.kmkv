@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201911/headers/15-andrea-kader.jpg
     poster{image} /images/201912/posters/05-pasaen.jpg
 }
-tags deporte, pasaen
+tags{array} deporte, pasaen
 title SAPRISSA: "EL TIEMPO TAMBIÉN JUEGA"
 titlePoster Pasa En La Liga Promerica: EP 04
 description Tras recibir un golpe duro para el equipo, el Deportivo Saprissa se encuentra en Jicaral donde topa con un huracán de equipo listo para enfrentárseles.

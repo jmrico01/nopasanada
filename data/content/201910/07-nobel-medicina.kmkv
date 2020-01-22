@@ -5,7 +5,7 @@ media{kmkv} {
     header{image} /images/201910/headers/07-nobel-medicina.jpg
     poster{image} /images/201910/posters/07-nobel-medicina.jpg
 }
-tags ciencia
+tags{array} ciencia
 title Nobel de Medicina a investigación sobre adaptación del cuerpo a niveles de oxígeno
 day 07
 month 10

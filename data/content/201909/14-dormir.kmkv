@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201909/headers/dormir.jpg
 }
-tags ciencia
+tags{array} ciencia
 title Dormir no está de moda, pero debería — Los estragos de la deprivación de sueño en el cuerpo
 description ¿Quién no ha escuchado a los compañeros o colegas decir: “ayer aproveché un montón, me acosté a las 3am después de estudiar (o trabajar) y me levanté a las 6am.”?
 day 14

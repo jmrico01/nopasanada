@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201910/headers/01-axtapas.jpg
 }
-tags cultura
+tags{array} cultura
 title A x Tapas: el orgulloso sabor de la cocina tradicional española
 description De moda, de vanguardia, de siempre. La cocina española se reinventa y se mantiene intacta. Referente de amplitud debido no solo a sus variados climas y regiones, sino también al carácter de su gente, y sus herencias y patrimonios ancestrales, nostálgicos, recientes y particulares.
 day 01

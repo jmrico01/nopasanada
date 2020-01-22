@@ -22,7 +22,7 @@ media{kmkv} {
     iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
     iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
 }
-tags cultura, home
+tags{array} cultura, home
 title Conozca 4 de los sitios de interés cultural en Irán que Trump insistió en amenazar
 description La herencia cultural de Irán incluye testimonios milenarios de la creatividad y la invención humana. ¿Qué se perdería si Donald Trump cumpliera su disparatada promesa de llevar a cabo un crimen de guerra al atacar estos sitios?
 day 08

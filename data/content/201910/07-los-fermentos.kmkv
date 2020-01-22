@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201910/headers/07-los-fermentos.jpg
 }
-tags ciencia
+tags{array} ciencia
 title Los fermentos: el experimento gastronómico más antiguo de la humanidad
 description Desde el queso y la cerveza, hasta el yogurt y la kombucha, los productos fermentados que más amamos tienen una cosa en común: microorganismos.
 day 07

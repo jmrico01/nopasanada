@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201910/headers/31-costa-rica-vs-el-cine.jpg
     poster{image} /images/201910/posters/31-costa-rica-vs-el-cine.jpg
 }
-tags opinion, cultura
+tags{array} opinion, cultura
 title Costa Rica vs. el cine, o lo irónico del recorte a la producción cinematográfica
 description Opinión: La asamblea legislativa aprobó un irónico recorte de 100 millones de colones a la producción cinematográfica. ¿Qué dice esto sobre la sociedad costarricense? Por @luisamorafernandez. Artículo: “Costa Rica vs. el cine.”
 day 31

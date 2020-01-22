@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201912/headers/05-himno-feminista.jpg
     poster{image} /images/201912/posters/05-himno-feminista.jpg
 }
-tags cultura, home
+tags{array} cultura, home
 title El himno feminista viral que nació en Chile
 description #viral “Un violador en tu camino,” la intervención que nació en Chile y ha sido replicada en el mundo entero, denuncia a los estados por permitir la violencia de género sistémica.
 day 06

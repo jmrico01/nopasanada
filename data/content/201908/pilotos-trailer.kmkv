@@ -14,7 +14,7 @@ media{kmkv} {
     featured3{image} /images/201908/headers/moto3.jpg
     featured4{image} /images/201908/headers/moto4.jpg
 }
-tags cultura, deporte, home
+tags{array} cultura, deporte, home
 title Pilotos, Episodio 1. Trailer
 titlePoster Pilotos, Episodio 1.<br>Trailer
 day 13

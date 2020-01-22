@@ -19,7 +19,7 @@ media{kmkv} {
     stussytribejacket{image} /images/201911/27-stussy/stussytribejacket.jpg
     skaterstussy{image} /images/201911/27-stussy/skaterstussy.jpg
 }
-tags cultura
+tags{array} cultura
 title Stüssy: la marca pionera del streetwear
 description Shawn Stussy cambió de forma definitiva el mercado de la ropa casual, a pesar de que nunca invirtió en publicidad para su marca. @mauriciofonsecavargas - dueño de la marca @milagro_1990 - nos cuenta la historia del padre del streetwear.
 day 27

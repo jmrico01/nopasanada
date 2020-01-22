@@ -15,7 +15,7 @@ media{kmkv} {
     bottom{image} /images/201912/09-al-mercat/bottom.jpg
     portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
 }
-tags cultura, home
+tags{array} cultura, home
 title Arte robado: a veces con pasamontañas en medio de una tormenta, a veces en contextos de guerra y opresión.
 description “Encuentran pintura robada de Gustav Klimt escondida dentro de la pared de un museo italiano”: aunque suene como el tagline de una secuela de Ocean’s Eleven, la noticia es real y le dio la vuelta al mundo el pasado 11 de Diciembre.
 day 12

@@ -22,7 +22,7 @@ media{kmkv} {
     iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
     iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
 }
-tags cultura, home
+tags{array} cultura, home
 title El Long Island Ice Tea Perfecto
 description En este episodio de Cola De Gallo mixólogo profesional Jose Daniel Pacheco te enseña a hacer el "Long Island Ice Tea" perfecto.
 day 09

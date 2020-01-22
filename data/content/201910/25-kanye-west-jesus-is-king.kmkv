@@ -13,7 +13,7 @@ media{kmkv} {
     image3{image} /images/201910/25-kanye-west-jesus-is-king/image3.jpg
     image2{image} /images/201910/25-kanye-west-jesus-is-king/image2.jpg
 }
-tags cultura
+tags{array} cultura
 title Kanye West atrasa lanzamiento de Jesus is King.
 description Kanye West atrasa lanzamiento de Jesús is King. West planeaba debutar su nuevo albúm de influencia religiosa "Jesus is King" el Jueves 24, pero el lanzamiento fue marcado por uno de sus habituales atrasos.
 day 25

@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201912/headers/04-los-goyas.jpg
     poster{image} /images/201912/posters/04-los-goyas.jpg
 }
-tags cultura, home
+tags{array} cultura, home
 title Las cuatro películas latinoamericanas nominadas al Goya
 description Una mujer que despierta, un triángulo amoroso que data de la dictadura, una manada de jóvenes perdidos en la jungla, y nueve giles que deciden no dejarse estafar: las cuatro películas latinoamericanas nominadas a los premios Goya de España.
 day 04

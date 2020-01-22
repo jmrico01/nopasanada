@@ -15,7 +15,7 @@ media{kmkv} {
     cuajiniquil{image} /images/201910/23-felix-en-el-manglar/cuajiniquil.jpg
     alcaravan{image} /images/201910/23-felix-en-el-manglar/alcaravan.jpg
 }
-tags cultura
+tags{array} cultura
 title Félix en el manglar
 description Ser un puente entre la gente y la ciencia: esta es la ambición de Félix, un guía turístico y fotógrafo que vive sus días en los bosques, junglas y manglares de Costa Rica.
 day 23

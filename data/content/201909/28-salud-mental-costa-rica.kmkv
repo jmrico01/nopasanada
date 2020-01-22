@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201909/headers/28-salud-mental.jpg
 }
-tags ciencia
+tags{array} ciencia
 title Salud Mental en Costa Rica: con diagnóstico pendiente
 description La salud mental no parece ser prioridad para un país que desde hace cuatro administraciones no invierte en estudios macro al respecto.
 day 28

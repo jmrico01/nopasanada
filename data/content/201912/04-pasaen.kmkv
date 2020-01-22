@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201911/headers/15-andrea-kader.jpg
 }
-tags deporte, pasaen
+tags{array} deporte, pasaen
 title JICARAL, CARTAGO Y UCR DEFIENDEN LA CLASIFICACIÓN
 titlePoster Pasa En La Liga Promerica
 description Después de un partido lleno de emociones entre Jicaral y Cartago, vemos en el tercer episodio de "Pasa En: La Liga Promerica" como se defiende la búsqueda por la clasificación. Feat: Rafel Angel Núñez, Jameson Scott Guevara y Cristian Montero.

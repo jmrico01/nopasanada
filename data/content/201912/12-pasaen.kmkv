@@ -4,7 +4,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/unused/garrazo.jpg
 }
-tags deporte, pasaen
+tags{array} deporte, pasaen
 title ALAJUELENSE EN CAMINO AL TÍTULO
 titlePoster Pasa En La Liga Promerica
 description Jicaral no logra llegar a su máximo objetivo de lograr entrar a la semi-final de la Liga Promerica, y La Liga Deportiva Alajuelensé se demuestra fuerte entrando a la búsqueda por el titulo. Vea esto y más en este episodio de Pasa En La Liga Promerica.

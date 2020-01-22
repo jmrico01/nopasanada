@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201910/headers/15-sleep-paralysis.jpg
 }
-tags ciencia
+tags{array} ciencia
 title Sleep paralysis: cuando irse a dormir es aterrador
 description El sleep paralysis, o parálisis del sueño, puede ser de los eventos más aterradores que alguien puede experimentar mientras duerme. ¿Qué se sabe sobre esto y cómo se puede prevenir?
 day 15

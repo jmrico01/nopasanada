@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201911/headers/15-andrea-kader.jpg
     poster{image} /images/201912/posters/03-pasaen.jpg
 }
-tags deporte, pasaen
+tags{array} deporte, pasaen
 title LDA: PORTEROS Y LA VIDA BAJO LOS TRES POSTES
 titlePoster Pasa En La Liga Promerica: EP 03
 description En el segundo episodio de "Pasa En: La Liga Promerica" conocemos historias de Adonis Pineda de La Liga Deportiva Alajuelense y Luis Alipzar de Jicaral de Sercoba.

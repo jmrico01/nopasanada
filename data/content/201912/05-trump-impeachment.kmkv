@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201912/headers/05-trump-impeachment.jpg
     poster{image} /images/201912/posters/05-trump-impeachment.jpg
 }
-tags noticias, home
+tags{array} noticias, home
 title Es oficial: Pelosi pide artículos de juicio político contra Trump.
 description Es oficial: Pelosi pide artículos de juicio político contra Trump.
 day 05

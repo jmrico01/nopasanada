@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201911/headers/11-ilustradoras.jpg
 }
-tags cultura
+tags{array} cultura
 title 6 ilustradoras latinoamericanas que hay que seguir
 description En latinoamérica, las mujeres que ilustran tienen mucho para decir. Recomendamos seguirlas para recibir una buena dosis de introspección, humor y lucidez. (Flags from: Chile, Costa Rica, Perú, Colombia, Puerto Rico, Argentina and México).
 day 11

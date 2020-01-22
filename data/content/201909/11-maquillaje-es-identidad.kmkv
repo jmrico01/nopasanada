@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201909/headers/maquillaje.jpg
     poster{image} /images/201909/posters/11-article.jpg
 }
-tags cultura, opinion
+tags{array} cultura, opinion
 title Para las nuevas generaciones, el maquillaje es identidad, expresión y auto-cuido
 description Ya no se trata de alcanzar la perfección; nuestra relación con el maquillaje se ha transformado.
 day 11

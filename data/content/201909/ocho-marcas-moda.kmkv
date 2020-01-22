@@ -4,7 +4,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201909/headers/moda2.jpg
 }
-tags cultura, opinion
+tags{array} cultura, opinion
 title Ocho marcas latinoamericanas de moda sostenible que deberías conocer
 description La industria de la moda funciona bajo uno de los modelos de negocio más contaminantes, pero estas ocho marcas demuestran que hacer ropa sostenible - usando materiales y procesos responsables con el medio ambiente - no es una utopía.
 day 04

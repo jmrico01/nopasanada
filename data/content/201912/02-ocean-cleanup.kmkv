@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201912/headers/02-ocean-cleanup.jpg
     poster{image} /images/201912/posters/02-ocean-cleanup.jpg
 }
-tags ciencia, home
+tags{array} ciencia, home
 title Boyan Slat: el joven que quiere detener el plástico antes de que llegue a los océanos.
 description Detener los plásticos antes de que lleguen al mar: después de muchos años de investigación y experimentación, Boyan Slat (un joven de solo 25 años), puso en práctica el primer prototipo de su proyecto “The Ocean Clean-up.”
 day 02

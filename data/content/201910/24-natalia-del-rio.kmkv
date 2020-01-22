@@ -18,7 +18,7 @@ media{kmkv} {
     image8{image} /images/201910/24-natalia-del-rio/8.jpg
     image9{image} /images/201910/24-natalia-del-rio/9.jpg
 }
-tags cultura
+tags{array} cultura
 title La verdad está en el baño: entrevista con Natalia Del Río
 description Con su proyecto @fulldisclothesureproject, la fotógrafa Mexicana @nattyfresh viaja alrededor del mundo para probar una tesis: en el baño está la verdad de lo que somos. #historias por @luisamorafernandez #entrevista
 day 24

@@ -14,7 +14,7 @@ media{kmkv} {
     image3{image} /images/201911/14-manual/image3.jpg
     image4{image} /images/201911/14-manual/image4.jpg
 }
-tags cultura
+tags{array} cultura
 title Manual para el cine de fantasía latinoamericano
 description Cinco tips del director Mexicano Daniel Castro Zimbrón para hacer buen cine de fantasía.
 day 14

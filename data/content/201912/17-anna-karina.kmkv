@@ -17,7 +17,7 @@ media{kmkv} {
     annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
     annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
 }
-tags cultura, opinion, home
+tags{array} cultura, opinion, home
 title Lo injusto de recordar a Anna Karina por su relación con Jean-Luc Godard.
 description “Hoy el cine Francés está huérfano,” expresó el domingo en ministro Francés de Cultura, cuando se supo que Anna Karina, a mujer más icónica de la nueva ola francesa, había muerto. Nosotros nos preguntamos: ¿quién sería Jean-Luc Godard sin Anna Karina?
 day 17

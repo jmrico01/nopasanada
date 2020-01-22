@@ -9,7 +9,7 @@ media{kmkv} {
     header{image} /images/201912/headers/12-solo-lo-importante-video.jpg
     poster{image} /images/201912/posters/12-solo-lo-importante-video.jpg
 }
-tags home, noticias
+tags{array} home, noticias
 title ¿POLÉMICO? Greta Thunberg "persona del año", la pintura "gay" de Zapata, genocidio en Birmania y más
 titlePoster Solo Lo Importante con Jovel Álvarez 12.12.19
 description En Lo Importante de hoy vemos como Greta Thunberg fue nombrada como la persona del año por la revista Time. Además, un artista mexicano pinta al famoso Emiliano Zapata de manera "femenina" o "gay" y causa reacciones escandalosas en Mexico y en Francia continuan las protestas sobre el cambio de pensiones.

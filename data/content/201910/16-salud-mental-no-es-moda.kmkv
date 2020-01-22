@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201910/headers/16-salud-mental-moda.jpg
     poster{image} /images/201910/posters/16-salud-mental-moda.jpg
 }
-tags cultura
+tags{array} cultura
 title “La salud mental no es moda”: El mensaje de una modelo a los diseñadores de Gucci
 description Las camisas de fuerza no deberían tratarse a la ligera: esta parece ser la lección para los diseñadores de la marca Gucci.
 day 16

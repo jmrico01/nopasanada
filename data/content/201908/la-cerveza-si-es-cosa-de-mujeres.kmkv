@@ -9,7 +9,7 @@ media{kmkv} {
     image3{image} /images/201908/article-20/3.jpeg
     image4{image} /images/201908/article-20/4.jpeg
 }
-tags cultura, opinion
+tags{array} cultura, opinion
 title Abajo el estereotipo: la cerveza sí es cosa de mujeres
 description Conversamos con una mujer cervecera sobre cómo es trabajar en una industria estereotípicamente masculina.
 day 20

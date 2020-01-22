@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201912/headers/04-teatro-argentino.jpg
     poster{image} /images/201912/posters/04-teatro-argentino.jpg
 }
-tags cultura, home
+tags{array} cultura, home
 title Teatro argentino: resiste la crisis contra viento y marea
 description Buenos Aires: los sueldos de los artistas han bajado, y ahora necesitan malabarear tres o cuatro trabajos en paralelo para poder sobrevivir. Pese a la inflación, la recesión y un aumento de casi 1.500% en las tarifas de electricidad, las salas de teatro de la ciudad de la furia siguen abriendo todas las noches
 day 04

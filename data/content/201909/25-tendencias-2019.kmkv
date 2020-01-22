@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201909/headers/25-tendencias-2019.jpg
 }
-tags cultura
+tags{array} cultura
 title Las tendencias más amadas (y más odiadas) de este año
 description ¿Qué tendencias trajo el 2019? Algunas son medio raras, pero todas se valen si se encuentra la forma correcta de usarlas
 day 25

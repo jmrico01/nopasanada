@@ -4,7 +4,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201908/headers/fashion.jpg
 }
-tags cultura
+tags{array} cultura
 title Los diseños sostenibles de Andrea Kader: aire fresco en un mundo cada vez más contaminado.
 description La moda es la industria más contaminante del planeta. El futuro del fashion está en diseñadores como Andrea Kader, tica dedicada a retar la cultura de la moda rápida.
 day 26

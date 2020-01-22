@@ -21,7 +21,7 @@ media{kmkv} {
     petit{image} /images/201912/13-desayunos/petit.jpg
     pancakes{image} /images/201912/13-desayunos/pancakes.jpg
 }
-tags cultura, home
+tags{array} cultura, home
 title Los 5 desayunos que debe probar en San José, Diciembre 2019
 description ¿Dónde están los mejores desayunos de San José? Te compartimos esta lista de La Guida para encontrarlos.
 day 13

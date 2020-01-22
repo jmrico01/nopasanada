@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201912/headers/05-woke-brands.jpg
     poster{image} /images/201912/posters/05-woke-brands.jpg
 }
-tags opinion, home
+tags{array} opinion, home
 title ¿Qué tan woke son realmente las marcas woke?
 description ¿Qué tan “woke” son realmente las marcas “woke”? Con su contenido inclusivo y representativo que desafía roles de género, marcas como Gillette y Sprite nos quieren vender la ilusión de que no nos están tratando de vender nada. Pero, ¡que no se nos olvide! Al fin y al cabo, solo están haciendo publicidad.
 day 05

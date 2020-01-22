@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201911/headers/21-en-venezuela-lo-importante.jpg
     poster{image} /images/201911/posters/21-en-venezuela-lo-importante.jpg
 }
-tags noticias
+tags{array} noticias
 title FUIMOS A VENEZUELA | Jovel Álvarez y Pietro Cercone reflexionan sobre su viaje a Venezuela
 titlePoster FUIMOS A VENEZUELA
 description {

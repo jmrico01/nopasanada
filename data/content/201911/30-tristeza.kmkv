@@ -19,7 +19,7 @@ media{kmkv} {
     stussytribejacket{image} /images/201911/27-stussy/stussytribejacket.jpg
     skaterstussy{image} /images/201911/27-stussy/skaterstussy.jpg
 }
-tags cultura
+tags{array} cultura
 title Convertir la tristeza en un acto de magia
 day 30
 month 11

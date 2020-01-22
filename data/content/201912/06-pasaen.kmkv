@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201911/headers/15-andrea-kader.jpg
 }
-tags deporte, pasaen
+tags{array} deporte, pasaen
 title LOS GUERREROS DEL SUR "AUGE Y TRADICIÓN"
 titlePoster Pasa En La Liga Promerica
 description Buscando el norte luego de una jornada sin definir, Jicaral viaja a Pérez Zeledón donde se encuentra con "Los Guerreros del Sur". Conozca al famoso equipo de Pérez Zeledón, su nuevo estadio, e impetuosa organización.

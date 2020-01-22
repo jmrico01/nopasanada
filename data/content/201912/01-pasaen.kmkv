@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201911/headers/15-andrea-kader.jpg
 }
-tags deporte, pasaen
+tags{array} deporte, pasaen
 title TRAILER: PASA EN LA LIGA PROMERICA
 titlePoster Pasa En La Liga Promerica
 description Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.

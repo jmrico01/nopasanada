@@ -16,7 +16,7 @@ media{kmkv} {
     boomer3{image} /images/201911/26-ok-boomer/boomer3.jpg
     boomer4{image} /images/201911/26-ok-boomer/boomer4.jpg
 }
-tags opinion
+tags{array} opinion
 title OK BOOMER: el manifiesto detrás del meme.
 description Lo que está detrás del meme que une a la GenZ y los Millennials: “así que, boomers... hablemos - pero no solo eso: escuchémonos. Hasta que eso no pase, seguiremos saliendo de la conversación con la cabeza en alto, al mejor estilo descarado del OK, BOOMER.”
 day 26

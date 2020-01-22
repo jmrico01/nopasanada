@@ -12,7 +12,7 @@ media{kmkv} {
     ceviche1{image} /images/201911/13-ceviches/ceviche1.jpg
     ceviche2{image} /images/201911/13-ceviches/ceviche2.jpg
 }
-tags cultura
+tags{array} cultura
 title Sesenta propuestas de ceviche, un festival al lado del mar
 description {
 El ceviche une a los latinoamericanos y todos tenemos nuestra receta favorita. Alberto Gatgens (@elgastronomistacr), nos comparte una crónica del Festival de Ceviche, una verdadera extravaganza en el pacífico central de Costa Rica. 

@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201909/headers/27-lana-del-rey.jpg
 }
-tags cultura
+tags{array} cultura
 title El poder de Lana del Rey: mantenerse en la cima siendo ella misma
 description La música de Lana del Rey representa el alter ego de una generación. Ahora, llega a una fase de cierre con un solo mensaje: la esperanza es algo peligroso para una mujer como ella, pero la tiene.
 day 27

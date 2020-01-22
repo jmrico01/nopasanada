@@ -4,7 +4,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201909/headers/alimentos.jpg
 }
-tags ciencia
+tags{array} ciencia
 title Estamos deforestando para producir alimentos que terminan en el basurero
 description 1.4 billones de hectáreas de tierra son utilizadas para producir comida que nunca va a ser consumida. En No pasa Nada preparamos algunos consejos para mitigar el problema desde el ámbito personal.
 day 05

@@ -10,7 +10,7 @@ media{kmkv} {
     opinion2{image} /images/201908/article-21/opinion2.png
     opinion3{image} /images/201908/article-21/opinion3.png
 }
-tags ciencia
+tags{array} ciencia
 title 8 preguntas frecuentes sobre la copa menstrual respondidas con la ciencia
 description No más incertidumbre o dudas acerca de la copa menstrual. Si estabas considerando comprarla, esta info te ayudará a decidirte.
 day 21

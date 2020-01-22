@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201908/headers/teletrabajo.jpg
 }
-tags ciencia, opinion
+tags{array} ciencia, opinion
 title La nueva ley para regular el teletrabajo es un respiro para empleados, empresas - y el país.
 description Reducir costos, incrementar productividad, disminuir el consumo de combustibles: así enumera el Ministerio de Trabajo las consecuencias positivas de la nueva Ley.
 day 30

@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201910/headers/29-campeon-ambiental.jpg
 }
-tags ciencia
+tags{array} ciencia
 title ¿Costa Rica, campeón ambiental? Sí y no.
 description {
 Costa Rica se lleva galardones por su gestión ambiental… pero, ¿qué tan cierto es “el mito del país verde”? @sebastianrodvar

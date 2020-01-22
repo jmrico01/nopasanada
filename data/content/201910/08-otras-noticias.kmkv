@@ -5,7 +5,7 @@ media{kmkv} {
     header{image} /images/201910/headers/08-otras-noticias.jpg
     poster{image} /images/201910/posters/08-otras-noticias.jpg
 }
-tags noticias
+tags{array} noticias
 title Indígenas toman Quito y ponen en jaque al gobierno de Moreno
 day 08
 month 10

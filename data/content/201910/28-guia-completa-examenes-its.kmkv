@@ -11,7 +11,7 @@ media{kmkv} {
     image1{image} /images/201910/28-guia-completa-examenes-its/1.png
     image2{image} /images/201910/28-guia-completa-examenes-its/2.png
 }
-tags ciencia
+tags{array} ciencia
 title Infecciones de Transmisión Sexual: Guía completa
 description ¿Cada cuánto hacerse pruebas? ¿Cómo hablar al respecto con nuestras parejas? Te compartimos esta guía completa a las infecciones de transmisión sextual (ITS), cortesía de Alejandra Vázquez, quien con su proyecto @nacionovulacion nos insta a que hablemos sobre los temas de educación sexual que no nos enseñaron en el colegio.
 day 28

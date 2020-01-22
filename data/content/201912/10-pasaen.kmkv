@@ -4,7 +4,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/unused/garrazo.jpg
 }
-tags deporte, pasaen
+tags{array} deporte, pasaen
 title HEREDIANO VA POR EL TÍTULO
 titlePoster Pasa En La Liga Promerica
 description Luego de un largo y difícil camino, conocemos como el Club Sport Herediano va por el titulo de esta Liga Promerica.

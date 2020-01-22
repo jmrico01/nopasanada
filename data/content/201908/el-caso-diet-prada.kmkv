@@ -4,7 +4,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201908/headers/diet-prada.jpg
 }
-tags cultura, opinion
+tags{array} cultura, opinion
 title El caso Diet Prada y el abuso sexual en el mundo de la moda
 description El negocio turbio detrás de la fama y sus fotógrafos.
 day 19

@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201911/headers/19-lado-b.jpg
     poster{image} /images/201911/posters/19-lado-b.jpg
 }
-tags cultura
+tags{array} cultura
 title Fact-checking: aprendiendo a lidiar con los “fake news”.
 description ¿Qué impacto tienen las noticias falsas en la estabilidad social? ¿Qué rol juegan las redes sociales en su diseminación? Un fact-checker nos habla sobre los alt-facts y la importancia de pausar antes de compartir.
 day 19

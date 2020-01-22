@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201908/headers/garrotex1.jpg
 }
-tags nopasanada
+tags{array} nopasanada
 title No Pasa Nada: El porqué.
 titlePoster No Pasa Nada:<br>El porqué.
 day 12

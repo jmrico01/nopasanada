@@ -12,7 +12,7 @@ media{kmkv} {
     header-mobile3{image} /images/201909/newsletter-10/square3.jpg
     header-mobile4{image} /images/201909/newsletter-10/square4.jpg
 }
-tags noticias
+tags{array} noticias
 title Lo Importante: 10-09-19
 description 4 historias importantes de las más recientes noticias internacionales
 day 10

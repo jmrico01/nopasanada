@@ -4,7 +4,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201909/headers/coral.jpg
 }
-tags 
+tags{array} 
 title Historias
 description Nos han dicho que el protector solar que dejamos detrás en el mar contribuye al blaqueamiento de los corales, pero los científicos no están del todo convencidos.
 subtext1 {

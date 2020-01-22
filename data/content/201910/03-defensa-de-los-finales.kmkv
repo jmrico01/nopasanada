@@ -9,7 +9,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201910/headers/03-finales.jpg
 }
-tags cultura
+tags{array} cultura
 title En defensa de los finales: por qué las franquicias deben terminar
 description Hoy en día, Hollywood se resiste a ponerle punto final a sus historias: las franquicias, spin-offs y secuelas se han apoderado del cine. Pero, ¿es una historia verdaderamente una historia si nunca termina?
 day 03

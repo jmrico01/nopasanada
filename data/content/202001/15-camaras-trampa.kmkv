@@ -30,7 +30,7 @@ media{kmkv} {
     dubai{image} /images/202001/necesita-saber-iran/dubai.jpg
     propaganda{image} /images/202001/necesita-saber-iran/propaganda.jpg
 }
-tags ciencia, home
+tags{array} ciencia, home
 title Las cámaras trampa que registran los animales de Costa Rica
 description Las cámaras trampa que registran la fauna de Costa Rica: en medio de noticias bélicas e incendios forestales en otras latitudes, es bueno recordar la maravillosa biodiversidad costarricense, y la importancia de su conservación.
 day 15

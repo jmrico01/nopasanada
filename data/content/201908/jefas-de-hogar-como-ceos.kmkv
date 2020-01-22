@@ -4,7 +4,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/201908/headers/jefas-de-hogar.jpg
 }
-tags opinion
+tags{array} opinion
 title Jefas de hogar como CEOs: los dilemas que enfrentan las mujeres al trabajar.
 description Discriminación de género, falta de corresponsabilidad en los cuidados, división sexual del trabajo... realidades que dificultan a las mujeres incursionar en el mercado laboral.
 day 22

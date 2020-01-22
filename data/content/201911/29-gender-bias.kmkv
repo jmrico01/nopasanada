@@ -19,7 +19,7 @@ media{kmkv} {
     stussytribejacket{image} /images/201911/27-stussy/stussytribejacket.jpg
     skaterstussy{image} /images/201911/27-stussy/skaterstussy.jpg
 }
-tags cultura, opinion
+tags{array} cultura, opinion
 title “Gender bias”: la violencia de género cotidiana que pasamos por alto.
 description #25N: el diseño de las ciudades, la tecnología, la historia y el lenguaje: cuatro ejemplos de violencia de género cotidiana que pasamos por alto.
 day 29
