@@ -526,21 +526,6 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 				(int)pathBuffer.size, pathBuffer.data);
 			return false;
 		}
-		if (i == 0) {
-			HashTable<KmkvItem<StandardAllocator>> kmkvTest;
-			if (!JsonToKmkv(outJson->ToArray().SliceFrom(1), &defaultAllocator_, &kmkvTest)) {
-				fprintf(stderr, "test JsonToKmkv failed for entry %.*s\n",
-					(int)pathBuffer.size, pathBuffer.data);
-				return false;
-			}
-			DynamicArray<char> kmkvString;
-			if (!KmkvToString(kmkvTest, &kmkvString)) {
-				fprintf(stderr, "test KmkvToString failed for entry %.*s\n",
-					(int)pathBuffer.size, pathBuffer.data);
-				return false;
-			}
-			printf("%.*s\n", (int)kmkvString.size, kmkvString.data);
-		}
 		outJson->Append(',');
 	}
 
@@ -940,7 +925,7 @@ int main(int argc, char** argv)
 		res.set_content(entryJson.data, entryJson.size, "application/json");
 	});
 
-	serverDev.Post("/featured", [](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/featured", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
 		Array<char> jsonString = ToString(req.body.c_str());
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(jsonString, &defaultAllocator_, &kmkv)) {
@@ -949,6 +934,40 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
+
+		DynamicArray<char> kmkvString;
+		if (!KmkvToString(kmkv, &kmkvString)) {
+			fprintf(stderr, "KmkvToString failed for featured kmkv\n");
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		FixedArray<char, PATH_MAX_LENGTH> featuredKmkvPath = rootPath;
+		featuredKmkvPath.Append(ToString("data/featured.kmkv"));
+		const Array<uint8> kmkvData = { .size = kmkvString.size, .data = (uint8*)kmkvString.data };
+		if (!WriteFile(featuredKmkvPath.ToArray(), kmkvData, false)) {
+			fprintf(stderr, "WriteFile failed for featured kmkv string\n");
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		if (!LoadFeaturedJson(rootPath.ToArray(), &featuredJson)) {
+			fprintf(stderr, "Failed to reload featured JSON string\n");
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+	});
+
+	serverDev.Post("/content/[^/]+/.+", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+		// TODO implement
+	});
+
+	serverDev.Post("/newEntry", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+		// TODO implement
+	});
+
+	serverDev.Post("/deleteEntry", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+		// TODO implement
 	});
 
 	serverDev.Post("/newImage", [](const httplib::Request& req, httplib::Response& res) {
@@ -970,6 +989,20 @@ int main(int argc, char** argv)
 		const auto& file = req.get_file_value("imageFile");
 		const auto& npnEntryPath = req.get_file_value("npnEntryPath");
 		const auto& npnLabel = req.get_file_value("npnLabel");
+
+		// TODO implement
+	});
+
+	serverDev.Post("/reset", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+		// TODO implement
+	});
+
+	serverDev.Post("/commit", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+		// TODO implement
+	});
+
+	serverDev.Post("/deploy", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+		// TODO implement
 	});
 
 	publicPath = rootPath;
