@@ -450,6 +450,7 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 			fprintf(stderr, "LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
 			return false;
 		}
+		defer(FreeKmkv(entryData.kmkv));
 
 		HashTable<KmkvItem<StandardAllocator>>* metadataKmkvPtr = metadataKmkvs.Append();
 		HashTable<KmkvItem<StandardAllocator>>& metadataKmkv = *metadataKmkvPtr;
@@ -525,6 +526,21 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 				(int)pathBuffer.size, pathBuffer.data);
 			return false;
 		}
+		if (i == 0) {
+			HashTable<KmkvItem<StandardAllocator>> kmkvTest;
+			if (!JsonToKmkv(outJson->ToArray().SliceFrom(1), &defaultAllocator_, &kmkvTest)) {
+				fprintf(stderr, "test JsonToKmkv failed for entry %.*s\n",
+					(int)pathBuffer.size, pathBuffer.data);
+				return false;
+			}
+			DynamicArray<char> kmkvString;
+			if (!KmkvToString(kmkvTest, &kmkvString)) {
+				fprintf(stderr, "test KmkvToString failed for entry %.*s\n",
+					(int)pathBuffer.size, pathBuffer.data);
+				return false;
+			}
+			printf("%.*s\n", (int)kmkvString.size, kmkvString.data);
+		}
 		outJson->Append(',');
 	}
 
@@ -547,6 +563,7 @@ bool LoadFeaturedJson(const Array<char>& rootPath, DynamicArray<char, StandardAl
 			(int)featuredKmkvPath.size, featuredKmkvPath.data);
 		return false;
 	}
+	defer(FreeKmkv(featuredKmkv));
 
 	outJson->Clear();
 	if (!KmkvToJson(featuredKmkv, outJson)) {
@@ -650,6 +667,7 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
+		defer(FreeKmkv(entryData.kmkv));
 
 		FixedArray<char, PATH_MAX_LENGTH> templatePath = rootPath;
 		templatePath.Append(ToString("data/templates/"));
@@ -895,6 +913,7 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
+		defer(FreeKmkv(entryData.kmkv));
 
 		auto& tagsString = *(entryData.kmkv.GetValue("tags")->dynamicStringPtr);
 		tagsString.Clear();
@@ -919,6 +938,17 @@ int main(int argc, char** argv)
 		}
 
 		res.set_content(entryJson.data, entryJson.size, "application/json");
+	});
+
+	serverDev.Post("/featured", [](const httplib::Request& req, httplib::Response& res) {
+		Array<char> jsonString = ToString(req.body.c_str());
+		HashTable<KmkvItem<StandardAllocator>> kmkv;
+		if (!JsonToKmkv(jsonString, &defaultAllocator_, &kmkv)) {
+			fprintf(stderr, "JsonToKmkv failed for featured json string %.*s\n",
+				(int)jsonString.size, jsonString.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
 	});
 
 	serverDev.Post("/newImage", [](const httplib::Request& req, httplib::Response& res) {
@@ -962,6 +992,7 @@ int main(int argc, char** argv)
 	return 0;
 }
 
+#include <cJSON.c>
 #define STB_SPRINTF_IMPLEMENTATION
 #include <stb_sprintf.h>
 #undef STB_SPRINTF_IMPLEMENTATION

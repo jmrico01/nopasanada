@@ -11,11 +11,16 @@ PROJECT_NAME = "nopasanada"
 
 COPY_DIRS = {}
 
-DEFINES = DEFINES_ENV
+DEFINES = [
+	"KM_KMKV_JSON",
+	"KM_UTF8"
+]
+DEFINES.extend(DEFINES_ENV)
 
 DEPLOY_FILES = []
 
 LIBS_EXTERNAL = [
+	LibExternal("cJSON", "cJSON"),
 	LibExternal("cpp-httplib", "cpp-httplib"),
 	LibExternal("stb_sprintf", "stb_sprintf-1.06"),
 	LibExternal("utf8proc",    "utf8proc")
