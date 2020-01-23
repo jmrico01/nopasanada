@@ -1,5 +1,7 @@
 "use strict";
 
+const IMAGE_BASE_URL = "https://nopasanada.s3.amazonaws.com";
+
 let editors_ = null;
 
 let imageRowTemplate_ = null;
@@ -11,32 +13,15 @@ let uploadQueueInProcess_ = false;
 
 function UpdateImageList(images)
 {
-    $.ajax({
-        type: "GET",
-        url: "/previewSite",
-        contentType: "application/json",
-        dataType: "json",
-        async: true,
-        data: "",
-        success: function(data) {
-            let previewUrl = data.url;
-            let $imageList = $("#imagesList");
-            $imageList.html("");
-
-            for (let i = 0; i < images.length; i++) {
-                let $imageRow = $(imageRowTemplate_);
-                $imageRow.find(".rowImage img").attr("src", previewUrl + images[i].uri);
-                $imageRow.find(".rowText h2").html(images[i].name);
-                $imageList.append($imageRow);
-            }
-
-            images_ = images;
-        },
-        error: function(error) {
-            console.error("UpdateImageList failed");
-            console.error(error);
-        }
-    });
+    let $imageList = $("#imagesList");
+    $imageList.html("");
+    for (let i = 0; i < images.length; i++) {
+        let $imageRow = $(imageRowTemplate_);
+        $imageRow.find(".rowImage img").attr("src", IMAGE_BASE_URL + images[i].uri);
+        $imageRow.find(".rowText h2").html(images[i].name);
+        $imageList.append($imageRow);
+    }
+    images_ = images;
 }
 
 function GetEntryPath()

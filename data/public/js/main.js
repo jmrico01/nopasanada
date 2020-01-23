@@ -1,5 +1,7 @@
 "use strict";
 
+const IMAGE_BASE_URL = "https://nopasanada.s3.amazonaws.com";
+
 const FEATURED_IMAGE_FADE_MS = 400;
 const IMAGE_ANIM_MS = 250;
 
@@ -156,7 +158,7 @@ function ResetPosters(entries)
 
         let $entry = $(entryTemplate_);
         $entry.find("a").attr("href", entryData.uri);
-        $entry.find("img").attr("src", entryData.image);
+        $entry.find("img").attr("src", IMAGE_BASE_URL + entryData.image);
         $entry.find(".entryNumber").html(i + 1 + ".");
         $entry.find(".entryText").html(entryData.title);
         $contentList.append($entry);
@@ -302,7 +304,7 @@ $(document).ready(function() {
                 let imgClass = "featuredImage-" + key;
                 for (let i = 0; i < featuredEntries_[key].images.length; i++) {
                     let imgId = imgClass + "-" + i;
-                    let imgPath = featuredEntries_[key].images[i];
+                    let imgPath = IMAGE_BASE_URL + featuredEntries_[key].images[i];
                     $("#landingImageCycler").append("<img id=\"" + imgId + "\" class=\"featuredImage " + imgClass + "\" src=\"" + imgPath + "\">");
                     totalImages += 1;
                 }

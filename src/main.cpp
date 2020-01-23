@@ -457,7 +457,7 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		AllocAndSetString(metadataKmkv.Add("uri"), uri);
 		AllocAndSetString(metadataKmkv.Add("type"), entryData.typeString.ToArray());
 		AllocAndSetString(metadataKmkv.Add("tags"), Array<char>::empty);
-		auto& tagsString = *(metadataKmkv.GetValue("tags")->dynamicStringPtr);
+		auto& tagsString = *GetKmkvItemStrValue(metadataKmkv, "tags");
 		tagsString.Append('[');
 		for (uint64 i = 0; i < entryData.tags.size; i++) {
 			tagsString.Append('"');
@@ -503,7 +503,7 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 
 		// TODO look up "featured1" ... "featuredN" in entry media and use that if present
 		AllocAndSetString(featuredKmkv.Add("images"), Array<char>::empty);
-		auto& featuredImagesString = *(featuredKmkv.GetValue("images")->dynamicStringPtr);
+		auto& featuredImagesString = *GetKmkvItemStrValue(featuredKmkv, "images");
 		featuredImagesString.Append('[');
 		featuredImagesString.Append('"');
 		featuredImagesString.Append(entryData.header.ToArray());
@@ -900,7 +900,8 @@ int main(int argc, char** argv)
 		}
 		defer(FreeKmkv(entryData.kmkv));
 
-		auto& tagsString = *(entryData.kmkv.GetValue("tags")->dynamicStringPtr);
+		auto& tagsString = *GetKmkvItemStrValue(entryData.kmkv, "tags");
+		// TODO should this happen automatically when keywordTag == "array" ?
 		tagsString.Clear();
 		tagsString.Append('[');
 		for (uint64 i = 0; i < entryData.tags.size; i++) {
@@ -913,7 +914,7 @@ int main(int argc, char** argv)
 			tagsString.RemoveLast();
 		}
 		tagsString.Append(']');
-		entryData.kmkv.GetValue("tags")->keywordTag.Append(ToString("array"));
+		// entryData.kmkv.GetValue("tags")->keywordTag.Append(ToString("array"));
 
 		DynamicArray<char> entryJson;
 		if (!KmkvToJson(entryData.kmkv, &entryJson)) {
