@@ -1057,8 +1057,103 @@ int main(int argc, char** argv)
 		}
 	});
 
-	serverDev.Post("/newEntry", [&rootPath](const httplib::Request& req, httplib::Response& res) {
-		// TODO implement
+	serverDev.Post("/newEntry", [&rootPath, &allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+		Array<char> bodyJson = ToString(req.body);
+		HashTable<KmkvItem<StandardAllocator>> kmkv;
+		if (!JsonToKmkv(bodyJson, &defaultAllocator_, &kmkv)) {
+			fprintf(stderr, "JsonToKmkv failed for deleteEntry request body %.*s\n",
+				(int)bodyJson.size, bodyJson.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		const auto* name = GetKmkvItemStrValue(kmkv, "uniqueName");
+		const auto* type = GetKmkvItemStrValue(kmkv, "contentType");
+		const auto* copyFrom = GetKmkvItemStrValue(kmkv, "copyFrom");
+		if (name == nullptr || type == nullptr) {
+			fprintf(stderr, "newEntry request missing \"uniqueName\" or \"contentType\" fields\n");
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		for (uint64 i = 0; i < name->size; i++) {
+			if (!IsAlphanumeric((*name)[i]) && (*name)[i] != '-') {
+				fprintf(stderr, "newEntry name contains invalid characters: %.*s\n",
+					(int)name->size, name->data);
+				res.status = HTTP_STATUS_ERROR;
+				return;
+			}
+		}
+
+		FixedArray<char, PATH_MAX_LENGTH> srcKmkvPath = rootPath;
+		if (copyFrom == nullptr) {
+			srcKmkvPath.Append(ToString("data/templates/"));
+			srcKmkvPath.Append(type->ToArray());
+			srcKmkvPath.Append(ToString(".kmkv"));
+		}
+		else {
+			UriToKmkvPath(rootPath.ToArray(), copyFrom->ToArray(), &srcKmkvPath);
+		}
+
+		HashTable<KmkvItem<StandardAllocator>> srcKmkv;
+		if (!LoadKmkv(srcKmkvPath.ToArray(), &defaultAllocator_, &srcKmkv)) {
+			fprintf(stderr, "Failed to load source kmkv %.*s for new entry %.*s\n",
+				(int)srcKmkvPath.size, srcKmkvPath.data, (int)name->size, name->data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		auto* day = GetKmkvItemStrValue(srcKmkv, "day");
+		if (day == nullptr) {
+			// TODO maybe I need some helper function, AllocAndSetString isn't the best
+			AllocAndSetString(srcKmkv.Add("day"), Array<char>::empty);
+			day = GetKmkvItemStrValue(srcKmkv, "day");
+		}
+		day->Clear();
+		day->Append(ToString("25")); // TODO calculate
+		auto* month = GetKmkvItemStrValue(srcKmkv, "month");
+		if (month == nullptr) {
+			AllocAndSetString(srcKmkv.Add("month"), Array<char>::empty);
+			month = GetKmkvItemStrValue(srcKmkv, "month");
+		}
+		month->Clear();
+		month->Append(ToString("01")); // TODO calculate
+		auto* year = GetKmkvItemStrValue(srcKmkv, "year");
+		if (year == nullptr) {
+			AllocAndSetString(srcKmkv.Add("year"), Array<char>::empty);
+			year = GetKmkvItemStrValue(srcKmkv, "year");
+		}
+		year->Clear();
+		year->Append(ToString("2020")); // TODO calculate
+
+		DynamicArray<char> srcKmkvString;
+		if (!KmkvToString(srcKmkv, &srcKmkvString)) {
+			fprintf(stderr, "KmkvToString failed for src entry %.*s\n",
+				(int)srcKmkvPath.size, srcKmkvPath.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		DynamicArray<char> newKmkvPath;
+		newKmkvPath.Append(rootPath.ToArray());
+		newKmkvPath.Append(ToString("data/content/"));
+		newKmkvPath.Append(ToString("202001")); // TODO calculate
+		newKmkvPath.Append('/');
+		newKmkvPath.Append(name->ToArray());
+		newKmkvPath.Append(ToString(".kmkv"));
+		Array<uint8> newData = { .size = srcKmkvString.size, .data = (uint8*)srcKmkvString.data };
+		if (!WriteFile(newKmkvPath.ToArray(), newData, false)) {
+			fprintf(stderr, "Failed to write new kmkv data to file %.*s\n",
+				(int)newKmkvPath.size, newKmkvPath.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		printf("Created entry %.*s\n", (int)newKmkvPath.size, newKmkvPath.data);
+
+		if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
+			fprintf(stderr, "Failed to reload all entry metadata to JSON after new entry %.*s\n",
+				(int)newKmkvPath.size, newKmkvPath.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
 	});
 
 	serverDev.Post("/deleteEntry", [&rootPath, &allMetadataJson](const httplib::Request& req, httplib::Response& res) {
@@ -1084,6 +1179,7 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
+		printf("Deleted entry %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 
 		if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
 			fprintf(stderr, "Failed to reload all entry metadata to JSON after deleting %.*s\n",
@@ -1202,8 +1298,6 @@ int main(int argc, char** argv)
 			return;
 		}
 
-		printf("Uploading %s to %.*s\n", fileData.filename.c_str(),
-			(int)imagePath.size, imagePath.data);
 		Array<uint8> fileContents = {
 			.size = fileData.content.size(),
 			.data = (uint8*)fileData.content.c_str()

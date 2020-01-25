@@ -2,8 +2,8 @@ type video
 featured{kmkv} {
     pretitle VIDEO:
     title TITLE -<br>LANDING PAGE
-    text1 SUBTEXTO, IZQUIERDA
-    text2 SUBTEXTO, DERECHA
+    text1 SUBTEXT, LEFT
+    text2 SUBTEXT, RIGHT
 }
 media{kmkv} {
     header{image} /images/unused/garrazo.jpg
