@@ -587,13 +587,35 @@ int main(int argc, char** argv)
 #endif
 #endif
 
+#if 0
+	// Test S3 object put
+#if SERVER_HTTPS
+	httplib::SSLClient client("nopasanada.s3.amazonaws.com");
+#else
+	httplib::Client client("nopasanada.s3.amazonaws.com");
+#endif
+
+	httplib::Headers headers;
+	headers.insert(std::pair("hello", "goodbye"));
+	std::shared_ptr<httplib::Response> response = client.Put("/images/202001/headers/i-am-test.jpg",
+		headers, "", "image/jpeg");
+	if (!response) {
+		fprintf(stderr, "Amazon S3 PUT request failed\n");
+		return 1;
+	}
+
+	printf("Response status %d, body:\n%s\n", response->status, response->body.c_str());
+
+	return 0;
+#endif
+
 	FixedArray<char, PATH_MAX_LENGTH> rootPath = GetExecutablePath(&defaultAllocator_);
 	if (rootPath.size == 0) {
 		fprintf(stderr, "Failed to get executable path\n");
 		return 1;
 	}
 	rootPath.RemoveLast();
-	rootPath.size = GetLastOccurrence(rootPath.ToArray(), '/');
+	rootPath.size = rootPath.ToArray().FindLast('/') + 1;
 	printf("Root path: %.*s\n", (int)rootPath.size, rootPath.data);
 
 	FixedArray<char, PATH_MAX_LENGTH> mediaKmkvPath = rootPath;
@@ -640,7 +662,7 @@ int main(int argc, char** argv)
 		res.set_content(featuredJson.data, featuredJson.size, "application/json");
 	});
 
-	server.Get("/content/[^/]+/.+", [rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
 		Array<char> uri = ToString(req.path.c_str());
 		if (uri[uri.size - 1] == '/') {
 			uri.RemoveLast();
@@ -853,10 +875,28 @@ int main(int argc, char** argv)
 		res.set_content(outStringMedia.data, outStringMedia.size, "text/html");
 	});
 
+	FixedArray<char, PATH_MAX_LENGTH> imageRootPath = rootPath;
+	imageRootPath.RemoveLast();
+	uint64 lastSlash = imageRootPath.ToArray().FindLast('/');
+	if (lastSlash == imageRootPath.size) {
+		fprintf(stderr, "Bad public path, no directory above for images: %.*s\n",
+			(int)imageRootPath.size, imageRootPath.data);
+		return 1;
+	}
+	imageRootPath.size = lastSlash + 1;
+	imageRootPath.Append(ToString("nopasanada-images"));
+	imageRootPath.Append('\0');
+	if (!server.set_base_dir(imageRootPath.data, "/images")) {
+		fprintf(stderr, "server set_base_dir failed on dir %s\n", imageRootPath.data);
+		return 1;
+	}
+	imageRootPath.RemoveLast();
+	imageRootPath.Append('/');
+
 	FixedArray<char, PATH_MAX_LENGTH> publicPath = rootPath;
 	publicPath.Append(ToString("data/public"));
 	publicPath.Append('\0');
-	if (!server.set_base_dir(publicPath.data)) {
+	if (!server.set_base_dir(publicPath.data, "/")) {
 		fprintf(stderr, "server set_base_dir failed on dir %s\n", publicPath.data);
 		return 1;
 	}
@@ -886,7 +926,7 @@ int main(int argc, char** argv)
 		res.set_content(responseJson.data, responseJson.size, "application/json");
 	});
 
-	serverDev.Get("/content/[^/]+/.+", [rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
 		Array<char> uri = ToString(req.path.c_str());
 		if (uri[uri.size - 1] == '/') {
 			uri.RemoveLast();
@@ -926,7 +966,7 @@ int main(int argc, char** argv)
 		res.set_content(entryJson.data, entryJson.size, "application/json");
 	});
 
-	serverDev.Post("/featured", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/featured", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
 		Array<char> jsonString = ToString(req.body.c_str());
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(jsonString, &defaultAllocator_, &kmkv)) {
@@ -959,26 +999,26 @@ int main(int argc, char** argv)
 		}
 	});
 
-	serverDev.Post("/content/[^/]+/.+", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/content/[^/]+/.+", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
 		// TODO implement
 	});
 
-	serverDev.Post("/newEntry", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/newEntry", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
 		// TODO implement
 	});
 
-	serverDev.Post("/deleteEntry", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/deleteEntry", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
 		// TODO implement
 	});
 
-	serverDev.Post("/newImage", [](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/newImage", [&imageRootPath](const httplib::Request& req, httplib::Response& res) {
 		if (!req.has_file("imageFile")) {
 			fprintf(stderr, "newImage request missing \"imageFile\"\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		if (!req.has_file("npnEntryPath")) {
-			fprintf(stderr, "newImage request missing \"npnEntryPath\"\n");
+		if (!req.has_file("npnEntryUri")) {
+			fprintf(stderr, "newImage request missing \"npnEntryUri\"\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -987,22 +1027,136 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		const auto& file = req.get_file_value("imageFile");
-		const auto& npnEntryPath = req.get_file_value("npnEntryPath");
-		const auto& npnLabel = req.get_file_value("npnLabel");
+		const auto& fileData = req.get_file_value("imageFile");
+		const auto& uriData = req.get_file_value("npnEntryUri");
+		const auto& labelData = req.get_file_value("npnLabel");
 
+		if (fileData.content_type != "image/jpeg") {
+			fprintf(stderr, "non-jpg file in newImage request\n");
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		Array<char> uri = {
+			.size = uriData.content.size(),
+			.data = (char*)uriData.content.c_str()
+		};
+		Array<char> label = {
+			.size = labelData.content.size(),
+			.data = (char*)labelData.content.c_str()
+		};
+		for (uint64 i = 0; i < label.size; i++) {
+			if (!IsAlphanumeric(label[i]) && label[i] != '-') {
+				fprintf(stderr, "Invalid npnLabel: %.*s\n", (int)label.size, label.data);
+				res.status = HTTP_STATUS_ERROR;
+				return;
+			}
+		}
+
+		DynamicArray<Array<char>> uriSplit;
+		StringSplit(uri, '/', &uriSplit);
+		if (uriSplit.size != 4) {
+			fprintf(stderr, "Bad uri split (%d) in newImage request: %.*s\n", (int)uriSplit.size,
+				(int)uri.size, uri.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		DynamicArray<char> imageUri;
+		imageUri.Append(ToString("/images/"));
+		imageUri.Append(uriSplit[2]);
+		imageUri.Append('/');
+		if (StringEquals(label, ToString("header"))) {
+			imageUri.Append(ToString("headers/"));
+			imageUri.Append(uriSplit[3]);
+			imageUri.Append(ToString(".jpg"));
+		}
+		else if (StringEquals(label, ToString("poster"))) {
+			imageUri.Append(ToString("posters/"));
+			imageUri.Append(uriSplit[3]);
+			imageUri.Append(ToString(".jpg"));
+		}
+		else if (StringContains(label, ToString("header-desktop"))) {
+			char number = label[label.size - 1];
+			if (number != '1' && number != '2' && number != '3' && number != '4') {
+				fprintf(stderr, "Invalid npnLabel: %.*s\n", (int)label.size, label.data);
+				res.status = HTTP_STATUS_ERROR;
+				return;
+			}
+			imageUri.Append(uriSplit[3]);
+			imageUri.Append(ToString("/vertical"));
+			imageUri.Append(number);
+			imageUri.Append(ToString(".jpg"));
+		}
+		else if (StringContains(label, ToString("header-mobile"))) {
+			char number = label[label.size - 1];
+			if (number != '1' && number != '2' && number != '3' && number != '4') {
+				fprintf(stderr, "Invalid npnLabel: %.*s\n", (int)label.size, label.data);
+				res.status = HTTP_STATUS_ERROR;
+				return;
+			}
+			imageUri.Append(uriSplit[3]);
+			imageUri.Append(ToString("/square"));
+			imageUri.Append(number);
+			imageUri.Append(ToString(".jpg"));
+		}
+		else {
+			imageUri.Append(uriSplit[3]);
+			imageUri.Append('/');
+			imageUri.Append(label);
+			imageUri.Append(ToString(".jpg"));
+		}
+
+		FixedArray<char, PATH_MAX_LENGTH> imagePath = imageRootPath;
+		uint64 secondSlash = imageUri.ToArray().FindFirst('/', 1);
+		imagePath.Append(imageUri.ToArray().SliceFrom(secondSlash + 1)); 
+
+		Array<char> imageDir = imagePath.ToArray();
+		uint64 lastSlash = imageDir.FindLast('/');
+		if (lastSlash == imageDir.size) {
+			fprintf(stderr, "bad image file path in newImage request: %.*s\n",
+				(int)imageDir.size, imageDir.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		imageDir.size = lastSlash + 1;
+		if (!CreateDirRecursive(imageDir)) {
+			fprintf(stderr, "Failed to create image directory in newImage request: %.*s\n",
+				(int)imageDir.size, imageDir.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		printf("Uploading %s to %.*s\n", fileData.filename.c_str(),
+			(int)imagePath.size, imagePath.data);
+		Array<uint8> fileContents = {
+			.size = fileData.content.size(),
+			.data = (uint8*)fileData.content.c_str()
+		};
+		if (!WriteFile(imagePath.ToArray(), fileContents, false)) {
+			fprintf(stderr, "Failed to write image file data in newImage request, path %.*s\n",
+				(int)imagePath.size, imagePath.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		printf("Upload successful for %s in %.*s, uri %.*s\n", fileData.filename.c_str(),
+			(int)imagePath.size, imagePath.data, (int)imageUri.size, imageUri.data);
+		DynamicArray<char> responseXml;
+		responseXml.Append(ToString("<uri>"));
+		responseXml.Append(imageUri.ToArray());
+		responseXml.Append(ToString("</uri>"));
+		res.set_content(responseXml.data, responseXml.size, "application/xml");
+	});
+
+	serverDev.Post("/reset", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
 		// TODO implement
 	});
 
-	serverDev.Post("/reset", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/commit", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
 		// TODO implement
 	});
 
-	serverDev.Post("/commit", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
-		// TODO implement
-	});
-
-	serverDev.Post("/deploy", [rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/deploy", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
 		// TODO implement
 	});
 

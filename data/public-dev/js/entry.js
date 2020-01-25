@@ -24,7 +24,7 @@ function UpdateImageList(images)
     images_ = images;
 }
 
-function GetEntryPath()
+function GetEntryUri()
 {
     let url = new URL(window.location.href);
     return url.searchParams.get("entry");
@@ -229,7 +229,7 @@ function SaveEntryData()
     $("#statusMessage").html("Saving...");
     $.ajax({
         type: "POST",
-        url: GetEntryPath(),
+        url: GetEntryUri(),
         contentType: "application/json",
         async: true,
         data: JSON.stringify(entryData),
@@ -322,7 +322,7 @@ Dropzone.options.imageDropzone = {
         imageDropzone_ = this;
 
         this.on("sending", function(file, xhr, formData) {
-            formData.set("npnEntryPath", GetEntryPath());
+            formData.set("npnEntryUri", GetEntryUri());
             formData.set("npnLabel", file.npnLabel);
         });
         this.on("success", function(file, response) {
@@ -375,7 +375,7 @@ $(document).ready(async function() {
         data: "",
         success: function(data) {
             let previewUrl = data.url;
-            $("#previewLink").attr("href", previewUrl + GetEntryPath());
+            $("#previewLink").attr("href", previewUrl + GetEntryUri());
         },
         error: function(error) {
             console.error(error);
@@ -405,7 +405,7 @@ $(document).ready(async function() {
 
         $.ajax({
             type: "GET",
-            url: GetEntryPath(),
+            url: GetEntryUri(),
             contentType: "application/json",
             dataType: "json",
             async: true,
@@ -426,7 +426,7 @@ $(document).ready(async function() {
 
                 $("#deleteButton").click(function() {
                     let requestData = {
-                        uri: GetEntryPath()
+                        uri: GetEntryUri()
                     };
                     $.ajax({
                         type: "POST",
