@@ -1,0 +1,100 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>16-01-20. *</b>
+    text1 4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+    text2 CURADAS POR<br>NO PASA NADA NOTICIAS
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/16-lo-importante.jpg
+    poster{image} /images/202001/posters/16-lo-importante.jpg
+    header-desktop1{image} /images/202001/16-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/202001/16-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/202001/16-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/202001/16-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/202001/16-lo-importante/square1.jpg
+    header-mobile2{image} /images/202001/16-lo-importante/square2.jpg
+    header-mobile3{image} /images/202001/16-lo-importante/square3.jpg
+    header-mobile4{image} /images/202001/16-lo-importante/square4.jpg
+}
+tags{array} noticias, home
+title Lo Importante: 16-01-20
+description 4 historias importantes de las más recientes noticias internacionales
+day 16
+month 01
+year 2020
+color #ffff00
+title1 Evo Morales se retracta de su idea de formar milicias armadas en Bolivia
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El expresidente boliviano Evo Morales se retract&oacute; este jueves de su propuesta efectuada el pasado fin de semana desde Buenos Aires de conformar "milicias armadas", como las venezolanas en caso de retornar a su pa&iacute;s, la cual gener&oacute; fuertes cuestionamientos.</p>
+<p>"Hace unos d&iacute;as se hicieron p&uacute;blicas unas palabras m&iacute;as sobre la conformaci&oacute;n de milicias. Me retracto de ellas. Mi convicci&oacute;n m&aacute;s profunda siempre ha sido la defensa de la vida y de la paz", asegur&oacute; en una carta p&uacute;blica difundida desde su cuenta en la red Twitter.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>El exjefe de Estado boliviano levant&oacute; protestas en Bolivia y Argentina, pa&iacute;s en el cual est&aacute; como refugiado pol&iacute;tico desde el pasado 12 de diciembre, despu&eacute;s de declarar el pasado fin de semana una radio cocalera boliviana que "de ac&aacute; a poco tiempo, si volviera (...), hay que organizar como Venezuela milicias armadas del pueblo".</p>
+<p>En su nota de rectificaci&oacute;n, Morales acot&oacute; que "no quiero que nada de lo que diga sea usado como un pretexto para perseguir y reprimir a mis hermanas y hermanos".</p>
+<p>La declaraciones de Morales provocaron protestas de la Uni&oacute;n C&iacute;vica Radical de Argentina, cuyo presidente Alfredo Cornejo cuestion&oacute; el estatus de refugiado del exmandatario boliviano en ese pa&iacute;s.</p>
+<p>Tras conocer esa retractaci&oacute;n p&uacute;blica, la canciller boliviana Karen Longaric coment&oacute;: "En realidad eso ya es irrelevante, porque desde su fuero interno, &eacute;l ha hecho conocer todas las intenciones que tiene con el pa&iacute;s y con el pueblo boliviano".</p>
+<p>El gobierno transitorio de Bolivia sostiene que las declaraciones de Morales caen en los delitos de sedici&oacute;n y terrorismo y los sum&oacute; a una investigaci&oacute;n en la fiscal&iacute;a.</p>
+<p>Jean Arnault, enviado especial de la ONU para Bolivia, manifest&oacute; el mi&eacute;rcoles que el organismo "se suma al rechazo manifestado por muchos actores nacionales a las recientes declaraciones" del expresidente.</p>
+<p>De manera paralela, un grupo de militares jubilados envi&oacute; una carta al ministro de Defensa, Luis Fernando Peredo, en el que revelan que Morales, quien lleg&oacute; al poder en 2006 y gobern&oacute; hasta dimitir el 10 de noviembre, ide&oacute; en 2014 la conformaci&oacute;n de una "Guardia Nacional del Estado Plurinacional de Bolivia".</p>
+}
+title2 Exbanquero español condenado a 18 meses de prisión por contrabando de un Picasso
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El exbanquero espa&ntilde;ol Jaime Bot&iacute;n fue condenado a 18 meses de prisi&oacute;n y una multa de 52,4 millones de euros por haber sacado de contrabando de Espa&ntilde;a un cuadro de Pablo Picasso, que pas&oacute; a manos del Estado, inform&oacute; este jueves un tribunal en Madrid.</p>
+<p>Bot&iacute;n, expresidente de Bankinter, fue hallado culpable por un juzgado en la capital espa&ntilde;ola de "un delito de contrabando de bienes culturales por intentar sacar de territorio nacional sin permiso alguno el cuadro de Pablo Picasso 'Cabeza de mujer joven'", explic&oacute; el tribunal en un comunicado.</p>
+<p>La corte confirm&oacute; que la propiedad del cuadro, actualmente en el museo Reina Sof&iacute;a de Madrid, pasa a ser del Estado espa&ntilde;ol, una consecuencia de este tipo de exportaciones prohibidas.</p>
+<p>Esta decisi&oacute;n puede ser recurrida ante una instancia superior, record&oacute; la corte.</p>
+<p>De todas maneras, es improbable que Bot&iacute;n vaya a la c&aacute;rcel toda vez que en Espa&ntilde;a las penas de prisi&oacute;n inferiores a dos a&ntilde;os suelen no aplicarse cuando los condenados carecen de antecedentes criminales y no han cometido delitos de sangre.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>El exbanquero, de la familia Bot&iacute;n, dirigente hist&oacute;rica del Banco Santander, el primero de la zona euro por capitalizaci&oacute;n burs&aacute;til, intent&oacute; en vano desde 2012 obtener la autorizaci&oacute;n de exportar el lienzo, estimado en 26 millones de euros (29 millones de d&oacute;lares).</p>
+<p>Su intenci&oacute;n era vender la obra, que muestra a una mujer de pelo largo en colores ocres, en una subasta en la casa Christie's en Londres.</p>
+<p>Pero el Ministerio de Cultura consider&oacute; el cuadro como un bien cultural "inexportable", porque "no existe una obra semejante en Espa&ntilde;a" de esta &eacute;poca art&iacute;stica de Pablo Picasso.</p>
+<p>Pese a ello, a mediados de 2015 Bot&iacute;n sac&oacute; de Espa&ntilde;a desde Valencia (este) el cuadro a bordo de un yate, donde fue confiscado el 31 de julio en la isla mediterr&aacute;nea de C&oacute;rcega por la aduana francesa.</p>
+<p>Los abogados de Bot&iacute;n siempre afirmaron que el cuadro, comprado en Londres en 1977, no es espa&ntilde;ol sino brit&aacute;nico, por lo que no habr&iacute;a estado sometido al derecho espa&ntilde;ol, pero en la sentencia, el tribunal madrile&ntilde;o consider&oacute; que es "un claro ejemplo de patrimonio hist&oacute;rico espa&ntilde;ol".</p>
+<p>El cuadro pertenece al periodo del pintor malague&ntilde;o en el pueblo catal&aacute;n de G&oacute;sol, donde pint&oacute; un centenar de obras en 1906, y que fue decisivo para el posterior desarrollo del cubismo.</p>
+}
+title3 Presidente chileno Sebastián Piñera obtiene 6% de aprobación, la peor en 30 años
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>La aprobaci&oacute;n del presidente de Chile, Sebasti&aacute;n Pi&ntilde;era, cay&oacute; a un 6%, la peor evaluaci&oacute;n de un mandatario chileno desde el retorno de la democracia en 1990, que ocurre en medio de la crisis del pa&iacute;s, indic&oacute; este jueves la encuesta del Centro de Estudios P&uacute;blicos (CEP).</p>
+<p>Mientras un 82% de los encuestados desaprueba la forma en que Sebasti&aacute;n Pi&ntilde;era est&aacute; conduciendo su Gobierno, solo un 6% lo aprueba, una fuerte ca&iacute;da del 25% de respaldo que el mandatario conservador obtuvo en junio en el anterior estudio del CEP, el m&aacute;s fiable de Chile.</p>
+<p>"Esta es la peor evaluaci&oacute;n que ha tenido un presidente desde el retorno a la democracia", indic&oacute; Ricardo Gonz&aacute;lez, coordinador del &Aacute;rea de Opini&oacute;n P&uacute;blica del CEP, quien present&oacute; el estudio realizado entre el 28 de noviembre y el 6 de enero, en plena crisis social que ya alcanza los tres meses en los que han muerto 29 personas y miles han resultado heridas.</p>
+<p>El lunes, otra encuesta de la consultora Plaza P&uacute;blica Cadem, indic&oacute; que la aprobaci&oacute;n de Pi&ntilde;era alcanzaba un 10%.</p>
+<p>La expresidenta socialista Michelle Bachelet (2014-2018) pose&iacute;a la peor evaluaci&oacute;n presidencial con un 15%, seg&uacute;n la encuesta de agosto de 2016 del CEP.</p>
+<p>El discreto apoyo a Pi&ntilde;era, un millonario empresario de 70 a&ntilde;os quien enfrenta su segundo mandato (el primero fue entre 2010 y 2014) se explica por un "castigo transversal" a su gesti&oacute;n de gobierno y a toda la clase pol&iacute;tica chilena, ante las masivas manifestaciones en las que la ciudadan&iacute;a demanda una serie de cambios sociales, explic&oacute; Gonz&aacute;lez.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>La encuesta indica que un 55% de los encuestados aprueba las protestas que comenzaron el 18 de octubre, y un 38% de los consultados manifest&oacute; que el estallido social se produjo por el malestar de la poblaci&oacute;n ante la desigualdad de ingresos y un 16% por las bajas pensiones.</p>
+<p>Un 81% de los encuestados dice que el desempe&ntilde;o en la crisis del presidente Pi&ntilde;era fue "malo o muy malo", un 14% manifiesta que fue "regular" y un 3% lo hizo "bien o muy bien".</p>
+<p>En tanto, un 56% cree que la situaci&oacute;n econ&oacute;mica actual es muy mala y un 47% estima que la democracia funciona muy mal.</p>
+<p>Ante el plebiscito que se realizar&aacute; en Chile el 26 de abril para consultar a la poblaci&oacute;n si est&aacute; de acuerdo con una nueva Constituci&oacute;n &ndash;una de las demandas en las manifestaciones- que reemplace a la actual heredada de la dictadura de Augusto Pinochet (1973-1990), la encuesta indic&oacute; que un 56% de los encuestados estima con que una nueva carta magna ayudar&aacute; a resolver la crisis.</p>
+<p>Los resultados del estudio se basan en entrevistas a1.496 personas de 117 comunas del pa&iacute;s con un error muestral que se estima en &plusmn;3% considerando varianza m&aacute;xima y un 95% de confianza.</p>
+}
+title4 Retirada de tropas de Irak mostrará "fracaso" de estrategia de EEUU
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>En 2003 prometieron democracia, estabilidad y prosperidad en un Irak renovado. Diecisiete a&ntilde;os despu&eacute;s los estadounidenses podr&iacute;an abandonar un pa&iacute;s con instituciones que no funcionan, confesiones religiosas y etnias m&aacute;s divididas que nunca y bajo la influencia del enemigo ac&eacute;rrimo, Ir&aacute;n.</p>
+<p>Estado d&eacute;bil, econom&iacute;a e industria de rodillas, renovaci&oacute;n pol&iacute;tica imposible por atribuci&oacute;n de cargos seg&uacute;n confesiones... Para Karim Bitar, especialista en Oriente Medio, "es un fracaso total", previsible, puesto que "el gusano estaba en la fruta" desde la invasi&oacute;n de las tropas estadounidenses, el 20 de marzo de 2003.</p>
+<p>"Los montajes constitucionales de los estadounidenses", con su "institucionalizaci&oacute;n del comunitarismo", s&oacute;lo sirvieron para aumentar divisiones y alimentar una legalidad y econom&iacute;a confusas con las que arroparon a l&iacute;deres corruptos y grupos armados decididos a imponer su ley.</p>
+<p>Las minor&iacute;as, la cristiana en particular, huyeron del pa&iacute;s, y "las elecciones, que deb&iacute;an ser mod&eacute;licas, se convirtieron en censo comunitario", seg&uacute;n Bitar.</p>
+<p>La Constituci&oacute;n, adoptada en 2005, no s&oacute;lo es "permanentemente violada", sino que no prev&eacute; los sobresaltos pol&iacute;ticos iraqu&iacute;es, se lamenta un alto funcionario.</p>
+<p>&iquest;El federalismo y los territorios disputados por el Kurdist&aacute;n?. La Constituci&oacute;n los deja para m&aacute;s adelante.</p>
+<p>&iquest;Qu&eacute; hacer si renuncia el primer ministro? Cuando lo hizo Adel Abdel Mahdi se descubri&oacute; que la Constituci&oacute;n no preve&iacute;a esta posibilidad.</p>
+<p>Desde 2003 no ha prosperado un marco legal robusto sobre las ruinas de la dictadura, pero s&iacute; los medios para esquivar la ley, y las m&uacute;ltiples comisiones anticorrupci&oacute;n se limitan a se&ntilde;alar las t&eacute;cnicas usadas para embolsarse el erario por pol&iacute;ticos inamovibles.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>En tanto el pasaje de la econom&iacute;a socialista del r&eacute;gimen de Sadam Husein a una de mercado nunca se concret&oacute;, el clientelismo hincha la factura de salarios de funcionarios y la corrupci&oacute;n, llev&aacute;ndose gran parte importante del presupuesto.</p>
+<p>Seguridad: las fuerzas iraqu&iacute;es a las cuales Estados Unidos cedi&oacute; las riendas del pa&iacute;s al finalizar la ocupaci&oacute;n, en 2011, pusieron los pies en polvorosa ante los yihadistas de Estado Isl&aacute;mico (EI).</p>
+<p>Seg&uacute;n Bitar, "el mayor error estrat&eacute;gico" estadounidense fue "desmantelar la polic&iacute;a y el ej&eacute;rcito", como se hizo en la Alemania nazi tras la Segunda Guerra Mundial.</p>
+<p>La salud y la educaci&oacute;n en Irak, antes modelos regionales, casi desaparecieron. Y, la sociedad civil, que no particip&oacute; en el cambio de r&eacute;gimen en 2003, no ha podido consolidarse.</p>
+<p>Tras la guerra contra EI, se ha consolidado un nuevo actor: el Hashd al Shaabi, milicianos que combatieron contra la ocupaci&oacute;n estadounidense, y apoya los intereses iran&iacute;es.</p>
+<p>&iquest;Qu&eacute; le queda a Estados Unidos? La opci&oacute;n militar, un nuevo embargo o cerrar el grifo de d&oacute;lares.</p>
+<p>En frente, Ir&aacute;n tiene a sus puertas un mercado en expansi&oacute;n --9.000 millones de d&oacute;lares en exportaciones--, agentes armados a su servicio, y un recurso para esquivar las sanciones estadounidenses y obtener d&oacute;lares a granel.</p>
+<p>Ir&aacute;n desarrolla su "estrategia" forjada en la guerra de 1980-1988, que es "neutralizar a Irak" o convertirlo en un "protectorado", dijo a la AFP Jean-Pierre Filiu, profesor en Sciences Po de Par&iacute;s. Teher&aacute;n, afirma, cuenta con un gran aliado, Donald Trump, puesto que "los errores de la Casa Blanca" ayudan a concretar los planes iran&iacute;es.</p>
+<p>Tras el asesinato en Bagdad del poderoso general iran&iacute; Qassem Soleimani en un ataque con dron estadounidense, el comando militar norteamericano anunci&oacute; su retirada de Irak, pero el Pent&aacute;gono lo desminti&oacute;. La tensi&oacute;n ha aumentado, los iraqu&iacute;es se&ntilde;alan una partida, los estadounidenses en cambio un "reposicionamiento".&nbsp;</p>
+<p>Pero, aunque Ir&aacute;n controle a la clase pol&iacute;tica iraqu&iacute; (de todas etnias y confesiones), un actor ha irrumpido: la calle, que se moviliza desde octubre, demostrando que "los iraqu&iacute;es, por encima de sus diferencias comunitarias, priorizan los problemas sociales y econ&oacute;micos, y se niegan a ser explotados por potencias extranjeras", afirm&oacute; Bitar.&nbsp;</p>
+}

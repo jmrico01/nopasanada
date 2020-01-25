@@ -1,0 +1,124 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>23-01-20. *</b>
+    text1 4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+    text2 CURADAS POR<br>NO PASA NADA NOTICIAS
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/23-lo-importante.jpg
+    poster{image} /images/202001/posters/23-lo-importante.jpg
+    header-desktop1{image} /images/202001/23-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/202001/23-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/202001/23-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/202001/23-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/202001/23-lo-importante/square1.jpg
+    header-mobile2{image} /images/202001/23-lo-importante/square2.jpg
+    header-mobile3{image} /images/202001/23-lo-importante/square3.jpg
+    header-mobile4{image} /images/202001/23-lo-importante/square4.jpg
+}
+tags{array} noticias, home
+title Lo Importante: 23-01-20
+description 4 historias importantes de las más recientes noticias internacionales
+day 23
+month 01
+year 2020
+color #ffff00
+title1 Cientos de migrantes centroamericanos ingresan a México desde Guatemala
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Cientos de migrantes centroamericanos que buscan llegar a Estados Unidos ingresaron a M&eacute;xico desde Guatemala este jueves aprovechando la ausencia de fuerzas de seguridad en la frontera, constat&oacute; un equipo de la AFP.</p>
+<p>Los migrantes lograron entrar en el territorio mexicano al amanecer, sin enfrentar resistencia alguna y tras cruzar el poco caudaloso r&iacute;o Suchiate, que separa el oeste de Guatemala del sur de M&eacute;xico. En pocos minutos empezaron a caminar formando una columna por una carretera de Ciudad Hidalgo, en el estado mexicano de Chiapas (sur).&nbsp;</p>
+<p>Entre silbidos y gritos de "&iexcl;Ah&iacute; vamos!", los migrantes, en su mayor&iacute;a hombres aunque tambi&eacute;n hab&iacute;a algunas familias enteras, apuraban el paso mientras se dirig&iacute;an a un punto de revisi&oacute;n fronteriza localizado a corta distancia de ah&iacute;.&nbsp;</p>
+<p>El lunes pasado, unos 500 migrantes consiguieron cruzar a M&eacute;xico por la misma zona, a pesar de los gases lacrim&oacute;genos que les lanzaban guardias nacionales, a quienes respondieron arrojando piedras.&nbsp;</p>
+<p>Pero ese grupo fue detenido m&aacute;s tarde en un control de carreteras. Desde entonces, M&eacute;xico reforz&oacute; fuertemente la seguridad en la frontera, lo que pareci&oacute; por momentos disuadir a los migrantes, que se replegaron a la cercana localidad guatemalteca de Tec&uacute;n Um&aacute;n.&nbsp;</p>
+<p>Los migrantes se empezaron a reagrupar en la madrugada del lado guatemalteco del Suchiate, que en esta &eacute;poca del a&ntilde;o se puede cruzar caminando sin mayor esfuerzo, y dos horas despu&eacute;s se decidieron a cruzar a M&eacute;xico al percatarse que esta vez no hab&iacute;a presencia de las fuerzas de seguridad.&nbsp;</p>
+<p><br /><strong>-&lsquo;De manera Pac&iacute;fica&rsquo;-</strong></p>
+<p>"Queremos hablar con el presidente (mexicano Andr&eacute;s Manuel) L&oacute;pez Obrador directamente", se le&iacute;a en una enorme pancarta de tela que se destacaba en la larga columna, mientras otros mostraban las banderas de sus pa&iacute;ses.&nbsp;</p>
+<p>"&iexcl;Venimos de manera pac&iacute;fica!", clamaban algunos, mientras en el nutrido grupo la consigna era entregarse si en el camino se encontraban con fuerzas de seguridad que les bloquearan el paso.&nbsp;</p>
+<p>La llamada caravana 2020 sali&oacute; el 14 de enero de Honduras y, a su paso por Guatemala, sus filas han ido creciendo con la llegada de guatemaltecos, salvadore&ntilde;os y nicarag&uuml;enses.</p>
+<p>M&aacute;s de 3.500 migrantes integran el grupo, seg&uacute;n estimaciones de autoridades migratorias centroamericanas.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>El pasado fin de semana, el grueso de la caravana logr&oacute; ingresar a M&eacute;xico bajo controles de autoridades migratorias, quienes les ofrecieron diversas opciones como pedir refugio o aceptar trabajos en programas sociales, en el sur de M&eacute;xico y en sus pa&iacute;ses.</p>
+<p>Sin embargo, los migrantes piden que les permitan circular libremente por M&eacute;xico para llegar a Estados Unidos, donde quieren pedir refugio alegando que escapan de la violencia y la pobreza de sus pa&iacute;ses.</p>
+<p>El mi&eacute;rcoles, autoridades migratorias mexicanas informaron que el lunes detuvieron a m&aacute;s de 2.000 migrantes en situaci&oacute;n irregular y que cientos de ellos ya hab&iacute;an sido devueltos a sus pa&iacute;ses.</p>
+<p>El gobierno mexicano intenta disuadir a los centroamericanos de entrar al pa&iacute;s de manera irregular y los alienta para que se acojan a programas de refugio y empleo temporal en el sur del pa&iacute;s.</p>
+<p>Tras las multitudinarias caravanas de finales de 2018 y principios de 2019, el presidente estadounidense Donald Trump amenaz&oacute; a M&eacute;xico con sanciones comerciales si no tomaba medidas para detener la oleada migratoria. L&oacute;pez Obrador despleg&oacute; entonces unos 26.000 militares en sus fronteras norte y sur.</p>
+}
+title2 "Solos no podemos", dice líder opositor venezolano Guaidó en Davos
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Un a&ntilde;o despu&eacute;s de haber sido reconocido por medio centenar de pa&iacute;ses como presidente encargado de Venezuela, el opositor Juan Guaid&oacute; pidi&oacute; este jueves a los l&iacute;deres mundiales reunidos en el foro de Davos ayuda contra la "dictadura" de Nicol&aacute;s Maduro y asegur&oacute; que "solos nos podemos".</p>
+<p>"Hoy, y por eso estamos aqu&iacute;, solos no podemos. Nos enfrentamos a un conglomerado internacional, criminal y necesitamos de su ayuda", dijo Guaid&oacute; en un discurso en la sala de congresos del Foro Econ&oacute;mico Mundial (WEF) que se celebra cada a&ntilde;o en la estaci&oacute;n de esqu&iacute; suiza.</p>
+<p>Su visita a Davos coincide con el primer aniversario de su autoproclamaci&oacute;n como presidente encargado de Venezuela, el 23 de enero de 2019 en Caracas.</p>
+<p>"Europa, el Grupo de Lima, Estados Unidos, estamos todos reunidos para lograr una elecci&oacute;n libre, real, transparente. Nos hemos movilizado una y otra vez, lo vamos a seguir haciendo", afirm&oacute;.</p>
+<p>Un a&ntilde;o despu&eacute;s de su autoproclamaci&oacute;n, su ofensiva contra el gobierno de Maduro parece estancada, a pesar de los apoyos internacionales, que incluyen Estados Unidos, los 25 pa&iacute;ses de la Uni&oacute;n Europea y vecinos de la regi&oacute;n como Ecuador o Colombia, uno de sus principales apoyos.</p>
+<p>En su discurso, Guaid&oacute; dibuj&oacute; un panorama sombr&iacute;o para Venezuela, que enfrenta seg&uacute;n &eacute;l "una tragedia sin precedentes".&nbsp;</p>
+<p>"Venezuela no es un pa&iacute;s en guerra. No o&iacute;mos las bombas, pero sentimos el llanto, el dolor de las madres", asegur&oacute;.</p>
+<p>Tambi&eacute;n denunci&oacute; que el pa&iacute;s est&aacute; en manos de un "conglomerado criminal" donde act&uacute;an seg&uacute;n &eacute;l grupos del Ej&eacute;rcito de Liberaci&oacute;n Nacional (ELN) de Colombia y del Hezbol&aacute;.</p>
+<p>Violando una prohibici&oacute;n para salir de su pa&iacute;s, Guaid&oacute; viaj&oacute; esta semana a Colombia, y desde all&iacute; a Europa. El l&iacute;der opositor venezolano mantuvo encuentros con responsables brit&aacute;nicos en el Reino Unido y representantes europeos en Bruselas.</p>
+<p><br /><strong>- Presi&oacute;n y reconocimiento -</strong></p>
+<p>Guaid&oacute; reiter&oacute; este jueves en Davos que su estrategia internacional pasa por la diplomacia y las sanciones.</p>
+<p>"Ya no estamos hablando de reconocimiento como hace un a&ntilde;o sino de acciones y la gran oportunidad que tenemos hoy es lograr consolidar, no solamente el reconocimiento diplom&aacute;tico, sino la presi&oacute;n necesaria para hacer frente a una dictadura", asegur&oacute;.</p>
+<p>El mi&eacute;rcoles el presidente espa&ntilde;ol, Pedro S&aacute;nchez, se reuni&oacute; en Davos con el presidente colombiano Iv&aacute;n Duque y el presidente de Ecuador, Len&iacute;n Moreno, y abord&oacute; "la situaci&oacute;n en Venezuela, donde urgen elecciones libres y democr&aacute;ticas", seg&uacute;n un tuit oficial.</p>
+<p>Sin embargo todav&iacute;a no est&aacute; confirmada una posible visita de Guaid&oacute; a Espa&ntilde;a este semana.</p>
+<p>En Bogot&aacute;, el lunes, Guaid&oacute; fue recibido con honores de jefe de Estado y se reuni&oacute; con el presidente y con el secretario de Estado norteamericano, Mike Pompeo, que le prometi&oacute; un mayor apoyo en su lucha para sacar del poder a Maduro.&nbsp;</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>La imposibilidad de desplazar a Maduro del poder hizo caer la popularidad de Guaid&oacute;, un ingeniero de 36 a&ntilde;os, de 63% a 38,9% en 12 meses, seg&uacute;n la encuestadora venezolana Datan&aacute;lisis.</p>
+<p>El l&iacute;der opositor ha tratado de revitalizar las protestas contra Maduro, pero sus llamados han tenido d&eacute;bil respuesta, con cientos de manifestantes frente a las decenas de miles que moviliz&oacute; un a&ntilde;o atr&aacute;s.&nbsp;</p>
+<p>El mi&eacute;rcoles, en Bruselas, la Uni&oacute;n Europea expres&oacute; su "firme apoyo" a Guaid&oacute;, que fue recibido por el jefe de la diplomacia europea, Josep Borrell.</p>
+<p>Por su parte la representante diplom&aacute;tica de Guaid&oacute; en B&eacute;lgica y ante la Uni&oacute;n Europea (UE) llam&oacute; este mi&eacute;rcoles a Italia, Chipre y Eslovaquia a reconocerlo como presidente interino, los &uacute;nicos tres pa&iacute;ses del bloque que todav&iacute;a no lo han hecho.</p>
+<p>Guaid&oacute; se autoproclam&oacute; presidente encargado de Venezuela hace un a&ntilde;o, despu&eacute;s de que Maduro iniciara un segundo mandato, considerado ilegal por la oposici&oacute;n y parte de la comunidad internacional, en un contexto de colapso de la econom&iacute;a y de crisis migratoria.</p>
+<p>En lo que es considerado el mayor &eacute;xodo de la regi&oacute;n en las &uacute;ltimas d&eacute;cadas, un total de 4,6 millones de venezolanos abandonaron su pa&iacute;s desde finales de 2015, seg&uacute;n las Naciones Unidas.</p>
+<p>&nbsp;</p>
+}
+title3 Estudios sugieren el papel de murciélagos y serpientes en origen de nuevo virus
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>La nueva cepa de coronavirus que surgi&oacute; en China y ya preocupa al mundo pudo haberse originado en murci&eacute;lagos o serpientes, seg&uacute;n un an&aacute;lisis gen&eacute;tico del pat&oacute;geno que hasta ahora ha provocado la muerte de 17 personas.</p>
+<p>Las teor&iacute;as se basan en el examen de la secuencia del genoma del virus, liberado por las autoridades a ra&iacute;z del brote, y dos estudios se&ntilde;alan el papel probable de los murci&eacute;lagos en el brote.</p>
+<p>Un estudio, publicado el martes en la revista Science China Life Sciences, patrocinado por la Academia China de Ciencias de Pek&iacute;n, analiz&oacute; las relaciones entre la nueva cepa y otros virus.</p>
+<p>Descubri&oacute; que el coronavirus que surgi&oacute; en la ciudad de Wuhan estaba estrechamente relacionado con una cepa que existe en los murci&eacute;lagos.</p>
+<p>"El hecho de que los murci&eacute;lagos sean los hu&eacute;spedes nativos del Wuhan CoV (coronavirus) ser&iacute;a el razonamiento l&oacute;gico y conveniente, aunque sigue siendo probable que haya hu&eacute;spedes intermedios en la cascada de transmisi&oacute;n de murci&eacute;lagos a humanos", se&ntilde;alaron los investigadores en el reporte.</p>
+<p>Ese estudio no especul&oacute; sobre qu&eacute; animal podr&iacute;a haber sido un "hu&eacute;sped intermedio", pero un segundo estudio publicado el mi&eacute;rcoles en el Journal of Medical Virology identifica a las serpientes como el posible culpable.</p>
+<p>"Para buscar un reservorio potencial de virus, hemos llevado a cabo un an&aacute;lisis exhaustivo de secuencias y comparaciones. Los resultados de nuestro an&aacute;lisis sugieren que la serpiente es el reservorio de animales de vida silvestre m&aacute;s probable", apunta el texto.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Los investigadores advierten que sus conclusiones requieren "una mayor validaci&oacute;n mediante estudios experimentales en modelos animales".</p>
+<p>Los dos estudios no explican c&oacute;mo el virus pudo haberse transmitido de animales a humanos.</p>
+<p>Pero podr&iacute;an ofrecer pistas a las autoridades chinas, que buscan la fuente del brote que ha contaminado a centenas de personas en el pa&iacute;s y se ha confirmado en lugares tan lejanos como Estados Unidos.</p>
+<p>El mercado de alimentos donde apareci&oacute; el virus ofrece una variedad de vida silvestre ex&oacute;tica para la venta, incluidos zorros vivos, cocodrilos, cachorros de lobo, salamandras gigantes, serpientes, ratas, pavos reales, puercoespines y carne de camello, entre otras.</p>
+<p>Gao Fu, director del centro chino para el control y prevenci&oacute;n de enfermedades, dijo el mi&eacute;rcoles en Pek&iacute;n que las autoridades creen que el virus probablemente proven&iacute;a de "animales salvajes en el mercado de mariscos", aunque la fuente exacta sigue sin determinarse.</p>
+<p>El S&iacute;ndrome Respiratorio Agudo Severo (SARS, en ingl&eacute;s) se relacion&oacute; con el consumo chino de carne de civeta, un mam&iacute;fero carn&iacute;voro.</p>
+<p>Muchas especies ex&oacute;ticas a&uacute;n se consumen ampliamente en China y otros pa&iacute;ses asi&aacute;ticos donde se consideran un manjar -como la civeta o algunas ratas y murci&eacute;lagos- o por supuestos beneficios para la salud no probados por la ciencia.</p>
+}
+title4 Isabel dos Santos, una supermillonaria buscada por la justicia
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>A Isabel dos Santos la ha protegido su apellido durante mucho tiempo, pero desde que su padre dej&oacute; la presidencia de Angola en 2017, esta millonaria de 46 a&ntilde;os se ha convertido en objetivo de la justicia, que le reprocha haber saqueado las arcas p&uacute;blicas para construir su propio imperio.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Desde las revelaciones el domingo en los llamados "Luanda Leaks" sobre sus mecanismos para desviar miles de millones de d&oacute;lares del dinero p&uacute;blico de Angola, Dos Santos, que viv&iacute;a desde hac&iacute;a m&aacute;s de un a&ntilde;o entre Londres, Dub&aacute;i y Portugal, es la mujer m&aacute;s buscada por la justicia angole&ntilde;a.&nbsp;</p>
+<p>La hija de Jose Eduardo dos Santos, quien dirigi&oacute; el pa&iacute;s durante casi cuatro d&eacute;cadas (1979-2017), est&aacute; formalmente acusada en su pa&iacute;s por una serie de delitos, desde fraude hasta blanqueo de dinero, pasando por abuso de bienes sociales y tr&aacute;fico de influencias.</p>
+<p>"Pondremos todos los medios para traerla a Angola", dijo el lunes el fiscal general de Angola.</p>
+<p>Dos Santos, a quien sus compatriotas llaman la "princesa", desminti&oacute; estas acusaciones y denunci&oacute; "mentiras" y una "caza de brujas".</p>
+<p>Desde su primera inversi&oacute;n en un restaurante de lujo en la capital, Luanda, el origen de su fortuna siempre suscit&oacute; controversia. Los rivales de su padre y muchos observadores se&ntilde;alan que es un s&iacute;mbolo de nepotismo del r&eacute;gimen Dos Santos.</p>
+<p><br /><strong>- Empresaria con &eacute;xito -</strong></p>
+<p>"Tengo visi&oacute;n para los negocios desde que soy muy joven. Vend&iacute;a huevos de gallina con seis a&ntilde;os", explicaba la hija mayor del exmandatario angole&ntilde;o.</p>
+<p>Isabel dos Santos naci&oacute; en 1973 en Bak&uacute;, en Azerbaiy&aacute;n sovi&eacute;tico, donde su madre rusa y su padre estudiaban para ser ingenieros. En aquella &eacute;poca, este pa&iacute;s acog&iacute;a a los j&oacute;venes l&iacute;deres de los movimientos de liberaci&oacute;n africanos.</p>
+<p>Tras el divorcio de sus padres, se instala en Londres con su madre, donde estudia ingenier&iacute;a en el famoso King's College.</p>
+<p>Isabel dos Santos vuelve a Angola en los a&ntilde;os 1990. Tras crear su restaurante, empieza a abrirse paso al invertir en el primer operador de telefon&iacute;a m&oacute;vil de su pa&iacute;s, Unitel.</p>
+<p>Desde entonces, no para, y en pocos a&ntilde;os, crea todo un imperio.</p>
+<p>Sus inversiones no dejan de crecer, con sus participaciones en telefon&iacute;a (Unitel y el gigante Nos en Portugal), en el sector bancario (BIC en Angola y BPI en Portugal), la distribuci&oacute;n, los diamantes y los medios de comunicaci&oacute;n.</p>
+<p>En 2013, le revista Forbes la llama "la primera mujer multimillonaria de &Aacute;frica". Su patrimonio se estima entonces en 3.300 millones de d&oacute;lares.</p>
+<p><br /><strong>- Boda por todo lo alto -</strong></p>
+<p>En 2002, se casa con el empresario dan&eacute;s de origen congole&ntilde;o y coleccionista de arte Sindika Dokolo. Su boda en los jardines del Palacio Rosa, la sede presidencial en Luanda, habr&iacute;an costado cuatro millones de d&oacute;lares, seg&uacute;n la prensa.</p>
+<p>Isabel dos Santos vive entonces entre Londres, Lisboa y Luanda, frecuenta a las &eacute;lites de las finanzas y se codea con las estrellas del cine mundial en el Festival de Cannes.</p>
+<p>Pero su vida da un vuelco cuando su padre deja la presidencia en agosto de 2017 y entrega las riendas del pa&iacute;s a su exministro de Defensa, Joao Louren&ccedil;o, quien destituir&aacute; a todos los pesos pesados del antiguo r&eacute;gimen para asegurar su autoridad en el pa&iacute;s.&nbsp;</p>
+<p>Isabel dos Santos pierde r&aacute;pidamente su puesto a la cabeza de Sonangol, el poderoso grupo petrolero estatal. Su padre la hab&iacute;a colocado en este puesto un a&ntilde;o antes de abandonar el poder.</p>
+<p>Desde que congelaron todos sus haberes en Angola, Dos Santos, audaz pol&iacute;glota, multiplica sus declaraciones en medios y redes sociales para insistir que su fortuna se debe a su "inteligencia", su "capacidad de trabajo" y su "perseverancia", y no a su padre. Denuncia tambi&eacute;n un "ajuste de cuentas pol&iacute;tico" por parte del presidente Joao Louren&ccedil;o.</p>
+<p>Es justamente en el terreno pol&iacute;tico que planea contraatacar. La semana pasada, Isabel dos Santos amenaz&oacute; con presentarse a las elecciones presidenciales de 2022 en su pa&iacute;s.</p>
+}

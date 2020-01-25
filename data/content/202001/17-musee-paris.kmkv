@@ -1,0 +1,73 @@
+type article
+featured{kmkv} {
+    pretitle CULTURA:
+    title MUSEOS DE PARÍS<b> FOR <b>FREE<b>
+    text1 LA INSTITUCIÓN QUE ADMINISTRA LOS MUSEOS DE PARÍS HA DADO LIBRE ACCESO A MÁS DE 300000 PIEZAS DE ARTE QUE HABITAN LOS MUSEOS DE LA CIUDAD.
+    text2 POR NPN CULTURA
+    highlightColor #00ffff
+}
+media{kmkv} {
+    header{image} /images/202001/headers/17-musee-paris.jpg
+    poster{image} /images/202001/posters/17-musee-paris.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
+    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
+    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
+    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+    trumpflag{image} /images/202001/necesita-saber-iran/trumpflag.jpg
+    trumptweet{image} /images/202001/necesita-saber-iran/trumptweet.jpg
+    tweet1{image} /images/202001/necesita-saber-iran/tweet1.jpg
+    zariftweet{image} /images/202001/necesita-saber-iran/zariftweet.jpg
+    perdidas{image} /images/202001/necesita-saber-iran/perdidas.jpg
+    respuesta{image} /images/202001/necesita-saber-iran/respuesta.jpg
+    dubai{image} /images/202001/necesita-saber-iran/dubai.jpg
+    propaganda{image} /images/202001/necesita-saber-iran/propaganda.jpg
+    museeparismonet{image} /images/202001/17-musee-paris/museeparismonet.jpg
+    museeparisgautier{image} /images/202001/17-musee-paris/museeparisgautier.jpg
+    museeparishippodrome{image} /images/202001/17-musee-paris/museeparishippodrome.jpg
+    museeparislouis{image} /images/202001/17-musee-paris/museeparislouis.jpg
+}
+tags{array} cultura, noticias, home
+title Museos de París for free: dan libre acceso a más de 300000 de sus obras
+description ¿Siempre quisiste tener un Goya o un Cézanne adornando la sala de tu casa? Ahora podés imprimir sus obras en alta resolución legalmente: los Museos de París han puesto en línea para libre descarga más de 150000 de las pinturas y fotografías que adornan sus galerías.
+day 17
+month 01
+year 2020
+color #00ffff
+author NPN Cultura
+subtitle En la lista hay más de 150000 pinturas y fotografías disponibles para libre descarga en altísima resolución.
+text {
+<p>&iquest;Qui&eacute;n no quisiera darse una vuelta por los museos de Par&iacute;s? El Louvre, el Museo Nacional de Arte Moderno de Pampidou, el Museo de Orsay, el Museo Nacional de Medioevo, <a href="https://www.tripsavvy.com/top-art-museums-in-paris-1618673">y varios m&aacute;s,</a> son de las atracciones m&aacute;s visitadas de la capital Europea, la raz&oacute;n por la que hordas de turistas la visitan cada a&ntilde;o. Famosa por su historia y el papel fundamental que ha jugado en el desarrollo de las artes y las ciencias, la ciudad es hogar para una cantidad alucinante de las pinturas, esculturas, fotograf&iacute;as y piezas de arte moderno m&aacute;s importantes. Por sus calles, han transitado, vivido, y so&ntilde;ado la mayor&iacute;a de los artistas m&aacute;s ic&oacute;nicos del mundo, aunque sea por temporadas.&nbsp;</p>
+<p>Visit&aacute; la galer&iacute;a de Museos de Par&iacute;s <a href="http://parismuseescollections.paris.fr/en/expositions-virtuelles">aqu&iacute;</a>.</p>
+<p>$image/museeparishippodrome$</p>
+<div class="articleCaption">
+<p><a href="http://parismuseescollections.paris.fr/fr/node/76086#infos-principales"><em>Tous les Soirs/ HIPPODROME </em></a>. Dessinateur Anonyme // 1873 ~ 1883</p>
+</div>
+<p>&nbsp;</p>
+<p>Pero para aquellos que no pueden m&aacute;s que so&ntilde;ar con pagarse el tiquete y quedarse algunos d&iacute;as en un airbnb parisino - para despertarse bien temprano y hacer las largas colas necesarias para poder entrar a estos museos - el mundo hiper conectado del internet hoy les regala una buena noticia: la instituci&oacute;n p&uacute;blica a cargo de administrar estos museos anunci&oacute; ayer que pondr&iacute;a en l&iacute;nea 321178 obras de arte - que incluyen pinturas, fotograf&iacute;as y monedas - a disposici&oacute;n del p&uacute;blico global, y que de esas, 15000 podr&aacute;n incluso descargarse en alta resoluci&oacute;n: s&iacute;, ahora pod&eacute;s tener un print de, por ejemplo, el Goya en la imagen de cabecera de este art&iacute;culo, en la sala de tu casa&hellip; <strong>legalmente.</strong></p>
+<p>De acuerdo con la instituci&oacute;n, este es un esfuerzo por poner esta data a disposici&oacute;n del p&uacute;blico y asegurarse que los archivos puedan ser utilizados por cualquier interesado, sea para fines comerciales o educativos.</p>
+<p>$image/museeparismonet$</p>
+<div class="articleCaption"><a href="http://parismuseescollections.paris.fr/fr/petit-palais/oeuvres/soleil-couchant-sur-la-seine-a-lavacourt-effet-d-hiver#infos-principales"><em>Soleil couchant sur la Seine &agrave; Lavacourt, effet d'hiver</em></a>. Claude Monet // 1880<br />&nbsp;</div>
+<p>A los geeks del arte, como nosotros, esto nos cambia la vida - pero no solo es importante para conocedores: &nbsp;es un <em>win</em> para la ense&ntilde;anza de las artes, y el acceso a la informaci&oacute;n de la nueva era digital; un paso firme para asegurarse que el arte - su historia, y su importancia - pueda ser accesado por toda la humanidad. En la lista figuran obras de Rembrandt, Anthony Van Dyck, Delacroix, C&eacute;zanne, Monet y muchos otros artistas s&uacute;per reconocidos e importantes, al igual que otras obras menos famosas que merecen tambi&eacute;n ser objeto de admiraci&oacute;n y estudio.&nbsp;</p>
+<p>$image/museeparisgautier$</p>
+<div class="articleCaption">
+<p><a href="http://parismuseescollections.paris.fr/fr/maison-de-balzac/oeuvres/jeune-femme-nue#infos-principales"><em>Jeune femme nue</em></a>. Th&eacute;ophile Gautier // 1831</p>
+</div>
+<div class="articleCaption">
+<p><a href="http://parismuseescollections.paris.fr/fr/maison-de-balzac/oeuvres/dernier-manuscrit-avec-dessin-de-theophile-gautier#infos-principales"><em>Dernier manuscrit avec dessin de Th&eacute;ophile Gautier</em></a>. Th&eacute;ophile Gautier // 1872</p>
+</div>
+<p>&nbsp;</p>
+<p><strong>&iquest;C&oacute;mo buscar las piezas que pod&eacute;s descargar gratis?</strong></p>
+<p>Entr&aacute; a la galer&iacute;a y seleccion&aacute; el criterio de b&uacute;squeda &ldquo;libre de derechos&rdquo;; luego busc&aacute; a tu artista favorito y &iexcl;voil&aacute;!: la obra ahora es tuya para disfrutarla, distribuirla, y exhibirla como te plazca.</p>
+<p>$image/museeparislouis$</p>
+<div class="articleCaption">
+<p><a href="http://parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/la-place-louis-xv#infos-principales"><em>La place Louis XV</em></a>. Louis-Nicolas Van Blarenberghe // 1770 ~ 1780</p>
+</div>
+}

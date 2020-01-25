@@ -1,0 +1,125 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>21-01-20. *</b>
+    text1 4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+    text2 CURADAS POR<br>NO PASA NADA NOTICIAS
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/21-lo-importante.jpg
+    poster{image} /images/202001/posters/21-lo-importante.jpg
+    header-desktop1{image} /images/202001/21-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/202001/21-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/202001/21-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/202001/21-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/202001/21-lo-importante/square1.jpg
+    header-mobile2{image} /images/202001/21-lo-importante/square2.jpg
+    header-mobile3{image} /images/202001/21-lo-importante/square3.jpg
+    header-mobile4{image} /images/202001/21-lo-importante/square4.jpg
+}
+tags{array} noticias, home
+title Lo Importante: 21-01-20
+description 4 historias importantes de las más recientes noticias internacionales
+day 21
+month 01
+year 2020
+color #ffff00
+title1 Trump denuncia en Davos el "catastrofismo" climático y Thunberg advierte que "no se ha hecho nada”
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-&nbsp;</strong></p>
+<p>Donald Trump y Greta Thunberg expusieron este martes sus posturas radicalmente opuestas sobre el cambio clim&aacute;tico en el foro de Davos, donde el presidente estadounidense denunci&oacute; a los "catastrofistas" y la joven activista sueca lament&oacute; al contrario que "no se ha hecho nada" por el planeta.</p>
+<p>"Tenemos que rechazar a los eternos catastrofistas y sus predicciones de apocalipsis", dijo Trump, acusando a los "herederos de los insensatos adivinos del pasado" de equivocarse en el cambio clim&aacute;tico, como ya hicieron, seg&uacute;n &eacute;l, cuando predijeron la superpoblaci&oacute;n del planeta o el fin del petr&oacute;leo.</p>
+<p>Pocas horas antes, Thunberg hab&iacute;a criticado al contrario, en uno de los coloquios del foro, la inacci&oacute;n de los poderes p&uacute;blicos.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>"Estamos todos luchando por el clima y por el medioambiente. Pero si lo miran desde una perspectiva general, en la pr&aacute;ctica no se ha hecho nada", dijo la sueca, lamentando adem&aacute;s las dificultades para transmitir su mensaje a pesar de su presencia medi&aacute;tica.</p>
+<p>"Hay una diferencia entre hacerse o&iacute;r y que eso lleve a algo (...) Siempre me escuchan pero la ciencia y la voz de los j&oacute;venes todav&iacute;a no est&aacute;n en el foco de atenci&oacute;n", afirm&oacute;.</p>
+<p>Ambos simbolizan el abismo entre la visi&oacute;n de los que, como el presidente estadounidense, creen que la protecci&oacute;n del medio ambiente es un freno al crecimiento econ&oacute;mico y la de una joven generaci&oacute;n que pide medidas urgentes antes de que sea demasiado tarde.</p>
+<p>Trump lleg&oacute; a Davos a primera hora de la ma&ntilde;ana, el mismo d&iacute;a en que empieza en Washington el juicio que podr&iacute;a llevar a su destituci&oacute;n, que calific&oacute; de "vergonzoso" y de "farsa".</p>
+<p>En su discurso con aires electorales, en una sala llena de l&iacute;deres pol&iacute;ticos y econ&oacute;micos en la que tambi&eacute;n estaba Thunberg, Trump desgran&oacute; con abundantes cifras los logros econ&oacute;micos de su presidencia.</p>
+<p>Tambi&eacute;n advirti&oacute; que no dejar&iacute;a "a los socialistas radicales destruir nuestra econom&iacute;a", en una probable referencia a sus rivales dem&oacute;cratas en las elecciones estadounidenses del pr&oacute;ximo noviembre.</p>
+<p>El Foro Econ&oacute;mico Mundial &mdash;fundado en 1971 por el economista alem&aacute;n Klaus Schwab y que este a&ntilde;o celebra su edici&oacute;n n&uacute;mero 50&mdash; ya advirti&oacute; en su informe sobre riesgos globales, publicado la semana pasada, que el cambio clim&aacute;tico "es m&aacute;s fuerte y m&aacute;s r&aacute;pido de lo esperado", con temperaturas que podr&iacute;an subir hasta tres grados a finales de este siglo.</p>
+}
+title2 Pompeo discutirá "crisis de autoritarismo" en Nicaragua en visita a Costa Rica
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El jefe de la diplomacia de Estados Unidos, Mike Pompeo, discutir&aacute; este martes lo que describi&oacute; como una "crisis de autoritarismo" en Nicaragua, cuando se re&uacute;na en Costa Rica con el presidente Carlos Alvarado.</p>
+<p>Pompeo, que realiza esta semana una gira por Latinoam&eacute;rica y el Caribe para afianzar la relaci&oacute;n con pa&iacute;ses socios en la regi&oacute;n, llegar&aacute; a San Jos&eacute; tras una visita a Colombia que estuvo dominada por la situaci&oacute;n en Venezuela y los esfuerzos del l&iacute;der opositor Juan Guaid&oacute; para propiciar la salida del "ileg&iacute;timo" mandatario Nicol&aacute;s Maduro, y llamar a nuevas elecciones.</p>
+<p>"Me dirigir&eacute; a Costa Rica, un gran amigo cuyo compromiso con la democracia ha sido claro durante muchas d&eacute;cadas, y discutiremos la crisis del autoritarismo en su propia frontera con Nicaragua", anunci&oacute; Pompeo el viernes en la sede de la Organizaci&oacute;n de los Estados Americanos (OEA), antes de iniciar su periplo.</p>
+<p>Washington lleva adelante una campa&ntilde;a de presi&oacute;n diplom&aacute;tica y sanciones econ&oacute;micas contra Managua para forzar la partida del presidente Daniel Ortega y su esposa y vicepresidente, Rosario Murillo, elegidos en controvertidos comicios en 2016 y a quienes acusa de corrupci&oacute;n y graves violaciones de los derechos humanos.&nbsp;</p>
+<p>El gobierno de Donald Trump, que considera a Nicaragua parte de la "troika de la tiran&iacute;a" en la que tambi&eacute;n incluye a Cuba y Venezuela, promueve la realizaci&oacute;n de elecciones "anticipadas, libres y transparentes" en el pa&iacute;s centroamericano para superar el estancamiento pol&iacute;tico y reactivar la econom&iacute;a.</p>
+<p><br /><strong>- 55.000 nicarag&uuml;enses -</strong></p>
+<p>Pompeo "agradecer&aacute; a Costa Rica por promover la democracia a trav&eacute;s de su liderazgo en la OEA con respecto a la crisis nicarag&uuml;ense", dijo a periodistas un funcionario diplom&aacute;tico estadounidense de alto rango durante una sesi&oacute;n informativa sobre la gira del secretario de Estado la semana pasada.</p>
+<p>"Tambi&eacute;n agradecer&aacute; a Costa Rica por haber recibido a nicarag&uuml;enses que huyen de la represi&oacute;n del r&eacute;gimen de Ortega y por su condena constante a los abusos tanto de ese r&eacute;gimen como del de Maduro en Venezuela", agreg&oacute; bajo condici&oacute;n de anonimato.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>La crisis pol&iacute;tica en Nicaragua, que se inici&oacute; con protestas antigubernamentales en abril de 2018 y solicitudes de renuncia de Ortega fuertemente reprimidas por las autoridades, dej&oacute; al menos 328 muertos y provoc&oacute; una ola migratoria a pa&iacute;ses de la regi&oacute;n.</p>
+<p>Costa Rica ha recibido al menos a unos 55.000 nicarag&uuml;enses de los casi 100.000 que huyeron por la crisis, seg&uacute;n la Comisi&oacute;n Interamericana de Derechos Humanos (CIDH). En Venezuela, en tanto, m&aacute;s de 4,6 millones de personas han abandonado el pa&iacute;s en los &uacute;ltimos a&ntilde;os, seg&uacute;n la ONU.</p>
+<p><br /><strong>-Molestia por advertencia de viajes-</strong></p>
+<p>El Departamento de Estado dijo que el viaje de Pompeo a Costa Rica ser&aacute; el primero de un secretario de Estado estadounidense al pa&iacute;s centroamericano en una d&eacute;cada.</p>
+<p>"Conversaremos sobre temas de alta importancia en el marco de la cooperaci&oacute;n en seguridad y el desarrollo de la regi&oacute;n", tuite&oacute; Alvarado, apenas se inform&oacute; de la gira.</p>
+<p>El lunes, la Presidencia de Costa Rica dijo que el mandatario propondr&aacute; a Pompeo que Estados Unidos "reconsidere el cambio unilateral" de la advertencia de viajes a Costa Rica, que pas&oacute; del nivel 1 (tenga precauciones normales) al 2 (incremente las precauciones debido a la delincuencia).</p>
+<p>"Costa Rica ha rechazado categ&oacute;ricamente este cambio, aplicado desde el 7 de enero, por considerarlo injusto y desproporcionado", se&ntilde;al&oacute; en un comunicado.</p>
+<p>Agreg&oacute; que Alvarado abordar&aacute; adem&aacute;s con Pompeo "la situaci&oacute;n de Venezuela y Nicaragua, el incremento de los flujos migratorios y el impacto en Costa Rica, y los esfuerzos conjuntos en materia de seguridad y combate al narcotr&aacute;fico".</p>
+}
+title3 Arranca el histórico juicio político contra Trump en el Senado de EEUU
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-&nbsp;</strong></p>
+<p>El hist&oacute;rico juicio pol&iacute;tico contra el presidente de Estados Unidos, Donald Trump, comienza este martes en el Senado, con la divisi&oacute;n partidista que caracteriza su mandato: mientras la oposici&oacute;n dem&oacute;crata lucha por apartarlo del cargo, los republicanos que controlan la C&aacute;mara Alta buscan una r&aacute;pida absoluci&oacute;n.&nbsp;</p>
+<p>Cuatro meses despu&eacute;s de que explot&oacute; el esc&aacute;ndalo ucraniano que lastr&oacute; el final del gobierno de Trump, cuando faltan 10 meses para las elecciones presidenciales, los 100 senadores se reunir&aacute;n en el Congreso para el juicio que comenzar&aacute; a las 13H00 hora local (18H00 GMT), y que probablemente concluya con la absoluci&oacute;n del mandatario.</p>
+<p>Los senadores -que juraron la semana pasada para ser jurados en el proceso- deben decidir sobre los cargos que la C&aacute;mara de Representantes le imput&oacute; a Trump el mes pasado: abuso de poder y obstrucci&oacute;n al Congreso.&nbsp;</p>
+<p>Seg&uacute;n la acusaci&oacute;n, Trump intent&oacute; presionar a Ucrania para que interfiriera en las elecciones de 2020 para ayudarlo, sugiriendo a su hom&oacute;logo de Kiev, Volodimir Zelenski, que investigara los negocios del hijo de Joe Biden, quien podr&iacute;a ser su rival dem&oacute;crata en las presidenciales.</p>
+<p>Despu&eacute;s, seg&uacute;n los opositores, obstruy&oacute; el trabaj&oacute; de la investigaci&oacute;n en el Congreso al negarse a que sus principales asesores testificaran.&nbsp;</p>
+<p>Trump se convertir&aacute; en el tercer presidente en la historia del pa&iacute;s en ser juzgado por el Senado, despu&eacute;s de Andrew Johnson en 1868 y de Bill Clinton en 1999.&nbsp;</p>
+<p>Una veta importante del esc&aacute;ndalo es la llamada entre Trump y Zelenski el 25 de julio, durante la cual supuestamente el mandatario estadounidense presion&oacute; a su par para que anunciara una investigaci&oacute;n sobre Biden.&nbsp;</p>
+<p>Los dem&oacute;cratas que controlan la C&aacute;mara Baja y que lideraron la investigaci&oacute;n contra Trump lo acusan de haber manipulado a Ucrania al retener cerca de 400 millones de d&oacute;lares en ayuda militar para un pa&iacute;s que tiene un conflicto con rebeldes prorusos en el este de su territorio.&nbsp;</p>
+<p><br /><strong>- Crispaci&oacute;n -</strong></p>
+<p>En la v&iacute;spera, la polarizaci&oacute;n entre ambas partes -que ha caracterizado el proceso desde que emergieron las primeras acusaciones- se hizo patente una vez m&aacute;s cuando el equipo legal del presidente estadounidense public&oacute; un escrito de 100 p&aacute;ginas en el que pidi&oacute; al Senado absolver inmediatamente a Trump.</p>
+<p>El texto califica el juicio como una "peligrosa perversi&oacute;n de la constituci&oacute;n" y casi simult&aacute;neamente los impulsores del proceso contra Trump en la C&aacute;mara de Representantes publicaron un documento explicando que el mandatario hab&iacute;a incurrido en una "conducta corrupta" con el objetivo de hacer trampa en la pr&oacute;xima elecci&oacute;n.&nbsp;</p>
+<p>"El presidente no hizo nada malo", sentenciaron los abogados de Trump, un equipo de alto nivel con figuras como Kenneth Starr, que particip&oacute; en el proceso contra Clinton tras el esc&aacute;ndalo por su relaci&oacute;n con Monica Lewinsky.&nbsp;</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-&nbsp;</strong></p>
+<p>Se espera que los senadores voten de acuerdo a los lineamientos de su partido, y Trump cuenta con el apoyo de la mayor&iacute;a republicana que domina el hemiciclo con 53 esca&ntilde;os, por lo que el juicio pol&iacute;tico no tiene visos de prosperar.&nbsp;</p>
+<p>En este contexto, los crispados intercambios est&aacute;n orientados hacia la opini&oacute;n p&uacute;blica, en un momento en que se acerca el inicio de las primarias dem&oacute;cratas de cara a las presidenciales. &nbsp;</p>
+<p>A partir de este martes, los senadores establecer&aacute;n las reglas el proceso que estar&aacute; presidido por el jefe de la Corte Suprema, John Roberts, que ejerce un rol m&aacute;s bien protocolar.&nbsp;</p>
+<p>Trump no est&aacute; este martes en Washington, ya que por la ma&ntilde;ana lleg&oacute; a Davos para participar en el Foro Econ&oacute;mico Mundial en esa estaci&oacute;n suiza, donde nuevamente calific&oacute; los procedimientos de juicio pol&iacute;tico en su contra como un "enga&ntilde;o".</p>
+<p>"Es la caza de brujas que ha estado sucediendo durante a&ntilde;os y, francamente, es vergonzoso", dijo.</p>
+<p>Por otra parte, este proceso podr&iacute;a afectar la campa&ntilde;a de cuatro senadores que aspiran a la nominaci&oacute;n del partido dem&oacute;crata para competir contra Trump en las elecciones, entre ellos los dos que pisan los talones de Biden en las encuestas: Bernie Sanders y Elizabeth Warren.&nbsp;</p>
+<p><br /><strong>- Las reglas del juego -</strong></p>
+<p>El lunes, el l&iacute;der de la mayor&iacute;a republicana del Senado, Mitch McConnell, propuso que cada parte tenga un total de 12 horas en dos d&iacute;as para presentar sus argumentos.&nbsp;</p>
+<p>Eso har&iacute;a el proceso significativamente m&aacute;s r&aacute;pido que el juicio pol&iacute;tico contra Clinton en 1999.&nbsp;</p>
+<p>La C&aacute;mara Alta debatir&aacute; y votar&aacute; la propuesta el martes. Por el momento, el l&iacute;der de la minor&iacute;a dem&oacute;crata, Chuck Schumer, dijo que McConnell est&aacute; apurando el juicio y dificultando la presentaci&oacute;n de testigos y documentos.</p>
+<p>Los dem&oacute;cratas quieren que testifiquen altos cargos del gobierno de Trump, como su jefe de gabinete, Mick Mulvaney, y el exasesor de Seguridad Nacional John Bolton, con la expectativa de que aporten detalles de los intercambios de Trump con Ucrania.&nbsp;</p>
+<p>Bolton dijo que estaba dispuesto a testificar, si lo citan.&nbsp;</p>
+<p>La Casa Blanca espera que el juicio finalice en dos semanas. Si as&iacute; fuera, ser&iacute;an tres semanas menos de lo que se extendi&oacute; el proceso contra Clinton.</p>
+<p>McConnell, que domina el gui&oacute;n por ser el jefe de la mayor&iacute;a, dijo que no va a considerar el tema de los testigos hasta despu&eacute;s de las argumentaciones y los intercambios de preguntas.&nbsp;</p>
+}
+title4 Lo que sabemos sobre el nuevo virus que ha provocado seis muertes en China
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Un nuevo virus, tipo SARS, ha matado a seis personas en China y ha infectado, hasta la fecha, a cerca de 300.</p>
+<p>Ahora, se teme que el virus se propague r&aacute;pidamente durante las vacaciones del A&ntilde;o Nuevo Lunar, por las que se prev&eacute;n millones de desplazamientos.</p>
+<p>Varios pa&iacute;ses asi&aacute;ticos y Estados Unidos pusieron en marcha controles de detecci&oacute;n para los pasajeros procedentes de Wuhan, la ciudad china en la que se identific&oacute; el epicentro del virus.&nbsp;</p>
+<p><br /><strong>- Es completamente nuevo -</strong></p>
+<p>Al parecer, el virus pertenece a una cepa desconocida hasta ahora de coronavirus, una familia de pat&oacute;genos que abarca desde resfriados comunes hasta el S&iacute;ndrome Respiratorio Agudo Severo (SARS), que mat&oacute; a 349 personas en China continental y a 299 en Hong Kong en 2002 y 2003.</p>
+<p>Arnaud Fontanet, jefe del departamento de epidemolog&iacute;a en el Instituto Pasteur de Par&iacute;s, explic&oacute; a la AFP que la cepa del virus actual es en un 80% id&eacute;ntico gen&eacute;ticamente al SARS.</p>
+<p>China comparti&oacute; el genoma del virus con cient&iacute;ficos de otros pa&iacute;ses.</p>
+<p>De momento, se lo ha apodado "2019-nCoV".&nbsp;</p>
+<p><br /><strong>- Se contagia entre humanos -</strong></p>
+<p>La Organizaci&oacute;n Mundial de la Salud anunci&oacute; el lunes que cree que la "fuente primaria" del brote es de origen animal, y las autoridades de Wuhan indicaron que el centro de la epidemia se encontraba en un mercado de pescado.&nbsp;</p>
+<p>Sin embargo, China confirm&oacute; m&aacute;s tarde que el virus se contagia entre humanos, sin que tenga que haber ning&uacute;n contacto con el mercado.</p>
+<p>La doctora Nathalie MacDermott, del King's College de Londres, apunt&oacute; que le virus podr&iacute;a transmitirse por v&iacute;a a&eacute;rea cuando la persona infectada tose o estornuda.&nbsp;</p>
+<p>Seg&uacute;n apunt&oacute; el martes un grupo de m&eacute;dicos de la Universidad de Hong Kong, habr&iacute;a habido unos 1.343 casos en Wuhan, una cifra similar a la proyecci&oacute;n de 1.700 que hizo la semana pasada el Imperial College de Londres.&nbsp;</p>
+<p>Ambas estimaciones son mayores a las cifras oficiales.&nbsp;</p>
+<p><br /><strong>-Es m&aacute;s suave que el SARS-</strong></p>
+<p>Comparados con los del SARS, los s&iacute;ntomas de este nuevo virus parecen ser menos agresivos, y los expertos destacan que el balance de muertos es todav&iacute;a relativamente bajo.</p>
+<p>Seg&uacute;n las autoridades de Wuhan, veinticinco de m&aacute;s de 200 personas infectadas en la ciudad se curaron.&nbsp;</p>
+<p>"Es dif&iacute;cil comparar esta enfermedad con el SARS", coment&oacute; Zhong Nanshan, un reputado cient&iacute;fico de la Comisi&oacute;n Nacional de Salud de China en una rueda de prensa esta semana. "Es suave. El impacto en el pulm&oacute;n no es como con el SARS".&nbsp;</p>
+<p>Sin embargo, que el virus sea suave tambi&eacute;n puede generar alarma ya que, puesto que los s&iacute;ntomas son m&aacute;s leves, la gente podr&iacute;a seguir viajando antes de que se les detecte la presencia del virus, advierten los expertos.&nbsp;</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>La OMS llevar&aacute; a cabo una reuni&oacute;n el mi&eacute;rcoles para decidir si el brote constituye una "emergencia de salud p&uacute;blica internacional".&nbsp;</p>
+<p>La agencia solo ha utilizado esa denominaci&oacute;n un pu&ntilde;ado de veces, como en el caso del virus H1N1, o fiebre porcina (2009); la epidemia del virus del &Eacute;bola (2014-2016) o el virus del Zika (2016).</p>
+<p>El gobierno chino le dio al brote la misma clasificaci&oacute;n que al SARS, lo que comportar&aacute; la cuarentena obligatoria para los diagnosticados y una posible instauraci&oacute;n de restricciones para viajar.&nbsp;</p>
+}

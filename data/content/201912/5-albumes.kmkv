@@ -38,7 +38,7 @@ media{kmkv} {
     infest{image} /images/201912/lo-mejor-2019/infest.jpg
     albums{image} /images/201912/5-albumes/albums.jpg
 }
-tags{array} cultura, home
+tags{array} cultura
 title 5 discos del 2019 que vale la pena escuchar
 description Para conmemorar el año que acaba, te recomendamos cinco álbumes
 day 31

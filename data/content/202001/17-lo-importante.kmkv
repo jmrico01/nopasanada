@@ -1,0 +1,117 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>17-01-20. *</b>
+    text1 4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+    text2 CURADAS POR<br>NO PASA NADA NOTICIAS
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/17-lo-importante.jpg
+    poster{image} /images/202001/posters/17-lo-importante.jpg
+    header-desktop1{image} /images/202001/17-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/202001/17-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/202001/17-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/202001/17-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/202001/17-lo-importante/square1.jpg
+    header-mobile2{image} /images/202001/17-lo-importante/square2.jpg
+    header-mobile3{image} /images/202001/17-lo-importante/square3.jpg
+    header-mobile4{image} /images/202001/17-lo-importante/square4.jpg
+}
+tags{array} noticias, home
+title Lo Importante: 17-01-20
+description 4 historias importantes de las más recientes noticias internacionales
+day 17
+month 01
+year 2020
+color #ffff00
+title1 Donald Trump y Greta Thunberg, en el centro de atención del foro de Davos
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El presidente estadounidense Donald Trump y la activista clim&aacute;tica Greta Thunberg protagonizar&aacute;n a partir del martes el foro de Davos 2020, la cita anual de la &eacute;lite pol&iacute;tica y econ&oacute;mica mundial que este a&ntilde;o alcanza su 50&ordf; edici&oacute;n.</p>
+<p>El Foro Econ&oacute;mico Mundial (WEF) re&uacute;ne desde 1971 a empresarios y l&iacute;deres pol&iacute;ticos en la peque&ntilde;a estaci&oacute;n de esqu&iacute; suiza, con la ambici&oacute;n de convertirse en "centro de reflexi&oacute;n" de los problemas del mundo.</p>
+<p>Pero la reuni&oacute;n es tambi&eacute;n un punto de encuentro de las &eacute;lites mundiales y el reflejo de las divisiones econ&oacute;micas y geopol&iacute;ticas del momento, como refleja este a&ntilde;o la presencia simult&aacute;nea de Thunberg y Trump.&nbsp;</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>La joven activista sueca de 17 a&ntilde;os vuelve a Davos por segundo a&ntilde;o consecutivo con una esperada intervenci&oacute;n el martes para convencer a la comunidad internacional y al mundo de los negocios que act&uacute;e urgentemente frente al cambio clim&aacute;tico.</p>
+<p>Por su parte Donald Trump, muy cr&iacute;tico con Thunberg, a la que intent&oacute; ridiculizar en varios tuits, y conocido por su escepticismo sobre la realidad del cambio clim&aacute;tico, har&aacute; una intervenci&oacute;n el mi&eacute;rcoles en Davos, el mismo d&iacute;a que en Washington los senadores pondr&aacute;n en marcha su proceso de destituci&oacute;n.</p>
+<p>La agenda de Trump en el foro estar&aacute; marcada por las tensiones con Ir&aacute;n tras la muerte por un dron estadounidense del general iran&iacute; Qasem Soleimani, al que le siguieron acciones de represalia de Teher&aacute;n y el derribo de un avi&oacute;n comercial ucraniano por un misil iran&iacute;.</p>
+<p>El ministro iran&iacute; de Exteriores, Mohamad Javad Zarif, anul&oacute; finalmente &nbsp;su presencia en Davos pero s&iacute; estar&aacute; el presidente de Irak, Barham Saleh.</p>
+<p>El foro, que se celebra hasta el viernes, tambi&eacute;n abordar&aacute; las tensiones comerciales entre Estados Unidos y China, que el mi&eacute;rcoles alcanzaron un acuerdo preliminar tras dos a&ntilde;os de guerra de aranceles.&nbsp;</p>
+<p>La delegaci&oacute;n china en Davos estar&aacute; encabezada por el viceprimer ministro chino Han Zheng.</p>
+<p><br /><strong>-"Guerra fr&iacute;a" tecnol&oacute;gica-</strong></p>
+<p>La lista de magnates en Davos, muchos de ellos de grandes compa&ntilde;&iacute;as tecnol&oacute;gicas, incluye tambi&eacute;n a Ren Zhengfei, el fundador del gigante chino Huawei, vetado en Estados Unidos en lo que algunos califican de nueva "guerra fr&iacute;a tecnol&oacute;gica".</p>
+<p>Europa estar&aacute; representada por la presidenta de la Comisi&oacute;n Europea, Ursula von der Leyen, la canciller alemana Angela Merkel y el presidente espa&ntilde;ol Pedro S&aacute;nchez, que acaba de formar un gobierno de coalici&oacute;n con el partido de izquierda radical Unidas Podemos.</p>
+<p>Entre los l&iacute;deres latinoamericanos destacan los presidente de Colombia (Iv&aacute;n Duque) y de Ecuador (Len&iacute;n Moreno). El brasile&ntilde;o Jair Bolsonaro decidi&oacute; anular su presencia pero s&iacute; estar&aacute; su ministro de Econom&iacute;a, Paulo Guedes.</p>
+<p>Las otras dos grandes econom&iacute;as latinoamericanas, M&eacute;xico y Argentina, mantienen su perfil bajo en Davos. En el primer caso con la presencia de la secretaria de Econom&iacute;a, Graciela M&aacute;rquez, mientras que el gobierno en Buenos Aires del peronista Alberto Fern&aacute;ndez decidi&oacute; no enviar representaci&oacute;n oficial.</p>
+<p>En un informe reciente, el WEF se&ntilde;ala como "retos clave para la humanidad" el descontento popular por la inestabilidad econ&oacute;mica, el cambio clim&aacute;tico, la desaparici&oacute;n acelerada de la biodiversidad o el acceso desigual a internet o a los sistemas sanitarios.</p>
+<p>"El mundo no puede esperar a que desaparezca la niebla de incertidumbre geopol&iacute;tica y geoecon&oacute;mica", afirma el informe.</p>
+<p>Pese a ello no se espera que Donald Trump modere en Davos sus posiciones proteccionistas en materia de comercio o su pol&iacute;tica sobre el cambio clim&aacute;tico, asegura Carlos Pascual, un exdiplom&aacute;tico estadounidense, actual vicepresidente de la consultora IHS Markit.</p>
+<p>"Probablemente mandar&aacute; un mensaje a los estadounidenses, no a la comunidad internacional", indic&oacute; a la AFP.</p>
+<p>Con la vista puesta en su reelecci&oacute;n en noviembre, el objetivo de Trump ser&aacute; "insistir de cara a sus electores que su prioridad n&uacute;mero uno en pol&iacute;tica internacional sigue siendo 'America First'".</p>
+}
+title2 Expresidenta del Parlamento ecuatoriano denuncia "dictadura de nuevo tipo"
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>La expresidenta de la Asamblea de Ecuador Gabriela Rivadeneira, asilada en M&eacute;xico desde hace una semana, acus&oacute; al gobierno del presidente Len&iacute;n Moreno de implementar "una dictadura de nuevo tipo" que condujo al estallido de protestas sociales en octubre pasado.</p>
+<p>"Lo que est&aacute; haciendo el presidente Len&iacute;n Moreno, sus voceros y parte de su gabinete, es implementar una dictadura de nuevo tipo que tiene que ser analizada porque ha roto con todo principio democr&aacute;tico y Estado de derecho", dijo a la AFP Rivadeneira, durante una entrevista en Ciudad de M&eacute;xico.</p>
+<p>La asamble&iacute;sta, una de las dirigentes m&aacute;s destacadas del movimiento pol&iacute;tico del opositor expresidente Rafael Correa (2007-2017), se&ntilde;al&oacute; que el gobierno de Moreno la presion&oacute; a salir de manera obligada de su pa&iacute;s y asilarse en M&eacute;xico, y afirm&oacute; que no ha "abandonado" su curul.</p>
+<p>"Fuimos electos por el pueblo ecuatoriano, y ninguna de las causales establecidas, tanto en la norma interna como en la Constituci&oacute;n, establece que haber sido expulsada por el gobierno del presidente Moreno sea una causal de destituci&oacute;n del cargo", indic&oacute; Rivadeneira, de 36 a&ntilde;os.</p>
+<p>Junto a la expresidenta de la Asamblea ecuatoriana, otros tres diputados y dos exfuncionarios afines a Correa llegaron el 9 de enero a M&eacute;xico en calidad de asilados, tras estar desde octubre refugiados en la embajada mexicana en Quito.</p>
+<p>"Muchos de los compa&ntilde;eros que hemos hecho en este tiempo vocer&iacute;a en contra del gobierno de Moreno, hoy se encuentran privados de su libertad, o con medidas sustitutivas o fuera del pa&iacute;s (...) Es una l&iacute;nea clara para debilitar al Movimiento Revoluci&oacute;n Ciudadana en las pr&oacute;ximas elecciones", dijo Rivadeneira.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Protestas lideradas por ind&iacute;genas contra el gobierno de Moreno por pol&iacute;ticas econ&oacute;micas pactadas con el FMI generaron una crisis social en octubre en Ecuador, que dej&oacute; una decena de muertos, 1.340 heridos y 1.192 detenidos, de acuerdo con la Defensor&iacute;a del Pueblo.</p>
+<p>Entonces Moreno acus&oacute; a Correa, quien vive en B&eacute;lgica desde 2017, y al mandatario venezolano Nicol&aacute;s Maduro de promover un plan de desestabilizaci&oacute;n contra su gobierno. Ambos l&iacute;deres de izquierda niegan esos se&ntilde;alamientos.</p>
+<p>Adem&aacute;s de Rivadeneira, en el grupo de asilados figuran Soledad Buend&iacute;a; su esposo, Edwin Jarr&iacute;n, quien fuera secretario privado de Correa; Luis Molina; Carlos Viteri; la exviceministra Tania Pauker, esposa de Viteri; y Luis Flores, pareja de Rivadeneira.</p>
+<p><br /><strong>-"Temporalmente" lejos -</strong></p>
+<p>A su salida de Ecuador, el padre de Rivadeneira fue detenido por presuntos v&iacute;nculos con una organizaci&oacute;n delictiva dedicada a la asociaci&oacute;n il&iacute;cita, enriquecimiento privado no justificado y defraudaci&oacute;n tributaria</p>
+<p>Fue liberado el s&aacute;bado pasado y actualmente tiene prohibido salir del pa&iacute;s y debe presentarse peri&oacute;dicamente ante las autoridades ecuatorianas.</p>
+<p>Rivadeneira dijo que la detenci&oacute;n de su padre es tambi&eacute;n una "persecuci&oacute;n" del gobierno.</p>
+<p>"No solo hacia mi persona, sino hacia mi esposo, hacia mis hijos menores de edad y mi familia con veh&iacute;culos con vidrios polarizados, sin placas, personas encapuchadas forcejeando ingreso a mi domicilio, interceptaci&oacute;n de nuestras conversaciones, llamadas telef&oacute;nicas (...) es decir un acoso", sentenci&oacute;.</p>
+<p>La asamble&iacute;sta se&ntilde;al&oacute; que est&aacute; en calidad de exiliada en M&eacute;xico, y que el gobierno mexicano le otorg&oacute; ya la residencia oficial.</p>
+<p>"Temporalmente tenemos que estar lejos de nuestra tierra, eso no quiere decir que no sigamos trabajando fuerte en la organizaci&oacute;n pol&iacute;tica... Esperamos todos podamos regresar a nuestra patria, tan lejos es complicado", concluy&oacute;.</p>
+}
+title3 Lluvia en Australia ayuda a los bomberos pero no apaga todos los incendios
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Por segundo d&iacute;a consecutivo, cayeron este viernes fuertes precipitaciones en Australia, dando un respiro a los exhaustos bomberos que luchan contra los incendios que han devastado el sudeste del pa&iacute;s, aunque varios fuegos segu&iacute;an fuera de control.</p>
+<p>Los incendios iniciados en septiembre, sin precedentes por su magnitud y duraci&oacute;n, han dejado 28 muertos, destruido centenares de viviendas y causado tambi&eacute;n la muerte de m&aacute;s de 1.000 millones de animales.</p>
+<p>Adem&aacute;s, Australia perder&aacute; miles de millones de d&oacute;lares en ingresos por turismo, ya que numerosos visitantes extranjeros han cancelado sus viajes a este pa&iacute;s debido a los fuegos.</p>
+<p>El n&uacute;mero de turistas ha ca&iacute;do entre 10 y 20% desde el inicio de los incendios, con un coste para le econom&iacute;a de 4.500 millones de d&oacute;lares australianos (USD 3.000 millones) seg&uacute;n el Consejo Australiano de Exportaci&oacute;n de Turismo (ATEC).</p>
+<p>La temporada de incendios en Australia se vio agravada por el clima particularmente caluroso y la ausencia de lluvia en los &uacute;ltimos meses sobre esta inmensa isla-continente, debido al cambio clim&aacute;tico. &nbsp;</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Este viernes, las m&aacute;s intensas lluvias en diez a&ntilde;os cayeron en algunas de las regiones situadas cerca de los incendios m&aacute;s importantes, una "excelente noticia" seg&uacute;n el servicio rural de lucha contra los incendios de Nueva Gales del sur.</p>
+<p>Sin embargo, una treintena de incendios segu&iacute;an fuera de control, cifra similar a la registrada el jueves, seg&uacute;n esta fuente. Decenas de fuegos tambi&eacute;n estaban activos en el vecino estado de Victoria.</p>
+<p>En cambio la lluvia no cay&oacute; en la isla Canguro, un verdadero santuario para una fauna y flora de excepci&oacute;n, situada al sur, frente a las costas de Adelaida.</p>
+<p>La llamas devastaron el parque nacional de esta isla, matando a gran parte de la poblaci&oacute;n de los koalas y amenazando con erradicar completamente algunas especies de aves y marsupiales.</p>
+<p>Sin embargo la perspectiva de un clima m&aacute;s h&uacute;medo en el este y sur de Australia en los pr&oacute;ximos d&iacute;as dejaba entrever una clara mejora.</p>
+<p><br /><strong>-Koalas rescatados de la lluvia-</strong></p>
+<p>Gran parte de los animales afectados han tenido sus h&aacute;bitats destruidos, por lo que los expertos advierten contra el riesgo de extinci&oacute;n de algunas especies.</p>
+<p>Los c&eacute;lebres koalas concentraron gran parte de la atenci&oacute;n mundial, y las fotos de estos animales salvados de las llamas dieron la vuelta al mundo.</p>
+<p>Pero este viernes por la ma&ntilde;ana, algunos koalas y otros animales del parque de reptiles de Australia, en el litoral este de Nueva Gales del sur, tuvieron que ser rescatados de las aguas</p>
+<p>"Es incre&iacute;ble, la semana pasada ten&iacute;amos reuniones diarias sobre el peligro inminente de los incendios" declar&oacute; el director del parque, Tim Faulkner.</p>
+<p>"Hoy, todo el equipo est&aacute; en el terreno, empapado, luchando para poner a salvo a los animales y proteger el parque contra el agua. No hemos tenido semejantes inundaciones en el parque en 15 a&ntilde;os", afirma.</p>
+<p>Esta lluvias torrenciales son un arma de doble filo.</p>
+<p>En efecto el agua puede complicar la intervenci&oacute;n de los camiones de bomberos, obligados a aventurarse en caminos embarrados, seg&uacute;n advirtieron las autoridades.</p>
+<p>Desde el inicio de los incendios, una zona de &nbsp;100.000 kil&oacute;metros cuadrados --mayor que la superficie de Corea del Sur-- ha quedado devastada por el fuego.</p>
+<p>La inmensidad de esta destrucci&oacute;n es uno de los catastr&oacute;ficos ejemplos del cambio clim&aacute;tico, al que el planeta se enfrenta de forma cada vez m&aacute;s frecuente, seg&uacute;n los cient&iacute;ficos.</p>
+}
+title4 Mujer es sentenciada en EEUU por matar a su esposo con gotas para los ojos
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Una mujer de Carolina del Sur, en Estados Unidos, fue sentenciada a 25 a&ntilde;os de prisi&oacute;n tras admitir que mat&oacute; a su esposo poniendo gotas para los ojos en el agua que &eacute;l beb&iacute;a.</p>
+<p>Lana Sue Clayton, de 53 a&ntilde;os, se declar&oacute; culpable de homicidio involuntario por la muerte de Steven Clayton, de 64 a&ntilde;os, report&oacute; la cadena WBTV, afiliada a CBS. A la vez que admiti&oacute; su responsabilidad, dijo que era abusada por su esposo.&nbsp;</p>
+<p>La mujer hab&iacute;a sido acusada de envenenar a su esposo al poner gotas para los ojos en su agua para beber, entre el 19 y el 21 de julio de 2018.</p>
+<p>Inicialmente se crey&oacute; que el hombre muri&oacute; de causas naturales, pero una autopsia report&oacute; altos niveles de tetrahidrozolina, una sustancia que se encuentra en las gotas para los ojos.</p>
+<p>Los fiscales apuntaron tambi&eacute;n que la mujer le hab&iacute;a disparado a su esposo en 2016 con una ballesta, seg&uacute;n report&oacute; WSOC-TV, cadena aliada de ABC. Entonces el caso fue considerado un accidente.</p>
+<p>"Impulsivamente puse Visine en la bebida de Stephen y lo hice con la intenci&oacute;n de que estuviera enfermo e inc&oacute;modo. Estaba molesta por el abuso y solo quer&iacute;a que me dejara tranquila", dijo Clayton en la corte seg&uacute;n un video de WBTV. "Nunca pens&eacute; que lo matar&iacute;a".</p>
+<p>Esta exenfermera dijo que se le ocurri&oacute; usar gotas para los ojos, que son inoloras, incoloras e ins&iacute;pidas, por lo que hab&iacute;a visto en pel&iacute;culas.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Los fiscales sin embargo aseguraron que mat&oacute; a su esposo por dinero, lanz&oacute; su tel&eacute;fono a un lago para que &eacute;ste no pudiera pedir ayuda y quem&oacute; luego su testamento.</p>
+<p>Clayton hab&iacute;a sido arrestada en 2018 y acusada de asesinato.</p>
+<p>"De los muchos casos de homicidio que he manejado, probablemente este gana como el m&aacute;s raro hasta ahora", dijo el juez Paul Burch.</p>
+<p>En diciembre de 2019, un hombre de Carolina del Norte tambi&eacute;n fue acusado de matar a su esposa usando gotas para los ojos, report&oacute; WSOC.</p>
+}

@@ -1,0 +1,129 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>22-01-20. *</b>
+    text1 4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+    text2 CURADAS POR<br>NO PASA NADA NOTICIAS
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/22-lo-importante.jpg
+    poster{image} /images/202001/posters/22-lo-importante.jpg
+    header-desktop1{image} /images/202001/22-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/202001/22-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/202001/22-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/202001/22-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/202001/22-lo-importante/square1.jpg
+    header-mobile2{image} /images/202001/22-lo-importante/square2.jpg
+    header-mobile3{image} /images/202001/22-lo-importante/square3.jpg
+    header-mobile4{image} /images/202001/22-lo-importante/square4.jpg
+}
+tags{array} noticias, home
+title Lo Importante: 22-01-20
+description 4 historias importantes de las más recientes noticias internacionales
+day 22
+month 01
+year 2020
+color #ffff00
+title1 México intenta disuadir a migrantes de cruzar ilegalmente a su territorio
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El gobierno mexicano intentaba el martes disuadir a los miembros de una nueva caravana de centroamericanos de ingresar a su territorio de manera irregular para avanzar hacia Estados Unidos, y los alent&oacute; a acogerse a programas de refugio y empleo temporal en el sur del pa&iacute;s.</p>
+<p>Mientras unos 500 migrantes se manten&iacute;an en las orillas del r&iacute;o Suchiate, fronterizo entre M&eacute;xico y Guatemala, el canciller mexicano Marcelo Ebrard detall&oacute; en una rueda de prensa las ofertas del gobierno a los centroamericanos.</p>
+<p>"Vamos a seguir dialogando, vamos a seguir proponiendo (...) hay la opci&oacute;n de refugio, de incluirse en los empleos que ofrece M&eacute;xico y esa ser&aacute; la posici&oacute;n de M&eacute;xico. No sabemos si arribar&aacute; otro contingente, pero mantendremos la misma posici&oacute;n", dijo Ebrard.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Los centroamericanos, en su mayor&iacute;a hondure&ntilde;os, est&aacute;n a la expectativa de que M&eacute;xico ceda y les permita el paso libre por su territorio para llegar a Estados Unidos, donde buscan pedir refugio con el argumento de que huyen de la violencia y la pobreza.</p>
+<p>La noche del martes, m&aacute;s de un centenar decidieron volver por propia voluntad tras quedar estancados en la frontera, atestigu&oacute; la AFP.&nbsp;</p>
+<p>"Nos entregaron (los centroamericanos) una carta que lo que plantea esencialmente es que se suspenda la ley de migraci&oacute;n mexicana para que ellos pasen por M&eacute;xico", dijo Ebrard, pero que el gobierno "no podr&iacute;a" acceder a tal planteamiento.La llamada Caravana 2020 sali&oacute; el 14 de enero de Honduras y al cruzar Guatemala se han unido migrantes de ese pa&iacute;s, salvadore&ntilde;os y nicarag&uuml;enses.</p>
+<p>Unos 3.500 migrantes integran el contingente, seg&uacute;n estimaciones de las autoridades centroamericanas.</p>
+<p><br /><strong>- Retornos voluntarios -</strong></p>
+<p>En la noche del martes, 114 migrantes hondure&ntilde;os abordaron voluntariamente en la ciudad fronteriza Tec&uacute;n Um&aacute;n, Guatemala, autobuses proporcionados por el gobierno de ese pa&iacute;s, en coordinaci&oacute;n con la ONU, para llevarlos de vuelta a su pa&iacute;s, constat&oacute; la AFP.</p>
+<p>"Est&aacute; muy peligroso, nos van a matar, no podemos arriesgar a nuestros hijos", dijo a la AFP al subir el primer veh&iacute;culo Brenda, una mujer espigada que llevaba de la mano a su hija de cuatro a&ntilde;os.</p>
+<p>Mientras abordaban, otros migrantes los abucheaban e insultaban por haber desistido de la traves&iacute;a.&nbsp;</p>
+<p>"Uno viene con esperanza de hallar algo mejor, pero lo que puede recibir uno es una buena pedrada en la cabeza o incluso perder la vida", agreg&oacute; el salvadore&ntilde;o Hugo Castillo, de 23 a&ntilde;os, quien buscaba informaci&oacute;n para retornar a su pa&iacute;s.</p>
+<p>El lunes, varios cientos de centroamericanos se lanzaron a cruzar el Suchiate desde Tec&uacute;n Um&aacute;n, pero fueron contenidos por la Guardia Nacional mexicana, que us&oacute; gases lacrim&oacute;genos para detener su avance, en medio de refriegas.</p>
+<p>Muchos de los que lograron colarse fueron luego interceptados por agentes de seguridad en la carretera hacia la ciudad de Tapachula.</p>
+<p>En tanto, un grupo de 110 hondure&ntilde;os detenidos en M&eacute;xico regresaron este martes deportados a su pa&iacute;s, inform&oacute; el gobierno de Honduras, que esperaba el arribo de 140 personas m&aacute;s en el transcurso del d&iacute;a.</p>
+<p>A diferencia de los que regresan por voluntad o forzados, en Tec&uacute;n Um&aacute;n y la mexicana Ciudad Hidalgo, cientos todav&iacute;a manten&iacute;an una suerte de campamento a orillas del Suchiate, con escaso caudal en esta &eacute;poca del a&ntilde;o.</p>
+<p>"Aqu&iacute; vamos a permanecer esperando una oportunidad", dijo a la AFP la hondure&ntilde;a Esther Madrid. Seg&uacute;n dice, el dinero que gana en su natal San Pedro Sula no le alcanza. "Nuestros hijos tienen que comer", lament&oacute;.</p>
+<p>Algunos centroamericanos han instalado incluso improvisadas tiendas de campa&ntilde;a donde se resguardan durante la espera. Se alimentan de comida en latas o de lo que compran a vendedores ambulantes en el lugar.</p>
+<p>Un oficial de migraci&oacute;n que pidi&oacute; no ser identificado dijo a la AFP que la instrucci&oacute;n "clara" es "no permitirles el paso" a los migrantes.</p>
+<p><br /><strong>-M&eacute;xico niega violencia contra migrantes-</strong></p>
+<p>Interrogado sobre esta nueva oleada migrante, el presidente mexicano Andr&eacute;s Manuel L&oacute;pez Obrador sostuvo en su conferencia de prensa matutina que el operativo en la frontera procura aplicar la ley "sin violar los derechos humanos".</p>
+<p>El canciller agreg&oacute;: "No tenemos heridos ni situaciones que lamentar, a pesar de las pedradas, si alguien est&aacute; hoy buscando violencia, en M&eacute;xico no la encontrar&aacute;".</p>
+<p>Tras las multitudinarias caravanas de centroamericanos que llegaron a M&eacute;xico a finales de 2018 y principios de 2019, el presidente estadounidense Donald Trump hizo fuertes reclamos al gobierno mexicano y amenaz&oacute; con imponer aranceles a productos de este pa&iacute;s si no se tomaban medidas para detener la oleada migratoria.</p>
+<p>L&oacute;pez Obrador orden&oacute; entonces el despliegue de unos 26.000 guardias nacionales en sus fronteras norte y sur en un intento por contener la oleada de centroamericanos.</p>
+}
+title2 UE recibe a Guaidó en Bruselas con sus iniciativas sobre Venezuela en punto muerto
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El opositor venezolano Juan Guaid&oacute;, reconocido como presidente interino por medio centenar de pa&iacute;ses, contin&uacute;a este mi&eacute;rcoles su gira en Bruselas para reunirse con responsables de una Uni&oacute;n Europea (UE) cuyas iniciativas sobre la crisis venezolana se encuentran en punto muerto.</p>
+<p>Guaid&oacute;, apoyado por la UE como el presidente "leg&iacute;timo" de la Asamblea Nacional venezolana en su pugna con Luis Parra, debe reunirse en la capital belga con eurodiputados y responsables europeos, entre ellos el jefe de la diplomacia comunitaria Josep Borrell.</p>
+<p>&iquest;Su mensaje para ellos? "Apoyo para lograr unas elecciones libres y justas y para luchar contra la dictadura" en Venezuela, dijo a la radio BBC Guaid&oacute;, quien se reuni&oacute; este mi&eacute;rcoles con Borrell y con el vicepresidente de la Comisi&oacute;n Europea Margaritis Schinas.</p>
+<p>En plena ofensiva diplom&aacute;tica, Guaid&oacute;, que viol&oacute; una prohibici&oacute;n para salir de su pa&iacute;s, ya viaj&oacute; a Colombia, el Reino Unido y B&eacute;lgica y continuar&aacute; su gira el jueves en Suiza, en el foro econ&oacute;mico de Davos, y se espera su presencia en Espa&ntilde;a a finales de semana.</p>
+<p>De Bogot&aacute;, se llev&oacute; el compromiso del jefe de la diplomacia estadounidense, Mike Pompeo, de un mayor apoyo en su lucha para sacar del poder a Nicol&aacute;s Maduro. Y el gobierno brit&aacute;nico de Boris Johnson prometi&oacute; trabajar para que "se rindan cuentas" por la crisis en la regi&oacute;n.</p>
+<p>Y, todo ello, en un contexto de estancamiento de la crisis pol&iacute;tica en Venezuela, desde que en enero de 2019 Guaid&oacute;, como l&iacute;der del parlamento venezolano, se proclamara presidente encargado de Venezuela con el reconocimiento de medio centenar de pa&iacute;s, entre ellos 25 de la UE.</p>
+<p>"Si Guaid&oacute; quiere desbloquear el 'impasse', necesita contar con otros aliados m&aacute;s all&aacute; de los apoyos tradicionales de Estados Unidos y el Grupo de Lima. Europa emerge evidentemente como pieza clave", explica a la AFP Carlos Malamud, del centro de reflexi&oacute;n Real Instituto Elcano.</p>
+<p>Sin embargo, la respuesta de los europeos, cuyas decisiones en pol&iacute;tica exterior requieren la uninanimidad, no est&aacute; todav&iacute;a clara. "La reuni&oacute;n [entre Borrell y Guaid&oacute;] es un mensaje en s&iacute; misma", explic&oacute; una fuente europea antes del encuentro.</p>
+<p>El l&iacute;der opositor s&iacute; recibir&aacute; el respaldo claro de eurodiputados de la Euroc&aacute;mara, adalid del apoyo europeo a la oposici&oacute;n venezolana a la que recompens&oacute; en 2017 con el premio S&aacute;jarov a la libertad de conciencia y donde ofrecer&aacute; una rueda de prensa a las 17H00 (16H00 GMT).</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa-</strong></p>
+<p>&iquest;Qu&eacute; puede hacer la UE? Sus iniciativas est&aacute;n en punto muerto. El Grupo Internacional de Contacto (GIC), que promovi&oacute; junto a pa&iacute;ses latinoamericanos y europeos no se re&uacute;ne desde hace meses y, pese a la presi&oacute;n de Washington para adoptar m&aacute;s sanciones, la &uacute;ltima serie se adopt&oacute; en septiembre.</p>
+<p>Venezuela se convirti&oacute; en 2017 en el primer pa&iacute;s latinoamericano sancionado por la UE que, desde entonces, ha impuesto un embargo de armas, as&iacute; como sanciones contra 25 funcionarios venezolanos por el "deterioro del Estado de derecho, la democracia y los derechos humanos".</p>
+<p>Pero esta crisis estuvo "arrinconada en los &uacute;ltimos meses" en la agenda de la UE, m&aacute;s centrada en su pol&iacute;tica exterior a los conflictos y tensiones en Oriente Medio y en el norte de &Aacute;frica, reconoci&oacute; Borrell el lunes tras reunirse con los cancilleres europeos.</p>
+<p>Durante la reuni&oacute;n, el jefe de la diplomacia comunitaria constat&oacute; la "situaci&oacute;n de bloqueo" en el pa&iacute;s y la imposibilidad de su enviado especial Enrique Iglesias de llegar incluso a Caracas, seg&uacute;n otra fuente europea.</p>
+<p>La flamante canciller espa&ntilde;ola, Arancha Gonz&aacute;lez Laya, quien recibir&aacute; al opositor venezolano en su visita a Espa&ntilde;a el fin de semana, propuso su pa&iacute;s para albergar una futura reuni&oacute;n del GIC, para seguir intentando impulsar una salida a trav&eacute;s de elecciones "democr&aacute;ticas".</p>
+<p>Pero "la capacidad de acci&oacute;n de la comunidad internacional en crisis como esta es muy limitada y depende de la voluntad de las dos partes", explica Malamud, subrayando la "resistencia del gobierno de Maduro a negociar" como demuestra "el fracaso de la iniciativa de Noruega continuada en Barbados".</p>
+<p>El analista sobre Am&eacute;rica Latina ve en este contexto el viaje de Guaid&oacute; el jueves a Davos como una manera de presentarse como un "l&iacute;der leg&iacute;timo y abierto" al mundo y dejar patente las diferencias entre sus aliados y "China, Rusia, Nicaragua, Ir&aacute;n, Bielorrusia", aliados de Maduro.</p>
+}
+title3 Wuhan, epicentro del virus, se aísla para contener la epidemia
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Una ciudad encerrada y atemorizada. La metr&oacute;polis de Wuhan con 11 millones de personas, en el centro de China, donde se sit&uacute;a el origen del nuevo coronavirus que ya ha provocado nueve muertes en el pa&iacute;s, se ha aislado del mundo con la esperanza de detener la epidemia.</p>
+<p>La gran mayor&iacute;a de los 440 casos de contaminaci&oacute;n por este nuevo virus, de la misma familia del SRAS, fueron registrados en esta ciudad, aut&eacute;ntico centro de comunicaciones situado a orillas del r&iacute;o Yangts&eacute;.</p>
+<p>La epidemia fue detectada por primera vez el mes pasado, en un mercado de abastos de la ciudad. Nueve personas murieron desde entonces, y los cient&iacute;ficos temen una mutaci&oacute;n y una propagaci&oacute;n del virus.</p>
+<p>Tras haber ignorado la enfermedad durante semanas, los habitantes reaccionaron s&uacute;bitamente estos &uacute;ltimos d&iacute;as y sacaron las m&aacute;scaras protectoras, seg&uacute;n explicaron a la AFP varios residentes, contactados desde Pek&iacute;n.</p>
+<p>"El miedo realmente aument&oacute; desde el lunes, cuando revelaron que la gente pod&iacute;a contagiarse entre ellos", relata Melissa Santos, una estudiante dominicana instalada en Wuhan desde 2018.</p>
+<p>Las autoridades dijeron en un primer momento que el virus parec&iacute;a transmitirse directamente de animal a hombre, y que no hab&iacute;a contaminaci&oacute;n interhumana.</p>
+<p>Charly Bonnassie, un estudiante franc&eacute;s que tom&oacute; el mi&eacute;rcoles un tren procedente de Wuhan, asegura que "100% de los viajeros y del personal" iban con m&aacute;scaras.</p>
+<p>"No hay m&aacute;s m&aacute;scaras en las farmacias, todo desapareci&oacute;", cont&oacute; Vincent Lemari&eacute;, un profesor de franc&eacute;s que ense&ntilde;a en la Universidad de Ciencia y Tecnolog&iacute;a de Hubei, la provincia de Wuhan.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Las autoridades se preocupan por el riesgo de contaminaci&oacute;n d&iacute;as antes de las vacaciones del A&ntilde;o Nuevo lunar, cuando cientos de millones de chinos viajan para festejarlo.</p>
+<p>"Si no es necesario, aconsejamos a la gente no venir a Wuhan", declar&oacute; en la televisi&oacute;n el alcalde de la ciudad, Zu Xianwang.</p>
+<p>En una rueda de prensa en Pek&iacute;n, el viceministro de la Comisi&oacute;n Nacional de Salud de China, Li Bin, tambi&eacute;n sugiri&oacute; que los habitantes no salieran de la ciudad.</p>
+<p>Se han instalado detectores de fiebre en las estaciones y el aeropuerto. En las carreteras, se mide la temperatura corporal en los puestos de control, y los viajes organizados en autocar no pueden salir de la ciudad.</p>
+<p>La polic&iacute;a tambi&eacute;n controla la presencia de animales salvajes y aves en los veh&iacute;culos que entran y salen de la ciudad.</p>
+<p>En el mercado de abastos donde surgi&oacute; la epidemia se vend&iacute;an de forma ilegal animales salvajes, declar&oacute; el mi&eacute;rcoles el director del Centro Nacional de Control y de Prevenci&oacute;n de Enfermedades, Gao Fu. No precis&oacute; sin embargo si estos animales eran el origen del brote.</p>
+<p>En dicho mercado, dedicado principalmente al marisco, se pod&iacute;a encontrar una variada selecci&oacute;n de mercanc&iacute;a, desde lobatos a civetas, seg&uacute;n informaciones que aparecieron en los medios chinos.</p>
+<p>En una lista de precios que circulaba en las redes sociales chinas de un puesto del mercado se pod&iacute;an ver todo tipo de animales o de productos derivados a la venta: zorros, cocodrilos, lobatos, salamandras gigantes, serpientes, ratas, pavos reales, puercoespines... Hasta 112 tipos.&nbsp;</p>
+<p>"Reci&eacute;n cortados, congelados y entregados en su casa", se pod&iacute;a leer en la lista del vendedor.</p>
+<p><br /><strong>-Sin celebraciones-</strong></p>
+<p>Para evitar cualquier concentraci&oacute;n, las autoridades anularon los festejos previstos para el A&ntilde;o Nuevo chino, el 25 de enero.</p>
+<p>El famoso templo budista Guiyuan, en el que el a&ntilde;o pasado se reunieron 700.000 fieles para esta ocasi&oacute;n, tuvo que anular las celebraciones.</p>
+<p>Unas 30.000 personas ya hab&iacute;an reservado su entrada y otros 200.000 boletos hab&iacute;an sido distribuidos gratuitamente.</p>
+<p>Las autoridades tambi&eacute;n prohibieron cualquier espect&aacute;culo y cerraron el museo.</p>
+<p>El alcalde, criticado por haber organizado el fin de semana pasado un banquete al que acudieron 40.000 familias, tuvo que explicar que entonces se desconoc&iacute;a la envergadura de la epidemia.&nbsp;</p>
+<p>"La gente est&aacute; un poco preocupada", observa Melissa Santos.</p>
+<p>"Un amigo que me hab&iacute;a invitado a pasar el A&ntilde;o Nuevo con &eacute;l en otra ciudad de Hubei prefiri&oacute; anularlo", explica.&nbsp;</p>
+<p>"Tiene miedo que le contamine. Personalmente, yo tambi&eacute;n prefiero cancelar mi viaje para evitar tomar el tren y encontrarme junto a gente contagiosa".</p>
+}
+title4 Greenpeace pide en Davos acciones concretas contra el cambio climático
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El 50&ordm; Forum Econ&oacute;mico Mundial (WEF) de Davos es uno de los "escenarios del crimen del cambio clim&aacute;tico", afirma la directora ejecutiva de Greenpeace, Jennifer Morgan, para quien las buenas intenciones de las empresas, fundamentalmente financieras, no se traducen en hechos.</p>
+<p><strong>Pregunta:</strong> &iquest;Es una se&ntilde;al alentadora que la emergencia clim&aacute;tica sea una prioridad este a&ntilde;o en Davos?</p>
+<p><strong>Respuesta:</strong> Es esencial centrar la atenci&oacute;n en el clima (...), pero no creo que los actos est&eacute;n por el momento a la altura de los discursos pronunciados. Se oye mucho hablar del clima, los j&oacute;venes (activistas) son invitados a los paneles, pero todav&iacute;a no se ven los compromisos que se necesitan.&nbsp;</p>
+<p>Por ejemplo, que los bancos excluyan efectivamente los combustibles f&oacute;siles de sus financiaciones y que otros grupos act&uacute;en para descarbonizar r&aacute;pidamente sus cadenas de producci&oacute;n.&nbsp;</p>
+<p>(En cuanto al discurso del presidente estadounidense Donald Trump el martes, alardeando de sus resultados econ&oacute;micos sin mencionar el clima) "es obvio que no es consciente o no acepta el conocimiento cient&iacute;fico, porque el mundo que describe no existe, y no se hace dinero en un planeta muerto".</p>
+<p><strong>P.</strong> El gestor de activos BlackRock anunci&oacute; que dejar&aacute; de invertir en las empresas que obtienen 25% de sus ingresos del carb&oacute;n. &iquest;Hay una movilizaci&oacute;n mayor del sector financiero?</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p><strong>R.</strong> Tomar&eacute; esto con un poco de calma. Greenpeace public&oacute; (el martes) un informe sobre el sector financiero, que muestra que, desde el acuerdo de Par&iacute;s (sobre el clima en 2015), 24 de los grandes bancos que vinieron a Davos invirtieron un total de 1,4 billones de d&oacute;lares en combustibles f&oacute;siles. Afirman que respetan el acuerdo de Par&iacute;s, pero siguen vertiendo su dinero en la direcci&oacute;n equivocada.&nbsp;</p>
+<p>Una vez m&aacute;s, muchos discursos, pero todav&iacute;a se esperan las propuestas para regular el sector financiero. (...) Hasta que no vea el contenido de los compromisos (de estos bancos), no los tomar&eacute; en serio.</p>
+<p>Esto vale incluso para BlackRock. Anuncian que van a dejar de financiar el carb&oacute;n. Pero no dicen cu&aacute;ndo (la exclusi&oacute;n ser&aacute; total), y no han excluido otros combustibles f&oacute;siles. Es cierto que son pasos peque&ntilde;os, pero la pr&oacute;xima d&eacute;cada ser&aacute; absolutamente crucial y estos bancos deben contribuir a la soluci&oacute;n. Por el momento, son tan responsables (del calentamiento global) como el sector de las industrias f&oacute;siles.</p>
+<p><strong>P.</strong> &iquest;No es una contradicci&oacute;n que el WEF evoque el "Apocalipsis clim&aacute;tico" y al mismo tiempo organice ballets de jets privados? &iquest;Qu&eacute; inter&eacute;s tienen las oeneg&eacute;s como Greenpeace en venir a Davos?</p>
+<p><strong>R.</strong> Es ciertamente contradictorio cuando la gente va en jet privado, es claramente un gran problema. Pero el Foro tiene preocupaciones mucho m&aacute;s serias de credibilidad que las emisiones de CO2 que genera. O bien el WEF se esfuerza por promover cambios reales (...) atacando seriamente el clima, o bien sobrevive como una reliquia del pasado. Sus intentos de alardear de un capitalismo de las partes interesadas (asociando empresas y sociedad civil), me parecen una especie de distracci&oacute;n.&nbsp;</p>
+<p>Con Greenpeace International hemos decidido venir a Davos, y en cada conversaci&oacute;n que tengo aqu&iacute;, trato de resaltar las verdades (sobre el clima) ante los poderosos, confrontar los hechos con las personas que no est&aacute;n acostumbradas a ello cotidianamente. Es inc&oacute;modo. Es como una zona de guerra ambiental, o una escena del crimen en la que todos los criminales est&aacute;n frente a ti. Pero son precisamente ellos el objetivo. Son las personas las que tienen que cambiar. La mayor&iacute;a (militantes) deben mantener la presi&oacute;n desde el exterior, pero confrontar a la gente cara a cara puede marcar la diferencia.</p>
+}

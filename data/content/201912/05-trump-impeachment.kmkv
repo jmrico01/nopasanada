@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201912/headers/05-trump-impeachment.jpg
     poster{image} /images/201912/posters/05-trump-impeachment.jpg
 }
-tags{array} noticias, home
+tags{array} noticias
 title Es oficial: Pelosi pide artículos de juicio político contra Trump.
 description Es oficial: Pelosi pide artículos de juicio político contra Trump.
 day 05
@@ -19,5 +19,14 @@ year 2019
 color #f4b6a5
 author AFP y No Pasa Nada Noticias
 text {
-<p><p>Es oficial: Pelosi pide artículos de juicio político contra Trump. </p></p><p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>La presidenta de la Cámara de Representantes de Estados Unidos, Nancy&nbsp;Pelosi, pidió el jueves formalmente la redacción de cargos para someter a juicio político al mandatario Donald Trump.</p></p><p><p>Pelosi dijo en una declaración televisada que las acciones del presidente republicano no dejan "otra opción" que proceder a juzgarlo.</p></p><p><p>"Tristemente, pero con confianza y humildad, con lealtad a nuestros fundadores y el corazón lleno de amor por Estados Unidos, hoy le pido al presidente (del Comité Judicial de la Cámara de Representantes, Jerry Nadler) que proceda con la redacción de los artículos de juicio político", dijo&nbsp;Pelosi.</p></p><p><p>Pelosi&nbsp;no anunció los cargos, pero Trump podría ser acusado de abuso de poder y soborno, obstrucción del Congreso y obstrucción de la justicia.</p></p><p><p>"Los hechos son indiscutibles. El presidente abusó de su poder para su propio beneficio político a expensas de nuestra seguridad nacional", dijo Pelosi.</p></p><p><p><strong>¿Por qué nos importa?</strong></p></p><p><p>El proceso para la eventual destitución de Trump fue iniciado por los demócratas a finales de septiembre, después de conocerse que el mandatario pidió a Ucrania que investigara a Joe Biden, su rival potencial en las elecciones en 2020.</p></p><p><p>Si la acusación fuera aprobada por el pleno de la Cámara de Representantes, como se espera que ocurra tal vez antes de Navidad, Trump se convertirá en el tercer presidente en la historia de Estados Unidos en ser llevado a juicio político, después de Andrew Johnson en 1868 y de Bill Clinton en 1998, ambos absueltos.</p></p>
+<p>Es oficial: Pelosi pide art&iacute;culos de juicio pol&iacute;tico contra Trump.</p>
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La presidenta de la C&aacute;mara de Representantes de Estados Unidos, Nancy&nbsp;Pelosi, pidi&oacute; el jueves formalmente la redacci&oacute;n de cargos para someter a juicio pol&iacute;tico al mandatario Donald Trump.</p>
+<p>Pelosi dijo en una declaraci&oacute;n televisada que las acciones del presidente republicano no dejan "otra opci&oacute;n" que proceder a juzgarlo.</p>
+<p>"Tristemente, pero con confianza y humildad, con lealtad a nuestros fundadores y el coraz&oacute;n lleno de amor por Estados Unidos, hoy le pido al presidente (del Comit&eacute; Judicial de la C&aacute;mara de Representantes, Jerry Nadler) que proceda con la redacci&oacute;n de los art&iacute;culos de juicio pol&iacute;tico", dijo&nbsp;Pelosi.</p>
+<p>Pelosi&nbsp;no anunci&oacute; los cargos, pero Trump podr&iacute;a ser acusado de abuso de poder y soborno, obstrucci&oacute;n del Congreso y obstrucci&oacute;n de la justicia.</p>
+<p>"Los hechos son indiscutibles. El presidente abus&oacute; de su poder para su propio beneficio pol&iacute;tico a expensas de nuestra seguridad nacional", dijo Pelosi.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El proceso para la eventual destituci&oacute;n de Trump fue iniciado por los dem&oacute;cratas a finales de septiembre, despu&eacute;s de conocerse que el mandatario pidi&oacute; a Ucrania que investigara a Joe Biden, su rival potencial en las elecciones en 2020.</p>
+<p>Si la acusaci&oacute;n fuera aprobada por el pleno de la C&aacute;mara de Representantes, como se espera que ocurra tal vez antes de Navidad, Trump se convertir&aacute; en el tercer presidente en la historia de Estados Unidos en ser llevado a juicio pol&iacute;tico, despu&eacute;s de Andrew Johnson en 1868 y de Bill Clinton en 1998, ambos absueltos.</p>
 }

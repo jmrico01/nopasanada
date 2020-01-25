@@ -1,0 +1,138 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>24-01-20. *</b>
+    text1 4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+    text2 CURADAS POR<br>NO PASA NADA NOTICIAS
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/24-lo-importante.jpg
+    poster{image} /images/202001/posters/24-lo-importante.jpg
+    header-desktop1{image} /images/202001/24-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/202001/24-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/202001/24-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/202001/24-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/202001/24-lo-importante/square1.jpg
+    header-mobile2{image} /images/202001/24-lo-importante/square2.jpg
+    header-mobile3{image} /images/202001/24-lo-importante/square3.jpg
+    header-mobile4{image} /images/202001/24-lo-importante/square4.jpg
+}
+tags{array} noticias, home
+title Lo Importante: 24-01-20
+description 4 historias importantes de las más recientes noticias internacionales
+day 24
+month 01
+year 2020
+color #ffff00
+title1 Visita de Guaidó pone en aprietos al gobierno español
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>A un d&iacute;a de la llegada a Espa&ntilde;a del l&iacute;der opositor venezolano Juan Guaid&oacute;, el gobierno espa&ntilde;ol se encuentra en aprietos por la decisi&oacute;n de Pedro S&aacute;nchez de no recibirlo en persona, pese a reconocerlo desde hace un a&ntilde;o como presidente encargado del pa&iacute;s.</p>
+<p>El ambiente se enrareci&oacute; m&aacute;s el jueves, cuando un diario digital public&oacute; que uno de los ministros m&aacute;s cercanos a S&aacute;nchez se reuni&oacute; esta semana en secreto en Madrid con la n&uacute;mero dos del gobierno venezolano de Nicol&aacute;s Maduro, Delcy Rodr&iacute;guez, que tiene prohibido viajar a la Uni&oacute;n Europea.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>La oposici&oacute;n conservadora, cercana a los movimientos antichavistas en Venezuela, arremeti&oacute; contra el ejecutivo, pidiendo la comparecencia en el Congreso de dos ministros y exigiendo a S&aacute;nchez reunirse con Guaid&oacute;.</p>
+<p>En el gobierno desde junio de 2018, el dirigente socialista fue de los primeros mandatarios europeos en reconocer Guaid&oacute; como presidente encargado a principios de febrero de 2019, tras haber expirado el ultim&aacute;tum que hab&iacute;a lanzado a Maduro para convocar elecciones y al que se sumaron Par&iacute;s, Berl&iacute;n y Londres.</p>
+<p>Sin embargo, en plena gira europea del l&iacute;der opositor y presidente del Parlamento, que ya visit&oacute; Londres, Bruselas y Davos, el ejecutivo socialista deleg&oacute; la tarea de recibirlo en la ministra de Exteriores, Arancha Gonz&aacute;lez, una decisi&oacute;n que fue mal recibida por el entorno de Guaid&oacute; y que durante unos d&iacute;as dej&oacute; en el aire la visita.</p>
+<p>El jueves, finalmente, Guaid&oacute; confirm&oacute; su presencia el s&aacute;bado en Madrid, donde se ver&aacute; con el l&iacute;der del conservador Partido Popular, Pablo Casado, y celebrar&aacute; un mitin en la c&eacute;ntrica plaza de la Puerta del Sol con venezolanos residentes en la capital espa&ntilde;ola.</p>
+<p>En la agenda oficial del gobierno no aparece ning&uacute;n encuentro con &eacute;l. Y desde el equipo de S&aacute;nchez hicieron saber que el s&aacute;bado estar&aacute; fuera de Madrid, visitando zonas afectadas por la tormenta Gloria, que caus&oacute; una decena de muertos en el pa&iacute;s.</p>
+<p><br /><strong>-&iquest;Influencia de Podemos?-</strong></p>
+<p>En declaraciones a la televisi&oacute;n espa&ntilde;ola TVE desde el foro econ&oacute;mico de Davos, Guaid&oacute; rest&oacute; importancia al desplante: "Ya coincidiremos en agenda o si no lo recibiremos pronto en Caracas", afirm&oacute;.</p>
+<p>En su gira por Europa, el venezolano fue recibido en persona por el primer ministro brit&aacute;nico Boris Johnson y el jefe de la diplomacia europea, el excanciller espa&ntilde;ol Josep Borrell. Est&aacute; previsto que el viernes se re&uacute;na con el presidente franc&eacute;s, Emmanuel Macron.</p>
+<p>"S&aacute;nchez debe recibir a Guaid&oacute; en su gira internacional. Espa&ntilde;a tiene que ayudar a los venezolanos a poner fin a la atroz dictadura de Maduro", tuite&oacute; el l&iacute;der del conservador Partido Popular, Pablo Casado.</p>
+<p>En su mensaje, el dirigente conservador atribu&iacute;a esta decisi&oacute;n a la entrada al gobierno del partido de izquierda radical Podemos, que en el pasado mostr&oacute; su simpat&iacute;a y tuvo relaciones con el chavismo.</p>
+<p>El l&iacute;der de Podemos y vicepresidente segundo, Pablo Iglesias, descart&oacute; el jueves haber influido, pero describi&oacute; a Guaid&oacute; como "dirigente muy importante de la oposici&oacute;n en Venezuela" en vez de como presidente interino.</p>
+<p>La ministra de Exteriores espa&ntilde;olas intent&oacute; zanjar las dudas con un tuit: "Hace un a&ntilde;o Espa&ntilde;a lider&oacute; en Europa el reconocimiento de Juan Guaid&oacute; como Presidente de la Asambla Nacional y Presidente Encargado de Venezuela. Un a&ntilde;o despu&eacute;s, esta sigue siendo nuestra posici&oacute;n", se&ntilde;al&oacute; este viernes Arancha Gonz&aacute;lez.</p>
+<p><br /><strong>-Encuentro con Delcy Rodr&iacute;guez-</strong></p>
+<p>A esta pol&eacute;mica se le sum&oacute; la generada por la supuesta reuni&oacute;n secreta en el aeropuerto de Madrid del ministro de Fomento, Jos&eacute; Luis &Aacute;balos, con la vicepresidenta venezolana Delcy Rodr&iacute;guez.</p>
+<p>El diario digital Vozpopuli afirm&oacute; que ambos se vieron el lunes de madrugada durante una hora y media en el aeropuerto, durante una escala t&eacute;cnica del avi&oacute;n que transportaba a Rodr&iacute;guez hacia Turqu&iacute;a.</p>
+<p>"Si esto es as&iacute;, ser&iacute;a un aut&eacute;ntico esc&aacute;ndalo porque supondr&iacute;a un ataque a la legislaci&oacute;n de la Uni&oacute;n Europea", dijo el portavoz parlamentario del PP, Jos&eacute; Ignacio Ech&aacute;niz, que reclam&oacute; la comparecencia en el Congreso de &Aacute;balos y la ministra de Exteriores.</p>
+<p>El ministerio de Fomento no respondi&oacute; a las solicitudes de informaci&oacute;n de la AFP. &Aacute;balos explic&oacute; al diario El Pa&iacute;s que acudi&oacute; al aeropuerto a recibir al ministro de Turismo venezolano, F&eacute;lix Plasencia, que viajaba en el mismo avi&oacute;n.</p>
+<p>La vicepresidenta de Maduro forma parte del grupo de 18 altos cargos venezolanos sancionados desde 2018 por la Uni&oacute;n Europea, que impuso la congelaci&oacute;n de sus activos y la prohibici&oacute;n de viajar al espacio comunitario.</p>
+}
+title2 Dos décadas de conflictos políticos en Perú
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Per&uacute; celebrar&aacute; este domingo las primeras elecciones legislativas anticipadas de su historia, tras el cierre del Congreso en septiembre.</p>
+<p>La siguiente es una cronolog&iacute;a de las crisis pol&iacute;ticas en el pa&iacute;s en las &uacute;ltimas dos d&eacute;cadas:</p>
+<p><br /><strong>-Ca&iacute;da de Fujimori-</strong></p>
+<p>En noviembre de 2000 el Congreso destituye al presidente Alberto Fujimori tras 10 a&ntilde;os en el poder, argumentando actos de corrupci&oacute;n e "incapacidad moral permanente", un d&iacute;a despu&eacute;s de que &eacute;l renunciara por fax desde Jap&oacute;n.</p>
+<p>Fujimori es sentenciado en abril de 2009 a 25 a&ntilde;os de prisi&oacute;n por corrupci&oacute;n y violaciones de derechos humanos bajo su gobierno.</p>
+<p><br /><strong>-Crisis social-</strong></p>
+<p>El opositor Alejandro Toledo gana las elecciones presidenciales en junio de 2001 e inicia un mandato marcado por frecuentes crisis.</p>
+<p>El pa&iacute;s queda paralizado por semanas de huelgas en mayo y junio de 2003, y Toledo decreta el estado de emergencia.</p>
+<p>Su gabinete renuncia en junio de 2003. En diciembre, Toledo exige la renuncia de todos sus ministros para desactivar un esc&aacute;ndalo sexual pol&iacute;ticamente perjudicial que involucra a su primera ministra, Beatriz Merino.</p>
+<p><br /><strong>-Vuelve Alan Garc&iacute;a-</strong></p>
+<p>En julio de 2006 vuelve al poder el expresidente Alan Garc&iacute;a, a pesar de las cr&iacute;ticas que recibi&oacute; por su primer periodo en 1985-1990, marcado por la hiperinflaci&oacute;n, la violencia guerrillera y una corrupci&oacute;n desenfrenada.</p>
+<p>En octubre de 2008, el gabinete de Garc&iacute;a, de 13 miembros, renuncia para impedir la aprobaci&oacute;n de un voto de censura por concesiones a la compa&ntilde;&iacute;a noruega Discover Petroleum.</p>
+<p><br /><strong>-La izquierda al poder-</strong></p>
+<p>En junio de 2011 el militar retirado izquierdista Ollanta Humala gana por estrecho margen el balotaje electoral ante Keiko Fujimori, hija del encarcelado expresidente.</p>
+<p>Es el primer gobernante izquierdista en Per&uacute; en 36 a&ntilde;os.</p>
+<p>El primer a&ntilde;o de la presidencia de Humala est&aacute; marcado por docenas de conflictos sociales que dejan varios muertos y lo llevan a declarar tres veces el estado de emergencia.</p>
+<p>En julio de 2012 reorganiza su gabinete por segunda vez desde que asumi&oacute;.</p>
+<p>En marzo de 2015, el Congreso remueve a su primera ministra Ana Jara por denuncias de que la agencia nacional de inteligencia hab&iacute;a espiado a legisladores, periodistas, l&iacute;deres empresariales y ciudadanos comunes durante a&ntilde;os.</p>
+<p><br /><strong>-Renuncia del presidente-</strong></p>
+<p>El exbanquero de Wall Street Pedro Pablo Kuczynski gana en balotaje por estrecho margen en junio de 2016 a Keiko Fujimori, cuyo partido de derecha populista consigue una amplia mayor&iacute;a en el Congreso.</p>
+<p>En marzo de 2017 los fiscales ordenan investigar las posibles vinculaciones de Kuczynski en el gran esc&aacute;ndalo del gigante brasile&ntilde;o de la construcci&oacute;n Odebrecht, acusado de pagar millones de d&oacute;lares en sobornos a funcionarios peruanos entre 2005 y 2014.</p>
+<p>Sobrevive a una votaci&oacute;n de destituci&oacute;n en el Congreso en diciembre de 2017, gracias al apoyo de una decena de legisladores liderados por Kenji Fujimori, hermano de Keiko.</p>
+<p>Tres d&iacute;as despu&eacute;s, Kuczynski indulta a Alberto Fujimori. Miles de peruanos protestan.</p>
+<p>En marzo de 2018, un d&iacute;a antes de una segunda votaci&oacute;n en el Congreso para su destituci&oacute;n, Kuczynski renuncia. Es reemplazado por su primer vicepresidente, Mart&iacute;n Vizcarra.</p>
+<p><br /><strong>- Suicidio y arrestos-</strong></p>
+<p>En abril de 2019 Alan Garc&iacute;a se suicida cuando la polic&iacute;a iba a arrestarlo en la causa de los pagos ilegales de Odebrecht, los cuales negaba.</p>
+<p>En mayo, Humala y su esposa Nadine enfrentan formalmente cargos por supuesto lavado de dinero en el mismo esc&aacute;ndalo.</p>
+<p>Toledo es arrestado en julio en Estados Unidos con fines de extradici&oacute;n a Per&uacute;, por acusaciones de que tambi&eacute;n recibi&oacute; pagos millonarios.</p>
+<p>En octubre, Keiko Fujimori es enviada a prisi&oacute;n preventiva mientras avanza la investigaci&oacute;n por haber recibido supuestamente aportes de campa&ntilde;a de Odebrecht.</p>
+<p><br /><strong>- Cierre del Congreso -</strong></p>
+<p>El 30 de septiembre de 2019, Vizcarra disuelve el Congreso luego de que &eacute;ste obstruyera una serie de reformas anticorrupci&oacute;n y convoca a nuevos comicios legislativos.</p>
+<p>En respuesta el Congreso vota suspender a Vizcarra por un a&ntilde;o por "incapacidad moral".</p>
+<p>Miles marchan en las calles de Per&uacute; en apoyo a Vizcarra y las fuerzas armadas y la polic&iacute;a ratifican su lealtad al presidente.</p>
+}
+title3 Países con casos confirmados del coronavirus
+author3 No Pasa Noticias y AFP
+text3 {
+<p>Esta es la lista de pa&iacute;ses que anunciaron casos de contagio de un nuevo coronavirus, de la misma familia que el SRAS, desde su irrupci&oacute;n en diciembre en Wuhan, en el centro de China.</p>
+<p>Hasta el momento, el virus caus&oacute; 26 muertes, todas en China, la inmensa mayor&iacute;a en la regi&oacute;n de Wuhan.</p>
+<p><br /><strong>-CHINA-</strong></p>
+<p>M&aacute;s de 800 personas han sido contaminadas en China, 177 de ellas est&aacute;n en un estado grave. Las autoridades tambi&eacute;n est&aacute;n vigilando 1.072 casos sospechosos.</p>
+<p>Las autoridades tambi&eacute;n confirmaron la segunda muerte por el virus fuera de la regi&oacute;n de Wuhan, a 2.000 km de distancia, en la provincia de Heilongjiang.&nbsp;</p>
+<p><br /><strong>- HONG KONG-</strong></p>
+<p>Dos personas que estuvieron recientemente en Wuhan dieron positivo en las pruebas en Hong Kong, donde fueron hospitalizadas.</p>
+<p><br /><strong>- MACAO-</strong></p>
+<p>Hay dos casos confirmados hasta el momento. El primero fue el de una empresaria de 52 a&ntilde;os que lleg&oacute; tres d&iacute;as antes en tren desde la ciudad vecina de Zhuhai.&nbsp;</p>
+<p><br /><strong>-ESTADOS UNIDOS &ndash;</strong></p>
+<p>Un hombre de una treintena de a&ntilde;os que estuvo en la regi&oacute;n de Wuhan fue hospitalizado en Everett, cerca de Seattle (costa oeste), adonde lleg&oacute; el 15 de enero, anunciaron las autoridades el 21 de enero. &Eacute;l mismo se puso en contacto con los servicios m&eacute;dicos el 19 de enero, tras sentir los primeros s&iacute;ntomas.</p>
+<p><br /><strong>- JAP&Oacute;N -</strong></p>
+<p>Las autoridades sanitarias han confirmado dos casos. El primer pacinte es un hombre de unos 30 a&ntilde;os que tuvo que ser hospitalizado el 10 de enero debido a fiebre elevada y otros s&iacute;ntomas. Acababa de pasar unos d&iacute;as en Wuhan.</p>
+<p>El viernes se confirm&oacute; un segundo caso, seg&uacute;n la agencia de noticias Kyodo, un hombre de unos 40 a&ntilde;os natural de Wuhan, que estaba realizando un viaje en Jap&oacute;n.</p>
+<p><br /><strong>- SINGAPUR-</strong></p>
+<p>Tiene tres casos confirmados. Este viernes, las autoridades informaron de dos casos.</p>
+<p>El 23 de enero se hab&iacute;a registrado el primer caso de coronavirus, un hombre de 66 a&ntilde;os residente de Wuhan, que lleg&oacute; tres d&iacute;as antes con fiebre y tos. Su hijo fue contagiado y dio positivo en los ex&aacute;menes m&eacute;dicos realizados y el tercer caso es una mujer de 52 a&ntilde;os de Wuhan que lleg&oacute; a Singapur el martes y fue r&aacute;pidamente ingresada en un hospital.</p>
+<p><br /><strong>- COREA DEL SUR-</strong></p>
+<p>Hasta el momento hay dos casos confirmados. El ministerio de Salud mencion&oacute; un hombre de unos 50 a&ntilde;os que trabajaba en Wuhan y empez&oacute; a tener s&iacute;ntomas hace unos d&iacute;as y el diagn&oacute;stico fue confirmado este viernes.</p>
+<p>El 20 de enero se confirm&oacute; el primer caso, una mujer de 35 a&ntilde;os que hab&iacute;a viajado a Wuhan.</p>
+<p><br /><strong>-TAIW&Aacute;N-</strong></p>
+<p>El primer caso registrado en Taiw&aacute;n es el de una mujer de unos 50 a&ntilde;os, que lleg&oacute; el 20 de enero procedente de Wuhan, donde vive, con fiebre, tos y la garganta irritada, al aeropuerto de Taoyuan en Taip&eacute;i.</p>
+<p><br /><strong>-TAILANDIA-</strong></p>
+<p>El primer caso de contaminaci&oacute;n del coronavirus fuera de China se registr&oacute; en Tailandia, el 8 de enero. En total, Tailandia ha confirmado cuatro casos de coronavirus, tres de ellos en ciudadanos chinos de Wuhan. A ellos se suma una tailandesa de 73 a&ntilde;os que hab&iacute;a viajado a Wuhan.</p>
+<p>Dos de los pacientes chinos fueron tratados y ya viajaron de vuelta a su pa&iacute;s.&nbsp;</p>
+<p><br /><strong>-VIETNAM-</strong></p>
+<p>Dos chinos, un hombre que lleg&oacute; el 13 de enero de Wuhan y su hijo, residente de la ciudad de Ho Chi Minh, en el sur de Vietnam, fueron hospitalizados, el 17 y el 18 de enero respectivamente, en territorio vietnamita tras haber dado positivo en las pruebas del coronavirus, anunciaron las autoridades el 23 de enero.</p>
+}
+title4 Más de 38.000 desplazados en cinco días en el noroeste de Siria, según la ONU
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>M&aacute;s de 38.000 personas fueron desplazadas en cinco d&iacute;as en el noroeste de Siria, en una regi&oacute;n golpeada por ataques a&eacute;reos casi diarios del r&eacute;gimen y su aliado ruso, seg&uacute;n una oeneg&eacute;.</p>
+<p>"Entre el 15 y 19 de enero, m&aacute;s de 38.000 desplazados salieron, principalmente desde el oeste de Alepo" hacia otros territorios de la provincia o de sectores de Idlib; precis&oacute; en un comunicado de la Oficina de Coordinaci&oacute;n de Asuntos Humanitarios de Naciones Unidas (Ocha).</p>
+<p>Las Naciones Unidas est&aacute; "profundamente preocupadas" por el aumento de los desplazamientos en el noroeste sirio, "de informaciones casi diarias sobre ataques a&eacute;reos y disparos de artiller&iacute;a en la zona", indic&oacute; a la AFP David Swanson, un portavoz de la Ocha.</p>
+<p>En los &uacute;ltimos d&iacute;as, la aviaci&oacute;n rusa y la del r&eacute;gimen concentraron sus ataques en el oeste de la provincia de Alepo, donde hay yihadistas y rebeldes, seg&uacute;n el Observatorio Sirio de los Derechos Humanos (OSDH).&nbsp;</p>
+<p>Decenas de civiles han muerto en Alepo y en Idlib, agreg&oacute;. Rusia niega toda "mis&oacute;n de combate".</p>
+<p>Desde inicios de diciembre, 358.000 personas fueron desplazadas en el noroeste sirio, en su gran mayor&iacute;a mujeres y ni&ntilde;os, seg&uacute;n la ONU.</p>
+<p>El director de la OSDH, Rami Abdel Rahman, consider&oacute; que la escalada podr&iacute;a ser preludio de una ofensiva del r&eacute;gimen, que busca asegurar la ciudad de Alepo, y la carretera que une la ciudad con la capital Damasco.</p>
+<p>La provincia de Idlib y algunas &aacute;reas de las regiones vecinas de Alepo, Hama y Lataquia se encuentran bajo dominio de los yihadistas de Hayat Tahrir al Sham (HTS), la ex rama siria de la red Al Qaida. Otros grupos rebeldes tambi&eacute;n est&aacute;n presentes.</p>
+<p>La regi&oacute;n de Idlib ya fue escenario de una ofensiva de gran magnitud entre abril y agosto de de 2019, que dej&oacute; cerca de un millar de civiles muertos, seg&uacute;n la OSDH. El r&eacute;gimen sirio, que controla ahora m&aacute;s del 70% del pa&iacute;s, se dice determinado a reconquistar todo el sector.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>El conflicto en Siria, desencadenado en 2011, ha provocado m&aacute;s de 380.000 muertos y millones de desplazados.</p>
+}

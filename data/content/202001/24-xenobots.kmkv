@@ -1,0 +1,54 @@
+type article
+featured{kmkv} {
+    pretitle CIENCIA:
+    title XENOBOTS
+    text1 ¿ROBOTS BIOLÓGICOS, O NUEVAS ESPECIES IN-THE-MAKING?
+    text2 POR NPN CIENCIA
+    highlightColor #00ffff
+}
+media{kmkv} {
+    header{image} /images/202001/headers/24-xenobots.jpg
+    poster{image} /images/202001/posters/24-xenobots.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
+    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
+    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
+    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+    trumpflag{image} /images/202001/necesita-saber-iran/trumpflag.jpg
+    trumptweet{image} /images/202001/necesita-saber-iran/trumptweet.jpg
+    tweet1{image} /images/202001/necesita-saber-iran/tweet1.jpg
+    zariftweet{image} /images/202001/necesita-saber-iran/zariftweet.jpg
+    perdidas{image} /images/202001/necesita-saber-iran/perdidas.jpg
+    respuesta{image} /images/202001/necesita-saber-iran/respuesta.jpg
+    dubai{image} /images/202001/necesita-saber-iran/dubai.jpg
+    propaganda{image} /images/202001/necesita-saber-iran/propaganda.jpg
+    museeparismonet{image} /images/202001/17-musee-paris/museeparismonet.jpg
+    museeparisgautier{image} /images/202001/17-musee-paris/museeparisgautier.jpg
+    museeparishippodrome{image} /images/202001/17-musee-paris/museeparishippodrome.jpg
+    museeparislouis{image} /images/202001/17-musee-paris/museeparislouis.jpg
+}
+tags{array} ciencia, home
+title Xenobots: la nueva generación de robots biológicos diseñados por científicos en Vermont
+description El futuro es ahora: los científicos han logrado construir nuevos organismos a partir de células vivas y planean programarlos para que realicen tareas microscópicas, como limpiar los océanos de microplásticos y destapar nuestras arterias. La culminación de la edición genética en acción: ¿robots biológicos, o nuevas especies in-the-making?
+day 24
+month 01
+year 2020
+color #00ffff
+author NPN Ciencia
+subtitle Los científicos han logrado construir nuevos organismos a partir de células vivas. La culminación de la edición genética en acción: ¿robots biológicos, o nuevas especies in-the-making?
+text {
+<p>Los cient&iacute;ficos han logrado construir nuevos organismos a partir de c&eacute;lulas vivas y planean programarlos para que realicen tareas microsc&oacute;picas. Es cierto que parece un cuento dist&oacute;pico: &iquest;es cuesti&oacute;n de tiempo para que estos &ldquo;robots biol&oacute;gicos&rdquo; evolucionen y tengan conciencia suficiente para rebelarse en contra de sus creadores? Pues&hellip; por ahora no, al menos: en realidad, se trata de seres milim&eacute;tricos que, al haber sido construidos con c&eacute;lulas del coraz&oacute;n de embriones de ranas, funcionan por impulso -- <a href="https://www.technologyreview.com/f/615041/these-xenobots-are-living-machines-designed-by-an-evolutionary-algorithm/">y podr&iacute;an ayudarnos a limpiar los oc&eacute;anos o destapar nuestras arterias.&nbsp;</a></p>
+<p>La &ldquo;edici&oacute;n gen&eacute;tica&rdquo; no es algo nuevo, y es indivisible de la historia de nuestras sociedades. Los seres humanos nos hemos beneficiado de ella desde los inicios de la agricultura (la mayor&iacute;a de nuestros cultivos han sido modificados por selecci&oacute;n a lo largo de milenios, al punto en que ya no se parecen a lo que eran en el principio); adem&aacute;s, algunos organismos artificiales han sido modificados de manera manual para copiar la forma de animales ya existentes -- es decir, han existido gracias a la clonaci&oacute;n.&nbsp;</p>
+<p>Pero estos &ldquo;xenobots&rdquo; -- dise&ntilde;ados en un supercomputadora de la universidad de Vermont en colaboraci&oacute;n con el Centro para el Bio-Desarrollo de la Universidad de Tufts -- <a href="https://www.sciencedaily.com/releases/2020/01/200113175653.htm">son una nueva p&aacute;gina en la historia de la ingenier&iacute;a gen&eacute;tica</a>: a pesar de ser biol&oacute;gicos (es decir, conformados por c&eacute;lulas vivientes), no corresponden a ninguna especie, sino que han sido dise&ntilde;ados espec&iacute;ficamente para servir como m&aacute;quinas programables.</p>
+<p><strong>&iquest;C&oacute;mo funcionan?</strong></p>
+<p>Las c&eacute;lulas de su milim&eacute;tricos &ldquo;cuerpos&rdquo; fueron extra&iacute;das del coraz&oacute;n y la piel de embriones de ranas. Las c&eacute;lulas del coraz&oacute;n, al contraerse y relajarse espont&aacute;neamente, funcionan como diminutos pistones que impulsan el movimiento de los xenobots; las c&eacute;lulas de la epidermis, con estructura m&aacute;s r&iacute;gida, proveen contorno y soporte. El organismo cuenta con suficiente energ&iacute;a para moverse y desplazarse por hasta diez d&iacute;as. &nbsp;</p>
+<p>Por muchos meses, el equipo a cargo de la investigaci&oacute;n utiliz&oacute; un algoritmo evolutivo, que imita la selecci&oacute;n natural, para crear miles de posibles dise&ntilde;os para estas nuevas formas de vida - dise&ntilde;os que les permitieran llevar a cabo una tarea asignada por los cient&iacute;ficos, como moverse en una direcci&oacute;n. Despu&eacute;s, el algoritmo escogi&oacute; y mut&oacute; los dise&ntilde;os m&aacute;s prometedores. Una y otra vez, la computadora reconfigur&oacute; las c&eacute;lulas de incontables formas -- las posibilidades obviamente limitadas por las maneras en las que las c&eacute;lulas del coraz&oacute;n y la piel de las ranas pod&iacute;an transformarse. La mayor&iacute;a de las veces, lo resultados fueron in&uacute;tiles. Pero algunos resultados mostraron cierto potencial, y fueron utilizados como punto de partida para la siguiente generaci&oacute;n de intentos. Es decir, millones de a&ntilde;os de evoluci&oacute;n en un <em>fast-forward.</em>&nbsp;</p>
+<p>Aunque esta primera generaci&oacute;n de xenobots es bastante b&aacute;sica, versiones futuras podr&iacute;an desarrollarse con sistemas nerviosos, o c&eacute;lulas sensoriales, las cu&aacute;les les permitir&iacute;an tomar decisiones inteligentes al llevar a cabo sus tareas diminutas&hellip; pero, si llegaran a tener incluso las m&aacute;s m&iacute;nimas habilidades cognitivas, nos ver&iacute;amos en un problema &eacute;tico: &iquest;los consideraremos robots, o una nueva especie de criaturas sintientes? Tal vez, estamos viviendo el principio de lo que ser&iacute;a una gran trama para una pel&iacute;cula de ciencia ficci&oacute;n. El futuro es ahora, &iquest;no?</p>
+}

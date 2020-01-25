@@ -38,7 +38,7 @@ media{kmkv} {
     infest{image} /images/201912/lo-mejor-2019/infest.jpg
     albums{image} /images/201912/5-albumes/albums.jpg
 }
-tags{array} cultura, historias, home
+tags{array} cultura, historias
 title Una breve historia de los 2010's
 description Para conmemorar el año que acaba, te damos un resumen de la década.
 day 31

@@ -1,0 +1,121 @@
+type newsletter
+featured{kmkv} {
+    pretitle NOTICIAS:
+    title LO IMPORTANTE<br><b>20-01-20. *</b>
+    text1 4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
+    text2 CURADAS POR<br>NO PASA NADA NOTICIAS
+    highlightColor #ffff00
+}
+media{kmkv} {
+    header{image} /images/202001/headers/20-lo-importante.jpg
+    poster{image} /images/202001/posters/20-lo-importante.jpg
+    header-desktop1{image} /images/202001/20-lo-importante/vertical1.jpg
+    header-desktop2{image} /images/202001/20-lo-importante/vertical2.jpg
+    header-desktop3{image} /images/202001/20-lo-importante/vertical3.jpg
+    header-desktop4{image} /images/202001/20-lo-importante/vertical4.jpg
+    header-mobile1{image} /images/202001/20-lo-importante/square1.jpg
+    header-mobile2{image} /images/202001/20-lo-importante/square2.jpg
+    header-mobile3{image} /images/202001/20-lo-importante/square3.jpg
+    header-mobile4{image} /images/202001/20-lo-importante/square4.jpg
+}
+tags{array} noticias, home
+title Lo Importante: 20-01-20
+description 4 historias importantes de las más recientes noticias internacionales
+day 20
+month 01
+year 2020
+color #ffff00
+title1 Caravana de centroamericanos vuelve a tocar la puerta de México para llegar a EEUU
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Cientos de migrantes centroamericanos que en caravana huyen de la pobreza y violencia, la mayor&iacute;a hondure&ntilde;os, buscaban este lunes en un puente fronterizo entre Guatemala y M&eacute;xico que las autoridades mexicanas les permitan el ingreso en masa para continuar a Estados Unidos.</p>
+<p>"Al presidente (mexicano) Andr&eacute;s Manuel L&oacute;pez Obrador le pedimos que nos abra las puertas", dijo a la AFP Marvin Zanabria, un migrante hondure&ntilde;o que encabezaba el grupo.&nbsp;</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Los migrantes de la llamada caravana 2020 en la que tambi&eacute;n viajan familias completas con ni&ntilde;os peque&ntilde;os, se concentraron desde la madrugada en la aduana de Guatemala en la ciudad Tec&uacute;n Um&aacute;n (suroeste).</p>
+<p>Posteriormente, un oficial aduanero abri&oacute; el port&oacute;n para que la caravana ingresara al puente internacional Rodolfo Robles, que conecta a ambos pa&iacute;ses.&nbsp;</p>
+<p>"Adelante j&oacute;venes", se&ntilde;al&oacute; un polic&iacute;a guatemalteco y sin prisa el bloque se apost&oacute; a varios metros de distancia de la reja del lado mexicano, fuertemente custodiado por agentes migratorios y polic&iacute;as militares con equipos antidisturbios.&nbsp;</p>
+<p>En el lugar los migrantes elevaban oraciones y se&ntilde;alaban que "Dios era su &uacute;nico gu&iacute;a".&nbsp;</p>
+<p>L&iacute;deres de los migrantes se&ntilde;alaron que dar&iacute;an un tiempo de espera de tres horas para atravesar el paso formal o atravesar&iacute;an caminando el r&iacute;o Suchiate, frontera natural que en algunas partes su nivel baj&oacute; por la ausencia de lluvias.&nbsp;</p>
+<p>La tambi&eacute;n llamada "Caravana de la Esperanza, Dios es amor", sali&oacute; el &nbsp;martes pasado del norte de Honduras y tras atravesar Guatemala se han unido guatemaltecos, salvadore&ntilde;os y nicarag&uuml;enses.&nbsp;</p>
+<p>El grupo est&aacute; integrado por m&aacute;s de 3.000 migrantes, seg&uacute;n estimaciones de autoridades migratorias.&nbsp;</p>
+<p>"Salimos de Honduras por la mala econom&iacute;a y por miedo", agreg&oacute; Mayra Zelaya, de 23 a&ntilde;os, mientras cargaba en los brazos a su ni&ntilde;a de 10 meses de edad. Zelaya viaja con su esposo y otro hijo de cuatro a&ntilde;os con los que espera llegar hasta Estados Unidos.&nbsp;</p>
+<p>A&ntilde;adi&oacute; que temen regresar a su pa&iacute;s por la violencia que atraviesa Honduras.</p>
+<p>Parte de la caravana intent&oacute; entrar a empujones el s&aacute;bado por la ma&ntilde;ana, pero fueron contenidos por los militares mexicanos. Luego grupos reducidos ingresaron a cuentagotas y varios cientos fueron llevados a albergues.&nbsp;</p>
+<p>En la reja fronteriza y a trav&eacute;s de un altavoz se les indicaba a los migrantes que M&eacute;xico les ofrec&iacute;a una "oportunidad de trabajo en su pa&iacute;s de origen".</p>
+<p>Para disuadir el avance, el gobierno mexicano puso en marcha el Programa de Emergencia Social que incluye dos programas de empleo que ser&aacute;n habilitados en ocho departamentos de Honduras y 14 departamentos de El Salvador.</p>
+<p>Por otra parte, m&aacute;s de 1.000 migrantes est&aacute;n tramitando su ingreso regular a M&eacute;xico, inform&oacute; este domingo la secretar&iacute;a de Gobernaci&oacute;n de ese pa&iacute;s.&nbsp;</p>
+<p>Personal del Instituto Nacional de Migraci&oacute;n (INM) revisa su situaci&oacute;n migratoria para determinar qu&eacute; opciones pueden ofrecerles seg&uacute;n su caso espec&iacute;fico.</p>
+}
+title2 Pompeo visita Colombia, donde se reunirá con Guaidó
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>El jefe de la diplomacia de Estados Unidos, Mike Pompeo, se reunir&aacute; este lunes en Colombia con el dirigente opositor venezolano Juan Guaid&oacute;, en su primera parada de un viaje de tres d&iacute;as a Latinoam&eacute;rica y el Caribe.</p>
+<p>El secretario de Estado del gobierno de Donald Trump, que impulsa la salida del mandatario venezolano Nicol&aacute;s Maduro por considerar un fraude su reelecci&oacute;n, dijo que se encontrar&aacute; con Guaid&oacute; en Bogot&aacute; durante una conferencia regional sobre c&oacute;mo combatir el terrorismo.</p>
+<p>En vuelo a Colombia, Pompeo dijo a periodistas que aguardaba con expectativa la reuni&oacute;n con Guaid&oacute;, reelecto d&iacute;as atr&aacute;s como jefe de la Asamblea Nacional y reconocido presidente interino de Venezuela por Estados Unidos y m&aacute;s de 50 pa&iacute;ses.</p>
+<p>"Maduro ha sido destructivo (...) Podemos ayudar a la oposici&oacute;n a continuar coalig&aacute;ndose, continuar construyendo fuerzas. Representan al pueblo venezolano, y nuestra misi&oacute;n es llegar a elecciones libres y justas para que los venezolanos puedan tener unos comicios presidenciales representativos y que se pueda recomponer la econom&iacute;a", se&ntilde;al&oacute;.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Desde que Maduro asumi&oacute; por primera vez en 2013, Venezuela, que posee las mayores reservas probadas de petr&oacute;leo del mundo, ha sufrido una aguda contracci&oacute;n de su econom&iacute;a, que llev&oacute; a que 4,6 millones de personas abandonaran el pa&iacute;s en los &uacute;ltimos a&ntilde;os, seg&uacute;n la ONU. De ese total 1,6 millones han ido a Colombia.</p>
+<p>Pero a pesar de la crisis pol&iacute;tica y econ&oacute;mica, de los esfuerzos de Guaid&oacute; y de las sanciones de Washington, Maduro sigue en el poder respaldado por las fuerzas de seguridad, as&iacute; como por Cuba, Rusia y China.</p>
+<p>"Todos sab&iacute;amos que esto ser&iacute;a un desaf&iacute;o enorme, que Maduro no se ir&iacute;a f&aacute;cilmente", dijo Pompeo, aunque asegur&oacute; que se ha hecho "un progreso real" en t&eacute;rminos de "restaurar la democracia en Venezuela".</p>
+<p>"Si los cubanos dejan de apuntalarlo -y estamos trabajando para convencerlos de que esto no es lo mejor para el pueblo cubano-, y si los que lo rodean desde una perspectiva de seguridad finalmente llegan a la conclusi&oacute;n de que Venezuela est&aacute; mejor sin Maduro, entonces creo que podemos lograr nuestro objetivo", a&ntilde;adi&oacute;.</p>
+<p><br /><strong>-"Mayor presi&oacute;n"-</strong></p>
+<p>Pompeo tambi&eacute;n tiene previsto un encuentro este lunes con el mandatario Iv&aacute;n Duque, a quien agradecer&aacute; los esfuerzos de Colombia para acoger a los venezolanos "que huyen de la corrupci&oacute;n, la represi&oacute;n y las pol&iacute;ticas desastrosas de Maduro", dijo a periodistas un alto diplom&aacute;tico estadounidense.</p>
+<p>Durante la gira, que incluye visitas posteriores a Costa Rica y Jamaica, "el secretario de Estado tratar&aacute; de movilizar una mayor presi&oacute;n sobre la dictadura de Maduro, que hasta ahora ha podido sobrevivir a pesar del aislamiento diplom&aacute;tico y las sanciones", se&ntilde;al&oacute; a AFP Michael Shifter, presidente del centro de an&aacute;lisis Di&aacute;logo Interamericano.</p>
+<p>La reuni&oacute;n entre Pompeo y Guaid&oacute; se producir&aacute; luego de que, en una entrevista con el Washington Post publicada el s&aacute;bado, Maduro asegurara estar en control del pa&iacute;s y se declarara abierto a negociaciones directas con Estados Unidos para superar el estancamiento de la relaci&oacute;n bilateral.&nbsp;</p>
+<p>El gobierno de Trump, que desconoce el segundo mandato de Maduro iniciado en enero de 2019, abog&oacute; d&iacute;as atr&aacute;s por un di&aacute;logo para formar un gobierno de transici&oacute;n en Venezuela que convoque a elecciones generales antes de fin de a&ntilde;o. Pero sigue sosteniendo que esas conversaciones deben empezar por discutir la partida de Maduro.</p>
+<p>Guaid&oacute; lleg&oacute; el domingo a Bogot&aacute; desafiando la prohibici&oacute;n de salida del pa&iacute;s impuesta por autoridades leales a Maduro.&nbsp;</p>
+<p>Es la segunda vez que lo hace, tras cruzar la frontera con Colombia en febrero de 2019 para intentar sin &eacute;xito ingresar ayuda humanitaria a Venezuela, luego de lo cual emprendi&oacute; una gira por la regi&oacute;n.</p>
+<p>"Generaremos las condiciones que nos conducir&aacute;n a la Libertad. Y les aseguro que la vuelta a nuestro pa&iacute;s estar&aacute; llena de buenas noticias", tuite&oacute; el domingo el dirigente opositor antes de reunirse con el presidente Duque.</p>
+<p>Duque dijo en un tuit que la cita hab&iacute;a sido "muy productiva".&nbsp;</p>
+<p>"Compartimos avances en atenci&oacute;n a migrantes radicados en Colombia, y resaltamos la importancia de restablecer la democracia en el vecino pa&iacute;s", se&ntilde;al&oacute;.</p>
+}
+title3 Virus que provoca neumonía causa tercer muerte en China y llega a Corea del Sur
+author3 No Pasa Noticias y AFP
+text3 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Un misterioso virus similar al responsable por el SARS caus&oacute; un tercer muerto desde su aparici&oacute;n en el centro de China, anunciaron este lunes las autoridades que dieron cuenta de 217 nuevos casos, cinco de ellos en Pek&iacute;n.</p>
+<p>Por su parte, Corea del Sur confirm&oacute; el lunes el primer caso de paciente con este virus en su territorio en medio de crecientes preocupaciones sobre la propagaci&oacute;n regional de la enfermedad. Ya se han reportado tres casos en el extranjero: dos en Tailandia y uno en Jap&oacute;n.</p>
+<p>Sobre todo, la r&aacute;pida propagaci&oacute;n del virus inquieta a las autoridades chinas, en momentos en que millones de sus conciudadanos se aprestan a viajar para celebrar el A&ntilde;o Nuevo Lunar.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>La nueva cepa de coronavirus, descubierta por primera vez en la ciudad de Wuhan (centro), caus&oacute; alarma debido a su conexi&oacute;n con el S&iacute;ndrome Respiratorio Agudo Severo (SARS), que mat&oacute; a casi 650 personas en China continental y Hong Kong en 2002-2003.</p>
+<p>Wuhan tiene 11 millones de habitantes y sirve como un importante centro de transporte, incluso durante el feriado anual del A&ntilde;o Nuevo Lunar que comenzar&aacute; esta semana y durante el cual cientos de millones de chinos viajan para visitar a sus familiares.</p>
+<p>El presidente chino Xi Jinping dijo este lunes que el nuevo virus debe ser "absolutamente detenido", en su primera declaraci&oacute;n p&uacute;blica sobre la cuesti&oacute;n. "La seguridad de la vida de la gente y su salud f&iacute;sica tienen que ser prioridad", se&ntilde;al&oacute; en declaraciones en la televisi&oacute;n estatal CCTV.</p>
+<p>Hasta el momento no se ha confirmado ninguna transmisi&oacute;n de persona a persona, pero las autoridades han dicho previamente que esa posibilidad "no puede excluirse".</p>
+<p>En Wuhan, se han diagnosticado 198 casos. Este lunes, por primera vez, se dieron a conocer casos en otras partes de China: cinco en Pek&iacute;n (norte) y 14 en Cant&oacute;n (sur), enfrente de Hong Kong.</p>
+<p>Tambi&eacute;n hay siete casos sospechosos en Shangh&aacute;i y en cuatro provincia y regiones del este, sur y sudoeste del pa&iacute;s.</p>
+<p><br /><strong>-Medidas de detecci&oacute;n-</strong></p>
+<p>Se cree que un mercado de mariscos es el centro del brote en la ciudad de Wuhan, pero las autoridades de salud informaron que identificaron pacientes que no ten&iacute;an antecedentes de contacto con ese centro comercial.</p>
+<p>Los cient&iacute;ficos del Centro MRC para el An&aacute;lisis Global de Enfermedades Infecciosas en el Imperial College de Londres advirtieron en un art&iacute;culo publicado el viernes que el n&uacute;mero de casos probablemente se acercar&iacute;a a 1.700, muy por encima del n&uacute;mero anunciado oficialmente.</p>
+<p>El vicealcalde de Wuhan, Chen Xiexin, dijo al canal de televisi&oacute;n estatal CCTV el fin de semana que se instalaron term&oacute;metros infrarrojos en aeropuertos, estaciones de ferrocarril y estaciones de autobuses en toda la ciudad.</p>
+<p>Chen dijo que se registraron pasajeros con fiebre, a quienes se les dio m&aacute;scaras y traslad&oacute; a instituciones m&eacute;dicas. De acuerdo con CCTV ya se han llevado a cabo cerca de 300.000 pruebas de temperatura corporal.</p>
+<p>En Corea del Sur, el Centro Coreano de Control y Prevenci&oacute;n de Enfermedades (KCDC) inform&oacute; este lunes que una mujer china de 35 a&ntilde;os de edad lleg&oacute; en un vuelo proveniente de Wuhan y se confirm&oacute; que hab&iacute;a sido contaminada con el nuevo coronavirus.</p>
+<p>De acuerdo con las informaciones, esa mujer ya hab&iacute;a ido a un hospital en Wuhan con s&iacute;ntomas parecidos al de un resfr&iacute;o. Luego de recibir medicaci&oacute;n, abord&oacute; un avi&oacute;n en Wuhan rumbo a la ciudad Se&uacute;l, donde aterriz&oacute; en el aeropuerto de Incheon. De inmediato, fue puesta en cuarentena.</p>
+<p>De su lado, las autoridades de Hong Kong han intensificado las medidas de detecci&oacute;n, incluidos los rigurosos puntos de control de temperatura para los viajeros que llegan de China continental.</p>
+<p>Estados Unidos anunci&oacute; el viernes que fiscalizar&aacute; vuelos directos que lleguen desde Wuhan a los aeropuertos de San Francisco y al JFK de Nueva York.</p>
+<p>Tailandia, en tanto, inform&oacute; que ya estaba revisando a los pasajeros que llegaban a Bangkok, Chiang Mai y Phuket, y que pronto introducir&iacute;a controles similares en el balneario de Krabi.</p>
+}
+title4 Manifestantes reactivan sus protestas en Irak y exigen respuestas
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p><strong>-&iquest;Qu&eacute; necesitas saber?-</strong></p>
+<p>Centenares de manifestantes antigubernamentales se enfrentaron este lunes a las fuerzas de seguridad iraqu&iacute;es y bloquearon las calles de Bagdad, determinados a presionar a las autoridades que ten&iacute;an de plazo hasta este lunes para aportar respuestas a las reivindicaciones del movimiento de protesta.</p>
+<p>Este movimiento, que exige desde principios de octubre una renovaci&oacute;n del sistema pol&iacute;tico, qued&oacute; eclipsado en las &uacute;ltimas semanas por las fuertes tensiones entre Ir&aacute;n y Estados Unidos, los dos principales proveedores de Bagdad.</p>
+<p>Para evitar que las movilizaciones perdieran impulso, los manifestantes dirigieron el lunes pasado un ultim&aacute;tum de una semana al gobierno para que respondiera a sus demandas.</p>
+<p><br /><strong>-&iquest;Por qu&eacute; nos importa?-</strong></p>
+<p>Entre &eacute;stas figuran un llamado a elecciones anticipadas, una reforma de la ley electoral, la designaci&oacute;n de un primer ministro independiente, y el fin de la corrupci&oacute;n, que se ha tragado en 16 a&ntilde;os el equivalente de dos veces el PIB de Irak.</p>
+<p>Tambi&eacute;n piden el fin del sistema pol&iacute;tico de repartici&oacute;n de cargos pol&iacute;ticos en funci&oacute;n de las etnias y confesiones.</p>
+<p>Desde el domingo, en v&iacute;spera de que se cumpliera el plazo, j&oacute;venes manifestantes en Bagdad y el sur de Irak empezaron a bloquear carreteras y puentes con neum&aacute;ticos incendiados</p>
+<p>Este lunes reactivaron su acci&oacute;n en la capital, aunque las fuerzas de seguridad actuaron r&aacute;pidamente, y el ej&eacute;rcito confirm&oacute; la detenci&oacute;n de nueve personas, y la reapertura de la principal arteria de la ciudad, la segunda m&aacute;s poblada del mundo &aacute;rabe, con 9 millones de habitantes.</p>
+<p><br /><strong>-Tropas de EEUU-</strong></p>
+<p>Adem&aacute;s de la plaza Tahrir, centro de las manifestaciones, las movilizaciones se desplazaron asimismo a la plaza Tayaran, donde hubo tambi&eacute;n enfrentamientos con las fuerzas de seguridad y lanzamiento de gases lacrim&oacute;genos.</p>
+<p>J&oacute;venes iraqu&iacute;es, enmascarados y portando &nbsp;cascos, erigieron barricadas met&aacute;licas para rechazar a la polic&iacute;a antidisturbios. Los enfrentamientos dejaron una veintena de heridos, algunos por bala, seg&uacute;n fuentes m&eacute;dicas.</p>
+<p>Desde octubre pasado, unas 460 personas han perdido la vida en violencias generalmente vinculadas con la represi&oacute;n de los manifestantes, y 25.000 han resultado heridas, seg&uacute;n un recuento de la AFP.</p>
+<p>Pero los manifestantes temieron que su movilizaci&oacute;n fuera eclipsada por las tensiones entre Teher&aacute;n y Washington.</p>
+<p>Un bombardeo desde un dron estadounidense en el aeropuerto de Bagdad el 3 de enero acab&oacute; con la vida del general iran&iacute; Qasem Soleimani, y gener&oacute; una r&eacute;plica con disparos de misiles iran&iacute;es contra una base iraqu&iacute; que albergaba a militares estadounidenses.</p>
+<p>Las personalidades pol&iacute;ticas iraqu&iacute;es han multiplicado desde entonces sus llamados en favor de que salgan del pa&iacute;s las fuerzas extranjeras, entre ellas 5.200 soldados estadounidenses.</p>
+<p>Los manifestantes temen asimismo que otras manifestaciones, como la organizada el viernes por el l&iacute;der chiita Moqtada Sadr para exigir la salida de las tropas de Estados Unidos, puedan relegar a &nbsp;segundo plano su movimiento de protesta.</p>
+<p>Este movimiento surgi&oacute; por primera vez en octubre debido a las corrupci&oacute;n, la mala calidad de los servicios p&uacute;blicos, pero luego se extendi&oacute; a la exigencia de renovar totalmente la estructura del poder.</p>
+<p>Los manifestantes, que rechazan cualquier influencia extranjera, lograron una victoria en diciembre con la dimisi&oacute;n del primer ministro Adel AbdelMahdi. Pero &eacute;ste sigue dirigiendo el pa&iacute;s, ya que los partidos pol&iacute;ticos no han conseguido hasta ahora ponerse de acuerdo sobre su sucesor.</p>
+}

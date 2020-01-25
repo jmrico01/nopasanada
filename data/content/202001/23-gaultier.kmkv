@@ -1,0 +1,58 @@
+type article
+featured{kmkv} {
+    pretitle CULTURA:
+    title <b>GAULTIER:<b> <br>“HAY DEMASIADA ROPA.”
+    text1 EL CASO EN CONTRA DE DEJAR DE PRODUCIR ROPA, Y A FAVOR DE ABANDONAR EL GREENWASHING
+    text2 POR NPN CULTURA Y AFP
+    highlightColor #00ffff
+}
+media{kmkv} {
+    header{image} /images/202001/headers/23-gaultier.jpg
+    poster{image} /images/202001/posters/23-gaultier.jpg
+    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
+    postre{image} /images/201912/09-al-mercat/postre.jpg
+    header2{image} /images/201912/09-al-mercat/header2.jpg
+    bottom{image} /images/201912/09-al-mercat/bottom.jpg
+    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
+    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
+    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
+    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+    trumpflag{image} /images/202001/necesita-saber-iran/trumpflag.jpg
+    trumptweet{image} /images/202001/necesita-saber-iran/trumptweet.jpg
+    tweet1{image} /images/202001/necesita-saber-iran/tweet1.jpg
+    zariftweet{image} /images/202001/necesita-saber-iran/zariftweet.jpg
+    perdidas{image} /images/202001/necesita-saber-iran/perdidas.jpg
+    respuesta{image} /images/202001/necesita-saber-iran/respuesta.jpg
+    dubai{image} /images/202001/necesita-saber-iran/dubai.jpg
+    propaganda{image} /images/202001/necesita-saber-iran/propaganda.jpg
+    museeparismonet{image} /images/202001/17-musee-paris/museeparismonet.jpg
+    museeparisgautier{image} /images/202001/17-musee-paris/museeparisgautier.jpg
+    museeparishippodrome{image} /images/202001/17-musee-paris/museeparishippodrome.jpg
+    museeparislouis{image} /images/202001/17-musee-paris/museeparislouis.jpg
+}
+tags{array} cultura, home
+title Jean-Paul Gaultier se despide con un mensaje: “hay demasiada ropa.”
+description Jean-Paul Gaultier tiene razón: simplemente, hay demasiada ropa. Reciclar ya no es suficiente, la solución es que la industria deje de producir tanto textil que, según el diseñador, “no sirve para nada.”
+day 23
+month 01
+year 2020
+color #00ffff
+author NPN Cultura y AFP
+subtitle El caso en contra de dejar de producir ropa, y a favor de abandonar el greenwashing
+text {
+<p>"Creo que la moda tiene que cambiar. Hay demasiada ropa, ropa que no sirve para nada. No la tiren, rec&iacute;clenla", escribi&oacute; Gaultier en una nota distribuida entre el p&uacute;blico de su &uacute;ltima pasarela, la cual se dio en el marco de la Semana de la Moda de Alta Costura.</p>
+<p><br />El dise&ntilde;ador de 67 a&ntilde;os, hab&iacute;a anunciado el viernes por sorpresa que este ser&iacute;a su &uacute;ltima colecci&oacute;n - aunque su firma, propiedad del grupo espa&ntilde;ol Puig, seguir&aacute; existiendo, dando vida a un proyecto del cu&aacute;l a&uacute;n no sabemos mucho, pero del que Gaultier prometi&oacute; haber sido el "instigador".</p>
+<p><br />"Esta noche, ver&aacute;n mi primera colecci&oacute;n alta costura <em>upcycling</em>; abr&iacute; los cajones", a&ntilde;adi&oacute;.</p>
+<p><br />Su <em>statement</em> va muy acorde a lo que se esperar&iacute;a de un dise&ntilde;ador que est&aacute; siempre al filo de los tiempos; en su momento, trat&oacute; de alejarse de los est&aacute;ndares r&iacute;gidos de la est&eacute;tica alta costura, y fue el pionero del dise&ntilde;o inclusivo, desafiando los c&aacute;nones de belleza tradicionales, y dado cabida a la fusi&oacute;n de g&eacute;neros en sus desfiles. Por su pasarela pasaron hombres mayores, mujeres con sobrepeso, drag queens, queers y gender bendings.&nbsp;</p>
+<p><br />Adem&aacute;s, fue la mente maestra detr&aacute;s de los vestuarios de pel&iacute;culas referentes, como "La mala educaci&oacute;n" y "Kika", de Pedro Almod&oacute;var, y "El quinto elemento" de Luc Besson.</p>
+<p><br />No nos cansamos de decir que la industria de la moda es la m&aacute;s contaminante: en un mundo amenazado por las acumulaci&oacute;n de la mala-praxis humana al relacionarse con el medio ambiente, es un hecho que el modelo de negocio que denuncia Gaultier debe cambiar.&nbsp;</p>
+<p><br />La producci&oacute;n de ropa y calzado es responsable del 8% de las emisiones en el mundo, seg&uacute;n la ONU. Cada a&ntilde;o, se venden globalmente unos 100.000 millones de prendas, cuya producci&oacute;n se duplic&oacute; entre 2000 y 2014, seg&uacute;n Greenpeace. Esto sumado a que, ya que las casas de moda presentan colecciones cada seis meses, el consumidor se ve tentado a renovar su cl&oacute;set constantemente, en vez de tomar conciencia de cu&aacute;nto realmente dura su ropa, y la posibilidad de reutilizarla.&nbsp;</p>
+<p><br />Aunque las firmas de moda alzan a menudo la voz para llamarnos a &ldquo;salvar el planeta&rdquo; en sus desfiles, su gesto parece ser, la mayor&iacute;a de tiempo, un intento por corregir su imagen p&uacute;blica: mensajes gen&eacute;ricos como &ldquo;salvemos al planeta tierra&rdquo; y &ldquo;es hora de boicotear el fast-fashion&rdquo; se han vuelto cosa de todos los d&iacute;as en el mundo del dise&ntilde;o textil - pero de la palabra al hecho, hay un largo trecho.&nbsp;</p>
+<p><br />Tiendas como H&amp;M han hecho marca a partir de sus &ldquo;pol&iacute;ticas ambientales&rdquo;: ofrecen un descuento si se deposita (en la tienda) la ropa vieja&hellip; &nbsp;pero la dura verdad es que reciclar no es suficiente. En realidad, la soluci&oacute;n para el problema anti-ecologista de la industria es dejar de producir nuevos textiles y abandonar el uso de materiales contaminantes. Esto porque las microfibras de las prendas sint&eacute;ticas acaban contaminando el mar y el algod&oacute;n requiere pesticidas y mucha agua.&nbsp;</p>
+<p><br />Algunas alternativas con menos impacto son el lino, el c&aacute;&ntilde;amo y el algod&oacute;n sostenible. Otros textiles supuestamente ecol&oacute;gicos no lo son tanto, como el caso de la viscosa: un &ldquo;producto m&aacute;gico&rdquo; que al no proceder de la industria petroqu&iacute;mica, deja la puerta abierta al <em>greenwashing</em>, ya que las marcas que la utilizan no pueden dar garant&iacute;a de que es un material sostenible.&nbsp;</p>
+<p><br />Reflexionar sobre las palabras de Gaultier al despedirse de la industria que &eacute;l mismo ayud&oacute; a crear nos deja una lecci&oacute;n inequ&iacute;voca: <strong>hay que producir menos ropa</strong>. Punto.&nbsp;</p>
+}
