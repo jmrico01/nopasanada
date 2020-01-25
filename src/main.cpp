@@ -673,7 +673,7 @@ int main(int argc, char** argv)
 	});
 
 	server.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
-		Array<char> uri = ToString(req.path.c_str());
+		Array<char> uri = ToString(req.path);
 		if (uri[uri.size - 1] == '/') {
 			uri.RemoveLast();
 		}
@@ -938,7 +938,7 @@ int main(int argc, char** argv)
 	});
 
 	serverDev.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
-		Array<char> uri = ToString(req.path.c_str());
+		Array<char> uri = ToString(req.path);
 		if (uri[uri.size - 1] == '/') {
 			uri.RemoveLast();
 		}
@@ -978,7 +978,7 @@ int main(int argc, char** argv)
 	});
 
 	serverDev.Post("/featured", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
-		Array<char> jsonString = ToString(req.body.c_str());
+		Array<char> jsonString = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(jsonString, &defaultAllocator_, &kmkv)) {
 			fprintf(stderr, "JsonToKmkv failed for featured json string %.*s\n",
@@ -1011,7 +1011,7 @@ int main(int argc, char** argv)
 	});
 
 	serverDev.Post("/content/[^/]+/.+", [&rootPath, &allMetadataJson](const httplib::Request& req, httplib::Response& res) {
-		Array<char> uri = ToString(req.path.c_str());
+		Array<char> uri = ToString(req.path);
 		if (uri[uri.size - 1] == '/') {
 			uri.RemoveLast();
 		}
@@ -1024,7 +1024,7 @@ int main(int argc, char** argv)
 		}
 		defer(FreeKmkv(entryData.kmkv));
 
-		Array<char> entryJson = { .size = req.body.size(), .data = (char*)req.body.c_str() };
+		Array<char> entryJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(entryJson, &defaultAllocator_, &kmkv)) {
 			fprintf(stderr, "JsonToKmkv failed for entry %.*s\n", (int)uri.size, uri.data);
@@ -1061,8 +1061,36 @@ int main(int argc, char** argv)
 		// TODO implement
 	});
 
-	serverDev.Post("/deleteEntry", [&rootPath](const httplib::Request& req, httplib::Response& res) {
-		// TODO implement
+	serverDev.Post("/deleteEntry", [&rootPath, &allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+		Array<char> bodyJson = ToString(req.body);
+		HashTable<KmkvItem<StandardAllocator>> kmkv;
+		if (!JsonToKmkv(bodyJson, &defaultAllocator_, &kmkv)) {
+			fprintf(stderr, "JsonToKmkv failed for deleteEntry request body %.*s\n",
+				(int)bodyJson.size, bodyJson.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		const auto* uri = GetKmkvItemStrValue(kmkv, "uri");
+		if (uri == nullptr) {
+			fprintf(stderr, "No uri in deleteEntry request\n");
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		FixedArray<char, PATH_MAX_LENGTH> kmkvPath;
+		UriToKmkvPath(rootPath.ToArray(), uri->ToArray(), &kmkvPath);
+		if (!DeleteFile(kmkvPath.ToArray(), true)) {
+			fprintf(stderr, "Failed to delete entry file %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
+			fprintf(stderr, "Failed to reload all entry metadata to JSON after deleting %.*s\n",
+				(int)uri->size, uri->data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
 	});
 
 	serverDev.Post("/newImage", [&imageRootPath](const httplib::Request& req, httplib::Response& res) {
@@ -1090,14 +1118,8 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		Array<char> uri = {
-			.size = uriData.content.size(),
-			.data = (char*)uriData.content.c_str()
-		};
-		Array<char> label = {
-			.size = labelData.content.size(),
-			.data = (char*)labelData.content.c_str()
-		};
+		Array<char> uri = ToString(uriData.content);
+		Array<char> label = ToString(labelData.content);
 		for (uint64 i = 0; i < label.size; i++) {
 			if (!IsAlphanumeric(label[i]) && label[i] != '-') {
 				fprintf(stderr, "Invalid npnLabel: %.*s\n", (int)label.size, label.data);

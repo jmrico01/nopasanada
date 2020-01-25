@@ -12,6 +12,7 @@ PROJECT_NAME = "nopasanada"
 COPY_DIRS = {}
 
 DEFINES = [
+	"KM_CPP_STD",
 	"KM_KMKV_JSON",
 	"KM_UTF8"
 ]
