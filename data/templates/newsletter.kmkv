@@ -1,0 +1,34 @@
+type newsletter
+featured{kmkv} {
+    pretitle NEWSLETTER:
+    title TITLE -<br>LANDING PAGE
+    text1 SUBTEXTO, IZQUIERDA
+    text2 SUBTEXTO, DERECHA
+}
+media{kmkv} {
+    header{image} /images/unused/garrazo.jpg
+}
+tags{array} noticias
+title Lo Importante: DD-MM-YY
+description 4 historias importantes de las más recientes noticias internacionales
+color #ffff00
+title1 Title 1
+author1 No Pasa Nada Noticias y AFP
+text1 {
+<p>Article 1 text goes here.</p>
+}
+title2 Title 2
+author2 No Pasa Nada Noticias y AFP
+text2 {
+<p>Article 2 text goes here.</p>
+}
+title3 Title 3
+author3 No Pasa Nada Noticias y AFP
+text3 {
+<p>Article 3 text goes here.</p>
+}
+title4 Title 4
+author4 No Pasa Nada Noticias y AFP
+text4 {
+<p>Article 4 text goes here.</p>
+}

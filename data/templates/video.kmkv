@@ -1,0 +1,18 @@
+type video
+featured{kmkv} {
+    pretitle VIDEO:
+    title TITLE -<br>LANDING PAGE
+    text1 SUBTEXTO, IZQUIERDA
+    text2 SUBTEXTO, DERECHA
+}
+media{kmkv} {
+    header{image} /images/unused/garrazo.jpg
+}
+tags{array} noticias
+title Title
+description Description
+color #ffe11a
+videoID yKUGwlFJAHw
+text {
+<p>Text goes here.</p>
+}

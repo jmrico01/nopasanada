@@ -1,0 +1,19 @@
+type article
+featured{kmkv} {
+    pretitle ARTICLE:
+    title TITLE -<br>LANDING PAGE
+    text1 SUBTEXTO, IZQUIERDA
+    text2 SUBTEXTO, DERECHA
+}
+media{kmkv} {
+    header{image} /images/unused/garrazo.jpg
+}
+tags{array} cultura, opinion
+title Article title
+description Description
+color #ffc7f7
+author Author
+subtitle Subtitle
+text {
+<p>Article text goes here.</p>
+}
