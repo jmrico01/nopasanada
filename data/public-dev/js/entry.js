@@ -1,6 +1,8 @@
 "use strict";
 
-const IMAGE_BASE_URL = "https://nopasanada.s3.amazonaws.com";
+// const IMAGE_BASE_URL = "https://nopasanada.s3.amazonaws.com";
+
+let previewUrl_ = null;
 
 let editors_ = null;
 
@@ -17,7 +19,7 @@ function UpdateImageList(images)
     $imageList.html("");
     for (let i = 0; i < images.length; i++) {
         let $imageRow = $(imageRowTemplate_);
-        $imageRow.find(".rowImage img").attr("src", IMAGE_BASE_URL + images[i].uri);
+        $imageRow.find(".rowImage img").attr("src", previewUrl_ + images[i].uri);
         $imageRow.find(".rowText h2").html(images[i].name);
         $imageList.append($imageRow);
     }
@@ -171,12 +173,7 @@ function SaveEntryData()
     let media = {};
     for (let i = 0; i < images_.length; i++) {
         let image = images_[i];
-        media[image.name] = {
-            _: image.uri,
-            $: {
-                type: "image"
-            }
-        };
+        media[image.name] = image.uri;
     }
 
     let entryData = {
@@ -374,8 +371,8 @@ $(document).ready(async function() {
         async: true,
         data: "",
         success: function(data) {
-            let previewUrl = data.url;
-            $("#previewLink").attr("href", previewUrl + GetEntryUri());
+            previewUrl_ = data.url;
+            $("#previewLink").attr("href", previewUrl_ + GetEntryUri());
         },
         error: function(error) {
             console.error(error);

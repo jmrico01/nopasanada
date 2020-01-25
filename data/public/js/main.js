@@ -1,6 +1,7 @@
 "use strict";
 
-const IMAGE_BASE_URL = "https://nopasanada.s3.amazonaws.com";
+// const IMAGE_BASE_URL = "https://nopasanada.s3.amazonaws.com";
+const IMAGE_BASE_URL = ".";
 
 const FEATURED_IMAGE_FADE_MS = 400;
 const IMAGE_ANIM_MS = 250;

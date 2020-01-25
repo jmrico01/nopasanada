@@ -16,6 +16,9 @@
 
 global_var const int HTTP_STATUS_ERROR = 500;
 
+// global_var const Array<char> IMAGE_BASE_URL = ToString("https://nopasanada.s3.amazonaws.com");
+global_var const Array<char> IMAGE_BASE_URL = ToString("../../..");
+
 #if SERVER_HTTPS
 
 typedef httplib::SSLServer ServerType;
@@ -87,14 +90,20 @@ struct EntryData
 	NewsletterData newsletterData;
 };
 
+void UriToKmkvPath(const Array<char>& rootPath, const Array<char>& uri,
+	FixedArray<char, PATH_MAX_LENGTH>* outPath)
+{
+	outPath->Clear();
+	outPath->Append(rootPath);
+	outPath->Append(ToString("data"));
+	outPath->Append(uri);
+	outPath->Append(ToString(".kmkv"));
+}
+
 bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* outEntryData)
 {
 	FixedArray<char, PATH_MAX_LENGTH> kmkvPath;
-	kmkvPath.Clear();
-	kmkvPath.Append(rootPath);
-	kmkvPath.Append(ToString("data"));
-	kmkvPath.Append(uri);
-	kmkvPath.Append(ToString(".kmkv"));
+	UriToKmkvPath(rootPath, uri, &kmkvPath);
 	if (!LoadKmkv(kmkvPath.ToArray(), &defaultAllocator_, &outEntryData->kmkv)) {
 		fprintf(stderr, "LoadKmkv failed for entry %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
@@ -414,6 +423,7 @@ int CompareMetadataDateDescending(const void* p1, const void* p2)
 
 bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, StandardAllocator>* outJson)
 {
+	outJson->Clear();
 	outJson->Append('[');
 
 	DynamicArray<HashTable<KmkvItem<StandardAllocator>>> metadataKmkvs;
@@ -692,6 +702,7 @@ int main(int argc, char** argv)
 
 		HashTable<Array<char>> templateItems;
 		templateItems.Add("uri", uri);
+		templateItems.Add("imageBaseUrl", IMAGE_BASE_URL);
 		templateItems.Add("image", entryData.header.ToArray());
 
 		if (entryData.type == EntryType::NEWSLETTER) {
@@ -999,15 +1010,58 @@ int main(int argc, char** argv)
 		}
 	});
 
-	serverDev.Post("/content/[^/]+/.+", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/content/[^/]+/.+", [&rootPath, &allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+		Array<char> uri = ToString(req.path.c_str());
+		if (uri[uri.size - 1] == '/') {
+			uri.RemoveLast();
+		}
+
+		EntryData entryData;
+		if (!LoadEntry(rootPath.ToArray(), uri, &entryData)) {
+			fprintf(stderr, "LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		defer(FreeKmkv(entryData.kmkv));
+
+		Array<char> entryJson = { .size = req.body.size(), .data = (char*)req.body.c_str() };
+		HashTable<KmkvItem<StandardAllocator>> kmkv;
+		if (!JsonToKmkv(entryJson, &defaultAllocator_, &kmkv)) {
+			fprintf(stderr, "JsonToKmkv failed for entry %.*s\n", (int)uri.size, uri.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		// TODO cross-reference entryData.kmkv with received kmkv, modify entryData.kmkv accordingly
+		DynamicArray<char> kmkvString;
+		if (!KmkvToString(kmkv, &kmkvString)) {
+			fprintf(stderr, "KmkvToString failed for entry %.*s\n", (int)uri.size, uri.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		FixedArray<char, PATH_MAX_LENGTH> kmkvPath;
+		UriToKmkvPath(rootPath.ToArray(), uri, &kmkvPath);
+		Array<uint8> newData = { .size = kmkvString.size, .data = (uint8*)kmkvString.data };
+		if (!WriteFile(kmkvPath.ToArray(), newData, false)) {
+			fprintf(stderr, "Failed to write kmkv data to file for entry %.*s\n",
+				(int)uri.size, uri.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+
+		if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
+			fprintf(stderr, "Failed to reload all entry metadata to JSON for entry %.*s\n",
+				(int)uri.size, uri.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+	});
+
+	serverDev.Post("/newEntry", [&rootPath](const httplib::Request& req, httplib::Response& res) {
 		// TODO implement
 	});
 
-	serverDev.Post("/newEntry", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
-		// TODO implement
-	});
-
-	serverDev.Post("/deleteEntry", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/deleteEntry", [&rootPath](const httplib::Request& req, httplib::Response& res) {
 		// TODO implement
 	});
 
@@ -1148,15 +1202,15 @@ int main(int argc, char** argv)
 		res.set_content(responseXml.data, responseXml.size, "application/xml");
 	});
 
-	serverDev.Post("/reset", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/reset", [&rootPath](const httplib::Request& req, httplib::Response& res) {
 		// TODO implement
 	});
 
-	serverDev.Post("/commit", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/commit", [&rootPath](const httplib::Request& req, httplib::Response& res) {
 		// TODO implement
 	});
 
-	serverDev.Post("/deploy", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/deploy", [&rootPath](const httplib::Request& req, httplib::Response& res) {
 		// TODO implement
 	});
 

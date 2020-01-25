@@ -14,14 +14,14 @@
     <meta property="og:title"       content="{{ title }}">
     <meta property="og:description" content="{{ description }}">
     <meta property="og:url"         content="https://www.nopasanada.com{{ uri }}">
-    <meta property="og:image"       content="https://nopasanada.s3.amazonaws.com{{ image }}">
+    <meta property="og:image"       content="{{ imageBaseUrl }}{{ image }}">
 
     <!-- Twitter card -->
     <meta name="twitter:card"           content="summary">
     <meta name="twitter:title"          content="{{ title }}">
     <meta name="twitter:description"    content="{{ description }}">
     <meta name="twitter:url"            content="https://www.nopasanada.com{{ uri }}">
-    <meta name="twitter:image"          content="https://nopasanada.s3.amazonaws.com{{ image }}">
+    <meta name="twitter:image"          content="{{ imageBaseUrl }}{{ image }}">
 
     <!-- schema.org -->
     <!-- TODO: ADD TAGS -->
@@ -121,37 +121,37 @@
                 <div id="articleHeader" class="screen">
                     <div id="headerDesktop" style="position: relative; width: 100%; height: 100%;">
                         <a href="#1">
-                            <div class="articleImage" style="background-image: url('https://nopasanada.s3.amazonaws.com{{ header-desktop1 }}'); width: 23.8vw; float: left;">
+                            <div class="articleImage" style="background-image: url('{{ imageBaseUrl }}{{ header-desktop1 }}'); width: 23.8vw; float: left;">
                             </div>
                         </a>
                         <a href="#2">
-                            <div class="articleImage" style="background-image: url('https://nopasanada.s3.amazonaws.com{{ header-desktop2 }}'); margin-left: 1.1vw; width: 23.8vw; float: left;">
+                            <div class="articleImage" style="background-image: url('{{ imageBaseUrl }}{{ header-desktop2 }}'); margin-left: 1.1vw; width: 23.8vw; float: left;">
                             </div>
                         </a>
                         <a href="#3">
-                            <div class="articleImage" style="background-image: url('https://nopasanada.s3.amazonaws.com{{ header-desktop3 }}'); margin-left: 1.1vw; width: 23.8vw; float: left;">
+                            <div class="articleImage" style="background-image: url('{{ imageBaseUrl }}{{ header-desktop3 }}'); margin-left: 1.1vw; width: 23.8vw; float: left;">
                             </div>
                         </a>
                         <a href="#4">
-                            <div class="articleImage" style="background-image: url('https://nopasanada.s3.amazonaws.com{{ header-desktop4 }}'); margin-left: 1.1vw; width: 23.8vw; float: left;">
+                            <div class="articleImage" style="background-image: url('{{ imageBaseUrl }}{{ header-desktop4 }}'); margin-left: 1.1vw; width: 23.8vw; float: left;">
                             </div>
                         </a>
                     </div>
                     <div id="headerMobile" style="position: relative; width: 100%; height: 100%;">
                         <a href="#1">
-                            <div class="articleImage" style="background-image: url('https://nopasanada.s3.amazonaws.com{{ header-mobile1 }}'); width: 48vw; height: 49.5%; float: left;">
+                            <div class="articleImage" style="background-image: url('{{ imageBaseUrl }}{{ header-mobile1 }}'); width: 48vw; height: 49.5%; float: left;">
                             </div>
                         </a>
                         <a href="#3">
-                            <div class="articleImage" style="background-image: url('https://nopasanada.s3.amazonaws.com{{ header-mobile2 }}'); margin-left: 1vw; width: 48vw; height: 49.5%;  float: left;">
+                            <div class="articleImage" style="background-image: url('{{ imageBaseUrl }}{{ header-mobile2 }}'); margin-left: 1vw; width: 48vw; height: 49.5%;  float: left;">
                             </div>
                         </a>
                         <a href="#2">
-                            <div class="articleImage" style="background-image: url('https://nopasanada.s3.amazonaws.com{{ header-mobile3 }}'); margin-top: 1%; width: 48vw; height: 49.5%; float: left;">
+                            <div class="articleImage" style="background-image: url('{{ imageBaseUrl }}{{ header-mobile3 }}'); margin-top: 1%; width: 48vw; height: 49.5%; float: left;">
                             </div>
                         </a>
                         <a href="#4">
-                            <div class="articleImage" style="background-image: url('https://nopasanada.s3.amazonaws.com{{ header-mobile4 }}'); margin-left: 1vw; margin-top: 1%; width: 48vw; height: 49.5%; float: left;">
+                            <div class="articleImage" style="background-image: url('{{ imageBaseUrl }}{{ header-mobile4 }}'); margin-left: 1vw; margin-top: 1%; width: 48vw; height: 49.5%; float: left;">
                             </div>
                         </a>
                     </div>
