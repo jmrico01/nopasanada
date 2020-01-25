@@ -192,15 +192,14 @@ $(document).ready(function() {
                 $("#statusMessage").html("Entry name should only have lower-case letters, numbers, or dashes.");
                 return;
             }
-            let copyFrom = $form.find("select[name=copyFrom]").val();
-            if (copyFrom === "none") {
-                copyFrom = null;
-            }
             let formData = {
                 uniqueName: uniqueName,
-                contentType: $form.find("select[name=contentType]").val(),
-                copyFrom: copyFrom
+                contentType: $form.find("select[name=contentType]").val()
             };
+            let copyFrom = $form.find("select[name=copyFrom]").val();
+            if (copyFrom !== "none") {
+                formData.copyFrom = copyFrom;
+            }
             $.ajax({
                 type: "POST",
                 url: "/newEntry",
