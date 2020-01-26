@@ -231,28 +231,28 @@ $(document).ready(function() {
     //     });
     // });
 
-    // $("#resetButton").click(function() {
-    //     if (!resetInProgress_) {
-    //         resetInProgress_ = true;
-    //         $("#statusMessage").html("Pulling and resetting...");
-    //         $.ajax({
-    //             type: "POST",
-    //             url: "/reset",
-    //             contentType: "application/text",
-    //             dataType: "text",
-    //             async: true,
-    //             data: "",
-    //             success: function(data) {
-    //                 window.location = '/';
-    //                 resetInProgress_ = false;
-    //             },
-    //             error: function(error) {
-    //                 window.location = '/';
-    //                 resetInProgress_ = false;
-    //             }
-    //         });
-    //     }
-    // });
+    $("#resetButton").click(function() {
+        if (!resetInProgress_) {
+            resetInProgress_ = true;
+            $("#statusMessage").html("Pulling and resetting...");
+            $.ajax({
+                type: "POST",
+                url: "/reset",
+                contentType: "application/text",
+                dataType: "text",
+                async: true,
+                data: "",
+                success: function(data) {
+                    window.location = '/';
+                    resetInProgress_ = false;
+                },
+                error: function(error) {
+                    window.location = '/';
+                    resetInProgress_ = false;
+                }
+            });
+        }
+    });
 
     $("#commitButton").click(function() {
         if (!commitInProgress_) {
