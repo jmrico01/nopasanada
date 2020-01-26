@@ -21,10 +21,11 @@ DEFINES.extend(DEFINES_ENV)
 DEPLOY_FILES = []
 
 LIBS_EXTERNAL = [
-	LibExternal("cJSON", "cJSON"),
+	LibExternal("cJSON",       "cJSON"),
 	LibExternal("cpp-httplib", "cpp-httplib"),
 	LibExternal("stb_sprintf", "stb_sprintf-1.06"),
-	LibExternal("utf8proc",    "utf8proc")
+	LibExternal("utf8proc",    "utf8proc"),
+	LibExternal("xxHash",      "xxHash")
 ]
 
 PATHS = {

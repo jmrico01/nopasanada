@@ -5,8 +5,11 @@
 #define CPPHTTPLIB_ZLIB_SUPPORT
 #endif
 #include <httplib.h>
+#include <stb_sprintf.h>
 #include <stdio.h>
 #include <thread>
+#include <time.h>
+#include <xxhash.h>
 
 #include <km_common/km_defines.h>
 #include <km_common/km_kmkv.h>
@@ -48,6 +51,16 @@ global_var const char* ENTRY_TYPE_STRINGS[] = {
 	"video"
 };
 
+struct EntryDate
+{
+	char yearString[4];
+	char monthString[2];
+	char dayString[2];
+	int yearInt;
+	int monthInt;
+	int dayInt;
+};
+
 struct NewsletterData
 {
 	DynamicArray<char> customTop;
@@ -72,12 +85,7 @@ struct EntryData
 	EntryType type;
 	DynamicArray<char> typeString;
 	DynamicArray<DynamicArray<char>> tags;
-	char dayString[2];
-	int dayInt;
-	char monthString[2];
-	int monthInt;
-	char yearString[4];
-	int yearInt;
+	EntryDate date;
 	DynamicArray<char> title;
 	DynamicArray<char> description;
 	DynamicArray<char> color;
@@ -89,6 +97,28 @@ struct EntryData
 
 	NewsletterData newsletterData;
 };
+
+EntryDate GetCurrentDate()
+{
+	time_t t = time(NULL);
+	const tm* localTime = localtime(&t);
+	assert(localTime != nullptr);
+
+	EntryDate date;
+	date.yearInt = localTime->tm_year + 1900;
+	date.monthInt = localTime->tm_mon + 1;
+	date.dayInt = localTime->tm_mday;
+
+	char buffer[5];
+	assert(stbsp_snprintf(buffer, 5, "%04d", date.yearInt) == 4);
+	MemCopy(date.yearString, buffer, 4);
+	assert(stbsp_snprintf(buffer, 5, "%02d", date.monthInt) == 2);
+	MemCopy(date.monthString, buffer, 2);
+	assert(stbsp_snprintf(buffer, 5, "%02d", date.dayInt) == 2);
+	MemCopy(date.dayString, buffer, 2);
+
+	return date;
+}
 
 void UriToKmkvPath(const Array<char>& rootPath, const Array<char>& uri,
 	FixedArray<char, PATH_MAX_LENGTH>* outPath)
@@ -198,63 +228,63 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 		return false;
 	}
 	if (day->size == 1) {
-		outEntryData->dayString[0] = '0';
-		outEntryData->dayString[1] = (*day)[0];
+		outEntryData->date.dayString[0] = '0';
+		outEntryData->date.dayString[1] = (*day)[0];
 	}
 	else if (day->size == 2) {
-		outEntryData->dayString[0] = (*day)[0];
-		outEntryData->dayString[1] = (*day)[1];
+		outEntryData->date.dayString[0] = (*day)[0];
+		outEntryData->date.dayString[1] = (*day)[1];
 	}
 	else {
 		fprintf(stderr, "Entry bad day string length %d: %.*s\n", (int)day->size,
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
-	if (!StringToIntBase10(day->ToArray(), &outEntryData->dayInt)) {
+	if (!StringToIntBase10(day->ToArray(), &outEntryData->date.dayInt)) {
 		fprintf(stderr, "Entry day to-integer conversion failed: %.*s\n",
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
-	if (outEntryData->dayInt < 1 || outEntryData->dayInt > 31) {
-		fprintf(stderr, "Entry day %d out of range: %.*s\n", outEntryData->dayInt,
+	if (outEntryData->date.dayInt < 1 || outEntryData->date.dayInt > 31) {
+		fprintf(stderr, "Entry day %d out of range: %.*s\n", outEntryData->date.dayInt,
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	if (month->size == 1) {
-		outEntryData->monthString[0] = '0';
-		outEntryData->monthString[1] = (*month)[0];
+		outEntryData->date.monthString[0] = '0';
+		outEntryData->date.monthString[1] = (*month)[0];
 	}
 	else if (month->size == 2) {
-		outEntryData->monthString[0] = (*month)[0];
-		outEntryData->monthString[1] = (*month)[1];
+		outEntryData->date.monthString[0] = (*month)[0];
+		outEntryData->date.monthString[1] = (*month)[1];
 	}
 	else {
 		fprintf(stderr, "Entry bad month string length %d: %.*s\n", (int)month->size,
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
-	if (!StringToIntBase10(month->ToArray(), &outEntryData->monthInt)) {
+	if (!StringToIntBase10(month->ToArray(), &outEntryData->date.monthInt)) {
 		fprintf(stderr, "Entry month to-integer conversion failed: %.*s\n",
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
-	if (outEntryData->monthInt < 1 || outEntryData->monthInt > 12) {
-		fprintf(stderr, "Entry month %d out of range: %.*s\n", outEntryData->monthInt,
+	if (outEntryData->date.monthInt < 1 || outEntryData->date.monthInt > 12) {
+		fprintf(stderr, "Entry month %d out of range: %.*s\n", outEntryData->date.monthInt,
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	if (year->size == 4) {
-		outEntryData->yearString[0] = (*year)[0];
-		outEntryData->yearString[1] = (*year)[1];
-		outEntryData->yearString[2] = (*year)[2];
-		outEntryData->yearString[3] = (*year)[3];
+		outEntryData->date.yearString[0] = (*year)[0];
+		outEntryData->date.yearString[1] = (*year)[1];
+		outEntryData->date.yearString[2] = (*year)[2];
+		outEntryData->date.yearString[3] = (*year)[3];
 	}
 	else {
 		fprintf(stderr, "Entry bad year string length %d: %.*s\n", (int)year->size,
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
-	if (!StringToIntBase10(year->ToArray(), &outEntryData->yearInt)) {
+	if (!StringToIntBase10(year->ToArray(), &outEntryData->date.yearInt)) {
 		fprintf(stderr, "Entry month to-integer conversion failed: %.*s\n",
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
@@ -482,14 +512,14 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		metadataKmkv.GetValue("tags")->keywordTag.Append(ToString("array"));
 		AllocAndSetString(metadataKmkv.Add("title"), entryData.title.ToArray());
 		DynamicArray<char> dateString;
-		dateString.Append(entryData.yearString[0]);
-		dateString.Append(entryData.yearString[1]);
-		dateString.Append(entryData.yearString[2]);
-		dateString.Append(entryData.yearString[3]);
-		dateString.Append(entryData.monthString[0]);
-		dateString.Append(entryData.monthString[1]);
-		dateString.Append(entryData.dayString[0]);
-		dateString.Append(entryData.dayString[1]);
+		dateString.Append(entryData.date.yearString[0]);
+		dateString.Append(entryData.date.yearString[1]);
+		dateString.Append(entryData.date.yearString[2]);
+		dateString.Append(entryData.date.yearString[3]);
+		dateString.Append(entryData.date.monthString[0]);
+		dateString.Append(entryData.date.monthString[1]);
+		dateString.Append(entryData.date.dayString[0]);
+		dateString.Append(entryData.date.dayString[1]);
 		AllocAndSetString(metadataKmkv.Add("date"), dateString.ToArray());
 
 		auto* featured = metadataKmkv.Add("featuredInfo");
@@ -581,21 +611,48 @@ bool ServerListen(ServerType& server, const char* host, int port)
 	return true;
 }
 
-bool IsAuthenticated(const httplib::Request& req)
+void GenerateSessionId(const Array<char>& username, const Array<char>& password,
+	DynamicArray<char, StandardAllocator>* outSessionId)
+{
+	EntryDate entryDate = GetCurrentDate();
+
+	outSessionId->Clear();
+	outSessionId->Append(username);
+	outSessionId->Append(password);
+	XXH64_hash_t hash = XXH64(outSessionId->data, outSessionId->size, (XXH64_hash_t)time(NULL));
+	char buffer[17];
+	assert(stbsp_snprintf(buffer, 17, "%016I64x", hash) == 16);
+	outSessionId->Clear();
+	outSessionId->Append(ToString(buffer));
+}
+
+bool IsLoginValid(const Array<char>& username, const Array<char>& password,
+	const HashTable<KmkvItem<StandardAllocator>>& loginsKmkv)
+{
+	const auto* userPassword = GetKmkvItemStrValue(loginsKmkv, username);
+	if (userPassword == nullptr) {
+		return false;
+	}
+
+	return StringEquals(userPassword->ToArray(), password);
+}
+
+bool IsAuthenticated(const httplib::Request& req, const DynamicArray<DynamicArray<char>>& sessions)
 {
 	if (!req.has_header("Cookie")) {
 		return false;
 	}
 	std::string cookieStdString = req.get_header_value("Cookie");
 	Array<char> cookie = ToString(cookieStdString);
-	if (!StringEquals(cookie, ToString("nomnom"))) {
-		return false;
+	for (uint64 i = 0; i < sessions.size; i++) {
+		if (StringEquals(cookie, sessions[i].ToArray())) {
+			return true;
+		}
 	}
-
-	return true;
+	return false;
 }
 
-#define CHECK_AUTH_OR_ERROR(request, response) if (!IsAuthenticated((request))) { \
+#define CHECK_AUTH_OR_ERROR(request, response, sessions) if (!IsAuthenticated((request), (sessions))) { \
 	(response).status = HTTP_STATUS_ERROR; \
 	return; }
 
@@ -660,29 +717,29 @@ int main(int argc, char** argv)
 	}
 
 	// Backwards compatibility =====================================================================
-	server.Get("/el-caso-diet-prada", [](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/el-caso-diet-prada", [](const auto& req, auto& res) {
 		res.set_redirect("/content/201908/el-caso-diet-prada");
 	});
-	server.Get("/la-cerveza-si-es-cosa-de-mujeres", [](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/la-cerveza-si-es-cosa-de-mujeres", [](const auto& req, auto& res) {
 		res.set_redirect("/content/201908/la-cerveza-si-es-cosa-de-mujeres");
 	});
-	server.Get("/content/201908/el-amazonas", [](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/content/201908/el-amazonas", [](const auto& req, auto& res) {
 		res.set_redirect("/content/201908/newsletter-29");
 	});
-	server.Get("/content/201909/newsletter-03", [](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/content/201909/newsletter-03", [](const auto& req, auto& res) {
 		res.set_redirect("/content/201909/newsletter-03");
 	});
 	// =============================================================================================
 
-	server.Get("/entries", [&allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/entries", [&allMetadataJson](const auto& req, auto& res) {
 		res.set_content(allMetadataJson.data, allMetadataJson.size, "application/json");
 	});
 
-	server.Get("/featured", [&featuredJson](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/featured", [&featuredJson](const auto& req, auto& res) {
 		res.set_content(featuredJson.data, featuredJson.size, "application/json");
 	});
 
-	server.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
+	server.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const auto& req, auto& res) {
 		Array<char> uri = ToString(req.path);
 		if (uri[uri.size - 1] == '/') {
 			uri.RemoveLast();
@@ -739,10 +796,10 @@ int main(int argc, char** argv)
 			"OCTUBRE", "NOVIEMBRE", "DICIEMBRE"
 		};
 		DynamicArray<char> dateString;
-		dateString.Append(entryData.dayString[0]);
-		dateString.Append(entryData.dayString[1]);
+		dateString.Append(entryData.date.dayString[0]);
+		dateString.Append(entryData.date.dayString[1]);
 		dateString.Append(ToString(" DE "));
-		dateString.Append(ToString(MONTH_NAMES[entryData.monthInt - 1]));
+		dateString.Append(ToString(MONTH_NAMES[entryData.date.monthInt - 1]));
 		if (entryData.type == EntryType::NEWSLETTER) {
 			templateItems.Add("subtextRight1", dateString.ToArray());
 			templateItems.Add("subtextRight2", dateString.ToArray());
@@ -923,39 +980,84 @@ int main(int argc, char** argv)
 	}
 
 #if SERVER_DEV
+	FixedArray<char, PATH_MAX_LENGTH> loginsPath = rootPath;
+	loginsPath.Append(ToString("keys/logins.kmkv"));
+	HashTable<KmkvItem<StandardAllocator>> loginsKmkv;
+	if (!LoadKmkv(loginsPath.ToArray(), &defaultAllocator_, &loginsKmkv)) {
+		fprintf(stderr, "Failed to load logins kmkv\n");
+		return 1;
+	}
+	DynamicArray<DynamicArray<char>> sessions;
+
 #if SERVER_HTTPS
 	ServerType serverDev(SERVER_CERT, SERVER_KEY);
 #else
 	ServerType serverDev;
 #endif
 
-	serverDev.set_file_request_handler([](const httplib::Request& req, httplib::Response& res) {
-		if (req.path == "/" || req.path == "/entry/" && !IsAuthenticated(req)) {
+	// serverDev.set_error_handler([](const auto& req, auto& res) {
+	// 	auto fmt = "<p>Error Status: <span style='color:red;'>%d</span></p>";
+	// 	char buf[BUFSIZ];
+	// 	snprintf(buf, sizeof(buf), fmt, res.status);
+	// 	res.set_content(buf, "text/html");
+	// });
+
+	serverDev.set_file_request_handler([&sessions](const auto& req, auto& res) {
+		if ((req.path == "/" || req.path == "/entry/") && !IsAuthenticated(req, sessions)) {
 			res.set_redirect("/login/");
 			return;
 		}
 	});
 
-	serverDev.Post("/authenticate", [&allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+	serverDev.Post("/authenticate", [&loginsKmkv, &sessions](const auto& req, auto& res) {
 		Array<char> bodyJson = ToString(req.body);
-		uint64 ind = bodyJson.FindFirst('=');
+		uint64 indEqual = bodyJson.FindFirst('=');
+		if (indEqual == bodyJson.size) {
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		if (!StringEquals(bodyJson.SliceTo(indEqual), ToString("username"))) {
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		uint64 indAmpersand = bodyJson.FindFirst('&');
+		if (indAmpersand == bodyJson.size) {
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		Array<char> username = bodyJson.Slice(indEqual + 1, indAmpersand);
+		indEqual = bodyJson.FindFirst('=', indEqual + 1);
+		if (indEqual == bodyJson.size) {
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		if (!StringEquals(bodyJson.Slice(indAmpersand + 1, indEqual), ToString("password"))) {
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		Array<char> password = bodyJson.SliceFrom(indEqual + 1);
+
+		if (IsLoginValid(username, password, loginsKmkv)) {
+			DynamicArray<char>* newSession = sessions.Append();
+			GenerateSessionId(username, password, newSession);
+			std::string newSessionStdString(newSession->data, newSession->size);
+			res.set_header("Set-Cookie", newSessionStdString);
+			res.set_redirect("/");
+		}
+		else {
+			res.set_redirect("/login/");
+		}
 	});
 
-	serverDev.Get("/entries", [&allMetadataJson](const httplib::Request& req, httplib::Response& res) {
-		CHECK_AUTH_OR_ERROR(req, res);
-
+	serverDev.Get("/entries", [&allMetadataJson](const auto& req, auto& res) {
 		res.set_content(allMetadataJson.data, allMetadataJson.size, "application/json");
 	});
 
-	serverDev.Get("/featured", [&featuredJson](const httplib::Request& req, httplib::Response& res) {
-		CHECK_AUTH_OR_ERROR(req, res);
-
+	serverDev.Get("/featured", [&featuredJson](const auto& req, auto& res) {
 		res.set_content(featuredJson.data, featuredJson.size, "application/json");
 	});
 
-	serverDev.Get("/previewSite", [](const httplib::Request& req, httplib::Response& res) {
-		CHECK_AUTH_OR_ERROR(req, res);
-
+	serverDev.Get("/previewSite", [](const auto& req, auto& res) {
 		DynamicArray<char> responseJson;
 		responseJson.Append(ToString("{\"url\":\""));
 #if SERVER_HTTPS
@@ -971,9 +1073,7 @@ int main(int argc, char** argv)
 		res.set_content(responseJson.data, responseJson.size, "application/json");
 	});
 
-	serverDev.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
-		CHECK_AUTH_OR_ERROR(req, res);
-
+	serverDev.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const auto& req, auto& res) {
 		Array<char> uri = ToString(req.path);
 		if (uri[uri.size - 1] == '/') {
 			uri.RemoveLast();
@@ -1013,8 +1113,8 @@ int main(int argc, char** argv)
 		res.set_content(entryJson.data, entryJson.size, "application/json");
 	});
 
-	serverDev.Post("/featured", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
-		CHECK_AUTH_OR_ERROR(req, res);
+	serverDev.Post("/featured", [&rootPath, &featuredJson, &sessions](const auto& req, auto& res) {
+		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		Array<char> jsonString = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
@@ -1048,8 +1148,8 @@ int main(int argc, char** argv)
 		}
 	});
 
-	serverDev.Post("/content/[^/]+/.+", [&rootPath, &allMetadataJson](const httplib::Request& req, httplib::Response& res) {
-		CHECK_AUTH_OR_ERROR(req, res);
+	serverDev.Post("/content/[^/]+/.+", [&rootPath, &allMetadataJson, &sessions](const auto& req, auto& res) {
+		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		Array<char> uri = ToString(req.path);
 		if (uri[uri.size - 1] == '/') {
@@ -1073,6 +1173,7 @@ int main(int argc, char** argv)
 		}
 
 		// TODO cross-reference entryData.kmkv with received kmkv, modify entryData.kmkv accordingly
+		// for now, we're just YOLO-writing what we get.
 		DynamicArray<char> kmkvString;
 		if (!KmkvToString(kmkv, &kmkvString)) {
 			fprintf(stderr, "KmkvToString failed for entry %.*s\n", (int)uri.size, uri.data);
@@ -1097,8 +1198,8 @@ int main(int argc, char** argv)
 		}
 	});
 
-	serverDev.Post("/newEntry", [&rootPath, &allMetadataJson](const httplib::Request& req, httplib::Response& res) {
-		CHECK_AUTH_OR_ERROR(req, res);
+	serverDev.Post("/newEntry", [&rootPath, &allMetadataJson, &sessions](const auto& req, auto& res) {
+		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		Array<char> bodyJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
@@ -1143,6 +1244,7 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
+		EntryDate currentDate = GetCurrentDate();
 		auto* day = GetKmkvItemStrValue(srcKmkv, "day");
 		if (day == nullptr) {
 			// TODO maybe I need some helper function, AllocAndSetString isn't the best
@@ -1150,21 +1252,26 @@ int main(int argc, char** argv)
 			day = GetKmkvItemStrValue(srcKmkv, "day");
 		}
 		day->Clear();
-		day->Append(ToString("25")); // TODO calculate
+		day->Append(currentDate.dayString[0]);
+		day->Append(currentDate.dayString[1]);
 		auto* month = GetKmkvItemStrValue(srcKmkv, "month");
 		if (month == nullptr) {
 			AllocAndSetString(srcKmkv.Add("month"), Array<char>::empty);
 			month = GetKmkvItemStrValue(srcKmkv, "month");
 		}
 		month->Clear();
-		month->Append(ToString("01")); // TODO calculate
+		month->Append(currentDate.monthString[0]);
+		month->Append(currentDate.monthString[1]);
 		auto* year = GetKmkvItemStrValue(srcKmkv, "year");
 		if (year == nullptr) {
 			AllocAndSetString(srcKmkv.Add("year"), Array<char>::empty);
 			year = GetKmkvItemStrValue(srcKmkv, "year");
 		}
 		year->Clear();
-		year->Append(ToString("2020")); // TODO calculate
+		year->Append(currentDate.yearString[0]);
+		year->Append(currentDate.yearString[1]);
+		year->Append(currentDate.yearString[2]);
+		year->Append(currentDate.yearString[3]);
 
 		DynamicArray<char> srcKmkvString;
 		if (!KmkvToString(srcKmkv, &srcKmkvString)) {
@@ -1177,7 +1284,12 @@ int main(int argc, char** argv)
 		DynamicArray<char> newKmkvPath;
 		newKmkvPath.Append(rootPath.ToArray());
 		newKmkvPath.Append(ToString("data/content/"));
-		newKmkvPath.Append(ToString("202001")); // TODO calculate
+		newKmkvPath.Append(currentDate.yearString[0]);
+		newKmkvPath.Append(currentDate.yearString[1]);
+		newKmkvPath.Append(currentDate.yearString[2]);
+		newKmkvPath.Append(currentDate.yearString[3]);
+		newKmkvPath.Append(currentDate.monthString[0]);
+		newKmkvPath.Append(currentDate.monthString[1]);
 		newKmkvPath.Append('/');
 		newKmkvPath.Append(name->ToArray());
 		newKmkvPath.Append(ToString(".kmkv"));
@@ -1198,8 +1310,8 @@ int main(int argc, char** argv)
 		}
 	});
 
-	serverDev.Post("/deleteEntry", [&rootPath, &allMetadataJson](const httplib::Request& req, httplib::Response& res) {
-		CHECK_AUTH_OR_ERROR(req, res);
+	serverDev.Post("/deleteEntry", [&rootPath, &allMetadataJson, &sessions](const auto& req, auto& res) {
+		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		Array<char> bodyJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
@@ -1233,8 +1345,8 @@ int main(int argc, char** argv)
 		}
 	});
 
-	serverDev.Post("/newImage", [&imageRootPath](const httplib::Request& req, httplib::Response& res) {
-		CHECK_AUTH_OR_ERROR(req, res);
+	serverDev.Post("/newImage", [&imageRootPath, &sessions](const auto& req, auto& res) {
+		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		if (!req.has_file("imageFile")) {
 			fprintf(stderr, "newImage request missing \"imageFile\"\n");
@@ -1364,18 +1476,19 @@ int main(int argc, char** argv)
 		res.set_content(responseXml.data, responseXml.size, "application/xml");
 	});
 
-	// serverDev.Post("/reset", [&rootPath](const httplib::Request& req, httplib::Response& res) {
+	// serverDev.Post("/reset", [&rootPath, &sessions](const auto& req, auto& res) {
+	// 	CHECK_AUTH_OR_ERROR(req, res, sessions);
 	// 	// TODO implement
 	// });
 
-	serverDev.Post("/commit", [&rootPath](const httplib::Request& req, httplib::Response& res) {
-		CHECK_AUTH_OR_ERROR(req, res);
+	serverDev.Post("/commit", [&rootPath, &sessions](const auto& req, auto& res) {
+		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		// TODO implement
 	});
 
-	serverDev.Post("/deploy", [&rootPath](const httplib::Request& req, httplib::Response& res) {
-		CHECK_AUTH_OR_ERROR(req, res);
+	serverDev.Post("/deploy", [&rootPath, &sessions](const auto& req, auto& res) {
+		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		// TODO implement
 	});
@@ -1406,6 +1519,7 @@ int main(int argc, char** argv)
 #undef STB_SPRINTF_IMPLEMENTATION
 #define UTF8PROC_STATIC
 #include <utf8proc.c>
+#include <xxhash.c>
 
 #undef GAME_SLOW
 #undef GAME_INTERNAL
