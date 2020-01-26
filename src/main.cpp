@@ -1,4 +1,5 @@
 #include <cassert>
+#include <ctime>
 #include <filesystem>
 #if SERVER_HTTPS
 #define CPPHTTPLIB_OPENSSL_SUPPORT
@@ -8,7 +9,6 @@
 #include <stb_sprintf.h>
 #include <stdio.h>
 #include <thread>
-#include <time.h>
 #include <xxhash.h>
 
 #include <km_common/km_defines.h>
@@ -1512,7 +1512,18 @@ int main(int argc, char** argv)
 		DynamicArray<DynamicArray<char>> cmds;
 		cmds.Append(ToString("git add -A"));
 		DynamicArray<char>* commitCmd = cmds.Append(ToString("git commit -m \""));
-		commitCmd->Append(ToString("Server commit, <timestamp>"));
+		commitCmd->Append(ToString("server commit @ "));
+		time_t t = time(NULL);
+		const tm* localTime = localtime(&t);
+		FixedArray<char, 128> buffer;
+		size_t written = strftime(buffer.data, 128, "%d-%m-%Y %H:%M:%S", localTime);
+		if (written == 0) {
+			fprintf(stderr, "strftime failed on commit request\n");
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		buffer.size = written;
+		commitCmd->Append(buffer.ToArray());
 		commitCmd->Append('"');
 		cmds.Append(ToString("git push"));
 		for (uint64 i = 0; i < cmds.size; i++) {
