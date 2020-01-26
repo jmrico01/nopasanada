@@ -614,8 +614,6 @@ bool ServerListen(ServerType& server, const char* host, int port)
 void GenerateSessionId(const Array<char>& username, const Array<char>& password,
 	DynamicArray<char, StandardAllocator>* outSessionId)
 {
-	EntryDate entryDate = GetCurrentDate();
-
 	outSessionId->Clear();
 	outSessionId->Append(username);
 	outSessionId->Append(password);
