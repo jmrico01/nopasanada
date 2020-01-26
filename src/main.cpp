@@ -936,6 +936,11 @@ int main(int argc, char** argv)
 		}
 	});
 
+	serverDev.Post("/authenticate", [&allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+		Array<char> bodyJson = ToString(req.body);
+		uint64 ind = bodyJson.FindFirst('=');
+	});
+
 	serverDev.Get("/entries", [&allMetadataJson](const httplib::Request& req, httplib::Response& res) {
 		CHECK_AUTH_OR_ERROR(req, res);
 

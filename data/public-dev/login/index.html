@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>No Pasa Nada</title>
+    <title>No Pasa Nada: Back-End</title>
 
     <link rel="stylesheet" type="text/css" href="../css/main.css">
     <link rel="stylesheet" type="text/css" href="../css/login.css">
@@ -16,13 +16,13 @@
 <body>
     <div id="content" style="margin-top: 24pt;">
         <h1>No Pasa Nada: Back-End</h1>
-        <form action="/authenticate" method="post">
+        <form action="/authenticate" method="post" enctype="application/x-www-form-urlencoded">
             <div>
                 <h3>Username</h3>
                 <input type="text" name="username"/>
             </div>
             <div>
-                <h3>Password:</h3>
+                <h3>Password</h3>
                 <input type="password" name="password"/>
             </div>
             <div>
