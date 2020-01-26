@@ -581,20 +581,30 @@ bool ServerListen(ServerType& server, const char* host, int port)
 	return true;
 }
 
+bool IsAuthenticated(const httplib::Request& req)
+{
+	if (!req.has_header("Cookie")) {
+		return false;
+	}
+	std::string cookieStdString = req.get_header_value("Cookie");
+	Array<char> cookie = ToString(cookieStdString);
+	if (!StringEquals(cookie, ToString("nomnom"))) {
+		return false;
+	}
+
+	return true;
+}
+
+#define CHECK_AUTH_OR_ERROR(request, response) if (!IsAuthenticated((request))) { \
+	(response).status = HTTP_STATUS_ERROR; \
+	return; }
+
 int main(int argc, char** argv)
 {
 #if SERVER_HTTPS
 	ServerType server(SERVER_CERT, SERVER_KEY);
 #else
 	ServerType server;
-#endif
-
-#if SERVER_DEV
-#if SERVER_HTTPS
-	ServerType serverDev(SERVER_CERT, SERVER_KEY);
-#else
-	ServerType serverDev;
-#endif
 #endif
 
 #if 0
@@ -913,15 +923,34 @@ int main(int argc, char** argv)
 	}
 
 #if SERVER_DEV
+#if SERVER_HTTPS
+	ServerType serverDev(SERVER_CERT, SERVER_KEY);
+#else
+	ServerType serverDev;
+#endif
+
+	serverDev.set_file_request_handler([](const httplib::Request& req, httplib::Response& res) {
+		if (req.path == "/" || req.path == "/entry/" && !IsAuthenticated(req)) {
+			res.set_redirect("/login/");
+			return;
+		}
+	});
+
 	serverDev.Get("/entries", [&allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+		CHECK_AUTH_OR_ERROR(req, res);
+
 		res.set_content(allMetadataJson.data, allMetadataJson.size, "application/json");
 	});
 
 	serverDev.Get("/featured", [&featuredJson](const httplib::Request& req, httplib::Response& res) {
+		CHECK_AUTH_OR_ERROR(req, res);
+
 		res.set_content(featuredJson.data, featuredJson.size, "application/json");
 	});
 
 	serverDev.Get("/previewSite", [](const httplib::Request& req, httplib::Response& res) {
+		CHECK_AUTH_OR_ERROR(req, res);
+
 		DynamicArray<char> responseJson;
 		responseJson.Append(ToString("{\"url\":\""));
 #if SERVER_HTTPS
@@ -938,6 +967,8 @@ int main(int argc, char** argv)
 	});
 
 	serverDev.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const httplib::Request& req, httplib::Response& res) {
+		CHECK_AUTH_OR_ERROR(req, res);
+
 		Array<char> uri = ToString(req.path);
 		if (uri[uri.size - 1] == '/') {
 			uri.RemoveLast();
@@ -978,6 +1009,8 @@ int main(int argc, char** argv)
 	});
 
 	serverDev.Post("/featured", [&rootPath, &featuredJson](const httplib::Request& req, httplib::Response& res) {
+		CHECK_AUTH_OR_ERROR(req, res);
+
 		Array<char> jsonString = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(jsonString, &defaultAllocator_, &kmkv)) {
@@ -1011,6 +1044,8 @@ int main(int argc, char** argv)
 	});
 
 	serverDev.Post("/content/[^/]+/.+", [&rootPath, &allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+		CHECK_AUTH_OR_ERROR(req, res);
+
 		Array<char> uri = ToString(req.path);
 		if (uri[uri.size - 1] == '/') {
 			uri.RemoveLast();
@@ -1058,6 +1093,8 @@ int main(int argc, char** argv)
 	});
 
 	serverDev.Post("/newEntry", [&rootPath, &allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+		CHECK_AUTH_OR_ERROR(req, res);
+
 		Array<char> bodyJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(bodyJson, &defaultAllocator_, &kmkv)) {
@@ -1157,6 +1194,8 @@ int main(int argc, char** argv)
 	});
 
 	serverDev.Post("/deleteEntry", [&rootPath, &allMetadataJson](const httplib::Request& req, httplib::Response& res) {
+		CHECK_AUTH_OR_ERROR(req, res);
+
 		Array<char> bodyJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(bodyJson, &defaultAllocator_, &kmkv)) {
@@ -1190,6 +1229,8 @@ int main(int argc, char** argv)
 	});
 
 	serverDev.Post("/newImage", [&imageRootPath](const httplib::Request& req, httplib::Response& res) {
+		CHECK_AUTH_OR_ERROR(req, res);
+
 		if (!req.has_file("imageFile")) {
 			fprintf(stderr, "newImage request missing \"imageFile\"\n");
 			res.status = HTTP_STATUS_ERROR;
@@ -1318,15 +1359,19 @@ int main(int argc, char** argv)
 		res.set_content(responseXml.data, responseXml.size, "application/xml");
 	});
 
-	serverDev.Post("/reset", [&rootPath](const httplib::Request& req, httplib::Response& res) {
-		// TODO implement
-	});
+	// serverDev.Post("/reset", [&rootPath](const httplib::Request& req, httplib::Response& res) {
+	// 	// TODO implement
+	// });
 
 	serverDev.Post("/commit", [&rootPath](const httplib::Request& req, httplib::Response& res) {
+		CHECK_AUTH_OR_ERROR(req, res);
+
 		// TODO implement
 	});
 
 	serverDev.Post("/deploy", [&rootPath](const httplib::Request& req, httplib::Response& res) {
+		CHECK_AUTH_OR_ERROR(req, res);
+
 		// TODO implement
 	});
 

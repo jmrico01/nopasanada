@@ -220,39 +220,39 @@ $(document).ready(function() {
         });
     });
 
-    $("#diffButton").click(function() {
-        $.get("/diff", function(data) {
-            let diffHtml = "<h1>DIFF</h1>";
-            for (let i = 0; i < data.length; i++) {
-                diffHtml += "<p>" + data[i].flag + " " + data[i].file + "</p>";
-            }
-            $(".modal").show();
-            $(".modal-content").html(diffHtml);
-        });
-    });
+    // $("#diffButton").click(function() {
+    //     $.get("/diff", function(data) {
+    //         let diffHtml = "<h1>DIFF</h1>";
+    //         for (let i = 0; i < data.length; i++) {
+    //             diffHtml += "<p>" + data[i].flag + " " + data[i].file + "</p>";
+    //         }
+    //         $(".modal").show();
+    //         $(".modal-content").html(diffHtml);
+    //     });
+    // });
 
-    $("#resetButton").click(function() {
-        if (!resetInProgress_) {
-            resetInProgress_ = true;
-            $("#statusMessage").html("Pulling and resetting...");
-            $.ajax({
-                type: "POST",
-                url: "/reset",
-                contentType: "application/text",
-                dataType: "text",
-                async: true,
-                data: "",
-                success: function(data) {
-                    window.location = '/';
-                    resetInProgress_ = false;
-                },
-                error: function(error) {
-                    window.location = '/';
-                    resetInProgress_ = false;
-                }
-            });
-        }
-    });
+    // $("#resetButton").click(function() {
+    //     if (!resetInProgress_) {
+    //         resetInProgress_ = true;
+    //         $("#statusMessage").html("Pulling and resetting...");
+    //         $.ajax({
+    //             type: "POST",
+    //             url: "/reset",
+    //             contentType: "application/text",
+    //             dataType: "text",
+    //             async: true,
+    //             data: "",
+    //             success: function(data) {
+    //                 window.location = '/';
+    //                 resetInProgress_ = false;
+    //             },
+    //             error: function(error) {
+    //                 window.location = '/';
+    //                 resetInProgress_ = false;
+    //             }
+    //         });
+    //     }
+    // });
 
     $("#commitButton").click(function() {
         if (!commitInProgress_) {
