@@ -1482,7 +1482,21 @@ int main(int argc, char** argv)
 	serverDev.Post("/commit", [&rootPath, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
-		// TODO implement
+		EntryDate currentDate = GetCurrentDate();
+		DynamicArray<DynamicArray<char>> cmds;
+		cmds.Append(ToString("git add -A"));
+		DynamicArray<char>* commitCmd = cmds.Append(ToString("git commit -m \""));
+		commitCmd->Append(ToString("Server commit, <timestamp>"));
+		commitCmd->Append('"');
+		cmds.Append(ToString("git push"));
+		for (uint64 i = 0; i < cmds.size; i++) {
+			if (!RunCommand(cmds[i].ToArray())) {
+				fprintf(stderr, "Failed to run \"%.*s\" on commit request\n",
+					(int)cmds[i].size, cmds[i].data);
+				res.status = HTTP_STATUS_ERROR;
+				return;
+			}
+		}
 	});
 
 	serverDev.Post("/deploy", [&rootPath, &sessions](const auto& req, auto& res) {
