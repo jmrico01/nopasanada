@@ -1482,7 +1482,7 @@ int main(int argc, char** argv)
 
 		DynamicArray<DynamicArray<char>> cmds;
 		cmds.Append(ToString("git pull"));
-		// cmds.Append(ToString("pm2 restart npn")); // TODO restart process
+		cmds.Append(ToString("sudo systemctl restart npn-dev")); // Aaah! Suicide!
 		for (uint64 i = 0; i < cmds.size; i++) {
 			if (!RunCommand(cmds[i].ToArray())) {
 				fprintf(stderr, "Failed to run \"%.*s\" on commit request\n",
@@ -1547,7 +1547,7 @@ int main(int argc, char** argv)
 		DynamicArray<DynamicArray<char>> cmds;
 		cmds.Append(ToString("cd ../nopasanada"));
 		cmds.Append(ToString("git pull"));
-		// cmds.Append(ToString("pm2 restart npn")); // TODO restart process
+		cmds.Append(ToString("sudo systemctl restart npn"));
 		for (uint64 i = 0; i < cmds.size; i++) {
 			if (!RunCommand(cmds[i].ToArray())) {
 				fprintf(stderr, "Failed to run \"%.*s\" on deploy request\n",
