@@ -391,8 +391,8 @@ $(document).ready(async function() {
         paste_as_text: true,
         font_formats: "Default (Futura)=FuturaPTBook;",
         content_css: [
-            "https://nopasanada.com/css/global.css",
-            "https://nopasanada.com/css/article.css"
+            previewUrl_ + "/css/global.css",
+            previewUrl_ + "/css/article.css"
         ],
     }).then(function(editors) {
         editors_ = {};
