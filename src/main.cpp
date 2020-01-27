@@ -637,9 +637,16 @@ bool IsAuthenticated(const httplib::Request& req, const DynamicArray<DynamicArra
 		return false;
 	}
 	std::string cookieStdString = req.get_header_value("Cookie");
-	Array<char> cookie = ToString(cookieStdString);
+	Array<char> cookieString = ToString(cookieStdString);
+	uint64 sessionInd = SubstringSearch(cookieString, ToString("npn_session="));
+	if (sessionInd == cookieString.size) {
+		return false;
+	}
+	uint64 sessionStart = cookieString.FindFirst('=', sessionInd);
+	uint64 sessionEnd = cookieString.FindFirst(';', sessionInd);
+	Array<char> session = cookieString.Slice(sessionStart + 1, sessionEnd);
 	for (uint64 i = 0; i < sessions.size; i++) {
-		if (StringEquals(cookie, sessions[i].ToArray())) {
+		if (StringEquals(session, sessions[i].ToArray())) {
 			return true;
 		}
 	}
@@ -1032,13 +1039,16 @@ int main(int argc, char** argv)
 		Array<char> password = bodyJson.SliceFrom(indEqual + 1);
 
 		if (IsLoginValid(username, password, loginsKmkv)) {
+			printf("Successful log in: %.*s\n", (int)username.size, username.data);
 			DynamicArray<char>* newSession = sessions.Append();
 			GenerateSessionId(username, password, newSession);
-			std::string newSessionStdString(newSession->data, newSession->size);
-			res.set_header("Set-Cookie", newSessionStdString);
+			std::string newSessionStd(newSession->data, newSession->size);
+			// TODO global definition of "npn_session" cookie name
+			res.set_header("Set-Cookie", std::string("npn_session=") + newSessionStd);
 			res.set_redirect("/");
 		}
 		else {
+			printf("Failed log in: %.*s\n", (int)username.size, username.data);
 			res.set_redirect("/login/");
 		}
 	});
