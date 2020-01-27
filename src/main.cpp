@@ -1471,7 +1471,7 @@ int main(int argc, char** argv)
 	});
 
 	bool resetInProgress = false;
-	serverDev.Post("/reset", [&sessions, &resetInProgress](const auto& req, auto& res) {
+	serverDev.Post("/reset", [&rootPath, &sessions, &resetInProgress](const auto& req, auto& res) {
 		// TODO poor man's lock, lmao... sad
 		if (resetInProgress) {
 			return;
@@ -1484,9 +1484,14 @@ int main(int argc, char** argv)
 		cmds.Append(ToString("git pull"));
 		cmds.Append(ToString("sudo systemctl restart npn-dev")); // Aaah! Suicide!
 		for (uint64 i = 0; i < cmds.size; i++) {
-			if (!RunCommand(cmds[i].ToArray())) {
+			DynamicArray<char> command;
+			command.Append(ToString("cd "));
+			command.Append(rootPath.ToArray());
+			command.Append(ToString(" && "));
+			command.Append(cmds[i].ToArray());
+			if (!RunCommand(command.ToArray())) {
 				fprintf(stderr, "Failed to run \"%.*s\" on commit request\n",
-					(int)cmds[i].size, cmds[i].data);
+					(int)command.size, command.data);
 				res.status = HTTP_STATUS_ERROR;
 				return;
 			}
@@ -1496,7 +1501,7 @@ int main(int argc, char** argv)
 	});
 
 	bool commitInProgress = false;
-	serverDev.Post("/commit", [&sessions, &commitInProgress](const auto& req, auto& res) {
+	serverDev.Post("/commit", [&rootPath, &sessions, &commitInProgress](const auto& req, auto& res) {
 		// TODO poor man's lock, lmao... sad
 		if (commitInProgress) {
 			return;
@@ -1507,7 +1512,7 @@ int main(int argc, char** argv)
 
 		DynamicArray<DynamicArray<char>> cmds;
 		cmds.Append(ToString("git add -A"));
-		DynamicArray<char>* commitCmd = cmds.Append(ToString("git commit -m \""));
+		auto* commitCmd = cmds.Append(ToString("git commit -m \""));
 		commitCmd->Append(ToString("server commit @ "));
 		time_t t = time(NULL);
 		const tm* localTime = localtime(&t);
@@ -1523,9 +1528,14 @@ int main(int argc, char** argv)
 		commitCmd->Append('"');
 		cmds.Append(ToString("git push"));
 		for (uint64 i = 0; i < cmds.size; i++) {
-			if (!RunCommand(cmds[i].ToArray())) {
+			DynamicArray<char> command;
+			command.Append(ToString("cd "));
+			command.Append(rootPath.ToArray());
+			command.Append(ToString(" && "));
+			command.Append(cmds[i].ToArray());
+			if (!RunCommand(command.ToArray())) {
 				fprintf(stderr, "Failed to run \"%.*s\" on commit request\n",
-					(int)cmds[i].size, cmds[i].data);
+					(int)command.size, command.data);
 				res.status = HTTP_STATUS_ERROR;
 				return;
 			}
@@ -1535,7 +1545,7 @@ int main(int argc, char** argv)
 	});
 
 	bool deployInProgress = false;
-	serverDev.Post("/deploy", [&sessions, &deployInProgress](const auto& req, auto& res) {
+	serverDev.Post("/deploy", [&rootPath, &sessions, &deployInProgress](const auto& req, auto& res) {
 		// TODO poor man's lock, lmao... sad
 		if (deployInProgress) {
 			return;
@@ -1545,13 +1555,17 @@ int main(int argc, char** argv)
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		DynamicArray<DynamicArray<char>> cmds;
-		cmds.Append(ToString("cd ../nopasanada"));
-		cmds.Append(ToString("git pull"));
+		cmds.Append(ToString("cd ../nopasanada && git pull"));
 		cmds.Append(ToString("sudo systemctl restart npn"));
 		for (uint64 i = 0; i < cmds.size; i++) {
-			if (!RunCommand(cmds[i].ToArray())) {
-				fprintf(stderr, "Failed to run \"%.*s\" on deploy request\n",
-					(int)cmds[i].size, cmds[i].data);
+			DynamicArray<char> command;
+			command.Append(ToString("cd "));
+			command.Append(rootPath.ToArray());
+			command.Append(ToString(" && "));
+			command.Append(cmds[i].ToArray());
+			if (!RunCommand(command.ToArray())) {
+				fprintf(stderr, "Failed to run \"%.*s\" on commit request\n",
+					(int)command.size, command.data);
 				res.status = HTTP_STATUS_ERROR;
 				return;
 			}
