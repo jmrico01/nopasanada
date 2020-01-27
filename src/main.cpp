@@ -1545,8 +1545,6 @@ int main(int argc, char** argv)
 				return;
 			}
 		}
-
-		deployInProgress = false;
 	});
 
 	publicPath = rootPath;
@@ -1600,3 +1598,4 @@ int main(int argc, char** argv)
 #include <km_common/km_memory.cpp>
 #include <km_common/km_os.cpp>
 #include <km_common/km_string.cpp>
+
