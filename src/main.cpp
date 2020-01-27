@@ -17,6 +17,8 @@
 #include <km_common/km_os.h>
 #include <km_common/km_string.h>
 
+#include "settings.h"
+
 global_var const int HTTP_STATUS_ERROR = 500;
 
 // global_var const Array<char> IMAGE_BASE_URL = ToString("https://nopasanada.s3.amazonaws.com");
@@ -1469,7 +1471,7 @@ int main(int argc, char** argv)
 	});
 
 	bool resetInProgress = false;
-	serverDev.Post("/reset", [&rootPath, &sessions, &resetInProgress](const auto& req, auto& res) {
+	serverDev.Post("/reset", [&sessions, &resetInProgress](const auto& req, auto& res) {
 		// TODO poor man's lock, lmao... sad
 		if (resetInProgress) {
 			return;
@@ -1494,7 +1496,7 @@ int main(int argc, char** argv)
 	});
 
 	bool commitInProgress = false;
-	serverDev.Post("/commit", [&rootPath, &sessions, &commitInProgress](const auto& req, auto& res) {
+	serverDev.Post("/commit", [&sessions, &commitInProgress](const auto& req, auto& res) {
 		// TODO poor man's lock, lmao... sad
 		if (commitInProgress) {
 			return;
@@ -1509,15 +1511,15 @@ int main(int argc, char** argv)
 		commitCmd->Append(ToString("server commit @ "));
 		time_t t = time(NULL);
 		const tm* localTime = localtime(&t);
-		FixedArray<char, 128> buffer;
-		size_t written = strftime(buffer.data, 128, "%d-%m-%Y %H:%M:%S", localTime);
+		char buffer[128];
+		size_t written = strftime(buffer, 128, "%d-%m-%Y %H:%M:%S", localTime);
 		if (written == 0) {
 			fprintf(stderr, "strftime failed on commit request\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		buffer.size = written;
-		commitCmd->Append(buffer.ToArray());
+		Array<char> timestamp = { .size = written, .data = buffer };
+		commitCmd->Append(timestamp);
 		commitCmd->Append('"');
 		cmds.Append(ToString("git push"));
 		for (uint64 i = 0; i < cmds.size; i++) {
@@ -1533,7 +1535,7 @@ int main(int argc, char** argv)
 	});
 
 	bool deployInProgress = false;
-	serverDev.Post("/deploy", [&rootPath, &sessions, &deployInProgress](const auto& req, auto& res) {
+	serverDev.Post("/deploy", [&sessions, &deployInProgress](const auto& req, auto& res) {
 		// TODO poor man's lock, lmao... sad
 		if (deployInProgress) {
 			return;

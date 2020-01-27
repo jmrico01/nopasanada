@@ -2,6 +2,7 @@ build
 compile/env_settings.py
 deploy
 keys
+src/settings.h
 
 .DS_Store
 .clang_complete
