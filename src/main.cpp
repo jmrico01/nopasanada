@@ -801,6 +801,7 @@ int main(int argc, char** argv)
 		dateString.Append(entryData.date.dayString[1]);
 		dateString.Append(ToString(" DE "));
 		dateString.Append(ToString(MONTH_NAMES[entryData.date.monthInt - 1]));
+		// TODO subtext things for "text" type entries are grabbed directly from "subtext1" and "subtext2"
 		if (entryData.type == EntryType::NEWSLETTER) {
 			templateItems.Add("subtextRight1", dateString.ToArray());
 			templateItems.Add("subtextRight2", dateString.ToArray());
