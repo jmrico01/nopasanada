@@ -23,15 +23,9 @@ global_var const int HTTP_STATUS_ERROR = 500;
 global_var const Array<char> IMAGE_BASE_URL = ToString("../../..");
 
 #if SERVER_HTTPS
-
 typedef httplib::SSLServer ServerType;
-global_var const char* SERVER_CERT   = "/mnt/c/Users/jmric/Documents/Development/ssl/server.crt";
-global_var const char* SERVER_KEY    = "/mnt/c/Users/jmric/Documents/Development/ssl/server.key";
-
 #else
-
 typedef httplib::Server ServerType;
-
 #endif
 
 enum class EntryType
