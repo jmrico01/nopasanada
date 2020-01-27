@@ -1470,14 +1470,7 @@ int main(int argc, char** argv)
 		res.set_content(responseXml.data, responseXml.size, "application/xml");
 	});
 
-	bool resetInProgress = false;
-	serverDev.Post("/reset", [&rootPath, &sessions, &resetInProgress](const auto& req, auto& res) {
-		// TODO poor man's lock, lmao... sad
-		if (resetInProgress) {
-			return;
-		}
-		resetInProgress = true;
-
+	serverDev.Post("/reset", [&rootPath, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		DynamicArray<DynamicArray<char>> cmds;
@@ -1496,18 +1489,9 @@ int main(int argc, char** argv)
 				return;
 			}
 		}
-
-		resetInProgress = false;
 	});
 
-	bool commitInProgress = false;
-	serverDev.Post("/commit", [&rootPath, &sessions, &commitInProgress](const auto& req, auto& res) {
-		// TODO poor man's lock, lmao... sad
-		if (commitInProgress) {
-			return;
-		}
-		commitInProgress = true;
-
+	serverDev.Post("/commit", [&rootPath, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		DynamicArray<DynamicArray<char>> cmds;
@@ -1540,18 +1524,9 @@ int main(int argc, char** argv)
 				return;
 			}
 		}
-
-		commitInProgress = false;
 	});
 
-	bool deployInProgress = false;
-	serverDev.Post("/deploy", [&rootPath, &sessions, &deployInProgress](const auto& req, auto& res) {
-		// TODO poor man's lock, lmao... sad
-		if (deployInProgress) {
-			return;
-		}
-		deployInProgress = true;
-
+	serverDev.Post("/deploy", [&rootPath, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		DynamicArray<DynamicArray<char>> cmds;
