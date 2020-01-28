@@ -7,10 +7,10 @@ media{kmkv} {
 tags{array} 
 title Historias
 description Nos han dicho que el protector solar que dejamos detrás en el mar contribuye al blaqueamiento de los corales, pero los científicos no están del todo convencidos.
-subtext1 {
+subtextLeft {
 Fecha límite: Oct 20
 }
-subtext2 {
+subtextRight {
 Tema: Historias que tienen lugar en latinoamérica
 }
 day 25

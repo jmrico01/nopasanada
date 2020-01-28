@@ -87,6 +87,8 @@ struct EntryData
 	DynamicArray<char> color;
 	DynamicArray<char> subtitle;
 	DynamicArray<char> author;
+	DynamicArray<char> subtextLeft;
+	DynamicArray<char> subtextRight;
 	DynamicArray<char> text;
 
 	DynamicArray<char> videoID;
@@ -310,6 +312,14 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	const auto* author = GetKmkvItemStrValue(outEntryData->kmkv, "author");
 	if (author != nullptr) {
 		outEntryData->author = *author;
+	}
+	const auto* subtextLeft = GetKmkvItemStrValue(outEntryData->kmkv, "subtextLeft");
+	if (subtextLeft != nullptr) {
+		outEntryData->subtextLeft = *subtextLeft;
+	}
+	const auto* subtextRight = GetKmkvItemStrValue(outEntryData->kmkv, "subtextRight");
+	if (subtextRight != nullptr) {
+		outEntryData->subtextRight = *subtextRight;
 	}
 	const auto* text = GetKmkvItemStrValue(outEntryData->kmkv, "text");
 	if (text == nullptr && outEntryData->type != EntryType::NEWSLETTER) {
@@ -808,6 +818,9 @@ int main(int argc, char** argv)
 			templateItems.Add("subtextRight3", dateString.ToArray());
 			templateItems.Add("subtextRight4", dateString.ToArray());
 		}
+		else if (entryData.type == EntryType::TEXT) {
+			templateItems.Add("subtextRight", entryData.subtextRight.ToArray());
+		}
 		else {
 			templateItems.Add("subtextRight", dateString.ToArray());
 		}
@@ -867,7 +880,12 @@ int main(int argc, char** argv)
 				res.status = HTTP_STATUS_ERROR;
 				return;
 			}
-			templateItems.Add("subtextLeft", authorString.ToArray());
+			if (entryData.type == EntryType::TEXT) {
+				templateItems.Add("subtextLeft", entryData.subtextLeft.ToArray());
+			}
+			else {
+				templateItems.Add("subtextLeft", authorString.ToArray());
+			}
 			templateItems.Add("text", entryData.text.ToArray());
 		}
 

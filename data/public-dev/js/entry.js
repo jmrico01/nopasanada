@@ -92,6 +92,8 @@ function LoadEntryData(entryData)
     document.getElementsByName("color")[0].value = entryData.color;
 
     document.getElementsByName("author")[0].value = entryData.author;
+    document.getElementsByName("subtextLeft")[0].value = entryData.subtextLeft;
+    document.getElementsByName("subtextRight")[0].value = entryData.subtextRight;
     document.getElementsByName("youtubeID")[0].value = entryData.videoID === undefined ? "" : entryData.videoID;
 
     document.getElementsByName("customTop")[0].value = entryData.customTop === undefined ? "" : entryData.customTop;
@@ -176,6 +178,7 @@ function SaveEntryData()
         media[image.name] = image.uri;
     }
 
+    // TODO make some of these optional? eh
     let entryData = {
         type: document.getElementById("contentType").value,
         featured: {
@@ -186,35 +189,37 @@ function SaveEntryData()
             highlightColor: document.getElementsByName("highlightColor")[0].value
         },
 
-        media:       media,
+        media:        media,
 
-        tags:        tags,
+        tags:         tags,
 
-        title:       document.getElementsByName("title")[0].value,
-        titlePoster: document.getElementsByName("titlePoster")[0].value,
-        description: document.getElementsByName("description")[0].value,
-        day:         dateSplit[0],
-        month:       dateSplit[1],
-        year:        dateSplit[2],
-        color:       document.getElementsByName("color")[0].value,
+        title:        document.getElementsByName("title")[0].value,
+        titlePoster:  document.getElementsByName("titlePoster")[0].value,
+        description:  document.getElementsByName("description")[0].value,
+        day:          dateSplit[0],
+        month:        dateSplit[1],
+        year:         dateSplit[2],
+        color:        document.getElementsByName("color")[0].value,
 
-        author:      document.getElementsByName("author")[0].value,
-        videoID:     document.getElementsByName("youtubeID")[0].value,
-        customTop:   document.getElementsByName("customTop")[0].value,
-        title1:      document.getElementsByName("title1")[0].value,
-        author1:     document.getElementsByName("author1")[0].value,
-        text1:       editors_["text1"].getContent(),
-        title2:      document.getElementsByName("title2")[0].value,
-        author2:     document.getElementsByName("author2")[0].value,
-        text2:       editors_["text2"].getContent(),
-        title3:      document.getElementsByName("title3")[0].value,
-        author3:     document.getElementsByName("author3")[0].value,
-        text3:       editors_["text3"].getContent(),
-        title4:      document.getElementsByName("title4")[0].value,
-        author4:     document.getElementsByName("author4")[0].value,
-        text4:       editors_["text4"].getContent(),
-        subtitle:    document.getElementsByName("subtitle")[0].value,
-        text:        editors_["text"].getContent(),
+        author:       document.getElementsByName("author")[0].value,
+        subtextLeft:  document.getElementsByName("subtextLeft")[0].value,
+        subtextRight: document.getElementsByName("subtextLeft")[0].value,
+        videoID:      document.getElementsByName("youtubeID")[0].value,
+        customTop:    document.getElementsByName("customTop")[0].value,
+        title1:       document.getElementsByName("title1")[0].value,
+        author1:      document.getElementsByName("author1")[0].value,
+        text1:        editors_["text1"].getContent(),
+        title2:       document.getElementsByName("title2")[0].value,
+        author2:      document.getElementsByName("author2")[0].value,
+        text2:        editors_["text2"].getContent(),
+        title3:       document.getElementsByName("title3")[0].value,
+        author3:      document.getElementsByName("author3")[0].value,
+        text3:        editors_["text3"].getContent(),
+        title4:       document.getElementsByName("title4")[0].value,
+        author4:      document.getElementsByName("author4")[0].value,
+        text4:        editors_["text4"].getContent(),
+        subtitle:     document.getElementsByName("subtitle")[0].value,
+        text:         editors_["text"].getContent(),
     };
 
     for (let k in entryData) {
