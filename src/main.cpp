@@ -21,6 +21,8 @@
 
 global_var const int HTTP_STATUS_ERROR = 500;
 
+global_var const char* LOGIN_SESSION_COOKIE = "npn_session=";
+
 // global_var const Array<char> IMAGE_BASE_URL = ToString("https://nopasanada.s3.amazonaws.com");
 global_var const Array<char> IMAGE_BASE_URL = ToString("../../..");
 
@@ -648,7 +650,7 @@ bool IsAuthenticated(const httplib::Request& req, const DynamicArray<DynamicArra
 	}
 	std::string cookieStdString = req.get_header_value("Cookie");
 	Array<char> cookieString = ToString(cookieStdString);
-	uint64 sessionInd = SubstringSearch(cookieString, ToString("npn_session="));
+	uint64 sessionInd = SubstringSearch(cookieString, ToString(LOGIN_SESSION_COOKIE));
 	if (sessionInd == cookieString.size) {
 		return false;
 	}
@@ -811,7 +813,6 @@ int main(int argc, char** argv)
 		dateString.Append(entryData.date.dayString[1]);
 		dateString.Append(ToString(" DE "));
 		dateString.Append(ToString(MONTH_NAMES[entryData.date.monthInt - 1]));
-		// TODO subtext things for "text" type entries are grabbed directly from "subtext1" and "subtext2"
 		if (entryData.type == EntryType::NEWSLETTER) {
 			templateItems.Add("subtextRight1", dateString.ToArray());
 			templateItems.Add("subtextRight2", dateString.ToArray());
@@ -1062,8 +1063,7 @@ int main(int argc, char** argv)
 			DynamicArray<char>* newSession = sessions.Append();
 			GenerateSessionId(username, password, newSession);
 			std::string newSessionStd(newSession->data, newSession->size);
-			// TODO global definition of "npn_session" cookie name
-			res.set_header("Set-Cookie", std::string("npn_session=") + newSessionStd);
+			res.set_header("Set-Cookie", std::string(LOGIN_SESSION_COOKIE) + newSessionStd);
 			res.set_redirect("/");
 		}
 		else {
