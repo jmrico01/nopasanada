@@ -12,7 +12,7 @@ let allEntries_ = null;
 let featuredEntries_ = null;
 let loadedEntries_ = null;
 
-let entryTemplate_ = null;
+let posterTemplate_ = null;
 let postersPerScreen_ = 5;
 let posterPositionIndex_ = 0;
 
@@ -145,7 +145,7 @@ function SetPosterContentWidth(entries)
 
 function ResetPosters(entries)
 {
-    if (entryTemplate_ === null) {
+    if (posterTemplate_ === null) {
         return;
     }
 
@@ -157,7 +157,7 @@ function ResetPosters(entries)
     for (let i = 0; i < entries.length; i++) {
         let entryData = entries[i];
 
-        let $entry = $(entryTemplate_);
+        let $entry = $(posterTemplate_);
         $entry.find("a").attr("href", entryData.uri);
         $entry.find("img").attr("src", IMAGE_BASE_URL + entryData.image);
         $entry.find(".entryNumber").html(i + 1 + ".");
@@ -259,70 +259,104 @@ function OnHashChanged()
     }
 }
 
+function LoadFeaturedEntries(featured)
+{
+    featuredEntries_ = {};
+    for (let category in featured) {
+        const uri = featured[category];
+        for (let i = 0; i < allEntries_.length; i++) {
+            if (allEntries_[i].uri === uri) {
+                featuredEntries_[category] = allEntries_[i].featuredInfo;
+                featuredEntries_[category].uri = uri;
+                break;
+            }
+        }
+    }
+
+    // TODO load these in a non-stupid way plz
+    let totalImages = 0;
+    for (let key in featuredEntries_) {
+        let imgClass = "featuredImage-" + key;
+        for (let i = 0; i < featuredEntries_[key].images.length; i++) {
+            let imgId = imgClass + "-" + i;
+            let imgPath = IMAGE_BASE_URL + featuredEntries_[key].images[i];
+            $("#landingImageCycler").append("<img id=\"" + imgId + "\" class=\"featuredImage " + imgClass + "\" src=\"" + imgPath + "\">");
+            totalImages += 1;
+        }
+    }
+
+    let loadedImages = 0;
+    $(".featuredImage").hide();
+    $(".featuredImage").on("load", function() {
+        loadedImages += 1;
+        if (loadedImages === totalImages) {
+            allImagesLoaded_ = true;
+            $(".featuredImage").show();
+            OnResize();
+            OnHashChanged();
+        }
+    });
+}
+
 window.onhashchange = OnHashChanged;
 
 $(document).ready(function() {
-    entryTemplate_ = $("#entryTemplate").html();
-    $("#entryTemplate").remove();
+    posterTemplate_ = $("#posterTemplate").html();
+    $("#posterTemplate").remove();
 
-    $.get("/entries", {}, function(data, status) {
-        if (status !== "success") {
-            console.error("Failed to load entries");
-            return;
-        }
+    let entriesLoaded = false;
+    let featured = null;
 
-        allEntries_ = data;
-        featuredEntries_ = {};
-        loadedEntries_ = [];
-        let currentCategory = GetCurrentCategory();
-        for (let i = 0; i < allEntries_.length; i++) {
-            allEntries_[i].title = allEntries_[i].title.toUpperCase();
-            let entryTags = allEntries_[i].tags;
-            for (let j = 0; j < entryTags.length; j++) {
-                if (entryTags[j] === currentCategory) {
-                    loadedEntries_.push(allEntries_[i]);
-                }
-            }
-        }
-
-        ResetPosters(loadedEntries_);
-
-        $.get("/featured", function(data, status) {
-            for (let category in data) {
-                const uri = data[category];
-                for (let i = 0; i < allEntries_.length; i++) {
-                    if (allEntries_[i].uri === uri) {
-                        featuredEntries_[category] = allEntries_[i].featuredInfo;
-                        featuredEntries_[category].uri = uri;
-                        break;
+    $.ajax({
+        type: "GET",
+        url: "/entries",
+        contentType: "application/json",
+        dataType: "json",
+        async: true,
+        data: "",
+        success: function(data) {
+            allEntries_ = data;
+            loadedEntries_ = [];
+            let currentCategory = GetCurrentCategory();
+            for (let i = 0; i < allEntries_.length; i++) {
+                allEntries_[i].title = allEntries_[i].title.toUpperCase();
+                let entryTags = allEntries_[i].tags;
+                for (let j = 0; j < entryTags.length; j++) {
+                    if (entryTags[j] === currentCategory) {
+                        loadedEntries_.push(allEntries_[i]);
                     }
                 }
             }
-            console.log(featuredEntries_);
 
-            let totalImages = 0;
-            for (let key in featuredEntries_) {
-                let imgClass = "featuredImage-" + key;
-                for (let i = 0; i < featuredEntries_[key].images.length; i++) {
-                    let imgId = imgClass + "-" + i;
-                    let imgPath = IMAGE_BASE_URL + featuredEntries_[key].images[i];
-                    $("#landingImageCycler").append("<img id=\"" + imgId + "\" class=\"featuredImage " + imgClass + "\" src=\"" + imgPath + "\">");
-                    totalImages += 1;
-                }
+            ResetPosters(loadedEntries_);
+            entriesLoaded = true;
+
+            if (featured !== null) {
+                LoadFeaturedEntries(featured);
             }
+        },
+        error: function(error) {
+            console.error(error);
+        }
+    });
 
-            let loadedImages = 0;
-            $(".featuredImage").hide();
-            $(".featuredImage").on("load", function() {
-                loadedImages += 1;
-                if (loadedImages === totalImages) {
-                    allImagesLoaded_ = true;
-                    $(".featuredImage").show();
-                    OnResize();
-                    OnHashChanged();
-                }
-            });
-        });
+    $.ajax({
+        type: "GET",
+        url: "/featured",
+        contentType: "application/json",
+        dataType: "json",
+        async: true,
+        data: "",
+        success: function(data) {
+            if (entriesLoaded) {
+                LoadFeaturedEntries(data);
+                return;
+            }
+            featured = data;
+        },
+        error: function(error) {
+            console.error(error);
+        }
     });
 
     $("#contentArrowLeftButton").on("click", function() {

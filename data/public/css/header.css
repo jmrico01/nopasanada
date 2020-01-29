@@ -40,7 +40,7 @@
 #headerCategories {
     position: absolute;
     left: 24.95vw;
-    right: 5.9vw;
+    right: 0;
     top: 2.92vw;
 }
 
@@ -48,15 +48,11 @@
     font-family: FuturaPTDemi, sans-serif;
     font-size: 1.15vw;
     line-height: 1.2vw;
-    width: 9.375vw;
+    padding-right: 3.2vw;
 
     float: left;
 }
 .headerCategory a {
     display: block;
     height: 100%;
-}
-
-#categoryRight {
-    float: right;
 }
