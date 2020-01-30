@@ -8,6 +8,9 @@ const IMAGE_ANIM_MS = 250;
 
 const HOMEPAGE_CATEGORY = "home";
 
+let featuredImages_ = null;
+let posterImages_ = null;
+
 let allEntries_ = null;
 let featuredEntries_ = null;
 let loadedEntries_ = null;
@@ -273,29 +276,33 @@ function LoadFeaturedEntries(featured)
         }
     }
 
-    // TODO load these in a non-stupid way plz
-    let totalImages = 0;
-    for (let key in featuredEntries_) {
-        let imgClass = "featuredImage-" + key;
-        for (let i = 0; i < featuredEntries_[key].images.length; i++) {
-            let imgId = imgClass + "-" + i;
-            let imgPath = IMAGE_BASE_URL + featuredEntries_[key].images[i];
-            $("#landingImageCycler").append("<img id=\"" + imgId + "\" class=\"featuredImage " + imgClass + "\" src=\"" + imgPath + "\">");
-            totalImages += 1;
-        }
+    featuredImages_ = {};
+    let categoryToLoad = HOMEPAGE_CATEGORY;
+    if (featuredImages_.hasOwnProperty(categoryToLoad)) {
+        return;
+    }
+    featuredImages_[categoryToLoad] = [];
+    for (let i = 0; i < featuredEntries_[categoryToLoad].images.length; i++) {
+        let imgUrl = IMAGE_BASE_URL + featuredEntries_[categoryToLoad].images[i];
+        let img = new Image;
+        img.onload = function() {
+            console.log("loaded image " + imgUrl);
+        };
+        img.src = imgUrl;
+        featuredImages_[categoryToLoad].push(img);
     }
 
-    let loadedImages = 0;
-    $(".featuredImage").hide();
-    $(".featuredImage").on("load", function() {
-        loadedImages += 1;
-        if (loadedImages === totalImages) {
-            allImagesLoaded_ = true;
-            $(".featuredImage").show();
-            OnResize();
-            OnHashChanged();
-        }
-    });
+    // let loadedImages = 0;
+    // $(".featuredImage").hide();
+    // $(".featuredImage").on("load", function() {
+    //     loadedImages += 1;
+    //     if (loadedImages === totalImages) {
+    //         allImagesLoaded_ = true;
+    //         $(".featuredImage").show();
+    //         OnResize();
+    //         OnHashChanged();
+    //     }
+    // });
 }
 
 window.onhashchange = OnHashChanged;
