@@ -505,19 +505,15 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		AllocAndSetString(metadataKmkv.Add("uri"), uri);
 		AllocAndSetString(metadataKmkv.Add("type"), entryData.typeString.ToArray());
 		AllocAndSetString(metadataKmkv.Add("tags"), Array<char>::empty);
+		metadataKmkv.GetValue("tags")->keywordTag.Append(ToString("array"));
 		auto& tagsString = *GetKmkvItemStrValue(metadataKmkv, "tags");
-		tagsString.Append('[');
 		for (uint64 i = 0; i < entryData.tags.size; i++) {
-			tagsString.Append('"');
 			tagsString.Append(entryData.tags[i].ToArray());
-			tagsString.Append('"');
 			tagsString.Append(',');
 		}
 		if (entryData.tags.size > 0) {
 			tagsString.RemoveLast();
 		}
-		tagsString.Append(']');
-		metadataKmkv.GetValue("tags")->keywordTag.Append(ToString("array"));
 		AllocAndSetString(metadataKmkv.Add("title"), entryData.title.ToArray());
 		DynamicArray<char> dateString;
 		dateString.Append(entryData.date.yearString[0]);
@@ -551,13 +547,9 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 
 		// TODO look up "featured1" ... "featuredN" in entry media and use that if present
 		AllocAndSetString(featuredKmkv.Add("images"), Array<char>::empty);
-		auto& featuredImagesString = *GetKmkvItemStrValue(featuredKmkv, "images");
-		featuredImagesString.Append('[');
-		featuredImagesString.Append('"');
-		featuredImagesString.Append(entryData.header.ToArray());
-		featuredImagesString.Append('"');
-		featuredImagesString.Append(']');
 		featuredKmkv.GetValue("images")->keywordTag.Append(ToString("array"));
+		auto& featuredImagesString = *GetKmkvItemStrValue(featuredKmkv, "images");
+		featuredImagesString.Append(entryData.header.ToArray());
 	}
 
 	DynamicArray<HashTable<KmkvItem<StandardAllocator>>*> metadataKmkvPtrs(metadataKmkvs.size);
@@ -1109,22 +1101,6 @@ int main(int argc, char** argv)
 			return;
 		}
 		defer(FreeKmkv(entryData.kmkv));
-
-		auto& tagsString = *GetKmkvItemStrValue(entryData.kmkv, "tags");
-		// TODO should this happen automatically when keywordTag == "array" ?
-		tagsString.Clear();
-		tagsString.Append('[');
-		for (uint64 i = 0; i < entryData.tags.size; i++) {
-			tagsString.Append('"');
-			tagsString.Append(entryData.tags[i].ToArray());
-			tagsString.Append('"');
-			tagsString.Append(',');
-		}
-		if (entryData.tags.size > 0) {
-			tagsString.RemoveLast();
-		}
-		tagsString.Append(']');
-		// entryData.kmkv.GetValue("tags")->keywordTag.Append(ToString("array"));
 
 		DynamicArray<char> entryJson;
 		if (!KmkvToJson(entryData.kmkv, &entryJson)) {
