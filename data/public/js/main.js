@@ -21,7 +21,6 @@ let posterPositionIndex_ = 0;
 
 let prevCategory_ = null;
 let imgCycleInterval_ = null;
-let allImagesLoaded_ = false;
 
 function GetCurrentCategory()
 {
@@ -39,26 +38,6 @@ function GetCurrentCategory()
     return HOMEPAGE_CATEGORY;
 }
 
-function AreImagesLoaded(category, featuredIndex)
-{
-    if (featuredIndex >= featuredImages_[category].length) {
-        console.error("AreImagesLoaded: featuredIndex " + featuredIndex
-            + " out of bounds for category " + category);
-        return false;
-    }
-
-    const imageSet = featuredImages_[category][featuredIndex];
-    if (imageSet.length === 0) {
-        return false;
-    }
-    for (let i = 0; i < imageSet.length; i++) {
-        if (!imageSet[i].hasOwnProperty("loaded") || !imageSet[i].loaded) {
-            return false;
-        }
-    }
-    return true;
-}
-
 function SetFeaturedInfo(entry)
 {
     $("#featuredPretitle").html(entry.pretitle);
@@ -74,66 +53,6 @@ function SetFeaturedInfo(entry)
     $("#header a").mouseout(function() {
         $(this).css("color", "#ffffff");
     });
-}
-
-function SetFeaturedImageSet(imageSet)
-{
-    /*
-    if (imgCycleInterval_ !== null) {
-        clearInterval(imgCycleInterval_);
-        imgCycleInterval_ = null;
-    }
-
-    let imageClass = ".featuredImage-" + category;
-    let imageId = "#featuredImage-" + category + "-0";
-    let $currentActive = $("#landingImageCycler img.active");
-    let $currentTransition = $("#landingImageCycler img.transition");
-    let $featuredImage = $(imageId);
-    if (instant) {
-        $currentActive.removeClass("active");
-        $currentTransition.removeClass("transition");
-        $featuredImage.addClass("active");
-    }
-    else {
-        if ($currentActive.length === 0 && $currentTransition.length === 0) {
-            $featuredImage.addClass("active");
-        }
-        else if ($currentActive.length > 0 && $currentTransition.length === 0) {
-            $featuredImage.addClass("transition");
-            $currentActive.fadeOut(FEATURED_IMAGE_FADE_MS, function() {
-                $currentActive.removeClass("active").show();
-                $(".transition").addClass("active").removeClass("transition");
-            });
-        }
-        else if ($currentActive.length === 0 && $currentTransition.length > 0) {
-            // strange case, small timing issue, but this is JS so who knows
-        }
-        else if ($currentActive.length > 0 && $currentTransition.length > 0) {
-            $(".transition").removeClass("transition");
-            $featuredImage.addClass("transition");
-        }
-    }
-
-    let counter = 0;
-    let counterDir = 1;
-    imgCycleInterval_ = setInterval(function() {
-        let numImages = featuredEntries[category].images.length;
-        if (numImages === 1) {
-            return;
-        }
-        let imageId = "#featuredImage-" + category + "-" + counter;
-        let $currentActive = $("#landingImageCycler img.active");
-        $currentActive.removeClass("active");
-        let $featuredImage = $(imageId).addClass("active");
-        if (counter >= numImages - 1) {
-            counterDir = -1;
-        }
-        else if (counter <= 0) {
-            counterDir = 1;
-        }
-        counter += counterDir;
-    }, IMAGE_ANIM_MS);
-    */
 }
 
 function MovePosters(entries, indexDelta)
@@ -197,10 +116,40 @@ function ResetPosters(entries)
     MovePosters(entries, 0);
 }
 
-function HandleScroll()
+function GetFeaturedImageId(category, index, imageIndex)
 {
-    let headerOpacity = Math.min(document.documentElement.scrollTop / window.innerHeight, 1.0);
-    $("#header").css("background-color", "rgba(0%, 0%, 0%, " + headerOpacity * 100.0 + "%)");
+    return "featuredImage-" + category + "-" + index.toString() + "-" + imageIndex.toString();
+}
+
+// TODO unused for now, maybe remove
+// function GetFeaturedImageInfo(id)
+// {
+//     let idSplit = id.split("-");
+//     return {
+//         category: idSplit[1],
+//         index: parseInt(idSplit[2]),
+//         imageIndex: parseInt(idSplit[3])
+//     };
+// }
+
+function ResetImageSize(category, index, imageIndex)
+{
+    let image = featuredImages_[category][index][imageIndex];
+    let $image = $("#" + GetFeaturedImageId(category, index, imageIndex));
+
+    let aspect = window.innerWidth / window.innerHeight;
+    let imageAspect = image.width / image.height;
+    if (aspect > imageAspect) {
+        $image.width("100%");
+        $image.height("auto");
+    }
+    else {
+        $image.width("auto");
+        $image.height("100%");
+        let imageWidth = document.documentElement.clientHeight * imageAspect;
+        let marginX = (imageWidth - document.documentElement.clientWidth) / 2;
+        $image.css("margin-left", -marginX);
+    }
 }
 
 function OnAspectChanged(narrow)
@@ -227,83 +176,145 @@ function OnResize()
     }
 
     let aspect = window.innerWidth / window.innerHeight;
-    if (allImagesLoaded_) {
-        $(".featuredImage").each(function(index) {
-            let $this = $(this);
-            var img = new Image();
-            img.onload = function() {
-                let imageAspect = img.width / img.height;
-                if (aspect > imageAspect) {
-                    $this.width("100%");
-                    $this.height("auto");
-                }
-                else {
-                    $this.width("auto");
-                    $this.height("100%");
-                    let imageWidth = document.documentElement.clientHeight * imageAspect;
-                    let marginX = (imageWidth - document.documentElement.clientWidth) / 2;
-                    $this.css("margin-left", -marginX);
-                }
-            };
-            img.src = $this.attr("src");
-        });
+    for (let category in featuredImages_) {
+        for (let i = 0; i < featuredImages_[category].length; i++) {
+            for (let j = 0; j < featuredImages_[category][i].length; j++) {
+                ResetImageSize(category, i, j);
+            }
+        }
     }
+    $(".featuredImage").each(function(index) {
+    });
 
     if (loadedEntries_ !== null) {
         SetPosterContentWidth(loadedEntries_);
     }
 }
 
-window.onscroll = HandleScroll;
-
-function OnHashChanged()
+function HandleScroll()
 {
-    let category = GetCurrentCategory();
-    if (category !== prevCategory_) {
-        prevCategory_ = category;
-        SetFeaturedInfo(featuredEntries_[category][0]);
-
-        loadedEntries_ = [];
-        for (let i = 0; i < allEntries_.length; i++) {
-            if (allEntries_[i].tags.indexOf(category) !== -1) {
-                loadedEntries_.push(allEntries_[i]);
-            }
-        }
-        ResetPosters(loadedEntries_);
-    }
+    let headerOpacity = Math.min(document.documentElement.scrollTop / window.innerHeight, 1.0);
+    $("#header").css("background-color", "rgba(0%, 0%, 0%, " + headerOpacity * 100.0 + "%)");
 }
 
-function LoadNextFeaturedImageSet(category, callback)
+window.onscroll = HandleScroll;
+
+function IsFeaturedImageSetLoaded(category, featuredIndex)
 {
-    let nextFeaturedIndex = null;
-    for (let i = 0; i < featuredImages_[category].length; i++) {
-        if (featuredImages_[category][i].length === 0) {
-            nextFeaturedIndex = i;
-            break;
-        }
-    }
-    if (nextFeaturedIndex === null) {
+    if (featuredIndex >= featuredImages_[category].length) {
+        console.error("featuredIndex " + featuredIndex + " out of bounds for category " + category);
         return false;
     }
 
-    const nextImageSet = featuredEntries_[category][nextFeaturedIndex].images;
-    const imagesToLoad = nextImageSet.length;
-    let imagesLoaded = 0;
+    const imageSet = featuredImages_[category][featuredIndex];
+    if (imageSet.length === 0) {
+        console.error("imageSet of length 0 for " + category + ", " + featuredIndex);
+        return false;
+    }
+    for (let i = 0; i < imageSet.length; i++) {
+        if (!imageSet[i].hasOwnProperty("loaded") || !imageSet[i].loaded) {
+            return false;
+        }
+    }
+    return true;
+}
+
+function SetFeaturedImageSet(category, index)
+{
+    if (imgCycleInterval_ !== null) {
+        clearInterval(imgCycleInterval_);
+        imgCycleInterval_ = null;
+    }
+
+    let $currentActive = $("#landingImageCycler img.active");
+    let $currentTransition = $("#landingImageCycler img.transition");
+    let $nextActive = $("#" + GetFeaturedImageId(category, index, 0));
+    if ($currentActive.length === 0 && $currentTransition.length === 0) {
+        $nextActive.addClass("active");
+    }
+    else if ($currentActive.length > 0 && $currentTransition.length === 0) {
+        $nextActive.addClass("transition");
+        $currentActive.fadeOut(FEATURED_IMAGE_FADE_MS, function() {
+            $currentActive.removeClass("active").show();
+            $(".transition").addClass("active").removeClass("transition");
+        });
+    }
+    else if ($currentActive.length === 0 && $currentTransition.length > 0) {
+        // strange case, small timing issue, but this is JS so who knows
+    }
+    else if ($currentActive.length > 0 && $currentTransition.length > 0) {
+        $(".transition").removeClass("transition");
+        $nextActive.addClass("transition");
+    }
+
+    // let counter = 0;
+    // let counterDir = 1;
+    // imgCycleInterval_ = setInterval(function() {
+    //     let numImages = featuredEntries[category].images.length;
+    //     if (numImages === 1) {
+    //         return;
+    //     }
+    //     let imageId = "#featuredImage-" + category + "-" + counter;
+    //     let $currentActive = $("#landingImageCycler img.active");
+    //     $currentActive.removeClass("active");
+    //     let $featuredImage = $(imageId).addClass("active");
+    //     if (counter >= numImages - 1) {
+    //         counterDir = -1;
+    //     }
+    //     else if (counter <= 0) {
+    //         counterDir = 1;
+    //     }
+    //     counter += counterDir;
+    // }, IMAGE_ANIM_MS);
+}
+
+function OnFeaturedImageSetLoaded(category, index)
+{
+    let imageSet = featuredImages_[category][index];
+    for (let i = 0; i < imageSet.length; i++) {
+        let imageId = GetFeaturedImageId(category, index, i);
+        $("#" + imageId).attr("src", imageSet[i].src);
+        ResetImageSize(category, index, i);
+    }
+}
+
+function LoadFeaturedImageSetIfNotLoaded(category, index, callback)
+{
+    if (IsFeaturedImageSetLoaded(category, index)) {
+        callback();
+        return;
+    }
+    const nextImageSet = featuredEntries_[category][index].images;
     for (let i = 0; i < nextImageSet.length; i++) {
-        let imgUrl = IMAGE_BASE_URL + nextImageSet[i];
-        let img = new Image;
-        img.onload = function() {
-            featuredImages_[category][nextFeaturedIndex][i].loaded = true;
-            imagesLoaded += 1;
-            if (imagesLoaded >= imagesToLoad) {
+        if (featuredImages_[category][index][i].loading) {
+            continue;
+        }
+        featuredImages_[category][index][i].loading = true;
+        featuredImages_[category][index][i].onload = function() {
+            featuredImages_[category][index][i].loaded = true;
+            featuredImages_[category][index][i].loading = false;
+            if (IsFeaturedImageSetLoaded(category, index)) {
+                OnFeaturedImageSetLoaded(category, index);
                 callback();
             }
         };
-        img.src = imgUrl;
-        featuredImages_[category][nextFeaturedIndex].push(img);
+        featuredImages_[category][index][i].src = IMAGE_BASE_URL + nextImageSet[i];
     }
+}
 
-    return true;
+function LoadAllFeaturedImageSets()
+{
+    for (let category in featuredImages_) {
+        for (let i = 0; i < featuredImages_[category].length; i++) {
+            if (IsFeaturedImageSetLoaded(category, i)) {
+                continue;
+            }
+            LoadFeaturedImageSetIfNotLoaded(category, i, function() {
+                // pretty dumb, sure... but whatever
+                LoadAllFeaturedImageSets();
+            });
+        }
+    }
 }
 
 function OnFeaturedEntriesLoaded(featured)
@@ -319,20 +330,59 @@ function OnFeaturedEntriesLoaded(featured)
                 if (allEntries_[j].uri === uri) {
                     let entry = allEntries_[j].featuredInfo;
                     entry.uri = uri;
+                    let images = [];
+                    for (let k = 0; k < entry.images.length; k++) {
+                        let img = new Image;
+                        img.loaded = false;
+                        img.loading = false;
+                        images.push(img);
+                        let imageId = GetFeaturedImageId(category, featuredImages_[category].length, k);
+                        $("#landingImageCycler").append("<img id=\"" + imageId + "\" class=\"featuredImage\" src=\"\">");
+                    }
                     featuredEntries_[category].push(entry);
-                    featuredImages_[category].push([]);
+                    featuredImages_[category].push(images);
                     break;
                 }
             }
         }
     }
 
-    console.log(AreImagesLoaded(HOMEPAGE_CATEGORY, 0));
-    SetFeaturedInfo(featuredEntries_[HOMEPAGE_CATEGORY][0]);
-    LoadNextFeaturedImageSet(HOMEPAGE_CATEGORY, function() {
-        console.log(AreImagesLoaded(HOMEPAGE_CATEGORY, 0));
-        console.log(featuredImages_);
+    $(".featuredImage").hide();
+
+    let startCategory = GetCurrentCategory();
+    SetFeaturedInfo(featuredEntries_[startCategory][0]);
+    LoadFeaturedImageSetIfNotLoaded(startCategory, 0, function() {
+        SetFeaturedImageSet(startCategory, 0);
+        $(".featuredImage").show();
+        LoadAllFeaturedImageSets();
+        // TODO prioritize featured image loading over these
+        ResetPosters(loadedEntries_);
     });
+}
+
+function OnHashChanged()
+{
+    let category = GetCurrentCategory();
+    if (category !== prevCategory_) {
+        prevCategory_ = category;
+        SetFeaturedInfo(featuredEntries_[category][0]);
+        if (IsFeaturedImageSetLoaded(category, 0)) {
+            SetFeaturedImageSet(category, 0);
+        }
+        else {
+            LoadFeaturedImageSetIfNotLoaded(category, 0, function() {
+                SetFeaturedImageSet(category, 0);
+            });
+        }
+
+        loadedEntries_ = [];
+        for (let i = 0; i < allEntries_.length; i++) {
+            if (allEntries_[i].tags.indexOf(category) !== -1) {
+                loadedEntries_.push(allEntries_[i]);
+            }
+        }
+        ResetPosters(loadedEntries_);
+    }
 }
 
 window.onhashchange = OnHashChanged;
@@ -364,9 +414,6 @@ $(document).ready(function() {
                     }
                 }
             }
-
-            // TODO prioritize featured image loading over these
-            ResetPosters(loadedEntries_);
 
             if (featured !== null) {
                 OnFeaturedEntriesLoaded(featured);

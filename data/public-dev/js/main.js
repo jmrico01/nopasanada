@@ -79,7 +79,7 @@ function UpdateFeaturedTable(featured)
             let newFeatured = {};
             $("#featuredForm select").each(function() {
                 let $this = $(this);
-                newFeatured[$this.attr("name")] = $this.val();
+                newFeatured[$this.attr("name")] = [ $this.val() ];
             });
 
             $.ajax({
