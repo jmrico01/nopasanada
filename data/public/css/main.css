@@ -233,6 +233,69 @@
     background-color: #212226;
 }
 
+#subscribeLeft {
+    float: left;
+    overflow: hidden;
+    padding-top: 1.5625vw;
+    margin-left: 7.8125vw;
+    height: 12.5vw;
+    width: 42vw;
+}
+#subscribeLeft img {
+    float: left;
+    height: 100%;
+}
+#subscribeLeft img:hover {
+    -webkit-filter: brightness(70%);
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+.subscribeText {
+    float: left;
+    margin-left: 1.5625vw;
+    width: 20vw;
+
+    color: #ffffff;
+}
+.subscribeText h2 {
+    margin-top: 1.5625vw;
+    margin-bottom: 0.5vw;
+}
+
+#subscribeRight {
+    float: left;
+    overflow: hidden;
+    padding-top: 1.5625vw;
+    height: 12.5vw;
+}
+#subscribeRight img {
+    float: left;
+    height: 100%;
+}
+#subscribeRight img:hover {
+    -webkit-filter: brightness(70%);
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+.subscribeButton {
+    display: inline-block;
+    margin-top: 1.5625vw;
+    padding: 0.2vw 0.78125vw;
+
+    text-align: center;
+    vertical-align: middle;
+    color: #ffffff;
+    background-color: #d23a28;
+}
+
 /* ========================================= RECIENTES ========================================== */
 
 #recent {
@@ -258,7 +321,7 @@
     margin-bottom: 1.5625vw;
 }
 .recentArticle:hover {
-    -webkit-filter: brightness(80%);
+    -webkit-filter: brightness(70%);
     -webkit-transition: all 0.2s ease;
     -moz-transition: all 0.2s ease;
     -o-transition: all 0.2s ease;
@@ -273,6 +336,8 @@
 .recentArticleImage img {
     width: 100%;
     height: 100%;
+    object-fit: cover;
+    overflow: hidden;
 }
 .recentArticleText {
     float: left;
@@ -302,7 +367,7 @@
     margin-bottom: 1.5625vw;
 }
 .recentVideo:hover {
-    -webkit-filter: brightness(80%);
+    -webkit-filter: brightness(70%);
     -webkit-transition: all 0.2s ease;
     -moz-transition: all 0.2s ease;
     -o-transition: all 0.2s ease;
@@ -316,6 +381,8 @@
 .recentVideoImage img {
     width: 100%;
     height: 100%;
+    object-fit: cover;
+    overflow: hidden;
 }
 .recentVideoText {
     width: 30vw;

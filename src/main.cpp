@@ -452,11 +452,11 @@ int CompareMetadataDateDescending(const void* p1, const void* p2)
 	const auto* kmkv1 = *((const HashTable<KmkvItem<StandardAllocator>>**)p1);
 	const auto* kmkv2 = *((const HashTable<KmkvItem<StandardAllocator>>**)p2);
 
-	const auto* date1 = GetKmkvItemStrValue(*kmkv1, "date");
-	assert(date1 != nullptr);
-	const auto* date2 = GetKmkvItemStrValue(*kmkv2, "date");
-	assert(date2 != nullptr);
-	return StringCompare(date1->ToArray(), date2->ToArray()) * -1;
+	const auto* dateString1 = GetKmkvItemStrValue(*kmkv1, "dateString");
+	assert(dateString1 != nullptr);
+	const auto* dateString2 = GetKmkvItemStrValue(*kmkv2, "dateString");
+	assert(dateString2 != nullptr);
+	return StringCompare(dateString1->ToArray(), dateString2->ToArray()) * -1;
 }
 
 bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, StandardAllocator>* outJson)
@@ -500,8 +500,7 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		}
 		defer(FreeKmkv(entryData.kmkv));
 
-		HashTable<KmkvItem<StandardAllocator>>* metadataKmkvPtr = metadataKmkvs.Append();
-		HashTable<KmkvItem<StandardAllocator>>& metadataKmkv = *metadataKmkvPtr;
+		HashTable<KmkvItem<StandardAllocator>>& metadataKmkv = *metadataKmkvs.Append();
 		AllocAndSetString(metadataKmkv.Add("uri"), uri);
 		AllocAndSetString(metadataKmkv.Add("type"), entryData.typeString.ToArray());
 		AllocAndSetString(metadataKmkv.Add("tags"), Array<char>::empty);
@@ -524,7 +523,10 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		dateString.Append(entryData.date.monthString[1]);
 		dateString.Append(entryData.date.dayString[0]);
 		dateString.Append(entryData.date.dayString[1]);
-		AllocAndSetString(metadataKmkv.Add("date"), dateString.ToArray());
+		AllocAndSetString(metadataKmkv.Add("dateString"), dateString.ToArray());
+		AllocAndSetString(metadataKmkv.Add("author"), entryData.author.ToArray());
+		AllocAndSetString(metadataKmkv.Add("subtitle"), entryData.subtitle.ToArray());
+		AllocAndSetString(metadataKmkv.Add("image"), entryData.header.ToArray());
 
 		auto* featured = metadataKmkv.Add("featuredInfo");
 		featured->isString = false;
@@ -536,14 +538,6 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		AllocAndSetString(featuredKmkv.Add("text1"), entryData.featuredText1.ToArray());
 		AllocAndSetString(featuredKmkv.Add("text2"), entryData.featuredText2.ToArray());
 		AllocAndSetString(featuredKmkv.Add("highlightColor"), entryData.featuredHighlightColor.ToArray());
-
-		const auto* poster = GetKmkvItemStrValue(entryData.media, "poster");
-		if (poster == nullptr) {
-			AllocAndSetString(metadataKmkv.Add("image"), entryData.header.ToArray());
-		}
-		else {
-			AllocAndSetString(metadataKmkv.Add("image"), poster->ToArray());
-		}
 
 		// TODO look up "featured1" ... "featuredN" in entry media and use that if present
 		AllocAndSetString(featuredKmkv.Add("images"), Array<char>::empty);

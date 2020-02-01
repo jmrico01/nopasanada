@@ -6,16 +6,26 @@ const IMAGE_BASE_URL = ".";
 const FEATURED_IMAGE_FADE_MS = 400;
 const IMAGE_ANIM_MS = 250;
 
-const HOMEPAGE_CATEGORY = "home";
+const CATEGORY_HOMEPAGE        = "home";
+const CATEGORY_COLLECTION      = "coleccion";
+const CATEGORY_RECENT_ARTICLES = "cultura";
+const CATEGORY_RECENT_VIDEOS   = "opinion";
 
 let allEntries_ = null;
 let featuredEntries_ = null;
 let loadedEntries_ = null; // TODO revisit name + use-case, will need more groups of stuff
+let collectionEntries_ = null;
+let recentArticleEntries_ = null;
+let recentVideosEntries_ = null;
 
 let featuredImages_ = null;
-let posterImages_ = null;
+let collectionImages_ = null;
+let recentArticleImages_ = null;
+let recentVideoImages_ = null;
 
 let posterTemplate_ = null;
+let recentArticleTemplate_ = null;
+let recentVideoTemplate_ = null;
 let postersPerScreen_ = 5;
 let posterPositionIndex_ = 0;
 
@@ -35,7 +45,7 @@ function GetCurrentCategory()
         }
     }
 
-    return HOMEPAGE_CATEGORY;
+    return CATEGORY_HOMEPAGE;
 }
 
 function SetFeaturedInfo(entry)
@@ -82,6 +92,7 @@ function SetPosterContentWidth(entries)
 
 function ResetPosters(entries)
 {
+    return;
     SetPosterContentWidth(entries);
     let $contentList = $("#contentList");
     $contentList.html("");
@@ -115,16 +126,57 @@ function ResetPosters(entries)
     MovePosters(entries, 0);
 }
 
-function GetFeaturedImageId(category, index, imageIndex)
+function ResetCollectionEntries(entries)
 {
-    return "featuredImage-" + category + "-" + index.toString() + "-" + imageIndex.toString();
 }
 
-function ResetImageSize(category, index, imageIndex)
+function ResetRecentArticleEntries(entries)
 {
-    let image = featuredImages_[category][index][imageIndex];
-    let $image = $("#" + GetFeaturedImageId(category, index, imageIndex));
+    let $list = $("#recentArticleList");
+    $list.html("");
 
+    for (let i = 0; i < entries.length; i++) {
+        let entryData = entries[i];
+        let $entry = $(recentArticleTemplate_);
+        $entry.find("a").addBack("a").attr("href", entryData.uri);
+        $entry.find("img").attr("src", IMAGE_BASE_URL + entryData.image);
+        $entry.find(".recentArticleTitle").html(entryData.title.toUpperCase());
+        let metadataString = "";
+        if (entryData.hasOwnProperty("author") && entryData.author.length > 0) {
+            metadataString += "POR " + entryData.author.toUpperCase() + " | ";
+        }
+        const months = [
+            "ENERO", "FEBRERO", "MARZO",
+            "ABRIL", "MAYO", "JUNIO",
+            "JULIO", "AGOSTO", "SEPTIEMBRE",
+            "OCTUBRE", "NOVIEMBRE", "DICIEMBRE"
+        ];
+        let monthInd = parseInt(entryData.dateString.substring(4, 6)) - 1;
+        metadataString += entryData.dateString.substring(6, 8) + " DE " + months[monthInd];
+        $entry.find(".recentArticleMetadata").html(metadataString);
+        $entry.find(".recentArticleSubtitle").html(entryData.subtitle);
+        $list.append($entry);
+    }
+}
+
+function ResetRecentVideoEntries(entries)
+{
+    let $list = $("#recentVideoList");
+    $list.html("");
+
+    for (let i = 0; i < entries.length; i++) {
+        let entryData = entries[i];
+        let $entry = $(recentVideoTemplate_);
+        $entry.find("a").addBack("a").attr("href", entryData.uri);
+        $entry.find("img").attr("src", IMAGE_BASE_URL + entryData.image);
+        $entry.find(".recentVideoTitle").html(entryData.title.toUpperCase());
+        $list.append($entry);
+    }
+}
+
+function ResetImageSize(image)
+{
+    let $image = $("#" + image.divId);
     let aspect = window.innerWidth / window.innerHeight;
     let imageAspect = image.width / image.height;
     if (aspect > imageAspect) {
@@ -167,7 +219,7 @@ function OnResize()
     for (let category in featuredImages_) {
         for (let i = 0; i < featuredImages_[category].length; i++) {
             for (let j = 0; j < featuredImages_[category][i].length; j++) {
-                ResetImageSize(category, i, j);
+                ResetImageSize(featuredImages_[category][i][j]);
             }
         }
     }
@@ -185,14 +237,8 @@ function HandleScroll()
 
 window.onscroll = HandleScroll;
 
-function IsFeaturedImageSetLoaded(category, featuredIndex)
+function IsFeaturedImageSetLoaded(imageSet)
 {
-    if (featuredIndex >= featuredImages_[category].length) {
-        console.error("featuredIndex " + featuredIndex + " out of bounds for category " + category);
-        return false;
-    }
-
-    const imageSet = featuredImages_[category][featuredIndex];
     if (imageSet.length === 0) {
         console.error("imageSet of length 0 for " + category + ", " + featuredIndex);
         return false;
@@ -205,7 +251,7 @@ function IsFeaturedImageSetLoaded(category, featuredIndex)
     return true;
 }
 
-function SetFeaturedImageSet(category, index)
+function SetFeaturedImageSet(imageSet)
 {
     if (imgCycleInterval_ !== null) {
         clearInterval(imgCycleInterval_);
@@ -214,7 +260,7 @@ function SetFeaturedImageSet(category, index)
 
     let $currentActive = $("#landingImageCycler img.active");
     let $currentTransition = $("#landingImageCycler img.transition");
-    let $nextActive = $("#" + GetFeaturedImageId(category, index, 0));
+    let $nextActive = $("#" + imageSet[0].divId);
     if ($currentActive.length === 0 && $currentTransition.length === 0) {
         $nextActive.addClass("active");
     }
@@ -236,11 +282,11 @@ function SetFeaturedImageSet(category, index)
     let counter = 0;
     let counterDir = 1;
     imgCycleInterval_ = setInterval(function() {
-        let numImages = featuredImages_[category][index].length;
+        let numImages = imageSet.length;
         if (numImages === 1) {
             return;
         }
-        let imageId = GetFeaturedImageId(category, index, counter);
+        let imageId = imageSet[counter].divId;
         let $currentActive = $("#landingImageCycler img.active");
         $currentActive.removeClass("active");
         let $featuredImage = $("#" + imageId).addClass("active");
@@ -254,37 +300,34 @@ function SetFeaturedImageSet(category, index)
     }, IMAGE_ANIM_MS);
 }
 
-function OnFeaturedImageSetLoaded(category, index)
+function OnFeaturedImageSetLoaded(imageSet)
 {
-    let imageSet = featuredImages_[category][index];
     for (let i = 0; i < imageSet.length; i++) {
-        let imageId = GetFeaturedImageId(category, index, i);
-        $("#" + imageId).attr("src", imageSet[i].src);
-        ResetImageSize(category, index, i);
+        $("#" + imageSet[i].divId).attr("src", imageSet[i].src);
+        ResetImageSize(imageSet[i]);
     }
 }
 
-function LoadFeaturedImageSetIfNotLoaded(category, index, callback)
+function LoadFeaturedImageSetIfNotLoaded(imageSet, callback)
 {
-    if (IsFeaturedImageSetLoaded(category, index)) {
+    if (IsFeaturedImageSetLoaded(imageSet)) {
         callback();
         return;
     }
-    const nextImageSet = featuredEntries_[category][index].images;
-    for (let i = 0; i < nextImageSet.length; i++) {
-        if (featuredImages_[category][index][i].loading) {
+    for (let i = 0; i < imageSet.length; i++) {
+        if (imageSet[i].loading) {
             continue;
         }
-        featuredImages_[category][index][i].loading = true;
-        featuredImages_[category][index][i].onload = function() {
-            featuredImages_[category][index][i].loaded = true;
-            featuredImages_[category][index][i].loading = false;
-            if (IsFeaturedImageSetLoaded(category, index)) {
-                OnFeaturedImageSetLoaded(category, index);
+        imageSet[i].loading = true;
+        imageSet[i].onload = function() {
+            imageSet[i].loaded = true;
+            imageSet[i].loading = false;
+            if (IsFeaturedImageSetLoaded(imageSet)) {
+                OnFeaturedImageSetLoaded(imageSet);
                 callback();
             }
         };
-        featuredImages_[category][index][i].src = IMAGE_BASE_URL + nextImageSet[i];
+        imageSet[i].src = IMAGE_BASE_URL + imageSet[i].imageUrl;
     }
 }
 
@@ -292,10 +335,11 @@ function LoadAllFeaturedImageSets()
 {
     for (let category in featuredImages_) {
         for (let i = 0; i < featuredImages_[category].length; i++) {
-            if (IsFeaturedImageSetLoaded(category, i)) {
+            let imageSet = featuredImages_[category][i];
+            if (IsFeaturedImageSetLoaded(imageSet)) {
                 continue;
             }
-            LoadFeaturedImageSetIfNotLoaded(category, i, function() {
+            LoadFeaturedImageSetIfNotLoaded(imageSet, function() {
                 // pretty dumb, sure... but whatever
                 LoadAllFeaturedImageSets();
             });
@@ -305,31 +349,40 @@ function LoadAllFeaturedImageSets()
 
 function OnFeaturedEntriesLoaded(featured)
 {
+    // Fill global featured entries
     featuredEntries_ = {};
-    featuredImages_ = {};
     for (let category in featured) {
         featuredEntries_[category] = [];
-        featuredImages_[category] = [];
         for (let i = 0; i < featured[category].length; i++) {
             const uri = featured[category][i];
             for (let j = 0; j < allEntries_.length; j++) {
                 if (allEntries_[j].uri === uri) {
                     let entry = allEntries_[j].featuredInfo;
                     entry.uri = uri;
-                    let images = [];
-                    for (let k = 0; k < entry.images.length; k++) {
-                        let img = new Image;
-                        img.loaded = false;
-                        img.loading = false;
-                        images.push(img);
-                        let imageId = GetFeaturedImageId(category, featuredImages_[category].length, k);
-                        $("#landingImageCycler").append("<img id=\"" + imageId + "\" class=\"featuredImage\" src=\"\">");
-                    }
                     featuredEntries_[category].push(entry);
-                    featuredImages_[category].push(images);
                     break;
                 }
             }
+        }
+    }
+
+    // Fill global featured images, link up to HTML
+    featuredImages_ = {};
+    for (let category in featuredEntries_) {
+        featuredImages_[category] = [];
+        for (let i = 0; i < featuredEntries_[category].length; i++) {
+            const entry = featuredEntries_[category][i];
+            let images = [];
+            for (let j = 0; j < entry.images.length; j++) {
+                let img = new Image;
+                img.loaded = false;
+                img.loading = false;
+                img.divId = "featuredInfo-" + category + "-" + featuredImages_[category].length.toString() + "-" + j.toString();
+                img.imageUrl = entry.images[j];
+                images.push(img);
+                $("#landingImageCycler").append("<img id=\"" + img.divId + "\" class=\"featuredImage\" src=\"\">");
+            }
+            featuredImages_[category].push(images);
         }
     }
 
@@ -337,13 +390,40 @@ function OnFeaturedEntriesLoaded(featured)
 
     let startCategory = GetCurrentCategory();
     SetFeaturedInfo(featuredEntries_[startCategory][0]);
-    LoadFeaturedImageSetIfNotLoaded(startCategory, 0, function() {
-        SetFeaturedImageSet(startCategory, 0);
+    let startImageSet = featuredImages_[startCategory][0];
+    LoadFeaturedImageSetIfNotLoaded(startImageSet, function() {
+        SetFeaturedImageSet(startImageSet);
         $(".featuredImage").show();
         LoadAllFeaturedImageSets();
-        // TODO prioritize featured image loading over these
-        ResetPosters(loadedEntries_);
     });
+}
+
+function OnAllEntriesLoaded(entries)
+{
+    allEntries_ = entries;
+    loadedEntries_ = [];
+    collectionEntries_ = [];
+    recentArticleEntries_ = [];
+    recentVideosEntries_ = [];
+    for (let i = 0; i < allEntries_.length; i++) {
+        const entryTags = allEntries_[i].tags;
+        for (let j = 0; j < entryTags.length; j++) {
+            if (entryTags[j] === CATEGORY_COLLECTION) {
+                collectionEntries_.push(JSON.parse(JSON.stringify(allEntries_[i])));
+            }
+            else if (entryTags[j] === CATEGORY_RECENT_ARTICLES) {
+                recentArticleEntries_.push(JSON.parse(JSON.stringify(allEntries_[i])));
+            }
+            else if (entryTags[j] === CATEGORY_RECENT_VIDEOS) {
+                recentVideosEntries_.push(JSON.parse(JSON.stringify(allEntries_[i])));
+            }
+        }
+    }
+
+    ResetCollectionEntries(collectionEntries_);
+    ResetRecentArticleEntries(recentArticleEntries_);
+    ResetRecentVideoEntries(recentVideosEntries_);
+    ResetPosters(loadedEntries_);
 }
 
 function OnHashChanged()
@@ -352,12 +432,13 @@ function OnHashChanged()
     if (category !== prevCategory_) {
         prevCategory_ = category;
         SetFeaturedInfo(featuredEntries_[category][0]);
-        if (IsFeaturedImageSetLoaded(category, 0)) {
-            SetFeaturedImageSet(category, 0);
+        let imageSet = featuredImages_[category][0];
+        if (IsFeaturedImageSetLoaded(imageSet)) {
+            SetFeaturedImageSet(imageSet);
         }
         else {
-            LoadFeaturedImageSetIfNotLoaded(category, 0, function() {
-                SetFeaturedImageSet(category, 0);
+            LoadFeaturedImageSetIfNotLoaded(imageSet, function() {
+                SetFeaturedImageSet(imageSet);
             });
         }
 
@@ -376,6 +457,10 @@ window.onhashchange = OnHashChanged;
 $(document).ready(function() {
     posterTemplate_ = $("#posterTemplate").html();
     $("#posterTemplate").remove();
+    recentArticleTemplate_ = $("#recentArticleTemplate").html();
+    $("#recentArticleTemplate").remove();
+    recentVideoTemplate_ = $("#recentVideoTemplate").html();
+    $("#recentVideoTemplate").remove();
 
     let entriesLoaded = false;
     let featured = null;
@@ -388,19 +473,7 @@ $(document).ready(function() {
         async: true,
         data: "",
         success: function(data) {
-            allEntries_ = data;
-            loadedEntries_ = [];
-            let currentCategory = GetCurrentCategory();
-            for (let i = 0; i < allEntries_.length; i++) {
-                allEntries_[i].title = allEntries_[i].title.toUpperCase();
-                let entryTags = allEntries_[i].tags;
-                for (let j = 0; j < entryTags.length; j++) {
-                    if (entryTags[j] === currentCategory) {
-                        loadedEntries_.push(allEntries_[i]);
-                    }
-                }
-            }
-
+            OnAllEntriesLoaded(data);
             if (featured !== null) {
                 OnFeaturedEntriesLoaded(featured);
             }
