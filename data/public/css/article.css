@@ -20,20 +20,12 @@
     font-size: 8vw;
     line-height: 24vw;
     color: #fff;
-    -webkit-filter: brightness(100%);
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease;
+    opacity: 100%;
+    transition: opacity 0.2s ease;
 }
 .articleImage:hover {
-    -webkit-filter: brightness(80%);
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease;
+    opacity: 80%;
+    transition: opacity 0.2s ease;
 }
 #articleVideo {
     width: 100%;
