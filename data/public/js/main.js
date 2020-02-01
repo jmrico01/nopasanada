@@ -6,10 +6,10 @@ const IMAGE_BASE_URL = ".";
 const FEATURED_IMAGE_FADE_MS = 400;
 const IMAGE_ANIM_MS = 250;
 
-const CATEGORY_HOMEPAGE        = "home";
-const CATEGORY_COLLECTION      = "coleccion";
-const CATEGORY_RECENT_ARTICLES = "cultura";
-const CATEGORY_RECENT_VIDEOS   = "opinion";
+const TAG_HOME       = "home";
+const TAG_COLLECTION = "cultura";
+const TAG_ARTICLE    = "cultura";
+const TAG_VIDEO      = "cultura";
 
 let allEntries_ = null;
 let featuredEntries_ = null;
@@ -23,7 +23,7 @@ let collectionImages_ = null;
 let recentArticleImages_ = null;
 let recentVideoImages_ = null;
 
-let posterTemplate_ = null;
+let collectionTemplate_ = null;
 let recentArticleTemplate_ = null;
 let recentVideoTemplate_ = null;
 let postersPerScreen_ = 5;
@@ -45,7 +45,7 @@ function GetCurrentCategory()
         }
     }
 
-    return CATEGORY_HOMEPAGE;
+    return TAG_HOME;
 }
 
 function SetFeaturedInfo(entry)
@@ -128,6 +128,16 @@ function ResetPosters(entries)
 
 function ResetCollectionEntries(entries)
 {
+    let $list = $("#collectionList");
+    $list.html("");
+
+    for (let i = 0; i < entries.length; i++) {
+        let entryData = entries[i];
+        let $entry = $(collectionTemplate_);
+        $entry.find("a").addBack("a").attr("href", entryData.uri);
+        $entry.find("img").attr("src", IMAGE_BASE_URL + entryData.image);
+        $list.append($entry);
+    }
 }
 
 function ResetRecentArticleEntries(entries)
@@ -401,21 +411,21 @@ function OnFeaturedEntriesLoaded(featured)
 function OnAllEntriesLoaded(entries)
 {
     allEntries_ = entries;
-    loadedEntries_ = [];
     collectionEntries_ = [];
     recentArticleEntries_ = [];
     recentVideosEntries_ = [];
     for (let i = 0; i < allEntries_.length; i++) {
-        const entryTags = allEntries_[i].tags;
-        for (let j = 0; j < entryTags.length; j++) {
-            if (entryTags[j] === CATEGORY_COLLECTION) {
-                collectionEntries_.push(JSON.parse(JSON.stringify(allEntries_[i])));
+        const entry = allEntries_[i];
+        const isHome = entry.tags.indexOf(TAG_HOME) !== -1;
+        if (isHome) {
+            if (entry.tags.indexOf(TAG_COLLECTION) !== -1) {
+                collectionEntries_.push(JSON.parse(JSON.stringify(entry)));
             }
-            else if (entryTags[j] === CATEGORY_RECENT_ARTICLES) {
-                recentArticleEntries_.push(JSON.parse(JSON.stringify(allEntries_[i])));
+            if (entry.tags.indexOf(TAG_ARTICLE) !== -1) {
+                recentArticleEntries_.push(JSON.parse(JSON.stringify(entry)));
             }
-            else if (entryTags[j] === CATEGORY_RECENT_VIDEOS) {
-                recentVideosEntries_.push(JSON.parse(JSON.stringify(allEntries_[i])));
+            if (entry.tags.indexOf(TAG_VIDEO) !== -1) {
+                recentVideosEntries_.push(JSON.parse(JSON.stringify(entry)));
             }
         }
     }
@@ -423,7 +433,6 @@ function OnAllEntriesLoaded(entries)
     ResetCollectionEntries(collectionEntries_);
     ResetRecentArticleEntries(recentArticleEntries_);
     ResetRecentVideoEntries(recentVideosEntries_);
-    ResetPosters(loadedEntries_);
 }
 
 function OnHashChanged()
@@ -455,8 +464,8 @@ function OnHashChanged()
 window.onhashchange = OnHashChanged;
 
 $(document).ready(function() {
-    posterTemplate_ = $("#posterTemplate").html();
-    $("#posterTemplate").remove();
+    collectionTemplate_ = $("#collectionTemplate").html();
+    $("#collectionTemplate").remove();
     recentArticleTemplate_ = $("#recentArticleTemplate").html();
     $("#recentArticleTemplate").remove();
     recentVideoTemplate_ = $("#recentVideoTemplate").html();

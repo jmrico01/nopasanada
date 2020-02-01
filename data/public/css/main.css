@@ -6,20 +6,12 @@
 #searchIconSvg {
     height: 100%;
     fill: #ffffff;
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease;
+    transition: fill 0.2s ease;
 }
 #searchIconSvg:hover {
     height: 100%;
     fill: #ff2222;
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease;
+    transition: fill 0.2s ease;
 }
 
 #content {
@@ -116,112 +108,80 @@
 
 /* ========================================== COLECCION ========================================= */
 
-#coleccion {
+#collection {
     position: relative;
     overflow: hidden;
     background-color: #000;
 }
 
-#coleccionTitle {
+#collectionTitle {
     color: #ffffff;
     margin-left: 7.8125vw;
     margin-top: 3.5vw;
 }
 
-#contentList {
-    position: relative;
-    width: 1000vw; /* set by JS */
-    overflow: auto;
-    margin-top: 1.5625vw;
-    margin-bottom: 3.125vw;
-}
-
-.contentArrowContainer {
+.collectionArrow {
     font-family: FuturaPTDemi, sans-serif;
     font-size: 4.5vw;
     color: #fff;
 
     position: absolute;
-    top: 10.9375vw; /* header size + contentList margin-top */
-    height: 25vw;
+    top: 3vw;
+    height: 15.625vw;
     z-index: 1;
 }
-.contentArrowContainer:hover {
+.collectionArrow:hover {
     color: #f00;
     cursor: pointer;
 }
-#contentArrowLeftButton {
+#collectionArrowLeftButton {
     left: 0;
     width: 7.8125vw;
 }
-#contentArrowRightButton {
+#collectionArrowRightButton {
     left: 92.1875vw;
     right: 0;
 }
-#contentArrowLeft {
+#collectionArrowLeft {
     margin-left: 4.95vw;
     margin-top: 9.15vw;
 }
-#contentArrowRight {
+#collectionArrowRight {
     margin-left: 1.4vw;
     margin-top: 9.15vw;
 }
 
-.entry {
-    float: left;
-    width: 15.625vw;
-    -webkit-filter: brightness(100%);
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease;
-}
-.entry:hover {
-    -webkit-filter: brightness(80%);
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease;
-}
-
-.entryImage {
-    background-color: #231F20;
-
+#collectionList {
     position: relative;
-    width: 100%;
-    height: 25vw;
+    height: 15.625vw;
+    width: 1000vw; /* set by JS */
+    overflow: auto;
+    margin-top: 1.5625vw;
+    margin-bottom: 3.125vw;
+    margin-left: 6.25vw;
 }
 
-.entryPoster {
-    width: 100%;
+.collection {
+    float: left;
+    width: 27vw;
+    height: 100%;
+    margin-left: 1.5625vw;
+
+    opacity: 100%;
+    transition: opacity 0.2s ease;
+}
+.collection:hover {
+    opacity: 70%;
+    transition: opacity 0.2s ease;
+}
+
+.collection img {
+    position: relative;
     height: 100%;
     object-fit: cover;
-    z-index: -1;
-}
+    overflow: hidden;
 
-.entryText {
-    font-family: FuturaPTMedium, sans-serif;
-    font-size: 0.95vw;
-    letter-spacing: 0.05vw;
-    line-height: 1.6vw;
-    color: #fff;
-
-    width: 100%;
-    margin-top: 1vw;
-}
-
-.entrySpace {
-    float: left;
-    width: 1.5625vw;
-    height: 25vw;
-}
-
-.entrySpaceEdge {
-    float: left;
-    height: 25vw;
-    width: 7.8125vw;
+    background-color: #231F20;
 }
 
 /* ========================================= SUSCRIBETE ========================================= */
@@ -244,14 +204,13 @@
 #subscribeLeft img {
     float: left;
     height: 100%;
+
+    opacity: 100%;
+    transition: opacity 0.2s ease;
 }
 #subscribeLeft img:hover {
-    -webkit-filter: brightness(70%);
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease;
+    opacity: 70%;
+    transition: opacity 0.2s ease;
 }
 
 .subscribeText {
@@ -275,14 +234,13 @@
 #subscribeRight img {
     float: left;
     height: 100%;
+
+    opacity: 100%;
+    transition: opacity 0.2s ease;
 }
 #subscribeRight img:hover {
-    -webkit-filter: brightness(70%);
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease;
+    opacity: 70%;
+    transition: opacity 0.2s ease;
 }
 
 .subscribeButton {
@@ -319,14 +277,13 @@
 .recentArticle {
     height: 9.375vw;
     margin-bottom: 1.5625vw;
+
+    opacity: 100%;
+    transition: opacity 0.2s ease;
 }
 .recentArticle:hover {
-    -webkit-filter: brightness(70%);
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease;
+    opacity: 70%;
+    transition: opacity 0.2s ease;
 }
 .recentArticleImage {
     float: left;
@@ -334,7 +291,6 @@
     height: 100%;
 }
 .recentArticleImage img {
-    width: 100%;
     height: 100%;
     object-fit: cover;
     overflow: hidden;
@@ -365,14 +321,13 @@
 
 .recentVideo {
     margin-bottom: 1.5625vw;
+
+    opacity: 100%;
+    transition: opacity 0.2s ease;
 }
 .recentVideo:hover {
-    -webkit-filter: brightness(70%);
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease;
+    opacity: 70%;
+    transition: opacity 0.2s ease;
 }
 .recentVideoImage {
     width: 22.22vw;
