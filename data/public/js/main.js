@@ -43,7 +43,6 @@ function SetFeaturedInfo(entry)
     $("#featuredPretitle").html(entry.pretitle);
     $("#featuredTitle a").html(entry.title);
     $("#featuredTitle a").attr("href", entry.uri);
-    $("#featuredDecoration").html(entry.decoration);
     $("#featuredText1").html(entry.text1);
     $("#featuredText2").html(entry.text2);
     $("#header a").unbind("mouseover mouseout");
@@ -161,7 +160,7 @@ function OnAspectChanged(narrow)
 function OnResize()
 {
     if (isNarrow_) {
-        $("#screenPosters").css("height", "auto");
+        $("#coleccion").css("height", "auto");
     }
 
     let aspect = window.innerWidth / window.innerHeight;
@@ -234,25 +233,25 @@ function SetFeaturedImageSet(category, index)
         $nextActive.addClass("transition");
     }
 
-    // let counter = 0;
-    // let counterDir = 1;
-    // imgCycleInterval_ = setInterval(function() {
-    //     let numImages = featuredEntries[category].images.length;
-    //     if (numImages === 1) {
-    //         return;
-    //     }
-    //     let imageId = "#featuredImage-" + category + "-" + counter;
-    //     let $currentActive = $("#landingImageCycler img.active");
-    //     $currentActive.removeClass("active");
-    //     let $featuredImage = $(imageId).addClass("active");
-    //     if (counter >= numImages - 1) {
-    //         counterDir = -1;
-    //     }
-    //     else if (counter <= 0) {
-    //         counterDir = 1;
-    //     }
-    //     counter += counterDir;
-    // }, IMAGE_ANIM_MS);
+    let counter = 0;
+    let counterDir = 1;
+    imgCycleInterval_ = setInterval(function() {
+        let numImages = featuredImages_[category][index].length;
+        if (numImages === 1) {
+            return;
+        }
+        let imageId = GetFeaturedImageId(category, index, counter);
+        let $currentActive = $("#landingImageCycler img.active");
+        $currentActive.removeClass("active");
+        let $featuredImage = $("#" + imageId).addClass("active");
+        if (counter >= numImages - 1) {
+            counterDir = -1;
+        }
+        else if (counter <= 0) {
+            counterDir = 1;
+        }
+        counter += counterDir;
+    }, IMAGE_ANIM_MS);
 }
 
 function OnFeaturedImageSetLoaded(category, index)

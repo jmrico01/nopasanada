@@ -92,17 +92,6 @@
     color: #ddd;
 }
 
-#featuredDecoration {
-    font-family: MiedingerBold, sans-serif;
-    font-size: 3.1vw;
-    letter-spacing: 0.4vw;
-    color: #fff;
-
-    float: left;
-    margin-top: 1.6vw;
-    margin-left: 2.3vw;
-}
-
 #featuredText {
     font-family: FuturaPTMedium, sans-serif;
     font-size: 0.95vw;
@@ -125,19 +114,26 @@
     margin-left: 6.3vw;
 }
 
-/* ======================================== POSTERS ======================================== */
+/* ========================================== COLECCION ========================================= */
 
-#screenPosters {
+#coleccion {
     position: relative;
-    overflow-x: hidden;
+    overflow: hidden;
     background-color: #000;
+}
+
+#coleccionTitle {
+    color: #ffffff;
+    margin-left: 7.8125vw;
+    margin-top: 3.5vw;
 }
 
 #contentList {
     position: relative;
     width: 1000vw; /* set by JS */
     overflow: auto;
-    margin-top: 3.125vw;
+    margin-top: 1.5625vw;
+    margin-bottom: 3.125vw;
 }
 
 .contentArrowContainer {
@@ -198,23 +194,6 @@
     height: 25vw;
 }
 
-.entryNumber {
-    font-family: Miedinger, sans-serif;
-    font-size: 3.35vw;
-    letter-spacing: -0.1vw;
-    color: #fff;
-    opacity: 1.0;
-
-    position: absolute;
-    left: 1.35vw;
-    top: 1.25vw;
-    right: 0;
-    bottom: 0;
-    z-index: 1;
-
-    /*visibility: hidden;*/
-}
-
 .entryPoster {
     width: 100%;
     height: 100%;
@@ -243,4 +222,122 @@
     float: left;
     height: 25vw;
     width: 7.8125vw;
+}
+
+/* ========================================= SUSCRIBETE ========================================= */
+
+#subscribe {
+    height: 15.625vw;
+    width: 100%;
+
+    background-color: #212226;
+}
+
+/* ========================================= RECIENTES ========================================== */
+
+#recent {
+    position: relative;
+    overflow: hidden;
+    background-color: #000;
+    padding-top: 3.5vw;
+    padding-bottom: 4.6875vw;
+}
+
+#recentArticles {
+    float: left;
+    margin-left: 7.8125vw;
+    width: 50vw;
+}
+#recentArticlesTitle {
+    color: #ffffff;
+    margin-bottom: 1.5625vw;
+}
+
+.recentArticle {
+    height: 9.375vw;
+    margin-bottom: 1.5625vw;
+}
+.recentArticle:hover {
+    -webkit-filter: brightness(80%);
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+.recentArticleImage {
+    float: left;
+    width: 16.67vw;
+    height: 100%;
+}
+.recentArticleImage img {
+    width: 100%;
+    height: 100%;
+}
+
+.recentArticleText {
+    float: left;
+    color: #ffffff;
+    margin-left: 1.5625vw;
+    width: 30vw;
+}
+.recentArticleTitle {
+    margin-top: 1.5625vw;
+    margin-bottom: 0.5vw;
+}
+.recentArticleMetadata {
+    margin-bottom: 0.5vw;
+}
+
+#recentVideos {
+    float: left;
+    margin-left: 6.25vw;
+    width: 28.125vw;
+}
+#recentVideosTitle {
+    color: #ffffff;
+    margin-bottom: 1.5625vw;
+}
+
+/* =========================================== FOOTER =========================================== */
+
+#footer {
+    height: 14.0625vw;
+
+    text-align: center;
+    background-color: #212226;
+    color: #5e7b81;
+}
+
+#footerRedStripe {
+    width: 100%;
+    height: 0.78125vw;
+    background-color: #d23a28;
+}
+
+#footerLogo {
+    color: #ffffff;
+    margin-top: 1.5625vw;
+    margin-bottom: 1.5625vw;
+}
+
+.footerSection {
+    display: inline-block;
+    padding-left: 3.2vw;
+    padding-bottom: 0.78125vw;
+    margin: 0 auto;
+}
+
+.footerSectionCategory {
+    display: inline-block;
+    padding-right: 3.2vw;
+}
+.footerSectionCategory a {
+    display: block;
+    height: 100%;
+}
+.footerSectionCategory a:hover {
+    color: #ffffff;
+    transition: all 0.2s ease;
 }

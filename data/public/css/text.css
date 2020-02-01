@@ -1,0 +1,39 @@
+h1, .textLogo {
+    font-family: FuturaPTBold, sans-serif;
+    font-size: 2.35vw;
+    letter-spacing: -0.04vw;
+    font-weight: normal;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+h2, .textCategory {
+    font-family: FuturaPTDemi, sans-serif;
+    font-size: 1.15vw;
+    line-height: 1.2vw;
+    font-weight: normal;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    font-family: FuturaPTHeavy, sans-serif;
+    font-size: 0.8vw;
+    line-height: 1vw;
+    font-weight: normal;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+h4 {
+    font-family: FuturaPTDemi, sans-serif;
+    font-size: 0.8vw;
+    line-height: 1vw;
+    font-weight: normal;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}

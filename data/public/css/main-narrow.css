@@ -32,7 +32,7 @@ body {
 	visibility: hidden;
 }
 
-#screenPosters {
+#coleccion {
     position: relative;
     overflow-x: hidden;
     background-color: #000;
