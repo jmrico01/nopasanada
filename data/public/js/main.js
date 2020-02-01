@@ -121,17 +121,6 @@ function GetFeaturedImageId(category, index, imageIndex)
     return "featuredImage-" + category + "-" + index.toString() + "-" + imageIndex.toString();
 }
 
-// TODO unused for now, maybe remove
-// function GetFeaturedImageInfo(id)
-// {
-//     let idSplit = id.split("-");
-//     return {
-//         category: idSplit[1],
-//         index: parseInt(idSplit[2]),
-//         imageIndex: parseInt(idSplit[3])
-//     };
-// }
-
 function ResetImageSize(category, index, imageIndex)
 {
     let image = featuredImages_[category][index][imageIndex];
@@ -183,8 +172,6 @@ function OnResize()
             }
         }
     }
-    $(".featuredImage").each(function(index) {
-    });
 
     if (loadedEntries_ !== null) {
         SetPosterContentWidth(loadedEntries_);

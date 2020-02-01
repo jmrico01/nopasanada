@@ -21,7 +21,7 @@ function OnResizeBase()
         aspectChanged = true;
     }
 
-    if (!isNarrow) {
+    if (!isNarrow || window.innerHeight != prevHeight_) {
         let headerHeight = $("#header").height();
         $(".screen").each(function(index) {
             let $this = $(this);
