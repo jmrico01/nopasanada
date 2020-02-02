@@ -13,7 +13,6 @@ const TAG_VIDEO      = "cultura";
 
 let allEntries_ = null;
 let featuredEntries_ = null;
-let loadedEntries_ = null; // TODO revisit name + use-case, will need more groups of stuff
 let collectionEntries_ = null;
 let recentArticleEntries_ = null;
 let recentVideosEntries_ = null;
@@ -26,11 +25,13 @@ let recentVideoImages_ = null;
 let collectionTemplate_ = null;
 let recentArticleTemplate_ = null;
 let recentVideoTemplate_ = null;
-let postersPerScreen_ = 5;
-let posterPositionIndex_ = 0;
+
+let imgCycleInterval_ = null;
+
+let collectionsPerScreen_ = 3;
+let collectionsPositionIndex_ = 0;
 
 let prevCategory_ = null;
-let imgCycleInterval_ = null;
 
 function GetCurrentCategory()
 {
@@ -64,66 +65,24 @@ function SetFeaturedInfo(entry)
     });
 }
 
-function MovePosters(entries, indexDelta)
+function MoveCollectionEntries(entries, indexDelta)
 {
-    let indexMax = Math.floor((entries.length - 1) / postersPerScreen_);
-    posterPositionIndex_ = Math.min(Math.max(posterPositionIndex_ + indexDelta, 0), indexMax);
+    let indexMax = Math.floor((entries.length - 1) / collectionsPerScreen_);
+    collectionsPositionIndex_ = Math.min(Math.max(collectionsPositionIndex_ + indexDelta, 0), indexMax);
 
-    $("#contentList").css("margin-left", -posterPositionIndex_ * window.innerWidth);
-    if (posterPositionIndex_ == 0) {
-        $("#contentArrowLeftButton").hide();
+    if (collectionsPositionIndex_ == 0) {
+        $("#collectionArrowLeftButton").hide();
     }
     else {
-        $("#contentArrowLeftButton").show();
+        $("#collectionArrowLeftButton").show();
     }
-    if (posterPositionIndex_ == indexMax) {
-        $("#contentArrowRightButton").hide();
+    if (collectionsPositionIndex_ == indexMax) {
+        $("#collectionArrowRightButton").hide();
     }
     else {
-        $("#contentArrowRightButton").show();
+        $("#collectionArrowRightButton").show();
     }
-}
-
-function SetPosterContentWidth(entries)
-{
-    let width = Math.ceil(entries.length / postersPerScreen_) * window.innerWidth;
-    $("#contentList").css("width", width);
-}
-
-function ResetPosters(entries)
-{
-    return;
-    SetPosterContentWidth(entries);
-    let $contentList = $("#contentList");
-    $contentList.html("");
-
-    $contentList.append("<div class=\"entrySpaceEdge\"></div>");
-    for (let i = 0; i < entries.length; i++) {
-        let entryData = entries[i];
-
-        let $entry = $(posterTemplate_);
-        $entry.find("a").attr("href", entryData.uri);
-        $entry.find("img").attr("src", IMAGE_BASE_URL + entryData.image);
-        $entry.find(".entryNumber").html(i + 1 + ".");
-        $entry.find(".entryText").html(entryData.title);
-        $contentList.append($entry);
-
-        if (i !== entries.length - 1) {
-            if ((i + 1) % postersPerScreen_ === 0) {
-                $contentList.append("<div class=\"entrySpaceEdge\"></div>");
-                if (isNarrow_) {
-                    $contentList.append("<div style=\"width: 100%; height: 65vw;\"></div>");
-                }
-                $contentList.append("<div class=\"entrySpaceEdge\"></div>");
-            }
-            else {
-                $contentList.append("<div class=\"entrySpace\"></div>");
-            }
-        }
-    }
-
-    posterPositionIndex_ = 0;
-    MovePosters(entries, 0);
+    ResetCollectionEntries(entries);
 }
 
 function ResetCollectionEntries(entries)
@@ -131,7 +90,9 @@ function ResetCollectionEntries(entries)
     let $list = $("#collectionList");
     $list.html("");
 
-    for (let i = 0; i < entries.length; i++) {
+    let entryStart = collectionsPositionIndex_ * collectionsPerScreen_;
+    let entryEnd = Math.min(entryStart + collectionsPerScreen_, entries.length);
+    for (let i = entryStart; i < entryEnd; i++) {
         let entryData = entries[i];
         let $entry = $(collectionTemplate_);
         $entry.find("a").addBack("a").attr("href", entryData.uri);
@@ -188,28 +149,25 @@ function OnAspectChanged(narrow)
 {
     if (narrow) {
         cssNarrow_.href = "css/main-narrow.css";
-        postersPerScreen_ = 3;
-        $("#contentList").css("width", "100%");
+        // postersPerScreen_ = 3;
+        // $("#contentList").css("width", "100%");
     }
     else {
         cssNarrow_.href = "";
-        postersPerScreen_ = 5;
+        // postersPerScreen_ = 5;
     }
 
-    if (loadedEntries_ !== null) {
-        ResetPosters(loadedEntries_);
-    }
+    // if (loadedEntries_ !== null) {
+    //     ResetPosters(loadedEntries_);
+    // }
 }
 
 function OnResize()
 {
-    if (isNarrow_) {
-        $("#coleccion").css("height", "auto");
-    }
-
-    if (loadedEntries_ !== null) {
-        SetPosterContentWidth(loadedEntries_);
-    }
+    // TODO hmmmmm
+    // if (isNarrow_) {
+    //     $("#coleccion").css("height", "auto");
+    // }
 }
 
 function HandleScroll()
@@ -405,6 +363,13 @@ function OnAllEntriesLoaded(entries)
     ResetCollectionEntries(collectionEntries_);
     ResetRecentArticleEntries(recentArticleEntries_);
     ResetRecentVideoEntries(recentVideosEntries_);
+
+    $("#collectionArrowLeftButton").on("click", function() {
+        MoveCollectionEntries(collectionEntries_, -1);
+    })
+    $("#collectionArrowRightButton").on("click", function() {
+        MoveCollectionEntries(collectionEntries_, 1);
+    })
 }
 
 function OnHashChanged()
@@ -423,13 +388,14 @@ function OnHashChanged()
             });
         }
 
-        loadedEntries_ = [];
-        for (let i = 0; i < allEntries_.length; i++) {
-            if (allEntries_[i].tags.indexOf(category) !== -1) {
-                loadedEntries_.push(allEntries_[i]);
-            }
-        }
-        ResetPosters(loadedEntries_);
+        // TODO the other entry lists probably need reloading/resetting as well
+        // loadedEntries_ = [];
+        // for (let i = 0; i < allEntries_.length; i++) {
+        //     if (allEntries_[i].tags.indexOf(category) !== -1) {
+        //         loadedEntries_.push(allEntries_[i]);
+        //     }
+        // }
+        // ResetPosters(loadedEntries_);
     }
 }
 
@@ -442,6 +408,7 @@ $(document).ready(function() {
     $("#recentArticleTemplate").remove();
     recentVideoTemplate_ = $("#recentVideoTemplate").html();
     $("#recentVideoTemplate").remove();
+    $("#collectionArrowLeftButton").hide();
 
     let entriesLoaded = false;
     let featured = null;
@@ -482,13 +449,6 @@ $(document).ready(function() {
             console.error(error);
         }
     });
-
-    $("#contentArrowLeftButton").on("click", function() {
-        MovePosters(loadedEntries_, -1);
-    })
-    $("#contentArrowRightButton").on("click", function() {
-        MovePosters(loadedEntries_, 1);
-    })
 
     OnResize();
     HandleScroll();
