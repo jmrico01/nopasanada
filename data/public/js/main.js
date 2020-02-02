@@ -184,24 +184,6 @@ function ResetRecentVideoEntries(entries)
     }
 }
 
-function ResetImageSize(image)
-{
-    let $image = $("#" + image.divId);
-    let aspect = window.innerWidth / window.innerHeight;
-    let imageAspect = image.width / image.height;
-    if (aspect > imageAspect) {
-        $image.width("100%");
-        $image.height("auto");
-    }
-    else {
-        $image.width("auto");
-        $image.height("100%");
-        let imageWidth = document.documentElement.clientHeight * imageAspect;
-        let marginX = (imageWidth - document.documentElement.clientWidth) / 2;
-        $image.css("margin-left", -marginX);
-    }
-}
-
 function OnAspectChanged(narrow)
 {
     if (narrow) {
@@ -223,15 +205,6 @@ function OnResize()
 {
     if (isNarrow_) {
         $("#coleccion").css("height", "auto");
-    }
-
-    let aspect = window.innerWidth / window.innerHeight;
-    for (let category in featuredImages_) {
-        for (let i = 0; i < featuredImages_[category].length; i++) {
-            for (let j = 0; j < featuredImages_[category][i].length; j++) {
-                ResetImageSize(featuredImages_[category][i][j]);
-            }
-        }
     }
 
     if (loadedEntries_ !== null) {
@@ -314,7 +287,6 @@ function OnFeaturedImageSetLoaded(imageSet)
 {
     for (let i = 0; i < imageSet.length; i++) {
         $("#" + imageSet[i].divId).attr("src", imageSet[i].src);
-        ResetImageSize(imageSet[i]);
     }
 }
 
