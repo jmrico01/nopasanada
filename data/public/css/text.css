@@ -8,7 +8,7 @@ h1, .textLogo {
     padding: 0;
 }
 
-h2, .textCategory {
+h2 {
     font-family: FuturaPTDemi, sans-serif;
     font-size: 1.15vw;
     line-height: 1.2vw;

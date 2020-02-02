@@ -397,7 +397,7 @@ $(document).ready(async function() {
         font_formats: "Default (Futura)=FuturaPTBook;",
         content_css: [
             previewUrl_ + "/css/global.css",
-            previewUrl_ + "/css/article.css"
+            previewUrl_ + "/css/entry.css"
         ],
     }).then(function(editors) {
         editors_ = {};

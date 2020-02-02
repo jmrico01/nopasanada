@@ -3,7 +3,7 @@
 function OnAspectChanged(narrow)
 {
     if (narrow) {
-        cssNarrow_.href = "../../../css/article-narrow.css";
+        cssNarrow_.href = "../../../css/entry-narrow.css";
     }
     else {
         cssNarrow_.href = "";

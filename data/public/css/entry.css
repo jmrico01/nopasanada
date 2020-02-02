@@ -7,7 +7,7 @@
     color: #000;
 }
 
-.articleImage {
+.entryImage {
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -20,14 +20,16 @@
     font-size: 8vw;
     line-height: 24vw;
     color: #fff;
+}
+.entryImageNewsletter {
     opacity: 100%;
     transition: opacity 0.2s ease;
 }
-.articleImage:hover {
+.entryImageNewsletter:hover {
     opacity: 80%;
     transition: opacity 0.2s ease;
 }
-#articleVideo {
+#entryVideo {
     width: 100%;
     height: 100%;
 }

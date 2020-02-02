@@ -728,6 +728,9 @@ int main(int argc, char** argv)
 	server.Get("/content/201909/newsletter-03", [](const auto& req, auto& res) {
 		res.set_redirect("/content/201909/newsletter-03");
 	});
+	server.Get("/tailor-to-suit", [](const auto& req, auto& res) {
+		res.set_redirect("/content/201909/tailor-to-suit");
+	});
 	// =============================================================================================
 
 	server.Get("/entries", [&allMetadataJson](const auto& req, auto& res) {
