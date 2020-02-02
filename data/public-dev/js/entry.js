@@ -203,7 +203,7 @@ function SaveEntryData()
 
         author:       document.getElementsByName("author")[0].value,
         subtextLeft:  document.getElementsByName("subtextLeft")[0].value,
-        subtextRight: document.getElementsByName("subtextLeft")[0].value,
+        subtextRight: document.getElementsByName("subtextRight")[0].value,
         videoID:      document.getElementsByName("youtubeID")[0].value,
         customTop:    document.getElementsByName("customTop")[0].value,
         title1:       document.getElementsByName("title1")[0].value,

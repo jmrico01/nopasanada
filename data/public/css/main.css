@@ -117,14 +117,13 @@
 
 #collection {
     position: relative;
-    overflow: hidden;
     background-color: #000;
 }
 
 #collectionTitle {
     color: #ffffff;
-    margin-left: 7.8125vw;
-    margin-top: 3.5vw;
+    padding-left: 7.8125vw;
+    padding-top: 3.5vw;
 }
 
 .collectionArrow {
@@ -150,12 +149,12 @@
     right: 0;
 }
 #collectionArrowLeft {
-    margin-left: 4.95vw;
-    margin-top: 9.15vw;
+    padding-left: 4.95vw;
+    padding-top: 9.15vw;
 }
 #collectionArrowRight {
-    margin-left: 1.4vw;
-    margin-top: 9.15vw;
+    padding-left: 1.4vw;
+    padding-top: 9.15vw;
 }
 
 #collectionList {
@@ -163,9 +162,9 @@
     height: 15.625vw;
     width: 1000vw; /* set by JS */
     overflow: auto;
-    margin-top: 1.5625vw;
-    margin-bottom: 3.125vw;
-    margin-left: 6.25vw;
+    padding-top: 1.5625vw;
+    padding-bottom: 3.125vw;
+    padding-left: 6.25vw;
 }
 
 .collection {
@@ -354,46 +353,4 @@
 }
 .recentVideoTitle {
     margin-top: 0.78125vw;
-}
-
-/* =========================================== FOOTER =========================================== */
-
-#footer {
-    height: 14.0625vw;
-
-    text-align: center;
-    background-color: #212226;
-    color: #5e7b81;
-}
-
-#footerRedStripe {
-    width: 100%;
-    height: 0.78125vw;
-    background-color: #d23a28;
-}
-
-#footerLogo {
-    color: #ffffff;
-    margin-top: 1.5625vw;
-    margin-bottom: 1.5625vw;
-}
-
-.footerSection {
-    display: inline-block;
-    padding-left: 3.2vw;
-    padding-bottom: 0.78125vw;
-    margin: 0 auto;
-}
-
-.footerSectionCategory {
-    display: inline-block;
-    padding-right: 3.2vw;
-}
-.footerSectionCategory a {
-    display: block;
-    height: 100%;
-}
-.footerSectionCategory a:hover {
-    color: #ffffff;
-    transition: all 0.2s ease;
 }

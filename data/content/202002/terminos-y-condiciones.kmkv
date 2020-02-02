@@ -1,0 +1,29 @@
+text <p>T&eacute;rminos y condiciones...</p>
+title No Pasa Nada
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/unused/garrazo.jpg
+}
+description No Pasa Nada: términos y condiciones
+year 2020
+featured{kmkv} {
+    title 
+    text1 
+    text2 
+    pretitle 
+    highlightColor 
+}
+subtextLeft 
+type text
+subtitle Términos y Condiciones
+month 02
+tags{array} 
+subtextRight 
+videoID 
+titlePoster 
+color #ffb3a1

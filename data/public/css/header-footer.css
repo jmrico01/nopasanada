@@ -1,0 +1,95 @@
+#website {
+    margin: 0;
+}
+
+/* =========================================== HEADER =========================================== */
+
+#header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 7.8125vw;
+    z-index: 10;
+    margin: auto;
+
+    color: #ffffff;
+    background-color: rgba(0%, 0%, 0%, 0%);
+}
+
+#headerContainer {
+    position: relative;
+    height: 100%;
+    margin-left:  3.125vw;
+    margin-right: 3.125vw;
+    overflow: hidden;
+}
+
+#headerLogo {
+    position: absolute;
+    left: 3vw;
+    top: 2.4vw;
+}
+#headerLogo a {
+    color: inherit;
+}
+
+#headerCategories {
+    position: absolute;
+    left: 24.95vw;
+    right: 0;
+    top: 2.92vw;
+}
+
+.headerCategory {
+    float: left;
+    padding-right: 3.2vw;
+}
+.headerCategory a {
+    display: block;
+    height: 100%;
+}
+
+/* =========================================== FOOTER =========================================== */
+
+#footer {
+    height: 14.0625vw;
+
+    text-align: center;
+    background-color: #212226;
+    color: #5e7b81;
+}
+
+#footerRedStripe {
+    width: 100%;
+    height: 0.78125vw;
+    background-color: #d23a28;
+}
+
+#footerLogo {
+    color: #ffffff;
+    margin-top: 1.5625vw;
+    margin-bottom: 1.5625vw;
+}
+
+.footerSection {
+    display: inline-block;
+    padding-left: 3.2vw;
+    padding-bottom: 0.78125vw;
+    margin: 0 auto;
+}
+
+.footerSectionCategory {
+    display: inline-block;
+    padding-right: 3.2vw;
+}
+.footerSectionCategory a {
+    display: block;
+    height: 100%;
+
+    text-decoration: none;
+}
+.footerSectionCategory a:hover {
+    color: #ffffff;
+    transition: all 0.2s ease;
+}

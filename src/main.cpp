@@ -1287,6 +1287,12 @@ int main(int argc, char** argv)
 		newKmkvPath.Append(currentDate.monthString[0]);
 		newKmkvPath.Append(currentDate.monthString[1]);
 		newKmkvPath.Append('/');
+		if (!CreateDirRecursive(newKmkvPath.ToArray())) {
+			fprintf(stderr, "Failed to create directory in newEntry request: %.*s\n",
+				(int)newKmkvPath.size, newKmkvPath.data);
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
 		newKmkvPath.Append(name->ToArray());
 		newKmkvPath.Append(ToString(".kmkv"));
 		Array<uint8> newData = { .size = srcKmkvString.size, .data = (uint8*)srcKmkvString.data };
