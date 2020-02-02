@@ -818,6 +818,9 @@ int main(int argc, char** argv)
 
 		auto AuthorStringConvert = [&uri](const Array<char>& author, FixedArray<char, 64>* outString) {
 			outString->Clear();
+			if (author.size == 0) {
+				return true;
+			}
 			outString->Append(ToString("POR "));
 			DynamicArray<char> authorUpper;
 			if (!Utf8ToUppercase(author, &authorUpper)) {
