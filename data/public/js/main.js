@@ -199,7 +199,7 @@ function IsFeaturedImageSetLoaded(category, featuredIndex)
         return false;
     }
     for (let i = 0; i < imageSet.length; i++) {
-        if (!imageSet[i].hasOwnProperty("loaded") || !imageSet[i].loaded) {
+        if (!imageSet[i].hasOwnProperty("_npn_loaded") || !imageSet[i]._npn_loaded) {
             return false;
         }
     }
@@ -273,13 +273,13 @@ function LoadFeaturedImageSetIfNotLoaded(category, index, callback)
     }
     const nextImageSet = featuredEntries_[category][index].images;
     for (let i = 0; i < nextImageSet.length; i++) {
-        if (featuredImages_[category][index][i].loading) {
+        if (featuredImages_[category][index][i]._npn_loading) {
             continue;
         }
-        featuredImages_[category][index][i].loading = true;
+        featuredImages_[category][index][i]._npn_loading = true;
         featuredImages_[category][index][i].onload = function() {
-            featuredImages_[category][index][i].loaded = true;
-            featuredImages_[category][index][i].loading = false;
+            featuredImages_[category][index][i]._npn_loaded = true;
+            featuredImages_[category][index][i]._npn_loading = false;
             if (IsFeaturedImageSetLoaded(category, index)) {
                 OnFeaturedImageSetLoaded(category, index);
                 callback();
@@ -320,8 +320,8 @@ function OnFeaturedEntriesLoaded(featured)
                     let images = [];
                     for (let k = 0; k < entry.images.length; k++) {
                         let img = new Image;
-                        img.loaded = false;
-                        img.loading = false;
+                        img._npn_loaded = false;
+                        img._npn_loading = false;
                         images.push(img);
                         let imageId = GetFeaturedImageId(category, featuredImages_[category].length, k);
                         $("#landingImageCycler").append("<img id=\"" + imageId + "\" class=\"featuredImage\" src=\"\">");
