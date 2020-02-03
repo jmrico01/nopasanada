@@ -339,12 +339,20 @@ function OnFeaturedEntriesLoaded(featured)
 
 function ResetEntries(entries)
 {
+    const currentCategory = GetCurrentCategory();
+
     collectionEntries_ = [];
     recentArticleEntries_ = [];
     recentVideosEntries_ = [];
     for (let i = 0; i < entries.length; i++) {
         const entry = entries[i];
-        const match = entry.tags.indexOf(GetCurrentCategory()) !== -1;
+        let match = false;
+        for (let j = 0; j < entry.tags.length; j++) {
+            if (entry.tags[j].includes(currentCategory)) {
+                match = true;
+                break;
+            }
+        }
         if (match) {
             if (entry.tags.indexOf(TAG_COLLECTION) !== -1) {
                 collectionEntries_.push(JSON.parse(JSON.stringify(entry)));
@@ -382,6 +390,15 @@ function OnHashChanged()
     let category = GetCurrentCategory();
     if (category !== prevCategory_) {
         prevCategory_ = category;
+        if (category === TAG_HOME) {
+            $("#collection").show();
+            $("#subscribe").show();
+        }
+        else {
+            $("#collection").hide();
+            $("#subscribe").hide();
+        }
+
         SetFeaturedInfo(featuredEntries_[category][0]);
         let imageSet = featuredImages_[category][0];
         if (IsFeaturedImageSetLoaded(imageSet)) {
@@ -394,14 +411,6 @@ function OnHashChanged()
         }
 
         ResetEntries(allEntries_);
-        if (category === TAG_HOME) {
-            $("#collection").show();
-            $("#subscribe").show();
-        }
-        else {
-            $("#collection").hide();
-            $("#subscribe").hide();
-        }
     }
 }
 

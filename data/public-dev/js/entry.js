@@ -4,12 +4,12 @@
 
 const VALID_TAGS = [
     "home", "coleccion", "articulo", "video",
-    "noticias", "noticias-video", "noticias-culturales", "noticias-politica",
+    "noticias-video", "noticias-culturales", "noticias-politica",
     "opinion",
-    "guia", "guia-comida", "guia-bebidas", "guia-viaje",
-    "venus", "venus-derechos", "venus-inspiradoras", "venus-moda", "venus-belleza", "venus-salud",
-    "ludi", "ludi-futbol", "ludi-moto",
-    "mas", "mas-ambiente", "mas-saludmental", "mas-saludciencia", "mas-artemusica", "mas-cine",
+    "guia-comida", "guia-bebidas", "guia-viaje",
+    "venus-derechos", "venus-inspiradoras", "venus-moda", "venus-belleza", "venus-salud",
+    "ludi-futbol", "ludi-moto",
+    "mas-ambiente", "mas-saludmental", "mas-saludciencia", "mas-artemusica", "mas-cine",
     "other"
 ];
 
