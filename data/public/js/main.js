@@ -183,7 +183,7 @@ function IsFeaturedImageSetLoaded(imageSet)
         return false;
     }
     for (let i = 0; i < imageSet.length; i++) {
-        if (!imageSet[i].hasOwnProperty("loaded") || !imageSet[i].loaded) {
+        if (!imageSet[i].hasOwnProperty("_npn_loaded") || !imageSet[i]._npn_loaded) {
             return false;
         }
     }
@@ -253,13 +253,13 @@ function LoadFeaturedImageSetIfNotLoaded(imageSet, callback)
         return;
     }
     for (let i = 0; i < imageSet.length; i++) {
-        if (imageSet[i].loading) {
+        if (imageSet[i]._npn_loading) {
             continue;
         }
-        imageSet[i].loading = true;
+        imageSet[i]._npn_loading = true;
         imageSet[i].onload = function() {
-            imageSet[i].loaded = true;
-            imageSet[i].loading = false;
+            imageSet[i]._npn_loaded = true;
+            imageSet[i]._npn_loading = false;
             if (IsFeaturedImageSetLoaded(imageSet)) {
                 OnFeaturedImageSetLoaded(imageSet);
                 callback();
@@ -313,8 +313,8 @@ function OnFeaturedEntriesLoaded(featured)
             let images = [];
             for (let j = 0; j < entry.images.length; j++) {
                 let img = new Image;
-                img.loaded = false;
-                img.loading = false;
+                img._npn_loaded = false;
+                img._npn_loading = false;
                 img.divId = "featuredInfo-" + category + "-" + featuredImages_[category].length.toString() + "-" + j.toString();
                 img.imageUrl = entry.images[j];
                 images.push(img);
