@@ -24,7 +24,7 @@ media{kmkv} {
     sweden8{image} /images/201912/22-navidad-laica/sweden8.jpg
     finalsweden{image} /images/201912/22-navidad-laica/finalsweden.jpg
 }
-tags{array} noticias-loimportante, home
+tags{array} noticias-loimportante
 title ¿Qué pasó en la Asamblea Nacional de Venezuela?
 description Las últimas 48 horas han sido explosivas en Venezuela. ¿Que ha pasado?
 day 07

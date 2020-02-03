@@ -6,10 +6,9 @@ const IMAGE_BASE_URL = ".";
 const FEATURED_IMAGE_FADE_MS = 400;
 const IMAGE_ANIM_MS = 250;
 
-const TAG_HOME       = "home";
-const TAG_COLLECTION = "coleccion";
-const TAG_ARTICLE    = "articulo";
-const TAG_VIDEO      = "video";
+const TAG_HOME         = "home";
+const TAG_COLLECTION   = "coleccion";
+const ENTRY_TYPE_VIDEO = "video";
 
 let allEntries_ = null;
 let featuredEntries_ = null;
@@ -35,14 +34,12 @@ let prevCategory_ = null;
 
 function GetCurrentCategory()
 {
-    if (featuredEntries_ !== null) {
-        let hash = window.location.hash;
-        let hashIndex = hash.indexOf("#");
-        if (hashIndex !== -1) {
-            let hashCategory = hash.substring(hashIndex + 1, hash.length);
-            if (featuredEntries_.hasOwnProperty(hashCategory) !== -1) {
-                return hashCategory;
-            }
+    let hash = window.location.hash;
+    let hashIndex = hash.indexOf("#");
+    if (hashIndex !== -1) {
+        let hashCategory = hash.substring(hashIndex + 1, hash.length);
+        if (hashCategory.length > 0) {
+            return hashCategory;
         }
     }
 
@@ -341,6 +338,15 @@ function ResetEntries(entries)
 {
     const currentCategory = GetCurrentCategory();
 
+    if (currentCategory === TAG_HOME) {
+        $("#collection").show();
+        $("#subscribe").show();
+    }
+    else {
+        $("#collection").hide();
+        $("#subscribe").hide();
+    }
+
     collectionEntries_ = [];
     recentArticleEntries_ = [];
     recentVideosEntries_ = [];
@@ -357,11 +363,11 @@ function ResetEntries(entries)
             }
         }
         if (matchCategory) {
-            if (entry.tags.indexOf(TAG_ARTICLE) !== -1) {
-                recentArticleEntries_.push(JSON.parse(JSON.stringify(entry)));
-            }
-            if (entry.tags.indexOf(TAG_VIDEO) !== -1) {
+            if (entry.type === ENTRY_TYPE_VIDEO) {
                 recentVideosEntries_.push(JSON.parse(JSON.stringify(entry)));
+            }
+            else {
+                recentArticleEntries_.push(JSON.parse(JSON.stringify(entry)));
             }
         }
     }
@@ -370,6 +376,15 @@ function ResetEntries(entries)
     RenderCollectionEntries(collectionEntries_);
     ResetRecentArticleEntries(recentArticleEntries_);
     ResetRecentVideoEntries(recentVideosEntries_);
+
+    let recentArticlesHeight = $("#recentArticles").height();
+    let recentVideosHeight = $("#recentVideos").height();
+    if (recentArticlesHeight > recentVideosHeight) {
+        $("#recent").css("background-color", "#000000");
+    }
+    else {
+        $("#recent").css("background-color", "#ffffff");
+    }
 }
 
 function OnAllEntriesLoaded(entries)
@@ -390,14 +405,6 @@ function OnHashChanged()
     let category = GetCurrentCategory();
     if (category !== prevCategory_) {
         prevCategory_ = category;
-        if (category === TAG_HOME) {
-            $("#collection").show();
-            $("#subscribe").show();
-        }
-        else {
-            $("#collection").hide();
-            $("#subscribe").hide();
-        }
 
         SetFeaturedInfo(featuredEntries_[category][0]);
         let imageSet = featuredImages_[category][0];
