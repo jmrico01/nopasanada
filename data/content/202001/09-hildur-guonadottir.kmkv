@@ -1,38 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle CULTURA:
-    title HILDUR <b>GUÐNADÓTTIR<b>
-    text1 LA COMPOSITORA DETRÁS DE LOS MEJORES SCORES ORIGINALES DEL 2019.
-    text2 POR LUISA MORA FERNÁNDEZ
-    highlightColor #00ffff
-}
-media{kmkv} {
-    header{image} /images/202001/headers/09-hildur-guonadottir.jpg
-    poster{image} /images/202001/posters/09-hildur-guonadottir.jpg
-    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
-    postre{image} /images/201912/09-al-mercat/postre.jpg
-    header2{image} /images/201912/09-al-mercat/header2.jpg
-    bottom{image} /images/201912/09-al-mercat/bottom.jpg
-    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
-    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
-    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
-    sweden1{image} /images/201912/22-navidad-laica/sweden1.jpg
-    sweden2{image} /images/201912/22-navidad-laica/sweden2.jpg
-    sweden4{image} /images/201912/22-navidad-laica/sweden4.jpg
-    sweden5{image} /images/201912/22-navidad-laica/sweden5.jpg
-    sweden7{image} /images/201912/22-navidad-laica/sweden7.jpg
-    sweden8{image} /images/201912/22-navidad-laica/sweden8.jpg
-    finalsweden{image} /images/201912/22-navidad-laica/finalsweden.jpg
-}
-tags{array} cultura, home, opinion
-title Hildur Guðnadóttir: sin su música, “Chernobyl” y “Joker” no serían lo mismo.
-description La música - y más allá de eso, el diseño de sonido en general - puede hacer o deshacer una película. La música de Hildur Guðnadóttir para “Chernobyl” y “Joker” tuvo todo que ver con el éxito narrativo de estas producciones.
-day 09
-month 01
-year 2020
-color #00ffff
-author Luisa Mora Fernández
-subtitle La música - y más allá de eso, el diseño de sonido en general - puede hacer o deshacer una película: cómo la música de la islandesa Hildur Guðnadóttir aseguró el éxito de Chernobyl y Joker.
 text {
 <p>Cr&eacute;dito foto de cabecera Kevin Winter / Getty Images North America / AFP</p>
 <p>En una categor&iacute;a hist&oacute;ricamente dominada por hombres, una mujer Escandinava - esa regi&oacute;n m&iacute;tica por su equidad de g&eacute;nero, al menos en los sentidos m&aacute;s pragm&aacute;ticos - se posicion&oacute; por sobre los otros nominados - todos hombres - y se llev&oacute; el premio a mejor <em>score original</em> en los Globos de Oro. &iquest;Sab&iacute;an que la misma mujer gan&oacute; el Emmy en septiembre, pero por otro trabajo?</p>
@@ -57,3 +22,45 @@ text {
 <p>$youtube/BBY4zUFxUjA$</p>
 <p>La m&uacute;sica hace o deshace. Hildur Gu&eth;nad&oacute;ttir es la arquitecta de dos de las monta&ntilde;as rusas emocionales m&aacute;s intensas que vivimos el a&ntilde;o pasado como audiencia. <strong>Hay que celebrarla.&nbsp;</strong></p>
 }
+title Hildur Guðnadóttir: sin su música, “Chernobyl” y “Joker” no serían lo mismo.
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header2 /images/201912/09-al-mercat/header2.jpg
+    header /images/202001/headers/09-hildur-guonadottir.jpg
+    sweden1 /images/201912/22-navidad-laica/sweden1.jpg
+    sweden2 /images/201912/22-navidad-laica/sweden2.jpg
+    sweden4 /images/201912/22-navidad-laica/sweden4.jpg
+    sweden5 /images/201912/22-navidad-laica/sweden5.jpg
+    sweden7 /images/201912/22-navidad-laica/sweden7.jpg
+    sweden8 /images/201912/22-navidad-laica/sweden8.jpg
+    portraitofalady /images/201912/12-gustav-klimt/portraitofalady.jpg
+    postre /images/201912/09-al-mercat/postre.jpg
+    platofuerte /images/201912/09-al-mercat/platofuerte.jpg
+    poster /images/202001/posters/09-hildur-guonadottir.jpg
+    annakarina1 /images/201912/17-anna-karina/annakarina1.jpg
+    annakarina2 /images/201912/17-anna-karina/annakarina2.jpg
+    finalsweden /images/201912/22-navidad-laica/finalsweden.jpg
+    bottom /images/201912/09-al-mercat/bottom.jpg
+}
+description La música - y más allá de eso, el diseño de sonido en general - puede hacer o deshacer una película. La música de Hildur Guðnadóttir para “Chernobyl” y “Joker” tuvo todo que ver con el éxito narrativo de estas producciones.
+year 2020
+author Luisa Mora Fernández
+featured{kmkv} {
+    title HILDUR <b>GUÐNADÓTTIR<b>
+    text1 LA COMPOSITORA DETRÁS DE LOS MEJORES SCORES ORIGINALES DEL 2019.
+    text2 POR LUISA MORA FERNÁNDEZ
+    pretitle CULTURA:
+    highlightColor #00ffff
+}
+type article
+subtitle La música - y más allá de eso, el diseño de sonido en general - puede hacer o deshacer una película: cómo la música de la islandesa Hildur Guðnadóttir aseguró el éxito de Chernobyl y Joker.
+month 01
+tags{array} noticias-culturales,venus-inspiradoras,mas-cine
+videoID 
+titlePoster 
+color #00ffff

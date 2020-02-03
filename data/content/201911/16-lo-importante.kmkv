@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201911/headers/16-lo-importante.jpg
     poster{image} /images/201911/posters/16-lo-importante.jpg
 }
-tags{array} noticias
+tags{array} noticias-loimportante
 title LO IMPORTANTE 16.11.19
 description Incertidumbre es el sentimiento con el cual Venezuela ha vivido ya más de dos décadas y que hoy 16 de Noviembre no solo se siente pero se magnifica.
 day 16

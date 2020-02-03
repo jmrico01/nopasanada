@@ -1,30 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle OPINIÓN:
-    title OK<br><b>BOOMER</b>
-    text1 EL MANIFIESTO DETRÁS DEL MEME.
-    text2 EDITORIAL NO PASA NADA.
-    highlightColor #ff613c
-}
-media{kmkv} {
-    header{image} /images/201911/headers/26-ok-boomer.jpg
-    poster{image} /images/201911/posters/26-ok-boomer.jpg
-    ceviche1{image} /images/201911/13-ceviches/ceviche1.jpg
-    ceviche2{image} /images/201911/13-ceviches/ceviche2.jpg
-    boomer1{image} /images/201911/26-ok-boomer/boomer1.jpg
-    boomer2{image} /images/201911/26-ok-boomer/boomer2.jpg
-    boomer3{image} /images/201911/26-ok-boomer/boomer3.jpg
-    boomer4{image} /images/201911/26-ok-boomer/boomer4.jpg
-}
-tags{array} opinion
-title OK BOOMER: el manifiesto detrás del meme.
-description Lo que está detrás del meme que une a la GenZ y los Millennials: “así que, boomers... hablemos - pero no solo eso: escuchémonos. Hasta que eso no pase, seguiremos saliendo de la conversación con la cabeza en alto, al mejor estilo descarado del OK, BOOMER.”
-day 26
-month 11
-year 2019
-color #ffb3a1
-author NO PASA NADA
-subtitle OK BOOMER es un meme que trasciende fronteras, porque convierte la desesperanza de las nuevas generaciones en comedia.
 text {
 <p>Los memes son como ensayos sociales colectivos: una buena broma posteada en alguna esquina oscura del internet puede convertirse de pronto en un manifiesto, que crece y crece colaborativamente. Algunos, son m&aacute;s nicho; rebuscados, locales, cr&iacute;pticos - pero parece que cuando un meme es bueno, y deja espacio para la imaginaci&oacute;n, es posible aplicarlo a cualquier contexto.</p>
 <p>Otros, se viralizan y se vuelven tendencias porque, de alguna forma, nos conciernen a todos, sin importar d&oacute;nde estemos. A la hora de consumirlos, nos retan a ver m&aacute;s all&aacute; de la broma, y entender el mensaje y las circunstancias debajo de la superficie. Este es el caso del meme del momento: el &ldquo;OK, BOOMER.&rdquo;</p>
@@ -45,3 +18,37 @@ text {
 <p>As&iacute; que, <em>boomers</em>: hablemos&hellip; pero no solo eso: escuch&eacute;monos. Y <em>sorry</em>, hasta que eso no pase, seguiremos saliendo de la conversaci&oacute;n con la cabeza en alto, al mejor estilo descarado del &ldquo;OK, BOOMER.&rdquo;</p>
 <p>$image/boomer4$</p>
 }
+title OK BOOMER: el manifiesto detrás del meme.
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201911/headers/26-ok-boomer.jpg
+    ceviche1 /images/201911/13-ceviches/ceviche1.jpg
+    ceviche2 /images/201911/13-ceviches/ceviche2.jpg
+    boomer1 /images/201911/26-ok-boomer/boomer1.jpg
+    boomer2 /images/201911/26-ok-boomer/boomer2.jpg
+    boomer3 /images/201911/26-ok-boomer/boomer3.jpg
+    boomer4 /images/201911/26-ok-boomer/boomer4.jpg
+    poster /images/201911/posters/26-ok-boomer.jpg
+}
+description Lo que está detrás del meme que une a la GenZ y los Millennials: “así que, boomers... hablemos - pero no solo eso: escuchémonos. Hasta que eso no pase, seguiremos saliendo de la conversación con la cabeza en alto, al mejor estilo descarado del OK, BOOMER.”
+year 2019
+author NO PASA NADA
+featured{kmkv} {
+    title OK<br><b>BOOMER</b>
+    text1 EL MANIFIESTO DETRÁS DEL MEME.
+    text2 EDITORIAL NO PASA NADA.
+    pretitle OPINIÓN:
+    highlightColor #ff613c
+}
+type article
+subtitle OK BOOMER es un meme que trasciende fronteras, porque convierte la desesperanza de las nuevas generaciones en comedia.
+month 11
+tags{array} opinion
+videoID 
+titlePoster 
+color #ffb3a1

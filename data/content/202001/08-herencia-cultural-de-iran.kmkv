@@ -1,36 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle CULTURA:
-    title 4 SITIOS DE <b>HERENCIA CULTURAL<b> IRANÍ
-    text1 UNA MUESTRA DE LO QUE SE PERDERÍA SI TRUMP LLEVARA A CABO SU AMENAZA DE GUERRA.
-    text2 POR NPN CULTURA
-    highlightColor #ffff00
-}
-media{kmkv} {
-    header{image} /images/202001/headers/08-herencia-cultural-de-iran.jpg
-    poster{image} /images/202001/posters/08-herencia-cultural-de-iran.jpg
-    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
-    postre{image} /images/201912/09-al-mercat/postre.jpg
-    header2{image} /images/201912/09-al-mercat/header2.jpg
-    bottom{image} /images/201912/09-al-mercat/bottom.jpg
-    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
-    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
-    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
-    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
-    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
-    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
-    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
-    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
-}
-tags{array} cultura, home
-title Conozca 4 de los sitios de interés cultural en Irán que Trump insistió en amenazar
-description La herencia cultural de Irán incluye testimonios milenarios de la creatividad y la invención humana. ¿Qué se perdería si Donald Trump cumpliera su disparatada promesa de llevar a cabo un crimen de guerra al atacar estos sitios?
-day 08
-month 01
-year 2020
-color #ffff00
-author NPN Cultura
-subtitle ¿Qué se perdería si Donald Trump cumpliera su disparatada promesa de atacar sitios de herencia cultural iraní?
 text {
 <p>Los &uacute;ltimos cuatro a&ntilde;os hemos sido testigos incontables veces de lo irracional que es Donald Trump cuando se le deja a sus propios medios; la prueba m&aacute;xima de eso lleg&oacute; la semana pasada, cuando - yendo en contra del congreso de los Estados Unidos - orden&oacute; el asesinato del Iran&iacute; Qasem Soleimani, general militar de alto rango a cargo de la unidad que orquestaba operaciones extraterritoriales y clandestinas. <strong>Adem&aacute;s, Trump amenaz&oacute; a Ir&aacute;n con destruir sus sitios de inter&eacute;s cultural, lo cual, dicen los expertos, es ilegal.</strong></p>
 <p>El presidente de los Estados Unidos, contin&uacute;a tweeteando - como es su costumbre - mensajes que no pasan por el filtro de ning&uacute;n equipo de comunicaci&oacute;n, y que muchas veces, ignoran la manera en la que el mundo real funciona. Aparte de exclamar al aire:<em> &iquest;realmente se atrevi&oacute; a decir eso?</em> solamente queda preguntarse con asombro <em>&iquest;c&oacute;mo contin&uacute;a sali&eacute;ndose este hombre con la suya?&nbsp;</em></p>
@@ -54,3 +21,43 @@ text {
 <p>$image/iranarmenianmonasteries$</p>
 <p>&nbsp;</p>
 }
+title Conozca 4 de los sitios de interés cultural en Irán que Trump insistió en amenazar
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header2 /images/201912/09-al-mercat/header2.jpg
+    irangarden /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    header /images/202001/headers/08-herencia-cultural-de-iran.jpg
+    portraitofalady /images/201912/12-gustav-klimt/portraitofalady.jpg
+    iranshushtar /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    postre /images/201912/09-al-mercat/postre.jpg
+    iranpersepolis /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    platofuerte /images/201912/09-al-mercat/platofuerte.jpg
+    iranarmenianmonasteries /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+    poster /images/202001/posters/08-herencia-cultural-de-iran.jpg
+    irangardenold /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    annakarina1 /images/201912/17-anna-karina/annakarina1.jpg
+    annakarina2 /images/201912/17-anna-karina/annakarina2.jpg
+    bottom /images/201912/09-al-mercat/bottom.jpg
+}
+description La herencia cultural de Irán incluye testimonios milenarios de la creatividad y la invención humana. ¿Qué se perdería si Donald Trump cumpliera su disparatada promesa de llevar a cabo un crimen de guerra al atacar estos sitios?
+year 2020
+author NPN Cultura
+featured{kmkv} {
+    title 4 SITIOS DE <b>HERENCIA CULTURAL<b> IRANÍ
+    text1 UNA MUESTRA DE LO QUE SE PERDERÍA SI TRUMP LLEVARA A CABO SU AMENAZA DE GUERRA.
+    text2 POR NPN CULTURA
+    pretitle CULTURA:
+    highlightColor #ffff00
+}
+type article
+subtitle ¿Qué se perdería si Donald Trump cumpliera su disparatada promesa de atacar sitios de herencia cultural iraní?
+month 01
+tags{array} guida-viaje,mas-arteymusica
+videoID 
+titlePoster 
+color #ffff00

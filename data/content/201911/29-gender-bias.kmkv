@@ -1,33 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle SOCIEDAD:
-    title GENDER BIAS
-    text1 EL DISEÑO DE LAS CIUDADES, LA TECNOLOGÍA, LA HISTORIA Y EL LENGUAJE: CUATRO EJEMPLOS DE VIOLENCIA DE GÉNERO COTIDIANA.
-    text2 POR NO PASA NADA EDITORIAL
-    highlightColor #ff613c
-}
-media{kmkv} {
-    header{image} /images/201911/headers/29-gender-bias.jpg
-    poster{image} /images/201911/posters/29-gender-bias.jpg
-    ceviche1{image} /images/201911/13-ceviches/ceviche1.jpg
-    ceviche2{image} /images/201911/13-ceviches/ceviche2.jpg
-    boomer1{image} /images/201911/26-ok-boomer/boomer1.jpg
-    boomer2{image} /images/201911/26-ok-boomer/boomer2.jpg
-    boomer3{image} /images/201911/26-ok-boomer/boomer3.jpg
-    boomer4{image} /images/201911/26-ok-boomer/boomer4.jpg
-    shawnstussy{image} /images/201911/27-stussy/shawnstussy.jpg
-    stussytribejacket{image} /images/201911/27-stussy/stussytribejacket.jpg
-    skaterstussy{image} /images/201911/27-stussy/skaterstussy.jpg
-}
-tags{array} cultura, opinion
-title “Gender bias”: la violencia de género cotidiana que pasamos por alto.
-description #25N: el diseño de las ciudades, la tecnología, la historia y el lenguaje: cuatro ejemplos de violencia de género cotidiana que pasamos por alto.
-day 29
-month 11
-year 2019
-color #ffb3a1
-author No Pasa Nada Editorial
-subtitle Cuatro ejemplos (aunque no son los únicos) del sexismo presente en el tejido de nuestra sociedad, con el que las mujeres convivimos diariamente.
 text {
 <p>El pasado 25 de noviembre fue el d&iacute;a internacional de la no violencia hacia la mujer, el cual viene siempre acompa&ntilde;ado de un an&aacute;lisis minucioso de los s&iacute;ntomas agudos (femicidio, violencia sexual, violencia intrafamiliar, discriminaci&oacute;n laboral) de la misoginia y el sexismo, que nos confirma que el descontento de las mujeres no es casual ni gratuito. En latinoam&eacute;rica, el machismo es pan de todos los d&iacute;as, y a&uacute;n se manifiesta de las formas m&aacute;s crueles e impactantes, destacando a la regi&oacute;n en un ranking de la verg&uuml;enza: <a href="https://www.dw.com/es/c%C3%B3mo-erradicar-el-feminicidio-en-am%C3%A9rica-latina/a-49574355">14 de los 25 pa&iacute;ses con mayor femicidio a nivel mundial son latinoamericanos.</a></p>
 <p>Lo dice muy bien un cartel presente en una marcha del 25N que se ha visto en redes: &ldquo;Vos est&aacute;s cansado de escucharlo, nosotras estamos cansadas de que nos pase.&rdquo; Las mujeres latinoamericanas estamos poniendo el cuerpo, tal cual l&iacute;nea de batalla. Movimientos como #NiUnaMenos o #VivasNosQueremos han ayudado a poner estos temas en el <em>spotlight</em>, y queda claro que para poder seguir con la conversaci&oacute;n, primero urge que dejen de matarnos.</p>
@@ -48,3 +18,40 @@ text {
 <p>El lenguaje contin&uacute;a siendo uno de los mecanismos m&aacute;s poderosos para ejercer la discriminaci&oacute;n de g&eacute;nero. Nuestras comunicaciones y escogencia de palabras influencian la manera en la que pensamos, y como un c&iacute;rculo vicioso, <a href="https://oxfordre.com/communication/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470">refuerzan los estereotipos acerca de las caracter&iacute;sticas y roles</a> que supuestamente deber&iacute;amos asumir los hombres y las mujeres. Un ejemplo claro de esto es que existen much&iacute;simas diferentes palabras para referirse a una mujer como &ldquo;promiscua&rdquo; (eufemismos y ofensas inclu&iacute;das) que las que existen para calificar de lo mismo a un hombre; y que esto es verdad en la mayor&iacute;a de los lenguajes.</p>
 <p>Estos cuatro ejemplos no son una lista exhaustiva; el dise&ntilde;o, las representaciones culturales, la vida familiar, la medicina, y la academia son otros ejemplos de lugares donde se esconde este tipo de sexismo, con el que convivimos diariamente y que nos cuesta tanto ver, porque lo hemos interiorizado como parte de &ldquo;la forma en la que son las cosas.&rdquo;</p>
 }
+title “Gender bias”: la violencia de género cotidiana que pasamos por alto.
+day 29
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201911/headers/29-gender-bias.jpg
+    skaterstussy /images/201911/27-stussy/skaterstussy.jpg
+    shawnstussy /images/201911/27-stussy/shawnstussy.jpg
+    ceviche1 /images/201911/13-ceviches/ceviche1.jpg
+    ceviche2 /images/201911/13-ceviches/ceviche2.jpg
+    boomer1 /images/201911/26-ok-boomer/boomer1.jpg
+    boomer2 /images/201911/26-ok-boomer/boomer2.jpg
+    boomer3 /images/201911/26-ok-boomer/boomer3.jpg
+    boomer4 /images/201911/26-ok-boomer/boomer4.jpg
+    stussytribejacket /images/201911/27-stussy/stussytribejacket.jpg
+    poster /images/201911/posters/29-gender-bias.jpg
+}
+description #25N: el diseño de las ciudades, la tecnología, la historia y el lenguaje: cuatro ejemplos de violencia de género cotidiana que pasamos por alto.
+year 2019
+author No Pasa Nada Editorial
+featured{kmkv} {
+    title GENDER BIAS
+    text1 EL DISEÑO DE LAS CIUDADES, LA TECNOLOGÍA, LA HISTORIA Y EL LENGUAJE: CUATRO EJEMPLOS DE VIOLENCIA DE GÉNERO COTIDIANA.
+    text2 POR NO PASA NADA EDITORIAL
+    pretitle SOCIEDAD:
+    highlightColor #ff613c
+}
+type article
+subtitle Cuatro ejemplos (aunque no son los únicos) del sexismo presente en el tejido de nuestra sociedad, con el que las mujeres convivimos diariamente.
+month 11
+tags{array} venus-derechos,opinion
+videoID 
+titlePoster 
+color #ffb3a1

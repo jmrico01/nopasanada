@@ -1,25 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle INFECCIONES DE
-    title <b>TRANSMISIÓN</b><br>SEXUAL<b>.</b>
-    text1 GUÍA COMPLETA A LAS INFECCIONES DE TRANSMISIÓN SEXUAL EN COSTA RICA, CORTESÍA DE NACIÓN OVULACIÓN.
-    text2 POR ALEJANDRA VÁZQUEZ.
-    highlightColor #ff613c
-}
-media{kmkv} {
-    header{image} /images/201910/headers/28-guia-completa-examenes-its.jpg
-    image1{image} /images/201910/28-guia-completa-examenes-its/1.png
-    image2{image} /images/201910/28-guia-completa-examenes-its/2.png
-}
-tags{array} ciencia
-title Infecciones de Transmisión Sexual: Guía completa
-description ¿Cada cuánto hacerse pruebas? ¿Cómo hablar al respecto con nuestras parejas? Te compartimos esta guía completa a las infecciones de transmisión sextual (ITS), cortesía de Alejandra Vázquez, quien con su proyecto @nacionovulacion nos insta a que hablemos sobre los temas de educación sexual que no nos enseñaron en el colegio.
-day 28
-month 10
-year 2019
-color #ffb3a1
-author Alejandra Vázquez
-subtitle Es momento de que hablemos sobre los temas que históricamente nos han dado vergüenza.
 text {
 <p><strong>Alejandra V&aacute;squez</strong> <em>es dise&ntilde;adora gr&aacute;fica y fot&oacute;grafa de profesi&oacute;n, y ha trabajado en publicidad por muchos a&ntilde;os. Sin embargo, est&aacute; dando un giro importante a su carrera para concentrarse en temas de g&eacute;nero y educaci&oacute;n sexual. Su proyecto &ldquo;Naci&oacute;n Ovulaci&oacute;n&rdquo; es una comunidad en redes para hablar sobre el ciclo menstrual y la sexualidad, tocando temas controversiales que hist&oacute;ricamente se han discutido poco en Costa Rica.</em></p>
 <hr />
@@ -66,3 +44,32 @@ text {
 <p>En cuanto a transmisi&oacute;n de ITS, <strong>el uso de cond&oacute;n correcto y constante (sumado a la vacuna contra el virus del papiloma humano y realizaci&oacute;n trimestral/semestral/anual (seg&uacute;n los comportamientos sexuales) de pruebas de ITS)</strong> es una de las formas de sexo m&aacute;s seguro y responsable que podemos tener en este momento en Costa Rica.</p>
 <p>Hacerse pruebas m&iacute;nimo una vez al a&ntilde;o es demostrar educaci&oacute;n sexual y responsabilidad por la salud propia y de las personas con las que nos relacionamos.</p>
 }
+title Infecciones de Transmisión Sexual: Guía completa
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201910/headers/28-guia-completa-examenes-its.jpg
+    image1 /images/201910/28-guia-completa-examenes-its/1.png
+    image2 /images/201910/28-guia-completa-examenes-its/2.png
+}
+description ¿Cada cuánto hacerse pruebas? ¿Cómo hablar al respecto con nuestras parejas? Te compartimos esta guía completa a las infecciones de transmisión sextual (ITS), cortesía de Alejandra Vázquez, quien con su proyecto @nacionovulacion nos insta a que hablemos sobre los temas de educación sexual que no nos enseñaron en el colegio.
+year 2019
+author Alejandra Vázquez
+featured{kmkv} {
+    title <b>TRANSMISIÓN</b><br>SEXUAL<b>.</b>
+    text1 GUÍA COMPLETA A LAS INFECCIONES DE TRANSMISIÓN SEXUAL EN COSTA RICA, CORTESÍA DE NACIÓN OVULACIÓN.
+    text2 POR ALEJANDRA VÁZQUEZ.
+    pretitle INFECCIONES DE
+    highlightColor #ff613c
+}
+type article
+subtitle Es momento de que hablemos sobre los temas que históricamente nos han dado vergüenza.
+month 10
+tags{array} mas-saludyciencia
+videoID 
+titlePoster 
+color #ffb3a1

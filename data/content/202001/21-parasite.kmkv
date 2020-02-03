@@ -1,48 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle CULTURA:
-    title <b>PARASITE<b>
-    text1 NUESTRO REVIEW DE LA PELÍCULA SURCOREANA QUE ESTÁ ARRASANDO CON HOLLYWOOD.
-    text2 POR MARCO GOLCHER
-    highlightColor #00ffff
-}
-media{kmkv} {
-    header{image} /images/202001/headers/21-parasite.jpg
-    poster{image} /images/202001/posters/21-parasite.jpg
-    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
-    postre{image} /images/201912/09-al-mercat/postre.jpg
-    header2{image} /images/201912/09-al-mercat/header2.jpg
-    bottom{image} /images/201912/09-al-mercat/bottom.jpg
-    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
-    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
-    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
-    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
-    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
-    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
-    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
-    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
-    trumpflag{image} /images/202001/necesita-saber-iran/trumpflag.jpg
-    trumptweet{image} /images/202001/necesita-saber-iran/trumptweet.jpg
-    tweet1{image} /images/202001/necesita-saber-iran/tweet1.jpg
-    zariftweet{image} /images/202001/necesita-saber-iran/zariftweet.jpg
-    perdidas{image} /images/202001/necesita-saber-iran/perdidas.jpg
-    respuesta{image} /images/202001/necesita-saber-iran/respuesta.jpg
-    dubai{image} /images/202001/necesita-saber-iran/dubai.jpg
-    propaganda{image} /images/202001/necesita-saber-iran/propaganda.jpg
-    museeparismonet{image} /images/202001/17-musee-paris/museeparismonet.jpg
-    museeparisgautier{image} /images/202001/17-musee-paris/museeparisgautier.jpg
-    museeparishippodrome{image} /images/202001/17-musee-paris/museeparishippodrome.jpg
-    museeparislouis{image} /images/202001/17-musee-paris/museeparislouis.jpg
-}
-tags{array} cultura, home
-title Parasite: oscura, graciosa e intrigante
-description Parasite: la película surcoreana que está causando revuelo en Hollywood, es una obra maestra que nos confronta con la verdad sobre nuestra sociedad. No es descabellado pensar que se lleve el Óscar a mejor película. #review
-day 21
-month 01
-year 2020
-color #00ffff
-author Marco Golcher
-subtitle La película sumerge a la audiencia en un mundo que es injusto y hasta cruel, pero rico en ironía, humor y sorpresas.
 text {
 <p>Cerca del inicio de Parasite (2019), el personaje de Song Kang-ho mata sin cuidado un insecto que lo molesta mientras est&aacute; comiendo con su familia en su pobre apartamento subterr&aacute;neo, para luego remarcar que necesitan fumigarlo. Esta breve escena encierra a plena vista la clave de esta pel&iacute;cula: que estamos obsesionados con estar siempre encima de alguien; la opresi&oacute;n es inevitable en un sistema que se beneficia del conflicto vertical.&nbsp;</p>
 <p>El hambre de poder y dinero es el motor que alimenta la historia de Parasite, la m&aacute;s reciente obra del cineasta surcoreano Bong Joon-ho: una exploraci&oacute;n oscura, graciosa e intrigante de la poco sana relaci&oacute;n que se forma entre dos familias viviendo situaciones econ&oacute;micas sumamente diferentes. Esta relaci&oacute;n inicia cuando Kim Ki-woo, el hijo de la pobre familia Kim, se vuelve tutor de Park Da-hye, la hija de la adinerada familia Park. De ah&iacute;, la historia avanza y toma giros que revelan el lado perverso de las relaciones entre clases sociales, y de la ambici&oacute;n como un veneno que lentamente consume las vidas de esta familia.</p>
@@ -55,3 +10,55 @@ text {
 <p>En un mundo post Roma (2018), no suena descabellado pensar que Bong Joon-ho sea &nbsp;el primer cineasta coreano en recibir el premio Oscar a mejor pel&iacute;cula y mejor director, lo cual se vuelve m&aacute;s indignante mientras uno lo piensa: &iquest;c&oacute;mo es posible que la academia haya ignorado por tanto tiempo al cine coreano? Este pa&iacute;s asi&aacute;tico ha sido responsable de algunas de las mejores contribuciones al arte cinematogr&aacute;fico, pero hasta la fecha, Parasite es la primera y &uacute;nica pel&iacute;cula surcoreana nominada al oscar a mejor pel&iacute;cula. Es un alivio que con esta cinta, las audiencias occidentales le han empezado a dar al cine coreano la atenci&oacute;n que merece.</p>
 <p>$youtube/SEUXfv87Wpk$</p>
 }
+title Parasite: oscura, graciosa e intrigante
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header2 /images/201912/09-al-mercat/header2.jpg
+    museeparishippodrome /images/202001/17-musee-paris/museeparishippodrome.jpg
+    irangarden /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    header /images/202001/headers/21-parasite.jpg
+    trumpflag /images/202001/necesita-saber-iran/trumpflag.jpg
+    trumptweet /images/202001/necesita-saber-iran/trumptweet.jpg
+    portraitofalady /images/201912/12-gustav-klimt/portraitofalady.jpg
+    iranshushtar /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    postre /images/201912/09-al-mercat/postre.jpg
+    iranpersepolis /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    perdidas /images/202001/necesita-saber-iran/perdidas.jpg
+    platofuerte /images/201912/09-al-mercat/platofuerte.jpg
+    museeparismonet /images/202001/17-musee-paris/museeparismonet.jpg
+    propaganda /images/202001/necesita-saber-iran/propaganda.jpg
+    iranarmenianmonasteries /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+    poster /images/202001/posters/21-parasite.jpg
+    tweet1 /images/202001/necesita-saber-iran/tweet1.jpg
+    respuesta /images/202001/necesita-saber-iran/respuesta.jpg
+    irangardenold /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    museeparislouis /images/202001/17-musee-paris/museeparislouis.jpg
+    annakarina1 /images/201912/17-anna-karina/annakarina1.jpg
+    annakarina2 /images/201912/17-anna-karina/annakarina2.jpg
+    museeparisgautier /images/202001/17-musee-paris/museeparisgautier.jpg
+    zariftweet /images/202001/necesita-saber-iran/zariftweet.jpg
+    bottom /images/201912/09-al-mercat/bottom.jpg
+    dubai /images/202001/necesita-saber-iran/dubai.jpg
+}
+description Parasite: la película surcoreana que está causando revuelo en Hollywood, es una obra maestra que nos confronta con la verdad sobre nuestra sociedad. No es descabellado pensar que se lleve el Óscar a mejor película. #review
+year 2020
+author Marco Golcher
+featured{kmkv} {
+    title <b>PARASITE<b>
+    text1 NUESTRO REVIEW DE LA PELÍCULA SURCOREANA QUE ESTÁ ARRASANDO CON HOLLYWOOD.
+    text2 POR MARCO GOLCHER
+    pretitle CULTURA:
+    highlightColor #00ffff
+}
+type article
+subtitle La película sumerge a la audiencia en un mundo que es injusto y hasta cruel, pero rico en ironía, humor y sorpresas.
+month 01
+tags{array} noticias-culturales,mas-cine
+videoID 
+titlePoster 
+color #00ffff

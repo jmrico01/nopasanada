@@ -1,48 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle CIENCIA:
-    title <b>¿SUPERNOVA<b><br>BETELGEUSE?
-    text1 ES CIERTO QUE LA ESTRELLA ESTÁ EXHIBIENDO COMPORTAMIENTOS “EXTRAÑOS”... PERO, ¿ES REALMENTE INMINENTE SU EXPLOSIÓN?
-    text2 POR NPN CIENCIA
-    highlightColor #00ffff
-}
-media{kmkv} {
-    header{image} /images/202001/headers/20-supernova-betelgeuse.jpg
-    poster{image} /images/202001/posters/20-supernova-betelgeuse.jpg
-    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
-    postre{image} /images/201912/09-al-mercat/postre.jpg
-    header2{image} /images/201912/09-al-mercat/header2.jpg
-    bottom{image} /images/201912/09-al-mercat/bottom.jpg
-    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
-    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
-    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
-    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
-    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
-    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
-    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
-    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
-    trumpflag{image} /images/202001/necesita-saber-iran/trumpflag.jpg
-    trumptweet{image} /images/202001/necesita-saber-iran/trumptweet.jpg
-    tweet1{image} /images/202001/necesita-saber-iran/tweet1.jpg
-    zariftweet{image} /images/202001/necesita-saber-iran/zariftweet.jpg
-    perdidas{image} /images/202001/necesita-saber-iran/perdidas.jpg
-    respuesta{image} /images/202001/necesita-saber-iran/respuesta.jpg
-    dubai{image} /images/202001/necesita-saber-iran/dubai.jpg
-    propaganda{image} /images/202001/necesita-saber-iran/propaganda.jpg
-    museeparismonet{image} /images/202001/17-musee-paris/museeparismonet.jpg
-    museeparisgautier{image} /images/202001/17-musee-paris/museeparisgautier.jpg
-    museeparishippodrome{image} /images/202001/17-musee-paris/museeparishippodrome.jpg
-    museeparislouis{image} /images/202001/17-musee-paris/museeparislouis.jpg
-}
-tags{array} ciencia, home
-title ¿Veremos a la estrella Betelgeuse convertirse en supernova pronto?
-description ¿Es inminente la explosión de la estrella Betelgeuse? El cielo estrellado de noche: una estrella desaparece, para de repente brillar del tamaño de la luna… suena como un espectáculo sin igual pero, ¿qué tan posible es que suceda mientras vivimos y de verdad se vería de esa forma?
-day 20
-month 01
-year 2020
-color #00ffff
-author NPN Ciencia
-subtitle Es cierto que la estrella está exhibiendo comportamientos “extraños” últimamente... pero, ¿es realmente inminente su explosión?
 text {
 <p>Imaginen el cielo estrellado de noche, y una estrella que desaparece, para de repente brillar del tama&ntilde;o de la luna, cambiando la topograf&iacute;a de las constelaciones para siempre... &iquest;qui&eacute;n no quisiera ver este espect&aacute;culo sucediendo en tiempo real? Quiz&aacute; por eso, la noticia de que la estrella Betelgeuse tal vez se convierta en supernova ha estado d&aacute;ndole la vuelta al mundo en estos d&iacute;as.&nbsp;</p>
 <p><strong>Pero, &iquest;qu&eacute; tan cierto/posible es que veamos esto suceder mientras vivimos?&nbsp;</strong></p>
@@ -53,3 +8,55 @@ text {
 <p>Adem&aacute;s, de explotar, la supernova no necesariamente alcanzar&iacute;a el brillo de la luna: eso depender&iacute;a de qu&eacute; quede despu&eacute;s (solo suceder&iacute;a si se convirtiese en una estrella de neutrones). Seg&uacute;n &ldquo;<a href="https://www.forbes.com/sites/jamiecartereurope/2020/01/17/the-truth-about-betelgeuse-the-red-supergiant-star-that-will-explode-as-a-spectacular-supernova/#1ceef2c611bf">La verdad acerca de Betelgeuse</a>&rdquo;, art&iacute;culo publicado por Forbes, &ldquo;no todas las supernovas se convierte en estrellas de neutrones, y no todas las estrellas de neutrones tienen alta energ&iacute;a o campos magn&eacute;ticos altos.&rdquo;</p>
 <p>Como ven, todo resulta muy incierto. Por ahora, la reducci&oacute;n en el brillo de la estrella puede ser catalogado m&aacute;s como un fen&oacute;meno interesante que una explosi&oacute;n inminente, lo cual no hace el fen&oacute;meno menos emocionante para la comunidad cient&iacute;fica: pocas veces suceden cambios tan abruptos, disponibles para hacer observaciones astron&oacute;micas justo mientras est&aacute;n sucediendo.&nbsp;</p>
 }
+title ¿Veremos a la estrella Betelgeuse convertirse en supernova pronto?
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header2 /images/201912/09-al-mercat/header2.jpg
+    museeparishippodrome /images/202001/17-musee-paris/museeparishippodrome.jpg
+    irangarden /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    header /images/202001/headers/20-supernova-betelgeuse.jpg
+    trumpflag /images/202001/necesita-saber-iran/trumpflag.jpg
+    trumptweet /images/202001/necesita-saber-iran/trumptweet.jpg
+    portraitofalady /images/201912/12-gustav-klimt/portraitofalady.jpg
+    iranshushtar /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    postre /images/201912/09-al-mercat/postre.jpg
+    iranpersepolis /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    perdidas /images/202001/necesita-saber-iran/perdidas.jpg
+    platofuerte /images/201912/09-al-mercat/platofuerte.jpg
+    museeparismonet /images/202001/17-musee-paris/museeparismonet.jpg
+    propaganda /images/202001/necesita-saber-iran/propaganda.jpg
+    iranarmenianmonasteries /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+    poster /images/202001/posters/20-supernova-betelgeuse.jpg
+    tweet1 /images/202001/necesita-saber-iran/tweet1.jpg
+    respuesta /images/202001/necesita-saber-iran/respuesta.jpg
+    irangardenold /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    museeparislouis /images/202001/17-musee-paris/museeparislouis.jpg
+    annakarina1 /images/201912/17-anna-karina/annakarina1.jpg
+    annakarina2 /images/201912/17-anna-karina/annakarina2.jpg
+    museeparisgautier /images/202001/17-musee-paris/museeparisgautier.jpg
+    zariftweet /images/202001/necesita-saber-iran/zariftweet.jpg
+    bottom /images/201912/09-al-mercat/bottom.jpg
+    dubai /images/202001/necesita-saber-iran/dubai.jpg
+}
+description ¿Es inminente la explosión de la estrella Betelgeuse? El cielo estrellado de noche: una estrella desaparece, para de repente brillar del tamaño de la luna… suena como un espectáculo sin igual pero, ¿qué tan posible es que suceda mientras vivimos y de verdad se vería de esa forma?
+year 2020
+author NPN Ciencia
+featured{kmkv} {
+    title <b>¿SUPERNOVA<b><br>BETELGEUSE?
+    text1 ES CIERTO QUE LA ESTRELLA ESTÁ EXHIBIENDO COMPORTAMIENTOS “EXTRAÑOS”... PERO, ¿ES REALMENTE INMINENTE SU EXPLOSIÓN?
+    text2 POR NPN CIENCIA
+    pretitle CIENCIA:
+    highlightColor #00ffff
+}
+type article
+subtitle Es cierto que la estrella está exhibiendo comportamientos “extraños” últimamente... pero, ¿es realmente inminente su explosión?
+month 01
+tags{array} mas-saludyciencia
+videoID 
+titlePoster 
+color #00ffff

@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201911/headers/16-de-nov.jpg
     poster{image} /images/201911/posters/16-de-nov.jpg
 }
-tags{array} noticias
+tags{array} noticias-loimportante
 title Escribir 'arrecho'
 description Los traficantes de esperanza lo hicieron de nuevo
 day 17

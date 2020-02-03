@@ -8,7 +8,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/unused/garrazo.jpg
 }
-tags{array} noticias
+tags{array} noticias-loimportante
 title Lo Importante: DD-MM-YY
 description 4 historias importantes de las más recientes noticias internacionales
 color #ffff00

@@ -1,29 +1,54 @@
-type article
-featured{kmkv} {
-    pretitle GASTRONOMÍA:
-    title FESTIVAL DE<br><b>CEVICHE </b>
-    text1 SESENTA PROPUESTAS DE CEVICHE, UNA LOCACIÓN AL LADO DEL MAR.
-    text2 CRÓNICAS GASTRONÓMICAS POR ALBERTO GATGENS.
-    highlightColor #ff613c
+text {
+<p>Algunas comidas van bien en cualquier momento y lugar, pero van mejor en determinadas locaciones. Uno de esos platos es el ceviche: da igual el sitio, un buen ceviche siempre antoja, no importa la hora; sin embargo, un ceviche en la playa es obligatorio.</p>
+<p>La brisa de la playa, el aroma del mar, el sol y el calor invitan a buscar una comida refrescante que nos anime a seguir disfrutando el paseo.</p>
+<p>El ceviche es una comida transcontinental: desde M&eacute;xico hasta el sur de Am&eacute;rica se disfruta por igual. Los peruanos le rinden culto, los mexicanos lo adoran, los colombianos tienen un romance con &eacute;l, y en Costa Rica cada d&iacute;a se profundiza m&aacute;s la relaci&oacute;n de dependencia con este plato.</p>
+<p>Los ceviches tradicionales eran hasta hace poco la norma: una palangana de pescado troceado con &ldquo;olores&rdquo;, lim&oacute;n y gaseosa. De ah&iacute; a cucharadas a los vasos. Lo m&aacute;s sofisticado que llegaba era a ser mixto: camarones, pescado, conchas. Los vegetarianos, de palmito o de pl&aacute;tano, rompieron paradigmas.</p>
+<p>$image/ceviche2$</p>
+<p>Hubo que esperar un poco para que los nuevos aires de la gastronom&iacute;a costarricense soplaran y llegaran esp&iacute;ritus con ansias de transgredir los ceviches de palangana.</p>
+<p>Esa transgresi&oacute;n, convertida ya en regla, es el <em>leitmotiv</em> de la puesta en escena del Festival de Ceviche del Pac&iacute;fico Central. Jac&oacute;, ya sin&oacute;nimo de arena y sol, busca tambi&eacute;n ser sin&oacute;nimo del ceviche. Pero no del de palangana.</p>
+<p>La Cuarta Edici&oacute;n de este festival se realiz&oacute; el viernes 26 de octubre en el Ocean Boutique Hotel &amp; Gallery (c&oacute;modas, limpias y modernas habitaciones, por cierto), y en &eacute;l participaron once restaurantes que sirvieron unas 3.000 porciones a los cientos de &aacute;vidos asistentes que llegaron a probar las creaciones de los chefs.</p>
+<p>Las m&aacute;s variadas propuestas se dejaron probar: combinaciones retadoras con frutas o intr&eacute;pidas y bien logradas (como un ceviche vegano de chayote), para llegar al total de unas 60 apuestas.</p>
+<p>La noche se hizo corta - y el est&oacute;mago peque&ntilde;o - para tanta buena oportunidad de disfrutar las creaciones originales, con frutas, verduras, calamares, at&uacute;n o pulpo.</p>
+<p>Cada uno de los restaurantes present&oacute; a un panel de tres jueces su ceviche para competici&oacute;n, y al final de la noche dieron su veredicto: una receta con pescado, uchuva, cas, tamarindo y aj&iacute; del restaurante El Hicaco se alz&oacute; con el triunfo.</p>
+<p>Este ceviche fresco, vibrante y de sabor ex&oacute;tico, pero balanceado entre lo &aacute;cido lo frutoso, encant&oacute; al tribunal. El segundo puesto fue para The Fish Market.</p>
+<p>El restaurante El Pel&iacute;cano, de Herradura, entreg&oacute; un cevichazo con pulpo, ajo rostizado, uvas y aceite de ajo, que, para m&iacute;, fue el mejor de la docena que prob&eacute;.</p>
+<p>Tambi&eacute;n me llam&oacute; mucho la atenci&oacute;n el vegano con chayote de Selina. Jam&aacute;s habr&iacute;a pensado que el chayote podr&iacute;a aportar una textura tan interesante y un sabor que &ndash;aunque neutro&ndash; permitiera disfrutar a mares del maridaje con el lim&oacute;n, la cebolla morada y el culantro, entre otros ingredientes.</p>
+<p>$image/ceviche1$</p>
+<p>Los Chanchitos, un restaurante con nombre en las ant&iacute;podas de la idea de la cocina de mar, present&oacute; un ceviche de &ldquo;pulpo enamorado&rdquo;, resultado de una receta bien conseguida que inclu&iacute;a mayonesa picante.</p>
+<p>Merecen menci&oacute;n todos los participantes, pues, estuvieron a la altura del reto: El Hicaco, El pel&iacute;cano, Taco Bar, Moobi Bistro, Trident, Los Chanchitos, Vista Mar, Samudio&acute;s Bar Lounge, Selina, Cevichera El Parque y Cevichera Las Olas.</p>
+<p>Por lo general, los restaurantes mantienen durante alg&uacute;n tiempo los ceviches participantes en sus men&uacute;s.</p>
+<p>Para el pr&oacute;ximo a&ntilde;o, este festival deber&iacute;a seguir consolid&aacute;ndose y aumentando el nivel de la marea creativa de una zona que ahora tambi&eacute;n puja por ser un polo gastron&oacute;mico. La verdad, tiene de todo para serlo.</p>
 }
-media{kmkv} {
-    header{image} /images/201911/headers/13-ceviches.jpg
-    poster{image} /images/201911/posters/13-ceviches.jpg
-    ceviche1{image} /images/201911/13-ceviches/ceviche1.jpg
-    ceviche2{image} /images/201911/13-ceviches/ceviche2.jpg
-}
-tags{array} cultura
 title Sesenta propuestas de ceviche, un festival al lado del mar
+day 13
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201911/headers/13-ceviches.jpg
+    ceviche1 /images/201911/13-ceviches/ceviche1.jpg
+    ceviche2 /images/201911/13-ceviches/ceviche2.jpg
+    poster /images/201911/posters/13-ceviches.jpg
+}
 description {
 El ceviche une a los latinoamericanos y todos tenemos nuestra receta favorita. Alberto Gatgens (@elgastronomistacr), nos comparte una crónica del Festival de Ceviche, una verdadera extravaganza en el pacífico central de Costa Rica. 
 ¿Cuál es el mejor ceviche que has probado? ¡Cuéntanos en los comentarios!
 }
-day 13
-month 11
 year 2019
-color #ffb3a1
 author Alberto Gatgens
-subtitle El ceviche es una comida importantísima para América Latina; las playas de Costa Rica, el lugar perfecto para disfrutarlo.
-text {
-<p><p>Algunas comidas van bien en cualquier momento y lugar, pero van mejor en determinadas locaciones. Uno de esos platos es el ceviche: da igual el sitio, un buen ceviche siempre antoja, no importa la hora; sin embargo, un ceviche en la playa es obligatorio.</p></p><p><p>La brisa de la playa, el aroma del mar, el sol y el calor invitan a buscar una comida refrescante que nos anime a seguir disfrutando el paseo.</p></p><p><p>El ceviche es una comida transcontinental: desde México hasta el sur de América se disfruta por igual. Los peruanos le rinden culto, los mexicanos lo adoran, los colombianos tienen un romance con él, y en Costa Rica cada día se profundiza más la relación de dependencia con este plato.</p></p><p><p>Los ceviches tradicionales eran hasta hace poco la norma: una palangana de pescado troceado con “olores”, limón y gaseosa. De ahí a cucharadas a los vasos. Lo más sofisticado que llegaba era a ser mixto: camarones, pescado, conchas. Los vegetarianos, de palmito o de plátano, rompieron paradigmas. </p></p><p><p>$image/ceviche2$</p></p><p><p>Hubo que esperar un poco para que los nuevos aires de la gastronomía costarricense soplaran y llegaran espíritus con ansias de transgredir los ceviches de palangana.</p></p><p><p>Esa transgresión, convertida ya en regla, es el <em>leitmotiv</em> de la puesta en escena del Festival de Ceviche del Pacífico Central. Jacó, ya sinónimo de arena y sol, busca también ser sinónimo del ceviche. Pero no del de palangana.</p></p><p><p>La Cuarta Edición de este festival se realizó el viernes 26 de octubre en el Ocean Boutique Hotel &amp; Gallery (cómodas, limpias y modernas habitaciones, por cierto), y en él participaron once restaurantes que sirvieron unas 3.000 porciones a los cientos de ávidos asistentes que llegaron a probar las creaciones de los chefs.</p></p><p><p>Las más variadas propuestas se dejaron probar: combinaciones retadoras con frutas o intrépidas y bien logradas (como un ceviche vegano de chayote), para llegar al total de unas 60 apuestas.</p></p><p><p>La noche se hizo corta - y el estómago pequeño - para tanta buena oportunidad de disfrutar las creaciones originales, con frutas, verduras, calamares, atún o pulpo. </p></p><p><p>Cada uno de los restaurantes presentó a un panel de tres jueces su ceviche para competición, y al final de la noche dieron su veredicto: una receta con pescado, uchuva, cas, tamarindo y ají del restaurante El Hicaco se alzó con el triunfo.</p></p><p><p>Este ceviche fresco, vibrante y de sabor exótico, pero balanceado entre lo ácido lo frutoso, encantó al tribunal. El segundo puesto fue para The Fish Market.</p></p><p><p>El restaurante El Pelícano, de Herradura, entregó un cevichazo con pulpo, ajo rostizado, uvas y aceite de ajo, que, para mí, fue el mejor de la docena que probé.</p></p><p><p>También me llamó mucho la atención el vegano con chayote de Selina. Jamás habría pensado que el chayote podría aportar una textura tan interesante y un sabor que –aunque neutro– permitiera disfrutar a mares del maridaje con el limón, la cebolla morada y el culantro, entre otros ingredientes.</p></p><p><p>$image/ceviche1$</p></p><p><p>Los Chanchitos, un restaurante con nombre en las antípodas de la idea de la cocina de mar, presentó un ceviche de “pulpo enamorado”, resultado de una receta bien conseguida que incluía mayonesa picante. </p></p><p><p>Merecen mención todos los participantes, pues, estuvieron a la altura del reto: El Hicaco, El pelícano, Taco Bar, Moobi Bistro, Trident, Los Chanchitos, Vista Mar, Samudio´s Bar Lounge, Selina, Cevichera El Parque y Cevichera Las Olas.</p></p><p><p>Por lo general, los restaurantes  mantienen durante algún tiempo los ceviches participantes en sus menús.</p></p><p><p>Para el próximo año, este festival debería seguir consolidándose y aumentando el nivel de la marea creativa de una zona que ahora también puja por ser un polo gastronómico. La verdad, tiene de todo para serlo.</p></p>
+featured{kmkv} {
+    title FESTIVAL DE<br><b>CEVICHE </b>
+    text1 SESENTA PROPUESTAS DE CEVICHE, UNA LOCACIÓN AL LADO DEL MAR.
+    text2 CRÓNICAS GASTRONÓMICAS POR ALBERTO GATGENS.
+    pretitle GASTRONOMÍA:
+    highlightColor #ff613c
 }
+type article
+subtitle El ceviche es una comida importantísima para América Latina; las playas de Costa Rica, el lugar perfecto para disfrutarlo.
+month 11
+tags{array} guida-comida
+videoID 
+titlePoster 
+color #ffb3a1

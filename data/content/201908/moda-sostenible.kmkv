@@ -1,18 +1,51 @@
-type article
-featured{kmkv} {
-}
-media{kmkv} {
-    header{image} /images/201908/headers/fashion.jpg
-}
-tags{array} cultura
-title Los diseños sostenibles de Andrea Kader: aire fresco en un mundo cada vez más contaminado.
-description La moda es la industria más contaminante del planeta. El futuro del fashion está en diseñadores como Andrea Kader, tica dedicada a retar la cultura de la moda rápida.
-day 26
-month 08
-year 2019
-color #ffc7f7
-author Paulina Joaristi
-subtitle La moda es la industria más contaminante del planeta. El futuro del fashion está en diseñadores como Andrea Kader, tica dedicada a retar la cultura de la moda rápida.
 text {
-<p><p>Para <a href="https://www.instagram.com/andreakader/">Andrea Kader</a>, confeccionar una prenda requiere de muchas horas que nadie ve: pensar y dibujar en diseños originales y diferentes; hacer los patrones y las pruebas en tela de muselina; ir de tienda en tienda en búsqueda de la mejor calidad; lavar el material y empezar a descoser las piezas que se utilizan como tela - todo esto para que el diseño lentamente tome forma mientras pone alfileres y cose distintos pedazos. </p></p><p><p>Esta es la definición de slow fashion: una alternativa a los procesos de confección textil tradicionales, los cuales han probado ser insostenibles para el planeta.</p></p><p><p><strong>¿Qué es la moda rápida y por qué es tan contaminante?</strong></p></p><p><p>¿No te has asombrado al entrar a Forever21? Es tanta la ropa que no sabés ni dónde empezar a buscar, y todas las semanas aparecen diseños nuevos; prendas que aparentan ser las que tus celebridades favoritas usaron en alfombras rojas, pero a una fracción minúscula del precio. Sabés que son de mala calidad, pero ¡están tan baratas! El problema es que de seguro estarás de vuelta el próximo mes para más de lo mismo.</p></p><p><p>Esta es la definición de moda rápida, o fast fashion; es decir, el modelo de producción masiva y venta a bajo costo de las grandes corporaciones textiles. Para que te hagás una idea, Topshop introduce 400 nuevos estilos a su tienda ¡cada semana! ¿Te has preguntado el impacto que tiene este modelo de negocio en el planeta?</p></p><p><p>La industria de la moda es el segundo contaminante de agua más importante en el mundo.  El <strong>poliéster</strong> se deriva de los combustibles fósiles y el <strong>algodón</strong> requiere grandes cantidades de agua y pesticidas para alcanzar la demanda; el <strong>cuero</strong> sacrifica animales en nombre del estilo, y ni hablar de la cantidad de químicos que se necesitan para teñir todos estos materiales. </p></p><p><p>A lo anterior se suman los hábitos de consumo que el modelo promueve: compramos piezas que a los dos meses encontramos rotas o pasadas de moda - nos parecen una “polada” entonces las botamos… pero el ciclo de vida de las mismas no se acaba ahí; a esa ropa que botamos, puede tomarle miles de años deshacerse debajo de la tierra. </p></p><p><p><strong>Alternativas: nuevos textiles y procesos conscientes.</strong> </p></p><p><p>¡Qué felicidad entonces encontrar diseñadores que están comprometidos con el ambiente y decididos a hacer una diferencia!</p></p><p><p>Andrea Kader es una tica de 23 años que estudió diseño de moda en Nueva York. Cuando la conocí hace dos años, quedé impresionada con sus diseños de su colección de ese entonces, hecha a base de un textil revolucionario llamado piñatex - un material flexible y biodegradable hecho de las hojas de la piña, que no es contaminante; por el contrario, toma un desecho y lo convierte en una alternativa al cuero animal. </p></p><p><p><img src="../../../images/201908/article-26/1-a.jpg" style="float: left; margin-bottom: 4%; width: 48%;"/></p><p><img src="../../../images/201908/article-26/1-b.jpg" style="float: left; margin-bottom: 4%; margin-left: 4%; width: 48%;"/></p></p><p><p><em>Diseños de Andrea Kader <a href="https://www.instagram.com/andreakader/">@andreakader</a> | Fotografías por Alexia Uriarte Photography <a href="https://www.instagram.com/aleuriarte/">@aleuriarte</a></em></p></p><p><p>Pero usar materiales alternativos no es la única manera en la que Andrea hace prendas sostenibles: también va a tiendas de ropa de segunda mano y le da una nueva vida a prendas que han sido descartadas por sus antiguos dueños, aunque a veces tenga que visitar más de cuatro americanas para encontrar los materiales que necesita.</p></p><p><p>“Desde pequeña crecí en un país y en una casa donde la conciencia ambiental siempre ha estado presente. Como mi pasión es la moda, e irónicamente, es también la segunda industria más contaminante del planeta, decidí asumir el reto de utilizar materiales de segunda mano y darle una nueva vida a estas piezas que son consideradas basura - crear sin seguir gastando material y asimismo maximizar el uso de los recursos ya disponibles.”</p></p><p><p><img src="../../../images/201908/article-26/2-a.jpg" style="float: left; width: 48%;"/></p><p><img src="../../../images/201908/article-26/2-b.jpg" style="float: left; margin-left: 4%; width: 48%;"/></p><p><img src="../../../images/201908/article-26/2-c.jpg" style="margin-top: 4%; margin-bottom: 4%; float: left; width: 48%;"/></p><p><img src="../../../images/201908/article-26/2-d.jpg" style="margin-top: 4%; margin-bottom: 4%; float: left; margin-left: 4%; width: 48%;"/></p></p><p><p><em>Diseños de Andrea Kader <a href="https://www.instagram.com/andreakader/">@andreakader</a> | Fotografías por Roberto Delgado Webb <a href="https://www.instagram.com/delgadowebb/">@delgadowebb</a></em></p></p><p><p>En los próximos años, Andrea sueña con hacer crecer su propia empresa y vender a escalas un poco mayores. Asegura que quiere seguir haciendo ropa cómoda y versátil pero que sea también única y especial. </p></p><p><p>Tomando en cuenta el estado actual del planeta, hoy más que nunca debemos imprimirle conciencia ambiental a nuestras decisiones de consumo.  El futuro de los textiles está en nuevos modelos de producción, diseños y procesos concientes de su impacto ecológico.</p></p>
+<p>Para <a href="https://www.instagram.com/andreakader/">Andrea Kader</a>, confeccionar una prenda requiere de muchas horas que nadie ve: pensar y dibujar en dise&ntilde;os originales y diferentes; hacer los patrones y las pruebas en tela de muselina; ir de tienda en tienda en b&uacute;squeda de la mejor calidad; lavar el material y empezar a descoser las piezas que se utilizan como tela - todo esto para que el dise&ntilde;o lentamente tome forma mientras pone alfileres y cose distintos pedazos.</p>
+<p>Esta es la definici&oacute;n de slow fashion: una alternativa a los procesos de confecci&oacute;n textil tradicionales, los cuales han probado ser insostenibles para el planeta.</p>
+<p><strong>&iquest;Qu&eacute; es la moda r&aacute;pida y por qu&eacute; es tan contaminante?</strong></p>
+<p>&iquest;No te has asombrado al entrar a Forever21? Es tanta la ropa que no sab&eacute;s ni d&oacute;nde empezar a buscar, y todas las semanas aparecen dise&ntilde;os nuevos; prendas que aparentan ser las que tus celebridades favoritas usaron en alfombras rojas, pero a una fracci&oacute;n min&uacute;scula del precio. Sab&eacute;s que son de mala calidad, pero &iexcl;est&aacute;n tan baratas! El problema es que de seguro estar&aacute;s de vuelta el pr&oacute;ximo mes para m&aacute;s de lo mismo.</p>
+<p>Esta es la definici&oacute;n de moda r&aacute;pida, o fast fashion; es decir, el modelo de producci&oacute;n masiva y venta a bajo costo de las grandes corporaciones textiles. Para que te hag&aacute;s una idea, Topshop introduce 400 nuevos estilos a su tienda &iexcl;cada semana! &iquest;Te has preguntado el impacto que tiene este modelo de negocio en el planeta?</p>
+<p>La industria de la moda es el segundo contaminante de agua m&aacute;s importante en el mundo. El <strong>poli&eacute;ster</strong> se deriva de los combustibles f&oacute;siles y el <strong>algod&oacute;n</strong> requiere grandes cantidades de agua y pesticidas para alcanzar la demanda; el <strong>cuero</strong> sacrifica animales en nombre del estilo, y ni hablar de la cantidad de qu&iacute;micos que se necesitan para te&ntilde;ir todos estos materiales.</p>
+<p>A lo anterior se suman los h&aacute;bitos de consumo que el modelo promueve: compramos piezas que a los dos meses encontramos rotas o pasadas de moda - nos parecen una &ldquo;polada&rdquo; entonces las botamos&hellip; pero el ciclo de vida de las mismas no se acaba ah&iacute;; a esa ropa que botamos, puede tomarle miles de a&ntilde;os deshacerse debajo de la tierra.</p>
+<p><strong>Alternativas: nuevos textiles y procesos conscientes.</strong></p>
+<p>&iexcl;Qu&eacute; felicidad entonces encontrar dise&ntilde;adores que est&aacute;n comprometidos con el ambiente y decididos a hacer una diferencia!</p>
+<p>Andrea Kader es una tica de 23 a&ntilde;os que estudi&oacute; dise&ntilde;o de moda en Nueva York. Cuando la conoc&iacute; hace dos a&ntilde;os, qued&eacute; impresionada con sus dise&ntilde;os de su colecci&oacute;n de ese entonces, hecha a base de un textil revolucionario llamado pi&ntilde;atex - un material flexible y biodegradable hecho de las hojas de la pi&ntilde;a, que no es contaminante; por el contrario, toma un desecho y lo convierte en una alternativa al cuero animal.</p>
+<p><img style="float: left; margin-bottom: 4%; width: 48%;" src="../images/201908/article-26/1-a.jpg" /></p>
+<p><img style="float: left; margin-bottom: 4%; margin-left: 4%; width: 48%;" src="../images/201908/article-26/1-b.jpg" /></p>
+<p><em>Dise&ntilde;os de Andrea Kader <a href="https://www.instagram.com/andreakader/">@andreakader</a> | Fotograf&iacute;as por Alexia Uriarte Photography <a href="https://www.instagram.com/aleuriarte/">@aleuriarte</a></em></p>
+<p>Pero usar materiales alternativos no es la &uacute;nica manera en la que Andrea hace prendas sostenibles: tambi&eacute;n va a tiendas de ropa de segunda mano y le da una nueva vida a prendas que han sido descartadas por sus antiguos due&ntilde;os, aunque a veces tenga que visitar m&aacute;s de cuatro americanas para encontrar los materiales que necesita.</p>
+<p>&ldquo;Desde peque&ntilde;a crec&iacute; en un pa&iacute;s y en una casa donde la conciencia ambiental siempre ha estado presente. Como mi pasi&oacute;n es la moda, e ir&oacute;nicamente, es tambi&eacute;n la segunda industria m&aacute;s contaminante del planeta, decid&iacute; asumir el reto de utilizar materiales de segunda mano y darle una nueva vida a estas piezas que son consideradas basura - crear sin seguir gastando material y asimismo maximizar el uso de los recursos ya disponibles.&rdquo;</p>
+<p><img style="float: left; width: 48%;" src="../images/201908/article-26/2-a.jpg" /></p>
+<p><img style="float: left; margin-left: 4%; width: 48%;" src="../images/201908/article-26/2-b.jpg" /></p>
+<p><img style="margin-top: 4%; margin-bottom: 4%; float: left; width: 48%;" src="../images/201908/article-26/2-c.jpg" /></p>
+<p><img style="margin-top: 4%; margin-bottom: 4%; float: left; margin-left: 4%; width: 48%;" src="../images/201908/article-26/2-d.jpg" /></p>
+<p><em>Dise&ntilde;os de Andrea Kader <a href="https://www.instagram.com/andreakader/">@andreakader</a> | Fotograf&iacute;as por Roberto Delgado Webb <a href="https://www.instagram.com/delgadowebb/">@delgadowebb</a></em></p>
+<p>En los pr&oacute;ximos a&ntilde;os, Andrea sue&ntilde;a con hacer crecer su propia empresa y vender a escalas un poco mayores. Asegura que quiere seguir haciendo ropa c&oacute;moda y vers&aacute;til pero que sea tambi&eacute;n &uacute;nica y especial.</p>
+<p>Tomando en cuenta el estado actual del planeta, hoy m&aacute;s que nunca debemos imprimirle conciencia ambiental a nuestras decisiones de consumo. El futuro de los textiles est&aacute; en nuevos modelos de producci&oacute;n, dise&ntilde;os y procesos concientes de su impacto ecol&oacute;gico.</p>
 }
+title Los diseños sostenibles de Andrea Kader: aire fresco en un mundo cada vez más contaminado.
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201908/headers/fashion.jpg
+}
+description La moda es la industria más contaminante del planeta. El futuro del fashion está en diseñadores como Andrea Kader, tica dedicada a retar la cultura de la moda rápida.
+year 2019
+author Paulina Joaristi
+featured{kmkv} {
+    title undefined
+    text1 undefined
+    text2 undefined
+    pretitle undefined
+    highlightColor undefined
+}
+type article
+subtitle La moda es la industria más contaminante del planeta. El futuro del fashion está en diseñadores como Andrea Kader, tica dedicada a retar la cultura de la moda rápida.
+month 08
+tags{array} venus-moda
+videoID 
+titlePoster 
+color #ffc7f7

@@ -1,36 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle COLA DE GALLO
-    title ¿COMO HACER? <b>LONG ISLAND ICE TEA<b> PERFECTO
-    text1 En este episodio de Cola De Gallo te enseñamos a hacer el "Long Island Ice Tea", perfecto.
-    text2 feat. Jose Daniel Pacheco
-    highlightColor #ffff00
-}
-media{kmkv} {
-    header{image} /images/202001/headers/coladegallo-ep-1.jpg
-    poster{image} /images/202001/posters/coladegallo-ep-1.jpg
-    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
-    postre{image} /images/201912/09-al-mercat/postre.jpg
-    header2{image} /images/201912/09-al-mercat/header2.jpg
-    bottom{image} /images/201912/09-al-mercat/bottom.jpg
-    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
-    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
-    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
-    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
-    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
-    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
-    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
-    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
-}
-tags{array} cultura, home
-title El Long Island Ice Tea Perfecto
-description En este episodio de Cola De Gallo mixólogo profesional Jose Daniel Pacheco te enseña a hacer el "Long Island Ice Tea" perfecto.
-day 09
-month 01
-year 2020
-color #ffff00
-author feat. Jose Daniel Pacheco
-subtitle En este episodio de Cola De Gallo mixólogo profesional Jose Daniel Pacheco te enseña a hacer el "Long Island Ice Tea" perfecto.
 text {
 <p style="text-align: center;"><strong>Vea el primer episodio de Cola de Gallo:</strong></p>
 <hr />
@@ -39,3 +6,43 @@ text {
 <p style="text-align: center;"><a href="bit.ly/subscribe-2-nopasanada">S&uacute;scribete a nuestro canal de youtube</a></p>
 <p>&nbsp;</p>
 }
+title El Long Island Ice Tea Perfecto
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header2 /images/201912/09-al-mercat/header2.jpg
+    irangarden /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    header /images/202001/headers/coladegallo-ep-1.jpg
+    portraitofalady /images/201912/12-gustav-klimt/portraitofalady.jpg
+    iranshushtar /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    postre /images/201912/09-al-mercat/postre.jpg
+    iranpersepolis /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    platofuerte /images/201912/09-al-mercat/platofuerte.jpg
+    iranarmenianmonasteries /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+    poster /images/202001/posters/coladegallo-ep-1.jpg
+    irangardenold /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    annakarina1 /images/201912/17-anna-karina/annakarina1.jpg
+    annakarina2 /images/201912/17-anna-karina/annakarina2.jpg
+    bottom /images/201912/09-al-mercat/bottom.jpg
+}
+description En este episodio de Cola De Gallo mixólogo profesional Jose Daniel Pacheco te enseña a hacer el "Long Island Ice Tea" perfecto.
+year 2020
+author feat. Jose Daniel Pacheco
+featured{kmkv} {
+    title ¿COMO HACER? <b>LONG ISLAND ICE TEA<b> PERFECTO
+    text1 En este episodio de Cola De Gallo te enseñamos a hacer el "Long Island Ice Tea", perfecto.
+    text2 feat. Jose Daniel Pacheco
+    pretitle COLA DE GALLO
+    highlightColor #ffff00
+}
+type article
+subtitle En este episodio de Cola De Gallo mixólogo profesional Jose Daniel Pacheco te enseña a hacer el "Long Island Ice Tea" perfecto.
+month 01
+tags{array} guida-bebidas
+videoID 
+titlePoster 
+color #ffff00

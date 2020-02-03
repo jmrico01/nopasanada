@@ -346,17 +346,17 @@ function ResetEntries(entries)
     recentVideosEntries_ = [];
     for (let i = 0; i < entries.length; i++) {
         const entry = entries[i];
-        let match = false;
+        if (entry.tags.indexOf(TAG_COLLECTION) !== -1) {
+            collectionEntries_.push(JSON.parse(JSON.stringify(entry)));
+        }
+        let matchCategory = false;
         for (let j = 0; j < entry.tags.length; j++) {
             if (entry.tags[j].includes(currentCategory)) {
-                match = true;
+                matchCategory = true;
                 break;
             }
         }
-        if (match) {
-            if (entry.tags.indexOf(TAG_COLLECTION) !== -1) {
-                collectionEntries_.push(JSON.parse(JSON.stringify(entry)));
-            }
+        if (matchCategory) {
             if (entry.tags.indexOf(TAG_ARTICLE) !== -1) {
                 recentArticleEntries_.push(JSON.parse(JSON.stringify(entry)));
             }

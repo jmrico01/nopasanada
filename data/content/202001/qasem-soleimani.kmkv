@@ -38,7 +38,7 @@ media{kmkv} {
     infest{image} /images/201912/lo-mejor-2019/infest.jpg
     albums{image} /images/201912/5-albumes/albums.jpg
 }
-tags{array} noticias, home
+tags{array} noticias-loimportante, home
 title Estados Unidos mata al general más poderoso de Irán y Tehran promete 'severa venganza’ - ¿Qué necesitas saber?
 description Donald Trump ordena el asesinato del general más poderoso de Irán y Tehran promete 'severa venganza'.
 day 03

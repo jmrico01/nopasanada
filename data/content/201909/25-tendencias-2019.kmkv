@@ -1,23 +1,59 @@
-type article
+text {
+<p>Dicen que para gustos hay colores - es muy dif&iacute;cil definir que es &ldquo;bonito&rdquo; o &ldquo;feo&rdquo;. As&iacute; pasa con estas 7 tendencias; algunas est&aacute;n entre las m&aacute;s controversiales del 2019 - es muy f&aacute;cil amarlas, y tambi&eacute;n es f&aacute;cil odiarlas. Para familiarizarse con algunos de estos trends, vale la pena ir a distintas tiendas y probarse diferentes looks; sobretodo, hay que saber c&oacute;mo y cu&aacute;ndo usarlas.</p>
+<p><strong>Patchwork</strong></p>
+<p>Esta tendencia originaria de los a&ntilde;os 70s vuelve a las pasarelas m&aacute;s cotizadas del mundo, aunque, la verdad, existen muy pocas personas que logran verse bien usando algo que parece una colcha como falda &hellip; si a pesar de esto existe alg&uacute;n intr&eacute;pido que quiera atreverse, le damos un buen consejo: las piezas de patchwork funcionan mejor cuando son combinadas con colores s&oacute;lidos y b&aacute;sicos como el azul marino, el negro, el gris o el blanco; importante no usar m&aacute;s de una pieza de patchwork a la vez, y jam&aacute;s mezclarlas con mezclilla.</p>
+<p>$instagram/B1_RFvynCV2$</p>
+<p>$instagram/BpJ_rZCHDAe$</p>
+<p><strong>Raincoats</strong></p>
+<p>Las capas de lluvia se han vuelto un s&iacute;mbolo emblem&aacute;tico este a&ntilde;o. Aunque nos mantienen el pelo y la ropa intacta, habemos quienes preferimos el antiguo y sencillo m&eacute;todo de la sombrilla. Para lograr que aporten a nuestro look, conseguirlas transparentes es quiz&aacute; la mejor opci&oacute;n: no son llamativas, y permiten continuar apreciando el atuendo que se lleva por debajo.</p>
+<p>$instagram/BxjlA19ilWu$</p>
+<p>$instagram/BlPy3r3hv79$</p>
+<p><strong>Matching Sets</strong></p>
+<p>Son un Win-Win: dos piezas que, juntas, logran un look sofisticado, pero tambi&eacute;n, &iexcl;son dos prendas nuevas en el cl&oacute;set! Se pueden emparejar y mezclar con otros fondos de armario.</p>
+<p>$instagram/By_eKqmBq7y$</p>
+<p>$instagram/B0ZwyfTH1lq$</p>
+<p><strong>Tie-Dye</strong></p>
+<p>Despu&eacute;s de 50 a&ntilde;os, el tie-dye est&aacute; de vuelta, - aunque obviamente en su versi&oacute;n moderna.</p>
+<p>Los dise&ntilde;adores han empezado a usar esta t&eacute;cnica en telas m&aacute;s elegantes y de formas m&aacute;s inesperadas. Ya no son solamente las camisetas blancas las que llevan estos salpicados de color, sino tambi&eacute;n nuestras carteras, jeans y las hasta chaquetas de invierno. Este trend representa el comienzo de una conciencia m&aacute;s mainstream sobre la moda r&aacute;pida, y ha inspirado a muchas marcas a volver a usar colores naturales, y a te&ntilde;ir prendas viejas para crear nuevos estilos.</p>
+<p>$instagram/Bwou-SJnQQU$</p>
+<p>$instagram/ByiTV9Pgiu-$</p>
+<p><strong>Petite Bags</strong></p>
+<p>Las mini bolsas son el accesorio m&aacute;s cotizado y destacado del 2019. La cartera que antiguamente se usaba solo al salir de noche se utiliza ahora para toda ocasi&oacute;n. De entre todos los estilos que existen, recomendamos tres: las bolsas de cintur&oacute;n, las bolsas miniatura y las bolsas en forma de concha marina.</p>
+<p>$instagram/Bz0RaYaDG2I$</p>
+<p>$instagram/Bm3eKt1gXg7$</p>
+<p><strong>Neon Colors</strong></p>
+<p>Los colores ultra brillantes est&aacute;n dominando la moda, y aunque hay muchas personas que piensan que los neones son demasiado llamativos, a otras les encanta no pasar desapercibidas. Es normal tener sentimientos encontrados respecto a esta tendencia - pero para probar, se puede empezar con accesorios ne&oacute;n, como una cartera, una faja, un par de zapatos&hellip; inclusive un labial o un esmalte de u&ntilde;as. Esta tendencia es ideal para la playa, conciertos y fiestas, pero tal vez no sea tan compatible con el trabajo.</p>
+<p>$instagram/BmpOov-ja-J$</p>
+<p>$instagram/BsGlh0Rj9nT$</p>
+<p><strong>Biker shorts y Blazers</strong></p>
+<p>Hace unos a&ntilde;os, cambiamos nuestros jeans por leggins; adem&aacute;s de ser m&aacute;s c&oacute;modas, eran m&aacute;s elegantes. Lo mismo ha pasado con los shorts de deportes: ahora, se han convertido en una pieza b&aacute;sica para el d&iacute;a a d&iacute;a. Esta tendencia es s&uacute;per vers&aacute;til; se puede usar con una chaqueta encima o con una camisa de mangas llamativas - los mismos shorts se pueden llevar al gimnasio, o usarse con camisetas de verano. Se ven bien con tacones, con tennis&hellip; &iexcl;con lo que sea!</p>
+<p>$instagram/BsgtNJPBu-E$</p>
+<p>$instagram/BvbXem8gpDE$</p>
+}
+title Las tendencias más amadas (y más odiadas) de este año
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201909/headers/25-tendencias-2019.jpg
+}
+description ¿Qué tendencias trajo el 2019? Algunas son medio raras, pero todas se valen si se encuentra la forma correcta de usarlas
+year 2019
+author Paulina Joaristi
 featured{kmkv} {
-    pretitle MODA:
     title FASHION TRENDS<br> <b>2019. *</b>
     text1 PATCHWORK, RAINCOATS, TYE DYES Y MÁS...
     text2 ¿BONITO O FEO? DEPENDE DE CÓMO SE USE<br>POR PAULINA JOARISTI
+    pretitle MODA:
     highlightColor #ff613c
 }
-media{kmkv} {
-    header{image} /images/201909/headers/25-tendencias-2019.jpg
-}
-tags{array} cultura
-title Las tendencias más amadas (y más odiadas) de este año
-description ¿Qué tendencias trajo el 2019? Algunas son medio raras, pero todas se valen si se encuentra la forma correcta de usarlas
-day 25
-month 09
-year 2019
-color #ffb3a1
-author Paulina Joaristi
+type article
 subtitle ¿Qué tendencias trajo el 2019? Algunas son medio raras, pero todas se valen si se encuentra la forma correcta de usarlas
-text {
-<p><p>Dicen que para gustos hay colores - es muy difícil definir que es “bonito” o “feo”. Así pasa con estas 7 tendencias; algunas están entre las más controversiales del 2019 - es muy fácil amarlas, y también es fácil odiarlas. Para familiarizarse con algunos de estos trends, vale la pena ir a distintas tiendas y probarse diferentes looks; sobretodo, hay que saber cómo y cuándo usarlas. </p></p><p><p><strong>Patchwork</strong></p><p>Esta tendencia originaria de los años 70s vuelve a las pasarelas más cotizadas del mundo, aunque, la verdad, existen muy pocas personas que logran verse bien usando algo que parece una colcha como falda … si a pesar de esto existe algún intrépido que quiera atreverse, le damos un buen consejo: las piezas de patchwork funcionan mejor cuando son combinadas con colores sólidos y básicos como el azul marino, el negro, el gris o el blanco; importante no usar más de una pieza de patchwork a la vez, y jamás mezclarlas con mezclilla. </p></p><p><p>$instagram/B1_RFvynCV2$</p></p><p><p>$instagram/BpJ_rZCHDAe$</p></p><p><p><strong>Raincoats</strong></p><p>Las capas de lluvia se han vuelto un símbolo emblemático este año. Aunque nos mantienen el pelo y la ropa intacta, habemos quienes preferimos el antiguo y sencillo método de la sombrilla. Para lograr que aporten a nuestro look, conseguirlas transparentes es quizá la mejor opción: no son llamativas, y permiten continuar apreciando el atuendo que se lleva por debajo.</p></p><p><p>$instagram/BxjlA19ilWu$</p></p><p><p>$instagram/BlPy3r3hv79$</p></p><p><p><strong>Matching Sets</strong></p><p>Son un Win-Win: dos piezas que, juntas, logran un look sofisticado, pero también, ¡son dos prendas nuevas en el clóset! Se pueden emparejar y mezclar con otros fondos de armario. </p></p><p><p>$instagram/By_eKqmBq7y$</p></p><p><p>$instagram/B0ZwyfTH1lq$</p></p><p><p><strong>Tie-Dye</strong></p><p>Después de 50 años, el tie-dye está de vuelta, - aunque obviamente en su versión moderna.</p><p>Los diseñadores han empezado a usar esta técnica en telas más elegantes y de formas más inesperadas. Ya no son solamente las camisetas blancas las que llevan estos salpicados de color, sino también nuestras carteras, jeans y las hasta chaquetas de invierno. Este trend representa el comienzo de una conciencia más mainstream sobre la moda rápida, y ha inspirado a muchas marcas a volver a usar colores naturales, y a teñir prendas viejas para crear nuevos estilos. </p></p><p><p>$instagram/Bwou-SJnQQU$</p></p><p><p>$instagram/ByiTV9Pgiu-$</p></p><p><p><strong>Petite Bags</strong></p><p>Las mini bolsas son el accesorio más cotizado y destacado del 2019. La cartera que antiguamente se usaba solo al salir de noche se utiliza ahora para toda ocasión. De entre todos los estilos que existen, recomendamos tres: las bolsas de cinturón, las bolsas miniatura y las bolsas en forma de concha marina. </p></p><p><p>$instagram/Bz0RaYaDG2I$</p></p><p><p>$instagram/Bm3eKt1gXg7$</p></p><p><p><strong>Neon Colors</strong></p><p>Los colores ultra brillantes están dominando la moda, y aunque hay muchas personas que piensan que los neones son demasiado llamativos, a otras les encanta no pasar desapercibidas.  Es normal tener sentimientos encontrados respecto a esta tendencia - pero para probar, se puede empezar con accesorios neón, como una cartera, una faja, un par de zapatos… inclusive un labial o un esmalte de uñas. Esta tendencia es ideal para la playa, conciertos y fiestas, pero tal vez no sea tan compatible con el trabajo. </p></p><p><p>$instagram/BmpOov-ja-J$</p></p><p><p>$instagram/BsGlh0Rj9nT$</p></p><p><p><strong>Biker shorts y Blazers</strong></p><p>Hace unos años, cambiamos nuestros jeans por leggins; además de ser más cómodas, eran más elegantes. Lo mismo ha pasado con los shorts de deportes: ahora, se han convertido en una pieza básica para el día a día. Esta tendencia es súper versátil; se puede usar con una chaqueta encima o con una camisa de mangas llamativas - los mismos shorts se pueden llevar al gimnasio, o usarse con camisetas de verano. Se ven bien con tacones, con tennis… ¡con lo que sea! </p></p><p><p>$instagram/BsgtNJPBu-E$</p></p><p><p>$instagram/BvbXem8gpDE$</p></p>
-}
+month 09
+tags{array} venus-moda
+videoID 
+titlePoster 
+color #ffb3a1

@@ -1,33 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle CULTURA:
-    title STREETWEAR
-    text1 EL LEGADO DE STÜSSY
-    text2 POR MAURICIO FONSECA
-    highlightColor #ff613c
-}
-media{kmkv} {
-    header{image} /images/201911/headers/27-stussy.jpg
-    poster{image} /images/201911/posters/27-stussy.jpg
-    ceviche1{image} /images/201911/13-ceviches/ceviche1.jpg
-    ceviche2{image} /images/201911/13-ceviches/ceviche2.jpg
-    boomer1{image} /images/201911/26-ok-boomer/boomer1.jpg
-    boomer2{image} /images/201911/26-ok-boomer/boomer2.jpg
-    boomer3{image} /images/201911/26-ok-boomer/boomer3.jpg
-    boomer4{image} /images/201911/26-ok-boomer/boomer4.jpg
-    shawnstussy{image} /images/201911/27-stussy/shawnstussy.jpg
-    stussytribejacket{image} /images/201911/27-stussy/stussytribejacket.jpg
-    skaterstussy{image} /images/201911/27-stussy/skaterstussy.jpg
-}
-tags{array} cultura
-title Stüssy: la marca pionera del streetwear
-description Shawn Stussy cambió de forma definitiva el mercado de la ropa casual, a pesar de que nunca invirtió en publicidad para su marca. @mauriciofonsecavargas - dueño de la marca @milagro_1990 - nos cuenta la historia del padre del streetwear.
-day 27
-month 11
-year 2019
-color #ffb3a1
-author Mauricio Fonseca
-subtitle A pesar de no invertir en publicidad ni aceptar las ofertas de inversionistas, Shawn Stussy y Frank Sinatra Jr. cambiaron para siempre la ropa casual con su marca.
 text {
 <p>Mauricio Fonseca es el due&ntilde;o de la marca de streetwear Milagro.</p>
 <p>En 1982, de forma casi accidental, <a href="https://www.stussy.com/">Shawn Stussy</a> cambi&oacute; para siempre el mercado de la ropa casual, y muchos lo consideran el creador de una nueva rama de la industria de la moda, com&uacute;nmente conocida como streetwear - una s&iacute;ntesis formidable de las subculturas generadas &ldquo;en las calles&rdquo; de las grandes ciudades del mundo, como el skateboarding, el hip hop, el surf, el punk, entre otros.</p>
@@ -50,3 +20,40 @@ text {
 <p>La enorme huella y legado que ha dejado la compa&ntilde;&iacute;a se debe a la autenticidad vanguardista de Shawn Stussy, pero sobre todo a la filosof&iacute;a que su co-fundador Frank Sinatra Jr. ha mantenido a lo largo de las d&eacute;cadas: en las buenas y en las malas, la integridad y la solidaridad hacia su propio mercado&hellip; y siempre, la creatividad primero.</p>
 <p>Fotograf&iacute;as @St&uuml;ssy</p>
 }
+title Stüssy: la marca pionera del streetwear
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201911/headers/27-stussy.jpg
+    skaterstussy /images/201911/27-stussy/skaterstussy.jpg
+    shawnstussy /images/201911/27-stussy/shawnstussy.jpg
+    ceviche1 /images/201911/13-ceviches/ceviche1.jpg
+    ceviche2 /images/201911/13-ceviches/ceviche2.jpg
+    boomer1 /images/201911/26-ok-boomer/boomer1.jpg
+    boomer2 /images/201911/26-ok-boomer/boomer2.jpg
+    boomer3 /images/201911/26-ok-boomer/boomer3.jpg
+    boomer4 /images/201911/26-ok-boomer/boomer4.jpg
+    stussytribejacket /images/201911/27-stussy/stussytribejacket.jpg
+    poster /images/201911/posters/27-stussy.jpg
+}
+description Shawn Stussy cambió de forma definitiva el mercado de la ropa casual, a pesar de que nunca invirtió en publicidad para su marca. @mauriciofonsecavargas - dueño de la marca @milagro_1990 - nos cuenta la historia del padre del streetwear.
+year 2019
+author Mauricio Fonseca
+featured{kmkv} {
+    title STREETWEAR
+    text1 EL LEGADO DE STÜSSY
+    text2 POR MAURICIO FONSECA
+    pretitle CULTURA:
+    highlightColor #ff613c
+}
+type article
+subtitle A pesar de no invertir en publicidad ni aceptar las ofertas de inversionistas, Shawn Stussy y Frank Sinatra Jr. cambiaron para siempre la ropa casual con su marca.
+month 11
+tags{array} venus-moda
+videoID 
+titlePoster 
+color #ffb3a1

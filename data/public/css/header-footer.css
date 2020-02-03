@@ -44,6 +44,7 @@
 .headerCategory {
     float: left;
     padding-right: 3.2vw;
+    height: 1vw;
 }
 .headerCategory a {
     display: block;

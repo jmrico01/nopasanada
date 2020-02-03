@@ -10,7 +10,7 @@ media{kmkv} {
     header{image} /images/201911/headers/10-evo-morales.jpg
     poster{image} /images/201911/posters/10-evo-morales.jpg
 }
-tags{array} noticias
+tags{array} noticias-loimportante
 title Evo Morales anuncia su renuncia por televisión
 description ÚLTIMA HORA: Evo Morales renuncia por televisión.
 day 10

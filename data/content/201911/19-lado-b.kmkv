@@ -1,24 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle LADO B:
-    title FAKE NEWS
-    text1 CONVERSAMOS CON UN FACT-CHECKER ACERCA DE LAS NOTICIAS FALSAS, CÓMO EVITAR CAER EN SUS TRAMPAS, Y QUÉ TIENEN QUE VER LAS REDES SOCIALES CON EL PROBLEMA
-    text2 PODCAST LADO B, EPISODIO “POST-VERDAD Y FACT-CHECKING”
-    highlightColor #ff613c
-}
-media{kmkv} {
-    header{image} /images/201911/headers/19-lado-b.jpg
-    poster{image} /images/201911/posters/19-lado-b.jpg
-}
-tags{array} cultura
-title Fact-checking: aprendiendo a lidiar con los “fake news”.
-description ¿Qué impacto tienen las noticias falsas en la estabilidad social? ¿Qué rol juegan las redes sociales en su diseminación? Un fact-checker nos habla sobre los alt-facts y la importancia de pausar antes de compartir.
-day 19
-month 11
-year 2019
-color #ffb3a1
-author Luisa Mora Fernández
-subtitle Podcast Lado B: conversamos con un fact-checker acerca de las noticias falsas, cómo evitar caer en sus trampas, y qué tienen que ver las redes sociales con el problema.
 text {
 <p><iframe src="https://anchor.fm/lado-b5/embed/episodes/Lado-B-Post-verdad-y-fact-checking-e92gi7" width="100%" frameborder="0" scrolling="no"></iframe></p>
 <div class="articleCaption">&ldquo;Post-verdad y Fact-Checking&rdquo; Escuch&aacute; el primer episodio de &ldquo;Lado B&rdquo;, un podcast para complementar los art&iacute;culos editoriales.</div>
@@ -47,3 +26,31 @@ text {
 <p><strong>Alfabetizaci&oacute;n Medi&aacute;tica</strong></p>
 <p>Seg&uacute;n Daniel, la &uacute;nica forma posible de luchar en contra de la desinformaci&oacute;n global y el da&ntilde;o que causan las noticias falsas en nuestra sociedad es generalizar la alfabetizaci&oacute;n medi&aacute;tica; es decir, darle las herramientas a la poblaci&oacute;n para consumir contenido de forma m&aacute;s objetiva, y recopilar, analizar y transmitir informaci&oacute;n de manera &eacute;tica, tal y como si fueran periodistas.</p>
 }
+title Fact-checking: aprendiendo a lidiar con los “fake news”.
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201911/headers/19-lado-b.jpg
+    poster /images/201911/posters/19-lado-b.jpg
+}
+description ¿Qué impacto tienen las noticias falsas en la estabilidad social? ¿Qué rol juegan las redes sociales en su diseminación? Un fact-checker nos habla sobre los alt-facts y la importancia de pausar antes de compartir.
+year 2019
+author Luisa Mora Fernández
+featured{kmkv} {
+    title FAKE NEWS
+    text1 CONVERSAMOS CON UN FACT-CHECKER ACERCA DE LAS NOTICIAS FALSAS, CÓMO EVITAR CAER EN SUS TRAMPAS, Y QUÉ TIENEN QUE VER LAS REDES SOCIALES CON EL PROBLEMA
+    text2 PODCAST LADO B, EPISODIO “POST-VERDAD Y FACT-CHECKING”
+    pretitle LADO B:
+    highlightColor #ff613c
+}
+type article
+subtitle Podcast Lado B: conversamos con un fact-checker acerca de las noticias falsas, cómo evitar caer en sus trampas, y qué tienen que ver las redes sociales con el problema.
+month 11
+tags{array} noticias-politica,opinion
+videoID 
+titlePoster 
+color #ffb3a1
