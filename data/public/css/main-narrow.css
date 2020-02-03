@@ -1,18 +1,3 @@
-body {
-    background-color: #000;
-}
-
-#header {
-	height: 15vw;
-}
-#headerLogo {
-	font-size: 8vw;
-    margin-left: 3vw;
-}
-#headerCategories {
-	visibility: hidden;
-}
-
 #featuredPretitle {
     font-size: 4vw;
     letter-spacing: 0.15vw;
@@ -56,5 +41,15 @@ body {
 
 /* ========================================= SUSCRIBETE ========================================= */
 
+.subscribeText h4 {
+    display: none;
+}
 
 /* ========================================= RECIENTES ========================================== */
+
+.recentArticleTitle {
+    margin-top: 0;
+}
+.recentArticleSubtitle {
+    display: none;
+}

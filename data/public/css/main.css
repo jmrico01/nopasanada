@@ -286,8 +286,8 @@
 }
 
 .recentArticle {
-    height: 9.375vw;
     margin-bottom: 1.5625vw;
+    overflow: hidden;
 
     opacity: 100%;
     transition: opacity 0.2s ease;
@@ -299,10 +299,11 @@
 .recentArticleImage {
     float: left;
     width: 16.67vw;
-    height: 100%;
+    height: 9.375vw;
     overflow: hidden;
 }
 .recentArticleImage img {
+    width: 100%;
     height: 100%;
     object-fit: cover;
 }

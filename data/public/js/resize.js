@@ -5,6 +5,7 @@
 //     function OnResize() {}
 
 let cssNarrow_ = null;
+let cssTextNarrow_ = null;
 let isNarrow_ = null;
 
 let prevHeight_ = null;
@@ -32,6 +33,13 @@ function OnResizeBase()
     }
 
     if (aspectChanged) {
+        if (isNarrow) {
+            cssTextNarrow_.href = "../../../css/text-narrow.css";
+        }
+        else {
+            cssTextNarrow_.href = "";
+        }
+
         OnAspectChanged(isNarrow);
     }
 
@@ -39,6 +47,11 @@ function OnResizeBase()
 }
 
 $(document).ready(function() {
+    cssTextNarrow_ = document.createElement("link");
+    cssTextNarrow_.rel = "stylesheet";
+    cssTextNarrow_.type = "text/css";
+    document.getElementsByTagName("head")[0].appendChild(cssTextNarrow_);
+
     cssNarrow_ = document.createElement("link");
     cssNarrow_.rel = "stylesheet";
     cssNarrow_.type = "text/css";
