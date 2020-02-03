@@ -65,6 +65,22 @@ function SetFeaturedInfo(entry)
     });
 }
 
+function RenderCollectionEntries(entries)
+{
+    let $list = $("#collectionList");
+    $list.html("");
+
+    let entryStart = collectionsPositionIndex_ * collectionsPerScreen_;
+    let entryEnd = Math.min(entryStart + collectionsPerScreen_, entries.length);
+    for (let i = entryStart; i < entryEnd; i++) {
+        let entryData = entries[i];
+        let $entry = $(collectionTemplate_);
+        $entry.find("a").addBack("a").attr("href", entryData.uri);
+        $entry.find("img").attr("src", IMAGE_BASE_URL + entryData.image);
+        $list.append($entry);
+    }
+}
+
 function MoveCollectionEntries(entries, indexDelta)
 {
     let indexMax = Math.floor((entries.length - 1) / collectionsPerScreen_);
@@ -82,23 +98,7 @@ function MoveCollectionEntries(entries, indexDelta)
     else {
         $("#collectionArrowRightButton").show();
     }
-    ResetCollectionEntries(entries);
-}
-
-function ResetCollectionEntries(entries)
-{
-    let $list = $("#collectionList");
-    $list.html("");
-
-    let entryStart = collectionsPositionIndex_ * collectionsPerScreen_;
-    let entryEnd = Math.min(entryStart + collectionsPerScreen_, entries.length);
-    for (let i = entryStart; i < entryEnd; i++) {
-        let entryData = entries[i];
-        let $entry = $(collectionTemplate_);
-        $entry.find("a").addBack("a").attr("href", entryData.uri);
-        $entry.find("img").attr("src", IMAGE_BASE_URL + entryData.image);
-        $list.append($entry);
-    }
+    RenderCollectionEntries(entries);
 }
 
 function ResetRecentArticleEntries(entries)
@@ -157,6 +157,7 @@ function OnAspectChanged(narrow)
         // postersPerScreen_ = 5;
     }
 
+    // TODO maybe collection needs a resize of perScreen
     // if (loadedEntries_ !== null) {
     //     ResetPosters(loadedEntries_);
     // }
@@ -164,10 +165,7 @@ function OnAspectChanged(narrow)
 
 function OnResize()
 {
-    // TODO hmmmmm
-    // if (isNarrow_) {
-    //     $("#coleccion").css("height", "auto");
-    // }
+    // Do nothing. Yay!
 }
 
 function HandleScroll()
@@ -332,22 +330,22 @@ function OnFeaturedEntriesLoaded(featured)
     SetFeaturedInfo(featuredEntries_[startCategory][0]);
     let startImageSet = featuredImages_[startCategory][0];
     LoadFeaturedImageSetIfNotLoaded(startImageSet, function() {
+        console.log("First featured image set loaded");
         SetFeaturedImageSet(startImageSet);
         $(".featuredImage").show();
         LoadAllFeaturedImageSets();
     });
 }
 
-function OnAllEntriesLoaded(entries)
+function ResetEntries(entries)
 {
-    allEntries_ = entries;
     collectionEntries_ = [];
     recentArticleEntries_ = [];
     recentVideosEntries_ = [];
-    for (let i = 0; i < allEntries_.length; i++) {
-        const entry = allEntries_[i];
-        const isHome = entry.tags.indexOf(TAG_HOME) !== -1;
-        if (isHome) {
+    for (let i = 0; i < entries.length; i++) {
+        const entry = entries[i];
+        const match = entry.tags.indexOf(GetCurrentCategory()) !== -1;
+        if (match) {
             if (entry.tags.indexOf(TAG_COLLECTION) !== -1) {
                 collectionEntries_.push(JSON.parse(JSON.stringify(entry)));
             }
@@ -360,9 +358,16 @@ function OnAllEntriesLoaded(entries)
         }
     }
 
-    ResetCollectionEntries(collectionEntries_);
+    collectionsPositionIndex_ = 0;
+    RenderCollectionEntries(collectionEntries_);
     ResetRecentArticleEntries(recentArticleEntries_);
     ResetRecentVideoEntries(recentVideosEntries_);
+}
+
+function OnAllEntriesLoaded(entries)
+{
+    allEntries_ = entries;
+    ResetEntries(entries);
 
     $("#collectionArrowLeftButton").on("click", function() {
         MoveCollectionEntries(collectionEntries_, -1);
@@ -388,14 +393,7 @@ function OnHashChanged()
             });
         }
 
-        // TODO the other entry lists probably need reloading/resetting as well
-        // loadedEntries_ = [];
-        // for (let i = 0; i < allEntries_.length; i++) {
-        //     if (allEntries_[i].tags.indexOf(category) !== -1) {
-        //         loadedEntries_.push(allEntries_[i]);
-        //     }
-        // }
-        // ResetPosters(loadedEntries_);
+        ResetEntries(allEntries_);
     }
 }
 
@@ -413,6 +411,7 @@ $(document).ready(function() {
     let entriesLoaded = false;
     let featured = null;
 
+    console.log("Initializing... requesting data from server");
     $.ajax({
         type: "GET",
         url: "/entries",
@@ -421,6 +420,7 @@ $(document).ready(function() {
         async: true,
         data: "",
         success: function(data) {
+            console.log("Received /entries response");
             OnAllEntriesLoaded(data);
             if (featured !== null) {
                 OnFeaturedEntriesLoaded(featured);
@@ -440,6 +440,7 @@ $(document).ready(function() {
         async: true,
         data: "",
         success: function(data) {
+            console.log("Received /featured response");
             if (entriesLoaded) {
                 OnFeaturedEntriesLoaded(data);
             }
