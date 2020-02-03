@@ -432,6 +432,7 @@ $(document).ready(function() {
     $("#recentVideoTemplate").remove();
     $("#collectionArrowLeftButton").hide();
 
+    // TODO Duplicated in entry scripts
     $(".headerSubcategories").hide();
     $(".headerCategory").hover(function() {
         $(this).find(".headerSubcategories").show();

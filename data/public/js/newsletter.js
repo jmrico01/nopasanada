@@ -56,6 +56,14 @@ function OnHashChanged()
 window.onhashchange = OnHashChanged;
 
 $(document).ready(function() {
+    // TODO Duplicated in entry scripts
+    $(".headerSubcategories").hide();
+    $(".headerCategory").hover(function() {
+        $(this).find(".headerSubcategories").show();
+    }, function() {
+        $(this).find(".headerSubcategories").hide();
+    });
+
     if ($(".articleAudio").attr("src") === "") {
         $(".articleAudio").remove();
     }

@@ -48,5 +48,13 @@ window.onload = function() {
 };
 
 $(document).ready(function() {
+    // TODO Duplicated in entry scripts
+    $(".headerSubcategories").hide();
+    $(".headerCategory").hover(function() {
+        $(this).find(".headerSubcategories").show();
+    }, function() {
+        $(this).find(".headerSubcategories").hide();
+    });
+
     $("#content").css("visibility", "visible");
 });
