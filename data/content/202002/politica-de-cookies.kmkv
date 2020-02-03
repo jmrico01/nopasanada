@@ -1,4 +1,4 @@
-text <p>T&eacute;rminos y condiciones...</p>
+text <p>Pol&iacute;tica de cookies...</p>
 title No Pasa Nada
 day 02
 text1 
@@ -9,7 +9,7 @@ customTop
 media{kmkv} {
     header /images/unused/garrazo.jpg
 }
-description No Pasa Nada: términos y condiciones
+description No Pasa Nada: política de cookies
 year 2020
 featured{kmkv} {
     title 
@@ -20,7 +20,7 @@ featured{kmkv} {
 }
 subtextLeft 
 type text
-subtitle Términos y Condiciones
+subtitle Política de cookies
 month 02
 tags{array} other
 subtextRight 

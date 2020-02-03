@@ -51,6 +51,10 @@
 }
 .headerSubcategories {
     position: absolute;
+    margin-top: 0.2vw;
+    background-color: #000;
+    padding: 0.78125vw 0.78125vw 0.78125vw 0.5vw;
+    margin-left: -0.5vw;
 }
 
 /* =========================================== FOOTER =========================================== */

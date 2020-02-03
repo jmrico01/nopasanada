@@ -7,9 +7,9 @@ const FEATURED_IMAGE_FADE_MS = 400;
 const IMAGE_ANIM_MS = 250;
 
 const TAG_HOME       = "home";
-const TAG_COLLECTION = "cultura";
-const TAG_ARTICLE    = "cultura";
-const TAG_VIDEO      = "cultura";
+const TAG_COLLECTION = "coleccion";
+const TAG_ARTICLE    = "articulo";
+const TAG_VIDEO      = "video";
 
 let allEntries_ = null;
 let featuredEntries_ = null;
@@ -149,18 +149,17 @@ function OnAspectChanged(narrow)
 {
     if (narrow) {
         cssNarrow_.href = "css/main-narrow.css";
-        // postersPerScreen_ = 3;
-        // $("#contentList").css("width", "100%");
+        collectionsPerScreen_ = 2;
     }
     else {
         cssNarrow_.href = "";
-        // postersPerScreen_ = 5;
+        collectionsPerScreen_ = 3;
     }
 
-    // TODO maybe collection needs a resize of perScreen
-    // if (loadedEntries_ !== null) {
-    //     ResetPosters(loadedEntries_);
-    // }
+    if (collectionEntries_ !== null) {
+        collectionsPositionIndex_ = 0;
+        RenderCollectionEntries(collectionEntries_);
+    }
 }
 
 function OnResize()
@@ -171,7 +170,9 @@ function OnResize()
 function HandleScroll()
 {
     let headerOpacity = Math.min(document.documentElement.scrollTop / window.innerHeight, 1.0);
-    $("#header").css("background-color", "rgba(0%, 0%, 0%, " + headerOpacity * 100.0 + "%)");
+    let colorString = "rgba(0%, 0%, 0%, " + headerOpacity * 100.0 + "%)";
+    $("#header").css("background-color", colorString);
+    $(".headerSubcategories").css("background-color", colorString);
 }
 
 window.onscroll = HandleScroll;
@@ -393,6 +394,14 @@ function OnHashChanged()
         }
 
         ResetEntries(allEntries_);
+        if (category === TAG_HOME) {
+            $("#collection").show();
+            $("#subscribe").show();
+        }
+        else {
+            $("#collection").hide();
+            $("#subscribe").hide();
+        }
     }
 }
 

@@ -1,10 +1,10 @@
 const FEATURED_TAG_PREFIX = "featured-";
 const TABLE_FIELDS = [
-    [ "date" , "Date"     ],
-    [ "type" , "Type"     ],
-    [ "title", "Title"    ],
-    [ "tags" , "Tags"     ],
-    [ "uri" , "ID / URL" ],
+    [ "dateString", "Date"     ],
+    [ "type"      , "Type"     ],
+    [ "title"     , "Title"    ],
+    [ "tags"      , "Tags"     ],
+    [ "uri"       , "ID / URL" ],
 ];
 
 let resetInProgress_  = false;

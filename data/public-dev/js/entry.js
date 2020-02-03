@@ -2,6 +2,17 @@
 
 // const IMAGE_BASE_URL = "https://nopasanada.s3.amazonaws.com";
 
+const VALID_TAGS = [
+    "home", "coleccion", "articulo", "video",
+    "noticias", "noticias-video", "noticias-culturales", "noticias-politica",
+    "opinion",
+    "guia", "guia-comida", "guia-bebidas", "guia-viaje",
+    "venus", "venus-derechos", "venus-inspiradoras", "venus-moda", "venus-belleza", "venus-salud",
+    "ludi", "ludi-futbol", "ludi-moto",
+    "mas", "mas-ambiente", "mas-saludmental", "mas-saludciencia", "mas-artemusica", "mas-cine",
+    "other"
+];
+
 let previewUrl_ = null;
 
 let editors_ = null;
@@ -166,6 +177,10 @@ function SaveEntryData()
     let tags = document.getElementsByName("tags")[0].value.split(",");
     for (let i = 0; i < tags.length; i++) {
         tags[i] = tags[i].trim();
+        if (VALID_TAGS.indexOf(tags[i]) === -1) {
+            alert("Invalid tag: " + tags[i]);
+            return;
+        }
     }
 
     if (GetImageByName("header", images_) === null) {
