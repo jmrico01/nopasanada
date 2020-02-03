@@ -49,6 +49,9 @@
     display: block;
     height: 100%;
 }
+.headerSubcategories {
+    position: absolute;
+}
 
 /* =========================================== FOOTER =========================================== */
 

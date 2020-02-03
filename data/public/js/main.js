@@ -330,7 +330,6 @@ function OnFeaturedEntriesLoaded(featured)
     SetFeaturedInfo(featuredEntries_[startCategory][0]);
     let startImageSet = featuredImages_[startCategory][0];
     LoadFeaturedImageSetIfNotLoaded(startImageSet, function() {
-        console.log("First featured image set loaded");
         SetFeaturedImageSet(startImageSet);
         $(".featuredImage").show();
         LoadAllFeaturedImageSets();
@@ -408,10 +407,16 @@ $(document).ready(function() {
     $("#recentVideoTemplate").remove();
     $("#collectionArrowLeftButton").hide();
 
+    $(".headerSubcategories").hide();
+    $(".headerCategory").hover(function() {
+        $(this).find(".headerSubcategories").show();
+    }, function() {
+        $(this).find(".headerSubcategories").hide();
+    });
+
     let entriesLoaded = false;
     let featured = null;
 
-    console.log("Initializing... requesting data from server");
     $.ajax({
         type: "GET",
         url: "/entries",
@@ -420,7 +425,6 @@ $(document).ready(function() {
         async: true,
         data: "",
         success: function(data) {
-            console.log("Received /entries response");
             OnAllEntriesLoaded(data);
             if (featured !== null) {
                 OnFeaturedEntriesLoaded(featured);
@@ -440,7 +444,6 @@ $(document).ready(function() {
         async: true,
         data: "",
         success: function(data) {
-            console.log("Received /featured response");
             if (entriesLoaded) {
                 OnFeaturedEntriesLoaded(data);
             }
