@@ -8,6 +8,7 @@ const IMAGE_ANIM_MS = 250;
 
 const TAG_HOME         = "home";
 const TAG_COLLECTION   = "coleccion";
+const TAG_OTHER        = "other";
 const ENTRY_TYPE_VIDEO = "video";
 
 let allEntries_ = null;
@@ -356,10 +357,23 @@ function ResetEntries(entries)
             collectionEntries_.push(JSON.parse(JSON.stringify(entry)));
         }
         let matchCategory = false;
-        for (let j = 0; j < entry.tags.length; j++) {
-            if (entry.tags[j].includes(currentCategory)) {
+        if (currentCategory === TAG_HOME) {
+            let entryYear = parseInt(entry.dateString.substring(0, 4));
+            let entryMonth = parseInt(entry.dateString.substring(4, 6));
+            let entryDay = parseInt(entry.dateString.substring(6, 8));
+            let entryDate = new Date(entryYear, entryMonth - 1, entryDay);
+            let ageMs = Date.now() - entryDate;
+            let ageDays = ageMs / 1000 / 60 / 60 / 24;
+            if (entry.tags.indexOf(TAG_OTHER) === -1 && (ageDays <= 14.)) {
                 matchCategory = true;
-                break;
+            }
+        }
+        else {
+            for (let j = 0; j < entry.tags.length; j++) {
+                if (entry.tags[j].includes(currentCategory)) {
+                    matchCategory = true;
+                    break;
+                }
             }
         }
         if (matchCategory) {
