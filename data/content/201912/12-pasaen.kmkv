@@ -1,19 +1,27 @@
-type video
-featured{kmkv} {
-}
-media{kmkv} {
-    header{image} /images/unused/garrazo.jpg
-}
-tags{array} deporte, pasaen
+text <p>Jicaral no logra llegar a su m&aacute;ximo objetivo de lograr entrar a la semi-final de la Liga Promerica, y La Liga Deportiva Alajuelense se demuestra fuerte entrando a la b&uacute;squeda por el titulo. Vea esto y m&aacute;s en este episodio de Pasa En La Liga Promerica.</p>
 title ALAJUELENSE EN CAMINO AL TÍTULO
-titlePoster Pasa En La Liga Promerica
-description Jicaral no logra llegar a su máximo objetivo de lograr entrar a la semi-final de la Liga Promerica, y La Liga Deportiva Alajuelensé se demuestra fuerte entrando a la búsqueda por el titulo. Vea esto y más en este episodio de Pasa En La Liga Promerica.
 day 10
-month 12
-year 2019
-color #E89EA2
-videoID hcxYfthv0KU
-subtitle Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
-text {
-<p><p>Jicaral no logra llegar a su máximo objetivo de lograr entrar a la semi-final de la Liga Promerica, y La Liga Deportiva Alajuelense se demuestra fuerte entrando a la búsqueda por el titulo. Vea esto y más en este episodio de Pasa En La Liga Promerica.</p></p>
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/unused/garrazo.jpg
 }
+description Jicaral no logra llegar a su máximo objetivo de lograr entrar a la semi-final de la Liga Promerica, y La Liga Deportiva Alajuelensé se demuestra fuerte entrando a la búsqueda por el titulo. Vea esto y más en este episodio de Pasa En La Liga Promerica.
+year 2019
+featured{kmkv} {
+    title undefined
+    text1 undefined
+    text2 undefined
+    pretitle undefined
+    highlightColor undefined
+}
+type video
+subtitle Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
+month 12
+tags{array} ludi-futbol
+videoID hcxYfthv0KU
+titlePoster Pasa En La Liga Promerica
+color #E89EA2

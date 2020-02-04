@@ -1,19 +1,27 @@
-type video
-featured{kmkv} {
-}
-media{kmkv} {
-    header{image} /images/unused/garrazo.jpg
-}
-tags{array} deporte, pasaen
+text <p>En este episodio de Pasa en La Liga Promerica vemos c&oacute;mo El Deportivo Saprissa se enfrenta a el equipo de Grecia. Pronto, su destino se decidir&aacute; en las semi-finales del La Liga, pero antes tendr&aacute; que ver qu&eacute; suceder&aacute; ante un equipo como Grecia.</p>
 title EL FUTURO DEL SAPRISSA
-titlePoster Pasa En La Liga Promerica
-description En este episodio de Pasa en La Liga Promerica vemos cómo El Deportivo Saprissa se enfrenta a el equipo de Grecia. Pronto, su destino se decidirá en las semi-finales del La Liga, pero antes tendrá que ver qué sucederá ante un equipo como Grecia.
 day 10
-month 12
-year 2019
-color #E89EA2
-videoID BIzJt6JSNbg
-subtitle Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
-text {
-<p><p>En este episodio de Pasa en La Liga Promerica vemos cómo El Deportivo Saprissa se enfrenta a el equipo de Grecia. Pronto, su destino se decidirá en las semi-finales del La Liga, pero antes tendrá que ver qué sucederá ante un equipo como Grecia.</p></p>
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/unused/garrazo.jpg
 }
+description En este episodio de Pasa en La Liga Promerica vemos cómo El Deportivo Saprissa se enfrenta a el equipo de Grecia. Pronto, su destino se decidirá en las semi-finales del La Liga, pero antes tendrá que ver qué sucederá ante un equipo como Grecia.
+year 2019
+featured{kmkv} {
+    title undefined
+    text1 undefined
+    text2 undefined
+    pretitle undefined
+    highlightColor undefined
+}
+type video
+subtitle Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
+month 12
+tags{array} ludi-futbol
+videoID BIzJt6JSNbg
+titlePoster Pasa En La Liga Promerica
+color #E89EA2

@@ -358,6 +358,9 @@ function ResetEntries(entries)
         }
         let matchCategory = false;
         if (currentCategory === TAG_HOME) {
+            if (entry.type === ENTRY_TYPE_VIDEO && entry.tags.indexOf("ludi-futbol") === -1) {
+                matchCategory = true;
+            }
             let entryYear = parseInt(entry.dateString.substring(0, 4));
             let entryMonth = parseInt(entry.dateString.substring(4, 6));
             let entryDay = parseInt(entry.dateString.substring(6, 8));
