@@ -16,7 +16,6 @@
 
 #content {
     visibility: hidden; /* hide wonky stuff until page loads */
-    background-color: #000;
 }
 
 #screenLanding {

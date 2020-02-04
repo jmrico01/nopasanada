@@ -447,6 +447,7 @@ $(document).ready(function() {
     $("#collectionArrowLeftButton").hide();
 
     // TODO Duplicated in entry scripts
+    $(".headerSubcategories").css("visibility", "visible");
     $(".headerSubcategories").hide();
     $(".headerCategory").hover(function() {
         $(this).find(".headerSubcategories").show();
