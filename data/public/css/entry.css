@@ -3,11 +3,15 @@
 	background-color: #fff;
 }
 
+.headerSubcategories {
+    background-color: #ffffff;
+}
+
 #article {
     color: #000;
 }
 
-.articleImage {
+.entryImage {
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -20,22 +24,16 @@
     font-size: 8vw;
     line-height: 24vw;
     color: #fff;
-    -webkit-filter: brightness(100%);
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease;
 }
-.articleImage:hover {
-    -webkit-filter: brightness(80%);
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease;
+.entryImageNewsletter {
+    opacity: 100%;
+    transition: opacity 0.2s ease;
 }
-#articleVideo {
+.entryImageNewsletter:hover {
+    opacity: 80%;
+    transition: opacity 0.2s ease;
+}
+#entryVideo {
     width: 100%;
     height: 100%;
 }

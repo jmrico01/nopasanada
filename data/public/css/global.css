@@ -65,3 +65,14 @@ a:hover {
 a:active {
     color: inherit;
 }
+
+h2 {
+}
+
+/*
+
+In theory, the Grid is made up of 30px squares, and things tend to be aligned to this.
+Reference resolution is 1920x1080, and things are specified relative to width (vw), so
+30px / 1920px * 100 = 1.5625vw is the base unit for the Grid.
+
+*/

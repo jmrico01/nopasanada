@@ -132,7 +132,7 @@ featured{kmkv} {
 author4 No Pasa Nada Noticias y AFP
 type newsletter
 month 01
-tags{array} noticias,home
+tags{array} noticias-loimportante
 videoID 
 titlePoster 
 color #ffff00

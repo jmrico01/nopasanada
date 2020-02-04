@@ -1,48 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle CULTURA:
-    title <b>GAULTIER:<b> <br>“HAY DEMASIADA ROPA.”
-    text1 EL CASO EN CONTRA DE DEJAR DE PRODUCIR ROPA, Y A FAVOR DE ABANDONAR EL GREENWASHING
-    text2 POR NPN CULTURA Y AFP
-    highlightColor #00ffff
-}
-media{kmkv} {
-    header{image} /images/202001/headers/23-gaultier.jpg
-    poster{image} /images/202001/posters/23-gaultier.jpg
-    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
-    postre{image} /images/201912/09-al-mercat/postre.jpg
-    header2{image} /images/201912/09-al-mercat/header2.jpg
-    bottom{image} /images/201912/09-al-mercat/bottom.jpg
-    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
-    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
-    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
-    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
-    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
-    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
-    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
-    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
-    trumpflag{image} /images/202001/necesita-saber-iran/trumpflag.jpg
-    trumptweet{image} /images/202001/necesita-saber-iran/trumptweet.jpg
-    tweet1{image} /images/202001/necesita-saber-iran/tweet1.jpg
-    zariftweet{image} /images/202001/necesita-saber-iran/zariftweet.jpg
-    perdidas{image} /images/202001/necesita-saber-iran/perdidas.jpg
-    respuesta{image} /images/202001/necesita-saber-iran/respuesta.jpg
-    dubai{image} /images/202001/necesita-saber-iran/dubai.jpg
-    propaganda{image} /images/202001/necesita-saber-iran/propaganda.jpg
-    museeparismonet{image} /images/202001/17-musee-paris/museeparismonet.jpg
-    museeparisgautier{image} /images/202001/17-musee-paris/museeparisgautier.jpg
-    museeparishippodrome{image} /images/202001/17-musee-paris/museeparishippodrome.jpg
-    museeparislouis{image} /images/202001/17-musee-paris/museeparislouis.jpg
-}
-tags{array} cultura, home
-title Jean-Paul Gaultier se despide con un mensaje: “hay demasiada ropa.”
-description Jean-Paul Gaultier tiene razón: simplemente, hay demasiada ropa. Reciclar ya no es suficiente, la solución es que la industria deje de producir tanto textil que, según el diseñador, “no sirve para nada.”
-day 23
-month 01
-year 2020
-color #00ffff
-author NPN Cultura y AFP
-subtitle El caso en contra de dejar de producir ropa, y a favor de abandonar el greenwashing
 text {
 <p>"Creo que la moda tiene que cambiar. Hay demasiada ropa, ropa que no sirve para nada. No la tiren, rec&iacute;clenla", escribi&oacute; Gaultier en una nota distribuida entre el p&uacute;blico de su &uacute;ltima pasarela, la cual se dio en el marco de la Semana de la Moda de Alta Costura.</p>
 <p><br />El dise&ntilde;ador de 67 a&ntilde;os, hab&iacute;a anunciado el viernes por sorpresa que este ser&iacute;a su &uacute;ltima colecci&oacute;n - aunque su firma, propiedad del grupo espa&ntilde;ol Puig, seguir&aacute; existiendo, dando vida a un proyecto del cu&aacute;l a&uacute;n no sabemos mucho, pero del que Gaultier prometi&oacute; haber sido el "instigador".</p>
@@ -56,3 +11,55 @@ text {
 <p><br />Algunas alternativas con menos impacto son el lino, el c&aacute;&ntilde;amo y el algod&oacute;n sostenible. Otros textiles supuestamente ecol&oacute;gicos no lo son tanto, como el caso de la viscosa: un &ldquo;producto m&aacute;gico&rdquo; que al no proceder de la industria petroqu&iacute;mica, deja la puerta abierta al <em>greenwashing</em>, ya que las marcas que la utilizan no pueden dar garant&iacute;a de que es un material sostenible.&nbsp;</p>
 <p><br />Reflexionar sobre las palabras de Gaultier al despedirse de la industria que &eacute;l mismo ayud&oacute; a crear nos deja una lecci&oacute;n inequ&iacute;voca: <strong>hay que producir menos ropa</strong>. Punto.&nbsp;</p>
 }
+title Jean-Paul Gaultier se despide con un mensaje: “hay demasiada ropa.”
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header2 /images/201912/09-al-mercat/header2.jpg
+    museeparishippodrome /images/202001/17-musee-paris/museeparishippodrome.jpg
+    irangarden /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    header /images/202001/headers/23-gaultier.jpg
+    trumpflag /images/202001/necesita-saber-iran/trumpflag.jpg
+    trumptweet /images/202001/necesita-saber-iran/trumptweet.jpg
+    portraitofalady /images/201912/12-gustav-klimt/portraitofalady.jpg
+    iranshushtar /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    postre /images/201912/09-al-mercat/postre.jpg
+    iranpersepolis /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    perdidas /images/202001/necesita-saber-iran/perdidas.jpg
+    platofuerte /images/201912/09-al-mercat/platofuerte.jpg
+    museeparismonet /images/202001/17-musee-paris/museeparismonet.jpg
+    propaganda /images/202001/necesita-saber-iran/propaganda.jpg
+    iranarmenianmonasteries /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+    poster /images/202001/posters/23-gaultier.jpg
+    tweet1 /images/202001/necesita-saber-iran/tweet1.jpg
+    respuesta /images/202001/necesita-saber-iran/respuesta.jpg
+    irangardenold /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    museeparislouis /images/202001/17-musee-paris/museeparislouis.jpg
+    annakarina1 /images/201912/17-anna-karina/annakarina1.jpg
+    annakarina2 /images/201912/17-anna-karina/annakarina2.jpg
+    museeparisgautier /images/202001/17-musee-paris/museeparisgautier.jpg
+    zariftweet /images/202001/necesita-saber-iran/zariftweet.jpg
+    bottom /images/201912/09-al-mercat/bottom.jpg
+    dubai /images/202001/necesita-saber-iran/dubai.jpg
+}
+description Jean-Paul Gaultier tiene razón: simplemente, hay demasiada ropa. Reciclar ya no es suficiente, la solución es que la industria deje de producir tanto textil que, según el diseñador, “no sirve para nada.”
+year 2020
+author NPN Cultura y AFP
+featured{kmkv} {
+    title <b>GAULTIER:<b> <br>“HAY DEMASIADA ROPA.”
+    text1 EL CASO EN CONTRA DE DEJAR DE PRODUCIR ROPA, Y A FAVOR DE ABANDONAR EL GREENWASHING
+    text2 POR NPN CULTURA Y AFP
+    pretitle CULTURA:
+    highlightColor #00ffff
+}
+type article
+subtitle El caso en contra de dejar de producir ropa, y a favor de abandonar el greenwashing
+month 01
+tags{array} noticias-culturales,venus-moda
+videoID 
+titlePoster 
+color #00ffff

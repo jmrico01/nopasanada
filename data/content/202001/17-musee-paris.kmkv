@@ -1,48 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle CULTURA:
-    title MUSEOS DE PARÍS<b> FOR <b>FREE<b>
-    text1 LA INSTITUCIÓN QUE ADMINISTRA LOS MUSEOS DE PARÍS HA DADO LIBRE ACCESO A MÁS DE 300000 PIEZAS DE ARTE QUE HABITAN LOS MUSEOS DE LA CIUDAD.
-    text2 POR NPN CULTURA
-    highlightColor #00ffff
-}
-media{kmkv} {
-    header{image} /images/202001/headers/17-musee-paris.jpg
-    poster{image} /images/202001/posters/17-musee-paris.jpg
-    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
-    postre{image} /images/201912/09-al-mercat/postre.jpg
-    header2{image} /images/201912/09-al-mercat/header2.jpg
-    bottom{image} /images/201912/09-al-mercat/bottom.jpg
-    portraitofalady{image} /images/201912/12-gustav-klimt/portraitofalady.jpg
-    annakarina2{image} /images/201912/17-anna-karina/annakarina2.jpg
-    annakarina1{image} /images/201912/17-anna-karina/annakarina1.jpg
-    irangarden{image} /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
-    irangardenold{image} /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
-    iranpersepolis{image} /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
-    iranshushtar{image} /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
-    iranarmenianmonasteries{image} /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
-    trumpflag{image} /images/202001/necesita-saber-iran/trumpflag.jpg
-    trumptweet{image} /images/202001/necesita-saber-iran/trumptweet.jpg
-    tweet1{image} /images/202001/necesita-saber-iran/tweet1.jpg
-    zariftweet{image} /images/202001/necesita-saber-iran/zariftweet.jpg
-    perdidas{image} /images/202001/necesita-saber-iran/perdidas.jpg
-    respuesta{image} /images/202001/necesita-saber-iran/respuesta.jpg
-    dubai{image} /images/202001/necesita-saber-iran/dubai.jpg
-    propaganda{image} /images/202001/necesita-saber-iran/propaganda.jpg
-    museeparismonet{image} /images/202001/17-musee-paris/museeparismonet.jpg
-    museeparisgautier{image} /images/202001/17-musee-paris/museeparisgautier.jpg
-    museeparishippodrome{image} /images/202001/17-musee-paris/museeparishippodrome.jpg
-    museeparislouis{image} /images/202001/17-musee-paris/museeparislouis.jpg
-}
-tags{array} cultura, noticias, home
-title Museos de París for free: dan libre acceso a más de 300000 de sus obras
-description ¿Siempre quisiste tener un Goya o un Cézanne adornando la sala de tu casa? Ahora podés imprimir sus obras en alta resolución legalmente: los Museos de París han puesto en línea para libre descarga más de 150000 de las pinturas y fotografías que adornan sus galerías.
-day 17
-month 01
-year 2020
-color #00ffff
-author NPN Cultura
-subtitle En la lista hay más de 150000 pinturas y fotografías disponibles para libre descarga en altísima resolución.
 text {
 <p>&iquest;Qui&eacute;n no quisiera darse una vuelta por los museos de Par&iacute;s? El Louvre, el Museo Nacional de Arte Moderno de Pampidou, el Museo de Orsay, el Museo Nacional de Medioevo, <a href="https://www.tripsavvy.com/top-art-museums-in-paris-1618673">y varios m&aacute;s,</a> son de las atracciones m&aacute;s visitadas de la capital Europea, la raz&oacute;n por la que hordas de turistas la visitan cada a&ntilde;o. Famosa por su historia y el papel fundamental que ha jugado en el desarrollo de las artes y las ciencias, la ciudad es hogar para una cantidad alucinante de las pinturas, esculturas, fotograf&iacute;as y piezas de arte moderno m&aacute;s importantes. Por sus calles, han transitado, vivido, y so&ntilde;ado la mayor&iacute;a de los artistas m&aacute;s ic&oacute;nicos del mundo, aunque sea por temporadas.&nbsp;</p>
 <p>Visit&aacute; la galer&iacute;a de Museos de Par&iacute;s <a href="http://parismuseescollections.paris.fr/en/expositions-virtuelles">aqu&iacute;</a>.</p>
@@ -71,3 +26,55 @@ text {
 <p><a href="http://parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/la-place-louis-xv#infos-principales"><em>La place Louis XV</em></a>. Louis-Nicolas Van Blarenberghe // 1770 ~ 1780</p>
 </div>
 }
+title Museos de París for free: dan libre acceso a más de 300000 de sus obras
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header2 /images/201912/09-al-mercat/header2.jpg
+    museeparishippodrome /images/202001/17-musee-paris/museeparishippodrome.jpg
+    irangarden /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
+    header /images/202001/headers/17-musee-paris.jpg
+    trumpflag /images/202001/necesita-saber-iran/trumpflag.jpg
+    trumptweet /images/202001/necesita-saber-iran/trumptweet.jpg
+    portraitofalady /images/201912/12-gustav-klimt/portraitofalady.jpg
+    iranshushtar /images/202001/08-herencia-cultural-de-iran/iranshushtar.jpg
+    postre /images/201912/09-al-mercat/postre.jpg
+    iranpersepolis /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
+    perdidas /images/202001/necesita-saber-iran/perdidas.jpg
+    platofuerte /images/201912/09-al-mercat/platofuerte.jpg
+    museeparismonet /images/202001/17-musee-paris/museeparismonet.jpg
+    propaganda /images/202001/necesita-saber-iran/propaganda.jpg
+    iranarmenianmonasteries /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
+    poster /images/202001/posters/17-musee-paris.jpg
+    tweet1 /images/202001/necesita-saber-iran/tweet1.jpg
+    respuesta /images/202001/necesita-saber-iran/respuesta.jpg
+    irangardenold /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
+    museeparislouis /images/202001/17-musee-paris/museeparislouis.jpg
+    annakarina1 /images/201912/17-anna-karina/annakarina1.jpg
+    annakarina2 /images/201912/17-anna-karina/annakarina2.jpg
+    museeparisgautier /images/202001/17-musee-paris/museeparisgautier.jpg
+    zariftweet /images/202001/necesita-saber-iran/zariftweet.jpg
+    bottom /images/201912/09-al-mercat/bottom.jpg
+    dubai /images/202001/necesita-saber-iran/dubai.jpg
+}
+description ¿Siempre quisiste tener un Goya o un Cézanne adornando la sala de tu casa? Ahora podés imprimir sus obras en alta resolución legalmente: los Museos de París han puesto en línea para libre descarga más de 150000 de las pinturas y fotografías que adornan sus galerías.
+year 2020
+author NPN Cultura
+featured{kmkv} {
+    title MUSEOS DE PARÍS<b> FOR <b>FREE<b>
+    text1 LA INSTITUCIÓN QUE ADMINISTRA LOS MUSEOS DE PARÍS HA DADO LIBRE ACCESO A MÁS DE 300000 PIEZAS DE ARTE QUE HABITAN LOS MUSEOS DE LA CIUDAD.
+    text2 POR NPN CULTURA
+    pretitle CULTURA:
+    highlightColor #00ffff
+}
+type article
+subtitle En la lista hay más de 150000 pinturas y fotografías disponibles para libre descarga en altísima resolución.
+month 01
+tags{array} noticias-culturales,mas-arteymusica
+videoID 
+titlePoster 
+color #00ffff

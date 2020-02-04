@@ -1,24 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle EL TEATRO ARGENTINO:
-    title TEATRO QUE<br><b>RESISTE<b>
-    text1 UN EJEMPLO DE RESILIENCIA EN UNA REGIÓN AZOTADA POR LAS CRISIS ECONÓMICAS Y LA FALTA DE FOMENTO A LA CULTURA.
-    text2 POR AFP Y NO PASA NADA EDITORIAL
-    highlightColor #f4b6a5
-}
-media{kmkv} {
-    header{image} /images/201912/headers/04-teatro-argentino.jpg
-    poster{image} /images/201912/posters/04-teatro-argentino.jpg
-}
-tags{array} cultura
-title Teatro argentino: resiste la crisis contra viento y marea
-description Buenos Aires: los sueldos de los artistas han bajado, y ahora necesitan malabarear tres o cuatro trabajos en paralelo para poder sobrevivir. Pese a la inflación, la recesión y un aumento de casi 1.500% en las tarifas de electricidad, las salas de teatro de la ciudad de la furia siguen abriendo todas las noches
-day 04
-month 12
-year 2019
-color #f4b6a5
-author AFP y No Pasa Nada Editorial
-subtitle Un ejemplo de resiliencia en una región azotada por las crisis económicas y la falta de fomento a la cultura.
 text {
 <p>No es un secreto que, en Am&eacute;rica Latina, el teatro no genera millonarios. En ciudades como Bogot&aacute; y San Jos&eacute;, la oferta nocturna a menudo se reduce a espect&aacute;culos de Stand-Up Comedy y los <em>blockbusters</em> de siempre, que se han mantenido en cartelera por d&eacute;cadas.</p>
 <p>Las salas peque&ntilde;as y los grupos de teatro independientes libran lucha constante por llenar las funciones; espacios que hab&iacute;an sobrevivido a trav&eacute;s de los a&ntilde;os desaparecen de un d&iacute;a para otro.</p>
@@ -36,3 +15,31 @@ text {
 <p>La actriz, autora y directora Helena Tritek explica por qu&eacute;: "hay una necesidad de expresarse, de hablar, contar historias y leyendas".</p>
 <p>Una necesidad que el teatro a&uacute;n solventa.</p>
 }
+title Teatro argentino: resiste la crisis contra viento y marea
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201912/headers/04-teatro-argentino.jpg
+    poster /images/201912/posters/04-teatro-argentino.jpg
+}
+description Buenos Aires: los sueldos de los artistas han bajado, y ahora necesitan malabarear tres o cuatro trabajos en paralelo para poder sobrevivir. Pese a la inflación, la recesión y un aumento de casi 1.500% en las tarifas de electricidad, las salas de teatro de la ciudad de la furia siguen abriendo todas las noches
+year 2019
+author AFP y No Pasa Nada Editorial
+featured{kmkv} {
+    title TEATRO QUE<br><b>RESISTE<b>
+    text1 UN EJEMPLO DE RESILIENCIA EN UNA REGIÓN AZOTADA POR LAS CRISIS ECONÓMICAS Y LA FALTA DE FOMENTO A LA CULTURA.
+    text2 POR AFP Y NO PASA NADA EDITORIAL
+    pretitle EL TEATRO ARGENTINO:
+    highlightColor #f4b6a5
+}
+type article
+subtitle Un ejemplo de resiliencia en una región azotada por las crisis económicas y la falta de fomento a la cultura.
+month 12
+tags{array} noticias-culturales
+videoID 
+titlePoster 
+color #f4b6a5

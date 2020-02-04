@@ -3,7 +3,7 @@
 function OnAspectChanged(narrow)
 {
     if (narrow) {
-        cssNarrow_.href = "../../../css/article-narrow.css";
+        cssNarrow_.href = "../../../css/entry-narrow.css";
         $("#headerDesktop").hide();
         $("#headerMobile").show();
     }
@@ -56,6 +56,15 @@ function OnHashChanged()
 window.onhashchange = OnHashChanged;
 
 $(document).ready(function() {
+    // TODO Duplicated in entry scripts
+    $(".headerSubcategories").css("visibility", "visible");
+    $(".headerSubcategories").hide();
+    $(".headerCategory").hover(function() {
+        $(this).find(".headerSubcategories").show();
+    }, function() {
+        $(this).find(".headerSubcategories").hide();
+    });
+
     if ($(".articleAudio").attr("src") === "") {
         $(".articleAudio").remove();
     }

@@ -1,0 +1,29 @@
+text <p>Publicidad...</p>
+title No Pasa Nada
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/unused/garrazo.jpg
+}
+description No Pasa Nada: publicidad
+year 2020
+featured{kmkv} {
+    title 
+    text1 
+    text2 
+    pretitle 
+    highlightColor 
+}
+subtextLeft 
+type text
+subtitle Publicidad
+month 02
+tags{array} other
+subtextRight 
+videoID 
+titlePoster 
+color #ffb3a1

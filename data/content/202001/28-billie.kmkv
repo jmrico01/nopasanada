@@ -6,7 +6,7 @@ text {
 <p>La sensaci&oacute;n de intimidad que esto conlleva es diferente a la &ldquo;intimidad&rdquo; que se podr&iacute;a desarrollar con cualquier &iacute;dolo pop hiper-producido, a trav&eacute;s de los tabloides y conocimiento de su vida personal: lo que sabemos de Billie Eilish lo sabemos a trav&eacute;s de su m&uacute;sica. Ella misma se ha encargado de que sea as&iacute;. Su imagen tambi&eacute;n defiende esta posici&oacute;n: la misma cantante ha dicho que se viste en ropas holgadas porque ella quiere hacer m&uacute;sica, y no le interesa ser un s&iacute;mbolo sexual. Sus canciones manejan mensajes profundos - dentro de lo que permite el g&eacute;nero - y las letras no hablan solamente sobre captar la atenci&oacute;n del sexo opuesto, ni se conforman con pintar im&aacute;genes superficiales, si no que contienen ciertos tintes existenciales y filos&oacute;ficos; contrario a lo que se ha dicho, su &eacute;xito no se debe solamente a que su audiencia idealiza la depresi&oacute;n - tal vez, m&aacute;s bien, a que tienen m&aacute;s informaci&oacute;n al respecto, m&aacute;s <em>insight</em>; puede que sus canciones sean tristes, pero tambi&eacute;n son sorprendentemente inteligentes.&nbsp;</p>
 <p>Si Billie Eilish es el bot&oacute;n que sirve de muestra de una generaci&oacute;n, podemos confiar en que &ldquo;lxs chicxs de ahora&rdquo; la tienen bastante clara.&nbsp;</p>
 }
-title  Billie Eilish: el ícono musical de la generación Z
+title Billie Eilish: el ícono musical de la generación Z
 day 28
 text1 
 text2 
@@ -41,12 +41,12 @@ media{kmkv} {
     bottom /images/201912/09-al-mercat/bottom.jpg
     dubai /images/202001/necesita-saber-iran/dubai.jpg
 }
-description Billie Eilish fue la gran ganadora en los Grammys de anoche, y su éxito es un reflejo de los tiempos: una chica de 18 años que hace música en su cuarto, que subió su primer hit a soundcloud, se viste con ropa holgada expresamente para no ser sexualizada, y cuya canción más famosa se burla sin tapujos de la masculinidad tóxica. 
+description Billie Eilish fue la gran ganadora en los Grammys de anoche, y su éxito es un reflejo de los tiempos: una chica de 18 años que hace música en su cuarto, que subió su primer hit a soundcloud, se viste con ropa holgada expresamente para no ser sexualizada, y cuya canción más famosa se burla sin tapujos de la masculinidad tóxica.
 year 2020
 author NPN Cultura
 featured{kmkv} {
     title BILLIE EILISH
-    text1 EL ÍCONO MUSICAL DE LA GENERACIÓN Z 
+    text1 EL ÍCONO MUSICAL DE LA GENERACIÓN Z
     text2 POR NPN CULTURA
     pretitle CULTURA:
     highlightColor #00ffff
@@ -54,7 +54,7 @@ featured{kmkv} {
 type article
 subtitle Con la excusa de que se llevó a casa casi todos los Grammys, hablemos sobre este ícono pop acorde a los tiempos.
 month 01
-tags{array} cultura,home
+tags{array} noticias-culturales,venus-inspiradoras,mas-arteymusica
 videoID 
 titlePoster 
 color #00ffff

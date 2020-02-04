@@ -18,7 +18,7 @@ media{kmkv} {
     header-mobile3{image} /images/201912/18-lo-importante/square3.jpg
     header-mobile4{image} /images/201912/18-lo-importante/square4.jpg
 }
-tags{array} noticias
+tags{array} noticias-loimportante
 title Lo Importante: 18-12-19
 description 4 historias importantes de las más recientes noticias internacionales
 day 18

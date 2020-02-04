@@ -48,9 +48,10 @@
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - --->
 
     <link rel="stylesheet" type="text/css" href="../../../css/global.css">
-    <link rel="stylesheet" type="text/css" href="../../../css/header.css">
+    <link rel="stylesheet" type="text/css" href="../../../css/text.css">
+    <link rel="stylesheet" type="text/css" href="../../../css/header-footer.css">
     <link rel="stylesheet" type="text/css" href="../../../css/main.css">
-    <link rel="stylesheet" type="text/css" href="../../../css/article.css">
+    <link rel="stylesheet" type="text/css" href="../../../css/entry.css">
     
     <script type="application/javascript" src="../../../js/jquery-3.4.1.min.js"></script>
     <script type="application/javascript" src="https://www.youtube.com/iframe_api"></script>
@@ -62,77 +63,161 @@
 <body>
     <div id="website">
         <div id="header">
-            <div id="headerLogo">
-                <a href="../../..">
+            <h1 id="headerLogo">
+                <a href="../../../#">
                     NO PASA NADA.
                 </a>
-            </div>
+            </h1>
             <div id="headerCategories">
                 <div class="headerCategory">
                     <a href="../../../#noticias">
-                        NOTICIAS
+                        <h2>NOTICIAS</h2>
                     </a>
                     <div class="headerSubcategories">
-                        <!--<div class="headerSubcategory">
-                            NEWSLETTER
+                        <div class="headerSubcategory">
+                            <a href="../../../#noticias-loimportante">
+                                <h3>LO IMPORTANTE</h3>
+                            </a>
                         </div>
                         <div class="headerSubcategory">
-                            TRADUCTOR
-                        </div>-->
-                    </div>
-                </div>
-                <div class="headerCategory">
-                    <a href="../../../#cultura">
-                        CULTURA
-                    </a>
-                    <div class="headerSubcategories">
-                    </div>
-                </div>
-                <div class="headerCategory">
-                    <a href="../../../#deporte">
-                        DEPORTE
-                    </a>
-                    <div class="headerSubcategories">
-                    </div>
-                </div>
-                <div class="headerCategory">
-                    <a href="../../../#ciencia">
-                        CIENCIA
-                    </a>
-                    <div class="headerSubcategories">
+                            <a href="../../../#noticias-video">
+                                <h3>VIDEO</h3>
+                            </a>
+                        </div>
+                        <div class="headerSubcategory">
+                            <a href="../../../#noticias-culturales">
+                                <h3>CULTURALES</h3>
+                            </a>
+                        </div>
+                        <div class="headerSubcategory">
+                            <a href="../../../#noticias-politica">
+                                <h3>POL&Iacute;TICA</h3>
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <div class="headerCategory">
                     <a href="../../../#opinion">
-                        OPINI&Oacute;N
+                        <h2>OPINI&Oacute;N</h2>
                     </a>
                     <div class="headerSubcategories">
                     </div>
                 </div>
                 <div class="headerCategory">
-                    <a href="../../../content/201909/historias">
-                        HISTORIAS
+                    <a href="../../../#guida">
+                        <h2>LA GUIDA</h2>
                     </a>
                     <div class="headerSubcategories">
+                        <div class="headerSubcategory">
+                            <a href="../../../#guida-comida">
+                                <h3>COMIDA</h3>
+                            </a>
+                        </div>
+                        <div class="headerSubcategory">
+                            <a href="../../../#guida-bebidas">
+                                <h3>COCTELES Y BEBIDAS</h3>
+                            </a>
+                        </div>
+                        <!--<div class="headerSubcategory">
+                            <a href="../../../#guida-viaje">
+                                <h3>VIAJE</h3>
+                            </a>
+                        </div>-->
+                        <div class="headerSubcategory">
+                            <a href="../../../#guida-recomendado">
+                                <h3>RECOMENDADO</h3>
+                            </a>
+                        </div>
                     </div>
                 </div>
-                <!--<div class="headerCategory">
-                    <a href="#sobre">
-                        SOBRE
+                <div class="headerCategory">
+                    <a href="../../../#venus">
+                        <h2>VENUS</h2>
                     </a>
                     <div class="headerSubcategories">
+                        <div class="headerSubcategory">
+                            <a href="../../../#venus-derechos">
+                                <h3>DERECHOS DE LAS MUJERES</h3>
+                            </a>
+                        </div>
+                        <div class="headerSubcategory">
+                            <a href="../../../#venus-inspiradoras">
+                                <h3>MUJERES INSPIRADORAS</h3>
+                            </a>
+                        </div>
+                        <div class="headerSubcategory">
+                            <a href="../../../#venus-moda">
+                                <h3>MODA</h3>
+                            </a>
+                        </div>
+                        <!--<div class="headerSubcategory">
+                            <a href="../../../#venus-belleza">
+                                <h3>BELLEZA</h3>
+                            </a>
+                        </div>-->
+                        <div class="headerSubcategory">
+                            <a href="../../../#venus-salud">
+                                <h3>SALUD DE LA MUJER</h3>
+                            </a>
+                        </div>
                     </div>
-                </div>-->
-                <!--<div id="searchIcon">
-                    <svg id="searchIconSvg" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 30 30"><path d="M 13 3 C 7.4889971 3 3 7.4889971 3 13 C 3 18.511003 7.4889971 23 13 23 C 15.396508 23 17.597385 22.148986 19.322266 20.736328 L 25.292969 26.707031 A 1.0001 1.0001 0 1 0 26.707031 25.292969 L 20.736328 19.322266 C 22.148986 17.597385 23 15.396508 23 13 C 23 7.4889971 18.511003 3 13 3 z M 13 5 C 17.430123 5 21 8.5698774 21 13 C 21 17.430123 17.430123 21 13 21 C 8.5698774 21 5 17.430123 5 13 C 5 8.5698774 8.5698774 5 13 5 z"></path></svg>
-                </div>-->
+                </div>
+                <div class="headerCategory">
+                    <a href="../../../#ludi">
+                        <h2>LUDI</h2>
+                    </a>
+                    <div class="headerSubcategories">
+                        <!--<div class="headerSubcategory">
+                            <a href="../../../#ludi-futbol">
+                                <h3>F&Uacute;TBOL</h3>
+                            </a>
+                        </div>
+                        <div class="headerSubcategory">
+                            <a href="../../../#ludi-moto">
+                                <h3>MOTO</h3>
+                            </a>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="headerCategory">
+                    <a href="../../../#mas">
+                        <h2>M&Aacute;S</h2>
+                    </a>
+                    <div class="headerSubcategories">
+                        <div class="headerSubcategory">
+                            <a href="../../../#mas-ambiente">
+                                <h3>MEDIO AMBIENTE</h3>
+                            </a>
+                        </div>
+                        <div class="headerSubcategory">
+                            <a href="../../../#mas-saludmental">
+                                <h3>SALUD MENTAL</h3>
+                            </a>
+                        </div>
+                        <div class="headerSubcategory">
+                            <a href="../../../#mas-saludyciencia">
+                                <h3>SALUD Y CIENCIA</h3>
+                            </a>
+                        </div>
+                        <div class="headerSubcategory">
+                            <a href="../../../#mas-arteymusica">
+                                <h3>ARTE Y M&Uacute;SICA</h3>
+                            </a>
+                        </div>
+                        <div class="headerSubcategory">
+                            <a href="../../../#mas-cine">
+                                <h3>CINE</h3>
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
         <div id="content">
             <div id="article">
                 <div id="articleHeader" class="screen">
-                    <div id="articleVideo">
+                    <div id="entryVideo">
                     </div>
                 </div>
                 <div id="articleContainer">
@@ -159,6 +244,49 @@
                         {{ text }}
                     </div>
                 </div>
+            </div>
+        </div>
+
+        <div id="footer">
+            <div id="footerRedStripe"></div>
+            <h1 id="footerLogo">
+                NO PASA NADA.
+            </h1>
+            <div class="footerSection">
+                <h3 class="footerSectionCategory">
+                    <a href="../../../content/201908/nopasanada">
+                        SOBRE NOSOTROS
+                    </a>
+                </h3>
+                <h3 class="footerSectionCategory">
+                    <a href="../../../content/202002/publicidad">
+                        PUBLICIDAD
+                    </a>
+                </h3>
+                <h3 class="footerSectionCategory">
+                    <a href="../../../content/202002/politica-de-cookies">
+                        POL&Iacute;TICA DE COOKIES
+                    </a>
+                </h3>
+                <h3 class="footerSectionCategory">
+                    <a href="../../../content/202002/contacto">
+                        CONTACTO
+                    </a>
+                </h3>
+                <h3 class="footerSectionCategory">
+                    <a href="../../../content/202002/terminos-y-condiciones">
+                        T&Eacute;RMINOS Y CONDICIONES
+                    </a>
+                </h3>
+            </div>
+            <br>
+            <div class="footerSection">
+                <h3 class="footerSectionCategory">
+                    NPN PRODUCCIONES S.A. © 2020
+                </h3>
+                <h3 class="footerSectionCategory">
+                    Todos los derechos reservados.
+                </h3>
             </div>
         </div>
     </div>

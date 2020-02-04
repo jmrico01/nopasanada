@@ -1,16 +1,49 @@
-type article
-featured{kmkv} {
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El Premio Nobel de Medicina fue atribuido el lunes a dos estadounidenses y un brit&aacute;nico cuyas investigaciones sobre la adaptaci&oacute;n de las c&eacute;lulas a los niveles variables de ox&iacute;geno abren perspectivas en el tratamiento del c&aacute;ncer y la anemia.</p>
+<p>Los investigadores estadounidense William Kaelin y Gregg Semenza y el brit&aacute;nico Peter Ratcliffe fueron premiados por sus investigaciones "que revelan los mecanismos moleculares producidos en la adaptaci&oacute;n de c&eacute;lulas al aporte variable de ox&iacute;geno" en el cuerpo, subray&oacute; la Asamblea Nobel del Instituto Karolinska en Estocolmo, que hab&iacute;a recibido 633 nominaciones para este a&ntilde;o.</p>
+<p>"La importancia fundamental del ox&iacute;geno es conocida desde hace siglos, pero el proceso de adaptaci&oacute;n de las c&eacute;lulas a las variaciones del nivel de ox&iacute;geno ha sido durante largo tiempo un misterio", explic&oacute; la Asamblea.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Estos mecanismos est&aacute;n igualmente implicados en los tumores, cuyo crecimiento depende del aporte en ox&iacute;geno a la sangre, en particular en ciertos c&aacute;nceres de progresi&oacute;n r&aacute;pida, como el de h&iacute;gado, que consumen tanta energ&iacute;a que queman todo el ox&iacute;geno disponible en torno a ellos.</p>
+<p>"Los intensos esfuerzos actualmente en curso en laboratorios universitarios y empresas farmac&eacute;uticas est&aacute;n centrados en desarrollar medicamentos capaces de interferir en diferentes fases de una patolog&iacute;a, activando o bloqueando el mecanismo de captaci&oacute;n de ox&iacute;geno" explica el jurado del Nobel.</p>
+<p><strong>EPO</strong></p>
+<p>Kaelin, de 61 a&ntilde;os, trabaja en el Howard Hughes Medical Institute en Estados Unidos; Semenza, de 63, dirige el programa de investigaci&oacute;n vascular en el John Hopkins Institute de investigaci&oacute;n sobre ingenier&iacute;a celular; Ratcliffe, de 65, es director de investigaci&oacute;n cl&iacute;nica en el Francis Crick Institute de Londres y del Target Discovery Institute de Oxford.</p>
+<p>Semenza estudi&oacute; el gen EPO que permite que el organismo cree m&aacute;s gl&oacute;bulos rojos y aisl&oacute; segmentos de ADN espec&iacute;ficos que lo ayudan a adaptarse a niveles bajos de ox&iacute;geno.</p>
+<p>"Nos dimos cuenta, en los a&ntilde;os 1980, que al nivel de los ri&ntilde;ones, el organismo fabrica una hormona llamada EPO. La gran cuesti&oacute;n era saber c&oacute;mo pod&iacute;an sentir las c&eacute;lulas que no ten&iacute;an suficiente ox&iacute;genco para que el organismo produjera el EPO. El trabajo de estos investigadores nos permitieron comprenderlo", explic&oacute; Olivier Hermine, m&eacute;dico e investigador del Instituto Necker de Par&iacute;s.</p>
+<p>Desde Oxford, Peter Ratcliffe indic&oacute; que estaba solicitando una subvenci&oacute;n cuando recibi&oacute; la llamada de Estocolmo.</p>
+<p>"Como para casi cualquier descubrimiento cient&iacute;fico, sus consecuencias llegan demasiado tarde. En realidad, nosotros ni nos planteamos la importancia del espectro de ese sistema cuando empezamos a trabajar en &eacute;l", declar&oacute; en la web nobelprize.org.</p>
+<p>Los premiados recibir&aacute;n el 10 de diciembre una medalla de oro, un diploma y un cheque de 9 millones de coronas (unos 830.000 euros, unos 910.00 d&oacute;lares), que se repartir&aacute;n.</p>
+<p>El 10 de diciembre es la fecha aniversario de la muerte del inventor sueco Alfred Nobel, que instituy&oacute; estos premios y los dot&oacute; econ&oacute;micamente al legar lo esencial de su inmensa fortuna a una fundaci&oacute;n que lleva su nombre.</p>
+<p>En 2018, el premio de Medicina fue para el estadounidense James P. Allison y el japon&eacute;s Tasuku Honjo por sus investigaciones sobre la inmunoterapia, que se revelaron particularmente eficaces en el tratamiento contra los c&aacute;nceres virulentos.</p>
+<p><strong>&iquest;Favorita?</strong></p>
+<p>El viernes 11, en Oslo, ser&aacute; revelado uno de los premios m&aacute;s esperados, el Nobel de la Paz. La militante sueca Greta Thunberg, creadora del movimiento "Fridays for Future" contra el cambio clim&aacute;tico, es la favorita en las apuestas.</p>
+<p>Para el galard&oacute;n de la paz, el comit&eacute; noruego, que entrega este premio, registr&oacute; este a&ntilde;os 301 candidaturas.</p>
+<p>Por otra parte, este 2019 debe marcar el comienzo de la resurrecci&oacute;n para la Academia Sueca que entrega el Nobel de Literatura y que qued&oacute; expuesta el a&ntilde;o pasado al tr&aacute;fico de influencias y las denuncias de agresi&oacute;n sexual contra un responsable.</p>
+<p>La academia tuvo que postergar el anuncio del Nobel 2018 -algo in&eacute;dito en 70 a&ntilde;os de historia- ante la ausencia del quorum requerido por las renuncias en masa.</p>
+<p>Por ello el jueves 10 habr&aacute; dos medallas de oro, una para 2018 y la otra para 2019. La polaca Olga Tokarczuk, el keniano Ngugi Wa Thiong'o, el alban&eacute;s Ismail Kadar&eacute;, la estadounidense Joyce Carol Oates y, el eterno olvidado, el japon&eacute;s Haruki Murakami son algunos de los nombres m&aacute;s citados.</p>
 }
-media{kmkv} {
-    header{image} /images/201910/headers/07-nobel-medicina.jpg
-    poster{image} /images/201910/posters/07-nobel-medicina.jpg
-}
-tags{array} ciencia
 title Nobel de Medicina a investigación sobre adaptación del cuerpo a niveles de oxígeno
 day 07
-month 10
-year 2019
-color #ffb3a1
-text {
-<p><p><strong>¿Qué necesitas saber?</strong></p></p><p><p>El Premio Nobel de Medicina fue atribuido el lunes a dos estadounidenses y un británico cuyas investigaciones sobre la adaptación de las células a los niveles variables de oxígeno abren perspectivas en el tratamiento del cáncer y la anemia.</p></p><p><p>Los investigadores estadounidense William Kaelin y Gregg Semenza y el británico Peter Ratcliffe fueron premiados por sus investigaciones "que revelan los mecanismos moleculares producidos en la adaptación de células al aporte variable de oxígeno" en el cuerpo, subrayó la Asamblea Nobel del Instituto Karolinska en Estocolmo, que había recibido 633 nominaciones para este año.</p></p><p><p>"La importancia fundamental del oxígeno es conocida desde hace siglos, pero el proceso de adaptación de las células a las variaciones del nivel de oxígeno ha sido durante largo tiempo un misterio", explicó la Asamblea.</p></p><p><p><strong>¿Por qué nos importa?</strong></p></p><p><p>Estos mecanismos están igualmente implicados en los tumores, cuyo crecimiento depende del aporte en oxígeno a la sangre, en particular en ciertos cánceres de progresión rápida, como el de hígado, que consumen tanta energía que queman todo el oxígeno disponible en torno a ellos.</p></p><p><p>"Los intensos esfuerzos actualmente en curso en laboratorios universitarios y empresas farmacéuticas están centrados en desarrollar medicamentos capaces de interferir en diferentes fases de una patología, activando o bloqueando el mecanismo de captación de oxígeno" explica el jurado del Nobel.</p></p><p><p><strong>EPO</strong></p></p><p><p>Kaelin, de 61 años, trabaja en el Howard Hughes Medical Institute en Estados Unidos; Semenza, de 63, dirige el programa de investigación vascular en el John Hopkins Institute de investigación sobre ingeniería celular; Ratcliffe, de 65, es director de investigación clínica en el Francis Crick Institute de Londres y del Target Discovery Institute de Oxford.</p></p><p><p>Semenza estudió el gen EPO que permite que el organismo cree más glóbulos rojos y aisló segmentos de ADN específicos que lo ayudan a adaptarse a niveles bajos de oxígeno.</p></p><p><p>"Nos dimos cuenta, en los años 1980, que al nivel de los riñones, el organismo fabrica una hormona llamada EPO. La gran cuestión era saber cómo podían sentir las células que no tenían suficiente oxígenco para que el organismo produjera el EPO. El trabajo de estos investigadores nos permitieron comprenderlo", explicó Olivier Hermine, médico e investigador del Instituto Necker de París. </p></p><p><p>Desde Oxford, Peter Ratcliffe indicó que estaba solicitando una subvención cuando recibió la llamada de Estocolmo. </p></p><p><p>"Como para casi cualquier descubrimiento científico, sus consecuencias llegan demasiado tarde. En realidad, nosotros ni nos planteamos la importancia del espectro de ese sistema cuando empezamos a trabajar en él", declaró en la web nobelprize.org.</p></p><p><p>Los premiados recibirán el 10 de diciembre una medalla de oro, un diploma y un cheque de 9 millones de coronas (unos 830.000 euros, unos 910.00 dólares), que se repartirán.</p></p><p><p>El 10 de diciembre es la fecha aniversario de la muerte del inventor sueco Alfred Nobel, que instituyó estos premios y los dotó económicamente al legar lo esencial de su inmensa fortuna a una fundación que lleva su nombre.</p></p><p><p>En 2018, el premio de Medicina fue para el estadounidense James P. Allison y el japonés Tasuku Honjo por sus investigaciones sobre la inmunoterapia, que se revelaron particularmente eficaces en el tratamiento contra los cánceres virulentos.</p></p><p><p><strong>¿Favorita?</strong></p></p><p><p>El viernes 11, en Oslo, será revelado uno de los premios más esperados, el Nobel de la Paz. La militante sueca Greta Thunberg, creadora del movimiento "Fridays for Future" contra el cambio climático, es la favorita en las apuestas.</p></p><p><p>Para el galardón de la paz, el comité noruego, que entrega este premio, registró este años 301 candidaturas.</p></p><p><p>Por otra parte, este 2019 debe marcar el comienzo de la resurrección para la Academia Sueca que entrega el Nobel de Literatura y que quedó expuesta el año pasado al tráfico de influencias y las denuncias de agresión sexual contra un responsable.</p></p><p><p>La academia tuvo que postergar el anuncio del Nobel 2018 -algo inédito en 70 años de historia- ante la ausencia del quorum requerido por las renuncias en masa.</p></p><p><p>Por ello el jueves 10 habrá dos medallas de oro, una para 2018 y la otra para 2019. La polaca Olga Tokarczuk, el keniano Ngugi Wa Thiong'o, el albanés Ismail Kadaré, la estadounidense Joyce Carol Oates y, el eterno olvidado, el japonés Haruki Murakami son algunos de los nombres más citados.</p></p>
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201910/headers/07-nobel-medicina.jpg
+    poster /images/201910/posters/07-nobel-medicina.jpg
 }
+year 2019
+featured{kmkv} {
+    title undefined
+    text1 undefined
+    text2 undefined
+    pretitle undefined
+    highlightColor undefined
+}
+type article
+month 10
+tags{array} mas-saludyciencia
+videoID 
+titlePoster 
+color #ffb3a1

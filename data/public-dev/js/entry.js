@@ -2,6 +2,17 @@
 
 // const IMAGE_BASE_URL = "https://nopasanada.s3.amazonaws.com";
 
+const VALID_TAGS = [
+    "coleccion",
+    "noticias-loimportante", "noticias-video", "noticias-culturales", "noticias-politica",
+    "opinion",
+    "guida-comida", "guida-bebidas", "guida-viaje", "guida-recomendado",
+    "venus-derechos", "venus-inspiradoras", "venus-moda", "venus-belleza", "venus-salud",
+    "ludi-futbol", "ludi-moto",
+    "mas-ambiente", "mas-saludmental", "mas-saludyciencia", "mas-arteymusica", "mas-cine",
+    "other"
+];
+
 let previewUrl_ = null;
 
 let editors_ = null;
@@ -166,6 +177,10 @@ function SaveEntryData()
     let tags = document.getElementsByName("tags")[0].value.split(",");
     for (let i = 0; i < tags.length; i++) {
         tags[i] = tags[i].trim();
+        if (VALID_TAGS.indexOf(tags[i]) === -1) {
+            alert("Invalid tag: " + tags[i]);
+            return;
+        }
     }
 
     if (GetImageByName("header", images_) === null) {
@@ -203,7 +218,7 @@ function SaveEntryData()
 
         author:       document.getElementsByName("author")[0].value,
         subtextLeft:  document.getElementsByName("subtextLeft")[0].value,
-        subtextRight: document.getElementsByName("subtextLeft")[0].value,
+        subtextRight: document.getElementsByName("subtextRight")[0].value,
         videoID:      document.getElementsByName("youtubeID")[0].value,
         customTop:    document.getElementsByName("customTop")[0].value,
         title1:       document.getElementsByName("title1")[0].value,
@@ -397,7 +412,7 @@ $(document).ready(async function() {
         font_formats: "Default (Futura)=FuturaPTBook;",
         content_css: [
             previewUrl_ + "/css/global.css",
-            previewUrl_ + "/css/article.css"
+            previewUrl_ + "/css/entry.css"
         ],
     }).then(function(editors) {
         editors_ = {};

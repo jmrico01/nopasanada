@@ -12,7 +12,7 @@ media{kmkv} {
     header-mobile3{image} /images/201908/newsletter-29/square3.jpg
     header-mobile4{image} /images/201908/newsletter-29/square4.jpg
 }
-tags{array} noticias
+tags{array} noticias-loimportante
 title Lo Importante: 29-08-19. Información exclusiva desde Amazonía.
 titlePoster Lo Importante: 29-08-19<br>Información exclusiva desde Amazonía
 description 4 historias importantes de las más recientes noticias internacionales

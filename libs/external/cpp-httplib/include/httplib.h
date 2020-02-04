@@ -1499,7 +1499,7 @@ inline std::string get_remote_addr(socket_t sock) {
     std::array<char, NI_MAXHOST> ipstr{};
 
     if (!getnameinfo(reinterpret_cast<struct sockaddr *>(&addr), len,
-                     ipstr.data(), ipstr.size(), nullptr, 0, NI_NUMERICHOST)) {
+                     ipstr.data(), (socklen_t)ipstr.size(), nullptr, 0, NI_NUMERICHOST)) {
       return ipstr.data();
     }
   }
@@ -2560,10 +2560,10 @@ inline bool parse_www_authenticate(const httplib::Response &res,
         auto beg = std::sregex_iterator(s.begin(), s.end(), re);
         for (auto i = beg; i != std::sregex_iterator(); ++i) {
           auto m = *i;
-          auto key = s.substr(m.position(1), m.length(1));
+          auto key2 = s.substr(m.position(1), m.length(1));
           auto val = m.length(2) > 0 ? s.substr(m.position(2), m.length(2))
                                      : s.substr(m.position(3), m.length(3));
-          auth[key] = val;
+          auth[key2] = val;
         }
         return true;
       }

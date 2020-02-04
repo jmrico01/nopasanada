@@ -8,7 +8,7 @@ featured{kmkv} {
 media{kmkv} {
     header{image} /images/unused/garrazo.jpg
 }
-tags{array} noticias
+tags{array} noticias-loimportante
 title Title
 description Description
 color #ffe11a

@@ -1,26 +1,32 @@
-type video
-featured{kmkv} {
-    pretitle NOTICIAS:
-    title SOLO LO <b>IMPORTANTE<b>
-    text1 EN LO IMPORTANTE VEMOS CÓMO TRUMP SE ENCUENTRA A TAN SOLO 67 VOTOS EN EL SENADO DE SER EX-PRESIDENTE, EN NICARAGUA EL GOBIERNO DE ORTEGA RECIBE
-    text2 GRANDES SANCIONES DE E.E.U.U. EN BOLIVIA EVO SE VA A ARGENTINA PARA MANEJAR LAS ELECCIONES PRESIDENCIALES Y EN CHILE BUSCAN UNA NUEVA CONSTITUCIÓN. // CON JOVEL ÁLVAREZ
-}
-media{kmkv} {
-    header{image} /images/201912/headers/17-solo-lo-importante-video.jpg
-    poster{image} /images/201912/posters/17-solo-lo-importante-video.jpg
-}
-tags{array} noticias
-title ¡WOW! ¡Trump esta a 67 votos de ser ex-presidente! Sanciones en Nicaragua y Evo en Argentina...
-titlePoster Solo Lo Importante con Jovel Álvarez 17.12.19
-description En Lo Importante vemos cómo Trump se encuentra a tan solo 67 votos en el senado de ser ex-presidente, en Nicaragua el gobierno de Ortega recibe grandes sanciones de E.E.U.U. En Bolivia Evo se va a Argentina para manejar las elecciones presidenciales y en Chile buscan una nueva constitución.
-day 17
-month 12
-year 2019
-color #ffe11a
-videoID IEcODTo-nJQ
 text {
 <p>&nbsp;</p>
 <p>En Lo Importante vemos c&oacute;mo Trump se encuentra a tan solo 67 votos en el senado de ser ex-presidente, en Nicaragua el gobierno de Ortega recibe grandes sanciones de E.E.U.U. En Bolivia Evo se va a Argentina para manejar las elecciones presidenciales y en Chile buscan una nueva constituci&oacute;n.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 }
+title ¡WOW! ¡Trump esta a 67 votos de ser ex-presidente! Sanciones en Nicaragua y Evo en Argentina...
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201912/headers/17-solo-lo-importante-video.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En Lo Importante vemos cómo Trump se encuentra a tan solo 67 votos en el senado de ser ex-presidente, en Nicaragua el gobierno de Ortega recibe grandes sanciones de E.E.U.U. En Bolivia Evo se va a Argentina para manejar las elecciones presidenciales y en Chile buscan una nueva constitución.
+year 2019
+featured{kmkv} {
+    title SOLO LO <b>IMPORTANTE<b>
+    text1 EN LO IMPORTANTE VEMOS CÓMO TRUMP SE ENCUENTRA A TAN SOLO 67 VOTOS EN EL SENADO DE SER EX-PRESIDENTE, EN NICARAGUA EL GOBIERNO DE ORTEGA RECIBE
+    text2 GRANDES SANCIONES DE E.E.U.U. EN BOLIVIA EVO SE VA A ARGENTINA PARA MANEJAR LAS ELECCIONES PRESIDENCIALES Y EN CHILE BUSCAN UNA NUEVA CONSTITUCIÓN. // CON JOVEL ÁLVAREZ
+    pretitle NOTICIAS:
+    highlightColor undefined
+}
+type video
+month 12
+tags{array} noticias-loimportante,noticias-video
+videoID IEcODTo-nJQ
+titlePoster Solo Lo Importante con Jovel Álvarez 17.12.19
+color #ffe11a

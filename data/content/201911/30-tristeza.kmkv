@@ -1,32 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle CULTURA:
-    title TRISTEZA COMO<br>ACTO DE MAGIA<br>
-    text1 DE LA EXPERIENCIA PERSONAL AL PRODUCTO, SIN PENSAR EN EL RESULTADO: UN CINEASTA NOS DETALLA SU PROCESO CREATIVO.
-    text2 POR JOSÉ PABLO GARCÍA
-    highlightColor #ff613c
-}
-media{kmkv} {
-    header{image} /images/201911/headers/30-tristeza.jpg
-    poster{image} /images/201911/posters/30-tristeza.jpg
-    ceviche1{image} /images/201911/13-ceviches/ceviche1.jpg
-    ceviche2{image} /images/201911/13-ceviches/ceviche2.jpg
-    boomer1{image} /images/201911/26-ok-boomer/boomer1.jpg
-    boomer2{image} /images/201911/26-ok-boomer/boomer2.jpg
-    boomer3{image} /images/201911/26-ok-boomer/boomer3.jpg
-    boomer4{image} /images/201911/26-ok-boomer/boomer4.jpg
-    shawnstussy{image} /images/201911/27-stussy/shawnstussy.jpg
-    stussytribejacket{image} /images/201911/27-stussy/stussytribejacket.jpg
-    skaterstussy{image} /images/201911/27-stussy/skaterstussy.jpg
-}
-tags{array} cultura
-title Convertir la tristeza en un acto de magia
-day 30
-month 11
-year 2019
-color #ffb3a1
-author José Pablo García
-subtitle De la experiencia personal al producto, sin pensar en el resultado: un cineasta y escritor nos insta a dejar salir todo para iniciar el proceso creativo.
 text {
 <p><strong><em>Jos&eacute; Pablo Garc&iacute;a</em></strong> es el creador de la serie web Dele Viaje; tambi&eacute;n es fot&oacute;grafo, comunicador, creador audiovisual, y profesor universitario. Instagram: <a href="https://www.instagram.com/p__e__r__s__o__n__a/">@p<strong>e</strong>r<strong>s</strong>o<strong>n</strong>a</a></p>
 <p><em>Imagen destacada: <a href="https://www.instagram.com/deleviaje/">@DeleViaje</a></em></p>
@@ -50,3 +21,39 @@ text {
 <p>Termino de grabar.</p>
 <p>Me siento a editar y construir una historia con el material que logr&eacute; capturar. El resultado se puede ver <a href="https://vimeo.com/339285450/9fc560911c">aqu&iacute;.</a></p>
 }
+title Convertir la tristeza en un acto de magia
+day 30
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201911/headers/30-tristeza.jpg
+    skaterstussy /images/201911/27-stussy/skaterstussy.jpg
+    shawnstussy /images/201911/27-stussy/shawnstussy.jpg
+    ceviche1 /images/201911/13-ceviches/ceviche1.jpg
+    ceviche2 /images/201911/13-ceviches/ceviche2.jpg
+    boomer1 /images/201911/26-ok-boomer/boomer1.jpg
+    boomer2 /images/201911/26-ok-boomer/boomer2.jpg
+    boomer3 /images/201911/26-ok-boomer/boomer3.jpg
+    boomer4 /images/201911/26-ok-boomer/boomer4.jpg
+    stussytribejacket /images/201911/27-stussy/stussytribejacket.jpg
+    poster /images/201911/posters/30-tristeza.jpg
+}
+author José Pablo García
+year 2019
+featured{kmkv} {
+    title TRISTEZA COMO<br>ACTO DE MAGIA<br>
+    text1 DE LA EXPERIENCIA PERSONAL AL PRODUCTO, SIN PENSAR EN EL RESULTADO: UN CINEASTA NOS DETALLA SU PROCESO CREATIVO.
+    text2 POR JOSÉ PABLO GARCÍA
+    pretitle CULTURA:
+    highlightColor #ff613c
+}
+type article
+subtitle De la experiencia personal al producto, sin pensar en el resultado: un cineasta y escritor nos insta a dejar salir todo para iniciar el proceso creativo.
+month 11
+tags{array} mas-cine
+videoID 
+titlePoster 
+color #ffb3a1

@@ -1,52 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle Cinco álbumes para recordar el 2019
-    title 5 discos del 2019 que vale la pena escuchar
-    text1 Una lista para conmemorar el año que acaba.
-    text2 POR PABLO HERNÁNDEZ
-    highlightColor #f4b6a5
-}
-media{kmkv} {
-    header{image} /images/201912/headers/5-albumes.jpg
-    poster{image} /images/201912/posters/5-albumes.jpg
-    platofuerte{image} /images/201912/09-al-mercat/platofuerte.jpg
-    postre{image} /images/201912/09-al-mercat/postre.jpg
-    header2{image} /images/201912/09-al-mercat/header2.jpg
-    bottom{image} /images/201912/09-al-mercat/bottom.jpg
-    cebolla{image} /images/201912/09-al-mercat/cebolla.jpg
-    almafria{image} /images/201912/lo-mejor-2019/almafria.jpg
-    novillocostilla{image} /images/201912/lo-mejor-2019/novillocostilla.jpg
-    caldosa{image} /images/201912/lo-mejor-2019/caldosa.jpg
-    costilla{image} /images/201912/lo-mejor-2019/costilla.jpg
-    costilla2{image} /images/201912/lo-mejor-2019/costilla2.jpg
-    croquetas{image} /images/201912/lo-mejor-2019/croquetas.jpg
-    dados{image} /images/201912/lo-mejor-2019/dados.jpg
-    gamabs{image} /images/201912/lo-mejor-2019/gamabs.jpg
-    lengua{image} /images/201912/lo-mejor-2019/lengua.jpg
-    martini{image} /images/201912/lo-mejor-2019/martini.jpg
-    negroni{image} /images/201912/lo-mejor-2019/negroni.jpg
-    whiskey{image} /images/201912/lo-mejor-2019/whiskey.jpg
-    oreja{image} /images/201912/lo-mejor-2019/oreja.jpg
-    palak{image} /images/201912/lo-mejor-2019/palak.jpg
-    petrus{image} /images/201912/lo-mejor-2019/petrus.jpg
-    steaktartar{image} /images/201912/lo-mejor-2019/steaktartar.jpg
-    trago{image} /images/201912/lo-mejor-2019/trago.jpg
-    crushedpoints{image} /images/201912/lo-mejor-2019/crushedpoints.jpg
-    fka{image} /images/201912/lo-mejor-2019/fka.jpg
-    kikwana{image} /images/201912/lo-mejor-2019/kikwana.jpg
-    igor{image} /images/201912/lo-mejor-2019/igor.jpg
-    infest{image} /images/201912/lo-mejor-2019/infest.jpg
-    albums{image} /images/201912/5-albumes/albums.jpg
-}
-tags{array} cultura
-title 5 discos del 2019 que vale la pena escuchar
-description Para conmemorar el año que acaba, te recomendamos cinco álbumes
-day 31
-month 12
-year 2019
-color #f4b6a5
-author Pablo Hernandez
-subtitle Para conmemorar el año que acaba, te recomendamos cinco álbumes
 text {
 <p>$image/albums$</p>
 <p dir="ltr">Cuando nac&iacute; ya exist&iacute;a m&aacute;s m&uacute;sica de la que yo podr&iacute;a escuchar en toda una vida, y a&uacute;n as&iacute; siguen haciendo m&aacute;s. Puede ser intimidante meterse a Spotify sin saber por d&oacute;nde comenzar a buscar m&uacute;sica nueva as&iacute; que hago una lista de cinco discos que me emocionaron y creo que valen la pena sacar una tarde para escuchar.</p>
@@ -76,18 +27,18 @@ text {
 <p dir="ltr">El primer single, <a href="https://www.youtube.com/watch?v=YkLjqFpBh84">cellophane</a>, es una balada extremadamente vulnerable, una confesi&oacute;n de amor con miedo y un poco de decepci&oacute;n, donde el enfoque nunca deja de ser la voz. El video de FKA twigs haciendo una rutina de pole dance solo agrega un talento m&aacute;s que envidiarle. El resto del disco var&iacute;a desde el art pop experimental hasta el trap y hip-hop. <a href="https://www.youtube.com/watch?v=p2Rro6TQgpU">home with you</a> toca temas de representaci&oacute;n y la comunicaci&oacute;n honesta dentro de relaciones, con elementos musicales como el ad lib famoso en canciones de trap, armon&iacute;as de piano perfectas para una balada y un cierre con instrumentaci&oacute;n que pertenecer&iacute;a m&aacute;s en un disco de jazz libre que una balada de pop. &iquest;Mencion&eacute; que ella dirigi&oacute; el video? holy terrain y fallen alien tienen la percusi&oacute;n perfecta para un hit de trap, con producci&oacute;n de twigs y Nicolas Jaar.</p>
 <p dir="ltr">El disco es una combinaci&oacute;n perfecta de art pop al estilo de Bj&ouml;rk o Kate Bush, con la perspectiva de una mujer de ascendencia caribe&ntilde;a. Los vocales de fka twigs son hermosos a trav&eacute;s de todo el disco, y los arreglos en las canciones son el acompa&ntilde;amiento perfecto.</p>
 <hr />
-<p dir="ltr" style=" font-weight: 400;">&nbsp;</p>
-<p dir="ltr" style=" font-weight: 400;"><strong>2. IGOR</strong></p>
-<p dir="ltr" style=" font-weight: 400;"><strong>Tyler, The Creator | Art Pop, Avant Pop |<em> <a href="https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE" target="_blank" rel="noopener">Spotify Link</a></em></strong></p>
+<p dir="ltr" style="font-weight: 400;">&nbsp;</p>
+<p dir="ltr" style="font-weight: 400;"><strong>2. IGOR</strong></p>
+<p dir="ltr" style="font-weight: 400;"><strong>Tyler, The Creator | Art Pop, Avant Pop |<em> <a href="https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE" target="_blank" rel="noopener">Spotify Link</a></em></strong></p>
 <p dir="ltr">El sexto disco de Tyler, The Creator es el primero producido completamente por &eacute;l y toma una direcci&oacute;n muy distinta al resto de su discograf&iacute;a, al punto que hubieron fans que no lo disfrutaron inicialmente. Tyler construy&oacute; su reputaci&oacute;n como artista de rap y hip-hop, mientras que este disco, aunque a&uacute;n tenga canciones m&aacute;s tradicionales de hip-hop como I THINK y NEW MAGIC WAND, el disco contiene muchas canciones donde el enfoque es m&aacute;s una est&eacute;tica de synthpop y R&amp;B.</p>
 <p>$image/igor$</p>
 <p dir="ltr">IGOR continua la transformaci&oacute;n de Tyler que comenz&oacute; en su &uacute;ltimo disco, Flower Boy, donde el artista ya estaba experimentando con elementos de m&uacute;sica pop y soul. Hay canciones tanto en Flower Boy como en IGOR que Tyler escribi&oacute; inicialmente con Justin Bieber y Zayn Malik de One Direction en mente, incluyendo el primer single del disco, <a href="https://www.youtube.com/watch?v=HmAsUQEFYGI">EARFQUAKE</a>. Es claro que Tyler no tiene el mismo nivel de talento vocal que esos otros artistas, pero hay valor en la autenticidad de los vocales que &eacute;l mismo grab&oacute;, y adem&aacute;s caben dentro de la narrativa del personaje que cre&oacute; para este disco.</p>
 <p dir="ltr">Canciones como A BOY IS A GUN* y ARE WE STILL FRIENDS? tienen una fusi&oacute;n de soul cl&aacute;sico con acompa&ntilde;amientos de vocales y cuerdas, pero con dise&ntilde;o de sonido y percusi&oacute;n de hip-hop moderno. El talento de producci&oacute;n de Tyler se puede ver reflejado en su uso y manipulaci&oacute;n de samples vocales, la implementaci&oacute;n de sintetizadores, el respeto al espacio s&oacute;nico que requiere una percusi&oacute;n con un kick tan poderoso como el de una TR-808 tradicional en hip-hop.</p>
 <p dir="ltr">IGOR es un paso desafiante de un artista establecido en una direcci&oacute;n nueva, con m&aacute;s control art&iacute;stico y expresi&oacute;n personal.</p>
 <hr />
-<p dir="ltr" style=" font-weight: 400;">&nbsp;</p>
-<p dir="ltr" style=" font-weight: 400;"><strong>1. INFEST THE RAT'S NEST</strong></p>
-<p dir="ltr" style=" font-weight: 400;"><strong>King Gizzard | Thrash | <a href="https://open.spotify.com/album/5Bz2LxOp0wz7ov0T9WiRmc" target="_blank" rel="noopener"><em>Spotify Link</em></a></strong></p>
+<p dir="ltr" style="font-weight: 400;">&nbsp;</p>
+<p dir="ltr" style="font-weight: 400;"><strong>1. INFEST THE RAT'S NEST</strong></p>
+<p dir="ltr" style="font-weight: 400;"><strong>King Gizzard | Thrash | <a href="https://open.spotify.com/album/5Bz2LxOp0wz7ov0T9WiRmc" target="_blank" rel="noopener"><em>Spotify Link</em></a></strong></p>
 <p dir="ltr">No habr&iacute;a podido escoger otro disco como mi favorito del a&ntilde;o. No es que este sea el mejor disco del 2019, es simplemente el que m&aacute;s me habl&oacute;. Un disco de thrash metal conceptual sobre el futuro dist&oacute;pico, lleno de referencias a tem&aacute;ticas de ciencia ficci&oacute;n y algunas no tan ficci&oacute;n, Infest the Rat&rsquo;s Nest habla de un punto en la historia donde la crisis clim&aacute;tica llega a un punto del que no podemos regresar, donde los millonarios logran comenzar una colonia en Marte mientras el resto del planeta Tierra los ve en las televisiones, atrapados en un planeta lleno de enfermedades y desastres naturales.</p>
 <p>$image/infest$</p>
 <p dir="ltr">Este fue el segundo disco del a&ntilde;o para King Gizzard and the Wizard Lizard, y para cualquier otra banda eso ya ser&iacute;a un logro dentro de s&iacute; mismo, pero hace dos a&ntilde;os se retaron a sacar 5 discos en un a&ntilde;o. Para quienes los conozcan saben que es una banda que ama experimentar, y este disco no suena para nada como otros de sus proyectos. Inclusive su otro disco de este a&ntilde;o, <a href="https://www.youtube.com/watch?v=beIDKFwXam0">Fishing for Fishies</a>, es lo m&aacute;s lejano que podr&iacute;a imaginar, un disco lleno de rock psicod&eacute;lico y blues acompa&ntilde;ado de un video de Stu Mackenzie (cantante y guitarrista) pescando al resto de la banda frente a un mar animado con caricaturas uni&eacute;ndose a la m&uacute;sica. Cuando sali&oacute; el primer single de ITRN, <a href="https://www.youtube.com/watch?v=qtTi_uyYynA">Organ Farmer</a>, yo no pod&iacute;a creerlo. Aunque la banda hab&iacute;a mostrado influencias de metal y rock pesado antes, nunca de una forma tan evidente como lo hac&iacute;an aqu&iacute;.</p>
@@ -97,3 +48,59 @@ text {
 <p dir="ltr">Una de mis cosas favoritas de este disco es la aparente contradicci&oacute;n entre cosas que usualmente asociamos a la masculinidad (metal pesado, videojuegos violentos, armas) con cosas que usualmente no (&iquest;sab&iacute;as que hay hombres que no reciclan porque <a href="https://psmag.com/environment/how-gender-stereotypes-affect-pro-environment-behavior">asocian el ambientalismo con la feminidad</a>?). &ldquo;Abre los ojos y mira que no hay un planeta &lsquo;B&rsquo;&rdquo;.</p>
 <p><br /><br /></p>
 }
+title 5 discos del 2019 que vale la pena escuchar
+day 31
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header2 /images/201912/09-al-mercat/header2.jpg
+    dados /images/201912/lo-mejor-2019/dados.jpg
+    fka /images/201912/lo-mejor-2019/fka.jpg
+    oreja /images/201912/lo-mejor-2019/oreja.jpg
+    palak /images/201912/lo-mejor-2019/palak.jpg
+    martini /images/201912/lo-mejor-2019/martini.jpg
+    header /images/201912/headers/5-albumes.jpg
+    whiskey /images/201912/lo-mejor-2019/whiskey.jpg
+    cebolla /images/201912/09-al-mercat/cebolla.jpg
+    almafria /images/201912/lo-mejor-2019/almafria.jpg
+    postre /images/201912/09-al-mercat/postre.jpg
+    caldosa /images/201912/lo-mejor-2019/caldosa.jpg
+    gamabs /images/201912/lo-mejor-2019/gamabs.jpg
+    petrus /images/201912/lo-mejor-2019/petrus.jpg
+    costilla2 /images/201912/lo-mejor-2019/costilla2.jpg
+    igor /images/201912/lo-mejor-2019/igor.jpg
+    novillocostilla /images/201912/lo-mejor-2019/novillocostilla.jpg
+    costilla /images/201912/lo-mejor-2019/costilla.jpg
+    negroni /images/201912/lo-mejor-2019/negroni.jpg
+    crushedpoints /images/201912/lo-mejor-2019/crushedpoints.jpg
+    steaktartar /images/201912/lo-mejor-2019/steaktartar.jpg
+    platofuerte /images/201912/09-al-mercat/platofuerte.jpg
+    infest /images/201912/lo-mejor-2019/infest.jpg
+    poster /images/201912/posters/5-albumes.jpg
+    croquetas /images/201912/lo-mejor-2019/croquetas.jpg
+    kikwana /images/201912/lo-mejor-2019/kikwana.jpg
+    lengua /images/201912/lo-mejor-2019/lengua.jpg
+    bottom /images/201912/09-al-mercat/bottom.jpg
+    trago /images/201912/lo-mejor-2019/trago.jpg
+    albums /images/201912/5-albumes/albums.jpg
+}
+description Para conmemorar el año que acaba, te recomendamos cinco álbumes
+year 2019
+author Pablo Hernandez
+featured{kmkv} {
+    title 5 discos del 2019 que vale la pena escuchar
+    text1 Una lista para conmemorar el año que acaba.
+    text2 POR PABLO HERNÁNDEZ
+    pretitle Cinco álbumes para recordar el 2019
+    highlightColor #f4b6a5
+}
+type article
+subtitle Para conmemorar el año que acaba, te recomendamos cinco álbumes
+month 12
+tags{array} mas-arteymusica
+videoID 
+titlePoster 
+color #f4b6a5

@@ -1,10 +1,10 @@
 const FEATURED_TAG_PREFIX = "featured-";
 const TABLE_FIELDS = [
-    [ "date" , "Date"     ],
-    [ "type" , "Type"     ],
-    [ "title", "Title"    ],
-    [ "tags" , "Tags"     ],
-    [ "uri" , "ID / URL" ],
+    [ "dateString", "Date"     ],
+    [ "type"      , "Type"     ],
+    [ "title"     , "Title"    ],
+    [ "tags"      , "Tags"     ],
+    [ "uri"       , "ID / URL" ],
 ];
 
 let resetInProgress_  = false;
@@ -56,12 +56,17 @@ function FormatTableFieldValue(tableField, entry)
 function UpdateFeaturedTable(featured)
 {
     let featuredTableHtml = "<form id=\"featuredForm\"><table><tr><th>Tag</th><th>ID / URL</th></tr>";
+    let categories = [];
     for (let category in featured) {
-        let uriHtml = "<select name=\"" + category + "\">";
+        categories.push(category);
+    }
+    categories.sort();
+    for (let i = 0; i < categories.length; i++) {
+        let uriHtml = "<select name=\"" + categories[i] + "\">";
         for (let i = 0; i < entryData_.length; i++) {
             uriHtml += "<option value=\"" + entryData_[i].uri + "\">" + entryData_[i].uri + "</option>";
         }
-        featuredTableHtml += "<tr><td>" + category + "</td><td>" + uriHtml + "</td></tr>\n";
+        featuredTableHtml += "<tr><td>" + categories[i] + "</td><td>" + uriHtml + "</td></tr>\n";
     }
     featuredTableHtml += "</table></form>";
     $("#featuredEntryTable").html(featuredTableHtml);

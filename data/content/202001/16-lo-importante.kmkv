@@ -18,7 +18,7 @@ media{kmkv} {
     header-mobile3{image} /images/202001/16-lo-importante/square3.jpg
     header-mobile4{image} /images/202001/16-lo-importante/square4.jpg
 }
-tags{array} noticias, home
+tags{array} noticias-loimportante
 title Lo Importante: 16-01-20
 description 4 historias importantes de las más recientes noticias internacionales
 day 16

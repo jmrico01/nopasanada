@@ -1,23 +1,64 @@
-type article
-featured{kmkv} {
-}
-media{kmkv} {
-    header{image} /images/201908/headers/cerveza.jpg
-    poster{image} /images/201908/posters/cerveza.jpg
-    image1{image} /images/201908/article-20/1.jpeg
-    image2{image} /images/201908/article-20/2.jpeg
-    image3{image} /images/201908/article-20/3.jpeg
-    image4{image} /images/201908/article-20/4.jpeg
-}
-tags{array} cultura, opinion
-title Abajo el estereotipo: la cerveza sí es cosa de mujeres
-description Conversamos con una mujer cervecera sobre cómo es trabajar en una industria estereotípicamente masculina.
-day 20
-month 08
-year 2019
-color #ffe7ab
-author Sebastián Cruz
-subtitle Conversamos con una mujer cervecera sobre cómo es trabajar en una industria estereotípicamente masculina
 text {
-<p><p>Las mujeres toman cerveza light y los hombres stout, ¿cierto? No me lo creo - yo soy el vivo ejemplo de que no es así: aunque me encanta todo tipo de cerveza, lo más probable es que en una fiesta con amigos prefiera una cerveza suave.</p></p><p><p>La cerveza fue en principio una creación de las mujeres: eran ellas las que <a href="https://www.elespanol.com/cocinillas/recetas/bebidas/20180308/mujer-historia-cerveza-papel-protagonista-no-hablar/1001161933797_30.html">preparaban la bebida</a>. Pero sabemos que el mundo de las bebidas alcohólicas está plagado de <a href="http://thetaste.ie/wp/stereotypes-in-drinks-worst-old-fashioned/">estereotipos</a> sexistas fomentados por el mercadeo. En No Pasa Nada nos gusta la cerveza - también nos gusta cuestionar los estereotipos - así que quisimos hablar de las mujeres que hacen cerveza artesanal en Costa Rica.</p></p><p><p>Empezamos buscándolas en internet, pero ¿les ha pasado que buscan algo en internet y a pesar de que le ponen bastante, no lo encuentran? A nosotros nos pasó al principio.</p></p><p><p>Afortunadamente, pudimos hablar con Carolina Castro, quien junto con su socia Inken Groth y socio Dieter Neckerman, fundó <a href="https://www.facebook.com/elviajecerveceria/">Elviaje Cervecería</a> en febrero de este año - gracias a ella, confirmamos que sí, <strong>por supuesto que hay mujeres haciendo cerveza en el país, pero sufren de poca exposición.</strong> Carolina nos habló acerca de su pasión por la cerveza, y de su incursión en un mundo típicamente asociado con los hombres.</p></p><p><p><strong>¿Cómo surgió tu pasión por la cerveza y cómo se convirtió en negocio?</strong></p></p><p><p>En mi caso el interés llegó por la antropología: la cerveza tiene con nosotros más de 13,000 años, y el lugar histórico que ha tenido es de hacer comunidad. Es un arte que se hace con muchísimo respeto.</p></p><p><p>Me apasiona mucho descubrir esa rama, la rama más antigua de la cerveza. A la hora de montar la cervecería lo hicimos en pro de ese arte y esa tradición; para poder conectar a la gente con esas historias.</p></p><p><p>$image/image1$</p></p><p><p><strong>¿Es difícil abrirse camino en esta industria siendo mujer?</strong></p></p><p><p>En realidad no. A mí me parece que en <a href="https://www.acacr.net/">Asociación</a> y la comunidad de cerveza en general es super abierta. Nosotras tenemos el grupo de <a href="https://www.facebook.com/search/top/?q=cerveceras%20costa%20rica&epa=SEARCH_BOX">Cerveceras de Costa Rica</a> y desde que lo iniciamos hemos tenido muchísimo apoyo de la comunidad.</p></p><p><p>Creo que más difícil que emprender o ser mujer dentro de la industria, es el tema del  estereotipo de que la cerveza “es para hombres”. Es un estereotipo que ha hecho que muchas mujeres no sientan que es un lugar al que pueden entrar.</p></p><p><p>El grupo que tenemos lo que hace es incentivar que haya mujeres a que se apunten a ser parte de esta industria.</p></p><p><p><strong>Existe la percepción de que las mujeres no toman cerveza o que si toman van a preferir una light, lager o michelada. Viendo el mercado nacional, ¿qué tan cierto lo ves?</strong></p></p><p><p>Yo tengo bastantes años conociendo un poco sobre la industria de la cerveza y si he notado, por ejemplo, que cuando una mujer pide una recomendación de cerveza en un bar, le recomiendan la cerveza más dulce o ligera.</p></p><p><p>Creo que lo importante es reconocer que los paladares son universales. Todos tenemos paladares y gustos diferentes sin importar el género.</p></p><p><p>Tengo amigos hombres que prefieren la cerveza light o más dulce y amigas mujeres que prefieren la cerveza más amarga. Pero si no se hace un mercadeo inclusivo que comunique los productos a todo el mundo, se va a seguir excluyendo a una parte de la sociedad.</p></p><p><p>$image/image2$</p></p><p><p><strong>¿Qué tan fácil es encontrar otras mujeres haciendo cerveza en Costa Rica? Tal vez desde la perspectiva de Cerveceras de Costa rica nos podrías contar más.</strong></p></p><p><p>Priscila Burgos - trabaja en <a href="https://www.facebook.com/cervezamel/">Cerveza Mel</a> y fue una de las creadoras de La Puris junto con María José Gutierrez, en representación de Costa Rica Beer Factory.</p></p><p><p>Alejandra Araya es la fermentadora y una de las dueñas de <a href="https://www.facebook.com/CostaRicaMeadery/">Costa Rica Meadery</a>, hidromielería que ha sido galardonada a nivel mundial en las competencias más grandes. Fabiola Vega está como asistente cervecera en <a href="https://www.facebook.com/ArboledaCerveceriaArtesanal/">Arboleda</a>. Noelia Peña es dueña y cervecera de <a href="https://www.facebook.com/NomadeBrewingCo/">Nomade Brewing</a>. Natalia Rodríguez es dueña y cervecera de <a href="https://www.facebook.com/hoppyideas/">Hoppy Ideas</a> junto con su esposo. Natalia Fonseca es una de las dueñas de <a href="https://www.facebook.com/pg/cerveceratierraylibertad/about/?ref=page_internal">Tierra y Libertad</a>. Paula Flores y Naza han sido ganadoras del premio de mejor cerveza casera.</p></p><p><p>Courtney Cargill, de <a href="https://www.facebook.com/LaPerraHermosa/">La Perra Hermosa</a>, fue de las primeras personas en hacer cerveza artesanal en el país y es dueña y cervecera de esa compañía.</p></p><p><p>Sí hay representación a nivel nacional, aunque creo que falta mucho camino para lograr una industria más balanceada - ahí vamos, poco a poco.</p></p><p><p><strong>Parte de ese camino no es solo por la representación, sino también la exposición. ¿Cuáles creés que son los principales retos para obtener mayor exposición?</strong></p></p><p><p>Hay un reto muy grande: el de la expectativa automática. Se cree que no hay mujeres involucradas. Pasa mucho que aunque tengas tu propia cervecería o hagas tu propia cerveza la gente automáticamente piensa que el hombre que está al lado tuyo es el que hace la cerveza, o que uno está nada más como la novia de alguien.</p></p><p><p>Aún cuando nos presentamos en festivales, la gente siempre asume que la persona que hace la cerveza es un hombre.</p></p><p><p>Falta exposición en medios pero no solo para las mujeres; en general hay poca exposición para la cerveza artesanal.</p></p><p><p>A nivel latinoamericano estamos creando una asociación, <a href="https://www.facebook.com/Mujeres-Cerveceras-en-Latinoamerica-317970565742672/">Mujeres Cerveceras En Latinoamérica</a>; la hemos estado lanzando desde el mes pasado. Por ahora son 8 países involucrados, juntos bajo la idea de dar mayor visibilidad a las mujeres que están involucradas en la cerveza.</p></p><p><p>$image/image4$</p></p><p><p><em>Imágenes 1 y 2: Fotografías cortesía de <a href="https://instagram.com/matanga_project?igshid=1mvubpyyj81cc">Matanga Project</a> por Jaime Zuluaga Vargas y María José Gutiérrez. https://instagram.com/matanga_project?igshid=1mvubpyyj81cc. Prohibida su reproducción total o parcial.</em></p></p><p><p><em>Imágen 3: Fotografía proporcionada por Carolina Castro de Elviaje Cervecería y Mujeres Cerveceras en Latinoamérica.</em></p></p>
+<p>Las mujeres toman cerveza light y los hombres stout, &iquest;cierto? No me lo creo - yo soy el vivo ejemplo de que no es as&iacute;: aunque me encanta todo tipo de cerveza, lo m&aacute;s probable es que en una fiesta con amigos prefiera una cerveza suave.</p>
+<p>La cerveza fue en principio una creaci&oacute;n de las mujeres: eran ellas las que <a href="https://www.elespanol.com/cocinillas/recetas/bebidas/20180308/mujer-historia-cerveza-papel-protagonista-no-hablar/1001161933797_30.html">preparaban la bebida</a>. Pero sabemos que el mundo de las bebidas alcoh&oacute;licas est&aacute; plagado de <a href="http://thetaste.ie/wp/stereotypes-in-drinks-worst-old-fashioned/">estereotipos</a> sexistas fomentados por el mercadeo. En No Pasa Nada nos gusta la cerveza - tambi&eacute;n nos gusta cuestionar los estereotipos - as&iacute; que quisimos hablar de las mujeres que hacen cerveza artesanal en Costa Rica.</p>
+<p>Empezamos busc&aacute;ndolas en internet, pero &iquest;les ha pasado que buscan algo en internet y a pesar de que le ponen bastante, no lo encuentran? A nosotros nos pas&oacute; al principio.</p>
+<p>Afortunadamente, pudimos hablar con Carolina Castro, quien junto con su socia Inken Groth y socio Dieter Neckerman, fund&oacute; <a href="https://www.facebook.com/elviajecerveceria/">Elviaje Cervecer&iacute;a</a> en febrero de este a&ntilde;o - gracias a ella, confirmamos que s&iacute;, <strong>por supuesto que hay mujeres haciendo cerveza en el pa&iacute;s, pero sufren de poca exposici&oacute;n.</strong> Carolina nos habl&oacute; acerca de su pasi&oacute;n por la cerveza, y de su incursi&oacute;n en un mundo t&iacute;picamente asociado con los hombres.</p>
+<p><strong>&iquest;C&oacute;mo surgi&oacute; tu pasi&oacute;n por la cerveza y c&oacute;mo se convirti&oacute; en negocio?</strong></p>
+<p>En mi caso el inter&eacute;s lleg&oacute; por la antropolog&iacute;a: la cerveza tiene con nosotros m&aacute;s de 13,000 a&ntilde;os, y el lugar hist&oacute;rico que ha tenido es de hacer comunidad. Es un arte que se hace con much&iacute;simo respeto.</p>
+<p>Me apasiona mucho descubrir esa rama, la rama m&aacute;s antigua de la cerveza. A la hora de montar la cervecer&iacute;a lo hicimos en pro de ese arte y esa tradici&oacute;n; para poder conectar a la gente con esas historias.</p>
+<p>$image/image1$</p>
+<p><strong>&iquest;Es dif&iacute;cil abrirse camino en esta industria siendo mujer?</strong></p>
+<p>En realidad no. A m&iacute; me parece que en <a href="https://www.acacr.net/">Asociaci&oacute;n</a> y la comunidad de cerveza en general es super abierta. Nosotras tenemos el grupo de <a href="https://www.facebook.com/search/top/?q=cerveceras%20costa%20rica&amp;epa=SEARCH_BOX">Cerveceras de Costa Rica</a> y desde que lo iniciamos hemos tenido much&iacute;simo apoyo de la comunidad.</p>
+<p>Creo que m&aacute;s dif&iacute;cil que emprender o ser mujer dentro de la industria, es el tema del estereotipo de que la cerveza &ldquo;es para hombres&rdquo;. Es un estereotipo que ha hecho que muchas mujeres no sientan que es un lugar al que pueden entrar.</p>
+<p>El grupo que tenemos lo que hace es incentivar que haya mujeres a que se apunten a ser parte de esta industria.</p>
+<p><strong>Existe la percepci&oacute;n de que las mujeres no toman cerveza o que si toman van a preferir una light, lager o michelada. Viendo el mercado nacional, &iquest;qu&eacute; tan cierto lo ves?</strong></p>
+<p>Yo tengo bastantes a&ntilde;os conociendo un poco sobre la industria de la cerveza y si he notado, por ejemplo, que cuando una mujer pide una recomendaci&oacute;n de cerveza en un bar, le recomiendan la cerveza m&aacute;s dulce o ligera.</p>
+<p>Creo que lo importante es reconocer que los paladares son universales. Todos tenemos paladares y gustos diferentes sin importar el g&eacute;nero.</p>
+<p>Tengo amigos hombres que prefieren la cerveza light o m&aacute;s dulce y amigas mujeres que prefieren la cerveza m&aacute;s amarga. Pero si no se hace un mercadeo inclusivo que comunique los productos a todo el mundo, se va a seguir excluyendo a una parte de la sociedad.</p>
+<p>$image/image2$</p>
+<p><strong>&iquest;Qu&eacute; tan f&aacute;cil es encontrar otras mujeres haciendo cerveza en Costa Rica? Tal vez desde la perspectiva de Cerveceras de Costa rica nos podr&iacute;as contar m&aacute;s.</strong></p>
+<p>Priscila Burgos - trabaja en <a href="https://www.facebook.com/cervezamel/">Cerveza Mel</a> y fue una de las creadoras de La Puris junto con Mar&iacute;a Jos&eacute; Gutierrez, en representaci&oacute;n de Costa Rica Beer Factory.</p>
+<p>Alejandra Araya es la fermentadora y una de las due&ntilde;as de <a href="https://www.facebook.com/CostaRicaMeadery/">Costa Rica Meadery</a>, hidromieler&iacute;a que ha sido galardonada a nivel mundial en las competencias m&aacute;s grandes. Fabiola Vega est&aacute; como asistente cervecera en <a href="https://www.facebook.com/ArboledaCerveceriaArtesanal/">Arboleda</a>. Noelia Pe&ntilde;a es due&ntilde;a y cervecera de <a href="https://www.facebook.com/NomadeBrewingCo/">Nomade Brewing</a>. Natalia Rodr&iacute;guez es due&ntilde;a y cervecera de <a href="https://www.facebook.com/hoppyideas/">Hoppy Ideas</a> junto con su esposo. Natalia Fonseca es una de las due&ntilde;as de <a href="https://www.facebook.com/pg/cerveceratierraylibertad/about/?ref=page_internal">Tierra y Libertad</a>. Paula Flores y Naza han sido ganadoras del premio de mejor cerveza casera.</p>
+<p>Courtney Cargill, de <a href="https://www.facebook.com/LaPerraHermosa/">La Perra Hermosa</a>, fue de las primeras personas en hacer cerveza artesanal en el pa&iacute;s y es due&ntilde;a y cervecera de esa compa&ntilde;&iacute;a.</p>
+<p>S&iacute; hay representaci&oacute;n a nivel nacional, aunque creo que falta mucho camino para lograr una industria m&aacute;s balanceada - ah&iacute; vamos, poco a poco.</p>
+<p><strong>Parte de ese camino no es solo por la representaci&oacute;n, sino tambi&eacute;n la exposici&oacute;n. &iquest;Cu&aacute;les cre&eacute;s que son los principales retos para obtener mayor exposici&oacute;n?</strong></p>
+<p>Hay un reto muy grande: el de la expectativa autom&aacute;tica. Se cree que no hay mujeres involucradas. Pasa mucho que aunque tengas tu propia cervecer&iacute;a o hagas tu propia cerveza la gente autom&aacute;ticamente piensa que el hombre que est&aacute; al lado tuyo es el que hace la cerveza, o que uno est&aacute; nada m&aacute;s como la novia de alguien.</p>
+<p>A&uacute;n cuando nos presentamos en festivales, la gente siempre asume que la persona que hace la cerveza es un hombre.</p>
+<p>Falta exposici&oacute;n en medios pero no solo para las mujeres; en general hay poca exposici&oacute;n para la cerveza artesanal.</p>
+<p>A nivel latinoamericano estamos creando una asociaci&oacute;n, <a href="https://www.facebook.com/Mujeres-Cerveceras-en-Latinoamerica-317970565742672/">Mujeres Cerveceras En Latinoam&eacute;rica</a>; la hemos estado lanzando desde el mes pasado. Por ahora son 8 pa&iacute;ses involucrados, juntos bajo la idea de dar mayor visibilidad a las mujeres que est&aacute;n involucradas en la cerveza.</p>
+<p>$image/image4$</p>
+<p><em>Im&aacute;genes 1 y 2: Fotograf&iacute;as cortes&iacute;a de <a href="https://instagram.com/matanga_project?igshid=1mvubpyyj81cc">Matanga Project</a> por Jaime Zuluaga Vargas y Mar&iacute;a Jos&eacute; Guti&eacute;rrez. https://instagram.com/matanga_project?igshid=1mvubpyyj81cc. Prohibida su reproducci&oacute;n total o parcial.</em></p>
+<p><em>Im&aacute;gen 3: Fotograf&iacute;a proporcionada por Carolina Castro de Elviaje Cervecer&iacute;a y Mujeres Cerveceras en Latinoam&eacute;rica.</em></p>
 }
+title Abajo el estereotipo: la cerveza sí es cosa de mujeres
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201908/headers/cerveza.jpg
+    image1 /images/201908/article-20/1.jpeg
+    image2 /images/201908/article-20/2.jpeg
+    image3 /images/201908/article-20/3.jpeg
+    image4 /images/201908/article-20/4.jpeg
+    poster /images/201908/posters/cerveza.jpg
+}
+description Conversamos con una mujer cervecera sobre cómo es trabajar en una industria estereotípicamente masculina.
+year 2019
+author Sebastián Cruz
+featured{kmkv} {
+    title undefined
+    text1 undefined
+    text2 undefined
+    pretitle undefined
+    highlightColor undefined
+}
+type article
+subtitle Conversamos con una mujer cervecera sobre cómo es trabajar en una industria estereotípicamente masculina
+month 08
+tags{array} venus-inspiradoras,guida-bebidas
+videoID 
+titlePoster 
+color #ffe7ab

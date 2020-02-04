@@ -1,0 +1,58 @@
+h1 {
+    font-family: FuturaPTBold, sans-serif;
+    font-size: 3.8vw;
+    letter-spacing: -0.04vw;
+    font-weight: normal;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-family: FuturaPTDemi, sans-serif;
+    font-size: 2vw;
+    line-height: 2vw;
+    font-weight: normal;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    font-family: FuturaPTHeavy, sans-serif;
+    font-size: 1.5vw;
+    line-height: 1.5vw;
+    font-weight: normal;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+h4 {
+    font-family: FuturaPTDemi, sans-serif;
+    font-size: 0.8vw;
+    line-height: 1vw;
+    font-weight: normal;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    height: 15vw;
+}
+#headerLogo {
+	font-size: 8vw;
+    margin-left: 3vw;
+}
+#headerCategories {
+    visibility: hidden;
+}
+
+#footer {
+    height: 18vw;
+
+    text-align: center;
+    background-color: #212226;
+    color: #5e7b81;
+}

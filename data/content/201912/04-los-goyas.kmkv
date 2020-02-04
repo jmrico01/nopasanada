@@ -1,24 +1,3 @@
-type article
-featured{kmkv} {
-    pretitle CULTURA:
-    title LATINOAMÉRICA <br><b>EN LOS GOYA<b>
-    text1 LAS CUATRO PELÍCULAS NOMINADAS A LOS PREMIOS GOYA DE ESPAÑA COMO MEJOR PELÍCULA IBEROAMERICANA FUERON ANUNCIADAS RECIENTEMENTE, Y HABLAN SOBRE LAS REALIDADES DE SUS PAÍSES DE ORIGEN.
-    text2 POR NO PASA NADA EDITORIAL
-    highlightColor #f4b6a5
-}
-media{kmkv} {
-    header{image} /images/201912/headers/04-los-goyas.jpg
-    poster{image} /images/201912/posters/04-los-goyas.jpg
-}
-tags{array} cultura
-title Las cuatro películas latinoamericanas nominadas al Goya
-description Una mujer que despierta, un triángulo amoroso que data de la dictadura, una manada de jóvenes perdidos en la jungla, y nueve giles que deciden no dejarse estafar: las cuatro películas latinoamericanas nominadas a los premios Goya de España.
-day 04
-month 12
-year 2019
-color #f4b6a5
-author No Pasa Nada Editorial
-subtitle Costa Rica compite contra tres gigantes de las historias: Chile, Colombia y Argentina. Las cuatro nominadas al premio Goya de “Mejor Película Iberoamericana.”
 text {
 <p>Una mujer que despierta, un tri&aacute;ngulo amoroso que data de la dictadura, una manada de j&oacute;venes perdidos en la jungla, y nueve giles que deciden no dejarse estafar: las cuatro pel&iacute;culas latinoamericanas nominadas a los premios Goya de Espa&ntilde;a - como mejor pel&iacute;cula de habla hispana no espa&ntilde;ola - fueron anunciadas recientemente, y no se quedan cortas en exponer las realidades que atraviesan sus pa&iacute;ses de origen.</p>
 <p>Aunque algunas cosas (como la nominaci&oacute;n de una pel&iacute;cula protagonizada por Ricardo Dar&iacute;n) no son tan sorprendentes, el anuncio marc&oacute; un hito para el cine costarricense: El Despertar de Las Hormigas, de Antonella Sudasassi, es la primera pel&iacute;cula tica en ser nominada al prestigioso premio.</p>
@@ -43,3 +22,31 @@ text {
 <p><em>&ldquo;En el fr&iacute;o del p&aacute;ramo, en la espesura de la selva, arrastrados por la fuerza de las aguas y a merced de la agreste naturaleza, un grupo de j&oacute;venes enfrentan la muerte ante el fracaso de una misi&oacute;n e intentan sobrevivir a un juego salvaje del que otros los han hecho protagonistas. Solo su esp&iacute;ritu de manada puede salvarlos o condenarlos.&rdquo;</em></p>
 <p>Dirigida por Alejandro Landes y producida por Stela Cine.</p>
 }
+title Las cuatro películas latinoamericanas nominadas al Goya
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201912/headers/04-los-goyas.jpg
+    poster /images/201912/posters/04-los-goyas.jpg
+}
+description Una mujer que despierta, un triángulo amoroso que data de la dictadura, una manada de jóvenes perdidos en la jungla, y nueve giles que deciden no dejarse estafar: las cuatro películas latinoamericanas nominadas a los premios Goya de España.
+year 2019
+author No Pasa Nada Editorial
+featured{kmkv} {
+    title LATINOAMÉRICA <br><b>EN LOS GOYA<b>
+    text1 LAS CUATRO PELÍCULAS NOMINADAS A LOS PREMIOS GOYA DE ESPAÑA COMO MEJOR PELÍCULA IBEROAMERICANA FUERON ANUNCIADAS RECIENTEMENTE, Y HABLAN SOBRE LAS REALIDADES DE SUS PAÍSES DE ORIGEN.
+    text2 POR NO PASA NADA EDITORIAL
+    pretitle CULTURA:
+    highlightColor #f4b6a5
+}
+type article
+subtitle Costa Rica compite contra tres gigantes de las historias: Chile, Colombia y Argentina. Las cuatro nominadas al premio Goya de “Mejor Película Iberoamericana.”
+month 12
+tags{array} noticias-culturales,mas-cine
+videoID 
+titlePoster 
+color #f4b6a5

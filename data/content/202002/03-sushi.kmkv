@@ -26,7 +26,6 @@ text {
 <p><strong>Tiempo:</strong></p>
 <p>El tiempo es importante en el sushi. Si sos purista y entend&eacute;s la cultura, siempre comer&aacute;s sushi en la barra y NUNCA en una mesa. Yo recib&iacute; una rega&ntilde;ada de Jiro cuando visit&eacute; su restaurante en Jap&oacute;n, mientras le tomaba fotos al sushi me dijo: &ldquo;&iexcl;&iexcl;&iexcl;c&oacute;metelo r&aacute;pido! Que se deber&iacute;a de consumir en 20 segundos o menos!!!&rdquo; Y tiene raz&oacute;n: el pescado una vez que se corta, se pone encima del arroz y el chef le pasa una pincelada de salsa soya; la pieza empieza a oxidarse y poco a poco va perdiendo su frescura. Imag&iacute;nese esa p&eacute;rdida de frescura cuando ordenan un barco de sushi para que les llegue a la mesa. &iexcl;NOOO!</p>
 <p>Les pregunto &iquest;cu&aacute;l de los 4 mandamientos cumplimos ac&aacute; en Costa Rica?&nbsp;</p>
-<p><strong>$image/sushi1$</strong></p>
 <p><strong>&iquest;Ingredientes?</strong> Lo siento, pero la oferta en la mayor&iacute;a de lugares son: salm&oacute;n y at&uacute;n congelado e importado. El problema no es el at&uacute;n ni el salm&oacute;n, el problema es que tenemos el Pac&iacute;fico de un lado y el Atl&aacute;ntico del otro pero no tenemos pescado fresco para nuestro sushi. Creo que posiblemente con nuestra ubicaci&oacute;n geogr&aacute;fica deber&iacute;amos poder encontrar uno que otro pescado que sea apto para sushi. &iquest;No creen?</p>
 <p><strong>&iquest;T&eacute;cnica?</strong> Como la mayor&iacute;a del pescado utilizado ya viene fileteado en empaques al vac&iacute;o el chef solo abre y corta las piezas de sashimi. Tambi&eacute;n, como utilizamos muy poco pescado local, los sushi chefs no est&aacute;n acostumbrados a filetear pescados que no sean corvina, mero o congrio. La raz&oacute;n por la cual estos pescados son populares es porque son de carne blanca (sabor ligero), tienen muy poca espina y son f&aacute;ciles de filetear. En Jap&oacute;n se usan hasta peque&ntilde;as sardinas que son complejas a la hora de remover las espinas, pero el sabor y la experiencia culinaria est&aacute; por encima de facilitarle la vida a los chefs.</p>
 <p><strong>&iquest;Arroz?</strong> El sushi es 90% arroz y 10% Sashimi, haciendo este el ingrediente m&aacute;s importante de todos. Independientemente si ten&eacute;s pescado congelado o no, un arroz hecho a la perfecci&oacute;n te puede hacer menos rencoroso con ese trozo de pescado congelado que te est&aacute;n sirviendo. Pero sigo esperando encontrar el local que se dedique a ofrecerme los granos de arroz cocidos adecuadamente.</p>
@@ -41,10 +40,12 @@ text3
 text4 
 customTop 
 media{kmkv} {
+    sushi5 /images/202002/03-sushi/sushi5.jpg
     header2 /images/201912/09-al-mercat/header2.jpg
     museeparishippodrome /images/202001/17-musee-paris/museeparishippodrome.jpg
     irangarden /images/202001/08-herencia-cultural-de-iran/irangarden.jpg
-    header /images/202001/headers/28-billie.jpg
+    sushi6 /images/202002/03-sushi/sushi6.jpg
+    header /images/202002/headers/03-sushi.jpg
     trumpflag /images/202001/necesita-saber-iran/trumpflag.jpg
     trumptweet /images/202001/necesita-saber-iran/trumptweet.jpg
     portraitofalady /images/201912/12-gustav-klimt/portraitofalady.jpg
@@ -53,7 +54,7 @@ media{kmkv} {
     iranpersepolis /images/202001/08-herencia-cultural-de-iran/iranpersepolis.jpg
     perdidas /images/202001/necesita-saber-iran/perdidas.jpg
     platofuerte /images/201912/09-al-mercat/platofuerte.jpg
-    museeparismonet /images/202001/17-musee-paris/museeparismonet.jpg
+    museeparismonet /images/202001/17-musee-aris/muêÙ*û5  monet.jpg
     propaganda /images/202001/necesita-saber-iran/propaganda.jpg
     iranarmenianmonasteries /images/202001/08-herencia-cultural-de-iran/iranarmenianmonasteries.jpg
     poster /images/202001/posters/28-billie.jpg
@@ -67,22 +68,23 @@ media{kmkv} {
     zariftweet /images/202001/necesita-saber-iran/zariftweet.jpg
     bottom /images/201912/09-al-mercat/bottom.jpg
     sushi1 /images/202002/03-sushi/sushi1.jpg
+    sushi2 /images/202002/03-sushi/sushi2.jpg
     dubai /images/202001/necesita-saber-iran/dubai.jpg
 }
-description 
+description Secretos para hacer un buen sushi
 year 2020
 author Diengo Chou
 featured{kmkv} {
     title LOS 4 MANDAMIENTOS DEL SUSHI
-    text1 
+    text1 UN BUEN SUSHI ES SENCILLO Y MINIMALISTA
     text2 POR DIENGO CHOU
     pretitle CULTURA:
     highlightColor #00ffff
 }
 type article
-subtitle 
+subtitle El sushi est√° de moda. Pero aunque abunden los "Sushi Lounge", un aut√©ntico sushi debe de ser sencillo y minimalista.
 month 02
-tags{array} cultura,home
+tags{array} guida-comida
 videoID 
 titlePoster 
 color #00ffff

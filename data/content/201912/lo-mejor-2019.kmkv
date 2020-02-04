@@ -316,7 +316,7 @@ featured{kmkv} {
 type article
 subtitle Para conmemorar el año que acaba, te lo mejor de Costa Rica en el 2019
 month 12
-tags{array} cultura
+tags{array} guida-comida,guida-bebidas
 videoID 
 titlePoster 
 color #f4b6a5

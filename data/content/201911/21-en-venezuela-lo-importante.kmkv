@@ -1,29 +1,34 @@
-type video
-featured{kmkv} {
-    pretitle NOTICIAS:
-    title LO IMPORTANTE EN VENEZUELA
-    text1 VIAJAMOS A VENEZUELA PARA CUBRIR LA CONVOCATORIA HECHA POR EL PRESIDENTE JUAN GUAIDÓ PARA EL 16 DE NOVIEMBRE Y ENTENDER LA REALIDAD A LA QUE SE ENFRENTA DICHO PAÍS.
-    text2 POR JOVEL ÁLVAREZ Y PIETRO CERCONE
-    highlightColor #E89EA2
+text {
+<p><em>Tras dos semanas de pausa en nuestro programa explicamos los motivos. Viajamos a Venezuela para cubrir la convocatoria hecha por el presidente Juan Guaid&oacute; para el 16 de noviembre y entender la realidad a la que se enfrenta dicho pa&iacute;s.</em></p>
+<p><em>www.nopasanada.com</em></p>
 }
-media{kmkv} {
-    header{image} /images/201911/headers/21-en-venezuela-lo-importante.jpg
-    poster{image} /images/201911/posters/21-en-venezuela-lo-importante.jpg
-}
-tags{array} noticias
 title FUIMOS A VENEZUELA | Jovel Álvarez y Pietro Cercone reflexionan sobre su viaje a Venezuela
-titlePoster FUIMOS A VENEZUELA
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201911/headers/21-en-venezuela-lo-importante.jpg
+    poster /images/201911/posters/21-en-venezuela-lo-importante.jpg
+}
 description {
 Tras dos semanas de pausa en nuestro programa explicamos los motivos. Viajamos a Venezuela para cubrir la convocatoria hecha por el presidente Juan Guaidó para el 16 de noviembre y entender la realidad a la que se enfrenta dicho país.
 
 www.nopasanada.com
 }
-day 22
-month 11
 year 2019
-color #E89EA2
-videoID wqQ0WZT12ZI
-text {
-<p><em>Tras dos semanas de pausa en nuestro programa explicamos los motivos. Viajamos a Venezuela para cubrir la convocatoria hecha por el presidente Juan Guaid&oacute; para el 16 de noviembre y entender la realidad a la que se enfrenta dicho pa&iacute;s.</em></p>
-<p><em>www.nopasanada.com</em></p>
+featured{kmkv} {
+    title LO IMPORTANTE EN VENEZUELA
+    text1 VIAJAMOS A VENEZUELA PARA CUBRIR LA CONVOCATORIA HECHA POR EL PRESIDENTE JUAN GUAIDÓ PARA EL 16 DE NOVIEMBRE Y ENTENDER LA REALIDAD A LA QUE SE ENFRENTA DICHO PAÍS.
+    text2 POR JOVEL ÁLVAREZ Y PIETRO CERCONE
+    pretitle NOTICIAS:
+    highlightColor #E89EA2
 }
+type video
+month 11
+tags{array} coleccion,noticias-video
+videoID wqQ0WZT12ZI
+titlePoster FUIMOS A VENEZUELA
+color #E89EA2

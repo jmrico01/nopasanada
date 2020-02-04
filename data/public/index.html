@@ -48,7 +48,8 @@
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - --->
 
 	<link rel="stylesheet" type="text/css" href="css/global.css">
-	<link rel="stylesheet" type="text/css" href="css/header.css">
+	<link rel="stylesheet" type="text/css" href="css/text.css">
+	<link rel="stylesheet" type="text/css" href="css/header-footer.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	
 	<script type="application/javascript" src="js/jquery-3.4.1.min.js"></script>
@@ -58,68 +59,156 @@
 
 <body>
 	<div id="website">
+		<!-- Duplicated in all entry pages -->
 		<div id="header">
-			<div id="headerLogo">
+			<h1 id="headerLogo">
 				<a href="#">
 					NO PASA NADA.
 				</a>
-			</div>
+			</h1>
 			<div id="headerCategories">
 				<div class="headerCategory">
 					<a href="#noticias">
-						NOTICIAS
+						<h2>NOTICIAS</h2>
 					</a>
 					<div class="headerSubcategories">
-						<!--<div class="headerSubcategory">
-							NEWSLETTER
+						<div class="headerSubcategory">
+							<a href="#noticias-loimportante">
+								<h3>LO IMPORTANTE</h3>
+							</a>
 						</div>
 						<div class="headerSubcategory">
-							TRADUCTOR
-						</div>-->
-					</div>
-				</div>
-				<div class="headerCategory">
-					<a href="#cultura">
-						CULTURA
-					</a>
-					<div class="headerSubcategories">
-					</div>
-				</div>
-				<div class="headerCategory">
-					<a href="#deporte">
-						DEPORTE
-					</a>
-					<div class="headerSubcategories">
-					</div>
-				</div>
-				<div class="headerCategory">
-					<a href="#ciencia">
-						CIENCIA
-					</a>
-					<div class="headerSubcategories">
+							<a href="#noticias-video">
+								<h3>VIDEO</h3>
+							</a>
+						</div>
+						<div class="headerSubcategory">
+							<a href="#noticias-culturales">
+								<h3>CULTURALES</h3>
+							</a>
+						</div>
+						<div class="headerSubcategory">
+							<a href="#noticias-politica">
+								<h3>POL&Iacute;TICA</h3>
+							</a>
+						</div>
 					</div>
 				</div>
 				<div class="headerCategory">
 					<a href="#opinion">
-						OPINI&Oacute;N
+						<h2>OPINI&Oacute;N</h2>
 					</a>
 					<div class="headerSubcategories">
 					</div>
 				</div>
 				<div class="headerCategory">
-					<a href="./content/201909/historias">
-						HISTORIAS
+					<a href="#guida">
+						<h2>LA GUIDA</h2>
 					</a>
 					<div class="headerSubcategories">
+						<div class="headerSubcategory">
+							<a href="#guida-comida">
+								<h3>COMIDA</h3>
+							</a>
+						</div>
+						<div class="headerSubcategory">
+							<a href="#guida-bebidas">
+								<h3>COCTELES Y BEBIDAS</h3>
+							</a>
+						</div>
+						<!--<div class="headerSubcategory">
+							<a href="#guida-viaje">
+								<h3>VIAJE</h3>
+							</a>
+						</div>-->
+						<div class="headerSubcategory">
+							<a href="#guida-recomendado">
+								<h3>RECOMENDADO</h3>
+							</a>
+						</div>
 					</div>
 				</div>
-				<!--<div class="headerCategory">
-					<a href="#sobre">
-						SOBRE
+				<div class="headerCategory">
+					<a href="#venus">
+						<h2>VENUS</h2>
 					</a>
 					<div class="headerSubcategories">
+						<div class="headerSubcategory">
+							<a href="#venus-derechos">
+								<h3>DERECHOS DE LAS MUJERES</h3>
+							</a>
+						</div>
+						<div class="headerSubcategory">
+							<a href="#venus-inspiradoras">
+								<h3>MUJERES INSPIRADORAS</h3>
+							</a>
+						</div>
+						<div class="headerSubcategory">
+							<a href="#venus-moda">
+								<h3>MODA</h3>
+							</a>
+						</div>
+						<!--<div class="headerSubcategory">
+							<a href="#venus-belleza">
+								<h3>BELLEZA</h3>
+							</a>
+						</div>-->
+						<div class="headerSubcategory">
+							<a href="#venus-salud">
+								<h3>SALUD DE LA MUJER</h3>
+							</a>
+						</div>
 					</div>
-				</div>-->
+				</div>
+				<div class="headerCategory">
+					<a href="#ludi">
+						<h2>LUDI</h2>
+					</a>
+					<div class="headerSubcategories">
+						<!--<div class="headerSubcategory">
+							<a href="#ludi-futbol">
+								<h3>F&Uacute;TBOL</h3>
+							</a>
+						</div>
+						<div class="headerSubcategory">
+							<a href="#ludi-moto">
+								<h3>MOTO</h3>
+							</a>
+						</div>-->
+					</div>
+				</div>
+				<div class="headerCategory">
+					<a href="#mas">
+						<h2>M&Aacute;S</h2>
+					</a>
+					<div class="headerSubcategories">
+						<div class="headerSubcategory">
+							<a href="#mas-ambiente">
+								<h3>MEDIO AMBIENTE</h3>
+							</a>
+						</div>
+						<div class="headerSubcategory">
+							<a href="#mas-saludmental">
+								<h3>SALUD MENTAL</h3>
+							</a>
+						</div>
+						<div class="headerSubcategory">
+							<a href="#mas-saludyciencia">
+								<h3>SALUD Y CIENCIA</h3>
+							</a>
+						</div>
+						<div class="headerSubcategory">
+							<a href="#mas-arteymusica">
+								<h3>ARTE Y M&Uacute;SICA</h3>
+							</a>
+						</div>
+						<div class="headerSubcategory">
+							<a href="#mas-cine">
+								<h3>CINE</h3>
+							</a>
+						</div>
+					</div>
+				</div>
 				<!--<div id="searchIcon">
 					<svg id="searchIconSvg" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 30 30"><path d="M 13 3 C 7.4889971 3 3 7.4889971 3 13 C 3 18.511003 7.4889971 23 13 23 C 15.396508 23 17.597385 22.148986 19.322266 20.736328 L 25.292969 26.707031 A 1.0001 1.0001 0 1 0 26.707031 25.292969 L 20.736328 19.322266 C 22.148986 17.597385 23 15.396508 23 13 C 23 7.4889971 18.511003 3 13 3 z M 13 5 C 17.430123 5 21 8.5698774 21 13 C 21 17.430123 17.430123 21 13 21 C 8.5698774 21 5 17.430123 5 13 C 5 8.5698774 8.5698774 5 13 5 z"></path></svg>
 				</div>-->
@@ -146,32 +235,149 @@
 				</div>
 			</div>
 
-			<div id="screenPosters" class="screen">
-				<div class="contentArrowContainer" id="contentArrowLeftButton">
-					<div id="contentArrowLeft">&lsaquo;</div>
+			<div id="collection">
+				<h1 id="collectionTitle">
+					COLECCI&Oacute;N
+				</h1>
+				<div class="collectionArrow" id="collectionArrowLeftButton">
+					<div id="collectionArrowLeft">&lsaquo;</div>
 				</div>
-				<div class="contentArrowContainer" id="contentArrowRightButton">
-					<div id="contentArrowRight">&rsaquo;</div>
+				<div class="collectionArrow" id="collectionArrowRightButton">
+					<div id="collectionArrowRight">&rsaquo;</div>
 				</div>
 
-				<div id="contentList">
-					<div id="posterTemplate">
-						<div class="entry">
+				<div id="collectionList">
+					<div id="collectionTemplate">
+						<div class="collection">
 							<a href="">
-								<div class="entryImage">
-									<div class="entryNumber">
-										#.
+								<img src="">
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="subscribe">
+				<div id="subscribeLeft">
+					<a href="https://open.spotify.com/show/1IeEOVRq66EghJUd7QRV0s?si=ZNF3ev_0RCG3JA9em0Rqyg">
+						<img src="/imgs/subscribeLeft.png">
+					</a>
+					<div class="subscribeText">
+						<h2>SUSCR&Iacute;BETE A LO IMPORTANTE</h2>
+						<h4>Lo importante de qu&eacute; est&aacute; pasando en el mundo, en 4 minutos o menos. Un programa de No Pasa Nada.</h4>
+						<a href="https://open.spotify.com/show/1IeEOVRq66EghJUd7QRV0s?si=ZNF3ev_0RCG3JA9em0Rqyg">
+							<div class="subscribeButton">
+								<h3>SUSCR&Iacute;BETE<h3>
+							</div>
+						</a>
+					</div>
+				</div>
+				<div id="subscribeRight">
+					<a href="https://open.spotify.com/show/5XGVHQnbRPBr1EnvBB5nHr?si=zBWWQsu1TJiUgosWjRqJ8w">
+						<img src="/imgs/subscribeRight.png">
+					</a>
+					<div class="subscribeText">
+						<h2>SUSCR&Iacute;BETE A LADO B</h2>
+						<h4>Un podcast para escuchar las conversaciones y after-thoughts que acompa&ntilde;an los art&iacute;culos editoriales de No Pasa Nada.</h4>
+						<a href="https://open.spotify.com/show/5XGVHQnbRPBr1EnvBB5nHr?si=zBWWQsu1TJiUgosWjRqJ8w">
+							<div class="subscribeButton">
+								<h3>SUSCR&Iacute;BETE</h3>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div id="recent">
+				<div id="recentArticles">
+					<h1 id="recentArticlesTitle">
+						ART&Iacute;CULOS RECIENTES
+					</h1>
+					<div id="recentArticleList">
+						<div id="recentArticleTemplate">
+							<a href="">
+								<div class="recentArticle">
+									<div class="recentArticleImage">
+										<img src="">
 									</div>
-									<img class="entryPoster" src="">
-								</div>
-								<div class="entryText">
-									ENTRY TEXT
+									<div class="recentArticleText">
+										<h2 class="recentArticleTitle">
+										</h2>
+										<h3 class="recentArticleMetadata">
+										</h3>
+										<h4 class="recentArticleSubtitle">
+										</h4>
+									</div>
 								</div>
 							</a>
 						</div>
 					</div>
 				</div>
+				<div id="recentVideos">
+					<h1 id="recentVideosTitle">
+						VIDEOS RECIENTES
+					</h1>
+					<div id="recentVideoList">
+						<div id="recentVideoTemplate">
+							<a href="">
+								<div class="recentVideo">
+									<div class="recentVideoImage">
+										<img src="">
+									</div>
+									<div class="recentVideoText">
+										<h2 class="recentVideoTitle">
+											VIDEO TITLE GOES HERE
+										</h2>
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
+		<!-- Duplicated in all entry pages -->
+		<div id="footer">
+			<div id="footerRedStripe"></div>
+			<h1 id="footerLogo">
+				NO PASA NADA.
+			</h1>
+			<div class="footerSection">
+				<h3 class="footerSectionCategory">
+					<a href="./content/201908/nopasanada">
+						SOBRE NOSOTROS
+					</a>
+				</h3>
+				<h3 class="footerSectionCategory">
+					<a href="./content/202002/publicidad">
+						PUBLICIDAD
+					</a>
+				</h3>
+				<h3 class="footerSectionCategory">
+					<a href="./content/202002/politica-de-cookies">
+						POL&Iacute;TICA DE COOKIES
+					</a>
+				</h3>
+				<h3 class="footerSectionCategory">
+					<a href="./content/202002/contacto">
+						CONTACTO
+					</a>
+				</h3>
+				<h3 class="footerSectionCategory">
+					<a href="./content/202002/terminos-y-condiciones">
+						T&Eacute;RMINOS Y CONDICIONES
+					</a>
+				</h3>
+			</div>
+			<br>
+			<div class="footerSection">
+				<h3 class="footerSectionCategory">
+					NPN PRODUCCIONES S.A. © 2020
+				</h3>
+				<h3 class="footerSectionCategory">
+					Todos los derechos reservados.
+				</h3>
 			</div>
 		</div>
 	</div>

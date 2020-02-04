@@ -1,24 +1,28 @@
-type video
+text <p>Vea este episodio especial de Pasa En La Liga Promerica donode conocemos al equipo campe&oacute;n del Deportivo Saprissa.</p>
+title LAS IMPARABLES: EL EQUIPO CAMPEÓN DE SAPRISSA
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201912/headers/07-pasaen.jpg
+    poster /images/201912/posters/07-pasaen.jpg
+}
+description Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
+year 2019
 featured{kmkv} {
-    pretitle PASA EN LA LIGA PROMERICA:
     title TRAILER: PASA EN LA LIGA PROMERICA
     text1 Pasa En La Liga Promerica cuenta las historias del campeonato nacional de fútbol de Costa Rica: La Liga Promerica, a través de los ojos de su nuevo miembro: Jicaral de Sercoba.  Nuestra historia comienza cuando el pequeño pueblo de Jicaral hace historia y logra unirse por primera vez a la primera división de Costa Rica.
     text2 COLECCIÓN DE NO PASA NADA
+    pretitle PASA EN LA LIGA PROMERICA:
     highlightColor #E89EA2
 }
-media{kmkv} {
-    header{image} /images/201911/headers/15-andrea-kader.jpg
-}
-tags{array} deporte, pasaen
-title LAS IMPARABLES: EL EQUIPO CAMPEÓN DE SAPRISSA
-titlePoster Pasa En La Liga Promerica
-description Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
-day 09
-month 12
-year 2019
-color #E89EA2
-videoID tN2C1NDYIJU
+type video
 subtitle Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
-text {
-<p><p>Vea este episodio especial de Pasa En La Liga Promerica donode conocemos al equipo campeón del Deportivo Saprissa.</p></p>
-}
+month 12
+tags{array} ludi-futbol
+videoID tN2C1NDYIJU
+titlePoster Pasa En La Liga Promerica
+color #E89EA2

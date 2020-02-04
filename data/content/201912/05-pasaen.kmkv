@@ -1,25 +1,28 @@
-type video
+text <p>Tras recibir un golpe duro para el equipo, el Deportivo Saprissa se encuentra en Jicaral donde topa con un hurac&aacute;n de equipo listo para enfrent&aacute;rseles.</p>
+title SAPRISSA: "EL TIEMPO TAMBIÉN JUEGA"
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/201912/headers/05-pasaen.jpg
+    poster /images/201912/posters/05-pasaen.jpg
+}
+description Tras recibir un golpe duro para el equipo, el Deportivo Saprissa se encuentra en Jicaral donde topa con un huracán de equipo listo para enfrentárseles.
+year 2019
 featured{kmkv} {
-    pretitle PASA EN LA LIGA PROMERICA:
     title SAPRISSA: "EL TIEMPO TAMBIÉN JUEGA"
     text1 Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
     text2 COLECCIÓN DE NO PASA NADA
+    pretitle PASA EN LA LIGA PROMERICA:
     highlightColor #E89EA2
 }
-media{kmkv} {
-    header{image} /images/201911/headers/15-andrea-kader.jpg
-    poster{image} /images/201912/posters/05-pasaen.jpg
-}
-tags{array} deporte, pasaen
-title SAPRISSA: "EL TIEMPO TAMBIÉN JUEGA"
-titlePoster Pasa En La Liga Promerica: EP 04
-description Tras recibir un golpe duro para el equipo, el Deportivo Saprissa se encuentra en Jicaral donde topa con un huracán de equipo listo para enfrentárseles.
-day 09
-month 12
-year 2019
-color #E89EA2
-videoID TlZ9ekDmI4I
+type video
 subtitle Pasa En La Liga Promerica cuenta las historias del campeonato nacional de futbol en Costa Rica "La Liga Promerica" por medio de los ojos de su nuevo integrante: Jicaral de Sercoba.
-text {
-<p>Tras recibir un golpe duro para el equipo, el Deportivo Saprissa se encuentra en Jicaral donde topa con un hurac&aacute;n de equipo listo para enfrent&aacute;rseles.</p>
-}
+month 12
+tags{array} coleccion,ludi-futbol
+videoID TlZ9ekDmI4I
+titlePoster Pasa En La Liga Promerica: EP 04
+color #E89EA2
