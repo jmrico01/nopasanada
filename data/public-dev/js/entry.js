@@ -6,7 +6,7 @@ const VALID_TAGS = [
     "home", "coleccion", "articulo", "video",
     "noticias-loimportante", "noticias-video", "noticias-culturales", "noticias-politica",
     "opinion",
-    "guida-comida", "guida-bebidas", "guida-viaje",
+    "guida-comida", "guida-bebidas", "guida-viaje", "guida-recomendado",
     "venus-derechos", "venus-inspiradoras", "venus-moda", "venus-belleza", "venus-salud",
     "ludi-futbol", "ludi-moto",
     "mas-ambiente", "mas-saludmental", "mas-saludyciencia", "mas-arteymusica", "mas-cine",
