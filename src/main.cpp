@@ -1596,7 +1596,8 @@ int main(int argc, char** argv)
 	fprintf(stderr, "Assert failed:\n"); \
 	fprintf(stderr, format, ##__VA_ARGS__); \
 	abort(); }
-#define DEBUG_ASSERT(expression) DEBUG_ASSERTF(expression, "nothing")
+#define DEBUG_ASSERT(expression) DEBUG_ASSERTF(expression, "%s %d %s\n", \
+	__FILE__, __LINE__, __func__)
 #define DEBUG_PANIC(format, ...) \
 	fprintf(stderr, "PANIC!\n"); \
 	fprintf(stderr, format, ##__VA_ARGS__); \
