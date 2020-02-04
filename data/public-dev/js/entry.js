@@ -3,7 +3,7 @@
 // const IMAGE_BASE_URL = "https://nopasanada.s3.amazonaws.com";
 
 const VALID_TAGS = [
-    "home", "coleccion", "articulo", "video",
+    "coleccion",
     "noticias-loimportante", "noticias-video", "noticias-culturales", "noticias-politica",
     "opinion",
     "guida-comida", "guida-bebidas", "guida-viaje", "guida-recomendado",
