@@ -393,80 +393,80 @@ $(document).ready(async function() {
         success: function(data) {
             previewUrl_ = data.url;
             $("#previewLink").attr("href", previewUrl_ + GetEntryUri());
+
+            tinymce.init({
+                selector: "tinymce",
+                style_formats: [
+                    { title: "Paragraph", block: "p", style: {} }
+                ],
+                menubar: false,
+                plugins: "autoresize colorpicker hr lists link paste",
+                toolbar: "undo redo | bold italic | alignleft aligncenter " +
+                    "alignright alignjustify | link hr | bullist numlist | removeformat",
+                paste_as_text: true,
+                font_formats: "Default (Futura)=FuturaPTBook;",
+                content_css: [
+                    previewUrl_ + "/css/global.css",
+                    previewUrl_ + "/css/entry.css"
+                ],
+            }).then(function(editors) {
+                editors_ = {};
+                for (let i = 0; i < editors.length; i++) {
+                    editors_[editors[i].id] = editors[i];
+                }
+
+                $.ajax({
+                    type: "GET",
+                    url: GetEntryUri(),
+                    contentType: "application/json",
+                    dataType: "json",
+                    async: true,
+                    data: "",
+                    success: function(data) {
+                        LoadEntryData(data);
+
+                        $("#contentType").change(function() {
+                            OnContentTypeChanged();
+                        });
+
+                        setInterval(function() {
+                            SaveEntryData();
+                        }, 20000);
+                        $("#saveButton").click(function() {
+                            SaveEntryData();
+                        });
+
+                        $("#deleteButton").click(function() {
+                            let requestData = {
+                                uri: GetEntryUri()
+                            };
+                            $.ajax({
+                                type: "POST",
+                                url: "/deleteEntry",
+                                contentType: "application/json",
+                                async: true,
+                                data: JSON.stringify(requestData),
+                                success: function(data) {
+                                    $("#statusMessage").html("Entry deleted successfully.");
+                                    window.location = "/";
+                                },
+                                error: function(error) {
+                                    console.error(error);
+                                    $("#statusMessage").html("Delete failed, error: " + error);
+                                }
+                            });
+                        });
+
+                        $(".section").show();
+                    },
+                    error: function(error) {
+                        console.error(error);
+                    }
+                });
+            });
         },
         error: function(error) {
             console.error(error);
         }
-    });
-
-    tinymce.init({
-        selector: "tinymce",
-        style_formats: [
-            { title: "Paragraph", block: "p", style: {} }
-        ],
-        menubar: false,
-        plugins: "autoresize colorpicker hr lists link paste",
-        toolbar: "undo redo | bold italic | alignleft aligncenter " +
-            "alignright alignjustify | link hr | bullist numlist | removeformat",
-        paste_as_text: true,
-        font_formats: "Default (Futura)=FuturaPTBook;",
-        content_css: [
-            previewUrl_ + "/css/global.css",
-            previewUrl_ + "/css/entry.css"
-        ],
-    }).then(function(editors) {
-        editors_ = {};
-        for (let i = 0; i < editors.length; i++) {
-            editors_[editors[i].id] = editors[i];
-        }
-
-        $.ajax({
-            type: "GET",
-            url: GetEntryUri(),
-            contentType: "application/json",
-            dataType: "json",
-            async: true,
-            data: "",
-            success: function(data) {
-                LoadEntryData(data);
-
-                $("#contentType").change(function() {
-                    OnContentTypeChanged();
-                });
-
-                setInterval(function() {
-                    SaveEntryData();
-                }, 20000);
-                $("#saveButton").click(function() {
-                    SaveEntryData();
-                });
-
-                $("#deleteButton").click(function() {
-                    let requestData = {
-                        uri: GetEntryUri()
-                    };
-                    $.ajax({
-                        type: "POST",
-                        url: "/deleteEntry",
-                        contentType: "application/json",
-                        async: true,
-                        data: JSON.stringify(requestData),
-                        success: function(data) {
-                            $("#statusMessage").html("Entry deleted successfully.");
-                            window.location = "/";
-                        },
-                        error: function(error) {
-                            console.error(error);
-                            $("#statusMessage").html("Delete failed, error: " + error);
-                        }
-                    });
-                });
-
-                $(".section").show();
-            },
-            error: function(error) {
-                console.error(error);
-            }
-        });
     });
 });
