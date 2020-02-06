@@ -1192,6 +1192,7 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
+		LOG_INFO("Saved entry %.*s\n", (int)uri.size, uri.data);
 
 		if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
 			LOG_ERROR("Failed to reload all entry metadata to JSON for entry %.*s\n",
@@ -1488,6 +1489,7 @@ int main(int argc, char** argv)
 	serverDev.Post("/reset", [&rootPath, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
+		LOG_INFO("Received /reset request\n");
 		DynamicArray<DynamicArray<char>> cmds;
 		cmds.Append(ToString("git pull"));
 		cmds.Append(ToString("sudo systemctl restart npn-dev")); // Aaah! Suicide!
@@ -1509,6 +1511,7 @@ int main(int argc, char** argv)
 	serverDev.Post("/commit", [&rootPath, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
+		LOG_INFO("Received /commit request\n");
 		DynamicArray<DynamicArray<char>> cmds;
 		cmds.Append(ToString("git add -A"));
 		auto* commitCmd = cmds.Append(ToString("git commit -m \""));
@@ -1544,6 +1547,7 @@ int main(int argc, char** argv)
 	serverDev.Post("/deploy", [&rootPath, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
+		LOG_INFO("Received /deploy request\n");
 		DynamicArray<DynamicArray<char>> cmds;
 		cmds.Append(ToString("cd ../nopasanada && git pull"));
 		cmds.Append(ToString("sudo systemctl restart npn"));
