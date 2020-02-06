@@ -1,4 +1,14 @@
-text <p>Contacto...</p>
+text {
+<p><strong>Informaci&oacute;n general</strong></p>
+<p>info@nopasanada.com</p>
+<p>7230-4806</p>
+<p>&nbsp;</p>
+<p><strong>Informaci&oacute;n creativa</strong></p>
+<p>lauren@nopasanada.com</p>
+<p>&nbsp;</p>
+<p><strong>Informaci&oacute;n de contenido</strong></p>
+<p>kenneth@nopasanada.com</p>
+}
 title No Pasa Nada
 day 02
 text1 
