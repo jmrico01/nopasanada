@@ -19,6 +19,11 @@
 
 #include "settings.h"
 
+// Homebrew. Maybe it should be standard/expected that KM apps will define these.
+#define LOG_INFO(format, ...)  fprintf(stdout, format, ##__VA_ARGS__); fflush(stdout)
+#define LOG_WARN(format, ...)  fprintf(stderr, format, ##__VA_ARGS__); fflush(stderr)
+#define LOG_ERROR(format, ...) fprintf(stderr, format, ##__VA_ARGS__); fflush(stderr)
+
 global_var const int HTTP_STATUS_ERROR = 500;
 
 global_var const char* LOGIN_SESSION_COOKIE = "npn_session=";
@@ -135,14 +140,14 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	FixedArray<char, PATH_MAX_LENGTH> kmkvPath;
 	UriToKmkvPath(rootPath, uri, &kmkvPath);
 	if (!LoadKmkv(kmkvPath.ToArray(), &defaultAllocator_, &outEntryData->kmkv)) {
-		fprintf(stderr, "LoadKmkv failed for entry %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+		LOG_ERROR("LoadKmkv failed for entry %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 
 	// Load featured info
 	const auto* featuredKmkv = GetKmkvItemObjValue(outEntryData->kmkv, "featured");
 	if (featuredKmkv == nullptr) {
-		fprintf(stderr, "Entry missing \"featured\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+		LOG_ERROR("Entry missing \"featured\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	const auto* featuredPretitle = GetKmkvItemStrValue(*featuredKmkv, "pretitle");
@@ -169,13 +174,13 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	// Load media
 	const auto* mediaKmkv = GetKmkvItemObjValue(outEntryData->kmkv, "media");
 	if (mediaKmkv == nullptr) {
-		fprintf(stderr, "Entry missing \"media\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+		LOG_ERROR("Entry missing \"media\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	outEntryData->media = *mediaKmkv;
 	const auto* headerImage = GetKmkvItemStrValue(*mediaKmkv, "header");
 	if (headerImage == nullptr) {
-		fprintf(stderr, "Entry media missing \"header\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+		LOG_ERROR("Entry media missing \"header\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	outEntryData->header = *headerImage;
@@ -183,7 +188,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	// Load entry type string and enum
 	const auto* type = GetKmkvItemStrValue(outEntryData->kmkv, "type");
 	if (type == nullptr) {
-		fprintf(stderr, "Entry missing \"type\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+		LOG_ERROR("Entry missing \"type\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	outEntryData->type = EntryType::LAST;
@@ -193,7 +198,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 		}
 	}
 	if (outEntryData->type == EntryType::LAST) {
-		fprintf(stderr, "Entry with invalid \"type\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+		LOG_ERROR("Entry with invalid \"type\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	outEntryData->typeString = *type;
@@ -201,7 +206,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	// Load tags string array
 	const auto* tags = GetKmkvItemStrValue(outEntryData->kmkv, "tags");
 	if (tags == nullptr) {
-		fprintf(stderr, "Entry missing \"tags\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+		LOG_ERROR("Entry missing \"tags\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	DynamicArray<char>* currentTag = outEntryData->tags.Append();
@@ -223,7 +228,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	const auto* month = GetKmkvItemStrValue(outEntryData->kmkv, "month");
 	const auto* year = GetKmkvItemStrValue(outEntryData->kmkv, "year");
 	if (day == nullptr || month == nullptr || year == nullptr) {
-		fprintf(stderr, "Entry missing string day, month, or year field(s): %.*s\n",
+		LOG_ERROR("Entry missing string day, month, or year field(s): %.*s\n",
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
@@ -236,17 +241,17 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 		outEntryData->date.dayString[1] = (*day)[1];
 	}
 	else {
-		fprintf(stderr, "Entry bad day string length %d: %.*s\n", (int)day->size,
+		LOG_ERROR("Entry bad day string length %d: %.*s\n", (int)day->size,
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	if (!StringToIntBase10(day->ToArray(), &outEntryData->date.dayInt)) {
-		fprintf(stderr, "Entry day to-integer conversion failed: %.*s\n",
+		LOG_ERROR("Entry day to-integer conversion failed: %.*s\n",
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	if (outEntryData->date.dayInt < 1 || outEntryData->date.dayInt > 31) {
-		fprintf(stderr, "Entry day %d out of range: %.*s\n", outEntryData->date.dayInt,
+		LOG_ERROR("Entry day %d out of range: %.*s\n", outEntryData->date.dayInt,
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
@@ -259,17 +264,17 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 		outEntryData->date.monthString[1] = (*month)[1];
 	}
 	else {
-		fprintf(stderr, "Entry bad month string length %d: %.*s\n", (int)month->size,
+		LOG_ERROR("Entry bad month string length %d: %.*s\n", (int)month->size,
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	if (!StringToIntBase10(month->ToArray(), &outEntryData->date.monthInt)) {
-		fprintf(stderr, "Entry month to-integer conversion failed: %.*s\n",
+		LOG_ERROR("Entry month to-integer conversion failed: %.*s\n",
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	if (outEntryData->date.monthInt < 1 || outEntryData->date.monthInt > 12) {
-		fprintf(stderr, "Entry month %d out of range: %.*s\n", outEntryData->date.monthInt,
+		LOG_ERROR("Entry month %d out of range: %.*s\n", outEntryData->date.monthInt,
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
@@ -280,12 +285,12 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 		outEntryData->date.yearString[3] = (*year)[3];
 	}
 	else {
-		fprintf(stderr, "Entry bad year string length %d: %.*s\n", (int)year->size,
+		LOG_ERROR("Entry bad year string length %d: %.*s\n", (int)year->size,
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	if (!StringToIntBase10(year->ToArray(), &outEntryData->date.yearInt)) {
-		fprintf(stderr, "Entry month to-integer conversion failed: %.*s\n",
+		LOG_ERROR("Entry month to-integer conversion failed: %.*s\n",
 			(int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
@@ -293,13 +298,13 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	// Load article contents
 	const auto* title = GetKmkvItemStrValue(outEntryData->kmkv, "title");
 	if (title == nullptr) {
-		fprintf(stderr, "Entry missing \"title\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+		LOG_ERROR("Entry missing \"title\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	outEntryData->title = *title;
 	const auto* color = GetKmkvItemStrValue(outEntryData->kmkv, "color");
 	if (color == nullptr) {
-		fprintf(stderr, "Entry missing \"color\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+		LOG_ERROR("Entry missing \"color\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	outEntryData->color = *color;
@@ -325,7 +330,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	}
 	const auto* text = GetKmkvItemStrValue(outEntryData->kmkv, "text");
 	if (text == nullptr && outEntryData->type != EntryType::NEWSLETTER) {
-		fprintf(stderr, "Entry missing \"text\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+		LOG_ERROR("Entry missing \"text\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	else if (text != nullptr) {
@@ -335,7 +340,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 	// Load video ID
 	const auto* videoID = GetKmkvItemStrValue(outEntryData->kmkv, "videoID");
 	if (videoID == nullptr && outEntryData->type == EntryType::VIDEO) {
-		fprintf(stderr, "Entry missing \"videoID\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+		LOG_ERROR("Entry missing \"videoID\": %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 		return false;
 	}
 	else if (videoID != nullptr) {
@@ -354,7 +359,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 		for (int i = 0; i < 4; i++) {
 			const auto* titleN = GetKmkvItemStrValue(outEntryData->kmkv, TITLE_FIELD_NAMES[i]);
 			if (titleN == nullptr) {
-				fprintf(stderr, "Newsletter missing \"%s\": %.*s\n", TITLE_FIELD_NAMES[i],
+				LOG_ERROR("Newsletter missing \"%s\": %.*s\n", TITLE_FIELD_NAMES[i],
 					(int)kmkvPath.size, kmkvPath.data);
 				return false;
 			}
@@ -365,7 +370,7 @@ bool LoadEntry(const Array<char>& rootPath, const Array<char>& uri, EntryData* o
 			}
 			const auto* textN = GetKmkvItemStrValue(outEntryData->kmkv, TEXT_FIELD_NAMES[i]);
 			if (textN == nullptr) {
-				fprintf(stderr, "Newsletter missing \"%s\": %.*s\n", TEXT_FIELD_NAMES[i],
+				LOG_ERROR("Newsletter missing \"%s\": %.*s\n", TEXT_FIELD_NAMES[i],
 					(int)kmkvPath.size, kmkvPath.data);
 				return false;
 			}
@@ -390,7 +395,7 @@ internal bool SearchReplaceAndAppend(const Array<char>& string, const HashTable<
 				if (oneBracket) {
 					const Array<char>* replaceValuePtr = items.GetValue(replaceKey);
 					if (replaceValuePtr == nullptr) {
-						fprintf(stderr, "Failed to find replace key %.*s\n",
+						LOG_ERROR("Failed to find replace key %.*s\n",
 							(int)replaceKey.string.size, replaceKey.string.data);
 						return false;
 					}
@@ -489,13 +494,13 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 
 		uint64 start = SubstringSearch(pathBuffer.ToArray(), ToString("content"));
 		if (start == pathBuffer.size) {
-			fprintf(stderr, "Couldn't find \"content\" substring in path\n");
+			LOG_ERROR("Couldn't find \"content\" substring in path\n");
 			return false;
 		}
 		Array<char> uri = pathBuffer.ToArray().Slice(start - 1, pathBuffer.size - 5);
 		EntryData entryData;
 		if (!LoadEntry(rootPath, uri, &entryData)) {
-			fprintf(stderr, "LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
+			LOG_ERROR("LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
 			return false;
 		}
 		defer(FreeKmkv(entryData.kmkv));
@@ -556,8 +561,7 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 
 	for (uint64 i = 0; i < metadataKmkvPtrs.size; i++) {
 		if (!KmkvToJson(*metadataKmkvPtrs[i], outJson)) {
-			fprintf(stderr, "KmkvToJson failed for entry %.*s\n",
-				(int)pathBuffer.size, pathBuffer.data);
+			LOG_ERROR("KmkvToJson failed for entry %.*s\n", (int)pathBuffer.size, pathBuffer.data);
 			return false;
 		}
 		outJson->Append(',');
@@ -578,7 +582,7 @@ bool LoadFeaturedJson(const Array<char>& rootPath, DynamicArray<char, StandardAl
 
 	HashTable<KmkvItem<StandardAllocator>> featuredKmkv;
 	if (!LoadKmkv(featuredKmkvPath.ToArray(), &defaultAllocator_, &featuredKmkv)) {
-		fprintf(stderr, "LoadKmkv failed for featured entries: %.*s\n",
+		LOG_ERROR("LoadKmkv failed for featured entries: %.*s\n",
 			(int)featuredKmkvPath.size, featuredKmkvPath.data);
 		return false;
 	}
@@ -586,7 +590,7 @@ bool LoadFeaturedJson(const Array<char>& rootPath, DynamicArray<char, StandardAl
 
 	outJson->Clear();
 	if (!KmkvToJson(featuredKmkv, outJson)) {
-		fprintf(stderr, "KmkvToJson failed for featured entries: %.*s\n",
+		LOG_ERROR("KmkvToJson failed for featured entries: %.*s\n",
 			(int)featuredKmkvPath.size, featuredKmkvPath.data);
 		return false;
 	}
@@ -596,9 +600,9 @@ bool LoadFeaturedJson(const Array<char>& rootPath, DynamicArray<char, StandardAl
 
 bool ServerListen(ServerType& server, const char* host, int port)
 {
-	printf("Listening on host \"%s\", port %d\n", host, port);
+	LOG_INFO("Listening on host \"%s\", port %d\n", host, port);
 	if (!server.listen(host, port)) {
-		fprintf(stderr, "server listen failed for host \"%s\", port %d\n", host, port);
+		LOG_ERROR("server listen failed for host \"%s\", port %d\n", host, port);
 		return false;
 	}
 
@@ -676,42 +680,42 @@ int main(int argc, char** argv)
 	std::shared_ptr<httplib::Response> response = client.Put("/images/202001/headers/i-am-test.jpg",
 		headers, "", "image/jpeg");
 	if (!response) {
-		fprintf(stderr, "Amazon S3 PUT request failed\n");
+		LOG_ERROR("Amazon S3 PUT request failed\n");
 		return 1;
 	}
 
-	printf("Response status %d, body:\n%s\n", response->status, response->body.c_str());
+	LOG_INFO("Response status %d, body:\n%s\n", response->status, response->body.c_str());
 
 	return 0;
 #endif
 
 	FixedArray<char, PATH_MAX_LENGTH> rootPath = GetExecutablePath(&defaultAllocator_);
 	if (rootPath.size == 0) {
-		fprintf(stderr, "Failed to get executable path\n");
+		LOG_ERROR("Failed to get executable path\n");
 		return 1;
 	}
 	rootPath.RemoveLast();
 	rootPath.size = rootPath.ToArray().FindLast('/') + 1;
-	printf("Root path: %.*s\n", (int)rootPath.size, rootPath.data);
+	LOG_INFO("Root path: %.*s\n", (int)rootPath.size, rootPath.data);
 
 	FixedArray<char, PATH_MAX_LENGTH> mediaKmkvPath = rootPath;
 	mediaKmkvPath.Append(ToString("data/media.kmkv"));
 	HashTable<KmkvItem<StandardAllocator>> mediaKmkv;
 	if (!LoadKmkv(mediaKmkvPath.ToArray(), &defaultAllocator_, &mediaKmkv)) {
-		fprintf(stderr, "LoadKmkv failed for media file\n");
+		LOG_ERROR("LoadKmkv failed for media file\n");
 		return 1;
 	}
 
 	DynamicArray<char> allMetadataJson;
 	if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
-		fprintf(stderr, "Failed to load all entry metadata to JSON\n");
+		LOG_ERROR("Failed to load all entry metadata to JSON\n");
 		return 1;
 	}
-	// printf("Metadata JSON:\n%.*s\n", (int)allMetadataJson.size, allMetadataJson.data);
+	// LOG_INFO("Metadata JSON:\n%.*s\n", (int)allMetadataJson.size, allMetadataJson.data);
 
 	DynamicArray<char> featuredJson;
 	if (!LoadFeaturedJson(rootPath.ToArray(), &featuredJson)) {
-		fprintf(stderr, "Failed to load featured entries to JSON\n");
+		LOG_ERROR("Failed to load featured entries to JSON\n");
 		return 1;
 	}
 
@@ -749,7 +753,7 @@ int main(int argc, char** argv)
 
 		EntryData entryData;
 		if (!LoadEntry(rootPath.ToArray(), uri, &entryData)) {
-			fprintf(stderr, "LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
+			LOG_ERROR("LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -762,7 +766,7 @@ int main(int argc, char** argv)
 		templatePath.Append('\0');
 		Array<uint8> templateFile = LoadEntireFile(templatePath.ToArray(), &defaultAllocator_);
 		if (templateFile.data == nullptr) {
-			fprintf(stderr, "Failed to load template file at %.*s\n",
+			LOG_ERROR("Failed to load template file at %.*s\n",
 				(int)templatePath.size, templatePath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -782,7 +786,7 @@ int main(int argc, char** argv)
 			for (int i = 0; i < 8; i++) {
 				const auto* image = GetKmkvItemStrValue(entryData.media, NEWSLETTER_IMAGE_FIELDS[i]);
 				if (image == nullptr) {
-					fprintf(stderr, "Entry media missing string \"%s\": %.*s\n",
+					LOG_ERROR("Entry media missing string \"%s\": %.*s\n",
 						NEWSLETTER_IMAGE_FIELDS[i], (int)uri.size, uri.data);
 					res.status = HTTP_STATUS_ERROR;
 					return;
@@ -891,7 +895,7 @@ int main(int argc, char** argv)
 		templateString.size = templateFile.size;
 		DynamicArray<char> outString;
 		if (!SearchReplaceAndAppend(templateString, templateItems, &outString)) {
-			fprintf(stderr, "Failed to search-and-replace to template file %.*s\n",
+			LOG_ERROR("Failed to search-and-replace to template file %.*s\n",
 				(int)templatePath.size, templatePath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -926,7 +930,7 @@ int main(int argc, char** argv)
 
 				const auto* mediaHtml = GetKmkvItemStrValue(mediaKmkv, mediaType);
 				if (mediaHtml == nullptr) {
-					fprintf(stderr, "Media type not found: %.*s in %.*s\n",
+					LOG_ERROR("Media type not found: %.*s in %.*s\n",
 						(int)mediaType.size, mediaType.data, (int)uri.size, uri.data);
 					res.status = HTTP_STATUS_ERROR;
 					return;
@@ -939,7 +943,7 @@ int main(int argc, char** argv)
 					// expanded upon / keyword tag needs to be checked for type=image
 					const auto* imageLocation = GetKmkvItemStrValue(entryData.media, mediaName);
 					if (imageLocation == nullptr) {
-						fprintf(stderr, "Image not found: %.*s in %.*s\n",
+						LOG_ERROR("Image not found: %.*s in %.*s\n",
 							(int)mediaName.size, mediaName.data, (int)uri.size, uri.data);
 						res.status = HTTP_STATUS_ERROR;
 						return;
@@ -952,7 +956,7 @@ int main(int argc, char** argv)
 				// TODO implement style extraction from KMKV (multiple keyword tag support)
 				mediaHtmlItems.Add("style", Array<char>::empty);
 				if (!SearchReplaceAndAppend(mediaHtml->ToArray(), mediaHtmlItems, &outStringMedia)) {
-					fprintf(stderr, "Failed to search-and-replace media HTML, type %.*s in %.*s\n",
+					LOG_ERROR("Failed to search-and-replace media HTML, type %.*s in %.*s\n",
 						(int)mediaType.size, mediaType.data, (int)uri.size, uri.data);
 					res.status = HTTP_STATUS_ERROR;
 					return;
@@ -970,7 +974,7 @@ int main(int argc, char** argv)
 	imageRootPath.RemoveLast();
 	uint64 lastSlash = imageRootPath.ToArray().FindLast('/');
 	if (lastSlash == imageRootPath.size) {
-		fprintf(stderr, "Bad public path, no directory above for images: %.*s\n",
+		LOG_ERROR("Bad public path, no directory above for images: %.*s\n",
 			(int)imageRootPath.size, imageRootPath.data);
 		return 1;
 	}
@@ -978,7 +982,7 @@ int main(int argc, char** argv)
 	imageRootPath.Append(ToString("nopasanada-images"));
 	imageRootPath.Append('\0');
 	if (!server.set_base_dir(imageRootPath.data, "/images")) {
-		fprintf(stderr, "server set_base_dir failed on dir %s\n", imageRootPath.data);
+		LOG_ERROR("server set_base_dir failed on dir %s\n", imageRootPath.data);
 		return 1;
 	}
 	imageRootPath.RemoveLast();
@@ -988,7 +992,7 @@ int main(int argc, char** argv)
 	publicPath.Append(ToString("data/public"));
 	publicPath.Append('\0');
 	if (!server.set_base_dir(publicPath.data, "/")) {
-		fprintf(stderr, "server set_base_dir failed on dir %s\n", publicPath.data);
+		LOG_ERROR("server set_base_dir failed on dir %s\n", publicPath.data);
 		return 1;
 	}
 
@@ -997,7 +1001,7 @@ int main(int argc, char** argv)
 	loginsPath.Append(ToString("keys/logins.kmkv"));
 	HashTable<KmkvItem<StandardAllocator>> loginsKmkv;
 	if (!LoadKmkv(loginsPath.ToArray(), &defaultAllocator_, &loginsKmkv)) {
-		fprintf(stderr, "Failed to load logins kmkv\n");
+		LOG_ERROR("Failed to load logins kmkv\n");
 		return 1;
 	}
 	DynamicArray<DynamicArray<char>> sessions;
@@ -1051,7 +1055,7 @@ int main(int argc, char** argv)
 		Array<char> password = bodyJson.SliceFrom(indEqual + 1);
 
 		if (IsLoginValid(username, password, loginsKmkv)) {
-			printf("Successful log in: %.*s\n", (int)username.size, username.data);
+			LOG_INFO("Successful log in: %.*s\n", (int)username.size, username.data);
 			DynamicArray<char>* newSession = sessions.Append();
 			GenerateSessionId(username, password, newSession);
 			std::string newSessionStd(newSession->data, newSession->size);
@@ -1059,7 +1063,7 @@ int main(int argc, char** argv)
 			res.set_redirect("/");
 		}
 		else {
-			printf("Failed log in: %.*s\n", (int)username.size, username.data);
+			LOG_INFO("Failed log in: %.*s\n", (int)username.size, username.data);
 			res.set_redirect("/login/");
 		}
 	});
@@ -1096,7 +1100,7 @@ int main(int argc, char** argv)
 
 		EntryData entryData;
 		if (!LoadEntry(rootPath.ToArray(), uri, &entryData)) {
-			fprintf(stderr, "LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
+			LOG_ERROR("LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -1104,7 +1108,7 @@ int main(int argc, char** argv)
 
 		DynamicArray<char> entryJson;
 		if (!KmkvToJson(entryData.kmkv, &entryJson)) {
-			fprintf(stderr, "KmkvToJson failed for entry %.*s\n", (int)uri.size, uri.data);
+			LOG_ERROR("KmkvToJson failed for entry %.*s\n", (int)uri.size, uri.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -1118,7 +1122,7 @@ int main(int argc, char** argv)
 		Array<char> jsonString = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(jsonString, &defaultAllocator_, &kmkv)) {
-			fprintf(stderr, "JsonToKmkv failed for featured json string %.*s\n",
+			LOG_ERROR("JsonToKmkv failed for featured json string %.*s\n",
 				(int)jsonString.size, jsonString.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -1126,7 +1130,7 @@ int main(int argc, char** argv)
 
 		DynamicArray<char> kmkvString;
 		if (!KmkvToString(kmkv, &kmkvString)) {
-			fprintf(stderr, "KmkvToString failed for featured kmkv\n");
+			LOG_ERROR("KmkvToString failed for featured kmkv\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -1135,13 +1139,13 @@ int main(int argc, char** argv)
 		featuredKmkvPath.Append(ToString("data/featured.kmkv"));
 		const Array<uint8> kmkvData = { .size = kmkvString.size, .data = (uint8*)kmkvString.data };
 		if (!WriteFile(featuredKmkvPath.ToArray(), kmkvData, false)) {
-			fprintf(stderr, "WriteFile failed for featured kmkv string\n");
+			LOG_ERROR("WriteFile failed for featured kmkv string\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 
 		if (!LoadFeaturedJson(rootPath.ToArray(), &featuredJson)) {
-			fprintf(stderr, "Failed to reload featured JSON string\n");
+			LOG_ERROR("Failed to reload featured JSON string\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -1157,7 +1161,7 @@ int main(int argc, char** argv)
 
 		EntryData entryData;
 		if (!LoadEntry(rootPath.ToArray(), uri, &entryData)) {
-			fprintf(stderr, "LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
+			LOG_ERROR("LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -1166,7 +1170,7 @@ int main(int argc, char** argv)
 		Array<char> entryJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(entryJson, &defaultAllocator_, &kmkv)) {
-			fprintf(stderr, "JsonToKmkv failed for entry %.*s\n", (int)uri.size, uri.data);
+			LOG_ERROR("JsonToKmkv failed for entry %.*s\n", (int)uri.size, uri.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -1175,7 +1179,7 @@ int main(int argc, char** argv)
 		// for now, we're just YOLO-writing what we get.
 		DynamicArray<char> kmkvString;
 		if (!KmkvToString(kmkv, &kmkvString)) {
-			fprintf(stderr, "KmkvToString failed for entry %.*s\n", (int)uri.size, uri.data);
+			LOG_ERROR("KmkvToString failed for entry %.*s\n", (int)uri.size, uri.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -1183,14 +1187,14 @@ int main(int argc, char** argv)
 		UriToKmkvPath(rootPath.ToArray(), uri, &kmkvPath);
 		Array<uint8> newData = { .size = kmkvString.size, .data = (uint8*)kmkvString.data };
 		if (!WriteFile(kmkvPath.ToArray(), newData, false)) {
-			fprintf(stderr, "Failed to write kmkv data to file for entry %.*s\n",
+			LOG_ERROR("Failed to write kmkv data to file for entry %.*s\n",
 				(int)uri.size, uri.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 
 		if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
-			fprintf(stderr, "Failed to reload all entry metadata to JSON for entry %.*s\n",
+			LOG_ERROR("Failed to reload all entry metadata to JSON for entry %.*s\n",
 				(int)uri.size, uri.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -1203,7 +1207,7 @@ int main(int argc, char** argv)
 		Array<char> bodyJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(bodyJson, &defaultAllocator_, &kmkv)) {
-			fprintf(stderr, "JsonToKmkv failed for deleteEntry request body %.*s\n",
+			LOG_ERROR("JsonToKmkv failed for deleteEntry request body %.*s\n",
 				(int)bodyJson.size, bodyJson.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -1213,13 +1217,13 @@ int main(int argc, char** argv)
 		const auto* type = GetKmkvItemStrValue(kmkv, "contentType");
 		const auto* copyFrom = GetKmkvItemStrValue(kmkv, "copyFrom");
 		if (name == nullptr || type == nullptr) {
-			fprintf(stderr, "newEntry request missing \"uniqueName\" or \"contentType\" fields\n");
+			LOG_ERROR("newEntry request missing \"uniqueName\" or \"contentType\" fields\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 		for (uint64 i = 0; i < name->size; i++) {
 			if (!IsAlphanumeric((*name)[i]) && (*name)[i] != '-') {
-				fprintf(stderr, "newEntry name contains invalid characters: %.*s\n",
+				LOG_ERROR("newEntry name contains invalid characters: %.*s\n",
 					(int)name->size, name->data);
 				res.status = HTTP_STATUS_ERROR;
 				return;
@@ -1238,7 +1242,7 @@ int main(int argc, char** argv)
 
 		HashTable<KmkvItem<StandardAllocator>> srcKmkv;
 		if (!LoadKmkv(srcKmkvPath.ToArray(), &defaultAllocator_, &srcKmkv)) {
-			fprintf(stderr, "Failed to load source kmkv %.*s for new entry %.*s\n",
+			LOG_ERROR("Failed to load source kmkv %.*s for new entry %.*s\n",
 				(int)srcKmkvPath.size, srcKmkvPath.data, (int)name->size, name->data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -1274,7 +1278,7 @@ int main(int argc, char** argv)
 
 		DynamicArray<char> srcKmkvString;
 		if (!KmkvToString(srcKmkv, &srcKmkvString)) {
-			fprintf(stderr, "KmkvToString failed for src entry %.*s\n",
+			LOG_ERROR("KmkvToString failed for src entry %.*s\n",
 				(int)srcKmkvPath.size, srcKmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -1291,7 +1295,7 @@ int main(int argc, char** argv)
 		newKmkvPath.Append(currentDate.monthString[1]);
 		newKmkvPath.Append('/');
 		if (!CreateDirRecursive(newKmkvPath.ToArray())) {
-			fprintf(stderr, "Failed to create directory in newEntry request: %.*s\n",
+			LOG_ERROR("Failed to create directory in newEntry request: %.*s\n",
 				(int)newKmkvPath.size, newKmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -1300,15 +1304,15 @@ int main(int argc, char** argv)
 		newKmkvPath.Append(ToString(".kmkv"));
 		Array<uint8> newData = { .size = srcKmkvString.size, .data = (uint8*)srcKmkvString.data };
 		if (!WriteFile(newKmkvPath.ToArray(), newData, false)) {
-			fprintf(stderr, "Failed to write new kmkv data to file %.*s\n",
+			LOG_ERROR("Failed to write new kmkv data to file %.*s\n",
 				(int)newKmkvPath.size, newKmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		printf("Created entry %.*s\n", (int)newKmkvPath.size, newKmkvPath.data);
+		LOG_INFO("Created entry %.*s\n", (int)newKmkvPath.size, newKmkvPath.data);
 
 		if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
-			fprintf(stderr, "Failed to reload all entry metadata to JSON after new entry %.*s\n",
+			LOG_ERROR("Failed to reload all entry metadata to JSON after new entry %.*s\n",
 				(int)newKmkvPath.size, newKmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -1321,7 +1325,7 @@ int main(int argc, char** argv)
 		Array<char> bodyJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(bodyJson, &defaultAllocator_, &kmkv)) {
-			fprintf(stderr, "JsonToKmkv failed for deleteEntry request body %.*s\n",
+			LOG_ERROR("JsonToKmkv failed for deleteEntry request body %.*s\n",
 				(int)bodyJson.size, bodyJson.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -1329,21 +1333,21 @@ int main(int argc, char** argv)
 
 		const auto* uri = GetKmkvItemStrValue(kmkv, "uri");
 		if (uri == nullptr) {
-			fprintf(stderr, "No uri in deleteEntry request\n");
+			LOG_ERROR("No uri in deleteEntry request\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 		FixedArray<char, PATH_MAX_LENGTH> kmkvPath;
 		UriToKmkvPath(rootPath.ToArray(), uri->ToArray(), &kmkvPath);
 		if (!DeleteFile(kmkvPath.ToArray(), true)) {
-			fprintf(stderr, "Failed to delete entry file %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+			LOG_ERROR("Failed to delete entry file %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		printf("Deleted entry %.*s\n", (int)kmkvPath.size, kmkvPath.data);
+		LOG_INFO("Deleted entry %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 
 		if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
-			fprintf(stderr, "Failed to reload all entry metadata to JSON after deleting %.*s\n",
+			LOG_ERROR("Failed to reload all entry metadata to JSON after deleting %.*s\n",
 				(int)uri->size, uri->data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -1354,17 +1358,17 @@ int main(int argc, char** argv)
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		if (!req.has_file("imageFile")) {
-			fprintf(stderr, "newImage request missing \"imageFile\"\n");
+			LOG_ERROR("newImage request missing \"imageFile\"\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 		if (!req.has_file("npnEntryUri")) {
-			fprintf(stderr, "newImage request missing \"npnEntryUri\"\n");
+			LOG_ERROR("newImage request missing \"npnEntryUri\"\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 		if (!req.has_file("npnLabel")) {
-			fprintf(stderr, "newImage request missing \"npnLabel\"\n");
+			LOG_ERROR("newImage request missing \"npnLabel\"\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -1373,7 +1377,7 @@ int main(int argc, char** argv)
 		const auto& labelData = req.get_file_value("npnLabel");
 
 		if (fileData.content_type != "image/jpeg") {
-			fprintf(stderr, "non-jpg file in newImage request\n");
+			LOG_ERROR("non-jpg file in newImage request\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -1381,7 +1385,7 @@ int main(int argc, char** argv)
 		Array<char> label = ToString(labelData.content);
 		for (uint64 i = 0; i < label.size; i++) {
 			if (!IsAlphanumeric(label[i]) && label[i] != '-') {
-				fprintf(stderr, "Invalid npnLabel: %.*s\n", (int)label.size, label.data);
+				LOG_ERROR("Invalid npnLabel: %.*s\n", (int)label.size, label.data);
 				res.status = HTTP_STATUS_ERROR;
 				return;
 			}
@@ -1390,7 +1394,7 @@ int main(int argc, char** argv)
 		DynamicArray<Array<char>> uriSplit;
 		StringSplit(uri, '/', &uriSplit);
 		if (uriSplit.size != 4) {
-			fprintf(stderr, "Bad uri split (%d) in newImage request: %.*s\n", (int)uriSplit.size,
+			LOG_ERROR("Bad uri split (%d) in newImage request: %.*s\n", (int)uriSplit.size,
 				(int)uri.size, uri.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -1413,7 +1417,7 @@ int main(int argc, char** argv)
 		else if (StringContains(label, ToString("header-desktop"))) {
 			char number = label[label.size - 1];
 			if (number != '1' && number != '2' && number != '3' && number != '4') {
-				fprintf(stderr, "Invalid npnLabel: %.*s\n", (int)label.size, label.data);
+				LOG_ERROR("Invalid npnLabel: %.*s\n", (int)label.size, label.data);
 				res.status = HTTP_STATUS_ERROR;
 				return;
 			}
@@ -1425,7 +1429,7 @@ int main(int argc, char** argv)
 		else if (StringContains(label, ToString("header-mobile"))) {
 			char number = label[label.size - 1];
 			if (number != '1' && number != '2' && number != '3' && number != '4') {
-				fprintf(stderr, "Invalid npnLabel: %.*s\n", (int)label.size, label.data);
+				LOG_ERROR("Invalid npnLabel: %.*s\n", (int)label.size, label.data);
 				res.status = HTTP_STATUS_ERROR;
 				return;
 			}
@@ -1448,14 +1452,14 @@ int main(int argc, char** argv)
 		Array<char> imageDir = imagePath.ToArray();
 		uint64 lastSlash = imageDir.FindLast('/');
 		if (lastSlash == imageDir.size) {
-			fprintf(stderr, "bad image file path in newImage request: %.*s\n",
+			LOG_ERROR("bad image file path in newImage request: %.*s\n",
 				(int)imageDir.size, imageDir.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 		imageDir.size = lastSlash + 1;
 		if (!CreateDirRecursive(imageDir)) {
-			fprintf(stderr, "Failed to create image directory in newImage request: %.*s\n",
+			LOG_ERROR("Failed to create image directory in newImage request: %.*s\n",
 				(int)imageDir.size, imageDir.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
@@ -1466,13 +1470,13 @@ int main(int argc, char** argv)
 			.data = (uint8*)fileData.content.c_str()
 		};
 		if (!WriteFile(imagePath.ToArray(), fileContents, false)) {
-			fprintf(stderr, "Failed to write image file data in newImage request, path %.*s\n",
+			LOG_ERROR("Failed to write image file data in newImage request, path %.*s\n",
 				(int)imagePath.size, imagePath.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 
-		printf("Upload successful for %s in %.*s, uri %.*s\n", fileData.filename.c_str(),
+		LOG_INFO("Upload successful for %s in %.*s, uri %.*s\n", fileData.filename.c_str(),
 			(int)imagePath.size, imagePath.data, (int)imageUri.size, imageUri.data);
 		DynamicArray<char> responseXml;
 		responseXml.Append(ToString("<uri>"));
@@ -1494,7 +1498,7 @@ int main(int argc, char** argv)
 			command.Append(ToString(" && "));
 			command.Append(cmds[i].ToArray());
 			if (!RunCommand(command.ToArray())) {
-				fprintf(stderr, "Failed to run \"%.*s\" on commit request\n",
+				LOG_ERROR("Failed to run \"%.*s\" on commit request\n",
 					(int)command.size, command.data);
 				res.status = HTTP_STATUS_ERROR;
 				return;
@@ -1514,7 +1518,7 @@ int main(int argc, char** argv)
 		char buffer[128];
 		size_t written = strftime(buffer, 128, "%d-%m-%Y %H:%M:%S", localTime);
 		if (written == 0) {
-			fprintf(stderr, "strftime failed on commit request\n");
+			LOG_ERROR("strftime failed on commit request\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -1529,7 +1533,7 @@ int main(int argc, char** argv)
 			command.Append(ToString(" && "));
 			command.Append(cmds[i].ToArray());
 			if (!RunCommand(command.ToArray())) {
-				fprintf(stderr, "Failed to run \"%.*s\" on commit request\n",
+				LOG_ERROR("Failed to run \"%.*s\" on commit request\n",
 					(int)command.size, command.data);
 				res.status = HTTP_STATUS_ERROR;
 				return;
@@ -1550,7 +1554,7 @@ int main(int argc, char** argv)
 			command.Append(ToString(" && "));
 			command.Append(cmds[i].ToArray());
 			if (!RunCommand(command.ToArray())) {
-				fprintf(stderr, "Failed to run \"%.*s\" on commit request\n",
+				LOG_ERROR("Failed to run \"%.*s\" on commit request\n",
 					(int)command.size, command.data);
 				res.status = HTTP_STATUS_ERROR;
 				return;
@@ -1562,7 +1566,7 @@ int main(int argc, char** argv)
 	publicPath.Append(ToString("data/public-dev"));
 	publicPath.Append('\0');
 	if (!serverDev.set_base_dir(publicPath.data)) {
-		fprintf(stderr, "serverDev set_base_dir failed on dir %s\n", publicPath.data);
+		LOG_ERROR("serverDev set_base_dir failed on dir %s\n", publicPath.data);
 		return 1;
 	}
 
@@ -1593,17 +1597,14 @@ int main(int argc, char** argv)
 #undef DEBUG_ASSERT
 #undef DEBUG_PANIC
 #define DEBUG_ASSERTF(expression, format, ...) if (!(expression)) { \
-	fprintf(stderr, "Assert failed:\n"); \
-	fprintf(stderr, format, ##__VA_ARGS__); \
+	LOG_ERROR("Assertion failed (file %s, line %d, function %s):\n", __FILE__, __LINE__, __func__); \
+	LOG_ERROR(format, ##__VA_ARGS__); \
 	abort(); }
-#define DEBUG_ASSERT(expression) DEBUG_ASSERTF(expression, "%s %d %s\n", \
-	__FILE__, __LINE__, __func__)
+#define DEBUG_ASSERT(expression) DEBUG_ASSERTF(expression, "%s\n", "No message.")
 #define DEBUG_PANIC(format, ...) \
-	fprintf(stderr, "PANIC!\n"); \
-	fprintf(stderr, format, ##__VA_ARGS__); \
+	LOG_ERROR("PANIC! (file %s, line %d, function %s)\n", __FILE__, __LINE__, __func__); \
+	LOG_ERROR(format, ##__VA_ARGS__); \
 	abort();
-
-#define LOG_ERROR(format, ...) fprintf(stderr, format, ##__VA_ARGS__)
 
 #include <km_common/km_kmkv.cpp>
 #include <km_common/km_lib.cpp>
