@@ -77,8 +77,8 @@ description La historia detrás de dos peleadores de artes marciales mixtas en C
 year 2020
 author Sergio Salazar
 featured{kmkv} {
-    title El camino de un peleador
-    text1 La historia detrás de dos peleadores de artes marciales mixtas en Costa Rica
+    title El camino <br><b>de un peleador</b>
+    text1 La historia detrás de Mandarina y Lenyboy, dos peleadores de artes marciales mixtas en Costa Rica
     text2 Sergio Salazar
     pretitle Historias:
     highlightColor #ffc7f7
