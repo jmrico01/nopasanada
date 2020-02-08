@@ -111,3 +111,9 @@ ludi{kmkv} {
     displayOrder{array} 
     featured{array} /content/201912/05-pasaen
 }
+coleccion{kmkv} {
+    name Colección
+}
+other{kmkv} {
+    name Other (Internal)
+}

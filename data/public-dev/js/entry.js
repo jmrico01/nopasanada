@@ -2,16 +2,7 @@
 
 // const IMAGE_BASE_URL = "https://nopasanada.s3.amazonaws.com";
 
-const VALID_TAGS = [
-    "coleccion",
-    "noticias-loimportante", "noticias-video", "noticias-culturales", "noticias-politica",
-    "opinion",
-    "guida-comida", "guida-bebidas", "guida-viaje", "guida-recomendado",
-    "venus-derechos", "venus-inspiradoras", "venus-moda", "venus-belleza", "venus-salud",
-    "ludi-futbol", "ludi-moto",
-    "mas-ambiente", "mas-saludmental", "mas-saludyciencia", "mas-arteymusica", "mas-cine",
-    "other"
-];
+let validTags_ = null;
 
 let previewUrl_ = null;
 
@@ -177,8 +168,19 @@ function SaveEntryData()
     let tags = document.getElementsByName("tags")[0].value.split(",");
     for (let i = 0; i < tags.length; i++) {
         tags[i] = tags[i].trim();
-        if (VALID_TAGS.indexOf(tags[i]) === -1) {
-            alert("Invalid tag: " + tags[i]);
+        if (validTags_.indexOf(tags[i]) === -1) {
+            alert("Invalid tag \"" + tags[i] + "\"");
+            return;
+        }
+    }
+    for (let i = 0; i < tags.length; i++) {
+        let tagSplit = tags[i].split("-");
+        if (tagSplit.length !== 1 && tagSplit.length !== 2) {
+            alert("Invalid tag \"" + tags[i] + "\"");
+            return;
+        }
+        if (tagSplit.length === 2 && tags.indexOf(tagSplit[0]) !== -1) {
+            alert("Tag \"" + tagSplit[0] + "\" not necessary with \"" + tags[i] + "\"");
             return;
         }
     }
@@ -382,6 +384,33 @@ $(document).ready(async function() {
     $("#imageUploadProcessor").hide();
     imageRowTemplate_ = $("#imagesListRowTemplate").html();
     $("#imagesListRowTemplate").remove();
+
+    $.ajax({
+        type: "GET",
+        url: "/categories",
+        contentType: "application/json",
+        dataType: "json",
+        async: true,
+        data: "",
+        success: function(data) {
+            validTags_ = [];
+            delete data.displayOrder;
+            for (let category in data) {
+                validTags_.push(category);
+                let categoryInfo = data[category];
+                delete categoryInfo.name;
+                delete categoryInfo.featured;
+                delete categoryInfo.displayOrder;
+                for (let subcategory in categoryInfo) {
+                    validTags_.push(category + "-" + subcategory);
+                }
+            }
+            console.log(validTags_);
+        },
+        error: function(error) {
+            console.error(error);
+        }
+    });
 
     $.ajax({
         type: "GET",

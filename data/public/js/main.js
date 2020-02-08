@@ -293,6 +293,10 @@ function OnAllEntriesAndCategoriesLoaded(allEntries, categories)
     delete categories.displayOrder;
     for (let category in categories) {
         let categoryInfo = categories[category];
+        if (!("featured" in categoryInfo)) {
+            // Internal category, skip
+            continue;
+        }
         featured[category] = categoryInfo.featured;
         delete categoryInfo.name;
         delete categoryInfo.featured;
