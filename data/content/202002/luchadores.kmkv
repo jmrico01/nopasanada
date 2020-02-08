@@ -70,6 +70,7 @@ text4
 customTop 
 media{kmkv} {
     header /images/202002/headers/luchadores.jpg
+    aprendizaje /images/202002/luchadores/aprendizaje.jpg
     ring /images/202002/luchadores/ring.jpg
     winners /images/202002/luchadores/winners.jpg
 }
@@ -78,7 +79,7 @@ year 2020
 author Sergio Salazar
 featured{kmkv} {
     title El camino <b>de <br>un peleador</b>
-    text1 LA HISTORIA DETRÁS DE MANDARINA Y LENYBOY, DOS PELEADORES DE ARTES MARCIALES MIXTAS EN COSTA RICA
+    text1 La historia detrás de Mandarina y Lenyboy, dos peleadores de artes marciales mixtas en Costa Rica
     text2 Sergio Salazar
     pretitle HISTORIAS:
     highlightColor #ffc7f7
