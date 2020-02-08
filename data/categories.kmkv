@@ -26,6 +26,10 @@ mas{kmkv} {
         name Arte y música
         featured{array} /content/202001/28-billie
     }
+    historias{kmkv} {
+        name Historias
+        featured{array} /content/201912/22-navidad-laica
+    }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
 guida{kmkv} {
