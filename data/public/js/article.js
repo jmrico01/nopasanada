@@ -15,15 +15,11 @@ function OnResize()
     // Called from resize.js
 }
 
-$(document).ready(function() {
-    // TODO Duplicated in entry scripts
-    $(".headerSubcategories").css("visibility", "visible");
-    $(".headerSubcategories").hide();
-    $(".headerCategory").hover(function() {
-        $(this).find(".headerSubcategories").show();
-    }, function() {
-        $(this).find(".headerSubcategories").hide();
-    });
+function OnCategoriesLoaded(categories)
+{
+	// Called from header.js
+}
 
+$(document).ready(function() {
     $("#content").css("visibility", "visible");
 });

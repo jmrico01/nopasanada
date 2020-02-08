@@ -15,6 +15,11 @@ function OnResize()
     // Called from resize.js
 }
 
+function OnCategoriesLoaded(categories)
+{
+    // Called from header.js
+}
+
 window.onload = function() {
     if (YOUTUBE_VIDEO_ID !== null) {
         try {
@@ -48,14 +53,5 @@ window.onload = function() {
 };
 
 $(document).ready(function() {
-    // TODO Duplicated in entry scripts
-    $(".headerSubcategories").css("visibility", "visible");
-    $(".headerSubcategories").hide();
-    $(".headerCategory").hover(function() {
-        $(this).find(".headerSubcategories").show();
-    }, function() {
-        $(this).find(".headerSubcategories").hide();
-    });
-
     $("#content").css("visibility", "visible");
 });

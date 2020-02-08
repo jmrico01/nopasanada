@@ -572,26 +572,27 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 	return true;
 }
 
-bool LoadFeaturedJson(const Array<char>& rootPath, DynamicArray<char, StandardAllocator>* outJson)
+bool LoadCategoriesJson(const Array<char>& rootPath, DynamicArray<char, StandardAllocator>* outJson)
 {
-	FixedArray<char, PATH_MAX_LENGTH> featuredKmkvPath;
-	featuredKmkvPath.Clear();
-	featuredKmkvPath.Append(rootPath);
-	featuredKmkvPath.Append(ToString("data/featured.kmkv"));
-	featuredKmkvPath.Append('\0');
+	FixedArray<char, PATH_MAX_LENGTH> categoriesKmkvPath;
+	categoriesKmkvPath.Clear();
+	categoriesKmkvPath.Append(rootPath);
+	categoriesKmkvPath.Append(ToString("data/categories.kmkv"));
 
-	HashTable<KmkvItem<StandardAllocator>> featuredKmkv;
-	if (!LoadKmkv(featuredKmkvPath.ToArray(), &defaultAllocator_, &featuredKmkv)) {
-		LOG_ERROR("LoadKmkv failed for featured entries: %.*s\n",
-			(int)featuredKmkvPath.size, featuredKmkvPath.data);
+	HashTable<KmkvItem<StandardAllocator>> categoriesKmkv;
+	if (!LoadKmkv(categoriesKmkvPath.ToArray(), &defaultAllocator_, &categoriesKmkv)) {
+		LOG_ERROR("LoadKmkv failed for categories: %.*s\n",
+			(int)categoriesKmkvPath.size, categoriesKmkvPath.data);
 		return false;
 	}
-	defer(FreeKmkv(featuredKmkv));
+	defer(FreeKmkv(categoriesKmkv));
+
+	// TODO double check that displayOrder references valid categories here
 
 	outJson->Clear();
-	if (!KmkvToJson(featuredKmkv, outJson)) {
-		LOG_ERROR("KmkvToJson failed for featured entries: %.*s\n",
-			(int)featuredKmkvPath.size, featuredKmkvPath.data);
+	if (!KmkvToJson(categoriesKmkv, outJson)) {
+		LOG_ERROR("KmkvToJson failed for categories: %.*s\n",
+			(int)categoriesKmkvPath.size, categoriesKmkvPath.data);
 		return false;
 	}
 
@@ -713,9 +714,9 @@ int main(int argc, char** argv)
 	}
 	// LOG_INFO("Metadata JSON:\n%.*s\n", (int)allMetadataJson.size, allMetadataJson.data);
 
-	DynamicArray<char> featuredJson;
-	if (!LoadFeaturedJson(rootPath.ToArray(), &featuredJson)) {
-		LOG_ERROR("Failed to load featured entries to JSON\n");
+	DynamicArray<char> categoriesJson;
+	if (!LoadCategoriesJson(rootPath.ToArray(), &categoriesJson)) {
+		LOG_ERROR("Failed to load categories to JSON\n");
 		return 1;
 	}
 
@@ -741,8 +742,8 @@ int main(int argc, char** argv)
 		res.set_content(allMetadataJson.data, allMetadataJson.size, "application/json");
 	});
 
-	server.Get("/featured", [&featuredJson](const auto& req, auto& res) {
-		res.set_content(featuredJson.data, featuredJson.size, "application/json");
+	server.Get("/categories", [&categoriesJson](const auto& req, auto& res) {
+		res.set_content(categoriesJson.data, categoriesJson.size, "application/json");
 	});
 
 	server.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const auto& req, auto& res) {
@@ -1072,8 +1073,8 @@ int main(int argc, char** argv)
 		res.set_content(allMetadataJson.data, allMetadataJson.size, "application/json");
 	});
 
-	serverDev.Get("/featured", [&featuredJson](const auto& req, auto& res) {
-		res.set_content(featuredJson.data, featuredJson.size, "application/json");
+	serverDev.Get("/categories", [&categoriesJson](const auto& req, auto& res) {
+		res.set_content(categoriesJson.data, categoriesJson.size, "application/json");
 	});
 
 	serverDev.Get("/previewSite", [](const auto& req, auto& res) {
@@ -1116,36 +1117,119 @@ int main(int argc, char** argv)
 		res.set_content(entryJson.data, entryJson.size, "application/json");
 	});
 
-	serverDev.Post("/featured", [&rootPath, &featuredJson, &sessions](const auto& req, auto& res) {
+	serverDev.Post("/featured", [&rootPath, &categoriesJson, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
 
 		Array<char> jsonString = ToString(req.body);
-		HashTable<KmkvItem<StandardAllocator>> kmkv;
-		if (!JsonToKmkv(jsonString, &defaultAllocator_, &kmkv)) {
+		HashTable<KmkvItem<StandardAllocator>> newFeaturedKmkv;
+		if (!JsonToKmkv(jsonString, &defaultAllocator_, &newFeaturedKmkv)) {
 			LOG_ERROR("JsonToKmkv failed for featured json string %.*s\n",
 				(int)jsonString.size, jsonString.data);
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 
+		FixedArray<char, PATH_MAX_LENGTH> categoriesKmkvPath = rootPath;
+		categoriesKmkvPath.Append(ToString("data/categories.kmkv"));
+		HashTable<KmkvItem<StandardAllocator>> categoriesKmkv;
+		if (!LoadKmkv(categoriesKmkvPath.ToArray(), &defaultAllocator_, &categoriesKmkv)) {
+			LOG_ERROR("Failed to load categories KMKV on save\n");
+			res.status = HTTP_STATUS_ERROR;
+			return;
+		}
+		defer(FreeKmkv(categoriesKmkv));
+
+		for (uint64 i = 0; i < newFeaturedKmkv.capacity; i++) {
+			const HashKey& category = newFeaturedKmkv.pairs[i].key;
+			if (category.string.size == 0) {
+				continue;
+			}
+			const KmkvItem<StandardAllocator>& newCategoryInfoItem = newFeaturedKmkv.pairs[i].value;
+			if (newCategoryInfoItem.isString) {
+				LOG_ERROR("New featured category string type, expected object: %.*s\n",
+					(int)category.string.size, category.string.data);
+				res.status = HTTP_STATUS_ERROR;
+				return;
+			}
+			const auto& newCategoryInfo = *newCategoryInfoItem.hashTablePtr;
+			auto* categoryInfo = GetKmkvItemObjValue(categoriesKmkv, category);
+			if (categoryInfo == nullptr) {
+				LOG_ERROR("Existing categories missing category %.*s\n",
+					(int)category.string.size, category.string.data);
+				res.status = HTTP_STATUS_ERROR;
+				return;
+			}
+
+			for (uint64 j = 0; j < newCategoryInfo.capacity; j++) {
+				const HashKey& key = newCategoryInfo.pairs[j].key;
+				if (key.string.size == 0) {
+					continue;
+				}
+				const KmkvItem<StandardAllocator>& item = newCategoryInfo.pairs[j].value;
+
+				if (StringEquals(key.string.ToArray(), ToString("featured"))) {
+					auto* categoryFeatured = GetKmkvItemStrValue(*categoryInfo, "featured");
+					if (categoryFeatured == nullptr) {
+						LOG_ERROR("Existing categories missing category \"featured\": %.*s\n",
+							(int)category.string.size, category.string.data);
+						res.status = HTTP_STATUS_ERROR;
+						return;
+					}
+					categoryFeatured->Clear();
+					categoryFeatured->FromArray(item.dynamicStringPtr->ToArray());
+					continue;
+				}
+
+				if (item.isString) {
+					LOG_ERROR("New featured subcategory string type, expected object: %.*s\n",
+						(int)key.string.size, key.string.data);
+					res.status = HTTP_STATUS_ERROR;
+					return;
+				}
+				const auto* newFeatured = GetKmkvItemStrValue(*item.hashTablePtr, "featured");
+				if (newFeatured == nullptr) {
+					LOG_ERROR("New featured subcategory has no \"featured\": %.*s\n",
+						(int)key.string.size, key.string.data);
+					res.status = HTTP_STATUS_ERROR;
+					return;
+				}
+				auto* subcategoryInfo = GetKmkvItemObjValue(*categoryInfo, key);
+				if (subcategoryInfo == nullptr) {
+					LOG_ERROR("Existing categories missing subcategory %.*s of %.*s\n",
+						(int)key.string.size, key.string.data,
+						(int)category.string.size, category.string.data);
+					res.status = HTTP_STATUS_ERROR;
+					return;
+				}
+				auto* subcategoryFeatured = GetKmkvItemStrValue(*subcategoryInfo, "featured");
+				if (subcategoryFeatured == nullptr) {
+					LOG_ERROR("Existing categories missing subcategory \"featured\" %.*s of %.*s\n",
+						(int)key.string.size, key.string.data,
+						(int)category.string.size, category.string.data);
+					res.status = HTTP_STATUS_ERROR;
+					return;
+				}
+				subcategoryFeatured->Clear();
+				subcategoryFeatured->FromArray(newFeatured->ToArray());
+			}
+		}
+
 		DynamicArray<char> kmkvString;
-		if (!KmkvToString(kmkv, &kmkvString)) {
-			LOG_ERROR("KmkvToString failed for featured kmkv\n");
+		if (!KmkvToString(categoriesKmkv, &kmkvString)) {
+			LOG_ERROR("KmkvToString failed for categories kmkv\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 
-		FixedArray<char, PATH_MAX_LENGTH> featuredKmkvPath = rootPath;
-		featuredKmkvPath.Append(ToString("data/featured.kmkv"));
 		const Array<uint8> kmkvData = { .size = kmkvString.size, .data = (uint8*)kmkvString.data };
-		if (!WriteFile(featuredKmkvPath.ToArray(), kmkvData, false)) {
-			LOG_ERROR("WriteFile failed for featured kmkv string\n");
+		if (!WriteFile(categoriesKmkvPath.ToArray(), kmkvData, false)) {
+			LOG_ERROR("WriteFile failed for categories kmkv string\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 
-		if (!LoadFeaturedJson(rootPath.ToArray(), &featuredJson)) {
-			LOG_ERROR("Failed to reload featured JSON string\n");
+		if (!LoadCategoriesJson(rootPath.ToArray(), &categoriesJson)) {
+			LOG_ERROR("Failed to reload categories JSON string\n");
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}

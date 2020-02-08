@@ -1,8 +1,8 @@
 "use strict";
 
 // All pages that include this script must have the following functions defined:
-//     function OnAspectChanged(isNarrow) {}
-//     function OnResize() {}
+//     function OnAspectChanged(isNarrow) { ... }
+//     function OnResize() { ... }
 
 let cssNarrow_ = null;
 let cssTextNarrow_ = null;

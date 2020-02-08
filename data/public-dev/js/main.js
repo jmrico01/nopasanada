@@ -53,20 +53,35 @@ function FormatTableFieldValue(tableField, entry)
     return entryValue;
 }
 
-function UpdateFeaturedTable(featured)
+function UpdateFeaturedTable(categories)
 {
-    let featuredTableHtml = "<form id=\"featuredForm\"><table><tr><th>Tag</th><th>ID / URL</th></tr>";
-    let categories = [];
-    for (let category in featured) {
-        categories.push(category);
+    // Retrofit new categories object to old "featured" object
+    let featured = {};
+    delete categories.displayOrder;
+    for (let category in categories) {
+        let categoryInfo = categories[category];
+        featured[category] = categoryInfo.featured;
+        delete categoryInfo.name;
+        delete categoryInfo.featured;
+        delete categoryInfo.displayOrder;
+        for (let subcategory in categoryInfo) {
+            let subcategoryInfo = categoryInfo[subcategory];
+            featured[category + "-" + subcategory] = subcategoryInfo.featured;
+        }
     }
-    categories.sort();
-    for (let i = 0; i < categories.length; i++) {
-        let uriHtml = "<select name=\"" + categories[i] + "\">";
+
+    let featuredTableHtml = "<form id=\"featuredForm\"><table><tr><th>Tag</th><th>ID / URL</th></tr>";
+    let categoriesArray = [];
+    for (let category in featured) {
+        categoriesArray.push(category);
+    }
+    categoriesArray.sort();
+    for (let i = 0; i < categoriesArray.length; i++) {
+        let uriHtml = "<select name=\"" + categoriesArray[i] + "\">";
         for (let i = 0; i < entryData_.length; i++) {
             uriHtml += "<option value=\"" + entryData_[i].uri + "\">" + entryData_[i].uri + "</option>";
         }
-        featuredTableHtml += "<tr><td>" + categories[i] + "</td><td>" + uriHtml + "</td></tr>\n";
+        featuredTableHtml += "<tr><td>" + categoriesArray[i] + "</td><td>" + uriHtml + "</td></tr>\n";
     }
     featuredTableHtml += "</table></form>";
     $("#featuredEntryTable").html(featuredTableHtml);
@@ -84,8 +99,22 @@ function UpdateFeaturedTable(featured)
             let newFeatured = {};
             $("#featuredForm select").each(function() {
                 let $this = $(this);
-                newFeatured[$this.attr("name")] = [ $this.val() ];
+                let category = $this.attr("name").split("-");
+                let uri = $this.val();
+                if (category.length !== 1 && category.length !== 2) {
+                    throw new Error("Invalid category in list: " + category);
+                }
+                if (!(category[0] in newFeatured)) {
+                    newFeatured[category[0]] = {};
+                }
+                if (category.length === 1) {
+                    newFeatured[category[0]].featured = uri;
+                }
+                else if (category.length === 2) {
+                    newFeatured[category[0]][category[1]] = { featured: uri };
+                }
             });
+            console.log(newFeatured);
 
             $.ajax({
                 type: "POST",
@@ -145,7 +174,7 @@ $(document).ready(function() {
 
         $("#entryTable").html(tableHtml);
 
-        $.get("/featured", function(data) {
+        $.get("/categories", function(data) {
             UpdateFeaturedTable(data);
             featuredRefreshInProgress_ = false;
         });

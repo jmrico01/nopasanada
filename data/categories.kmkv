@@ -1,0 +1,113 @@
+opinion{kmkv} {
+    name Opinión
+    featured{array} /content/202002/joaquin-phoenix-opinion
+}
+mas{kmkv} {
+    name Más
+    displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
+    featured{array} /content/202001/24-xenobots
+    cine{kmkv} {
+        name Cine
+        featured{array} /content/202001/21-parasite
+}
+    saludyciencia{kmkv} {
+        name Salud y ciencia
+        featured{array} /content/202001/20-supernova-betelgeuse
+}
+    ambiente{kmkv} {
+        name Medio ambiente
+        featured{array} /content/202001/15-camaras-trampa
+}
+    saludmental{kmkv} {
+        name Salud mental
+        featured{array} /content/202001/03-trastorno-obsesivo-compulsivo
+}
+    arteymusica{kmkv} {
+        name Arte y música
+        featured{array} /content/202001/28-billie
+}
+}
+displayOrder{array} noticias, opinion, guida, venus, ludi, mas
+guida{kmkv} {
+    name Guida
+    comida{kmkv} {
+        name Comida
+        featured{array} /content/202002/mandamientos-sushi
+}
+    displayOrder{array} comida, bebidas, recomendado
+    featured{array} /content/202002/shakira-antes-de
+    bebidas{kmkv} {
+        name Bebidas
+        featured{array} /content/201912/lo-mejor-2019
+}
+    viaje{kmkv} {
+        name Viaje
+        featured{array} /content/201912/13-desayunos
+}
+    recomendado{kmkv} {
+        name Recomendado
+        featured{array} /content/202001/08-herencia-cultural-de-iran
+}
+}
+noticias{kmkv} {
+    name Noticias
+    politica{kmkv} {
+        name Política
+        featured{array} /content/201912/13-beatles-y-satanismo
+}
+    loimportante{kmkv} {
+        name Lo Importante
+        featured{array} /content/202002/05-lo-importante
+}
+    displayOrder{array} loimportante, video, culturales, politica
+    featured{array} /content/202002/05-lo-importante
+    culturales{kmkv} {
+        name Culturales
+        featured{array} /content/202001/28-billie
+}
+    video{kmkv} {
+        name Video
+        featured{array} /content/201912/17-solo-lo-importante-video
+}
+}
+home{kmkv} {
+    featured{array} /content/202002/mandamientos-sushi
+}
+venus{kmkv} {
+    name Venus
+    moda{kmkv} {
+        name Moda
+        featured{array} /content/202001/23-gaultier
+}
+    salud{kmkv} {
+        name Salud de la mujer
+        featured{array} /content/201910/16-salud-mental-no-es-moda
+}
+    displayOrder{array} derechos, inspiradoras, moda, salud
+    featured{array} /content/202001/28-billie
+    derechos{kmkv} {
+        name Derechos de las mujeres
+        featured{array} /content/201911/29-gender-bias
+}
+    inspiradoras{kmkv} {
+        name Mujeres inspiradoras
+        featured{array} /content/202002/shakira-antes-de
+}
+    belleza{kmkv} {
+        name Belleza
+        featured{array} /content/201909/11-maquillaje-es-identidad
+}
+}
+ludi{kmkv} {
+    name Ludi
+    moto{kmkv} {
+        name Moto
+        featured{array} /content/201908/pilotos-trailer
+}
+    futbol{kmkv} {
+        name Fútbol
+        featured{array} /content/201912/05-pasaen
+}
+    displayOrder{array} 
+    featured{array} /content/201912/05-pasaen
+}

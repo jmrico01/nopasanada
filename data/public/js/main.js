@@ -11,6 +11,8 @@ const TAG_COLLECTION   = "coleccion";
 const TAG_OTHER        = "other";
 const ENTRY_TYPE_VIDEO = "video";
 
+let categories_ = null;
+
 let allEntries_ = null;
 let featuredEntries_ = null;
 let collectionEntries_ = null;
@@ -284,8 +286,23 @@ function LoadAllFeaturedImageSets()
     }
 }
 
-function OnFeaturedEntriesLoaded(featured)
+function OnAllEntriesAndCategoriesLoaded(allEntries, categories)
 {
+    // Retrofit new categories object to old "featured" object
+    let featured = {};
+    delete categories.displayOrder;
+    for (let category in categories) {
+        let categoryInfo = categories[category];
+        featured[category] = categoryInfo.featured;
+        delete categoryInfo.name;
+        delete categoryInfo.featured;
+        delete categoryInfo.displayOrder;
+        for (let subcategory in categoryInfo) {
+            let subcategoryInfo = categoryInfo[subcategory];
+            featured[category + "-" + subcategory] = subcategoryInfo.featured;
+        }
+    }
+
     // Fill global featured entries
     featuredEntries_ = {};
     for (let category in featured) {
@@ -404,25 +421,15 @@ function ResetEntries(entries)
     }
 }
 
-function OnAllEntriesLoaded(entries)
-{
-    allEntries_ = entries;
-    ResetEntries(entries);
-
-    $("#collectionArrowLeftButton").on("click", function() {
-        MoveCollectionEntries(collectionEntries_, -1);
-    })
-    $("#collectionArrowRightButton").on("click", function() {
-        MoveCollectionEntries(collectionEntries_, 1);
-    })
-}
-
 function OnHashChanged()
 {
     let category = GetCurrentCategory();
     if (category !== prevCategory_) {
         prevCategory_ = category;
 
+        if (!(category in featuredEntries_)) {
+            console.error("featuredEntries_ missing category " + category);
+        }
         SetFeaturedInfo(featuredEntries_[category][0]);
         let imageSet = featuredImages_[category][0];
         if (IsFeaturedImageSetLoaded(imageSet)) {
@@ -440,6 +447,17 @@ function OnHashChanged()
 
 window.onhashchange = OnHashChanged;
 
+function OnCategoriesLoaded(categories)
+{
+    categories_ = categories;
+    if (allEntries_ !== null) {
+        OnAllEntriesAndCategoriesLoaded(allEntries_, categories_);
+    }
+
+    // Header is loaded here, so set its opacity
+    HandleScroll();
+}
+
 $(document).ready(function() {
     collectionTemplate_ = $("#collectionTemplate").html();
     $("#collectionTemplate").remove();
@@ -449,18 +467,6 @@ $(document).ready(function() {
     $("#recentVideoTemplate").remove();
     $("#collectionArrowLeftButton").hide();
 
-    // TODO Duplicated in entry scripts
-    $(".headerSubcategories").css("visibility", "visible");
-    $(".headerSubcategories").hide();
-    $(".headerCategory").hover(function() {
-        $(this).find(".headerSubcategories").show();
-    }, function() {
-        $(this).find(".headerSubcategories").hide();
-    });
-
-    let entriesLoaded = false;
-    let featured = null;
-
     $.ajax({
         type: "GET",
         url: "/entries",
@@ -469,29 +475,19 @@ $(document).ready(function() {
         async: true,
         data: "",
         success: function(data) {
-            OnAllEntriesLoaded(data);
-            if (featured !== null) {
-                OnFeaturedEntriesLoaded(featured);
-            }
-            entriesLoaded = true;
-        },
-        error: function(error) {
-            console.error(error);
-        }
-    });
+            allEntries_ = data;
+            ResetEntries(data);
 
-    $.ajax({
-        type: "GET",
-        url: "/featured",
-        contentType: "application/json",
-        dataType: "json",
-        async: true,
-        data: "",
-        success: function(data) {
-            if (entriesLoaded) {
-                OnFeaturedEntriesLoaded(data);
+            $("#collectionArrowLeftButton").on("click", function() {
+                MoveCollectionEntries(collectionEntries_, -1);
+            });
+            $("#collectionArrowRightButton").on("click", function() {
+                MoveCollectionEntries(collectionEntries_, 1);
+            });
+
+            if (categories_ !== null) {
+                OnAllEntriesAndCategoriesLoaded(allEntries_, categories_);
             }
-            featured = data;
         },
         error: function(error) {
             console.error(error);
@@ -499,7 +495,6 @@ $(document).ready(function() {
     });
 
     OnResize();
-    HandleScroll();
 
     $("#content").css("visibility", "visible");
 });

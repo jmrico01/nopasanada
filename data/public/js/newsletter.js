@@ -19,6 +19,11 @@ function OnResize()
     // Called from resize.js
 }
 
+function OnCategoriesLoaded(categories)
+{
+    // Called from header.js
+}
+
 function OnHashChanged()
 {
     $(".articleSubcontainer").hide();
@@ -56,15 +61,6 @@ function OnHashChanged()
 window.onhashchange = OnHashChanged;
 
 $(document).ready(function() {
-    // TODO Duplicated in entry scripts
-    $(".headerSubcategories").css("visibility", "visible");
-    $(".headerSubcategories").hide();
-    $(".headerCategory").hover(function() {
-        $(this).find(".headerSubcategories").show();
-    }, function() {
-        $(this).find(".headerSubcategories").hide();
-    });
-
     if ($(".articleAudio").attr("src") === "") {
         $(".articleAudio").remove();
     }
