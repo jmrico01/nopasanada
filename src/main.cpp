@@ -101,6 +101,9 @@ struct EntryData
 	DynamicArray<char> videoID;
 
 	NewsletterData newsletterData;
+
+	EntryData() {}
+	~EntryData() {}
 };
 
 EntryDate GetCurrentDate()
@@ -447,7 +450,7 @@ internal bool SearchReplaceAndAppend(const Array<char>& string, const HashTable<
 
 void AllocAndSetString(KmkvItem<StandardAllocator>* item, const Array<char>& string)
 {
-	item->isString = true;
+	item->type = KmkvItemType::STRING;
 	item->dynamicStringPtr = defaultAllocator_.template New<DynamicArray<char, StandardAllocator>>();
 	new (item->dynamicStringPtr) DynamicArray<char, StandardAllocator>(string);
 }
@@ -503,7 +506,7 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 			LOG_ERROR("LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
 			return false;
 		}
-		defer(FreeKmkv(entryData.kmkv));
+		// FreeKmkv(&entryData.kmkv); // Don't need this
 
 		HashTable<KmkvItem<StandardAllocator>>& metadataKmkv = *metadataKmkvs.Append();
 		AllocAndSetString(metadataKmkv.Add("uri"), uri);
@@ -534,7 +537,7 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		AllocAndSetString(metadataKmkv.Add("image"), entryData.header.ToArray());
 
 		auto* featured = metadataKmkv.Add("featuredInfo");
-		featured->isString = false;
+		featured->type = KmkvItemType::KMKV;
 		featured->hashTablePtr = defaultAllocator_.template New<HashTable<KmkvItem<StandardAllocator>>>();
 		new (featured->hashTablePtr) HashTable<KmkvItem<StandardAllocator>>();
 		auto& featuredKmkv = *featured->hashTablePtr;
@@ -567,6 +570,10 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		outJson->Append(',');
 	}
 
+	// for (uint64 i = 0; i < metadataKmkvs.size; i++) {
+	// 	FreeKmkv(&metadataKmkvs[i]);
+	// }
+
 	outJson->RemoveLast();
 	outJson->Append(']');
 	return true;
@@ -585,7 +592,7 @@ bool LoadCategoriesJson(const Array<char>& rootPath, DynamicArray<char, Standard
 			(int)categoriesKmkvPath.size, categoriesKmkvPath.data);
 		return false;
 	}
-	defer(FreeKmkv(categoriesKmkv));
+	// defer(FreeKmkv(&categoriesKmkv));
 
 	// TODO double check that displayOrder references valid categories here
 
@@ -758,7 +765,7 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		defer(FreeKmkv(entryData.kmkv));
+		// defer(FreeKmkv(&entryData.kmkv));
 
 		FixedArray<char, PATH_MAX_LENGTH> templatePath = rootPath;
 		templatePath.Append(ToString("data/templates/"));
@@ -1105,7 +1112,7 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		defer(FreeKmkv(entryData.kmkv));
+		// defer(FreeKmkv(&entryData.kmkv));
 
 		DynamicArray<char> entryJson;
 		if (!KmkvToJson(entryData.kmkv, &entryJson)) {
@@ -1137,7 +1144,7 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		defer(FreeKmkv(categoriesKmkv));
+		// defer(FreeKmkv(&categoriesKmkv));
 
 		for (uint64 i = 0; i < newFeaturedKmkv.capacity; i++) {
 			const HashKey& category = newFeaturedKmkv.pairs[i].key;
@@ -1145,7 +1152,7 @@ int main(int argc, char** argv)
 				continue;
 			}
 			const KmkvItem<StandardAllocator>& newCategoryInfoItem = newFeaturedKmkv.pairs[i].value;
-			if (newCategoryInfoItem.isString) {
+			if (newCategoryInfoItem.type == KmkvItemType::STRING) {
 				LOG_ERROR("New featured category string type, expected object: %.*s\n",
 					(int)category.string.size, category.string.data);
 				res.status = HTTP_STATUS_ERROR;
@@ -1180,8 +1187,8 @@ int main(int argc, char** argv)
 					continue;
 				}
 
-				if (item.isString) {
-					LOG_ERROR("New featured subcategory string type, expected object: %.*s\n",
+				if (item.type != KmkvItemType::KMKV) {
+					LOG_ERROR("New featured subcategory incorrect type, expected object: %.*s\n",
 						(int)key.string.size, key.string.data);
 					res.status = HTTP_STATUS_ERROR;
 					return;
@@ -1249,7 +1256,7 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		defer(FreeKmkv(entryData.kmkv));
+		// defer(FreeKmkv(&entryData.kmkv));
 
 		Array<char> entryJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;

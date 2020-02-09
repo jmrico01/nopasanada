@@ -54,8 +54,8 @@ function SetFeaturedInfo(entry)
     $("#featuredPretitle").html(entry.pretitle);
     $("#featuredTitle a").html(entry.title);
     $("#featuredTitle a").attr("href", entry.uri);
-    $("#featuredText1").html(entry.text1);
-    $("#featuredText2").html(entry.text2);
+    $("#featuredText1").html(entry.text1.toUpperCase());
+    $("#featuredText2").html(entry.text2.toUpperCase());
     $("#header a").unbind("mouseover mouseout");
     $("#header a").mouseover(function() {
         $(this).css("color", entry.highlightColor)
