@@ -506,7 +506,6 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 			LOG_ERROR("LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
 			return false;
 		}
-		// FreeKmkv(&entryData.kmkv); // Don't need this
 
 		HashTable<KmkvItem<StandardAllocator>>& metadataKmkv = *metadataKmkvs.Append();
 		AllocAndSetString(metadataKmkv.Add("uri"), uri);
@@ -570,10 +569,6 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		outJson->Append(',');
 	}
 
-	// for (uint64 i = 0; i < metadataKmkvs.size; i++) {
-	// 	FreeKmkv(&metadataKmkvs[i]);
-	// }
-
 	outJson->RemoveLast();
 	outJson->Append(']');
 	return true;
@@ -592,7 +587,6 @@ bool LoadCategoriesJson(const Array<char>& rootPath, DynamicArray<char, Standard
 			(int)categoriesKmkvPath.size, categoriesKmkvPath.data);
 		return false;
 	}
-	// defer(FreeKmkv(&categoriesKmkv));
 
 	// TODO double check that displayOrder references valid categories here
 
@@ -765,7 +759,6 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		// defer(FreeKmkv(&entryData.kmkv));
 
 		FixedArray<char, PATH_MAX_LENGTH> templatePath = rootPath;
 		templatePath.Append(ToString("data/templates/"));
@@ -1112,7 +1105,6 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		// defer(FreeKmkv(&entryData.kmkv));
 
 		DynamicArray<char> entryJson;
 		if (!KmkvToJson(entryData.kmkv, &entryJson)) {
@@ -1144,7 +1136,6 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		// defer(FreeKmkv(&categoriesKmkv));
 
 		for (uint64 i = 0; i < newFeaturedKmkv.capacity; i++) {
 			const HashKey& category = newFeaturedKmkv.pairs[i].key;
@@ -1256,7 +1247,6 @@ int main(int argc, char** argv)
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
-		// defer(FreeKmkv(&entryData.kmkv));
 
 		Array<char> entryJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
