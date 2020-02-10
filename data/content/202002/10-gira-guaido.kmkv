@@ -27,10 +27,10 @@ description "Él es la nada y la nada no puede generar otra cosa que no sea la n
 year 2020
 author AFP y NPN NOTICIAS
 featured{kmkv} {
-    title Chavistas: "Gira de Guaidó <br><b>no tendrá ningún efecto."
-    text1 Diosdado Cabello sobre Guaidó: "Él es la nada y la nada no puede generar otra cosa que no sea la nada"
+    title Chavistas: "Gira de Guaidó no tendrá efecto."
+    text1  "Él es la nada y la nada no puede generar otra cosa que no sea la nada"
     text2 Por NPN Noticias
-    pretitle Venezuela: 
+    pretitle Venezuela:
     highlightColor #ffc7f7
 }
 type article
