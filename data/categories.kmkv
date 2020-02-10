@@ -5,10 +5,10 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202002/luchadores
+    featured{array} /content/202002/mensajes-oscars
     cine{kmkv} {
         name Cine
-        featured{array} /content/202001/21-parasite
+        featured{array} /content/202002/mensajes-oscars
     }
     historias{kmkv} {
         name Historias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202002/10-lo-importante
+    featured{array} /content/202002/mensajes-oscars
 }
 other{kmkv} {
     name Other (Internal)
