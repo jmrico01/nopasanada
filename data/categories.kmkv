@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202002/mensajes-espaciales
+    featured{array} /content/202002/marie-curie
 }
 other{kmkv} {
     name Other (Internal)
@@ -101,7 +101,7 @@ venus{kmkv} {
     }
     inspiradoras{kmkv} {
         name Mujeres inspiradoras
-        featured{array} /content/202002/shakira-antes-de
+        featured{array} /content/202002/marie-curie
     }
     belleza{kmkv} {
         name Belleza
