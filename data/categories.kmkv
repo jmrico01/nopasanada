@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202001/20-supernova-betelgeuse
+        featured{array} /content/202002/mensajes-espaciales
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202002/11-lo-importante
+    featured{array} /content/202002/mensajes-espaciales
 }
 other{kmkv} {
     name Other (Internal)
