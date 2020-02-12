@@ -1,6 +1,6 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202002/joaquin-phoenix-opinion
+    featured{array} /content/202002/musica-urbana-grammy
 }
 mas{kmkv} {
     name Más
@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202001/28-billie
+        featured{array} /content/202002/musica-urbana-grammy
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202002/12-lo-importante
+    featured{array} /content/202002/musica-urbana-grammy
 }
 other{kmkv} {
     name Other (Internal)
