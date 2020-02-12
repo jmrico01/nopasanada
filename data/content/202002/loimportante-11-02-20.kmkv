@@ -1,0 +1,28 @@
+text <p>Vea el segundo episodio de lo Importante de No Pasa Nada donde Guiri y Stella nos explican que esta pasando con la nueva vacunad el Coronavirus, la problematica en Syria, las elecciones americanas y el robo de datos en Equifax.&nbsp;</p>
+title ¿Nueva vacuna contra el Coronavirus? Bernie Sanders favorito en Estados Unidos y más...
+day 11
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202002/headers/10-lo-importante-con-guiri.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Vea el segundo episodio de lo Importante de No Pasa Nada donde Guiri y Stella nos explican que esta pasando con la nueva vacunad el Coronavirus, la problematica en Syria, las elecciones americanas y el robo de datos en Equifax.
+year 2020
+featured{kmkv} {
+    title LO <b>IMPORTANTE<b>
+    text1 ¿Nueva vacuna contra el Coronavirus? Bernie Sanders favorito en Estados Unidos y más...
+    text2 NO PASA NADA NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #00ffff
+}
+type video
+subtitle Coronavirus, Bernie Sanders, Equifax, Syria y más...
+month 02
+tags{array} noticias-loimportante,noticias-video
+videoID lJN4HPcl6cA$
+titlePoster Lo Importante 10.02.20
+color #00ffff
