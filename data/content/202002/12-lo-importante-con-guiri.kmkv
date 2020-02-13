@@ -1,0 +1,37 @@
+text {
+<p>En Lo Importante de hoy Guiri y Stella nos informan de c&oacute;mo Bernie Sanders sigue ganando campo y logra victoria en el contencioso espacio de New Hamapshire. Juan Guaid&oacute; logra volver a Venezuela luego de su gira, el papa realiza un prounciamiento sobre el celibato de los padres cat&oacute;licos y conocemos m&aacute;s sobre el Corona vius.</p>
+<hr />
+<p><strong>Host:</strong> Guiri Uribe &amp; Stella</p>
+<p><strong>Producido por:</strong> Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p><strong>Gui&oacute;n:</strong> Luisa Mora Fernandez</p>
+<p><strong>Graficos &amp; Direcci&oacute;n Creativa:</strong> Lauren Gilleland</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title PREMIRE: LO IMPORTANTE con Guiri Uribe
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202002/headers/12-lo-importante-con-guiri.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En Lo Importante de hoy Guiri y Stella nos informan de cómo #BernieSanders sigue ganando campo y logra victoria en el contencioso espacio de New Hamapshire. #JuanGuaidó logra volver a #Venezuela luego de su gira, el papa realiza un prounciamiento sobre el celibato de los padres católicos y conocemos más sobre el #Coronavius.
+year 2020
+featured{kmkv} {
+    title LO <b>IMPORTANTE<b>
+    text1 EN LO IMPORTANTE DE HOY GUIRI Y STELLA NOS INFORMAN DE CÓMO BERNIE SANDERS SIGUE GANANDO CAMPO Y LOGRA VICTORIA EN EL CONTENCIOSO ESPACIO DE NEW HAMAPSHIRE. 
+    text2 NO PASA NADA NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #00ffff
+}
+type video
+subtitle Sanders gana en New Hampshire, Guaidó vuelve a Venezuela y el papa habla sobre el celibato
+month 02
+tags{array} noticias-loimportante,noticias-video
+videoID xo0Fg_b5a60
+titlePoster Lo Importante 12.02.20
+color #00ffff
