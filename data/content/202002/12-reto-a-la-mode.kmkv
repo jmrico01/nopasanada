@@ -11,7 +11,7 @@ text {
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 }
-title Reto Á La Mode
+title Reto Á La Mode | Feat. Pietro Cercone
 day 12
 text1 
 text2 
@@ -26,13 +26,13 @@ description En este episodio de Reto A La Mode, Paulina Joaristi dejó que la vi
 year 2020
 featured{kmkv} {
     title <b>CORTEFIEL<b><br>CON PIETRO
-    text1 EN ESTE EPISODIO DE RETO A LA MODE, PAULINA JOARISTI DEJÓ QUE LA VISTIERA PIETRO CERCONE ( JEFE DE NO PASA NADA ) PARA UNA FIESTA DE LA OFICINA... 
+    text1 EN ESTE EPISODIO DE RETO A LA MODE, PAULINA JOARISTI DEJÓ QUE LA VISTIERA PIETRO CERCONE ( JEFE DE NO PASA NADA ) PARA UNA FIESTA DE LA OFICINA...
     text2 ¿QUÉ PUEDE PASAR?
     pretitle RETO Á LA MODE:
     highlightColor #00ffff
 }
 type video
-subtitle Con Paulina Joaristi | Feat. Pietro Cercone
+subtitle Hosted por Paulina Joaristi 
 month 02
 tags{array} venus-moda
 videoID 3wgbazrT0YQ
