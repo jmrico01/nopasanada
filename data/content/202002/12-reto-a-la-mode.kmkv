@@ -1,0 +1,40 @@
+text {
+<p>En este episodio de Reto A La Mode, Paulina Joaristi dej&oacute; que la vistiera Pietro Cercone ( jefe de no pasa nada ) para una fiesta de la oficina... &iquest;Qu&eacute; puede pasar?</p>
+<hr />
+<p><strong>Host:</strong> Paulina Joaristi</p>
+<p><strong>Producido por:</strong> Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p><strong>Dirigido por:</strong> Eduardo Uribe</p>
+<p><strong>Sonidista:</strong> Sebastian Uribe</p>
+<p><strong>Gui&oacute;n:</strong> Luisa Mora Fernandez</p>
+<p><strong>Edici&oacute;n:</strong> Alejandro Mederas</p>
+<p><strong>Graficos &amp; Direcci&oacute;n Creativa:</strong> Lauren Gilleland</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title Reto Á La Mode
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202002/headers/12-reto-a-la-mode.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En este episodio de Reto A La Mode, Paulina Joaristi dejó que la vistiera Pietro Cercone ( jefe de no pasa nada ) para una fiesta de la oficina... ¿Qué puede pasar?
+year 2020
+featured{kmkv} {
+    title <b>CORTEFIEL<b><br>CON PIETRO
+    text1 EN ESTE EPISODIO DE RETO A LA MODE, PAULINA JOARISTI DEJÓ QUE LA VISTIERA PIETRO CERCONE ( JEFE DE NO PASA NADA ) PARA UNA FIESTA DE LA OFICINA... 
+    text2 ¿QUÉ PUEDE PASAR?
+    pretitle RETO Á LA MODE:
+    highlightColor #00ffff
+}
+type video
+subtitle Con Paulina Joaristi | Feat. Pietro Cercone
+month 02
+tags{array} venus-moda
+videoID 3wgbazrT0YQ
+titlePoster Reto Á La Mode | Feat. Pietro Cercone
+color #00ffff
