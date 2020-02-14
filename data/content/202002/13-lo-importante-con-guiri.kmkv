@@ -1,0 +1,40 @@
+text {
+<p>En Lo Importante de hoy Guiri y Stella nos explican c&oacute;mo esta afectando el Coronavirus el precio del petroleo, una legislaci&oacute;n que busca acabar con los ni&ntilde;os trans, las inundaciones en Australia y la operaci&oacute;n cerebral de Joaquin Sabina.&nbsp;</p>
+<hr />
+<p><strong>Host:</strong> Guiri Uribe &amp; Stella</p>
+<p><strong>Producido por:</strong> Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p><strong>Gui&oacute;n:</strong> Luisa Mora Fernandez</p>
+<p><strong>Graficos &amp; Direcci&oacute;n Creativa:</strong> Lauren Gilleland</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title Lo Importante con Guiri Uribe 13.02.20
+day 13
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202002/headers/13-lo-importante-con-guiri.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description {
+En Lo Importante de hoy Guiri y Stella nos explican cómo esta afectando el Coronavirus el precio del petroleo, una legislación que busca acabar con los niños trans, las inundaciones en Australia y la operación cerebral de Joaquin Sabina. 
+
+}
+year 2020
+featured{kmkv} {
+    title LO <b>IMPORTANTE<b>
+    text1 ¿POR QUÉ LA GENTE ESTÁ MOLESTA POR LOS NIÑOS TRANS? DE INCENDIOS A INUNDACIONES EN AUSTRALIA Y MÁS…
+    text2 NO PASA NADA NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #00ffff
+}
+type video
+subtitle ¿Por qué la gente está molesta por los niños trans? De incendios a inundaciones en Australia y más..
+month 02
+tags{array} noticias-loimportante,noticias-video
+videoID UUMz6FyLVsY
+titlePoster Lo Importante 13.02.20
+color #00ffff
