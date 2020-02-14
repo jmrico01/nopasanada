@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202002/nueve-romcom
+    featured{array} /content/202002/14-mejormenu-fogo
 }
 other{kmkv} {
     name Other (Internal)
