@@ -39,16 +39,13 @@ year 2020
 author AFP y NPN Noticias
 featured{kmkv} {
     title <b>Calor en la Antártida</b>
-    text1 Hacen más de 20 grados en la Antártia
+    text1 ¡Hacen más de 20 grados en la Antártida!
     text2 Por AFP y NPN Noticias
-    pretitle Medio Ambiente:
+    pretitle MEDIO AMBIENTE: 
     highlightColor #ffc7f7
 }
 type article
-subtitle {
-"Nunca hemos visto una temperatura tan alta en la Antártida", declaró el jueves a la AFP el investigador brasileño Carlos Schaefer haciendo público este registro.
-
-}
+subtitle "Nunca hemos visto una temperatura tan alta en la Antártida", declaró el jueves el investigador brasileño Carlos Schaefer.
 month 02
 tags{array} mas-ambiente
 videoID 
