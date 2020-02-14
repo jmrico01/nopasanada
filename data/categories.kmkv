@@ -64,14 +64,14 @@ noticias{kmkv} {
         featured{array} /content/202002/14-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202002/antartida-calor
+    featured{array} /content/202002/14-lo-importante-con-guiri
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202001/28-billie
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202002/13-lo-importante-con-guiri
+        featured{array} /content/202002/14-lo-importante-con-guiri
     }
 }
 coleccion{kmkv} {
