@@ -76,16 +76,16 @@ media{kmkv} {
 }
 description 
 year 2020
-author NPN Cultura
+author Sergio Salazar y NPN
 featured{kmkv} {
-    title Películas de Amor
+    title <b>Películas de Amor</b>
     text1 Cómicas, reflexivas, artsy, melosas; hay algo para todos los gustos en esta lista.
-    text2 POR NPN CULTURA
+    text2 POR SERGIO SALAZAR Y NPN
     pretitle CULTURA:
     highlightColor #00ffff
 }
 type article
-subtitle Con estas películas vas a pasar el mejor día de San Valentín; algunas, te van a enseñar lecciones valiosas sobre la vida… otras, te darán el lift-me-up necesario para superar el viernes (si estás solo).
+subtitle Películas para bingewatcher en San Valentín; algunas, te van a enseñar lecciones valiosas sobre la vida… otras, te darán el lift-me-up necesario para superar el viernes (si estás solo).
 month 02
 tags{array} mas-cine,venus
 videoID 
