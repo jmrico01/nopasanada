@@ -8,7 +8,7 @@ mas{kmkv} {
     featured{array} /content/202002/mensajes-oscars
     cine{kmkv} {
         name Cine
-        featured{array} /content/202002/mensajes-oscars
+        featured{array} /content/202002/nueve-romcom
     }
     historias{kmkv} {
         name Historias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202002/san-valentin-sin-consumo
+    featured{array} /content/202002/nueve-romcom
 }
 other{kmkv} {
     name Other (Internal)
