@@ -33,10 +33,10 @@ description En estas épocas que estamos tomando las narrativas de los cuernos, 
 year 2020
 author NPN Editorial
 featured{kmkv} {
-    title San Valentín sin <b>trampas <br>de consumo</b>
+    title San Valentín sin trampas<b><br>de consumo</b>
     text1 No es que tengamos algo en contra de celebrar el amor y la amistad: pero nos molesta que exista presión por estar emparejado y gastar dinero en el proceso
     text2 Por NPN Editorial
-    pretitle Medio Ambiente:
+    pretitle Opinión Editorial:
     highlightColor #ffc7f7
 }
 type article
