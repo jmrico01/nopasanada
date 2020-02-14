@@ -1,0 +1,38 @@
+text {
+<p>Cuando se trata de carnes en Costa Rica, pocos son m&aacute;s reconocidos que FOGO en San Jose. Enviamos a Alberto Gatgens a este famoso templo de la carne para probar algunos de los platos del men&uacute; y descubrir cuales son los mejores. Para este episodio, se uni&oacute; el chef ejecutivo de FOGO William Tabares y si... Hubo mucha, mucha carne.&nbsp;</p>
+<hr />
+<p><strong>Host:</strong> Albnerto Gatgens</p>
+<p><strong>Producido por:</strong> Kenneth Bald&iacute;</p>
+<p><strong>Dirigido por:</strong> Pietro Cercone&nbsp;</p>
+<p><strong>Gui&oacute;n:</strong> Luisa Mora Fernandez</p>
+<p><strong>Graficos &amp; Direcci&oacute;n Creativa:</strong> Lauren Gilleland</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title Probando el menú perfecto en un templo de la carne en Costa Rica
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202002/headers/14-mejormenu-fogo.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Cuando se trata de carnes en Costa Rica, pocos son más reconocidos que FOGO en San Jose. Enviamos a Alberto Gatgens a este famoso templo de la carne para probar algunos de los platos del menú y descubrir cuales son los mejores. 
+year 2020
+featured{kmkv} {
+    title MEJOR <b>MENÚ<b>
+    text1 CON ALBERTO GATGENS
+    text2 PROBANDO EL MENÚ PERFECTO EN UN TEMPLO DE LA CARNE
+    pretitle LA GUIDA
+    highlightColor #00ffff
+}
+type video
+subtitle Cuando se trata de carnes en Costa Rica, pocos son más reconocidos que FOGO en San Jose. Enviamos a Alberto Gatgens a este famoso templo de la carne para probar algunos de los platos del menú y descubrir cuales son los mejores. 
+month 02
+tags{array} guida
+videoID pPLubeJyhRU
+titlePoster 
+color #00ffff
