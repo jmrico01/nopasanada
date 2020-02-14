@@ -1,6 +1,6 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202002/musica-urbana-grammy
+    featured{array} /content/202002/san-valentin-sin-consumo
 }
 mas{kmkv} {
     name Más
@@ -94,7 +94,7 @@ venus{kmkv} {
         featured{array} /content/201910/16-salud-mental-no-es-moda
     }
     displayOrder{array} derechos, inspiradoras, moda, salud
-    featured{array} /content/202002/12-reto-a-la-mode
+    featured{array} /content/202002/san-valentin-sin-consumo
     derechos{kmkv} {
         name Derechos de las mujeres
         featured{array} /content/201911/29-gender-bias
