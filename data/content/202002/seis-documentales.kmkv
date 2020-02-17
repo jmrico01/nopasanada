@@ -71,18 +71,18 @@ media{kmkv} {
     bottom /images/201912/09-al-mercat/bottom.jpg
     dubai /images/202001/necesita-saber-iran/dubai.jpg
 }
-description Estas seis historias son reales, aunque a veces sean increíbles. 
+description Estas seis historias son reales, aunque a veces sean increíbles.
 year 2020
 author Sergio Salazar
 featured{kmkv} {
-    title <b>Documentales que superan ficción</b>
-    text1 La realidad supera la ficción. Estos 6 documentales que podés encontrar en Netflix lo comprueban. 
-    text2 POR SERGIO SALAZAR 
+    title <b>Documentales</b>
+    text1 La realidad supera la ficción. Estos 6 documentales que podés encontrar en Netflix lo comprueban.
+    text2 POR SERGIO SALAZAR
     pretitle CINE:
     highlightColor #00ffff
 }
 type article
-subtitle Estos 6 documentales que podés encontrar en Netflix comprueban que el mundo real a veces es difícil de creer. 
+subtitle Estos 6 documentales que podés encontrar en Netflix comprueban que el mundo real a veces es difícil de creer.
 month 02
 tags{array} mas-cine
 videoID 
