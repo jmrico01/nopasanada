@@ -94,14 +94,14 @@ venus{kmkv} {
         featured{array} /content/201910/16-salud-mental-no-es-moda
     }
     displayOrder{array} derechos, inspiradoras, moda, salud
-    featured{array} /content/202002/san-valentin-sin-consumo
+    featured{array} /content/202002/mujeres-deporte
     derechos{kmkv} {
         name Derechos de las mujeres
         featured{array} /content/201911/29-gender-bias
     }
     inspiradoras{kmkv} {
         name Mujeres inspiradoras
-        featured{array} /content/202002/marie-curie
+        featured{array} /content/202002/mujeres-deporte
     }
     belleza{kmkv} {
         name Belleza
@@ -119,5 +119,5 @@ ludi{kmkv} {
         featured{array} /content/201912/05-pasaen
     }
     displayOrder{array} 
-    featured{array} /content/202002/luchadores
+    featured{array} /content/202002/mujeres-deporte
 }
