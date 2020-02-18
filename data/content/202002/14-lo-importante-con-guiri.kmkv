@@ -19,7 +19,7 @@ media{kmkv} {
     header /images/202002/headers/14-lo-importante-con-guiri.jpg
     poster /images/201912/posters/17-solo-lo-importante-video.jpg
 }
-description En Lo Importante de hoy vemos como Mike Bloomberg y Tom Steyer están gastando cientos de millones en pelear la carrera presidencial en Estados Unidos. Ademas, revisamos la situación con el Coronavirus, el estado actual del coral de Mesoamérica y el gasto militar de China y Estados Unidos. 
+description En Lo Importante de hoy vemos como Mike Bloomberg y Tom Steyer están gastando cientos de millones en pelear la carrera presidencial en Estados Unidos. Ademas, revisamos la situación con el Coronavirus, el estado actual del coral de Mesoamérica y el gasto militar de China y Estados Unidos.
 year 2020
 featured{kmkv} {
     title LO <b>IMPORTANTE<b>
@@ -32,6 +32,6 @@ type video
 subtitle Billionarios pelean las elecciones de EE.UU, peligra el coral de Mesoamérica, el Coronavirus y más.
 month 02
 tags{array} noticias-loimportante,noticias-video
-videoID https://youtu.be/DYT2kW88D1k
+videoID DYT2kW88D1k
 titlePoster Lo Importante 14.02.20
 color #00ffff
