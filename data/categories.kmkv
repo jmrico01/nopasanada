@@ -5,10 +5,10 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202002/lugares-cerca-de-chepe
+    featured{array} /content/202002/perdonalos-robert
     cine{kmkv} {
         name Cine
-        featured{array} /content/202002/seis-documentales
+        featured{array} /content/202002/perdonalos-robert
     }
     historias{kmkv} {
         name Historias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202002/lugares-cerca-de-chepe
+    featured{array} /content/202002/perdonalos-robert
 }
 other{kmkv} {
     name Other (Internal)
