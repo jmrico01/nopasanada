@@ -1,4 +1,5 @@
 text {
+<p><em><strong>Foto de cabecera: Salto de Caball&oacute;n, por Diego Ugalde.</strong></em></p>
 <p>Tal vez prefer&iacute;s pasar tus d&iacute;as libres frente a la pantalla&hellip; te entendemos: trasladarte hacia alg&uacute;n destino natural a veces parece demasiado esfuerzo; ir a la playa y volver en un d&iacute;a suena como algo geogr&aacute;ficamente alcanzable, pero las presas y - acept&eacute;moslo - el hecho de que levantarse temprano un domingo es una utop&iacute;a (adem&aacute;s de lo caro que sale quedarse en cualquier destino tur&iacute;stico conocido del pa&iacute;s), desmotiva a cualquiera.&nbsp;</p>
 <p>Pero conectar con la naturaleza no solo nos desestresa y nos da nuevas energ&iacute;as, sino que se vuelve cada vez m&aacute;s importante: nos recuerda la importancia de luchar por un futuro m&aacute;s sostenible, y de lo que tenemos para perder.&nbsp;</p>
 <p>As&iacute; que nuestro consejo es que no vay&aacute;s tan lejos: estos son 5 lugares tuanis a los que pod&eacute;s pegar tour sin alejarte mucho de casa, recomendados por los locales de cada zona, y ubicados a pocas horas de la capital - pero creo que todos sabemos que en Costa Rica &iexcl;hay incontables m&aacute;s!</p>
@@ -57,14 +58,14 @@ media{kmkv} {
     bottom /images/201912/09-al-mercat/bottom.jpg
     dubai /images/202001/necesita-saber-iran/dubai.jpg
 }
-description Cinco destinos naturales recomendados por los locales, a pocas horas de San José. 
+description Cinco destinos naturales recomendados por los locales, a pocas horas de San José.
 year 2020
 author Keylor Suárez
 featured{kmkv} {
     title <b>PEGAR TOUR, CERCA</b>
     text1 CINCO DESTINOS NATURALES RECOMENDADOS POR LOS LOCALES, CERCA DE SAN JOSÉ
     text2 POR KEYLOR SUÁREZ
-    pretitle VIAJES: 
+    pretitle VIAJES:
     highlightColor #00ffff
 }
 type article
