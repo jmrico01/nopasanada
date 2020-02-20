@@ -5,7 +5,7 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202002/mensajes-oscars
+    featured{array} /content/202002/lugares-cerca-de-chepe
     cine{kmkv} {
         name Cine
         featured{array} /content/202002/seis-documentales
@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202002/antartida-calor
+        featured{array} /content/202002/lugares-cerca-de-chepe
     }
     saludmental{kmkv} {
         name Salud mental
@@ -46,7 +46,7 @@ guida{kmkv} {
     }
     viaje{kmkv} {
         name Viaje
-        featured{array} /content/201912/13-desayunos
+        featured{array} /content/202002/lugares-cerca-de-chepe
     }
     recomendado{kmkv} {
         name Recomendado
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202002/20-lo-importante
+    featured{array} /content/202002/lugares-cerca-de-chepe
 }
 other{kmkv} {
     name Other (Internal)
