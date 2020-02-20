@@ -1,0 +1,28 @@
+text <p><a href="https://open.spotify.com/episode/25ofyKRlPSlaFZ2JpBbzsX">https://open.spotify.com/episode/25ofyKRlPSlaFZ2JpBbzsX</a></p>
+title Lado B: San José más bonito... o más bien, más amable
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202002/headers/lado-b-san-jose.jpg
+}
+description ¿Cómo hacer de San José una capital más "bonita"?
+year 2020
+author NPN Editorial
+featured{kmkv} {
+    title <b>San José más amable:</b>
+    text1 LA MALA FAMA DE SAN JOSÉ,  ¿ES UN CRITERIO ESTÉTICO O EMOCIONAL?
+    text2 UN ARQUITECTO Y UNA URBANISTA IMAGINAN UN SAN JOSÉ MÁS INTELIGENTE
+    pretitle LADO B:
+    highlightColor #ff613c
+}
+type article
+subtitle San José tiene la mala fama de ser la capital más fea del continente. ¿Qué la haría "bonita"? ¿Es un criterio estético... o tiene que ver con qué tan amable es la ciudad con nosotros?
+month 02
+tags{array} opinion,noticias-politica,mas-ambiente,mas-saludmental
+videoID 
+titlePoster #ffb3a1
+color #ffc7f7
