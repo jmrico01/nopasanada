@@ -39,10 +39,10 @@ guida{kmkv} {
         featured{array} /content/202002/mandamientos-sushi
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202002/mandamientos-sushi
+    featured{array} /content/202002/20-cola-de-gallo-receta
     bebidas{kmkv} {
         name Bebidas
-        featured{array} /content/201912/lo-mejor-2019
+        featured{array} /content/202002/20-cola-de-gallo-receta
     }
     viaje{kmkv} {
         name Viaje
