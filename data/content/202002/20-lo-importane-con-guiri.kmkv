@@ -1,0 +1,37 @@
+text {
+<p>En Lo Importante de hoy vemos la como el Coronavirus esta afectando la econom&iacute;a global, la problematica de la situaci&oacute;n migratoria en Espa&ntilde;a, el ultimatum entre Syria y Turqu&iacute;a y el nuevo regimen de visas en el Reino Unido.&nbsp;</p>
+<hr />
+<p><strong>Host:</strong> Guiri Uribe &amp; Stella</p>
+<p><strong>Producido por:</strong> Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p><strong>Gui&oacute;n:</strong> Luisa Mora Fernandez</p>
+<p><strong>Graficos &amp; Direcci&oacute;n Creativa:</strong> Lauren Gilleland</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title Lo Importante con Guiri Uribe 20.02.20
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202002/headers/19-lo-importante-con-guiri.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En Lo Importante de hoy vemos la crisis que vive Mexico por culpa de los femicidios, el allanamiento illegal de la casa del tío de Juan Guaidó, la matanza xenophobica en Alemania y los comentarios racistas/homophobicos/típicos de Bolsonaro.
+year 2020
+featured{kmkv} {
+    title LO <b>IMPORTANTE<b>
+    text1 CRISIS DE FEMICIDIOS EN MEXICO, MATANZA XENOPHOBICA EN ALEMANIA Y COMENTARIOS MISÓGENOS DE BOLSONARO
+    text2 NO PASA NADA NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #00ffff
+}
+type video
+subtitle En Lo Importante de hoy vemos la crisis que vive Mexico por culpa de los femicidios, el allanamiento illegal de la casa del tío de Juan Guaidó, la matanza xenophobica en #Alemania y los comentarios racistas/homophobicos/típicos de Bolsonaro.
+month 02
+tags{array} noticias-loimportante,noticias-video
+videoID GatI3OHGSV4
+titlePoster Lo Importante 20.02.20
+color #00ffff
