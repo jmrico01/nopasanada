@@ -17,18 +17,18 @@ customTop
 media{kmkv} {
     header /images/202002/headers/trump-parasite.jpg
 }
-description Donald Trump no vió Parasite, pero igual se burló de ella en uno de sus mitines de campaña. 
+description Donald Trump no vió Parasite, pero igual se burló de ella en uno de sus mitines de campaña.
 year 2020
 author AFP y NPN Noticias
 featured{kmkv} {
-    title Trump se burla de <br> Parasite
-    text1 ...Y PARASITE SE BURLA DE VUELTA
+    title Trump/Parasite
+    text1 TRUMP SE BURLA DE PARASITE - Y PARASITE SE BURLA DE VUELTA
     text2 Por AFP y NPN Noticias
-    pretitle CINE:
+    pretitle Cine:
     highlightColor #ffc7f7
 }
 type article
-subtitle Donald Trump no vió Parasite, pero igual se burló de ella en uno de sus mitines de campaña. 
+subtitle Donald Trump no vió Parasite, pero igual se burló de ella en uno de sus mitines de campaña.
 month 02
 tags{array} noticias
 videoID 
