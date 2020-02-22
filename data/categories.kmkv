@@ -64,14 +64,14 @@ noticias{kmkv} {
         featured{array} /content/202002/21-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202002/trump-parasite
+    featured{array} /content/202002/21-lo-importante-con-guiri
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202002/trump-parasite
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202002/19-lo-importante-con-guiri
+        featured{array} /content/202002/21-lo-importante-con-guiri
     }
 }
 coleccion{kmkv} {
