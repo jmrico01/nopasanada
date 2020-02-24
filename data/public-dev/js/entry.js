@@ -82,7 +82,7 @@ function LoadEntryData(entryData)
     document.getElementsByName("featuredTitle")[0].value = entryData.featured.title;
     document.getElementsByName("featuredText1")[0].value = entryData.featured.text1;
     document.getElementsByName("featuredText2")[0].value = entryData.featured.text2;
-    document.getElementsByName("highlightColor")[0].value = entryData.featured.highlightColor;
+    document.getElementsByName("highlightColor")[0].jscolor.fromString(entryData.featured.highlightColor);
 
     document.getElementsByName("tags")[0].value = entryData.tags.join(", ");
 
@@ -91,7 +91,7 @@ function LoadEntryData(entryData)
     document.getElementsByName("description")[0].value = entryData.description;
     let dateString = entryData.day + "/" + entryData.month + "/" + entryData.year;
     document.getElementsByName("date")[0].value = dateString;
-    document.getElementsByName("color")[0].value = entryData.color;
+    document.getElementsByName("color")[0].jscolor.fromString(entryData.color);
 
     document.getElementsByName("author")[0].value = entryData.author;
     document.getElementsByName("subtextLeft")[0].value = entryData.subtextLeft;

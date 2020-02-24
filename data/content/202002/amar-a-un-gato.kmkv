@@ -70,7 +70,7 @@ featured{kmkv} {
     text1 CÓMO QUERER BIEN A UN GATO, Y LAS LECCIONES QUE SE APRENDEN EN EL PROCESO
     text2 POR LUISA MORA FERNÁNDEZ
     pretitle OPINION:
-    highlightColor #00ffff
+    highlightColor #00FFFF
 }
 type article
 subtitle Los gatos, usualmente malentendidos, son maestros del consenso y la comunicación no verbal. Quererlos bien nos enseña valiosas lecciones sobre el amor en general.
@@ -78,4 +78,4 @@ month 02
 tags{array} opinion
 videoID 
 titlePoster 
-color #00ffff
+color #00FFFF

@@ -45,6 +45,13 @@ input[type=text], textarea {
     width: 100%;
 }
 
+.jscolor {
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+    padding: 5pt;
+    border-radius: 4pt;
+}
+
 #imagesListAdd {
     overflow: auto;
 }

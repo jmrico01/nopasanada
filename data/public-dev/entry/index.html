@@ -13,6 +13,7 @@
 
     <script type="application/javascript" src="../js/jquery-3.4.1.min.js"></script>
     <script type="application/javascript" src="../js/dropzone.js"></script>
+    <script type="application/javascript" src="../js/jscolor.js"></script>
     <script type="application/javascript" src="../js/tinymce/tinymce.min.js"></script>
     <script type="application/javascript" src="../js/entry.js"></script>
 </head>
@@ -42,8 +43,8 @@
                 <input type="text" name="featuredText1"><br>
                 <h3>Small Text Right</h3>
                 <input type="text" name="featuredText2"><br>
-                <h3>Category Highlight Color (color picker coming soon)</h3>
-                <input type="text" name="highlightColor"><br>
+                <h3>Category Highlight Color</h3>
+                <input class="jscolor {hash:true}" name="highlightColor"><br>
             </div>
 
             <div class="section">
@@ -64,8 +65,8 @@
                 <input type="text" name="title"></input><br>
                 <h3>Title for Poster (leave blank to use Title above)</h3>
                 <input type="text" name="titlePoster"><br>
-                <h3>Highlight Color (color picker coming soon)</h3>
-                <input type="text" name="color"><br>
+                <h3>Highlight Color</h3>
+                <input class="jscolor {hash:true}" name="color"><br>
                 <h3>Description (shows in social medial links)</h3>
                 <textarea class="taSmall" name="description"></textarea><br>
                 <h3>Date (dd/mm/yyyy)</h3>
