@@ -27,18 +27,18 @@ customTop
 media{kmkv} {
     header /images/202002/headers/24-adulting.jpg
 }
-description #adulting: ¿Cuándo y cómo se dieron cuenta que eran adultos? La editora de contenido de No Pasa Nada abre esta nueva columna relatando lo que despedirse de Bojack Horseman le enseñó sobre “crecer”. 
+description #adulting: ¿Cuándo y cómo se dieron cuenta que eran adultos? La editora de contenido de No Pasa Nada abre esta nueva columna relatando lo que despedirse de Bojack Horseman le enseñó sobre “crecer”.
 year 2020
 author Luisa Mora Fernández
 featured{kmkv} {
-    title UN DÍA SOS JOVEN Y AL SIGUIENTE SE ACABA BOJACK HORSEMAN. 
+    title #ADULTING
     text1 DESPEDIRME DE DIANE NGUYEN ME HIZO DARME CUENTA DE LO MUCHO QUE SE PUEDE CRECER EN SEIS AÑOS.
     text2 LUISA MORA FERNÁNDEZ
-    pretitle #ADULTING:
+    pretitle NUEVO COLUMN:
     highlightColor #FFFF00
 }
 type article
-subtitle Despedirme de Diane Nguyen me hizo darme cuenta de lo mucho que se puede crecer en seis años. 
+subtitle Despedirme de Diane Nguyen me hizo darme cuenta de lo mucho que se puede crecer en seis años.
 month 02
 tags{array} opinion
 videoID 
