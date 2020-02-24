@@ -1,6 +1,6 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202002/amar-a-un-gato
+    featured{array} /content/202002/24-adulting
 }
 mas{kmkv} {
     name Más
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202002/amar-a-un-gato
+    featured{array} /content/202002/24-adulting
 }
 other{kmkv} {
     name Other (Internal)
