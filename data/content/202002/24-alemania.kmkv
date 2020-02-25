@@ -32,15 +32,12 @@ customTop
 media{kmkv} {
     header /images/202002/headers/24-alemania.jpg
 }
-description {
-Vehículo embistió un desfile de carnaval en Alemania
-
-}
+description Vehículo embistió un desfile de carnaval en Alemania
 year 2020
 author AFP y NPN Noticias
 featured{kmkv} {
-    title VEHÍCULO EMBISTIÓ UN DESFILE*
-    text1 VEHÍCULO EMBISTIÓ UN DESFILE DE CARNAVAL EN ALEMANIA
+    title VEHÍCULO EMBISTIÓ*
+    text1 *VEHÍCULO EMBISTIÓ UN DESFILE DE CARNAVAL EN ALEMANIA
     text2 Por AFP y NPN Noticias
     pretitle NOTICIAS:
     highlightColor #FFF200
