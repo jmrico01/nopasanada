@@ -107,7 +107,7 @@ featured{kmkv} {
     text1 4 HISTORIAS IMPORTANTES DE LAS MÁS RECIENTES NOTICIAS INTERNACIONALES.
     text2 CURADAS POR<br>NO PASA NADA NOTICIAS
     pretitle NOTICIAS:
-    highlightColor #ffff00
+    highlightColor #FFFF00
 }
 author4 No Pasa Nada Noticias y AFP
 type newsletter
@@ -115,4 +115,4 @@ month 02
 tags{array} noticias-loimportante
 videoID 
 titlePoster 
-color #ffff00
+color #FFFF00
