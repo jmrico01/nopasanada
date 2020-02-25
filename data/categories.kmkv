@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202002/24-lo-importante
+        featured{array} /content/202002/25-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202002/24-alemania
+    featured{array} /content/202002/25-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202002/trump-parasite
+        featured{array} /content/202002/manuscrito-inca
     }
     video{kmkv} {
         name Video
