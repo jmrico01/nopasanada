@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202002/20-lo-importante
+        featured{array} /content/202002/trump-parasite
     }
     loimportante{kmkv} {
         name Lo Importante
