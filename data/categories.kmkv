@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202002/25-harvey-weinstein
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202002/manuscrito-inca
+        featured{array} /content/202002/25-harvey-weinstein
     }
     video{kmkv} {
         name Video
