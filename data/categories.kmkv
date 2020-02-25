@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202002/manuscrito-inca
+        featured{array} /content/202002/25-musica-triste
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
