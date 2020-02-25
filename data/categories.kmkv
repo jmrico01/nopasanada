@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202002/25-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202002/25-lo-importante
+    featured{array} /content/202002/25-harvey-weinstein
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202002/manuscrito-inca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202002/24-adulting
+    featured{array} /content/202002/25-harvey-weinstein
 }
 other{kmkv} {
     name Other (Internal)
