@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202002/26-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202002/26-lo-importante
+    featured{array} /content/202002/26-coronavirus
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202002/25-harvey-weinstein
