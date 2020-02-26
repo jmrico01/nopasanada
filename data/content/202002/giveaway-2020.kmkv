@@ -54,10 +54,10 @@ featured{kmkv} {
     pretitle GIVEAWAY:
     highlightColor #FFF200
 }
-type article
+type text
 subtitle ¡Estas son las reglas para ganarte uno de los paquetes que estamos rifando para Picnic este Sábado!
 month 02
-tags{array} noticias-culturales
+tags{array} mas-arteymusica
 videoID 
 titlePoster Entra para ganarte entradas a Picnic este sabado!
 color #FFF200
