@@ -5,7 +5,7 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202002/amar-a-un-gato
+    featured{array} /content/202002/27-chinches-de-la-cama
     cine{kmkv} {
         name Cine
         featured{array} /content/202002/perdonalos-robert
@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202002/27-violinista-operacion
+        featured{array} /content/202002/27-chinches-de-la-cama
     }
     ambiente{kmkv} {
         name Medio ambiente
