@@ -34,10 +34,10 @@ description Las chinches de la cama están de vuelta en Costa Rica, y son famosa
 year 2020
 author NPN Ciencia
 featured{kmkv} {
-    title El regreso de las "Chinches de la Cama"
+    title Regresan los <b> "Chinches de la Cama" </b>
     text1 Los "Alepates" están de vuelta en Costa Rica. ¿Es hora de perder la calma?
     text2 Por NPN Ciencia
-    pretitle Medio Ambiente:
+    pretitle Ciencia: 
     highlightColor #FFC7F7
 }
 type article
