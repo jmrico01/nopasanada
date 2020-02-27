@@ -1,0 +1,36 @@
+text {
+<p>El coronavirus lleg&oacute; este mi&eacute;rcoles a Am&eacute;rica Latina por Sao Paulo, Plebiscito decidir&aacute; el futuro de la constituci&oacute;n de Augusto Pinochet en Chile, Harvey Weinstein finalmente ir&aacute; a la c&aacute;rcel, Pl&aacute;cido Domingo se disculpa por abusos sexuales y 22 personas murieron en India tras enfrentamientos de nacionalistas hind&uacute;es contra musulmanes.</p>
+<hr />
+<p><strong>Host:</strong> Guiri Uribe &amp; Stella</p>
+<p><strong>Producido por:</strong> Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p><strong>Graficos &amp; Direcci&oacute;n Creativa:</strong> Lauren Gilleland</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title Lo Importante con Guiri Uribe 26.02.20
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202002/headers/21-lo-importante-con-guiri.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description El coronavirus llegó este miércoles a América Latina por Sao Paulo, Plebiscito decidirá el futuro de la constitución de Augusto Pinochet en Chile, Harvey Weinstein finalmente irá a la cárcel, Plácido Domingo se disculpa por abusos sexuales y 22 personas murieron en India tras enfrentamientos de nacionalistas hindúes contra musulmanes.
+year 2020
+featured{kmkv} {
+    title LO <b>IMPORTANTE<b>
+    text1 ¡CORONAVIRUS LLEGA A BRASIL! PLEBISCITO DECIDIRÁ FUTURO DE CONSTITUCIÓN DE PINOCHET EN CHILE Y MÁS
+    text2 NO PASA NADA NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #00FFFF
+}
+type video
+subtitle ¡Coronavirus llega a Brasil! Plebiscito decidirá futuro de constitución de Pinochet en Chile y más
+month 02
+tags{array} noticias-loimportante,noticias-video
+videoID SifxN4vhaFY
+titlePoster Lo Importante 26.02.20
+color #00FFFF
