@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202002/sexting
+        featured{array} /content/202002/katherine-johnson
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -94,14 +94,14 @@ venus{kmkv} {
         featured{array} /content/201910/16-salud-mental-no-es-moda
     }
     displayOrder{array} derechos, inspiradoras, moda, salud
-    featured{array} /content/202002/mujeres-deporte
+    featured{array} /content/202002/katherine-johnson
     derechos{kmkv} {
         name Derechos de las mujeres
         featured{array} /content/201911/29-gender-bias
     }
     inspiradoras{kmkv} {
         name Mujeres inspiradoras
-        featured{array} /content/202002/mujeres-deporte
+        featured{array} /content/202002/katherine-johnson
     }
     belleza{kmkv} {
         name Belleza
