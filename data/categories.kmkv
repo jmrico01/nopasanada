@@ -1,6 +1,6 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202002/24-adulting
+    featured{array} /content/202002/29-backstreet-boys
 }
 mas{kmkv} {
     name Más
@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202002/25-musica-triste
+        featured{array} /content/202002/29-backstreet-boys
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202002/29-ciencia-gusto
+    featured{array} /content/202002/29-backstreet-boys
 }
 other{kmkv} {
     name Other (Internal)
