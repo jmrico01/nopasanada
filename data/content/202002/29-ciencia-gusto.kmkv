@@ -20,18 +20,18 @@ customTop
 media{kmkv} {
     header /images/202002/headers/29-ciencia-gusto.jpg
 }
-description Así como la belleza está en los ojos de quién la mira, los sabores están en el cerebro de quien los prueba. 
+description Así como la belleza está en los ojos de quién la mira, los sabores están en el cerebro de quien los prueba.
 year 2020
 author Ana Chavarría, MD, Msc.| @neuro.ciencia
 featured{kmkv} {
     title ¿Comemos con el cerebro?
-    text1 La ciencia nos dice que el gusto por la comida no es objetivo - depende de cada quién. 
+    text1 Así como la belleza está en los ojos de quién la mira, los sabores están en el cerebro de quien los prueba.
     text2 Por Ana Chavarría, MD, Msc.
-    pretitle CIENCIA: 
+    pretitle CIENCIA:
     highlightColor #FFC7F7
 }
 type article
-subtitle Así como la belleza está en los ojos de quién la mira, los sabores están en el cerebro de quien los prueba. 
+subtitle Así como la belleza está en los ojos de quién la mira, los sabores están en el cerebro de quien los prueba.
 month 02
 tags{array} mas-saludyciencia
 videoID 
