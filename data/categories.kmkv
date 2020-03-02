@@ -8,7 +8,7 @@ mas{kmkv} {
     featured{array} /content/202002/29-ciencia-gusto
     cine{kmkv} {
         name Cine
-        featured{array} /content/202002/perdonalos-robert
+        featured{array} /content/202003/02-polanski
     }
     historias{kmkv} {
         name Historias
@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202002/28-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202002/25-harvey-weinstein
+        featured{array} /content/202003/02-polanski
     }
     video{kmkv} {
         name Video
@@ -97,7 +97,7 @@ venus{kmkv} {
     featured{array} /content/202002/katherine-johnson
     derechos{kmkv} {
         name Derechos de las mujeres
-        featured{array} /content/201911/29-gender-bias
+        featured{array} /content/202003/02-polanski
     }
     inspiradoras{kmkv} {
         name Mujeres inspiradoras
