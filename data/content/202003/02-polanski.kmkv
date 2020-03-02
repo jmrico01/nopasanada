@@ -10,7 +10,7 @@ text {
 <p>Este resurgimiento de la pol&eacute;mica en torno al cineasta coincide con la condena esta semana al exmagnate de Hollywood Harvey Weinstein --hallado culpable de agresi&oacute;n sexual y violaci&oacute;n--, esc&aacute;ndalo que lanz&oacute; el movimiento global del #MeToo.</p>
 <p>Previamente a la ceremonia, la Academia anunci&oacute; una nueva presidenta en funciones, Margaret Menegoz, a la espera de una renovaci&oacute;n del organismo.</p>
 }
-title La tensión en los premios del cine francés de este año, explained. 
+title La tensión en los premios del cine francés de este año, explained.
 day 02
 text1 
 text2 
@@ -51,16 +51,16 @@ media{kmkv} {
 }
 description ¿Qué pasó en los premios César de este año?
 year 2020
-author AFP y NPN NOTICIAS
+author  NPN Cultura
 featured{kmkv} {
     title <b>Los César de la vergüenza</b>
     text1 Los premios de la Academia del Cine Francés envueltos en polémica.
-    text2 AFP y NPN NOTICIAS
+    text2 Por NPN Cultura
     pretitle NOTICIAS:
     highlightColor #00FFFF
 }
 type article
-subtitle Increíble pero cierto: a pesar de ser prófugo de la justicia y acusado de violación por un gran número de mujeres, Roman Polanski ganó el premio a Mejor Director, evidenciando un sesgo profundo de la Academia. 
+subtitle Increíble pero cierto: a pesar de ser prófugo de la justicia y acusado de violación por un gran número de mujeres, Roman Polanski ganó el premio a Mejor Director, evidenciando un sesgo profundo de la Academia.
 month 03
 tags{array} venus-derechos,mas-cine
 videoID 
