@@ -1,0 +1,36 @@
+text {
+<p>En Lo Importante de hoy vemos las protestas feministas en Par&iacute;s por la controversia de los premios Cesar y Roman Polanski, lleg&oacute; el Coronavirus a Mexico, se complica la situaci&oacute;n entre Siria y Turqu&iacute;a y continuan las protestas en India.</p>
+<hr />
+<p><strong>Host:</strong> Guiri Uribe &amp; Stella</p>
+<p><strong>Producido por:</strong> Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p><strong>Graficos &amp; Direcci&oacute;n Creativa:</strong> Lauren Gilleland</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title Lo Importante con Guiri Uribe 28.02.20
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202003/headers/01-lo-importante-con-guiri.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En Lo Importante de hoy vemos las protestas feministas en París por la controversia de los premios Cesar y Roman Polanski, llegó el Coronavirus a Mexico, se complica la situación entre Siria y Turquía y continuan las protestas en India.
+year 2020
+featured{kmkv} {
+    title LO <b>IMPORTANTE<b>
+    text1 PROTESTAS FEMINISTAS POR ROMAN POLANSKI, LLEGÓ EL CORONAVIRUS A MEXICO, MUERTES EN INDIA Y MÁS...
+    text2 NO PASA NADA NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #00FFFF
+}
+type video
+subtitle Protestas feministas por Roman Polanski, llegó el Coronavirus a Mexico, muertes en India y más...
+month 03
+tags{array} noticias-loimportante,noticias-video
+videoID s2vqp4yzLD8
+titlePoster Lo Importante 28.02.20
+color #00FFFF
