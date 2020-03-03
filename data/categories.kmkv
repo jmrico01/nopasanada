@@ -1,14 +1,14 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202002/29-backstreet-boys
+    featured{array} /content/202003/03-jojorabbit
 }
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202002/29-ciencia-gusto
+    featured{array} /content/202003/03-jojorabbit
     cine{kmkv} {
         name Cine
-        featured{array} /content/202003/02-polanski
+        featured{array} /content/202003/03-jojorabbit
     }
     historias{kmkv} {
         name Historias
