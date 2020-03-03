@@ -36,7 +36,7 @@ featured{kmkv} {
 type article
 subtitle Sobre aquella vez que mataste a todas tus plantas sin querer, y mejor te conseguiste un cactus.
 month 03
-tags{array} opinion,mas-historias
+tags{array} opinion
 videoID 
 titlePoster 
 color #FFFF00
