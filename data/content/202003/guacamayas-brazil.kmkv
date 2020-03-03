@@ -1,5 +1,4 @@
 text {
-<p>&iquest;Qu&eacute; necesitas saber?</p>
 <p>Un lote de cincuenta guacamayas azules lleg&oacute; este martes a Brasil proveniente de Alemania en un intento de devolver la especie, que sobrevive apenas en cautiverio, a su h&aacute;bitat natural, inform&oacute; el Instituto Chico Mendes de Conservaci&oacute;n y Biodiversidad (ICMBio).</p>
 <p>"&iexcl;Ellas llegaron!", tuite&oacute; el ICMBio junto a una foto del ministro de medio ambiente, Ricardo Salles, cargando una de las aves en una jaula. &nbsp;</p>
 <p>Las "ararinhas-azules", como son conocidas en portugu&eacute;s, desembarcaron en la tarde en un aeropuerto de Pernambuco (nordeste) y deben seguir viaje hacia la peque&ntilde;a ciudad de Cura&ccedil;&aacute;, en Bah&iacute;a, de donde el ave es considerada oriunda y donde fue construido un centro de reproducci&oacute;n, paso previo a la liberaci&oacute;n.&nbsp;</p>
@@ -20,7 +19,7 @@ customTop
 media{kmkv} {
     header /images/202003/headers/guacamayas-brazil.jpg
 }
-description Las aves vuelve a Brasil luego de su extinción en estado salvaje
+description La famosas aves fueron re-introducidas a Brasil luego de su extinción en estado salvaje
 year 2020
 author AFP Y NPN Ciencia
 featured{kmkv} {
@@ -31,7 +30,7 @@ featured{kmkv} {
     highlightColor #5FFFB7
 }
 type article
-subtitle La re-introducción de estas aves a Brasil luego de su extinción en estado salvaje
+subtitle La famosas aves fueron re-introducidas a Brasil luego de su extinción en estado salvaje
 month 03
 tags{array} mas-ambiente,noticias
 videoID 
