@@ -1,6 +1,6 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202003/03-jojorabbit
+    featured{array} /content/202003/adulting-plantas
 }
 mas{kmkv} {
     name Más
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/03-jojorabbit
+    featured{array} /content/202003/adulting-plantas
 }
 other{kmkv} {
     name Other (Internal)
