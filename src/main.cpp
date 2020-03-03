@@ -943,13 +943,14 @@ int main(int argc, char** argv)
 					// TODO if there are non-image media things in the future, this will need to be
 					// expanded upon / keyword tag needs to be checked for type=image
 					const auto* imageLocation = GetKmkvItemStrValue(entryData.media, mediaName);
-					if (imageLocation == nullptr) {
+					if (imageLocation != nullptr) {
+						mediaHtmlItems.Add("location", imageLocation->ToArray());
+					}
+					else {
 						LOG_ERROR("Image not found: %.*s in %.*s\n",
 							(int)mediaName.size, mediaName.data, (int)uri.size, uri.data);
-						res.status = HTTP_STATUS_ERROR;
-						return;
+						mediaHtmlItems.Add("location", ToString(""));
 					}
-					mediaHtmlItems.Add("location", imageLocation->ToArray());
 				}
 				else {
 					mediaHtmlItems.Add("location", mediaName);
