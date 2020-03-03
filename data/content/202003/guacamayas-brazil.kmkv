@@ -27,7 +27,7 @@ featured{kmkv} {
     text1 La re-introducción de estas aves luego de su extinción en estado salvaje
     text2 AFP y NPN CIENCIA
     pretitle Medio Ambiente:
-    highlightColor #5FFFB7
+    highlightColor #03FFAF
 }
 type article
 subtitle La famosas aves fueron re-introducidas a Brasil luego de su extinción en estado salvaje
@@ -35,4 +35,4 @@ month 03
 tags{array} mas-ambiente,noticias
 videoID 
 titlePoster 
-color #5FFFB7
+color #03FFAF
