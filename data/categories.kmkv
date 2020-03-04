@@ -36,10 +36,10 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202002/mandamientos-sushi
+        featured{array} /content/202003/04-guida-restaurantes-chinos
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202002/20-cola-de-gallo-receta
+    featured{array} /content/202003/04-guida-restaurantes-chinos
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202002/20-cola-de-gallo-receta
