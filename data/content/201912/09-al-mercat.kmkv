@@ -40,7 +40,7 @@ featured{kmkv} {
     text1 Una columna de La Guida dedicada a destacar las cosas favoritas de nuestros sabiondos editores para comer, beber y comprar.
     text2 POR ADRIANO C.M
     pretitle RECOMENADO:
-    highlightColor #f4b6a5
+    highlightColor #F4B6A5
 }
 type article
 subtitle Chorizo, chicharrones y tortillas caseras destacan en el menú de una de las más modernas propuestas gastronómicas de Costa Rica.
@@ -48,4 +48,4 @@ month 12
 tags{array} guida-comida
 videoID 
 titlePoster 
-color #f4b6a5
+color #F4B6A5
