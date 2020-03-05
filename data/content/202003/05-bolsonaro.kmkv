@@ -26,14 +26,14 @@ description El "Trump tropical" is at it again *rolls eyes*
 year 2020
 author AFP Y NPN Noticias
 featured{kmkv} {
-    title <b>Bolsonaro vs. Periodistas</b> 
+    title <b>Bolsonaro vs. Periodistas</b>
     text1 Bolsonaro manda a un imitador a repartir bananos entre los reporteros... ¿qué? Te lo explicamos.
     text2 AFP y NPN NOTICIAS
-    pretitle Medio Ambiente:
+    pretitle POLÍTICA: 
     highlightColor #03FFAF
 }
 type article
-subtitle El "Trump tropical" envíó a un imitador para que repartiera bananos a los periodistas, haciendo alusión "hacer una banana", el gesto despectivo que los medios suelen recibir de él. 
+subtitle El "Trump tropical" envíó a un imitador para que repartiera bananos a los periodistas, haciendo alusión "hacer una banana", el gesto despectivo que los medios suelen recibir de él.
 month 03
 tags{array} noticias
 videoID 
