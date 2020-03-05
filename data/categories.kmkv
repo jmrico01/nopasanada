@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202003/refugiados-lesbos
+        featured{array} /content/202003/05-bolsonaro
     }
     loimportante{kmkv} {
         name Lo Importante
