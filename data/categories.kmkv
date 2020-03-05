@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202003/05-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202003/02-polanski
+        featured{array} /content/202003/05-piramide-egipto
     }
     video{kmkv} {
         name Video
