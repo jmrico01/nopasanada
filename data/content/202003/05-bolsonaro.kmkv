@@ -12,7 +12,7 @@ text {
 <p>La &uacute;ltima vez que lo hizo fue el 15 de febrero, en respuesta a una pregunta sobre un presunto proyecto de construir una oficina para su esposa en la biblioteca de la Presidencia.</p>
 <p>"Ustedes solo se preocupan por tonter&iacute;as", lanz&oacute; Bolsonaro en esa ocasi&oacute;n, antes de subir a su coche.</p>
 }
-title Bolsonaro vs. Periodistas: Bolsonaro manda a un imitador a repartir bananos entre los reporteros
+title Bolsonaro manda a un imitador a repartir bananos entre reporteros
 day 04
 text1 
 text2 
@@ -29,7 +29,7 @@ featured{kmkv} {
     title <b>Bolsonaro vs. Periodistas</b>
     text1 Bolsonaro manda a un imitador a repartir bananos entre los reporteros... ¿qué? Te lo explicamos.
     text2 AFP y NPN NOTICIAS
-    pretitle POLÍTICA: 
+    pretitle POLÍTICA:
     highlightColor #03FFAF
 }
 type article
