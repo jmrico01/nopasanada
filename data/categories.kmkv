@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202003/04-lo-importante
+        featured{array} /content/202003/05-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202003/04-lo-importante
+    featured{array} /content/202003/05-lo-importante
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202003/02-polanski
