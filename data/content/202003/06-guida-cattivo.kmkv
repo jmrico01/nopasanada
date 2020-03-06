@@ -44,7 +44,7 @@ description No es una paloma, no es un margarita, es algo que no debería ser, e
 year 2020
 author Pietro Cercone
 featured{kmkv} {
-    title Tragos: Cattivo
+    title Trago: Cattivo
     text1 Se llama El Cattivo y es mi nuevo trago favorito del verano
     text2 Por Pietro Cercone
     pretitle RECOMENDADO:
@@ -53,7 +53,7 @@ featured{kmkv} {
 type article
 subtitle No es una paloma, no es un margarita, es algo que no debería ser, es algo propio, es el 2020, es: El Cattivo. 
 month 03
-tags{array} guida-bebidas
+tags{array} guida
 videoID 
 titlePoster 
 color #00FFFF
