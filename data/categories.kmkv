@@ -50,7 +50,7 @@ guida{kmkv} {
     }
     recomendado{kmkv} {
         name Recomendado
-        featured{array} /content/202001/08-herencia-cultural-de-iran
+        featured{array} /content/202003/04-guida-restaurantes-chinos
     }
 }
 noticias{kmkv} {
