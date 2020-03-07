@@ -83,6 +83,7 @@
     font-size: 3.4vw;
     letter-spacing: -0.1vw;
     line-height: 3.9vw;
+    margin-bottom: 3.2vw;
 }
 .articleSubtitle .backgroundColor {
     position: absolute;
@@ -100,8 +101,7 @@
     letter-spacing: 0vw;
     line-height: 2vw; /* for authors with e-mails */
     overflow: hidden;
-
-    padding-top: 3.2vw;
+    margin-bottom: 3.6vw;
 }
 .articleSubtextLeft {
     float: left;
@@ -116,8 +116,16 @@
     font-size: 3.4vw;
     letter-spacing: 0.2vw;
 
-    padding-top: 3.6vw;
     padding-bottom: 4.4vw;
+}
+
+.articleShareButtons {
+    overflow: hidden;
+}
+.fb-like, .twitter-share-button {
+    margin-right: 0.5vw;
+    margin-bottom: 0.5vw;
+    float: left;
 }
 
 .articleLoc {
