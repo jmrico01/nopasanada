@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/06-lo-importante
+    featured{array} /content/202003/04-guida-restaurantes-chinos
 }
 other{kmkv} {
     name Other (Internal)
