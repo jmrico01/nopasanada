@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/04-guida-restaurantes-chinos
+    featured{array} /content/202003/08-equidad-genero-nordica
 }
 other{kmkv} {
     name Other (Internal)
@@ -94,10 +94,10 @@ venus{kmkv} {
         featured{array} /content/201910/16-salud-mental-no-es-moda
     }
     displayOrder{array} derechos, inspiradoras, moda, salud
-    featured{array} /content/202002/katherine-johnson
+    featured{array} /content/202003/08-equidad-genero-nordica
     derechos{kmkv} {
         name Derechos de las mujeres
-        featured{array} /content/202003/02-polanski
+        featured{array} /content/202003/08-equidad-genero-nordica
     }
     inspiradoras{kmkv} {
         name Mujeres inspiradoras
