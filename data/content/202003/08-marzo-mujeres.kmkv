@@ -1,0 +1,35 @@
+text {
+<p><strong>Voz y guion:</strong> Luisa Mora Fern&aacute;ndez</p>
+<p><strong>Producido por:</strong> Lauren Gilleland</p>
+<p><strong>Graficos &amp; Direcci&oacute;n Creativa:</strong> Lauren Gilleland</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title Que no te feliciten hoy
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202003/headers/08-marzo-mujeres.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Que no te feliciten hoy. #8M
+year 2020
+featured{kmkv} {
+    title QUE NO TE FELICITEN HOY
+    text1 
+    text2 NO PASA NADA VENUS
+    pretitle 8 DE MARZO:
+    highlightColor #00FFFF
+}
+type video
+subtitle 
+month 03
+tags{array} venus-derechos,venus-inspiradoras
+videoID KZJBcs2zLNk
+titlePoster 
+color #F8FF00
