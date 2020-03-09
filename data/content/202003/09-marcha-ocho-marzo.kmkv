@@ -43,11 +43,11 @@ media{kmkv} {
 }
 description Las estadísticas que demuestran por qué necesitamos avanzar como sociedad hacia la igualdad entre géneros
 year 2020
-author Luisa Mora Fernández
+author NPN EDITORIAL
 featured{kmkv} {
     title ¿Por qué <b>marchamos</b>?
     text1 8 de Marzo en San José: los números que marchamos para cambiar.
-    text2 LUISA MORA FERNÁNDEZ
+    text2 POR NPN EDITORIAL
     pretitle SOCIEDAD:
     highlightColor #FFFF00
 }
