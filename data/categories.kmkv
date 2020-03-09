@@ -5,14 +5,14 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202003/05-memorylane-arnold
+    featured{array} /content/202003/interesante-codigo-morse
     cine{kmkv} {
         name Cine
         featured{array} /content/202003/03-jojorabbit
     }
     historias{kmkv} {
         name Historias
-        featured{array} /content/201912/22-navidad-laica
+        featured{array} /content/202003/interesante-codigo-morse
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
