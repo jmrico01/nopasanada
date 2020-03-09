@@ -32,7 +32,7 @@ featured{kmkv} {
     title <b>Max von Sydow</b>
     text1 Murió el favorito de Ingmar Bergman
     text2 Por AFP y NPN CULTURA
-    pretitle CULTURA: 
+    pretitle CULTURA:
     highlightColor #00FFF2
 }
 type article
