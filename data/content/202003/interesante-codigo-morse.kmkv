@@ -51,24 +51,18 @@ customTop
 media{kmkv} {
     header /images/202003/headers/interesante-codigo-morse.jpg
 }
-description {
-Si ponen atención, podrían encontrar mensajes en los lugares y momentos menos esperados.
-
-}
+description Si ponen atención, podrían encontrar mensajes en los lugares y momentos menos esperados.
 year 2020
-author AFP y NPN Noticias
+author SERGIO SALAZAR
 featured{kmkv} {
     title #Interesante: Código Morse
-    text1 Dos historias en las que un código secreto ayudó a víctimas de secuestro. 
-    text2 Por AFP y NPN Noticias
+    text1 Dos historias en las que un código secreto ayudó a víctimas de secuestro
+    text2 Por Segio Salazar
     pretitle HISTORIAS:
     highlightColor #00FFF2
 }
 type article
-subtitle {
-Siempre pongan atención; podrían encontrar mensajes en los lugares y momentos menos esperados.
-
-}
+subtitle Siempre pongan atención; podrían encontrar mensajes en los lugares y momentos menos esperados.
 month 03
 tags{array} mas-historias
 videoID 
