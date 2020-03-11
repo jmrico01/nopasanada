@@ -23,10 +23,10 @@ description Idea del proyecto es recolectar información migratoria de la especi
 year 2020
 author Por AFP y NPN CULTURA
 featured{kmkv} {
-    title <b>Ruta de Tiburones Martillo</b>
-    text1 Rastrearán a cinco tiburones martillo por el pacífico para ayudar en su conservación
+    title <b>Ruta Tiburones Martillo</b>
+    text1 Rastrearán a 5 tiburones martillo por el pacífico para ayudar en su conservación
     text2 Por AFP y NPN CIENCIA
-    pretitle CULTURA:
+    pretitle MEDIO AMBIENTE:
     highlightColor #00FFF2
 }
 type article
