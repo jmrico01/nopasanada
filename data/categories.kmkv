@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202003/guacamayas-brazil
+        featured{array} /content/202003/10-tiburones-martillo
     }
     saludmental{kmkv} {
         name Salud mental
@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202003/10-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202003/10-lo-importante
+    featured{array} /content/202003/10-tiburones-martillo
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202003/05-piramide-egipto
