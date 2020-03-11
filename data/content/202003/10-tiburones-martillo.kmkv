@@ -17,26 +17,20 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202003/headers/max-von.jpg
+    header /images/202003/headers/10-tiburones-martillo.jpg
 }
-description {
-Idea del proyecto es recolectar información migratoria de la especie
-
-}
+description Idea del proyecto es recolectar información migratoria de la especie
 year 2020
 author Por AFP y NPN CULTURA
 featured{kmkv} {
-    title <b>Max von Sydow</b>
-    text1 Murió el favorito de Ingmar Bergman
-    text2 Por AFP y NPN CULTURA
+    title <b>Ruta de Tiburones Martillo</b>
+    text1 Rastrearán a cinco tiburones martillo por el pacífico para ayudar en su conservación
+    text2 Por AFP y NPN CIENCIA
     pretitle CULTURA:
     highlightColor #00FFF2
 }
 type article
-subtitle {
-Idea del proyecto es recolectar información migratoria de esta especie amenazada
-
-}
+subtitle Idea del proyecto es recolectar información migratoria de esta especie amenazada
 month 03
 tags{array} mas-ambiente
 videoID 
