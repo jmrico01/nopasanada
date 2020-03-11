@@ -5,7 +5,7 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202003/interesante-codigo-morse
+    featured{array} /content/202003/11-8preguntas-videojuegos
     cine{kmkv} {
         name Cine
         featured{array} /content/202003/03-jojorabbit
