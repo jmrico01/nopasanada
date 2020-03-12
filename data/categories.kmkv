@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/12-lo-importante
+    featured{array} /content/202003/12-memorylane-tamagotchi
 }
 other{kmkv} {
     name Other (Internal)
