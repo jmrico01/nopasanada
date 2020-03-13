@@ -1,6 +1,6 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202003/12-memorylane-tamagotchi
+    featured{array} /content/202003/12-bob-dylan
 }
 mas{kmkv} {
     name Más
@@ -8,7 +8,7 @@ mas{kmkv} {
     featured{array} /content/202003/12-bob-dylan
     cine{kmkv} {
         name Cine
-        featured{array} /content/202003/12-bob-dylan
+        featured{array} /content/202003/03-jojorabbit
     }
     historias{kmkv} {
         name Historias
