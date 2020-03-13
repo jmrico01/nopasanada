@@ -68,7 +68,7 @@ featured{kmkv} {
     title <b>BOB DYLAN</b>
     text1 El hombre. El mito. La leyenda.
     text2 POR SERGIO SALAZAR
-    pretitle COLUMNA:
+    pretitle MÚSICA:
     highlightColor #FFFF00
 }
 type article
