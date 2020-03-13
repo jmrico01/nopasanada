@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202003/12-lo-importante
+        featured{array} /content/202003/13-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202003/12-lo-importante
+    featured{array} /content/202003/13-lo-importante
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202003/max-von
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/12-memorylane-tamagotchi
+    featured{array} /content/202003/13-lo-importante
 }
 other{kmkv} {
     name Other (Internal)
