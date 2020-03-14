@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/13-lo-importante
+    featured{array} /content/202003/14-bibliotecafavela
 }
 other{kmkv} {
     name Other (Internal)
@@ -94,7 +94,7 @@ venus{kmkv} {
         featured{array} /content/201910/16-salud-mental-no-es-moda
     }
     displayOrder{array} derechos, inspiradoras, moda, salud
-    featured{array} /content/202003/09-marcha-ocho-marzo
+    featured{array} /content/202003/14-bibliotecafavela
     derechos{kmkv} {
         name Derechos de las mujeres
         featured{array} /content/202003/08-equidad-genero-nordica
