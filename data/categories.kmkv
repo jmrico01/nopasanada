@@ -36,10 +36,10 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202003/04-guida-restaurantes-chinos
+        featured{array} /content/202003/14-covid-19
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202003/06-guida-cattivo
+    featured{array} /content/202003/14-covid-19
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202003/06-guida-cattivo
@@ -50,7 +50,7 @@ guida{kmkv} {
     }
     recomendado{kmkv} {
         name Recomendado
-        featured{array} /content/202003/04-guida-restaurantes-chinos
+        featured{array} /content/202003/14-covid-19
     }
 }
 noticias{kmkv} {
