@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/14-bibliotecafavela
+    featured{array} /content/202003/14-covid-19
 }
 other{kmkv} {
     name Other (Internal)
