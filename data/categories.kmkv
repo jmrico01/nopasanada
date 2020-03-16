@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202002/29-ciencia-gusto
+        featured{array} /content/202003/16-segundo-big-bang
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/14-covid-19
+    featured{array} /content/202003/16-segundo-big-bang
 }
 other{kmkv} {
     name Other (Internal)
