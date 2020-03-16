@@ -71,7 +71,7 @@ noticias{kmkv} {
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202003/09-lo-importante-con-guiri
+        featured{array} /content/202003/13-lo-importante-con-guiri
     }
 }
 coleccion{kmkv} {
