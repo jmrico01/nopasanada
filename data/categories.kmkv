@@ -12,11 +12,11 @@ mas{kmkv} {
     }
     historias{kmkv} {
         name Historias
-        featured{array} /content/202003/interesante-codigo-morse
+        featured{array} /content/202003/17-favela-verde
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202003/16-segundo-big-bang
+        featured{array} /content/202003/17-pinguino
     }
     ambiente{kmkv} {
         name Medio ambiente
