@@ -3,8 +3,8 @@ text {
 <hr />
 <p><strong>NOTICIAS:&nbsp;</strong></p>
 <p>$image/noticias$</p>
-<p>Lo Importante Newsletter: Mantente inform&aacute;do con las 4 noticias internacionales m&aacute;s importantes del d&iacute;a, de lunes a viernes: <a href="https://mailchi.mp/3eef86616803/nopasanada">s&uacute;scribete aqui.</a>&nbsp;</p>
-<p>Lo Importante Podcast: Escucha las noticias m&aacute;s importantes en 4 minutos o menos: <a href="https://open.spotify.com/show/1IeEOVRq66EghJUd7QRV0s">s&uacute;scribete aqui.</a>&nbsp;</p>
+<p>Lo Importante Newsletter: Mantente informado con las 4 noticias internacionales m&aacute;s importantes del d&iacute;a, de lunes a viernes: <a href="https://mailchi.mp/3eef86616803/nopasanada">s&uacute;scribete aqui.</a>&nbsp;</p>
+<p>Lo Importante Podcast: Escuch&aacute; las noticias m&aacute;s importantes en 4 minutos o menos: <a href="https://open.spotify.com/show/1IeEOVRq66EghJUd7QRV0s">s&uacute;scribete aqui.</a>&nbsp;</p>
 <p>Lo Importante con Guiri Uribe: Solo lo importante en un programa de noticias diferente: lunes - mi&eacute;rcoles y viernes: <a href="https://www.youtube.com/channel/UC-Xh318HepZfJ-wHX1I8gGg?view_as=subscriber%3Fsub_confirmation%3D1">s&uacute;scribete aqui.</a></p>
 <hr />
 <p><strong>SHOWS</strong>:</p>
@@ -15,20 +15,19 @@ text {
 <hr />
 <p><strong>PODCASTS</strong>:</p>
 <p>$image/podcasts$</p>
-<p>Lo Importante | NOTICIAS: Escucha las noticias m&aacute;s importantes en 4 minutos o menos: <a href="https://open.spotify.com/show/1IeEOVRq66EghJUd7QRV0s">s&uacute;scribete aqui.</a>&nbsp;</p>
-<p>Lado B | CULTURA: Lado B es un podcast para escuchar las conversaciones y los after-thoughts que acompa&ntilde;an los art&iacute;culos editoriales de No Pasa Nada. Escrito y producido por Luisa Mora Fern&aacute;ndez: <a href="https://open.spotify.com/show/5XGVHQnbRPBr1EnvBB5nHr">s&uacute;scribete aqui.&nbsp;</a></p>
-<p>NPN Editorial:&nbsp; <a href="https://open.spotify.com/show/2IEPPNwdEcH27NjM8UXiYl">s&uacute;scribete aqui.&nbsp;</a></p>
+<p>Lo Importante | NOTICIAS: Informate sobre lo que pasa en el mundo en alrededor de 4 minutos: <a href="https://open.spotify.com/show/1IeEOVRq66EghJUd7QRV0s">s&uacute;scribete aqui.</a>&nbsp;</p>
+<p>Lado B | CULTURA: Lado B es un podcast para escuchar las conversaciones y los after-thoughts que acompa&ntilde;an los art&iacute;culos editoriales de No Pasa Nada. Cada mes, exploramos un tema espec&iacute;fico que no cab&iacute;a en un solo art&iacute;culo. Escrito y producido por Luisa Mora Fern&aacute;ndez y Gustav Magnusson Holm: <a href="https://open.spotify.com/show/5XGVHQnbRPBr1EnvBB5nHr">s&uacute;scribete aqui.&nbsp;</a></p>
+<p>NPN Editorial: &iquest;Prefer&iacute;s escuchar? Grabamos nuestros art&iacute;culos de opini&oacute;n, ciencia, sociedad y arte para que los pod&aacute;s escuchar mientras cocin&aacute;s... o cuando quer&aacute;s. <a href="https://open.spotify.com/show/2IEPPNwdEcH27NjM8UXiYl">s&uacute;scribete aqui.&nbsp;</a></p>
 <hr />
 <p><strong>COLUMNAS:</strong></p>
 <p>$image/columnas$</p>
-<p>#Adulting:&nbsp;</p>
-<p>#8Preguntas: cuando tenemos&nbsp;</p>
-<p>#MemoryLane:</p>
-<p>#Interesante:</p>
+<p>#Adulting: &iexcl;Ser adulto es dif&iacute;cil! Una columna sobre la prometida adultez que nunca lleg&oacute;. Exploraciones humor&iacute;sticas sobre llevar el #adulting a la pr&aacute;ctica... y los frecuentes fallos que vienen con eso.</p>
+<p>#Neuro.ciencia: La doctora Ana Pamela nos cuenta curiosidades m&eacute;dicas y cient&iacute;ficas que responden a preguntas que no sab&iacute;as que ten&iacute;as.&nbsp;</p>
+<p>#MemoryLane: Nuestra infancia estuvo llena de productos, juguetes, programas y situaciones que nos ense&ntilde;aron m&aacute;s de lo que recordamos. Una columna para millennials en transici&oacute;n hacia la adultez.</p>
 <hr />
 <p><strong>ARTICULOS</strong>:</p>
 <p>$image/articulos$</p>
-<p>Opini&oacute;n, salud, ciencia, arte, m&uacute;sica, cine, medio ambiente.&nbsp;</p>
+<p>Opini&oacute;n, salud, ciencia, arte, m&uacute;sica, cine, medio ambiente: todo lo que nos interesa, todo lo que vale la pena saber, y todo lo que vale la pena discutir.&nbsp;</p>
 <p>Guida:</p>
 <p>Venus:</p>
 <p>Ludi:</p>
@@ -64,7 +63,7 @@ media{kmkv} {
 year 2019
 featured{kmkv} {
     title <b>NO</b> PASA<br>NADA<b>.</b>
-    text1 ESTO ES LO QUÉ SOMOS Y LO QUE HACEMOS.
+    text1 ESTO ES LO QUE SOMOS Y LO QUE HACEMOS.
     text2 
     pretitle QUIÉNES SOMOS
     highlightColor #36FFFD
