@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/emergencia-nacional-coronavirus
+    featured{array} /content/202003/17-lo-importante
 }
 other{kmkv} {
     name Other (Internal)
