@@ -1,0 +1,43 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El presidente de Costa Rica, Carlos Alvarado, decret&oacute; este lunes la prohibici&oacute;n de entrada de extranjeros y la suspensi&oacute;n de clases en todos los centros educativos para contener la propagaci&oacute;n del nuevo coronavirus, que registra 41 contagios en el pa&iacute;s.</p>
+<p>El mandatario tambi&eacute;n firm&oacute; un decreto que declara el estado de emergencia, que permite al gobierno agilizar la movilizaci&oacute;n de recursos para atender la emergencia por el COVID-19.</p>
+<p>"Adoptamos estas medidas para protegernos, es tiempo de unirnos como pa&iacute;s para salir adelante", declar&oacute; Alvarado en conferencia de prensa junto a miembros de su gabinete.</p>
+<p>La suspensi&oacute;n de entrada al pa&iacute;s para extranjeros regir&aacute; desde la medianoche del mi&eacute;rcoles hasta el final del d&iacute;a 12 de abril, y rige para quienes ingresen por aire, tierra y mar.</p>
+<p>Los costarricenses y extranjeros residentes en el pa&iacute;s podr&aacute;n ingresar, pero deber&aacute;n realizar un aislamiento preventivo por 14 d&iacute;as.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La medida es un golpe para el pa&iacute;s, el cual depende en gran parte del turismo y recibe a unos tres millones de visitantes extranjeros cada a&ntilde;o.</p>
+<p>El mandatario anunci&oacute; tambi&eacute;n la suspensi&oacute;n de lecciones en centros educativos p&uacute;blicos y privados a partir del 17 de marzo, con una vuelta a clase prevista para el 13 de abril.</p>
+<p>El calendario escolar fue extendido al 23 de diciembre para compensar el tiempo de suspensi&oacute;n.</p>
+<p>"Estas medidas buscan, con toda responsabilidad, que no se transmita el virus en poco tiempo", dijo el ministro de Salud, Daniel Salas. "No vamos a detener el virus, queremos reducir su propagaci&oacute;n", agreg&oacute;.</p>
+<p>El ministro orden&oacute; la v&iacute;spera el cierre de bares, discotecas y casinos, mientras que los restaurantes y salas de cine podr&aacute;n operar a un tope de 50% de su capacidad.</p>
+<p>En tanto, la dirigencia deportiva estudia la suspensi&oacute;n del campeonato de f&uacute;tbol, que se realiza actualmente a puerta cerrada como parte de las acciones para evitar aglomeraciones.</p>
+<p>De los 41 casos de coronavirus en Costa Rica, seis corresponden a extranjeros.</p>
+}
+title Costa Rica impide entrada de extranjeros y suspende clases como medidas de emergencia
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202003/headers/emergencia-nacional-coronavirus.jpg
+}
+description Costa Rica está oficialmente en "emergencia nacional" y pide que sus habitantes se queden en casa
+year 2020
+author AFP Y NPN Noticias
+featured{kmkv} {
+    title <b>EMERGENCIA NACIONAL</b>
+    text1 Costa Rica decretó emergencia nacional para contener al coronavirus
+    text2 AFP y NPN NOTICIAS
+    pretitle COVID-19:
+    highlightColor #FFE9E9
+}
+type article
+subtitle Lo que significa el decreto de emergencia nacional contra el Covid-19.
+month 03
+tags{array} noticias
+videoID 
+titlePoster 
+color #FFE9E9

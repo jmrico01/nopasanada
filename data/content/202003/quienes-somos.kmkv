@@ -1,0 +1,59 @@
+text {
+<hr />
+<p style="text-align: center;"><em><strong>&nbsp;</strong></em></p>
+<p style="text-align: center;"><em><strong>Estamos en momentos dif&iacute;ciles. En NO PASA NADA vamos a trabajar para mantenerlos informados y entretenidos con contenido original y periodismo independiente.</strong></em></p>
+<p style="text-align: center;">&nbsp;</p>
+<hr />
+<p style="text-align: center;"><strong>NOTICIAS</strong><em><strong>:&nbsp;</strong></em></p>
+<p style="text-align: left;"><strong>Lo Importante Newsletter: </strong><em>Mantente inform&aacute;do con<strong> l</strong>as 4 noticias internacionales m&aacute;s importantes del d&iacute;a, de lunes a viernes: <a href="https://mailchi.mp/3eef86616803/nopasanada" target="_blank" rel="noopener">s&uacute;scribete aqui.&nbsp;</a></em></p>
+<p style="text-align: left;"><em>$image/newsletter$</em></p>
+<p style="text-align: left;"><strong>Lo Importante Podcast: </strong><em>Escucha las noticias m&aacute;s importantes en 4 minutos o menos:<a href="https://open.spotify.com/show/1IeEOVRq66EghJUd7QRV0s" target="_blank" rel="noopener"> s&uacute;scribete aqui.&nbsp;</a></em></p>
+<p style="text-align: left;"><strong>Lo Importante con Guiri Uribe: </strong><em>Solo lo importante en un programa de noticias diferente: lunes - mi&eacute;rcoles y viernes: <a href="https://www.youtube.com/channel/UC-Xh318HepZfJ-wHX1I8gGg?view_as=subscriber%3Fsub_confirmation%3D1" target="_blank" rel="noopener">s&uacute;scribete aqui.&nbsp;</a></em></p>
+<hr />
+<p style="text-align: center;"><strong>SHOWS:</strong></p>
+<p style="text-align: left;"><strong>Cola de Gallo | COCT&Eacute;LES:&nbsp;</strong><em>Un bartender profesional te ense&ntilde;a a hacer los mejores c&oacute;cteles: <a href="https://www.youtube.com/watch?v=Xj7fszaT8Ys&amp;list=PLjPrs9iPjaxWHTL2uShAJ-HLLnc7ydJA2" target="_blank" rel="noopener">Ver aqu&iacute;</a></em></p>
+<p style="text-align: left;"><strong>Reto a la M&oacute;de</strong> |&nbsp;<strong>MODA</strong>:<em> Makeovers, challenges y m&aacute;s: <a href="https://www.youtube.com/watch?v=3wgbazrT0YQ&amp;list=PLjPrs9iPjaxU8hZICLPJSvz4KWLfy4rBT" target="_blank" rel="noopener">Ver aqu&iacute;</a></em></p>
+<p style="text-align: left;"><span style="font-family: FuturaPTMedium;"><strong>Men&uacute; Perfecto </strong></span>| <strong>COMIDA</strong>: <em>Nuestro editor de comida Alberto Gatgens prueba los mejores men&uacute;s del pa&iacute;s: <a href="https://www.youtube.com/watch?v=pPLubeJyhRU&amp;list=PLjPrs9iPjaxVe1eWTpzJtvJzHRVbsb8DW" target="_blank" rel="noopener">Ver aqu&iacute;</a></em></p>
+<hr />
+<p style="text-align: center;"><strong>PODCASTS:</strong></p>
+<p style="text-align: left;"><strong>Lado B | CULTURA: </strong><em>Lado B es un podcast para escuchar las conversaciones y los after-thoughts que acompa&ntilde;an los art&iacute;culos editoriales de No Pasa Nada. Escrito y producido por Luisa Mora Fern&aacute;ndez: <a href="https://www.google.com/search?q=lado+b+no+pasa+nada+spotify&amp;rlz=1C5CHFA_enUS846US846&amp;oq=lado+b+no+pasa+nada+spotify&amp;aqs=chrome..69i57.8768j0j7&amp;sourceid=chrome&amp;ie=UTF-8" target="_blank" rel="noopener">s&uacute;scribete aqui.&nbsp;</a></em></p>
+<hr />
+<p style="text-align: center;"><strong>NEWSLETTERS:</strong></p>
+<p style="text-align: center;"><strong>La Guida | COMIDA: </strong><em>Que comer, tomar y hacer.&nbsp; Recetas, tragos e ideas: <a href="https://mailchi.mp/nopasanada.com/la_guida" target="_blank" rel="noopener">s&uacute;scribete aqui.</a></em></p>
+}
+title Para pasar el tiempo: conozcan quienes somos y qué hacemos.
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    mealprep /images/202003/14-covid-19/mealprep.jpg
+    header /images/202003/headers/quienes-somos.jpg
+    newsletter /images/202003/quienes-somos/newsletter.jpg
+    editorial /images/202003/quienes-somos/editorial.jpg
+    fermentos /images/202003/14-covid-19/fermentos.jpg
+    cookies /images/202003/14-covid-19/cookies.jpg
+    emptyfridge1 /images/202003/14-covid-19/emptyfridge1.jpg
+    licor /images/202003/14-covid-19/licor.jpg
+    123pasta /images/202003/14-covid-19/123pasta.jpg
+    meat /images/202003/14-covid-19/meat.jpg
+}
+description Para pasar el tiempo: conozcan quienes somos y qué hacemos.
+year 2020
+author Pietro Cercone
+featured{kmkv} {
+    title NO PASA NADA <b>HOY*<b>
+    text1 ESTO ES LO QUÉ SOMOS Y LO QUE HACEMOS.
+    text2 POR NPN
+    pretitle QUIÉNES SOMOS
+    highlightColor #FFFF00
+}
+type article
+subtitle Lo obvio, lo necesario y lo demás.
+month 03
+tags{array} mas
+videoID 
+titlePoster 
+color #FFFF00

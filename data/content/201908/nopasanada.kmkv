@@ -1,4 +1,41 @@
 text {
+<p>Estamos en momentos dif&iacute;ciles. En NO PASA NADA vamos a trabajar para mantenerlos informados y entretenidos con contenido original y periodismo independiente.</p>
+<hr />
+<p><strong>NOTICIAS:&nbsp;</strong></p>
+<p>$image/noticias$</p>
+<p>Lo Importante Newsletter: Mantente inform&aacute;do con las 4 noticias internacionales m&aacute;s importantes del d&iacute;a, de lunes a viernes: <a href="https://mailchi.mp/3eef86616803/nopasanada">s&uacute;scribete aqui.</a>&nbsp;</p>
+<p>Lo Importante Podcast: Escucha las noticias m&aacute;s importantes en 4 minutos o menos: <a href="https://open.spotify.com/show/1IeEOVRq66EghJUd7QRV0s">s&uacute;scribete aqui.</a>&nbsp;</p>
+<p>Lo Importante con Guiri Uribe: Solo lo importante en un programa de noticias diferente: lunes - mi&eacute;rcoles y viernes: <a href="https://www.youtube.com/channel/UC-Xh318HepZfJ-wHX1I8gGg?view_as=subscriber%3Fsub_confirmation%3D1">s&uacute;scribete aqui.</a></p>
+<hr />
+<p><strong>SHOWS</strong>:</p>
+<p>$image/shows$</p>
+<p>Cola de Gallo | COCT&Eacute;LES: Un bartender profesional te ense&ntilde;a a hacer los mejores c&oacute;cteles: <a href="https://www.youtube.com/watch?v=Xj7fszaT8Ys&amp;list=PLjPrs9iPjaxWHTL2uShAJ-HLLnc7ydJA2">Ver aqu&iacute;</a></p>
+<p>Reto a la M&oacute;de | MODA: Makeovers, challenges y m&aacute;s: <a href="https://www.youtube.com/watch?v=3wgbazrT0YQ&amp;list=PLjPrs9iPjaxU8hZICLPJSvz4KWLfy4rBT">Ver aqu&iacute;</a></p>
+<p>Men&uacute; Perfecto | COMIDA: Nuestro editor de comida Alberto Gatgens prueba los mejores men&uacute;s del pa&iacute;s: <a href="https://www.youtube.com/watch?v=pPLubeJyhRU&amp;list=PLjPrs9iPjaxVe1eWTpzJtvJzHRVbsb8DW">Ver aqu&iacute;</a></p>
+<hr />
+<p><strong>PODCASTS</strong>:</p>
+<p>$image/podcasts$</p>
+<p>Lo Importante | NOTICIAS: Escucha las noticias m&aacute;s importantes en 4 minutos o menos: <a href="https://open.spotify.com/show/1IeEOVRq66EghJUd7QRV0s">s&uacute;scribete aqui.</a>&nbsp;</p>
+<p>Lado B | CULTURA: Lado B es un podcast para escuchar las conversaciones y los after-thoughts que acompa&ntilde;an los art&iacute;culos editoriales de No Pasa Nada. Escrito y producido por Luisa Mora Fern&aacute;ndez: <a href="https://open.spotify.com/show/5XGVHQnbRPBr1EnvBB5nHr">s&uacute;scribete aqui.&nbsp;</a></p>
+<p>NPN Editorial:&nbsp; <a href="https://open.spotify.com/show/2IEPPNwdEcH27NjM8UXiYl">s&uacute;scribete aqui.&nbsp;</a></p>
+<hr />
+<p><strong>COLUMNAS:</strong></p>
+<p>$image/columnas$</p>
+<p>#Adulting:&nbsp;</p>
+<p>#8Preguntas: cuando tenemos&nbsp;</p>
+<p>#MemoryLane:</p>
+<p>#Interesante:</p>
+<hr />
+<p><strong>ARTICULOS</strong>:</p>
+<p>$image/articulos$</p>
+<p>Opini&oacute;n, salud, ciencia, arte, m&uacute;sica, cine, medio ambiente.&nbsp;</p>
+<p>Guida:</p>
+<p>Venus:</p>
+<p>Ludi:</p>
+<hr />
+<p><strong>NEWSLETTERS:</strong></p>
+<p>La Guida | COMIDA: Que comer, tomar y hacer. &nbsp;Recetas, tragos e ideas: <a href="https://mailchi.mp/nopasanada.com/la_guida">s&uacute;scribete aqui.</a></p>
+<hr />
 <p>La incertidumbre es una de nuestras respuestas m&aacute;s humanas. Aparece ante eventos inesperados, o momentos que quiebran nuestra rutina. Adem&aacute;s, la incertidumbre es tan cordial que no s&oacute;lo nos acompa&ntilde;a cuando no tenemos control e intentamos buscar orden, pero adem&aacute;s, cuando tenemos control y buscamos hacer algo diferente.</p>
 <p>La incertidumbre es ese sentimiento que nos abruma con impotencia, nos confunde, nos pesa como yugo de madera vieja en los hombros y nos quita el aire en ese espacio hueco entre nuestras costillas, arriba del estomago y debajo del coraz&otilde;n.</p>
 <p>La incertidumbre es miedo, es ansiedad, es emoci&oacute;n y felicidad. Es lo que sentimos al entender que vivimos nuestro primer amor, y que ese mismo se acab&oacute;. La incertidumbre es el no saber qu&eacute; va a pasar.</p>
@@ -17,18 +54,24 @@ text4
 customTop 
 media{kmkv} {
     header /images/201908/headers/garrotex1.jpg
+    podcasts /images/201908/nopasanada/podcasts.jpg
+    newsletter /images/201908/nopasanada/newsletter.jpg
+    articulos /images/201908/nopasanada/articulos.jpg
+    shows /images/201908/nopasanada/shows.jpg
+    columnas /images/201908/nopasanada/columnas.jpg
+    noticias /images/201908/nopasanada/noticias.jpg
 }
 year 2019
 featured{kmkv} {
     title <b>NO</b> PASA<br>NADA<b>.</b>
-    text1 LA PLATAFORMA PREMIER DE CONTENIDO ORIGINAL, REPORTAJES Y NOTICIAS EN ESPAÑOL PARA Y POR UNA NUEVA GENERACIÓN
-    text2 VER VIDEO
-    pretitle ESTO ES:
-    highlightColor #36fffd
+    text1 ESTO ES LO QUÉ SOMOS Y LO QUE HACEMOS.
+    text2 
+    pretitle QUIÉNES SOMOS
+    highlightColor #36FFFD
 }
-type video
+type text
 month 08
 tags{array} other
 videoID TzxV2HgY35s
 titlePoster No Pasa Nada:<br>El porqué.
-color #36fffd
+color #36FFFD
