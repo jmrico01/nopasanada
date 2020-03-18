@@ -42,7 +42,7 @@ text {
 <p>&nbsp;</p>
 <p><strong>https://nopasanada.com/content/202003/04-guida-restaurantes-chinos</strong></p>
 }
-title Comida rica y económica en casa: Garbanzos con osobuco
+title Una receta para cinco por $4.50: garbanzos con osobuco
 day 18
 text1 
 text2 
@@ -53,18 +53,18 @@ media{kmkv} {
     pop /images/202003/garbanzos-covid/pop.jpg
     header /images/202003/headers/garbanzos-covid.jpg
 }
-description Adaptándose a las épocas del COVID-19: Una receta para 5 por $4.50
+description Comida rica y económica en casa. Adaptándose a las épocas del COVID-19
 year 2020
 author Alberto Gatgens
 featured{kmkv} {
-    title Comida rica y económica en casa: Garbanzos con osobuco
-    text1 Adaptándose a las épocas del COVID-19: Una receta para 5 por $4.50
+    title Una receta para cinco por $4.50: Garbanzos con osobuco
+    text1 Comida rica y económica en casa. Adaptándose a las épocas del COVID-19
     text2 Por Alberto Gatgens
     pretitle LA GUIDA:
     highlightColor #FFC7F7
 }
 type article
-subtitle Adaptándose a las épocas del COVID-19: Una receta para 5 por $4.50
+subtitle Comida rica y económica en casa. Adaptándose a las épocas del COVID-19
 month 03
 tags{array} guida
 videoID 
