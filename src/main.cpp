@@ -903,7 +903,7 @@ int main(int argc, char** argv)
 		}
 
 		const uint64 MEDIA_TYPE_MAX = 12;
-		const uint64 MEDIA_NAME_MAX = 32;
+		const uint64 MEDIA_NAME_MAX = 128;
 		DynamicArray<char> outStringMedia;
 		uint64 i = 0;
 		while (i < outString.size) {

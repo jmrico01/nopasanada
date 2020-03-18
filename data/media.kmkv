@@ -4,6 +4,9 @@ image {
 spotify {
 <iframe src="https://open.spotify.com/embed-podcast/episode/{{ location }}" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 }
+anchor {
+<iframe src="https://anchor.fm/{{ location }}" width="100%" frameborder="0" scrolling="no"></iframe>
+}
 youtube {
 <iframe style="width: 100%; height: 40vw; {{ style }}" src="https://www.youtube.com/embed/{{ location }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 }
