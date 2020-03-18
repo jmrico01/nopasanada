@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/17-lo-importante
+    featured{array} /content/202003/17-neurociencia-mentiras
 }
 other{kmkv} {
     name Other (Internal)
