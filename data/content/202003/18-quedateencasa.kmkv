@@ -34,14 +34,11 @@ customTop
 media{kmkv} {
     header /images/202003/headers/18-quedateencasa.jpg
 }
-description {
-Quedarse en casa por el bien común; hacerlo entretenido y ocupado. 
-
-}
+description Quedarse en casa por el bien común; hacerlo entretenido y ocupado.
 year 2020
 author NPN EDITORIAL
 featured{kmkv} {
-    title Insumos para el <b>distanciamiento social</b>
+    title Insumos para la <b>distancia social</b>
     text1 La distancia social es el nuevo going out
     text2 Por NPN EDITORIAL
     pretitle #Quedatencasa:
