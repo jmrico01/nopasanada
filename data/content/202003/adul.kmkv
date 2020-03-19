@@ -1,0 +1,20 @@
+text <p>Article text goes here.</p>
+title Article title
+day 19
+media{kmkv} {
+    header{image} /images/unused/garrazo.jpg
+}
+description Description
+author Author
+year 2020
+featured{kmkv} {
+    title TITLE -<br>LANDING PAGE
+    text1 SUBTEXT, LEFT
+    text2 SUBTEXT, RIGHT
+    pretitle ARTICLE:
+}
+type article
+subtitle Subtitle
+month 03
+tags{array} cultura, opinion
+color #ffc7f7
