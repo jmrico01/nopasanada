@@ -1,6 +1,6 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202003/12-bob-dylan
+    featured{array} /content/202003/19-adulting-vecinos
 }
 mas{kmkv} {
     name Más
@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202003/18-lo-importante-con-guiri
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202003/18-coronaviruscostarica
+    featured{array} /content/202003/19-lo-importante
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202003/max-von
