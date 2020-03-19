@@ -64,11 +64,11 @@ media{kmkv} {
 }
 description Yo viajare de aquí a allá, buscando hasta el fin… la razón de mi existencia
 year 2020
-author NPN EDITORIAL
+author Sergio Salazar Pacheco
 featured{kmkv} {
     title <b>#MEMORYLANE</b>
     text1 Todos somos Mewtwo
-    text2 POR NPN EDITORIAL
+    text2 POR SERGIO SALAZAR PACHECO
     pretitle COLUMNA:
     highlightColor #00FFFF
 }
