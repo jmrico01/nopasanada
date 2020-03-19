@@ -1,13 +1,11 @@
 text {
-<p>Coronavirus deja 5000 muertos &iquest;Trump y Bolsonaro est&aacute;n contagiados? Guerra Siria entra en d&eacute;cimo a&ntilde;o</p>
+<p>Coronavirus lleva a Chile a estado de emergencia y en Europa ya ha dejado m&aacute;s muertos que en Asia</p>
 <hr />
-<p><strong>Host:</strong> Guiri Uribe &amp; Stella</p>
-<p><strong>Producido por:</strong> Pietro Cercone &amp; Kenneth Bald&iacute;</p>
-<p><strong>Graficos &amp; Direcci&oacute;n Creativa:</strong> Lauren Gilleland</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>Host: Guiri Uribe &amp; Stella</p>
+<p>Producido por: Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p>Graficos &amp; Direcci&oacute;n Creativa: Lauren Gilleland</p>
 }
-title Lo Importante con Guiri Uribe 13.03.20
+title Lo Importante con Guiri Uribe 18.03.20
 day 18
 text1 
 text2 
@@ -15,14 +13,14 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202003/headers/13-lo-importante-con-guiri.jpg
+    header /images/202003/headers/18-lo-importante-con-guiri.jpg
     poster /images/201912/posters/17-solo-lo-importante-video.jpg
 }
-description Coronavirus deja 5000 muertos ¿Trump y Bolsonaro están contagiados? Guerra Siria entra en décimo año
+description Coronavirus lleva a Chile a estado de emergencia y en Europa ya ha dejado más muertos que en Asia
 year 2020
 featured{kmkv} {
     title LO <b>IMPORTANTE<b>
-    text1 
+    text1 CORONAVIRUS LLEVA A CHILE A ESTADO DE EMERGENCIA Y EN EUROPA YA HA DEJADO MÁS MUERTOS QUE EN ASIA
     text2 NO PASA NADA NOTICIAS
     pretitle NOTICIAS:
     highlightColor #00FFFF
@@ -31,6 +29,6 @@ type video
 subtitle 
 month 03
 tags{array} noticias-loimportante,noticias-video
-videoID https://youtu.be/bX424o0a-Es
-titlePoster Lo Importante 13.03.20
+videoID JWqOoX7tg0M
+titlePoster Lo Importante 18.03.20
 color #00FFFF
