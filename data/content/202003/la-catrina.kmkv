@@ -1,0 +1,38 @@
+text {
+<p style="text-align: center;"><strong>Pacheco hace un c&oacute;ctel inspirado en "COCO" de Disney</strong></p>
+<hr />
+<p>Host: Jose Daniel Pacheco</p>
+<p>Producido por: Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p>Graficos &amp; Direcci&oacute;n Creativa: Lauren Gilleland</p>
+<hr />
+<p style="text-align: center;"><strong>Vea m&aacute;s: &iquest;C&oacute;mo hacer pan de masa madre?</strong></p>
+<hr />
+<p>$youtube/zS_yz--t2Uw$</p>
+}
+title Pacheco hace un cóctel inspirado en "COCO" de Disney
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202003/headers/18-lo-importante-con-guiri.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Este cóctel inspirado en COCO de Disney esta perfecto para una noche de cine durante la cuarentena 
+year 2020
+featured{kmkv} {
+    title Pacheco hace un cóctel inspirado en "COCO" de Disney
+    text1 Perfecto para una noche de cine durante la cuarentena 
+    text2 NO PASA NADA NOTICIAS
+    pretitle LA GUIDA:
+    highlightColor #00FFFF
+}
+type video
+subtitle Este cóctel inspirado en COCO de Disney esta perfecto para una noche de cine durante la cuarentena 
+month 03
+tags{array} guida-bebidas
+videoID pbHaaKCgPEk
+titlePoster 
+color #00FFFF
