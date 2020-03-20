@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202003/10-tiburones-martillo
+        featured{array} /content/202003/rinoceronte-esperanza
     }
     saludmental{kmkv} {
         name Salud mental
