@@ -1,0 +1,37 @@
+text {
+<p style="text-align: center;"><strong>COVID19 en el mundo, tecnolog&iacute;as en Asia por virus, sentencia de muerte a violadores en India y m&aacute;s</strong></p>
+<hr />
+<p>Host: Guiri Uribe &amp; Stella</p>
+<p>Producido por: Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p>Graficos &amp; Direcci&oacute;n Creativa: Lauren Gilleland</p>
+<hr />
+<p style="text-align: center;"><strong>Vea m&aacute;s: &iquest;Qu&eacute; recomienda la OMS sobre el Coronavirus?</strong></p>
+<p>$youtube/MJQFqgyJVD4$</p>
+}
+title Lo Importante con Guiri Uribe 20.03.20
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202003/headers/importante-guiri-20.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En Lo Importante de hoy vemos cuál es la realidad del Coronavirus en el mundo hoy, las acciones que esta tomando Asia por la pandemia, la reacción de Grecia y la sentencia de muerte a violadores en India.
+year 2020
+featured{kmkv} {
+    title LO <b>IMPORTANTE<b>
+    text1 COVID19 en el mundo, tecnologías en Asia por virus, sentencia de muerte a violadores en India y más
+    text2 NO PASA NADA NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #00FFFF
+}
+type video
+subtitle En Lo Importante de hoy vemos cuál es la realidad del Coronavirus en el mundo hoy, las acciones que esta tomando Asia por la pandemia, la reacción de Grecia y la sentencia de muerte a violadores en India.
+month 03
+tags{array} noticias-loimportante,noticias-video
+videoID BPjY9D4hWrs
+titlePoster Lo Importante 20.03.20
+color #00FFFF
