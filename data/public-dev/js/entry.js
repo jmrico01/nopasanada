@@ -358,7 +358,6 @@ Dropzone.options.imageDropzone = {
             else {
                 image.uri = imageUri;
             }
-            console.log(images_);
 
             $("#statusMessage").html("Successfully uploaded " + file.name + " as " + file.npnLabel);
             BuzzImageUploadQueue();
@@ -385,6 +384,27 @@ $(document).ready(async function() {
     imageRowTemplate_ = $("#imagesListRowTemplate").html();
     $("#imagesListRowTemplate").remove();
 
+    $("#deleteButton").click(function() {
+        let requestData = {
+            uri: GetEntryUri()
+        };
+        $.ajax({
+            type: "POST",
+            url: "/deleteEntry",
+            contentType: "application/json",
+            async: true,
+            data: JSON.stringify(requestData),
+            success: function(data) {
+                $("#statusMessage").html("Entry deleted successfully.");
+                window.location = "/";
+            },
+            error: function(error) {
+                console.error(error);
+                $("#statusMessage").html("Delete failed, error: " + error);
+            }
+        });
+    });
+
     $.ajax({
         type: "GET",
         url: "/categories",
@@ -405,7 +425,6 @@ $(document).ready(async function() {
                     validTags_.push(category + "-" + subcategory);
                 }
             }
-            console.log(validTags_);
         },
         error: function(error) {
             console.error(error);
@@ -463,27 +482,6 @@ $(document).ready(async function() {
                         }, 20000);
                         $("#saveButton").click(function() {
                             SaveEntryData();
-                        });
-
-                        $("#deleteButton").click(function() {
-                            let requestData = {
-                                uri: GetEntryUri()
-                            };
-                            $.ajax({
-                                type: "POST",
-                                url: "/deleteEntry",
-                                contentType: "application/json",
-                                async: true,
-                                data: JSON.stringify(requestData),
-                                success: function(data) {
-                                    $("#statusMessage").html("Entry deleted successfully.");
-                                    window.location = "/";
-                                },
-                                error: function(error) {
-                                    console.error(error);
-                                    $("#statusMessage").html("Delete failed, error: " + error);
-                                }
-                            });
                         });
 
                         $(".section").show();
