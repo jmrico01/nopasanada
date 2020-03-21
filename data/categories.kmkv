@@ -36,7 +36,7 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202003/garbanzos-covid
+        featured{array} /content/202003/receta-diengo-atun
     }
     displayOrder{array} comida, bebidas, recomendado
     featured{array} /content/202003/21-menu-perfecto-coconut
