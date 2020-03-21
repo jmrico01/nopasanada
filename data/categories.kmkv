@@ -39,7 +39,7 @@ guida{kmkv} {
         featured{array} /content/202003/garbanzos-covid
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202003/garbanzos-covid
+    featured{array} /content/202003/21-menu-perfecto-coconut
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202003/06-guida-cattivo
