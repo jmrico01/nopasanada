@@ -1,0 +1,44 @@
+text {
+<p style="text-align: center;"><strong>ACTUALIZACI&Oacute;N COVID19 EN COSTA RICA 21.03.20</strong></p>
+<hr />
+<p>&nbsp;</p>
+<p><strong>Casos covid-19 en Costa Rica 21-03-20: </strong>Hoy el gobierno de Costa Rica comunic&oacute; una actualizaci&oacute;n sobre la situaci&oacute;n del COVID19 en el pa&iacute;s. Se reportan cuatro nuevos casos para un total de 117. Ademas indican que Costa Rica ha logrado establecer el v&iacute;nculo epidemiol&oacute;gico de los casos confirmados que a&uacute;n estaban en investigaci&oacute;n.&nbsp;</p>
+<p>&nbsp;</p>
+<p>$image/uno$</p>
+<p>$image/dos$</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em> "Jam&aacute;s podemos bajar la guardia. </em><strong>&nbsp;#quedateencasa #juntosperonorevueltos</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title ACTUALIZACIÓN COVID19 EN COSTA RICA 21.03.20
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202003/headers/update-covid19-cr.jpg
+    dos /images/202003/update-covid19-cr/dos.jpg
+    uno /images/202003/update-covid19-cr/uno.jpg
+}
+description Cost Rica reporta la menor cantidad de casos confirmados de COVID19 desde el 15 de marzo.  "Jamás podemos bajar la guardia" - Carlos Alvarado #quedateenecasa
+year 2020
+author NPN NOTICIAS
+featured{kmkv} {
+    title <b>ACTUALIZACIÓN COVID19 EN COSTA RICA 21.03.20</b>
+    text1 Cost Rica reporta la menor cantidad de casos confirmados de COVID19 desde el 15 de marzo.
+    text2 POR NPN NOTICIAS
+    pretitle ÚLTIMA HORA:
+    highlightColor #FFFF00
+}
+type article
+subtitle Cost Rica reporta la menor cantidad de casos confirmados de COVID19 desde el 15 de marzo.  "Jamás podemos bajar la guardia" - Carlos Alvarado #quedateenecasa
+month 03
+tags{array} noticias
+videoID 
+titlePoster 
+color #FFFF00
