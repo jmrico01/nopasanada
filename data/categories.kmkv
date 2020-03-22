@@ -39,7 +39,7 @@ guida{kmkv} {
         featured{array} /content/202003/receta-diengo-atun
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202003/21-menu-perfecto-coconut
+    featured{array} /content/202003/top5-pelicuas-comida
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202003/06-guida-cattivo
@@ -50,7 +50,7 @@ guida{kmkv} {
     }
     recomendado{kmkv} {
         name Recomendado
-        featured{array} /content/202003/14-covid-19
+        featured{array} /content/202003/top5-pelicuas-comida
     }
 }
 noticias{kmkv} {
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/update-covid19-cr
+    featured{array} /content/202003/top5-pelicuas-comida
 }
 other{kmkv} {
     name Other (Internal)
