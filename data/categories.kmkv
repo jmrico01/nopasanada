@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/top5-pelicuas-comida
+    featured{array} /content/202003/covid19-22-3-20
 }
 other{kmkv} {
     name Other (Internal)
