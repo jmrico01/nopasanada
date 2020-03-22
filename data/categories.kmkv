@@ -64,14 +64,14 @@ noticias{kmkv} {
         featured{array} /content/202003/importante-guiri-20
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202003/importante-guiri-20
+    featured{array} /content/202003/21-welcome-to-chepe
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202003/max-von
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202003/18-lo-importante-con-guiri
+        featured{array} /content/202003/21-welcome-to-chepe
     }
 }
 coleccion{kmkv} {
