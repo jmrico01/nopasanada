@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202003/importante-guiri-20
+        featured{array} /content/202003/23-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202003/21-welcome-to-chepe
+    featured{array} /content/202003/23-lo-importante
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202003/max-von
