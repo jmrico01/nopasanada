@@ -1,4 +1,6 @@
 from env_settings import DEFINES_ENV, WIN32_VCVARSALL
+import os
+import shutil
 
 class LibExternal:
 	def __init__(self, name, path, compiledNames = None, dllNames = None):
@@ -33,3 +35,41 @@ PATHS = {
 }
 
 USE_KM_PLATFORM = False
+
+# TODO copied from compile.py
+def remake_dest_and_copy_dir(src_path, dst_path):
+	# Re-create (clear) the directory
+	if os.path.exists(dst_path):
+		shutil.rmtree(dst_path)
+	os.makedirs(dst_path)
+
+	# Copy
+	for file_name in os.listdir(src_path):
+		file_path = os.path.join(src_path, file_name)
+		if os.path.isfile(file_path):
+			shutil.copy2(file_path, dst_path)
+		elif os.path.isdir(file_path):
+			shutil.copytree(file_path, os.path.join(dst_path, file_name))
+
+def clear_dir(path):
+    for file_name in os.listdir(path):
+        file_path = os.path.join(path, file_name)
+        try:
+            if os.path.isfile(file_path):
+                os.remove(file_path)
+            elif os.path.isdir(file_path):
+                shutil.rmtree(file_path)
+        except Exception as e:
+            print("Failed to clean {}: {}".format(file_path, str(e)))
+
+def post_compile_custom(paths):
+	path_react = os.path.join(paths["root"], "react")
+	path_react_build = os.path.join(path_react, "build")
+	clear_dir(path_react_build)
+	os.system(" & ".join([
+		"pushd " + path_react,
+		"npm run build",
+		"popd"
+	]))
+	path_build_public = os.path.join(paths["build"], "public")
+	remake_dest_and_copy_dir(path_react_build, path_build_public)

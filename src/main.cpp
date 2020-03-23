@@ -991,7 +991,7 @@ int main(int argc, char** argv)
 	imageRootPath.Append('/');
 
 	FixedArray<char, PATH_MAX_LENGTH> publicPath = rootPath;
-	publicPath.Append(ToString("data/public"));
+	publicPath.Append(ToString("build/public"));
 	publicPath.Append('\0');
 	if (!server.set_base_dir(publicPath.data, "/")) {
 		LOG_ERROR("server set_base_dir failed on dir %s\n", publicPath.data);
