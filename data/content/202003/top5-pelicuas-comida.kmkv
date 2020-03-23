@@ -7,24 +7,30 @@ text {
 <p>&nbsp;</p>
 <p><strong>5. Cooked. </strong></p>
 <p>Documental | 2016&nbsp;</p>
+<p>$image/cooked$</p>
 <p>El escritor e investigador es una influyente personalidad en el mundo gastron&oacute;mico estadounidense. Su libro hom&oacute;nimo inspir&oacute; la creaci&oacute;n de una docuserie de cuatro episodios con tem&aacute;tica universal: aire, agua, tierra y fuego. Repasa Pollan los hitos fundacionales de la comida, desde el queso hasta el pan, pasando por algunas modas (como el gluten free) y nos acerca de manera inspiradora a la relaci&oacute;n de la humanidad con la comida.&nbsp;</p>
 <hr />
 <p><strong>4. Salt, Fat, Acid, Heat.</strong></p>
 <p>Documental | 2018</p>
+<p>$image/salt$</p>
 <p>La escritora gastron&oacute;mica Samin Nosrat, al igual que Pollan plantea los cuatro episodios de su docuserie con base en las patas de la mesa del sabor: salado, grasa, &aacute;cido y el calor que se usa para cocinar. Recorre las cocinas que utilizan estos elementos y hurga en su propio recetario para experimentar y mejorar a partir de la experiencia del viaje en que se embarca para probar sus teor&iacute;as.&nbsp;</p>
 <hr />
 <p><strong>3. Chef&rsquo;s Table</strong></p>
 <p>Documental | 2015</p>
+<p>$image/chef$</p>
 <p>Una sinfon&iacute;a visual, apoyada con drama sobre la m&uacute;sica cl&aacute;sica de Vivaldi, es todo un referente de los trabajos audiovisuales gastron&oacute;micos. Elitista en su producci&oacute;n, llega a ser popular por su acercamiento a algunas de las cocinas que sin pretensiones de alcurnia &ndash;aunque s&iacute; de sabor&ndash; nos presenta. Hay cinco temporadas &lsquo;regulares&rsquo; de seis episodios, una de cuatro dedicada a pasteleros y otra de solo chefs franceses. El centro siempre es el viaje transformador que vive el chef. De la juventud y el fuego a la madurez y la maestr&iacute;a; de los infiernos a la redenci&oacute;n. Mi favorito sigue siendo el de Francis Mallmann.&nbsp;</p>
 <hr />
 <p><strong>2. Ugly Delicious</strong></p>
 <p>Documental | 2018</p>
+<p>$image/ugly$</p>
 <p>David Chang salt&oacute; a la fama mundial luego de que Anthony Bourdain lo mantuviera como su estrella del programa que produjo para la PBS The Mind of the Chef. Chang, adem&aacute;s de ser un chef exitoso, principalmente por su conocido restaurante neoyorkino Momofoku (entre otras localidades), se dedica ahora mucho a la producci&oacute;n audiovisual. Ugly Delicious es una serie en la que personalidades de la gastronom&iacute;a (cr&iacute;ticos de peri&oacute;dicos, investigadores, periodistas gastron&oacute;micos, personalidades de la pantalla) debaten sobre algunas de las comidas m&aacute;s populares, como el pollo frito, la pizza, el arroz frito. Reci&eacute;n estren&oacute; la segunda temporada, en la cual inicia con su experiencia personal sobre lo rudo de congeniar la desbocada vida de chef con la paternidad. Adem&aacute;s, otra caracter&iacute;stica de esta serie es la constante exploraci&oacute;n del punto de vista cultural de personas que pertenecen a grupos &eacute;tnicos que no son la mayor&iacute;a en Estados Unidos (chinos, indios, negros, etc). Chang tiene otra serie reciente (Breakfast, Lunch and Dinner), pero no la considero ni cercanamente tan bien conseguida como esta.&nbsp;</p>
 <hr />
 <p><strong>1. Las cr&oacute;nicas del taco</strong></p>
 <p>Documental | 2018</p>
 <p>Inspirada en la serie que Vice hizo en M&eacute;xico para internet (Todos los tacos), el mismo productor nos entrega en Netflix una cuidada y apetitosa serie que sin duda debe haberle representado a M&eacute;xico una gu&iacute;a gastron&oacute;mica del taco para miles de hambrientos turistas. Explora la serie los tipos de taco que hay ese gigante gastron&oacute;mico latinoamericano e invita a so&ntilde;ar con recorrer, probar y disfrutar cada uno de los lugares donde sirven los tacos.&nbsp;</p>
+<p>$image/taco$</p>
 <hr />
+<p style="text-align: center;"><strong>Y aunqu&eacute; NETFLIX tenga buenas ofertas... &iquest;Porqu&eacute; no ver nuestro programa de comida?</strong></p>
 <p style="text-align: center;"><strong>VEA: Probando el mejor men&uacute; de un ic&oacute;no de la comida china en Costa Rica | MEN&Uacute; PERFECTO |&nbsp;<br />&nbsp;</strong></p>
 <p style="text-align: center;"><strong>$youtube/BPnMp9OarKA$</strong></p>
 <p style="text-align: center;">&nbsp;</p>
@@ -42,7 +48,9 @@ text4
 customTop 
 media{kmkv} {
     header2 /images/201912/09-al-mercat/header2.jpg
-    header /images/202003/headers/04-guida-restaurantes-chinos.jpg
+    header /images/202003/headers/top5-pelicuas-comida.jpg
+    chef /images/202003/top5-pelicuas-comida/chef.jpg
+    taco /images/202003/top5-pelicuas-comida/taco.jpg
     sopa2 /images/202003/04-guida-restaurantes-chinos/sopa2.jpg
     cebolla /images/201912/09-al-mercat/cebolla.jpg
     sopa3 /images/202003/04-guida-restaurantes-chinos/sopa3.jpg
@@ -50,14 +58,14 @@ media{kmkv} {
     sopa5 /images/202003/04-guida-restaurantes-chinos/sopa5.jpg
     sopa /images/202003/04-guida-restaurantes-chinos/sopa.jpg
     postre /images/201912/09-al-mercat/postre.jpg
+    cooked /images/202003/top5-pelicuas-comida/cooked.jpg
     platofuerte /images/201912/09-al-mercat/platofuerte.jpg
     poster /images/201912/posters/09-al-mercat.jpg
+    salt /images/202003/top5-pelicuas-comida/salt.jpg
+    ugly /images/202003/top5-pelicuas-comida/ugly.jpg
     bottom /images/201912/09-al-mercat/bottom.jpg
 }
-description {
-Las cinco series de comida que debes ver en Netflix
-
-}
+description Las cinco series de comida que debes ver en Netflix
 year 2020
 author Alberto Gatgens | El gastronomista
 featured{kmkv} {
@@ -68,10 +76,7 @@ featured{kmkv} {
     highlightColor #F4B6A5
 }
 type article
-subtitle {
-Las cinco series de comida que debes ver en Netflix
-
-}
+subtitle Las cinco series de comida que debes ver en Netflix
 month 03
 tags{array} guida-comida
 videoID 

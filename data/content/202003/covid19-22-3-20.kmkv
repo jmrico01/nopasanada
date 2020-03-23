@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong>ACTUALIZACI&Oacute;N COVID19 EN COSTA RICA 21.03.20</strong></p>
+<hr />
+<p>&nbsp;</p>
+<p><strong>Casos covid-19 en Costa Rica 21-03-20: </strong>Hoy el gobierno de Costa Rica comunic&oacute; una actualizaci&oacute;n sobre la situaci&oacute;n del COVID19 en el pa&iacute;s.&nbsp;</p>
+<p>&nbsp;</p>
+<p>$image/uno$</p>
+<p>$image/dos$</p>
+<p>$image/tres$</p>
+<p>$image/cuatro$</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em> "Jam&aacute;s podemos bajar la guardia. </em><strong>&nbsp;#quedateencasa #juntosperonorevueltos</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title ACTUALIZACIÓN COVID19 EN COSTA RICA 22.03.20
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    tres /images/202003/covid19-22-3-20/tres.jpg
+    header /images/202003/headers/update-covid19-cr.jpg
+    dos /images/202003/covid19-22-3-20/dos.jpg
+    cuatro /images/202003/covid19-22-3-20/cuatro.jpg
+    uno /images/202003/covid19-22-3-20/uno.jpg
+}
+description Esta es la actualización del COVID19 en Costa Rica el 22.03.20 
+year 2020
+author NPN NOTICIAS
+featured{kmkv} {
+    title <b>ACTUALIZACIÓN COVID19 EN COSTA RICA 22.03.20</b>
+    text1 Así cierra Costa Rica la semana con el COVID19
+    text2 POR NPN NOTICIAS
+    pretitle ÚLTIMA HORA:
+    highlightColor #FFFF00
+}
+type article
+subtitle Esta es la actualización del COVID19 en Costa Rica el 22.03.20 
+month 03
+tags{array} noticias
+videoID 
+titlePoster 
+color #FFFF00
