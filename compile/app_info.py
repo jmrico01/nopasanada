@@ -51,7 +51,10 @@ def remake_dest_and_copy_dir(src_path, dst_path):
 		elif os.path.isdir(file_path):
 			shutil.copytree(file_path, os.path.join(dst_path, file_name))
 
-def clear_dir(path):
+def make_and_clear_dir(path):
+    if not os.path.exists(path):
+        os.makedirs(path)
+
     for file_name in os.listdir(path):
         file_path = os.path.join(path, file_name)
         try:
@@ -65,9 +68,10 @@ def clear_dir(path):
 def post_compile_custom(paths):
 	path_react = os.path.join(paths["root"], "react")
 	path_react_build = os.path.join(path_react, "build")
-	clear_dir(path_react_build)
+	make_and_clear_dir(path_react_build)
 	os.system(" & ".join([
 		"pushd " + path_react,
+		"npm i",
 		"npm run build",
 		"popd"
 	]))
