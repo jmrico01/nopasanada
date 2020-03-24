@@ -1,6 +1,6 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202003/adulting-signodepregunta
+    featured{array} /content/202003/papas-lomejor
 }
 mas{kmkv} {
     name Más
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/sexoseguro-coronavirus
+    featured{array} /content/202003/levadura-masa-madre
 }
 other{kmkv} {
     name Other (Internal)
