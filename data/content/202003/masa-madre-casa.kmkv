@@ -20,19 +20,19 @@ media{kmkv} {
     header /images/202003/headers/masa-madre-casa.jpg
     poster /images/201912/posters/17-solo-lo-importante-video.jpg
 }
-description El segundo episodio de Jugando con Fuego, Pietro nos enseña cómo hacer levadura de #masamadre en casa. 
+description El segundo episodio de Jugando con Fuego, Pietro nos enseña cómo hacer levadura de #masamadre en casa.
 year 2020
 featured{kmkv} {
-    title La mejor guía de levadura de masa madre
+    title La guía para hacer levadura de masa madre
     text1 Pietro nos enseña como hacer levadura en casa
     text2 Con Pietro Cercone
     pretitle LA GUIDA:
     highlightColor #FAFF00
 }
 type video
-subtitle El segundo episodio de Jugando con Fuego, Pietro nos enseña cómo hacer levadura de masamadre en casa. 
+subtitle El segundo episodio de Jugando con Fuego, Pietro nos enseña cómo hacer levadura de masamadre en casa.
 month 03
 tags{array} guida
-videoID https://youtu.be/SX3bQSIoZo0
+videoID SX3bQSIoZo0
 titlePoster 
 color #FAFF00
