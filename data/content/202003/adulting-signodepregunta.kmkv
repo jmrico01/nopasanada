@@ -1,0 +1,40 @@
+text {
+<p>Est&aacute;s<em> tan</em> cerca, pero <em>tan</em> lejos.</p>
+<p>Vas bien, pens&aacute;s: entrenaste a tus pulgares para que, mientras ves el perfil de tu crush, no se te escape ning&uacute;n like en una foto del 2017. Desde hace un a&ntilde;o no te pasa.</p>
+<p>Identificaste que ten&eacute;s mala postura; que trabajas con las v&eacute;rtebras de la base de la nuca colapsadas unas sobre las otras, que tu escritorio es muy alto y por eso te duelen las mu&ntilde;ecas, y que ya no pod&eacute;s sentarte en indio sin que se te jodan las rodillas.&nbsp;</p>
+<p>Le pediste a tu celular que te avisara cu&aacute;nto tiempo pas&aacute;s viendo la pantalla, (<em>nevermind</em> que, cuando te muestra los stats diarios, le das <em>dismiss</em> a la notificaci&oacute;n antes de leerlos, sobretodo si coincide con un mensaje nuevo en whatsapp).</p>
+<p>Las plantas sobreviven. Finalmente aprendiste que el toque es regarlas. Adem&aacute;s, ya nunca se te escapa el gato, ni dej&aacute;s las llaves pegadas en el port&oacute;n de afuera.</p>
+<p>Salud&aacute;s a tus vecinos con la mano y un movimiento cordial de la cabeza. Dec&iacute;s &ldquo;<em>buenas</em>&rdquo;.</p>
+<p>Lav&aacute;s ropa todas las semanas, y casi siempre respet&aacute;s el d&iacute;a designado para hacerlo. Ok: a veces cada dos semanas. Al menos, ya casi nunca repet&iacute;s ropa interior, aunque ten&eacute;s clar&iacute;simo que se te pierden, en promedio, dos medias en cada lavada de ropa - y nunca pertenecen al mismo par.&nbsp;</p>
+<p>Dejaste de tomar vino de caja en la acera de La Cali. Nadie tiene que saber que la raz&oacute;n principal por la que dejaste de hacerlo es porque el vino te da agrura.&nbsp;</p>
+<p>Cuando camin&aacute;s frente a una tienda de electrodom&eacute;sticos, no pod&eacute;s evitar desviar la mirada hacia la ventana, esperando ver una freidora de aire, finalmente, en descuento.&nbsp;</p>
+<p>Algunos s&aacute;bados, incluso te deten&eacute;s un segundo y pens&aacute;s: <em>&iexcl;wow, qu&eacute; rajado que a mi edad, mis pap&aacute;s ya ten&iacute;an un hijo de diez a&ntilde;os!</em> Despacio, mir&aacute;s hacia abajo y ves tus pies, ligeramente torcidos hacia dentro, cubiertos por medias dis&iacute;miles, la su&eacute;ter con manchas de comida, reconoc&eacute;s las ganas que ten&eacute;s de sentarte a jugar playstation y comer papitas, y entend&eacute;s que <em>todav&iacute;a ten&eacute;s diez a&ntilde;os</em>. <em>Y eso quiere decir que, en el fondo, tus pap&aacute;s siempre tuvieron diez a&ntilde;os. Mindblown</em>, sent&iacute;s ternura por el mundo y como que por un se esclarece todo; como que en el fondo sab&eacute;s que en esas palabras est&aacute; el secreto de la vida.&nbsp;</p>
+<p>Pero en vez de explorar el pensamiento un rato m&aacute;s, agarr&aacute;s otra vez el celular.</p>
+}
+title Un día sos joven y al siguiente... ¿sos adulto?
+day 24
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202003/headers/adulting-signodepregunta.jpg
+}
+description #adulting: ¿has pensado que tus papás a tu edad ya tenían hijos?
+year 2020
+author Luisa Mora Fernández
+featured{kmkv} {
+    title <b>#ADULTING</b>
+    text1 Un día sos joven y al siguiente... ¿sos adulto?
+    text2 POR LUISA MORA FERNÁNDEZ
+    pretitle COLUMNA:
+    highlightColor #FFFF00
+}
+type article
+subtitle Sobre esa vez que pudiste haber tenido verdadera claridad por un segundo, pero decidiste “dejar ir”.
+month 03
+tags{array} opinion
+videoID 
+titlePoster 
+color #FFFF00
