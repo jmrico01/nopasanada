@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/levadura-masa-madre
+    featured{array} /content/202003/masa-madre-casa
 }
 other{kmkv} {
     name Other (Internal)
