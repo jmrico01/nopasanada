@@ -36,10 +36,10 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202003/receta-diengo-atun
+        featured{array} /content/202003/keto-pollo-frito
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202003/top5-pelicuas-comida
+    featured{array} /content/202003/keto-pollo-frito
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202003/06-guida-cattivo
@@ -50,7 +50,7 @@ guida{kmkv} {
     }
     recomendado{kmkv} {
         name Recomendado
-        featured{array} /content/202003/top5-pelicuas-comida
+        featured{array} /content/202003/keto-pollo-frito
     }
 }
 noticias{kmkv} {
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/25-lo-importante
+    featured{array} /content/202003/keto-pollo-frito
 }
 other{kmkv} {
     name Other (Internal)
