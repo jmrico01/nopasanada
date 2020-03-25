@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202003/17-pinguino
+        featured{array} /content/202003/islandia-aguahelada
     }
     ambiente{kmkv} {
         name Medio ambiente
