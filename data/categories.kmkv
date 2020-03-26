@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202003/islandia-aguahelada
+        featured{array} /content/202003/ratas-manipular
     }
     ambiente{kmkv} {
         name Medio ambiente
