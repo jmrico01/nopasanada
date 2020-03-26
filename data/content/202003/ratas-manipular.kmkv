@@ -27,11 +27,11 @@ media{kmkv} {
 }
 description ¿Han escuchado la expresión "huele a rata"? Bueno, puede que no sea tan ficticia cómo creímos.
 year 2020
-author AFP
+author NPN Ciencia
 featured{kmkv} {
     title ¿<b>Ratas</> golosas?
     text1 No todas las ratas que piden comida tienen hambre, y las otras ratas lo saben
-    text2 Por AFP
+    text2 Por NPN CIENCIA
     pretitle INTERESANTE:
     highlightColor #FFC7F7
 }
