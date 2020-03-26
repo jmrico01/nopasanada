@@ -1,0 +1,36 @@
+text {
+<p>En esta serie vemos c&oacute;mo se vive el COVID-19 alrededor del mundo. En este episodio conocemos la historia de Maria, una estudiante viviendo en la regi&oacute;n m&aacute;s afectada de Italia.&nbsp;</p>
+<hr />
+<p>Historia: Maria Daminato</p>
+<p>Producido por: Pietro Cercone</p>
+<p>Graficos &amp; Direcci&oacute;n Creativa: Lauren Gilleland</p>
+<p>Editor de Vieo: Pietro Cercone</p>
+<p>Canci&oacute;n: Elvis Presley - Can't Help Falling In Love</p>
+}
+title ¿Cómo se vive el COVID-19 en Italia?
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202003/headers/25-cronicas-de-ropa.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En esta serie vemos cómo se vive el COVID-19 alrededor del mundo. En este episodio conocemos la historia de Maria, una estudiante viviendo en la región más afectada de Italia.
+year 2020
+featured{kmkv} {
+    title <b>ITALIA<b> | MARIA
+    text1 ¿Cómo se vive el COVID-19 en Italia?
+    text2 NO PASA NADA NOTICIAS
+    pretitle HISTORIAS HUMANAS:
+    highlightColor #FFFF00
+}
+type video
+subtitle 
+month 03
+tags{array} noticias-video,mas-historias
+videoID 0RrPVZ9lnek
+titlePoster 
+color #FFFF00
