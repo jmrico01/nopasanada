@@ -39,7 +39,7 @@ guida{kmkv} {
         featured{array} /content/202003/keto-pollo-frito
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202003/keto-pollo-frito
+    featured{array} /content/202003/26-cola-de-gallo-big-mouth
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202003/26-cola-de-gallo-big-mouth
