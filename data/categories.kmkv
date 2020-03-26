@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202002/29-backstreet-boys
+        featured{array} /content/202003/videojuegos-historia
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
