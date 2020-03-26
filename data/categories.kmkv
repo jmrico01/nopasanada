@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202003/23-lo-importante-con-guiri
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202003/25-lo-importante-con-guiri
+    featured{array} /content/202003/26-lo-importante
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202003/max-von
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/25-lo-importante-con-guiri
+    featured{array} /content/202003/26-lo-importante
 }
 other{kmkv} {
     name Other (Internal)
