@@ -15,7 +15,7 @@ text {
 <p>Esto podr&iacute;a ser resultado de comida recientemente ingerida, procesos metab&oacute;licos relacionados con la digesti&oacute;n o incluso posiblemente una feromona que indica hambre. Estos componentes juntos, forman un "olor a hambre" que funciona como una se&ntilde;al confiable de la necesidad de la rata, seg&uacute;n el estudio.</p>
 <p>Aparte de identificar a los que fing&iacute;an para saciar su gula, las ratas podr&iacute;an estar actuando con la intenci&oacute;n de reducir el sufrimiento de otras. O podr&iacute;an incluso estar invirtiendo en una sociedad de roedores que ultimadamente sirva a sus propios intereses, justo como hacemos los humanos.</p>
 }
-title El estudio que demuestra que las ratas distinguen cuando otras ratas quieren manipularlas.
+title No todas las ratas que piden comida tienen hambre, y las otras ratas lo saben
 day 26
 text1 
 text2 
@@ -29,14 +29,14 @@ description ¿Han escuchado la expresión "huele a rata"? Bueno, puede que no se
 year 2020
 author AFP
 featured{kmkv} {
-    title <b>Ratas</> saben cuándo las están manipulando
-    text1 Estos roedores pueden distinguir a una rata hambrienta de una que finge por gula.
+    title ¿<b>Ratas</> golosas?
+    text1 No todas las ratas que piden comida tienen hambre, y las otras ratas lo saben
     text2 Por AFP
     pretitle INTERESANTE:
     highlightColor #FFC7F7
 }
 type article
-subtitle Las ratas pueden distinguir a una rata hambrienta de una que finge por gula.
+subtitle Las ratas pueden distinguir a una rata hambrienta de una que finge por pura gula.
 month 03
 tags{array} mas-saludyciencia,mas-historias
 videoID 
