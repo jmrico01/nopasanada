@@ -1,0 +1,34 @@
+text {
+<p>En Lo Importante de hoy vemos si actu&oacute; muy tarde la OMS ante la crisis del coronavirus, como ha afectado la el COVID19 a pa&iacute;ses como Venezuela e Iran, y una actualizaci&oacute;n general de la pandemia alrededor del mundo.</p>
+<hr />
+<p>Host: Guiri Uribe &amp; Stella</p>
+<p>Producido por: Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p>Graficos &amp; Direcci&oacute;n Creativa: Lauren Gilleland</p>
+}
+title Lo Importante con Guiri Uribe 25.03.20
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202003/headers/25-lo-importante-con-guiri.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En Lo Importante de hoy vemos si actuó muy tarde la OMS ante la crisis del coronavirus, como ha afectado la el COVID19 a países como Venezuela e Iran, y una actualización general de la pandemia alrededor del mundo.
+year 2020
+featured{kmkv} {
+    title LO <b>IMPORTANTE<b>
+    text1 ¿Actuó muy tarde la OMS? Cancelan las olimpiadas y una actualización del COVID19 el mundo, hoy.
+    text2 NO PASA NADA NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #00FFFF
+}
+type video
+subtitle 
+month 03
+tags{array} noticias-loimportante,noticias-video
+videoID RGGuneHX-Yk
+titlePoster Lo Importante 25.03.20
+color #00FFFF
