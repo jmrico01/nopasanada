@@ -1,0 +1,36 @@
+text {
+<p>Nuevo Programa: Cr&oacute;nicas de ropa | Creemos que la ropa tiene mucho m&aacute;s para decir de lo que parece. Paulina Joaristi se re&uacute;ne con Kristine Dyer para conocer las historias detr&aacute;s de algunas de sus prendas favoritas. &iquest;Cu&aacute;l te gusta m&aacute;s?</p>
+<hr />
+<p>Host: Paulina Joaristi (<a href="https://www.instagram.com/paujoaristi/">@paujoaristi</a>)</p>
+<p>Invitada: Kristine Dyer (<a href="https://www.instagram.com/krisdyer_/">@krisdyer_</a>)</p>
+<p>Producido por: Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p>Graficos &amp; Direcci&oacute;n Creativa: Lauren Gilleland</p>
+<p>Editor de Vieo: Alejandro Mederas</p>
+}
+title Crónicas de Ropa | Kristine Dyer
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202003/headers/25-cronicas-de-ropa.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Nuevo Programa: Crónicas de ropa | Creemos que la ropa tiene mucho más para decir de lo que parece. Paulina Joaristi se reúne con Kristine Dyer para conocer las historias detrás de algunas de sus prendas favoritas.
+year 2020
+featured{kmkv} {
+    title <b>CRÓNICAS<b> DE ROPA
+    text1 ¿Qué hay en el armario de Kristine Dyer?
+    text2 CON PAULINA JOARISTI
+    pretitle VENUS:
+    highlightColor #FFFF00
+}
+type video
+subtitle 
+month 03
+tags{array} venus-moda
+videoID tbqigWjfhYo
+titlePoster 
+color #FFFF00
