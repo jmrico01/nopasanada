@@ -42,7 +42,7 @@ guida{kmkv} {
     featured{array} /content/202003/keto-pollo-frito
     bebidas{kmkv} {
         name Bebidas
-        featured{array} /content/202003/06-guida-cattivo
+        featured{array} /content/202003/26-cola-de-gallo-big-mouth
     }
     viaje{kmkv} {
         name Viaje
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/26-historias-humanas
+    featured{array} /content/202003/26-cola-de-gallo-big-mouth
 }
 other{kmkv} {
     name Other (Internal)

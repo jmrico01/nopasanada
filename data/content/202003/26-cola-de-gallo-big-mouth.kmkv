@@ -1,0 +1,39 @@
+text {
+<p style="text-align: center;"><strong>Pacheco hace un c&oacute;ctel inspirado en "BIG MOUTH" de Netflix</strong></p>
+<hr />
+<p>Host: Jose Daniel Pacheco</p>
+<p>Producido por: Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p>Graficos &amp; Direcci&oacute;n Creativa: Lauren Gilleland</p>
+<p>Editor de Video: Alejandro Mederas</p>
+<hr />
+<p style="text-align: center;"><strong>Vea m&aacute;s: &iquest;C&oacute;mo hacer pan de masa madre?</strong></p>
+<hr />
+<p>$youtube/zS_yz--t2Uw$</p>
+}
+title Pacheco hace un cóctel inspirado en "BIG MOUTH"
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202003/headers/26-cola-de-gallo-big-mouth.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Este cóctel inspirado en BIG MOUTH esta perfecto para una noche de Netflix durante la cuarentena
+year 2020
+featured{kmkv} {
+    title Un cóctel inspirado en "BIG MOUTH"
+    text1 Perfecto para una noche de Netflix durante la cuarentena
+    text2 COLA DE GALLO
+    pretitle LA GUIDA:
+    highlightColor #FFF700
+}
+type video
+subtitle 
+month 03
+tags{array} guida-bebidas
+videoID Wqm6W-VMJZg
+titlePoster 
+color #FFF700
