@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/26-cola-de-gallo-big-mouth
+    featured{array} /content/202003/guida-spotlight-uno
 }
 other{kmkv} {
     name Other (Internal)
