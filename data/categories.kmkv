@@ -24,7 +24,7 @@ mas{kmkv} {
     }
     saludmental{kmkv} {
         name Salud mental
-        featured{array} /content/202001/03-trastorno-obsesivo-compulsivo
+        featured{array} /content/202003/aislamiento-astronautas-consejos
     }
     arteymusica{kmkv} {
         name Arte y música
@@ -91,7 +91,7 @@ venus{kmkv} {
     }
     salud{kmkv} {
         name Salud de la mujer
-        featured{array} /content/201910/16-salud-mental-no-es-moda
+        featured{array} /content/202003/aislamiento-astronautas-consejos
     }
     displayOrder{array} derechos, inspiradoras, moda, salud
     featured{array} /content/202003/25-cronicas-de-ropa
