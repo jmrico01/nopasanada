@@ -1,0 +1,78 @@
+@font-face {
+    font-family: FuturaPTBold;
+    src: url("../fonts/FuturaPTBold.otf") format("opentype");
+}
+@font-face {
+    font-family: FuturaPTHeavy;
+    src: url("../fonts/FuturaPTHeavy.otf") format("opentype");
+}
+@font-face {
+    font-family: FuturaPTHeavyItalic;
+    src: url("../fonts/FuturaPTHeavyOblique.otf") format("opentype");
+}
+@font-face {
+    font-family: FuturaPTDemi;
+    src: url("../fonts/FuturaPTDemi.otf") format("opentype");
+}
+@font-face {
+    font-family: FuturaPTDemiItalic;
+    src: url("../fonts/FuturaPTDemiOblique.otf") format("opentype");
+}
+@font-face {
+    font-family: FuturaPTMedium;
+    src: url("../fonts/FuturaPTMedium.otf") format("opentype");
+}
+@font-face {
+    font-family: FuturaPTBook;
+    src: url("../fonts/FuturaPTBook.otf") format("opentype");
+}
+@font-face {
+    font-family: FuturaPTBookItalic;
+    src: url("../fonts/FuturaPTBookOblique.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Miedinger;
+    src: url("../fonts/Miedinger-Regular.ttf") format("opentype");
+}
+@font-face {
+    font-family: MiedingerBold;
+    src: url("../fonts/Miedinger-Bold.ttf") format("opentype");
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+a:hover {
+    color: inherit;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+a:active {
+    color: inherit;
+}
+
+h2 {
+}
+
+/*
+
+In theory, the Grid is made up of 30px squares, and things tend to be aligned to this.
+Reference resolution is 1920x1080, and things are specified relative to width (vw), so
+30px / 1920px * 100 = 1.5625vw is the base unit for the Grid.
+
+*/
