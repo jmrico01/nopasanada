@@ -933,8 +933,12 @@ int main(int argc, char** argv)
 				if (mediaHtml == nullptr) {
 					LOG_ERROR("Media type not found: %.*s in %.*s\n",
 						(int)mediaType.size, mediaType.data, (int)uri.size, uri.data);
-					res.status = HTTP_STATUS_ERROR;
-					return;
+					outStringMedia.Append(ToString("ERROR, BAD MEDIA TAG: $"));
+					outStringMedia.Append(mediaType);
+					outStringMedia.Append('/');
+					outStringMedia.Append(mediaName);
+					outStringMedia.Append('$');
+					continue;
 				}
 
 				HashTable<Array<char>> mediaHtmlItems;
@@ -949,7 +953,12 @@ int main(int argc, char** argv)
 					else {
 						LOG_ERROR("Image not found: %.*s in %.*s\n",
 							(int)mediaName.size, mediaName.data, (int)uri.size, uri.data);
-						mediaHtmlItems.Add("location", ToString(""));
+						outStringMedia.Append(ToString("ERROR, BAD MEDIA TAG: $"));
+						outStringMedia.Append(mediaType);
+						outStringMedia.Append('/');
+						outStringMedia.Append(mediaName);
+						outStringMedia.Append('$');
+						continue;
 					}
 				}
 				else {
@@ -963,6 +972,7 @@ int main(int argc, char** argv)
 					res.status = HTTP_STATUS_ERROR;
 					return;
 				}
+
 				continue;
 			}
 
