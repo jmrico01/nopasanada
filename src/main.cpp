@@ -621,7 +621,14 @@ void GenerateSessionId(const Array<char>& username, const Array<char>& password,
 	char buffer[17];
 	assert(stbsp_snprintf(buffer, 17, "%016I64x", hash) == 16);
 	outSessionId->Clear();
+	outSessionId->Append(username);
+	outSessionId->Append(':');
 	outSessionId->Append(ToString(buffer));
+}
+
+bool IsAdminUser(const Array<char>& username)
+{
+	return StringEquals(username, ToString("GMan"));
 }
 
 bool IsLoginValid(const Array<char>& username, const Array<char>& password,
@@ -635,8 +642,10 @@ bool IsLoginValid(const Array<char>& username, const Array<char>& password,
 	return StringEquals(userPassword->ToArray(), password);
 }
 
-bool IsAuthenticated(const httplib::Request& req, const DynamicArray<DynamicArray<char>>& sessions)
+bool IsAuthenticated(const httplib::Request& req, const DynamicArray<DynamicArray<char>>& sessions,
+	bool* outIsAdmin)
 {
+	*outIsAdmin = false;
 	if (!req.has_header("Cookie")) {
 		return false;
 	}
@@ -657,9 +666,12 @@ bool IsAuthenticated(const httplib::Request& req, const DynamicArray<DynamicArra
 	return false;
 }
 
-#define CHECK_AUTH_OR_ERROR(request, response, sessions) if (!IsAuthenticated((request), (sessions))) { \
-	(response).status = HTTP_STATUS_ERROR; \
-	return; }
+#define CHECK_AUTH_ADMIN_OR_ERROR(request, response, sessions) bool isAdmin; \
+	bool isAuth = IsAuthenticated((request), (sessions), &isAdmin); \
+	if (!isAdmin || !isAuth) { (response).status = HTTP_STATUS_ERROR; return; }
+#define CHECK_AUTH_OR_ERROR(request, response, sessions) bool isAdmin; \
+	bool isAuth = IsAuthenticated((request), (sessions), &isAdmin); \
+	if (!isAuth) { (response).status = HTTP_STATUS_ERROR; return; }
 
 int main(int argc, char** argv)
 {
@@ -1032,7 +1044,8 @@ int main(int argc, char** argv)
 	// });
 
 	serverDev.set_file_request_handler([&sessions](const auto& req, auto& res) {
-		if ((req.path == "/" || req.path == "/entry/") && !IsAuthenticated(req, sessions)) {
+		bool isAdmin;
+		if ((req.path == "/" || req.path == "/entry/") && !IsAuthenticated(req, sessions, &isAdmin)) {
 			res.set_redirect("/login/");
 			return;
 		}
@@ -1579,7 +1592,7 @@ int main(int argc, char** argv)
 	});
 
 	serverDev.Post("/reset", [&rootPath, &sessions](const auto& req, auto& res) {
-		CHECK_AUTH_OR_ERROR(req, res, sessions);
+		CHECK_AUTH_ADMIN_OR_ERROR(req, res, sessions);
 
 		LOG_INFO("Received /reset request\n");
 		DynamicArray<DynamicArray<char>> cmds;
