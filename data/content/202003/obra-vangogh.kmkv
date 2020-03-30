@@ -4,8 +4,9 @@ text {
 <p>La obra, que data de 1884, estar&iacute;a valorada entre uno y seis millones de euros, seg&uacute;n la prensa local y hab&iacute;a sido prestada a este museo con motivo de una exposici&oacute;n sobre el arte holand&eacute;s.</p>
 <p>Los ladrones habr&iacute;an entrado al museo de madrugada, rompiendo una puerta de vidrio del acceso principal, seg&uacute;n la polic&iacute;a y los medios locales.</p>
 <p>El acervo del museo suma 3.000 obras de arte, incluyendo algunas muy valiosas del pintor holand&eacute;s Piet Mondrian y un vaciado del famoso "Pensador" de Auguste Rodin.</p>
+<p><a href="https://nopasanada.com/content/201912/12-gustav-klimt">Lee sobre otras famosas pinturas robadas aqu&iacute;</a>.&nbsp;</p>
 }
-title Roban pintura de Van Gogh en Holanda
+title Desaparece pintura de Van Gogh en Holanda de museo cerrado por coronavirus
 day 30
 text1 
 text2 
@@ -15,9 +16,9 @@ customTop
 media{kmkv} {
     header /images/202003/headers/obra-vangogh.jpg
 }
-description Sucedió lo impensable, se robaron una obra del aclamado artista Vincent Van Gogh de un museo en Holanda.
+description Sucedió lo impensable: se robaron una obra del aclamado artista Vincent Van Gogh de un museo en Holanda.
 year 2020
-author AFP
+author AFP y NPN Cultura
 featured{kmkv} {
     title <b>Roban pintura de Van Gogh</> en Holanda
     text1 Obra desaparecida es "El jardín del presbiterio de Nuenen en primavera"
@@ -26,9 +27,9 @@ featured{kmkv} {
     highlightColor #FFC7F7
 }
 type article
-subtitle Obra desaparecida es "El jardín del presbiterio de Nuenen en primavera"
+subtitle Se trata de "El jardín del presbiterio de Nuenen en primavera"
 month 03
-tags{array} mas-historias
+tags{array} mas-historias,mas-arteymusica
 videoID 
 titlePoster 
 color #FFC7F7
