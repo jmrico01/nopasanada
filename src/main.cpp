@@ -37,6 +37,13 @@ typedef httplib::SSLServer ServerType;
 typedef httplib::Server ServerType;
 #endif
 
+void SetErrorResponse(httplib::Response& response, const Array<char>& message)
+{
+	LOG_ERROR("%*s\n", (int)message.size, message.data);
+	response.status = HTTP_STATUS_ERROR;
+	response.set_content(message.data, message.size, "text/plain");
+}
+
 enum class EntryType
 {
 	ARTICLE = 0,
@@ -668,10 +675,15 @@ bool IsAuthenticated(const httplib::Request& req, const DynamicArray<DynamicArra
 
 #define CHECK_AUTH_ADMIN_OR_ERROR(request, response, sessions) bool isAdmin; \
 	bool isAuth = IsAuthenticated((request), (sessions), &isAdmin); \
-	if (!isAdmin || !isAuth) { (response).status = HTTP_STATUS_ERROR; return; }
+	if (!isAuth) { SetErrorResponse(response, ToString("User not authenticated")); return; } \
+	if (!isAdmin) { SetErrorResponse(response, ToString("User not admin")); return; }
 #define CHECK_AUTH_OR_ERROR(request, response, sessions) bool isAdmin; \
 	bool isAuth = IsAuthenticated((request), (sessions), &isAdmin); \
-	if (!isAuth) { (response).status = HTTP_STATUS_ERROR; return; }
+	if (!isAuth) { SetErrorResponse(response, ToString("User not authenticated")); return; }
+
+#define TEMP_LINEAR_ALLOCATOR() void* tempMemory = defaultAllocator_.Allocate(4096); \
+	LinearAllocator tempAllocator(4096, tempMemory); \
+	defer(defaultAllocator_.Free(tempMemory));
 
 int main(int argc, char** argv)
 {
@@ -1118,6 +1130,7 @@ int main(int argc, char** argv)
 	});
 
 	serverDev.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const auto& req, auto& res) {
+		TEMP_LINEAR_ALLOCATOR();
 		Array<char> uri = ToString(req.path);
 		if (uri[uri.size - 1] == '/') {
 			uri.RemoveLast();
@@ -1125,15 +1138,15 @@ int main(int argc, char** argv)
 
 		EntryData entryData;
 		if (!LoadEntry(rootPath.ToArray(), uri, &entryData)) {
-			LOG_ERROR("LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"LoadEntry failed for entry %.*s", (int)uri.size, uri.data));
 			return;
 		}
 
 		DynamicArray<char> entryJson;
 		if (!KmkvToJson(entryData.kmkv, &entryJson)) {
-			LOG_ERROR("KmkvToJson failed for entry %.*s\n", (int)uri.size, uri.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"KmkvToJson failed for entry %.*s", (int)uri.size, uri.data));
 			return;
 		}
 
@@ -1142,13 +1155,14 @@ int main(int argc, char** argv)
 
 	serverDev.Post("/featured", [&rootPath, &categoriesJson, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
+		TEMP_LINEAR_ALLOCATOR();
 
 		Array<char> jsonString = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> newFeaturedKmkv;
 		if (!JsonToKmkv(jsonString, &defaultAllocator_, &newFeaturedKmkv)) {
-			LOG_ERROR("JsonToKmkv failed for featured json string %.*s\n",
-				(int)jsonString.size, jsonString.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"JsonToKmkv failed for featured json string %.*s",
+				(int)jsonString.size, jsonString.data));
 			return;
 		}
 
@@ -1156,8 +1170,7 @@ int main(int argc, char** argv)
 		categoriesKmkvPath.Append(ToString("data/categories.kmkv"));
 		HashTable<KmkvItem<StandardAllocator>> categoriesKmkv;
 		if (!LoadKmkv(categoriesKmkvPath.ToArray(), &defaultAllocator_, &categoriesKmkv)) {
-			LOG_ERROR("Failed to load categories KMKV on save\n");
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, ToString("Failed to load categories KMKV on save"));
 			return;
 		}
 
@@ -1168,17 +1181,17 @@ int main(int argc, char** argv)
 			}
 			const KmkvItem<StandardAllocator>& newCategoryInfoItem = newFeaturedKmkv.pairs[i].value;
 			if (newCategoryInfoItem.type == KmkvItemType::STRING) {
-				LOG_ERROR("New featured category string type, expected object: %.*s\n",
-					(int)category.string.size, category.string.data);
-				res.status = HTTP_STATUS_ERROR;
+				SetErrorResponse(res, AllocPrintf(&tempAllocator,
+					"New featured category string type, expected object: %.*s",
+					(int)category.string.size, category.string.data));
 				return;
 			}
 			const auto& newCategoryInfo = *newCategoryInfoItem.hashTablePtr;
 			auto* categoryInfo = GetKmkvItemObjValue(categoriesKmkv, category);
 			if (categoryInfo == nullptr) {
-				LOG_ERROR("Existing categories missing category %.*s\n",
-					(int)category.string.size, category.string.data);
-				res.status = HTTP_STATUS_ERROR;
+				SetErrorResponse(res, AllocPrintf(&tempAllocator,
+					"Existing categories missing category %.*s",
+					(int)category.string.size, category.string.data));
 				return;
 			}
 
@@ -1192,9 +1205,9 @@ int main(int argc, char** argv)
 				if (StringEquals(key.string.ToArray(), ToString("featured"))) {
 					auto* categoryFeatured = GetKmkvItemStrValue(*categoryInfo, "featured");
 					if (categoryFeatured == nullptr) {
-						LOG_ERROR("Existing categories missing category \"featured\": %.*s\n",
-							(int)category.string.size, category.string.data);
-						res.status = HTTP_STATUS_ERROR;
+						SetErrorResponse(res, AllocPrintf(&tempAllocator,
+							"Existing categories missing category \"featured\": %.*s",
+							(int)category.string.size, category.string.data));
 						return;
 					}
 					categoryFeatured->Clear();
@@ -1203,32 +1216,32 @@ int main(int argc, char** argv)
 				}
 
 				if (item.type != KmkvItemType::KMKV) {
-					LOG_ERROR("New featured subcategory incorrect type, expected object: %.*s\n",
-						(int)key.string.size, key.string.data);
-					res.status = HTTP_STATUS_ERROR;
+					SetErrorResponse(res, AllocPrintf(&tempAllocator,
+						"New featured subcategory incorrect type, expected object: %.*s",
+						(int)key.string.size, key.string.data));
 					return;
 				}
 				const auto* newFeatured = GetKmkvItemStrValue(*item.hashTablePtr, "featured");
 				if (newFeatured == nullptr) {
-					LOG_ERROR("New featured subcategory has no \"featured\": %.*s\n",
-						(int)key.string.size, key.string.data);
-					res.status = HTTP_STATUS_ERROR;
+					SetErrorResponse(res, AllocPrintf(&tempAllocator,
+						"New featured subcategory has no \"featured\": %.*s",
+						(int)key.string.size, key.string.data));
 					return;
 				}
 				auto* subcategoryInfo = GetKmkvItemObjValue(*categoryInfo, key);
 				if (subcategoryInfo == nullptr) {
-					LOG_ERROR("Existing categories missing subcategory %.*s of %.*s\n",
+					SetErrorResponse(res, AllocPrintf(&tempAllocator,
+						"Existing categories missing subcategory %.*s of %.*s",
 						(int)key.string.size, key.string.data,
-						(int)category.string.size, category.string.data);
-					res.status = HTTP_STATUS_ERROR;
+						(int)category.string.size, category.string.data));
 					return;
 				}
 				auto* subcategoryFeatured = GetKmkvItemStrValue(*subcategoryInfo, "featured");
 				if (subcategoryFeatured == nullptr) {
-					LOG_ERROR("Existing categories missing subcategory \"featured\" %.*s of %.*s\n",
+					SetErrorResponse(res, AllocPrintf(&tempAllocator,
+						"Existing categories missing subcategory \"featured\" %.*s of %.*s",
 						(int)key.string.size, key.string.data,
-						(int)category.string.size, category.string.data);
-					res.status = HTTP_STATUS_ERROR;
+						(int)category.string.size, category.string.data));
 					return;
 				}
 				subcategoryFeatured->Clear();
@@ -1238,20 +1251,20 @@ int main(int argc, char** argv)
 
 		DynamicArray<char> kmkvString;
 		if (!KmkvToString(categoriesKmkv, &kmkvString)) {
-			LOG_ERROR("KmkvToString failed for categories kmkv\n");
+			SetErrorResponse(res, ToString("KmkvToString failed for categories kmkv"));
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 
 		const Array<uint8> kmkvData = { .size = kmkvString.size, .data = (uint8*)kmkvString.data };
 		if (!WriteFile(categoriesKmkvPath.ToArray(), kmkvData, false)) {
-			LOG_ERROR("WriteFile failed for categories kmkv string\n");
+			SetErrorResponse(res, ToString("WriteFile failed for categories kmkv string"));
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
 
 		if (!LoadCategoriesJson(rootPath.ToArray(), &categoriesJson)) {
-			LOG_ERROR("Failed to reload categories JSON string\n");
+			SetErrorResponse(res, ToString("Failed to reload categories JSON string"));
 			res.status = HTTP_STATUS_ERROR;
 			return;
 		}
@@ -1259,6 +1272,7 @@ int main(int argc, char** argv)
 
 	serverDev.Post("/content/[^/]+/.+", [&rootPath, &allMetadataJson, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
+		TEMP_LINEAR_ALLOCATOR();
 
 		Array<char> uri = ToString(req.path);
 		if (uri[uri.size - 1] == '/') {
@@ -1267,16 +1281,16 @@ int main(int argc, char** argv)
 
 		EntryData entryData;
 		if (!LoadEntry(rootPath.ToArray(), uri, &entryData)) {
-			LOG_ERROR("LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"LoadEntry failed for entry %.*s", (int)uri.size, uri.data));
 			return;
 		}
 
 		Array<char> entryJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(entryJson, &defaultAllocator_, &kmkv)) {
-			LOG_ERROR("JsonToKmkv failed for entry %.*s\n", (int)uri.size, uri.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"JsonToKmkv failed for entry %.*s", (int)uri.size, uri.data));
 			return;
 		}
 
@@ -1284,38 +1298,38 @@ int main(int argc, char** argv)
 		// for now, we're just YOLO-writing what we get.
 		DynamicArray<char> kmkvString;
 		if (!KmkvToString(kmkv, &kmkvString)) {
-			LOG_ERROR("KmkvToString failed for entry %.*s\n", (int)uri.size, uri.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"KmkvToString failed for entry %.*s", (int)uri.size, uri.data));
 			return;
 		}
 		FixedArray<char, PATH_MAX_LENGTH> kmkvPath;
 		UriToKmkvPath(rootPath.ToArray(), uri, &kmkvPath);
 		Array<uint8> newData = { .size = kmkvString.size, .data = (uint8*)kmkvString.data };
 		if (!WriteFile(kmkvPath.ToArray(), newData, false)) {
-			LOG_ERROR("Failed to write kmkv data to file for entry %.*s\n",
-				(int)uri.size, uri.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"Failed to write kmkv data to file for entry %.*s", (int)uri.size, uri.data));
 			return;
 		}
 		LOG_INFO("Saved entry %.*s\n", (int)uri.size, uri.data);
 
 		if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
-			LOG_ERROR("Failed to reload all entry metadata to JSON for entry %.*s\n",
-				(int)uri.size, uri.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"Failed to reload all entry metadata to JSON for entry %.*s",
+				(int)uri.size, uri.data));
 			return;
 		}
 	});
 
 	serverDev.Post("/newEntry", [&rootPath, &allMetadataJson, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
+		TEMP_LINEAR_ALLOCATOR();
 
 		Array<char> bodyJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(bodyJson, &defaultAllocator_, &kmkv)) {
-			LOG_ERROR("JsonToKmkv failed for deleteEntry request body %.*s\n",
-				(int)bodyJson.size, bodyJson.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"JsonToKmkv failed for deleteEntry request body %.*s",
+				(int)bodyJson.size, bodyJson.data));
 			return;
 		}
 
@@ -1323,15 +1337,15 @@ int main(int argc, char** argv)
 		const auto* type = GetKmkvItemStrValue(kmkv, "contentType");
 		const auto* copyFrom = GetKmkvItemStrValue(kmkv, "copyFrom");
 		if (name == nullptr || type == nullptr) {
-			LOG_ERROR("newEntry request missing \"uniqueName\" or \"contentType\" fields\n");
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, ToString(
+				"newEntry request missing \"uniqueName\" or \"contentType\" fields"));
 			return;
 		}
 		for (uint64 i = 0; i < name->size; i++) {
 			if (!IsAlphanumeric((*name)[i]) && (*name)[i] != '-') {
-				LOG_ERROR("newEntry name contains invalid characters: %.*s\n",
-					(int)name->size, name->data);
-				res.status = HTTP_STATUS_ERROR;
+				SetErrorResponse(res, AllocPrintf(&tempAllocator,
+					"newEntry name contains invalid characters: %.*s",
+					(int)name->size, name->data));
 				return;
 			}
 		}
@@ -1348,9 +1362,9 @@ int main(int argc, char** argv)
 
 		HashTable<KmkvItem<StandardAllocator>> srcKmkv;
 		if (!LoadKmkv(srcKmkvPath.ToArray(), &defaultAllocator_, &srcKmkv)) {
-			LOG_ERROR("Failed to load source kmkv %.*s for new entry %.*s\n",
-				(int)srcKmkvPath.size, srcKmkvPath.data, (int)name->size, name->data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"Failed to load source kmkv %.*s for new entry %.*s",
+				(int)srcKmkvPath.size, srcKmkvPath.data, (int)name->size, name->data));
 			return;
 		}
 		EntryDate currentDate = GetCurrentDate();
@@ -1384,9 +1398,9 @@ int main(int argc, char** argv)
 
 		DynamicArray<char> srcKmkvString;
 		if (!KmkvToString(srcKmkv, &srcKmkvString)) {
-			LOG_ERROR("KmkvToString failed for src entry %.*s\n",
-				(int)srcKmkvPath.size, srcKmkvPath.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"KmkvToString failed for src entry %.*s",
+				(int)srcKmkvPath.size, srcKmkvPath.data));
 			return;
 		}
 
@@ -1401,67 +1415,69 @@ int main(int argc, char** argv)
 		newKmkvPath.Append(currentDate.monthString[1]);
 		newKmkvPath.Append('/');
 		if (!CreateDirRecursive(newKmkvPath.ToArray())) {
-			LOG_ERROR("Failed to create directory in newEntry request: %.*s\n",
-				(int)newKmkvPath.size, newKmkvPath.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"Failed to create directory in newEntry request: %.*s",
+				(int)newKmkvPath.size, newKmkvPath.data));
 			return;
 		}
 		newKmkvPath.Append(name->ToArray());
 		newKmkvPath.Append(ToString(".kmkv"));
 		Array<uint8> newData = { .size = srcKmkvString.size, .data = (uint8*)srcKmkvString.data };
 		if (!WriteFile(newKmkvPath.ToArray(), newData, false)) {
-			LOG_ERROR("Failed to write new kmkv data to file %.*s\n",
-				(int)newKmkvPath.size, newKmkvPath.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"Failed to write new kmkv data to file %.*s",
+				(int)newKmkvPath.size, newKmkvPath.data));
 			return;
 		}
 		LOG_INFO("Created entry %.*s\n", (int)newKmkvPath.size, newKmkvPath.data);
 
 		if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
-			LOG_ERROR("Failed to reload all entry metadata to JSON after new entry %.*s\n",
-				(int)newKmkvPath.size, newKmkvPath.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"Failed to reload all entry metadata to JSON after new entry %.*s",
+				(int)newKmkvPath.size, newKmkvPath.data));
 			return;
 		}
 	});
 
 	serverDev.Post("/deleteEntry", [&rootPath, &allMetadataJson, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
+		TEMP_LINEAR_ALLOCATOR();
 
 		Array<char> bodyJson = ToString(req.body);
 		HashTable<KmkvItem<StandardAllocator>> kmkv;
 		if (!JsonToKmkv(bodyJson, &defaultAllocator_, &kmkv)) {
-			LOG_ERROR("JsonToKmkv failed for deleteEntry request body %.*s\n",
-				(int)bodyJson.size, bodyJson.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"JsonToKmkv failed for deleteEntry request body %.*s",
+				(int)bodyJson.size, bodyJson.data));
 			return;
 		}
 
 		const auto* uri = GetKmkvItemStrValue(kmkv, "uri");
 		if (uri == nullptr) {
-			LOG_ERROR("No uri in deleteEntry request\n");
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"No uri in deleteEntry request"));
 			return;
 		}
 		FixedArray<char, PATH_MAX_LENGTH> kmkvPath;
 		UriToKmkvPath(rootPath.ToArray(), uri->ToArray(), &kmkvPath);
 		if (!DeleteFile(kmkvPath.ToArray(), true)) {
-			LOG_ERROR("Failed to delete entry file %.*s\n", (int)kmkvPath.size, kmkvPath.data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"Failed to delete entry file %.*s", (int)kmkvPath.size, kmkvPath.data));
 			return;
 		}
 		LOG_INFO("Deleted entry %.*s\n", (int)kmkvPath.size, kmkvPath.data);
 
 		if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
-			LOG_ERROR("Failed to reload all entry metadata to JSON after deleting %.*s\n",
-				(int)uri->size, uri->data);
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, AllocPrintf(&tempAllocator,
+				"Failed to reload all entry metadata to JSON after deleting %.*s",
+				(int)uri->size, uri->data));
 			return;
 		}
 	});
 
 	serverDev.Post("/newImage", [&imageRootPath, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
+		// TODO review http return content-type for img upload library on front-end
 
 		if (!req.has_file("imageFile")) {
 			LOG_ERROR("newImage request missing \"imageFile\"\n");
@@ -1593,6 +1609,7 @@ int main(int argc, char** argv)
 
 	serverDev.Post("/reset", [&rootPath, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_ADMIN_OR_ERROR(req, res, sessions);
+		TEMP_LINEAR_ALLOCATOR();
 
 		LOG_INFO("Received /reset request\n");
 		DynamicArray<DynamicArray<char>> cmds;
@@ -1605,9 +1622,8 @@ int main(int argc, char** argv)
 			command.Append(ToString(" && "));
 			command.Append(cmds[i].ToArray());
 			if (!RunCommand(command.ToArray())) {
-				LOG_ERROR("Failed to run \"%.*s\" on commit request\n",
-					(int)command.size, command.data);
-				res.status = HTTP_STATUS_ERROR;
+				SetErrorResponse(res, AllocPrintf(&tempAllocator,
+					"Failed to run \"%.*s\" on reset request", (int)command.size, command.data));
 				return;
 			}
 		}
@@ -1615,6 +1631,7 @@ int main(int argc, char** argv)
 
 	serverDev.Post("/commit", [&rootPath, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
+		TEMP_LINEAR_ALLOCATOR();
 
 		LOG_INFO("Received /commit request\n");
 		DynamicArray<DynamicArray<char>> cmds;
@@ -1626,8 +1643,7 @@ int main(int argc, char** argv)
 		char buffer[128];
 		size_t written = strftime(buffer, 128, "%d-%m-%Y %H:%M:%S", localTime);
 		if (written == 0) {
-			LOG_ERROR("strftime failed on commit request\n");
-			res.status = HTTP_STATUS_ERROR;
+			SetErrorResponse(res, ToString("strftime failed on commit request"));
 			return;
 		}
 		Array<char> timestamp = { .size = written, .data = buffer };
@@ -1641,9 +1657,8 @@ int main(int argc, char** argv)
 			command.Append(ToString(" && "));
 			command.Append(cmds[i].ToArray());
 			if (!RunCommand(command.ToArray())) {
-				LOG_ERROR("Failed to run \"%.*s\" on commit request\n",
-					(int)command.size, command.data);
-				res.status = HTTP_STATUS_ERROR;
+				SetErrorResponse(res, AllocPrintf(&tempAllocator,
+					"Failed to run \"%.*s\" on commit request", (int)command.size, command.data));
 				return;
 			}
 		}
@@ -1651,6 +1666,7 @@ int main(int argc, char** argv)
 
 	serverDev.Post("/deploy", [&rootPath, &sessions](const auto& req, auto& res) {
 		CHECK_AUTH_OR_ERROR(req, res, sessions);
+		TEMP_LINEAR_ALLOCATOR();
 
 		LOG_INFO("Received /deploy request\n");
 		DynamicArray<DynamicArray<char>> cmds;
@@ -1663,9 +1679,8 @@ int main(int argc, char** argv)
 			command.Append(ToString(" && "));
 			command.Append(cmds[i].ToArray());
 			if (!RunCommand(command.ToArray())) {
-				LOG_ERROR("Failed to run \"%.*s\" on commit request\n",
-					(int)command.size, command.data);
-				res.status = HTTP_STATUS_ERROR;
+				SetErrorResponse(res, AllocPrintf(&tempAllocator,
+					"Failed to run \"%.*s\" on deploy request", (int)command.size, command.data));
 				return;
 			}
 		}

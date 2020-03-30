@@ -285,7 +285,8 @@ $(document).ready(function() {
                     resetInProgress_ = false;
                 },
                 error: function(error) {
-                    window.location = '/';
+                    console.log(error);
+                    $("#statusMessage").html("Reset failed, error: " + error.responseText);
                     resetInProgress_ = false;
                 }
             });
