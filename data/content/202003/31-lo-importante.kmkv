@@ -89,7 +89,7 @@ text3 {
 <p>"Tengo cr&eacute;ditos y facturas por pagar", dice. "Esto lo retrasar&aacute;, espero que el gobierno haga algo para nuestra econom&iacute;a, para que se recupere".</p>
 }
 title4 Vuelve a subir balance de pandemia en España con record diario de muertos e infectados
-customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-31-03-2020-ec6vod/a-a1qlseb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+customTop $anchor/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-31-03-2020-ec6vod/a-a1qlseb$
 media{kmkv} {
     palaos /images/202003/31-lo-importante/palaos.jpg
     header /images/202003/headers/31-lo-importante.jpg
