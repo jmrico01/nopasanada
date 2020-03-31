@@ -61,7 +61,7 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202003/23-lo-importante-con-guiri
+        featured{array} /content/202003/30-lo-importante-con-guiri
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202003/27-lo-importante-con-guiri
@@ -71,7 +71,7 @@ noticias{kmkv} {
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202003/27-lo-importante-con-guiri
+        featured{array} /content/202003/30-lo-importante-con-guiri
     }
 }
 coleccion{kmkv} {
