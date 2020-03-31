@@ -36,10 +36,10 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202003/guida-spotlight-uno
+        featured{array} /content/202003/recomendado-dulce-recetascuarentena
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202003/guida-spotlight-uno
+    featured{array} /content/202003/recomendado-dulce-recetascuarentena
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202003/26-cola-de-gallo-big-mouth
@@ -50,7 +50,7 @@ guida{kmkv} {
     }
     recomendado{kmkv} {
         name Recomendado
-        featured{array} /content/202003/keto-pollo-frito
+        featured{array} /content/202003/recomendado-dulce-recetascuarentena
     }
 }
 noticias{kmkv} {
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/31-lo-importante
+    featured{array} /content/202003/recomendado-dulce-recetascuarentena
 }
 other{kmkv} {
     name Other (Internal)
