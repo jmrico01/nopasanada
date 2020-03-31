@@ -61,7 +61,9 @@ text2 {
 text3 {
 <p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
 <p>La pandemia de coronavirus sigue extendi&eacute;ndose por el mundo pero algunos territorios aislados, como Palaos, Samoa, Turkmenist&aacute;n o Corea del Norte resisten de momento a la llegada de la enfermedad.</p>
+<p>$image/samoa$</p>
 <p>Palaos, un microestado de 18.000 personas, es uno de los pocos lugares del mundo donde no se registr&oacute; ning&uacute;n caso de covid-19 a medida que aumentan los contagios en el resto del planeta.</p>
+<p>$image/palaos$</p>
 <p>Este pa&iacute;s insular es apenas un punto en el Oc&eacute;ano Pac&iacute;fico, a cientos de kil&oacute;metros de su primer vecino, una situaci&oacute;n que hasta ahora le ha aislado del virus, gracias tambi&eacute;n a las restricciones de viaje.</p>
 <p>Una situaci&oacute;n similar viven territorios como Tonga, las Islas Salom&oacute;n, las Islas Marshall y Micronesia.</p>
 <p>Sin embargo su situaci&oacute;n remota quiz&aacute; no sea suficiente par prevenir la llegada del virus. En el norte de las Islas Marianas se confirmaron los primeros casos este fin de semana y el lunes se detect&oacute; un fallecimiento sospechoso.</p>
@@ -89,11 +91,13 @@ text3 {
 title4 Vuelve a subir balance de pandemia en España con record diario de muertos e infectados
 customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-31-03-2020-ec6vod/a-a1qlseb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 media{kmkv} {
+    palaos /images/202003/31-lo-importante/palaos.jpg
     header /images/202003/headers/31-lo-importante.jpg
     header-desktop1 /images/202003/31-lo-importante/vertical1.jpg
     header-desktop2 /images/202003/31-lo-importante/vertical2.jpg
     header-desktop3 /images/202003/31-lo-importante/vertical3.jpg
     header-desktop4 /images/202003/31-lo-importante/vertical4.jpg
+    samoa /images/202003/31-lo-importante/samoa.jpg
     header-mobile1 /images/202003/31-lo-importante/square1.jpg
     header-mobile2 /images/202003/31-lo-importante/square2.jpg
     header-mobile3 /images/202003/31-lo-importante/square3.jpg
