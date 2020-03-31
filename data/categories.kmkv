@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202003/ratas-manipular
+        featured{array} /content/202003/31-neurociencia-deportes-extremos
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -119,5 +119,5 @@ ludi{kmkv} {
         featured{array} /content/201912/05-pasaen
     }
     displayOrder{array} 
-    featured{array} /content/202002/mujeres-deporte
+    featured{array} /content/202003/31-neurociencia-deportes-extremos
 }
