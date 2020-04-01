@@ -1,0 +1,35 @@
+text {
+<p>La pandemia COVID-19 redujo las emisiones contaminantes en un planeta en confinamiento, con f&aacute;bricas paradas y aviones en tierra, y nos ha dado un &ldquo;merecido respiro&rdquo; en t&eacute;rminos de contaminaci&oacute;n ambiental... pero los expertos esperan que tenga "poco efecto" en el clima, advirti&oacute; un responsable de la Organizaci&oacute;n Meteorol&oacute;gica Mundial (OMM).</p>
+<p>El mejoramiento puede ser "ef&iacute;mero", pues es probable que las emisiones de CO2 vuelvan a los niveles de antes de la pandemia una vez que sea controlada, consider&oacute; este mi&eacute;rcoles Lars Peter Riishojgaard, director de la Oficina del Sistema Tierra de esa agencia de la ONU, durante una conferencia de prensa virtual.</p>
+<p>En sus palabras: &ldquo;Todos hemos visto im&aacute;genes de sat&eacute;lite o fotos de Nueva Delhi, es que de repente la visibilidad se volvi&oacute; mejor porque el tr&aacute;fico se detuvo. Probablemente es un efecto real, no hay que ser un genio para entenderlo: cuando apagas el motor de tu carro, no emite m&aacute;s (...) y cuando un avi&oacute;n deja de volar, deja de emitir. Pero creo que debemos ser prudentes, no alegrarnos muy r&aacute;pido, porque es una interrupci&oacute;n artificial de la actividad econ&oacute;mica (...). No es necesariamente una situaci&oacute;n duradera.</p>
+<p>En sus palabras: &ldquo;Hemos visto mucha especulaci&oacute;n en los medios de comunicaci&oacute;n sobre lo que significa para el clima, las emisiones de gases de efecto invernadero y el calentamiento global a largo plazo.</p>
+<p>La respuesta es que probablemente tendr&aacute; muy poco efecto. A corto plazo, las emisiones de CO2 bajan, porque los coches se quedan en el garaje y los aviones detenidos en la pista de los aeropuertos. Pero creemos que el impacto ser&aacute; relativamente ef&iacute;mero.</p>
+<p>Esto llevar&aacute; a algunas personas y quiz&aacute;s a algunos gobiernos a reflexionar (...) No es la primera vez que vemos esto. El gobierno chino suspendi&oacute; gran parte de la producci&oacute;n industrial alrededor de Pek&iacute;n durante los Juegos Ol&iacute;mpicos de 2008, y demostr&oacute; muy claramente que es absolutamente posible, tomando el control, detener la contaminaci&oacute;n del aire (...). Pero no creo que debamos cantar victoria muy pronto, porque volver&aacute; a aumentar.&rdquo;</p>
+}
+title Los “cielos más azules” son efímeros: volverán a su estado contaminado una vez que volvamos a las calles.
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202004/headers/efecto-clima.jpg
+}
+description La disminución en la emisión de contaminantes no tendrá ningún efecto en el clima, dicen expertos
+year 2020
+author AFP y NPN CIENCIA
+featured{kmkv} {
+    title Reducción de emisiones <b>es efímera</b>
+    text1 La disminución en la emisión de contaminantes no tendrá ningún efecto en el clima, dicen expertos
+    text2 POR AFP
+    pretitle Medio Ambiente:
+    highlightColor #06FBFF
+}
+type article
+subtitle La disminución en la emisión de contaminantes no tendrá ningún efecto en el clima, dicen expertos
+month 04
+tags{array} mas-ambiente,noticias
+videoID 
+titlePoster 
+color #06FBFF
