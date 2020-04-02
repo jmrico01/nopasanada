@@ -1,0 +1,39 @@
+text {
+<p>Bueno, qui&eacute;n te tiene. Aceptaste ese shot de guaro con sal y lim&oacute;n, y hete aqu&iacute;: qued&aacute;ndote dormida en la barra del bar de karaoke que aparentemente est&aacute; de moda estos d&iacute;as.&nbsp;</p>
+<p>Te frot&aacute;s los ojos, incr&eacute;dula: <em>&iquest;pero, qu&eacute; te pas&oacute;, amiga?</em> Te pregunt&aacute;s a vos misma. Apenas son las 11:30 de la noche, finalmente es viernes, los decibeles son inimaginables, y a&uacute;n as&iacute;, fantase&aacute;s con estar en la cama.</p>
+<p>No importa cu&aacute;ntas veces has dicho en medio risas que "no sab&eacute;s c&oacute;mo ser adulto&rdquo;, no fue sino hasta que saliste con tus compa&ntilde;eros de trabajo siete a&ntilde;os m&aacute;s j&oacute;venes que vos que tuviste que enfrentar que lo sos y que sab&eacute;s bastante bien c&oacute;mo hacerlo - al menos, tu reloj bi&oacute;logico est&aacute; enterado; sentada en uno de esos bancos altos, apoyando la cabeza sobre el pu&ntilde;o, te pregunt&aacute;s cu&aacute;ndo exactamente transicionaste a esta nueva etapa de tu vida, en la que te qued&aacute;s dormida en bares... sin estar borracha.&nbsp;</p>
+<p>Lo intentaste - que no se diga que no lo intentaste: cantaste Zombie, de los Cranberries, a pesar de las caras de completo desconcierto de los presentes; te lleg&oacute; al coraz&oacute;n y aplaudiste con entusiasmo cuando la se&ntilde;ora de tacones y vestido al cuerpo cant&oacute; Mocedades; lo diste todo cantando en grupo - junto con un par de compa&ntilde;eros de trabajo que no conoc&iacute;as - &ldquo;Call Me Maybe&rdquo;.&nbsp;</p>
+<p>Pero, quiz&aacute; entre el primer shot y el segundo (aj&aacute; s&iacute;, hubo un segundo), ca&iacute;ste en cuenta de pronto que tus compa&ntilde;eros de trabajo pertenecen a otra generaci&oacute;n, y vos, porque te sent&iacute;s chiquilla de mente y todav&iacute;a no pod&eacute;s cambiar la termoducha de tu apartamento, no lo hab&iacute;as considerado.&nbsp;</p>
+<p>Tal vez lo empezaste a sospechar desde el inicio de la noche, cuando un compa&ntilde;ero de trabajo pidi&oacute; una canci&oacute;n de lo que dijo era &ldquo;Vintage Shakira&rdquo; y no se refer&iacute;a a Pies Descalzos&hellip; &iexcl;ni siquiera a Ojos As&iacute;! M&aacute;s bien, se refer&iacute;a &ldquo;Whenever, Whatever&rdquo;, y vos te preguntaste a vos misma varias veces durante la noche, indignada, poni&eacute;ndote la mano en el coraz&oacute;n disimuladamente: <em>&iquest;en serio ese muchacho dijo &ldquo;vintage Shakira&rdquo; y quer&iacute;a decir Shakira Rubia?&nbsp;</em></p>
+<p>Y ojo, no es que est&aacute;s aburrida; es que el sue&ntilde;o se siente de pronto como el estado natural de tu cuerpo. Es una sensaci&oacute;n que reconoc&eacute;s porque, desde hace tal vez un a&ntilde;o, rige tu vida. El sue&ntilde;o y vos son uno solo. Com&eacute;s, tom&aacute;s, dorm&iacute;s: ese es el orden l&oacute;gico de tus noches.</p>
+<p>Tu mente est&aacute; perdida en ideaciones de pantuflas, edredones y almohadas; tus m&uacute;sculos est&aacute;n dejando ir con total fuerza, tu cara se relaja m&aacute;s all&aacute; del punto de retorno; ni siquiera est&aacute;s resisti&eacute;ndote porque se siente rico, se siente correcto; tu cuerpo &nbsp;- ese veh&iacute;culo que habit&aacute;s y que tiene cada vez m&aacute;s injerencia en lo que hac&eacute;s o dej&aacute;s de hacer - est&aacute; decidido: es hora de dormir.&nbsp;</p>
+<p>De hecho, lo es desde hace al menos una hora: lo sentiste como un yunque a las 10:30, la hora en la que usualmente ca&eacute;s rendida, con piernas y rodillas palpitantes, en tu cama; lo sentiste en los p&aacute;rpados, en la parte baja de la espalda; la parte de atr&aacute;s de la cabeza se te hizo m&aacute;s ligera y dej&oacute; de apoyarte: ahora, ten&eacute;s la cara estripada contra el pu&ntilde;o de tu mano, con el codo sobre la barra pegajosa, y el sonido ensordecedor del canto desfinado de extra&ntilde;os est&aacute; cada vez m&aacute;s lejos&hellip; te sent&iacute;s en casa: como esas veces que te quedabas dormida donde tus abuelos, durante una fiesta familiar, y luego tus pap&aacute;s te cargaban al carro.</p>
+<p>Y s&iacute;, te qued&aacute;s dormida en la barra: no por borracha, ni por aburrida. Te qued&aacute;s dormida simplemente porque ten&eacute;s sue&ntilde;o.&nbsp;</p>
+}
+title Un día sos joven y al siguiente... te estás quedando dormida en el karaoke
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202004/headers/adulting-karaoke.jpg
+}
+description #adulting: sobre esa vez que te quedaste dormida en el karaoke no por borracha sino porque legal tenías sueño
+year 2020
+author Luisa Mora Fernández
+featured{kmkv} {
+    title <b>#ADULTING</b>
+    text1 Un día sos joven y al siguiente... te estás quedando dormida en el karaoke
+    text2 POR LUISA MORA FERNÁNDEZ
+    pretitle COLUMNA:
+    highlightColor #FFFF00
+}
+type article
+subtitle Sobre esa vez que te quedaste dormida en el karaoke no por borracha, sino porque de verdad tenías sueño
+month 04
+tags{array} opinion
+videoID 
+titlePoster 
+color #FFFF00

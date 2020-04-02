@@ -1,0 +1,34 @@
+text {
+<p>En este episodio de Lo Importante te contamos de la posici&oacute;n peligrosa de Bolsonaro ante el covid-19 en Brasil, la crisis en Rumania tras la falta de equipos m&eacute;dicos, la forma en que Cuba est&aacute; cazando el virus y el ej&eacute;rcito de costureras que se movilizan para equipar al personal m&eacute;dico.</p>
+<hr />
+<p>Host: Guiri Uribe &amp; Stella</p>
+<p>Producido por: Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p>Graficos &amp; Direcci&oacute;n Creativa: Lauren Gilleland</p>
+}
+title Lo Importante con Guiri Uribe 01.04.20
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202004/headers/01-lo-importante-con-guiri.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En este episodio de Lo Importante te contamos de la posición peligrosa de Bolsonaro ante el covid-19 en Brasil, la crisis en Rumania tras la falta de equipos médicos, la forma en que Cuba está cazando el virus y el ejército de costureras que se movilizan para equipar al personal médico.
+year 2020
+featured{kmkv} {
+    title LO <b>IMPORTANTE<b>
+    text1 Bolsonaro y su posición peligrosa ante el covid-19, la caza del virus por estudiantes cubanos y más...
+    text2 NO PASA NADA NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #00FFFF
+}
+type video
+subtitle 
+month 04
+tags{array} noticias-loimportante,noticias-video
+videoID 
+titlePoster Lo Importante 01.04.20
+color #00FFFF
