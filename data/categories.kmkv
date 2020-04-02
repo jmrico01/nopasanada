@@ -1,6 +1,6 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202003/papas-lomejor
+    featured{array} /content/202004/adulting-karaoke
 }
 mas{kmkv} {
     name Más
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202003/recomendado-dulce-recetascuarentena
+    featured{array} /content/202004/01-lo-importante
 }
 other{kmkv} {
     name Other (Internal)
