@@ -5,7 +5,7 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202003/murcielagos-importancia
+    featured{array} /content/202004/psicologia-musica-relajar
     cine{kmkv} {
         name Cine
         featured{array} /content/202003/03-jojorabbit
@@ -24,7 +24,7 @@ mas{kmkv} {
     }
     saludmental{kmkv} {
         name Salud mental
-        featured{array} /content/202003/aislamiento-astronautas-consejos
+        featured{array} /content/202004/psicologia-musica-relajar
     }
     arteymusica{kmkv} {
         name Arte y música
