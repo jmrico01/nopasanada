@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202003/videojuegos-historia
+        featured{array} /content/202004/orquestra-japon
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202004/01-lo-importante-con-guiri
+    featured{array} /content/202004/orquestra-japon
 }
 other{kmkv} {
     name Other (Internal)
