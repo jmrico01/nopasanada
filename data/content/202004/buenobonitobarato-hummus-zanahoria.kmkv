@@ -1,0 +1,80 @@
+text {
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Hummus a toda hora.&nbsp;</strong></span></p>
+<p style="text-align: left;"><em><strong>| "Bueno, bonito y barato" - Recetas f&aacute;ciles, buenas y que no quiebran el banco. | <a href="https://mailchi.mp/nopasanada.com/la_guida" target="_blank" rel="noopener">S&uacute;scribete a La Guida para recibir recetas como estas&nbsp;</a></strong></em></p>
+<hr />
+<p style="text-align: center;">Si es fan&aacute;tico del hummus, ese pur&eacute; de garbanzos (casi siempre) que solemos dipiarsh con pan pita, que siempre compras en el supermercado, sepa que es muy sencillo de hacer. La primera inversi&oacute;n es un poco costosa, pero le quedar&aacute;n ingredientes necesarios para un mont&oacute;n de tandas m&aacute;s.&nbsp;</p>
+<hr />
+<p>$image/hummus$</p>
+<hr />
+<p style="text-align: center;"><strong>HUMMUS A TODA HORA:</strong></p>
+<p><strong>Ingredientes:</strong></p>
+<ul>
+<li>Salsa tahini, que es una pasta a base de semillas de s&eacute;samo.<em> El tahini en Costa Rica cuesta entre &cent;4.000 ($7~) y &cent;7.000 ($13~), seg&uacute;n el tama&ntilde;o y la marca.</em></li>
+<li>Aceite de ajonjol&iacute;. <em>Se puede encontrar en Costa Rica por unos &cent;4.000 ($7~).</em></li>
+<li>Una lata de garbanzos&nbsp;</li>
+<li>Jugo de lim&oacute;n</li>
+<li>100 ml yogur natural / leche agria&nbsp;</li>
+<li>Lo que se tenga en la refr&iacute;</li>
+</ul>
+<hr />
+<p><em><strong>Preparacion:</strong></em></p>
+<ol>
+<li>
+<p>Con el jugo de un lim&oacute;n, unos 100 ml de yogur natural o leche agria, se van haciendo pur&eacute; los garbanzos en la licuadora o el procesador.</p>
+</li>
+<li>
+<p>Se agregan ajos al gusto, sal, pimienta, un par de cucharadas de tahini, una de aceite de ajonjol&iacute;, aceite de oliva.&nbsp;</p>
+</li>
+<li>
+<p>Se puede agregar chile dulce, zanahoria cocinada, br&oacute;coli o lentejas.&nbsp;</p>
+</li>
+<li>
+<p>&nbsp;Sentirse libre de experimentar con los productos que est&aacute;n a mano es la idea de la cocina de aprovechamiento. &iexcl;Manos a la cocina!</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p><span style="font-family: FuturaPTBook; font-size: 1.4vw; letter-spacing: 0.01vw;">$image/hummus$</span></p>
+<p>&nbsp;</p>
+<p><strong>NOTA: </strong><em>Sirva de una, ojal&aacute; con pan o pita!.&nbsp;</em></p>
+<hr /><hr />
+<p style="text-align: center;"><strong>Vea: <span style="text-decoration: underline;">Buscando el Men&uacute; Perfecto y d&aacute;ndole la vuelta al mundo a trav&eacute;s de los platos de Go-Fish</span><br />&nbsp;</strong></p>
+<p><strong>$youtube/jYAZDSMJtUM$</strong></p>
+<p>&nbsp;</p>
+}
+title Hummus a toda hora
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    pop /images/202003/receta-diengo-atun/pop.jpg
+    header /images/202004/headers/buenobonitobarato-shakshouka.jpg
+    pollo1 /images/202003/keto-pollo-frito/pollo1.jpg
+    pollo2 /images/202003/keto-pollo-frito/pollo2.jpg
+    shakshuka /images/202004/buenobonitobarato-shakshouka/shakshuka.jpg
+    brownies /images/202003/recomendado-dulce-recetascuarentena/brownies.jpg
+    galletasybrownies /images/202003/recomendado-dulce-recetascuarentena/galletasybrownies.jpg
+    galletas /images/202003/recomendado-dulce-recetascuarentena/galletas.jpg
+}
+description {
+Si es fanático del hummus, ese puré de garbanzos (casi siempre) que solemos dipiarsh con pan pita, que siempre compras en el supermercado, sepa que es muy sencillo de hacer. La primera inversión es un poco costosa, pero le quedarán ingredientes necesarios para un montón de tandas más. 
+
+}
+year 2020
+author Alberto Gatgens
+featured{kmkv} {
+    title Hummus a toda hora
+    text1 Cómo hacer un hummus a toda hora
+    text2 Por Alberto Gatgens
+    pretitle BUENO, BONITO Y BARATO
+    highlightColor #FFC7F7
+}
+type article
+subtitle Cómo hacer un Hummus para toda hora, con lo que se tenga. 
+month 04
+tags{array} guida
+videoID 
+titlePoster 
+color #FFC7F7
