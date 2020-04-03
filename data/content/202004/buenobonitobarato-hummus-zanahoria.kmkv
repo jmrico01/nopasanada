@@ -50,18 +50,16 @@ text4
 customTop 
 media{kmkv} {
     pop /images/202003/receta-diengo-atun/pop.jpg
-    header /images/202004/headers/buenobonitobarato-shakshouka.jpg
+    header /images/202004/headers/buenobonitobarato-hummus-zanahoria.jpg
     pollo1 /images/202003/keto-pollo-frito/pollo1.jpg
     pollo2 /images/202003/keto-pollo-frito/pollo2.jpg
     shakshuka /images/202004/buenobonitobarato-shakshouka/shakshuka.jpg
     brownies /images/202003/recomendado-dulce-recetascuarentena/brownies.jpg
     galletasybrownies /images/202003/recomendado-dulce-recetascuarentena/galletasybrownies.jpg
     galletas /images/202003/recomendado-dulce-recetascuarentena/galletas.jpg
+    hummus /images/202004/buenobonitobarato-hummus-zanahoria/hummus.jpg
 }
-description {
-Si es fanático del hummus, ese puré de garbanzos (casi siempre) que solemos dipiarsh con pan pita, que siempre compras en el supermercado, sepa que es muy sencillo de hacer. La primera inversión es un poco costosa, pero le quedarán ingredientes necesarios para un montón de tandas más. 
-
-}
+description Si es fanático del hummus, ese puré de garbanzos (casi siempre) que solemos dipiarsh con pan pita, que siempre compras en el supermercado, sepa que es muy sencillo de hacer. La primera inversión es un poco costosa, pero le quedarán ingredientes necesarios para un montón de tandas más.
 year 2020
 author Alberto Gatgens
 featured{kmkv} {
@@ -72,7 +70,7 @@ featured{kmkv} {
     highlightColor #FFC7F7
 }
 type article
-subtitle Cómo hacer un Hummus para toda hora, con lo que se tenga. 
+subtitle Cómo hacer un Hummus para toda hora, con lo que se tenga.
 month 04
 tags{array} guida
 videoID 
