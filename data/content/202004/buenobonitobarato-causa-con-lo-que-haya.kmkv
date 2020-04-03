@@ -1,0 +1,76 @@
+text {
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Causa con lo que haya</strong></span></p>
+<p style="text-align: left;"><em><strong>| "Bueno, bonito y barato" - Recetas f&aacute;ciles, buenas y que no quiebran el banco. | <a href="https://mailchi.mp/nopasanada.com/la_guida" target="_blank" rel="noopener">S&uacute;scribete a La Guida para recibir recetas como estas&nbsp;</a></strong></em></p>
+<hr />
+<p style="text-align: center;">Las causas son t&iacute;picas de la cocina peruana. La m&aacute;s famosa es la causa lime&ntilde;a, que se hace con pur&eacute; de pap&aacute; impregnado con lim&oacute;n y aj&iacute; amarillo, que le da el color, aguacate, pollo, mayonesa y otros ingredientes.&nbsp;</p>
+<p style="text-align: center;">Se podr&iacute;a decir que es una especie de pastel de papa. Var&iacute;a en la presentaci&oacute;n, que puede ser tipo enrollado, montado en torrecilla (napol&eacute;on, en la foto) o como pastel. La idea es aprovechar las papas y la prote&iacute;na que haya disponible en la casa, ya sea pollo o camarones.&nbsp;</p>
+<hr />
+<p>$image/causapollo$</p>
+<hr />
+<p style="text-align: center;"><strong>CAUSA:</strong></p>
+<p><strong>Ingredientes:</strong></p>
+<ul>
+<li>Papas</li>
+<li>Mantequilla / aceite / o grasa de preferencia</li>
+<li>Lim&oacute;n ( opcional )</li>
+<li>Picante ( opcional )</li>
+<li>Proteina&nbsp;</li>
+</ul>
+<hr />
+<p><em><strong>Preparacion:</strong></em></p>
+<ol>
+<li>
+<p>Las papas se hace pur&eacute;, luego de quitarles la piel cuando la papa est&aacute; bien caliente. Condimente bien el pur&eacute;.</p>
+</li>
+<li>
+<p>&nbsp;Si le suma mantequilla bien fr&iacute;a en cubitos y mezcla con fuerza, el pur&eacute; quedar&aacute; m&aacute;s sedoso.</p>
+</li>
+<li>
+<p><em>NOTA: Unas gotas de lim&oacute;n y si le gusta el picante, le caen muy bien al pur&eacute;. Si le quiere dar color, pero no tiene aj&iacute; amarillo, c&uacute;rcuma en polvo (poquita, es muy poderosa), tambi&eacute;n el achiote es un gran tinte.&nbsp;</em></p>
+</li>
+<li>
+<p>Con un aro (o un vaso pl&aacute;stico que le ayude a dar forma) haga una capa de pur&eacute; de papa, luego una capa m&aacute;s peque&ntilde;a de la prote&iacute;na, s&uacute;mele una capita de mayonesa, unas lonjitas de aguacate sacadas con una cuchara (si le sobra el aguacate, emp&uacute;jele sin miedo), apile otra capa de papa y remate con una corona de aguacate, o invierta el orden. O haga lo que prefiera, sea creativo.&nbsp;</p>
+<span style="font-family: FuturaPTBook; font-size: 1.4vw; letter-spacing: 0.01vw;">$image/causacamarones$</span></li>
+</ol>
+<p><strong>NOTA: </strong><em>Sirva de una, ojal&aacute; con pan.&nbsp;</em></p>
+<hr /><hr />
+<p style="text-align: center;"><strong>Vea: <span style="text-decoration: underline;">Buscando el Men&uacute; Perfecto y d&aacute;ndole la vuelta al mundo a trav&eacute;s de los platos de Go-Fish</span><br />&nbsp;</strong></p>
+<p><strong>$youtube/jYAZDSMJtUM$</strong></p>
+<p>&nbsp;</p>
+}
+title Causa con lo que haya
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    pop /images/202003/receta-diengo-atun/pop.jpg
+    causapollos /images/202004/buenobonitobarato-causa-con-lo-que-haya/causapollos.jpg
+    header /images/202004/headers/buenobonitobarato-causa-con-lo-que-haya.jpg
+    pollo1 /images/202003/keto-pollo-frito/pollo1.jpg
+    pollo2 /images/202003/keto-pollo-frito/pollo2.jpg
+    causacamarones /images/202004/buenobonitobarato-causa-con-lo-que-haya/causacamarones.jpg
+    shakshuka /images/202004/buenobonitobarato-shakshouka/shakshuka.jpg
+    brownies /images/202003/recomendado-dulce-recetascuarentena/brownies.jpg
+    galletasybrownies /images/202003/recomendado-dulce-recetascuarentena/galletasybrownies.jpg
+    galletas /images/202003/recomendado-dulce-recetascuarentena/galletas.jpg
+}
+description Cómo hacer una causa con lo que haya. Las causas son típicas de la cocina peruana. La idea es aprovechar las papas y la proteína que haya disponible en la casa, ya sea pollo o camarones.
+year 2020
+author Alberto Gatgens
+featured{kmkv} {
+    title Causa con lo que haya
+    text1 Cómo hacer una causa... con lo que haya.
+    text2 Por Alberto Gatgens
+    pretitle BUENO, BONITO Y BARATO
+    highlightColor #FFC7F7
+}
+type article
+subtitle Cómo hacer una causa con lo que haya.
+month 04
+tags{array} guida
+videoID 
+titlePoster 
+color #FFC7F7
