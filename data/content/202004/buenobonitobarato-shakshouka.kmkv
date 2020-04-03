@@ -1,0 +1,78 @@
+text {
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Shakshouka</strong></span></p>
+<p style="text-align: left;"><em><strong>| "Bueno, bonito y barato" - Recetas f&aacute;ciles, buenas y que no quiebran el banco. | <a href="https://mailchi.mp/nopasanada.com/la_guida" target="_blank" rel="noopener">S&uacute;scribete a La Guida para recibir recetas como estas&nbsp;</a></strong></em></p>
+<hr />
+<p style="text-align: center;">La shakshouka es algo as&iacute; como el equivalente en Oriente Pr&oacute;ximo a los huevos rancheros. Su base es el tomate cortado en cubos o trozos. Tambi&eacute;n suele llevar abundante cebolla en juliana, ajo y chile dulce en juliana.&nbsp; A partir de aqu&iacute;, cualquier verdura es bienvenida: espinacas, br&oacute;coli, zuquini, berenjena, etc.&nbsp;</p>
+<hr />
+<p>$image/shakshuka$</p>
+<hr />
+<p style="text-align: center;"><strong>SHAKSHOUKA:</strong></p>
+<p><strong>Ingredientes:</strong></p>
+<ul>
+<li>Aceite de oliva para sofre&iacute;r</li>
+<li>Tres o cuatro tomates grandes y bien maduros.</li>
+<li>Un chile dulce en julianas.</li>
+<li>Una cebolla grande en julianas.</li>
+<li>Cuatro o cinco dientes de ajos bien picados.</li>
+<li>Tres huevos.</li>
+<li>Las verduras que quiera aprovechar y disfrutar.&nbsp;</li>
+</ul>
+<hr />
+<p><em><strong>Preparacion:</strong></em></p>
+<ol>
+<li>
+<p>Se empieza haciendo un sofrito con generoso aceite de oliva, la cebolla, el chile dulce y de &uacute;ltimo el ajo, que se quema con facilidad.</p>
+</li>
+<li>
+<p>Se incorpora el tomate y se empieza a majar, para que haga pur&eacute; y se cocine con m&aacute;s facilidad.</p>
+</li>
+<li>
+<p>Luego, vienen los vegetales que quiera agregar, que se cocinar&aacute;n en el tomate.<em> Salpimiente aqu&iacute;, mezcle todo.&nbsp;</em></p>
+</li>
+<li>
+<p>Cuando est&eacute; cerca de cocinarse, haga un nido en la mezcla y vac&iacute;e un huevo; repita seg&uacute;n el tama&ntilde;o de la porci&oacute;n que est&eacute; cocinando, tape y deje que se cocine, al gusto, el huevo.</p>
+</li>
+<li>
+<p>Sirva de una, ojal&aacute; con pan.&nbsp;</p>
+<span style="font-family: FuturaPTBook; font-size: 1.4vw; letter-spacing: 0.01vw;">$image/shakshouka$</span></li>
+</ol>
+<p><strong>NOTA: </strong><em>Sirva de una, ojal&aacute; con pan.&nbsp;</em></p>
+<hr /><hr />
+<p style="text-align: center;"><strong>Vea: <span style="text-decoration: underline;">Buscando el Men&uacute; Perfecto y d&aacute;ndole la vuelta al mundo a trav&eacute;s de los platos de Go-Fish</span><br />&nbsp;</strong></p>
+<p><strong>$youtube/jYAZDSMJtUM$</strong></p>
+<p>&nbsp;</p>
+}
+title Shakshouka
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    pop /images/202003/receta-diengo-atun/pop.jpg
+    header /images/202004/headers/buenobonitobarato-shakshouka.jpg
+    pollo1 /images/202003/keto-pollo-frito/pollo1.jpg
+    pollo2 /images/202003/keto-pollo-frito/pollo2.jpg
+    shakshuka /images/202004/buenobonitobarato-shakshouka/shakshuka.jpg
+    brownies /images/202003/recomendado-dulce-recetascuarentena/brownies.jpg
+    galletasybrownies /images/202003/recomendado-dulce-recetascuarentena/galletasybrownies.jpg
+    galletas /images/202003/recomendado-dulce-recetascuarentena/galletas.jpg
+}
+description Cómo hacer shakshouka
+year 2020
+author Alberto Gatgens
+featured{kmkv} {
+    title Shakshouka
+    text1 Cómo hacer shakshouka
+    text2 Por Alberto Gatgens
+    pretitle BUENO, BONITO Y BARATO
+    highlightColor #FFC7F7
+}
+type article
+subtitle Cómo hacer shakshouka
+month 04
+tags{array} guida
+videoID 
+titlePoster 
+color #FFC7F7
