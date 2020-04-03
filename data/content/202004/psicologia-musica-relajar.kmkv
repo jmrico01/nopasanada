@@ -32,18 +32,18 @@ customTop
 media{kmkv} {
     header /images/202004/headers/psicologia-musica-relajar.jpg
 }
-description No es necesario escuchar cuencos tibetanos o música clásica para reducir los niveles de ansiedad: escuchar la música que nos gusta es suficiente. 
+description No es necesario escuchar cuencos tibetanos o música clásica para reducir los niveles de ansiedad: escuchar la música que nos gusta es suficiente.
 year 2020
 author Allan Vargas
 featured{kmkv} {
     title <b>Música y ansiedad</b>
-    text1 La papa es vida, la papa es amor
+    text1 Ni cuencos tibetanos, ni música clásica: escuchar la música que nos gusta es suficiente.
     text2 POR SERGIO SALAZAR
     pretitle PSICOLOGÍA:
     highlightColor #FFFF00
 }
 type article
-subtitle No es necesario escuchar cuencos tibetanos o música clásica para reducir los niveles de ansiedad: escuchar la música que nos gusta es suficiente. 
+subtitle No es necesario escuchar cuencos tibetanos o música clásica para reducir los niveles de ansiedad: escuchar la música que nos gusta es suficiente.
 month 04
 tags{array} opinion,mas-saludmental,mas-saludyciencia
 videoID 
