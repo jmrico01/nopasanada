@@ -1,0 +1,35 @@
+text {
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Escuch&aacute; la &uacute;ltima canci&oacute;n de Bad Bunny dodne nos dice que nos quedemos en casita.&nbsp;</strong></span></p>
+<p style="text-align: center;"><a href="https://soundcloud.com/yhlqmdlg/en-casita-ft-gabriela" target="_blank" rel="noopener"><span style="text-decoration: underline;"><strong>LINK</strong></span></a></p>
+<p style="text-align: center;"><a href="https://soundcloud.com/yhlqmdlg/en-casita-ft-gabriela" target="_blank" rel="noopener">$image/badbunny$</a></p>
+<p>&nbsp;</p>
+}
+title "EN CASITA (ft Gabriela)' la nueva canción de Bad Bunny
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202004/headers/encasita-badbunny.jpg
+    bad /images/202004/encasita-badbunny/bad.jpg
+    badbunny /images/202004/encasita-badbunny/badbunny.jpg
+}
+description "EN CASITA (ft Gabriela)' la nueva canción de Bad Bunny. ¿Tal vez si el nos dice que nos quedemos en casa, hacemos caso?
+year 2020
+author AFP y NPN CULTURA
+featured{kmkv} {
+    title <b>NUEVA CANCIÓN BAD BUNNY</b>
+    text1 Bad Bunny dice que nos qudemos en "casita"
+    text2 AFP y NPN CULTURA
+    pretitle MÚSICA:
+    highlightColor #FBFF09
+}
+type article
+subtitle Si Bad Bunny lo dice... Tiene que ser confiable. #Quedateencasa ... o #quedateenccasita
+month 04
+tags{array} noticias,mas-arteymusica,mas-historias
+videoID 
+titlePoster 
+color #FBFF09
