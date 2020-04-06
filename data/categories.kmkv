@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202003/pangolines-reserva
+        featured{array} /content/202004/cambio-climatico-urgencia
     }
     saludmental{kmkv} {
         name Salud mental
