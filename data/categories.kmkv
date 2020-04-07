@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202004/06-lo-importante-con-guiri
+    featured{array} /content/202004/gripe-espanola-lecciones
 }
 other{kmkv} {
     name Other (Internal)
