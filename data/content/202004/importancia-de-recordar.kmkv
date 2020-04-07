@@ -1,6 +1,6 @@
 text {
-<p>Siempre tengo alguna an&eacute;cdota que contar y casi siempre se desarrolla en Turrialba, donde crec&iacute;. Esas an&eacute;cdotas inician siempre con &ldquo;una vez en Turrialba estaba con mis amigos y...&rdquo; luego hay risas y alg&uacute;n &ldquo;no puede ser...&rdquo; &ldquo;&iquest;c&oacute;mo se les ocurri&oacute; hacer semejante caballada&rdquo;?&nbsp;</p>
-<p>De entre mis compas, soy el que pasa recordando todo el tiempo. Suave, &iquest;c&oacute;mo? &iquest;No es cierto que todos recordamos?</p>
+<p>Siempre tengo alguna an&eacute;cdota que contar y casi siempre se desarrolla en Turrialba, donde crec&iacute;. Esas an&eacute;cdotas inician siempre con &ldquo;<em>una vez en Turrialba estaba con mis amigos y...&rdquo; luego hay risas y alg&uacute;n &ldquo;no puede ser...&rdquo; &ldquo;&iquest;c&oacute;mo se les ocurri&oacute; hacer semejante caballada&rdquo;?&nbsp;</em></p>
+<p>De entre mis compas, soy el que pasa recordando todo el tiempo. Pero &iquest;no es cierto que todos recordamos?</p>
 <p>De cierta forma s&iacute;: la informaci&oacute;n que captamos del mundo hace un viaje por varias zonas de nuestro cerebro; primero se almacena en el hipocampo y pasa luego a la corteza prefrontal, donde hacemos uso pr&aacute;ctico de ella -- as&iacute; es, a grandes rasgos, como funciona nuestra memoria.</p>
 <p>Pero la acci&oacute;n de recordar, es m&aacute;s bien la evocaci&oacute;n de conceptos, im&aacute;genes, sensaciones y sonidos, que est&aacute;n almacenados en nuestra memoria; recordar es la capacidad que tenemos de evocar esa informaci&oacute;n desde la memoria, y dotarla de sentido.</p>
 <p>&iquest;Recuerdan la primera vez que comieron helado? Una pregunta trivial, pero puede ser que la respuesta sea la clave de por qu&eacute; a muchos no nos gusta el helado de ron con pasas; despu&eacute;s de todo, el recuerdo de la vez que lo probamos puede ser la raz&oacute;n de por qu&eacute; nos disgusta. Es decir: conectamos sensaciones emocionales, con recuerdos sensoriales.</p>
@@ -31,7 +31,7 @@ customTop
 media{kmkv} {
     header /images/202004/headers/importancia-de-recordar.jpg
 }
-description Recordar, es decir, tener presente el pasado y dotarlo de sentido, es crucial para entender el presente.
+description Recordar es darle sentido a nuestras memorias, para entender cómo influyen en nuestro presente.
 year 2020
 author Carlos Leitón
 featured{kmkv} {
@@ -42,7 +42,7 @@ featured{kmkv} {
     highlightColor #FFFF00
 }
 type article
-subtitle Recordar, es decir, tener presente el pasado y dotarlo de sentido, es crucial para entender el presente.
+subtitle Recordar es darle sentido a nuestras memorias, para entender cómo influyen en nuestro presente.
 month 04
 tags{array} opinion
 videoID 
