@@ -39,7 +39,7 @@ guida{kmkv} {
         featured{array} /content/202003/recomendado-dulce-recetascuarentena
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202003/recomendado-dulce-recetascuarentena
+    featured{array} /content/202004/07-guida-spotlight
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202003/26-cola-de-gallo-big-mouth
@@ -50,7 +50,7 @@ guida{kmkv} {
     }
     recomendado{kmkv} {
         name Recomendado
-        featured{array} /content/202003/recomendado-dulce-recetascuarentena
+        featured{array} /content/202004/07-guida-spotlight
     }
 }
 noticias{kmkv} {
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202004/gripe-espanola-lecciones
+    featured{array} /content/202004/07-guida-spotlight
 }
 other{kmkv} {
     name Other (Internal)
