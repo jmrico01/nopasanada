@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202003/05-bolsonaro
+        featured{array} /content/202004/bye-bernie
     }
     loimportante{kmkv} {
         name Lo Importante
