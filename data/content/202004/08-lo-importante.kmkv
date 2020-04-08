@@ -99,7 +99,7 @@ text3 {
 <p>"Estoy en los huesos. La gente ahora guarda su comida con todo lo que est&aacute; pasando, nos tratan peor ahora, como apestados", denuncia Vazques, quien ante esta nueva desgracia se pregunta: "&iquest;D&oacute;nde ser&aacute; mejor morir?".</p>
 }
 title4 Varios países de Asia resisten con éxito al confinamiento
-customTop <iframe src="https://anchor.fm/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-08-04-2020-echsnu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+customTop $anchor/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-08-04-2020-echsnu$
 media{kmkv} {
     palaos /images/202003/31-lo-importante/palaos.jpg
     header /images/202004/headers/08-lo-importante.jpg
