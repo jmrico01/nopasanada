@@ -5,7 +5,7 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202004/psicologia-musica-relajar
+    featured{array} /content/202004/intrucciones-para-estar-solo
     cine{kmkv} {
         name Cine
         featured{array} /content/202003/03-jojorabbit
