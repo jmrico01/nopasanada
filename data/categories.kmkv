@@ -24,7 +24,7 @@ mas{kmkv} {
     }
     saludmental{kmkv} {
         name Salud mental
-        featured{array} /content/202004/psicologia-musica-relajar
+        featured{array} /content/202004/deadlines-resfrios
     }
     arteymusica{kmkv} {
         name Arte y música
