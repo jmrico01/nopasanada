@@ -1,5 +1,5 @@
 text {
-<p><strong>Emiliano Z&uacute;&ntilde;iga Hern&aacute;ndez (b.1990) es un fot&oacute;grafo costarricense graduado de la Universidad Veritas.</strong></p>
+<p><strong>Fotograf&iacute;as y texto de Emiliano Z&uacute;&ntilde;iga Hern&aacute;ndez (b.1990), fot&oacute;grafo costarricense graduado de la Universidad Veritas.</strong></p>
 <hr />
 <p><em>"Siento que de pronto me vi en algo as&iacute; como un limbo, una incertidumbre fuerte, pero esta vez tiene algo que para m&iacute; es nuevo que es la evidencia de que es algo colectivo, algo que estoy experimentando junto a millones de personas. </em></p>
 <p><em>$image/1$</em></p>
@@ -66,7 +66,7 @@ media{kmkv} {
 }
 description El arte que se está creando durante el confinamiento
 year 2020
-author Emiliano Zúñiga
+author NPN CULTURA
 featured{kmkv} {
     title Artista en confinamiento
     text1 Emiliano Zúñiga Hernández, fotógrafo
@@ -75,7 +75,7 @@ featured{kmkv} {
     highlightColor #00FFFF
 }
 type article
-subtitle "En los primeros días sentí una compasión y sorpresa un poco abrumadora: ver las luces de la ciudad y pensar que en cada una de esas luces podía haber una persona asustada me hizo sentir muchísima empatía"
+subtitle "Ver las luces de la ciudad y pensar que en cada una de esas luces podía haber una persona asustada me hizo sentir muchísima empatía"
 month 04
 tags{array} mas-arteymusica,mas-historias
 videoID 
