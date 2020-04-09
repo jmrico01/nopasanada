@@ -5,7 +5,7 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202004/intrucciones-para-estar-solo
+    featured{array} /content/202004/artista-confinamiento-emilianozuniga
     cine{kmkv} {
         name Cine
         featured{array} /content/202003/03-jojorabbit
@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202004/orquestra-japon
+        featured{array} /content/202004/artista-confinamiento-emilianozuniga
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
