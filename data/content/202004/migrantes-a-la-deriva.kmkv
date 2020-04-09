@@ -1,0 +1,41 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<p>El ministerio del Interior decidi&oacute; el martes por la noche que Italia ya no pod&iacute;a ser considerada un refugio seguro durante la duraci&oacute;n de la pandemia, que ya ha matado a m&aacute;s de 17.500 personas en el pa&iacute;s.</p>
+<p>Esto significa que los migrantes rescatados en el mar por estas oeneg&eacute;s ya no pueden desembarcar en el pa&iacute;s.</p>
+<p>La decisi&oacute;n de cerrar los puertos se produce un mes despu&eacute;s de que las autoridades decretaran el confinamiento general de la poblaci&oacute;n para luchar contra el coronavirus en el pa&iacute;s europeo m&aacute;s afectado por la epidemia.</p>
+<p>Las organizaciones no gubernamentales (ONG) que ayudan a los migrantes en el Mediterr&aacute;neo critican la decisi&oacute;n de las autoridades italianas de cerrar los puertos para combatir la pandemia de coronavirus.&nbsp;</p>
+<p>La oeneg&eacute; francesa M&eacute;dicos Sin Fronteras (MSF), SOS M&eacute;diterr&aacute;neo, la italiana Saving Humans Mediterranea, la alemana Sea-Watch y la espa&ntilde;ola Open Arms acusan a Roma de utilizar la crisis del coronavirus como pretexto para cerrar el pa&iacute;s a la llegada de solicitantes de asilo.</p>
+<p>"En un momento como este, el sufrimiento de los ciudadanos afectados por una crisis sanitaria no puede ser una raz&oacute;n para negar el apoyo (...) a aquellos que corren el riesgo de perder la respiraci&oacute;n, no en una unidad de cuidados intensivos, sino ahog&aacute;ndose", escriben las oeneg&eacute;s.</p>
+<p>"Todas las vidas deben ser salvadas, todas las personas fr&aacute;giles deben ser protegidas, tanto en tierra como en el mar. Es posible y necesario hacerlo", agregan.&nbsp;</p>
+<p>Las cuatro oeneg&eacute;s que firman el texto subrayan que han puesto a disposici&oacute;n de las autoridades sanitarias italianas personal y recursos para luchar contra el coronavirus, y que la apertura de los puertos a los n&aacute;ufragos era una "obligaci&oacute;n legal".</p>
+<p>El barco "Alan Kurdi", fletado por la oeneg&eacute; Sea Eye, busca un puerto para desembarcar a 150 personas, entre ellas una mujer embarazada, que fueron rescatadas en las costas libias el lunes.</p>
+<p>Seg&uacute;n el ministerio del Interior, unos 3.000 migrantes han desembarcado en Italia en lo que va de a&ntilde;o.&nbsp;</p>
+<p>Se espera que las salidas desde Libia sean m&aacute;s frecuentes en las pr&oacute;ximas semanas debido al conflicto armado y a condiciones meteorol&oacute;gicas m&aacute;s favorables.</p>
+}
+title Migrantes rescatados a la deriva por cierre de puertos italianos
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202004/headers/migrantes-a-la-deriva.jpg
+}
+description El cierre de puertos Italianos debido al covid-19 ha dejado a los migrantes a la deriva
+year 2020
+author AFP y NPN NOTICIAS
+featured{kmkv} {
+    title <b>A la deriva</b>
+    text1 El cierre de puertos Italianos debido al covid-19 ha dejado a los migrantes a la deriva
+    text2 AFP y NPN CULTURA
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle El cierre de puertos Italianos debido al covid-19 significa que los migrantes rescatados ya no pueden desembarcar, denuncian ONGs
+month 04
+tags{array} noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
