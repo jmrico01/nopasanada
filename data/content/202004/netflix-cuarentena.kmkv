@@ -1,6 +1,6 @@
 text {
-<p><span style="font-size: 1.4vw; letter-spacing: 0.01vw;"><a href="https://nopasanada.com/content/202003/recomendaciones-peliculas-cuarentena?utm_campaign=later-linkinbio-nopasanada_ig&amp;utm_content=later-6179743&amp;utm_medium=social&amp;utm_source=instagram">A lo largo de este mes el equipo de No Pasa Nada les hemos recomendado varias pel&iacute;culas para disfrutar durante esta cuarenta en un intento por respetar el aislamiento social</a>.&nbsp;</span></p>
-<p>Sabemos que los d&iacute;as son largos y que las cosas por hacer no abundan, adem&aacute;s, estamos seguros que ya vieron las pel&iacute;culas que les hemos ido recomendando, as&iacute; estas son otras cinco pel&iacute;culas que pueden ver mientras esperan que el mundo regrese a su orden natural.&nbsp;</p>
+<p><span style="font-size: 1.4vw; letter-spacing: 0.01vw;"><a href="https://nopasanada.com/content/202003/recomendaciones-peliculas-cuarentena?utm_campaign=later-linkinbio-nopasanada_ig&amp;utm_content=later-6179743&amp;utm_medium=social&amp;utm_source=instagram">A lo largo de este mes el equipo de No Pasa Nada les hemos recomendado varias pel&iacute;culas para disfrutar durante esta cuarenta, en un intento por respetar el aislamiento social</a>.&nbsp;</span></p>
+<p>Sabemos que los d&iacute;as son largos y que las cosas por hacer no abundan; adem&aacute;s, estamos seguros que ya vieron las pel&iacute;culas que les hemos ido recomendando, as&iacute; estas son otras cinco pel&iacute;culas que pueden ver mientras esperan que el mundo regrese a su orden natural.&nbsp;</p>
 <p><strong>Uncut Gems</strong></p>
 <p><span style="font-size: 1.4vw; letter-spacing: 0.01vw;">La pel&iacute;cula que puso a Adam Sandler de nuevo en el centro de atenci&oacute;n. Uncut Gems nos presenta a Howard Ratner un joyero jud&iacute;o de la ciudad de Nueva York y adicto a las apuestas, que tiene problema para mantener a flote su tienda, sus adicciones y su vida.&nbsp;</span></p>
 <p>Luego de que Howard entra en contacto con un enorme &oacute;palo valorado en un mill&oacute;n de d&oacute;lares, se obsesiona con &eacute;l y comienza un camino en el que se enfrentan sus intereses profesionales, familiares y sus demonios.&nbsp;</p>
@@ -33,20 +33,20 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202003/headers/recomendaciones-peliculas-cuarentena.jpg
+    header /images/202004/headers/netflix-cuarentena.jpg
 }
-description Estar encerrados en la casa no es bonito, las horas son largas y las cosas que hacer no abundan, pero intentemos verle el lado positivo a las cosas y démosle una oportunidad a lo que el catálogo de Netflix nos ofrece. 
+description Todas estas películas las podés encontrar en Netflix.
 year 2020
 author SERGIO SALAZAR PACHECO
 featured{kmkv} {
-    title <b>Películas para sobrellevar la cuarentena</b> Vol. 2
-    text1 Aprovechemos el distanciamiento social para ver películas y cedamos a la adicción de Netflix
-    text2 Por SERGIO SALAZAR PACHECO 
+    title <b>Películas para cuarentena</b> Vol. 2
+    text1 Más pelis recomendadas, esta vez, edición Netflix
+    text2 Por SERGIO SALAZAR PACHECO
     pretitle #QUEDATEENCASA:
     highlightColor #D6FF04
 }
 type article
-subtitle Aprovechemos el distanciamiento social para ver películas y cedamos a la adicción de Netflix
+subtitle Aprovechemos el distanciamiento social para ver películas; cedamos a Netflix
 month 04
 tags{array} opinion,mas-arteymusica,mas-cine
 videoID 
