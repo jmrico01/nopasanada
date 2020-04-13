@@ -1,0 +1,47 @@
+text {
+<p>En Viena, el a&ntilde;o 2020 iba a estar dedicado al 250&deg; aniversario del nacimiento de Ludwig van Beethoven, pero en la capital asediada por el nuevo coronavirus, los habitantes est&aacute;n confinados en sus casas y las salas de espect&aacute;culo cerradas y en silencio.</p>
+<p>"Ordinariamente, la &Oacute;pera Estatal de Viena es un hormiguero donde act&uacute;an 1.000 personas", explica el director, Dominique Meyer, sin ocultar la emoci&oacute;n.</p>
+<p>"Ahora el lugar est&aacute; en silencio y emocionalmente es muy dif&iacute;cil", agrega.</p>
+<p>En tiempos normales en Viena, ciudad impregnada de pasajes de Mozart, la m&uacute;sica se respira. Los festivales se encadenan y siempre hay un concierto o una opereta para escuchar y admirar.</p>
+<p>Pero la temporada musical se interrumpi&oacute; bruscamente hace un mes cuando las primeras medidas de confinamiento para frenar la pandemia obligaron a cerrar las salas de concierto de las grandes instituciones musicales.</p>
+<p>"Viena ofrece una agenda cultural comparable a la de una metr&oacute;poli de 5 millones de habitantes, cuando tiene solamente 1,8 millones", dice el director de la Oficina de Turismo, Norbert Kettner.</p>
+<p>"Esto es lo que atrae a las tres cuartas partes de los 8 millones de visitantes anuales", se&ntilde;ala, al punto que el n&uacute;mero de turistas ha aumentado un 62% en los &uacute;ltimos diez a&ntilde;os.</p>
+<p>En las tres &oacute;peras y dos salas de conciertos generalmente se congregan unas 10.000 personas cada noche bajo el dorado de estos templos de m&uacute;sica, siempre llenas.</p>
+<p>Hay algo para todos los amantes de la m&uacute;sica y para todos los bolsilllos, con entradas a 5 euros (4,5 d&oacute;lares). Pero, para poder abonarse a la &nbsp;Orquesta Filarm&oacute;nica de Viena hay una lista de espera de 14 a&ntilde;os.</p>
+<p>Para la ciudad de los valses felices compuestos por la dinast&iacute;a musical de los Strauss, el freno brutal de la maquinaria cultura augura una cat&aacute;strofe financiera sin precedentes desde 1945.</p>
+<p>"La &Oacute;pera de Viena tiene en general una taquilla de &nbsp;unos 131.000 euros diarios", se&ntilde;ala Meyer. "Es un pulm&oacute;n econ&oacute;mico vital que llena seis o siete hoteles y los restaurantes de la zona al final de los espect&aacute;culos", apunt&oacute;.</p>
+<p>Ahora todo est&aacute; paralizado y los m&aacute;s perjudicados son los propios artistas.</p>
+<p>Seg&uacute;n agentes de cantantes y directores de &oacute;pera los contratos han caducado, la mayor&iacute;a de las veces sin ninguna oferta de compensaci&oacute;n, y a menudo abruptamente.</p>
+<p>Posponer producciones l&iacute;ricas es imposible, ya que se programan con a&ntilde;os de anticipaci&oacute;n.</p>
+<p>En ausencia de sistemas de seguro de desempleo, el gobierno austr&iacute;aco ha establecido mecanismos de apoyo que permiten que cada artista obtenga 1.000 o 2.000 euros al mes durante 16 semanas.</p>
+<p>Por lo dem&aacute;s, este sector altamente internacionalizado seguir&aacute; dependiendo de las decisiones sobre la apertura de fronteras.</p>
+<p>Incluso aunque Austria planea comenzar el martes el fin gradual del confinamiento, no se anuncia una fecha para la reanudaci&oacute;n de la vida cultural, ya que cualquier aglomeraci&oacute;n puede relanzar la epidemia.</p>
+<p>Seg&uacute;n cifras oficiales, hasta el domingo COVID-19 hab&iacute;a provocado la muerte de 337 personas en el pa&iacute;s.</p>
+}
+title Viena se preparaba para celebrar el nacimiento de Beethoven, pero el coronavirus la silenció.
+day 13
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202004/headers/viena-silencio.jpg
+}
+description El cierre de puertos Italianos debido al covid-19 ha dejado a los migrantes a la deriva
+year 2020
+author AFP y NPN CULTURA
+featured{kmkv} {
+    title <b>Viena en silencio</b>
+    text1 Viena se preparaba para celebrar el nacimiento de Beethoven, pero el coronavirus cambió los planes.
+    text2 AFP y NPN CULTURA
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle En la capital de la música, las salas de espectáculo están cerradas y en silencio; los artistas desempleados y esperando reanudar.
+month 04
+tags{array} noticias-culturales,mas-arteymusica
+videoID 
+titlePoster 
+color #FBFF09

@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202004/13-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202003/max-von
+        featured{array} /content/202004/viena-silencio
     }
     video{kmkv} {
         name Video
