@@ -27,10 +27,7 @@ customTop
 media{kmkv} {
     header /images/202004/headers/pandemias-destruccion-natural.jpg
 }
-description {
-Las zoonosis son esperables consecuencias de ecosistemas enfermos.  
-
-}
+description Las zoonosis son esperables consecuencias de ecosistemas enfermos.
 year 2020
 author AFP y NPN CIENCIA
 featured{kmkv} {
@@ -41,12 +38,9 @@ featured{kmkv} {
     highlightColor #06FBFF
 }
 type article
-subtitle {
-"Desprecio por la naturaleza y falta de respeto por los animales." Los científicos insisten en que las zoonosis son esperables consecuencias de ecosistemas enfermos.  
-
-}
+subtitle "Desprecio por la naturaleza y falta de respeto por los animales." Los científicos insisten en que las zoonosis son consecuencias de ecosistemas enfermos.
 month 04
-tags{array} mas-ambiente,noticias
+tags{array} mas-ambiente
 videoID 
 titlePoster 
 color #06FBFF
