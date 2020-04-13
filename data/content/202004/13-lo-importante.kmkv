@@ -91,7 +91,10 @@ text3 {
 <p>Guayas es la provincia que m&aacute;s aporta al PIB de Ecuador (27%) y Guayaquil es el principal centro comercial del pa&iacute;s.</p>
 }
 title4 Tímido regreso al trabajo en España
-customTop $anchor/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-09-04-2020-ecj5ec$
+customTop {
+$anchor/lo-importante-de-no-pasa-nada/embed/episodes/Lo-Importante-de-No-Pasa-Nada-13-04-2020-eco1uq$
+
+}
 media{kmkv} {
     palaos /images/202003/31-lo-importante/palaos.jpg
     header /images/202004/headers/13-lo-importante.jpg
