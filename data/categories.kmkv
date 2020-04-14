@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202004/13-lo-importante-con-guiri
+    featured{array} /content/202004/iris-margarita-silencio
 }
 other{kmkv} {
     name Other (Internal)
