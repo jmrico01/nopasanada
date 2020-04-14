@@ -1,5 +1,4 @@
 text {
-<p>Este a&ntilde;o, la iglesia cat&oacute;lica celebr&oacute; la Semana Santa con misas sin fieles, transmitidas por internet&hellip; pero durante pandemias anteriores, fue un vector de propagaci&oacute;n con procesiones de flagelantes o masacres de gatos.</p>
 <p>Una gran catedral del centro de Nueva York se convirti&oacute; recientemente en un hospital de campa&ntilde;a contra la COVID-19, y la iglesia gestiona muchos centros sanitarios en todo el mundo.</p>
 <p>Pero la instituci&oacute;n no siempre fue una mano de ayuda en tiempos de pandemia; en otros momentos, m&aacute;s bien se encarg&oacute; de difundir desinformaci&oacute;n y hasta hacer peor la propagaci&oacute;n de pat&oacute;genos.</p>
 <p>Antes de la medicina moderna, y el m&eacute;todo cient&iacute;fico, las epidemias se consideraban "venganzas divinas". Seg&uacute;n Christophe Dick&egrave;s, un historiador especializado en el catolicismo, "incluso durante la gripe espa&ntilde;ola (1918-1919), en el mundo rural perduraba la sensaci&oacute;n de castigo por las malas acciones", se&ntilde;ala.</p>
@@ -10,7 +9,7 @@ text {
 <p>La pr&aacute;ctica supersticiosa de matar gatos tambi&eacute;n ha contribuido a prolongar las epidemias de peste propagadas por las pulgas de las ratas, dicen los historiadores. En el &aacute;mbito rural, los gatos manten&iacute;an alejados a los roedores.&nbsp;</p>
 <p>Y, curiosamente, no todos los papas estuvieron a salvo de las epidemias: el papa de la Primera Guerra Mundial --Benedicto XV (1914-1922)-- muri&oacute; de gripe espa&ntilde;ola. Mucho antes que &eacute;l, Pelagio II (579-590) muri&oacute; de la peste.</p>
 }
-title De persecución de gatos a misas por internet: la historia de la iglesia frente a las epidemias
+title Breve historia de la iglesia y las pandemias: desde la caza de gatos hasta las misas por internet
 day 14
 text1 
 text2 
@@ -20,18 +19,18 @@ customTop
 media{kmkv} {
     header /images/202004/headers/iglesia-pandemias.jpg
 }
-description Historia: las reacciones no tan acertadas de la iglesia frente a las pandemias. 
+description Durante pandemias anteriores, las erráticas reacciones de la iglesia fueron vectores de propagación.
 year 2020
-author AFP Y NPN CIENCIA
+author AFP y NPN CIENCIA
 featured{kmkv} {
-    title <b>La iglesia ante las pandemias</b>
-    text1 De la persecución de gatos a misas por internet.
-    text2 Por AFP Y NPN CIENCIA 
+    title <b>La iglesia y las pandemias</b>
+    text1 Breve historia de las reacciones de la iglesia frente a las pandemias: desde la caza de gatos hasta las misas por internet.
+    text2 AFP y NPN CIENCIA
     pretitle HISTORIA:
     highlightColor #FFFF00
 }
 type article
-subtitle Repaso histórico de as reacciones pasadas - y no tan acertadas - de la iglesia frente a las pandemias. 
+subtitle La iglesia católica celebró la Semana Santa con misas sin fieles, transmitidas por internet; pero durante pandemias anteriores, fue un vector de propagación, con procesiones de flagelantes o masacres de gatos.
 month 04
 tags{array} mas-saludyciencia
 videoID 
