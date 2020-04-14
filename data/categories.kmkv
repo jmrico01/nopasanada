@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202004/nebula-aguila-infrarroja
+        featured{array} /content/202004/iglesia-pandemias
     }
     ambiente{kmkv} {
         name Medio ambiente
