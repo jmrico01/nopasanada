@@ -9,9 +9,9 @@ text {
 <p>&iquest;Por qu&eacute; les contamos les contamos la historia de este volc&aacute;n? Porque el pasado s&aacute;bado 10 de abril, el volc&aacute;n entr&oacute; en erupci&oacute;n de nuevo.</p>
 <p>La energ&iacute;a que expeli&oacute; fue de menor cantidad que la erupci&oacute;n de 2018, pero en redes sociales y medios generalistas, sali&oacute; a relucir la idea de que esta erupci&oacute;n era la causante de las 22 erupciones que ocurrieron despu&eacute;s.</p>
 <p>Esto es falso.</p>
-<p>Seg&uacute;n &ldquo;Volcano Discovery&rdquo; - una red encargada de monitorear las actividades volc&aacute;nicas en el mundo - entre los volcanes que entraron en erupci&oacute;n se encontraban los volcanes Kliuchevskoi en Rusia, Aso en Jap&oacute;n, Ibu en Indonesia, Popocat&eacute;petl en M&eacute;xico, Sangay de Ecuador, Sabancaya en Per&uacute; y el volc&aacute;n Chileno Nevados de Chill&aacute;n.</p>
+<p><a href="https://www.volcanodiscovery.com/volcano-activity/news/101586/Volcanic-activity-worldwide-10-Apr-2020-Klyuchevskoy-volcano-Popocatepetl-Krakatau-Merapi-Seme.html">Seg&uacute;n &ldquo;Volcano Discovery&rdquo;</a> - una red encargada de monitorear las actividades volc&aacute;nicas en el mundo - entre los volcanes que entraron en erupci&oacute;n se encontraban los volcanes Kliuchevskoi en Rusia, Aso en Jap&oacute;n, Ibu en Indonesia, Popocat&eacute;petl en M&eacute;xico, Sangay de Ecuador, Sabancaya en Per&uacute; y el volc&aacute;n Chileno Nevados de Chill&aacute;n.</p>
 <p>La mayor&iacute;a de estos ya se encontraban en erupci&oacute;n antes de la actividad del Anak Krakatoa.</p>
-<p>Adem&aacute;s, el Programa de Vulcanismo Global del Instituto Smithsoniano explic&oacute; que en promedio hay 20 erupciones volc&aacute;nicas sucediendo a lo largo del mundo en momentos determinados, por lo que este tipo de hechos no son in&eacute;ditos.</p>
+<p>Adem&aacute;s, <a href="https://volcano.si.edu/gvp_currenteruptions.cfm">el Programa de Vulcanismo Global del Instituto Smithsoniano</a> explic&oacute; que en promedio hay 20 erupciones volc&aacute;nicas sucediendo a lo largo del mundo en momentos determinados, por lo que este tipo de hechos no son in&eacute;ditos.</p>
 <p>En los &uacute;ltimos tres meses ha habido alrededor de 32 volcanes del Cintur&oacute;n de Fuego en constante actividad. Que la erupci&oacute;n de Anak Krakatoa sucediera durante las actividades de los dem&aacute;s volcanes parece ser una mera coincidencia.</p>
 <p>En palabras de la ONU, &ldquo;la integridad de los ecosistemas es la base de la salud y el desarrollo humano.&rdquo;</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
@@ -32,14 +32,14 @@ author Sergio Salazar
 featured{kmkv} {
     title <b>Krakatoa y Cinturón de Fuego</b>
     text1 ¿20 erupciones volcánicas en tres días? Nada de raro.
-    text2 Por Segio Salazar 
+    text2 Por Segio Salazar
     pretitle CIENCIA:
     highlightColor #06FBFF
 }
 type article
 subtitle En cuestión de tres días se reportaron más de 20 erupciones volcánicas... parece otro escenario del fin del mundo - pero no lo es.
 month 04
-tags{array} mas-ambiente
+tags{array} mas-ambiente,mas-saludyciencia
 videoID 
 titlePoster 
 color #06FBFF
