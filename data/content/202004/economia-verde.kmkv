@@ -1,5 +1,5 @@
 text {
-<p>En un a&ntilde;o clave para detener el cambio clim&aacute;tico (si no empezamos este a&ntilde;o las cosas no tienen fin a la vista), la paralizaci&oacute;n de la econom&iacute;a debido a la pandemia ha creado un escenario esperanzador: las emisiones han bajado, se ve el kilimanjaro desde la India, y muchos se atreven a so&ntilde;ar con una econom&iacute;a verde - activistas y expertos han se&ntilde;alado que, de empezar otra vez a toda m&aacute;quina, se lograr&iacute;a todo lo contrario.&nbsp;</p>
+<p>En un a&ntilde;o clave para detener el cambio clim&aacute;tico (si no empezamos este a&ntilde;o las cosas no tienen fin a la vista), la paralizaci&oacute;n de la econom&iacute;a debido a la pandemia ha creado un escenario esperanzador: las emisiones han bajado, tenemos vistas a monta&ntilde;as que hace d&eacute;cadas no se ve&iacute;an, y muchos se atreven a so&ntilde;ar con una econom&iacute;a verde - activistas y expertos han se&ntilde;alado que, de empezar otra vez a toda m&aacute;quina, se lograr&iacute;a todo lo contrario.&nbsp;</p>
 <p>Lo cierto es que estamos viviendo un momento de oportunidad hist&oacute;rica; al menos, eso parece creer la Agencia Internacional de Energ&iacute;a, y varios l&iacute;deres europeos. Esto bajo la l&oacute;gica de que, en escenario ideal y ut&oacute;pico, invertir en proyectos de energ&iacute;a renovable resolver&iacute;a varios problemas a la vez: pondr&iacute;a a las personas a trabajar en el corto plazo - y a largo plazo, crear&iacute;a sistemas de energ&iacute;a carbono neutrales con capacidad competitiva.&nbsp;</p>
 <p>Pero la pregunta clim&aacute;tica del mill&oacute;n es d&oacute;nde decidir&aacute;n los pa&iacute;ses inyectar los trillones de d&oacute;lares destinados a estimular sus econom&iacute;as&hellip; &iquest;en una industria que baje las emisiones, o m&aacute;s bien, en una que las dispare? Los expertos en pol&iacute;ticas econ&oacute;micas dicen que es posible que los gobiernos prefieran invertir en industrias que requieren del uso intensivo de combustibles f&oacute;siles, porque es la opci&oacute;n &ldquo;f&aacute;cil&rdquo; y &ldquo;segura&rdquo;... <a href="https://www.weforum.org/agenda/2020/03/a-green-reboot-after-the-pandemic/">pero tomar esa decisi&oacute;n conlleva el riesgo de salir de una crisis para caer en otra.&nbsp;</a></p>
 <p>Este dilema aparece porque, como hemos escrito antes, el covid-19 no es un caso aislado: se deriva de razones que presagian m&aacute;s crisis planetarias. Si las econom&iacute;as resuelven esta crisis a trav&eacute;s del mismo modelo que desemboc&oacute; en la pandemia, lo que se viene de seguro pondr&aacute; a prueba la capacidad de respuesta de los gobiernos.&nbsp;</p>
@@ -35,10 +35,7 @@ featured{kmkv} {
     highlightColor #06FBFF
 }
 type article
-subtitle {
-Reactivar la economía de manera sostenible después de la crisis causada por el coronavirus no es tan utópico como parece: varios líderes lo han planteado. 
-
-}
+subtitle Reactivar la economía de manera sostenible después de la crisis causada por el coronavirus no es tan utópico como parece: varios líderes lo han planteado.
 month 04
 tags{array} mas-ambiente
 videoID 
