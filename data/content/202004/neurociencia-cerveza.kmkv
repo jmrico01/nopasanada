@@ -13,7 +13,7 @@ text {
 <p>Todo lo que s&eacute; es si la cerveza me llega a la boca o no. Si he ejecutado este acto a la perfecci&oacute;n, puede que ni siquiera me haya dado cuenta de haberlo hecho.&nbsp;</p>
 <p>Lo cual nos puede llevar a la pregunta: &iquest;tomamos nuestras propias decisiones? &iquest;O lo hace nuestro cerebro sin consultarnos?</p>
 }
-title Los billones de impulsos eléctricos involucrados en que tomés de tu cerveza 
+title Los billones de impulsos eléctricos involucrados en que tomés de tu cerveza
 day 15
 text1 
 text2 
@@ -34,10 +34,7 @@ featured{kmkv} {
     highlightColor #00FFFF
 }
 type article
-subtitle {
-Un gesto sencillo como llevar una jarra a tus labios necesita miles de billones de impulsos eléctricos meticulosamente orquestados por nuestro cerebro. 
-
-}
+subtitle Un gesto sencillo como llevar una jarra a tus labios necesita miles de billones de impulsos eléctricos meticulosamente orquestados por tu cerebro.
 month 04
 tags{array} mas-saludyciencia
 videoID 
