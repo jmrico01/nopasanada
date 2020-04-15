@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202004/pandemias-destruccion-natural
+        featured{array} /content/202004/economia-verde
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202004/bye-bernie
+        featured{array} /content/202004/economia-verde
     }
     loimportante{kmkv} {
         name Lo Importante
