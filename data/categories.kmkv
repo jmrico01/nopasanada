@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202004/iglesia-pandemias
+        featured{array} /content/202004/neurociencia-cerveza
     }
     ambiente{kmkv} {
         name Medio ambiente
