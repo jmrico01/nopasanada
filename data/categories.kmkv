@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202004/iris-margarita-silencio
+    featured{array} /content/202004/veinte-volcanes-tresdias
 }
 other{kmkv} {
     name Other (Internal)
