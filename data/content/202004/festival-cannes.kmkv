@@ -8,7 +8,7 @@ text {
 <p>A la fecha, gran cantidad de megaproducciones como el nuevo filme de James Bond o"Top Gun 2", "Mul&aacute;n" o "Wonder Woman 1984", han aplazado sus fechas de estreno, generando p&eacute;rdidas millonarias a sus productores.</p>
 <p>Para la edici&oacute;n de este a&ntilde;o, la 73&ordf;, se hab&iacute;a elegido al estadounidense Spike Lee como presidente del jurado. Este evento hab&iacute;a sido anulado o interrumpido, pero nunca aplazado.</p>
 }
-title Breve historia de la iglesia y las pandemias: desde la caza de gatos hasta las misas por internet
+title Festival de Cannes considera todas las opciones para realizar la edición de este año
 day 15
 text1 
 text2 
@@ -16,20 +16,20 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202004/headers/iglesia-pandemias.jpg
+    header /images/202004/headers/festival-cannes.jpg
 }
-description El Festval de Cannes es uno de los más prestigiosos del séptino arte
+description El Festval de Cannes es uno de los más prestigiosos del séptimo arte, hoy, gracias al coronavirus, está al borde de ser cancelado
 year 2020
 author AFP
 featured{kmkv} {
-    title <b>La iglesia y las pandemias</b>
-    text1 Breve historia de las reacciones de la iglesia frente a las pandemias: desde la caza de gatos hasta las misas por internet.
+    title <b>Festival de Cannes y Coronavirus</b>
+    text1 Evento es un lugar para que las productoras de cine reciban retroalimentación de sus películas
     text2 AFP
     pretitle CINE:
     highlightColor #FFFF00
 }
 type article
-subtitle Evento es un lugar para que las productoras de cine reciban retroalimentación de sus películas
+subtitle El evento es un lugar para que las productoras de cine reciban retroalimentación de sus películas
 month 04
 tags{array} mas-cine
 videoID 
