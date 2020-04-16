@@ -12,8 +12,11 @@ text {
 <p>Es por eso que se han tomado medidas especiales a ra&iacute;z de la emergencia. La Delegaci&oacute;n de la Mujer y las ocho unidades regionales empezaron a atender telef&oacute;nicamente, y el &nbsp;INAMU se prepara a toda marcha para brindar apoyo de otras formas en los pr&oacute;ximos d&iacute;as.</p>
 <p>Pero esto no ser&aacute; suficiente. La vida de las mujeres y las ni&ntilde;as es una responsabilidad de toda la sociedad, a todo nivel. Quedarnos en casa no puede apagar la vigilancia a nuestro alrededor, en nuestras propias familias y comunidades. Preguntar c&oacute;mo est&aacute;n nuestras primas, la abuela o la vecina es tan importante como el lavado de manos o el protocolo de estornudos.&nbsp;</p>
 <p>&ldquo;Es un trabajo muy duro, muy doloroso&rdquo;, cuenta Marcela. Pero al final del d&iacute;a, una vida libre de violencia es un derecho humano b&aacute;sico, con o sin pandemia.</p>
+<hr />
+<p><strong>&iquest;Necesit&aacute;s hablar con alguien sobre la situaci&oacute;n en tu casa, o denunciar un acto violento? Estos son los n&uacute;meros de ayuda para Costa Rica:</strong></p>
+<p>$image/numbers$</p>
 }
-title La violencia intrafamiliar y el encierro: en cuarentena con sus agresores 
+title La violencia intrafamiliar y el encierro: en cuarentena con sus agresores
 day 16
 text1 
 text2 
@@ -22,6 +25,7 @@ text4
 customTop 
 media{kmkv} {
     header /images/202004/headers/violencia-domestica-cuarentena.jpg
+    numbers /images/202004/violencia-domestica-cuarentena/numbers.jpg
 }
 description La violencia de género en medio de la emergencia por COVID-19.
 year 2020
