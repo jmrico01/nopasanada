@@ -87,7 +87,7 @@ venus{kmkv} {
     name Venus
     moda{kmkv} {
         name Moda
-        featured{array} /content/202003/25-cronicas-de-ropa
+        featured{array} /content/202004/moda-adapta-coronavirus
     }
     salud{kmkv} {
         name Salud de la mujer
