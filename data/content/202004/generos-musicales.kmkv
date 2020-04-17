@@ -19,12 +19,9 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202003/headers/12-bob-dylan.jpg
+    header /images/202004/headers/generos-musicales.jpg
 }
-description {
-Una reflexión sobre cómo los géneros musicales son cosa del pasado
-
-}
+description Una reflexión sobre cómo los géneros musicales son cosa del pasado
 year 2020
 author Allan Vargas
 featured{kmkv} {
