@@ -38,16 +38,13 @@ year 2020
 author Roberto Morales
 featured{kmkv} {
     title <b>Teorías conspirativas</b>
-    text1 Lo tentador de pensar que el caos no es azaroso, sobretodo en tiempos de crisis. 
+    text1 Lo tentador de pensar que el caos no es azaroso, sobretodo en tiempos de crisis.
     text2 POR ROBERTO MORALES
     pretitle OPINIÓN:
     highlightColor #FFFF00
 }
 type article
-subtitle {
-“Las teorías conspirativas del coronavirus, por muy atractivas que nos parezcan a nuestras desconfiadas mentes, son meras especulaciones. En este momento lo real es la muerte en masa y el desabastecimiento de equipo hospitalario.”
-
-}
+subtitle “Las teorías conspirativas del coronavirus, por muy atractivas que le parezcan a nuestra desconfiada mente, son meras especulaciones. En este momento lo real es la muerte en masa y el desabastecimiento de equipo hospitalario.”
 month 04
 tags{array} opinion
 videoID 
