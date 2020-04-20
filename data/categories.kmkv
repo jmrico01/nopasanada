@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202004/20-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202004/viena-silencio
+        featured{array} /content/202004/global-citizen
     }
     video{kmkv} {
         name Video
