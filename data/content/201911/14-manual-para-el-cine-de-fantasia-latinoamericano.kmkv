@@ -1,4 +1,5 @@
 text {
+<p>Pod&eacute;s ver "Las Tinieblas", pel&iacute;cula de Daniel Castro Zimbr&oacute;n online, por tiempo limitado, <a href="https://moreliafilmfest.com/ficm-presenta-en-linea-las-tinieblas-daniel-castro-zimbron/">en este enlace</a>, como parte del Festival de cine de Morelia</p>
 <p>Los Mexicanos mezclan bien la fantas&iacute;a con el terror; lo sabemos sobretodo por Guillermo del Toro, cuyas pel&iacute;culas nos han puesto al borde del asiento, no s&oacute;lo porque nos dan miedo, sino porque nos hacen <em>sentir.</em></p>
 <p>Su compatriota <a href="https://www.imdb.com/name/nm2435337/">Daniel Castro Zimbr&oacute;n</a> no se queda atr&aacute;s. Es el director de <a href="https://www.rottentomatoes.com/m/the_darkness_2016">Las Tinieblas</a>: un thriller destacado del cine latinoamericano, protagonizado por <a href="https://www.imdb.com/name/nm0423526/?ref_=tt_cl_t1">Brontis Jodorowsky</a>, y celebrado en su pa&iacute;s de origen al igual que en varios festivales de alrededor del mundo.</p>
 <p>$youtube/v1i4XFHqilI$</p>
@@ -54,12 +55,12 @@ featured{kmkv} {
     text1 LOS CINCO TIPS DEL DIRECTOR MEXICANO DANIEL CASTRO ZIMBRÓN PARA HACER BUEN CINE DE GÉNERO EN AMÉRICA LATINA.
     text2 POR LUISA MORA FERNÁNDEZ
     pretitle CULTURA:
-    highlightColor #ff613c
+    highlightColor #DFFF52
 }
 type article
-subtitle Cinco tips del director Mexicano Daniel Castro Zimbrón para hacer buen cine de fantasía.
+subtitle Cinco tips del director Mexicano Daniel Castro Zimbrón para hacer buen cine de fantasía, y el link para hacer streaming de su película.
 month 11
 tags{array} mas-cine
 videoID 
 titlePoster 
-color #ffb3a1
+color #DFFF52
