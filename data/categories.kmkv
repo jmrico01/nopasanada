@@ -24,7 +24,7 @@ mas{kmkv} {
     }
     saludmental{kmkv} {
         name Salud mental
-        featured{array} /content/202004/vivir-con-roommates
+        featured{array} /content/202004/ejercicio-psicologia
     }
     arteymusica{kmkv} {
         name Arte y música
@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202004/economia-verde
+        featured{array} /content/202004/canada-tiroteo
     }
     loimportante{kmkv} {
         name Lo Importante
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202004/21-lo-importante
+    featured{array} /content/202004/mujeres-lideres
 }
 other{kmkv} {
     name Other (Internal)
@@ -101,7 +101,7 @@ venus{kmkv} {
     }
     inspiradoras{kmkv} {
         name Mujeres inspiradoras
-        featured{array} /content/202002/katherine-johnson
+        featured{array} /content/202004/mujeres-lideres
     }
     belleza{kmkv} {
         name Belleza
