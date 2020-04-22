@@ -36,13 +36,13 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202004/top5-comidas-diferentes
+        featured{array} /content/202004/alternativo-keto-cornbread
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202004/top5-comidas-diferentes
+    featured{array} /content/202004/alternativo-keto-cornbread
     bebidas{kmkv} {
         name Bebidas
-        featured{array} /content/202004/top5-comidas-diferentes
+        featured{array} /content/202004/alternativo-keto-cornbread
     }
     viaje{kmkv} {
         name Viaje
@@ -50,7 +50,7 @@ guida{kmkv} {
     }
     recomendado{kmkv} {
         name Recomendado
-        featured{array} /content/202004/top5-comidas-diferentes
+        featured{array} /content/202004/alternativo-keto-cornbread
     }
 }
 noticias{kmkv} {

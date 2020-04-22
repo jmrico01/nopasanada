@@ -1,0 +1,80 @@
+text {
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Shakshouka</strong></span></p>
+<p style="text-align: left;"><em><strong>| "Alternativo" - Buena comida para dietas diferentess. | <a href="https://mailchi.mp/nopasanada.com/la_guida" target="_blank" rel="noopener">S&uacute;scribete a La Guida para recibir recetas como estas&nbsp;</a></strong></em></p>
+<hr />
+<p style="text-align: center;">Chef Emiril hace a&ntilde;os desarollo una famosa receta para hacer el mejor "corn bread". Aqu&iacute; en La Guida desarollamos una receta para alternativo que la transforma en la versi&oacute;n "keto"</p>
+<hr />
+<p>$image/cornbread$</p>
+<hr />
+<p style="text-align: center;"><strong>"KETO" CORN BREAD:</strong></p>
+<p><strong>Ingredientes:</strong></p>
+<ul>
+<li>1 y 1/2 taza de harina de almendra</li>
+<li>3 cucharaditas de polvo de hornear</li>
+<li>6 huevos, separados</li>
+<li>Una cebolla grande en julianas.</li>
+<li>1/4 cucharadita de jugo de limon</li>
+<li>Jalape&ntilde;os ( al gusto )</li>
+<li>1/2 taza de queso&nbsp;</li>
+</ul>
+<hr />
+<p><em><strong>Preparacion:</strong></em></p>
+<ol>
+<li>
+<p>Precalentar el horno 350F /176C</p>
+</li>
+<li>
+<p>Separar las claras de las yemas. Luego agregue las claras de huevo a la batidora y bata con la crema de t&aacute;rtaro. Batir continuamente para crear picos suaves.</p>
+</li>
+<li>
+<p>En el taz&oacute;n que contiene las yemas de huevo, agregue suavemente la harina de almendras, el polvo de hornear y la mantequilla derretida, agregue queso y jalape&ntilde;o. Sal al gusto. Mezclar bien en una mezcla homog&eacute;nea libre de grumos.</p>
+</li>
+<li>
+<p>Combin&eacute; la mezcla de clara de huevo en la mezcla de yema de huevo. Remover. Recuerde no mezclar demasiado.</p>
+</li>
+<li>
+<p>Prepare un molde para muffins de tama&ntilde;o est&aacute;ndar bien cepillado con mantequilla. Transfiera la masa a la sart&eacute;n. Dejar en el horno durante unos 30-45 minutos.</p>
+<span style="font-family: FuturaPTBook; font-size: 1.4vw; letter-spacing: 0.01vw;">$image/cornbread1$</span></li>
+</ol>
+<p><strong>NOTA: </strong><em>Sirva de una, ojala con un poco m&aacute;s de mantequilla.&nbsp;</em></p>
+<hr /><hr />
+<p style="text-align: center;"><strong>Vea: <span style="text-decoration: underline;">Buscando el Men&uacute; Perfecto y d&aacute;ndole la vuelta al mundo a trav&eacute;s de los platos de Go-Fish</span><br />&nbsp;</strong></p>
+<p><strong>$youtube/jYAZDSMJtUM$</strong></p>
+<p>&nbsp;</p>
+}
+title Keto Cornbread
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    cornbread1 /images/202004/alternativo-keto-cornbread/cornbread1.jpg
+    pop /images/202003/receta-diengo-atun/pop.jpg
+    header /images/202004/headers/alternativo-keto-cornbread.jpg
+    cornbread /images/202004/alternativo-keto-cornbread/cornbread.jpg
+    pollo1 /images/202003/keto-pollo-frito/pollo1.jpg
+    pollo2 /images/202003/keto-pollo-frito/pollo2.jpg
+    shakshuka /images/202004/buenobonitobarato-shakshouka/shakshuka.jpg
+    brownies /images/202003/recomendado-dulce-recetascuarentena/brownies.jpg
+    galletasybrownies /images/202003/recomendado-dulce-recetascuarentena/galletasybrownies.jpg
+    galletas /images/202003/recomendado-dulce-recetascuarentena/galletas.jpg
+}
+description Re creamos la famosa receta de chef Emiril de corn bread - pero "keto".
+year 2020
+author Pietro Cercone
+featured{kmkv} {
+    title Keto Cornbread
+    text1 Cómo hacer "Keto" - Cornbread
+    text2 Por Pietro Cercone
+    pretitle ALTERNATIVO
+    highlightColor #FFC7F7
+}
+type article
+subtitle Recreando la famosa receta de Emiril de corn bread pero - Keto.
+month 04
+tags{array} guida
+videoID 
+titlePoster 
+color #FFC7F7
