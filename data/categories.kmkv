@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202004/crisis-suennos
+    featured{array} /content/202004/ruido-contaminacion
 }
 other{kmkv} {
     name Other (Internal)
