@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202004/ruido-contaminacion
+    featured{array} /content/202004/apreciacion-ministro
 }
 other{kmkv} {
     name Other (Internal)
