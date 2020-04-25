@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202004/24-lo-importante
+    featured{array} /content/202004/fiesta-zoom
 }
 other{kmkv} {
     name Other (Internal)
