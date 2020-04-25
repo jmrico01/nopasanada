@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202004/24-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202004/global-citizen
+        featured{array} /content/202004/25-art-y-coronavirus
     }
     video{kmkv} {
         name Video
