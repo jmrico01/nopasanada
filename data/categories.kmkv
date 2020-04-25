@@ -39,7 +39,7 @@ guida{kmkv} {
         featured{array} /content/202004/alternativo-keto-cornbread
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202004/alternativo-keto-cornbread
+    featured{array} /content/202004/empezar-huerta-encasa
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202004/alternativo-keto-cornbread
