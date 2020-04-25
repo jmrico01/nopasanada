@@ -31,12 +31,11 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202004/headers/diadelatierra.jpg
+    header /images/202004/headers/empezar-huerta-encasa.jpg
+    almercat /images/202004/empezar-huerta-encasa/almercat.jpg
+    agrohuellas /images/202004/empezar-huerta-encasa/agrohuellas.jpg
 }
-description {
-Por qué es el momento de empezar a cultivar una parte de lo comés (y dos empresas ticas que te pueden ayudar a lograrlo)
-
-}
+description Por qué es el momento de empezar a cultivar una parte de lo comés (y dos empresas ticas que te pueden ayudar a lograrlo)
 year 2020
 author Luisa Mora Fernández
 featured{kmkv} {
@@ -47,10 +46,7 @@ featured{kmkv} {
     highlightColor #06FBFF
 }
 type article
-subtitle {
-Por qué es el momento de empezar a cultivar una parte de lo comés (y dos empresas ticas que te pueden ayudar a lograrlo)
-
-}
+subtitle Por qué es el momento de empezar a cultivar una parte de lo comés (y dos empresas ticas que te pueden ayudar a lograrlo)
 month 04
 tags{array} mas-ambiente,opinion,guida
 videoID 
