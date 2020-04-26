@@ -1,0 +1,71 @@
+text {
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>SPOTLIGHT</strong></span></p>
+<p style="text-align: left;"><em><strong>| "Spotlight" -Recomendaciones con proposito. | <a href="https://mailchi.mp/nopasanada.com/la_guida" target="_blank" rel="noopener">S&uacute;scribete a La Guida para recibir recetas como estas&nbsp;</a></strong></em></p>
+<hr />
+<p style="text-align: center;">Hoy te traemos cuatro increible restaurantes que podes ped&iacute;s a domicilio hoy.&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p><strong>FRANCO RESTAURANTE</strong></p>
+<p>| Barrio Escalante | $$ | &nbsp;Uber Eats o su delivery.</p>
+<hr />
+<p>$image/franco$</p>
+<p>Solo porque podemos decidir tomar caf&eacute; a cualquier hora no significa que deber&iacute;amos tomar cafe con cualquier cosa. Franco Restaurante se est&aacute; encargando de darnos todo tipo de opciones a domicilio pero no podemos dejar de ser enf&aacute;ticos en que todo, si todos, deber&iacute;amos de probar su caja de donas rellenas.&nbsp;</p>
+<hr />
+<p><strong>GALLO ROJO</strong></p>
+<p><strong>|&nbsp;</strong>Escaz&uacute; | $$ |&nbsp; Podes contactarlos al +506 22895254</p>
+<p>$image/gallorojo$</p>
+<p>Conocido por su calidad innovadora y diferente, siempre nos ha inundado con propuestas que incluyen de todo, menos lo com&uacute;n. Hoy le svenimos a recomendar su salitas: una propuesta diferente sobre algo que creo todos conocemos... &iexcl;Hay que probarlas!&nbsp;</p>
+<hr />
+<p><strong>KAN PIZZA</strong></p>
+<p>| Los Yoses | $$ | Uber Eats o contactarlos al Whatsapp +506 2101-0140</p>
+<p>$image/kan$</p>
+<p>Hay pizzas buenas, hay pizzas ricas y hay pizzas que impresionan. KAN Pizza es todas. Se auto describen como &ldquo;the best pizza in town&rdquo; y si las fotos nos hacen hasta un d&eacute;cimo de justicia, tienen que estar entre las mejores. Localizados en San Pedro, vale la pena probarlos.&nbsp;</p>
+<hr />
+<p><strong>LA VENTANITA DE MERAKI</strong></p>
+<p>| La California | $$ | Uber Eats, Rappi o Glovo o contactarlos al Whatsapp +506 6076-7041</p>
+<p>$image/meraki$&nbsp;</p>
+<p>La ventanina de Meraki es la definici&oacute;n de food porn. Ello se auto-describen como Street Food costarricense y se enfocan en trabajar con la mayor cantidad de ingredientes locales posible para hacer sus especialidades como la hamburguesa Leyenda del Gran bill o El Katos. &nbsp;Un secreto es que ahora se puede pedir su mayonesa especial a casa.&nbsp;</p>
+<hr />
+<p style="text-align: center;"><strong>Como hacer el mejor pan del mundo:</strong></p>
+<p style="text-align: center;">$youtube/zS_yz--t2Uw$</p>
+}
+title 4 restaurantes que deberías probar hoy
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    cornbread1 /images/202004/alternativo-keto-cornbread/cornbread1.jpg
+    pop /images/202003/receta-diengo-atun/pop.jpg
+    franco /images/202004/2604-spotlight/franco.jpg
+    header /images/202004/headers/2604-spotlight.jpg
+    cornbread /images/202004/alternativo-keto-cornbread/cornbread.jpg
+    pollo1 /images/202003/keto-pollo-frito/pollo1.jpg
+    pollo2 /images/202003/keto-pollo-frito/pollo2.jpg
+    shakshuka /images/202004/buenobonitobarato-shakshouka/shakshuka.jpg
+    meraki /images/202004/2604-spotlight/meraki.jpg
+    brownies /images/202003/recomendado-dulce-recetascuarentena/brownies.jpg
+    galletasybrownies /images/202003/recomendado-dulce-recetascuarentena/galletasybrownies.jpg
+    kan /images/202004/2604-spotlight/kan.jpg
+    galletas /images/202003/recomendado-dulce-recetascuarentena/galletas.jpg
+    gallorojo /images/202004/2604-spotlight/gallorojo.jpg
+}
+description ¡Cuatro recomendaciones de excelentes restaurantes que podes ( y deberías ) pedir a domicilio hoy!
+year 2020
+author Pietro Cercone
+featured{kmkv} {
+    title 4 restaurantes que deberías probar hoy
+    text1 Una recomendación a domicilio
+    text2 LA GUIDA
+    pretitle SPOTLIGHT
+    highlightColor #FFC7F7
+}
+type article
+subtitle Spotlight: Destacando restaurantes que deberías probar hoy.
+month 04
+tags{array} guida
+videoID 
+titlePoster 
+color #FFC7F7

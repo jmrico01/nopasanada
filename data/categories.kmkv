@@ -36,13 +36,13 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202004/alternativo-keto-cornbread
+        featured{array} /content/202004/2604-spotlight
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202004/empezar-huerta-encasa
+    featured{array} /content/202004/2604-spotlight
     bebidas{kmkv} {
         name Bebidas
-        featured{array} /content/202004/alternativo-keto-cornbread
+        featured{array} /content/202004/2604-spotlight
     }
     viaje{kmkv} {
         name Viaje
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202004/25-art-y-coronavirus
+    featured{array} /content/202004/2604-spotlight
 }
 other{kmkv} {
     name Other (Internal)
