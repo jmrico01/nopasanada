@@ -40,7 +40,7 @@ text {
 <p><strong>Mayboll Vargas</strong></p>
 <p>&ldquo;No siempre ha sido f&aacute;cil, pero intento mantenerme ocupada haciendo las cosas que me gustan, como pintar. Tambi&eacute;n salgo a correr cerca de mi casa algunos d&iacute;as a la semana.&rdquo;</p>
 }
-title Inspiración durante la pandemia: una compilación de arte relacionado al coronavirus
+title Arte y cine con lo que haya: el reto perfecto para entretenerse.
 day 26
 text1 
 text2 
@@ -88,7 +88,7 @@ featured{kmkv} {
     highlightColor #FBFF09
 }
 type article
-subtitle 
+subtitle Ponerse creativo en cuarentena: ellos aceptaron el reto de recrear obras de arte y escenas del cine con lo que tenían por ahí. ¿Se sumarían?
 month 04
 tags{array} mas-arteymusica,mas-cine
 videoID 
