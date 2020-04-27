@@ -1,7 +1,7 @@
 text {
-<p>Este lunes el ministro de Salud, Daniel Salas anunci&oacute; en conferencia de prensa, las proyecciones de casos positivos de covid-19 en Costa Rica &nbsp;en distintos escenarios y asegur&oacute; que una segunda ola de contagios puede ser m&aacute;s fuerte que la primera.</p>
+<p>Este lunes el ministro de Salud Daniel Salas, anunci&oacute; en conferencia de prensa las proyecciones de la curva de casos positivos de covid-19 en Costa Rica en distintos escenarios, y asegur&oacute; que una segunda ola de contagios puede ser m&aacute;s fuerte que la primera.</p>
 <p>De acuerdo a Daniel Salas, lo anterior se debe a que durante el primer pico de contagios la mayor&iacute;a de la poblaci&oacute;n no se contagi&oacute;, por lo que todav&iacute;a hay un riesgo de tener un incremento mayor de casos en una segunda ola.&nbsp;</p>
-<p>Asimismo, se determinaron los nuevos lineamientos que seguir&aacute; el pa&iacute;s, con restricciones escalonadas, para la reapertura de distintas actividades como los cines, teatros, gimnasios y escuelas de nataci&oacute;n, entre otros. Por esta raz&oacute;n, se advirti&oacute; de los distintos escenarios que podr&iacute;a enfrentar el pa&iacute;s.</p>
+<p>Se determinaron adem&aacute;s los nuevos lineamientos que seguir&aacute; el pa&iacute;s, con restricciones escalonadas, para la reapertura de distintas actividades como los cines, teatros, gimnasios y escuelas de nataci&oacute;n, entre otros. Por esta raz&oacute;n, se advirti&oacute; de los distintos escenarios que podr&iacute;a enfrentar el pa&iacute;s.</p>
 <p>Click aqu&iacute; para leer m&aacute;s acerca de las nuevas medidas implementadas</p>
 <p>En el caso hipot&eacute;tico en el que se levantan todas las restricciones, y el crecimiento de casos se descontrola y vuelve exponencial, podr&iacute;amos llegar a tener 52.626 casos para el 21 de julio. Esto significar&iacute;a una saturaci&oacute;n de los hospitales p&uacute;blicos y falta de camas con la capacidad de atender personas que necesiten una unidad de cuidados intensivos (UCI).&nbsp;</p>
 <p>Por otro lado, en una instancia favorable en la que se respeten las nuevas medidas, y el n&uacute;mero de casos nuevos diarios se mantengan como hasta el momento, podr&iacute;amos llegar a los 1.300 casos para mediados de julio. En este escenario podr&iacute;amos suplir a las personas que lo necesiten con una UCI.&nbsp;</p>
@@ -19,11 +19,11 @@ media{kmkv} {
 }
 description Según estimaciones del Ministerio de Salud, de no seguir las medidas que ellos imponen, podríamos ver un aumento exponencial de los infectados en los próximos días.
 year 2020
-author AFP
+author Kenneth Baldí
 featured{kmkv} {
     title <b>Segunda ola pandémica</b>
     text1 Seguir las directrices de salubridad del Ministerio de Salud es la mejor opción para desacelerar el contagio
-    text2 Por AFP
+    text2 Por Kenneth Baldí
     pretitle QUEDATEENCASA:
     highlightColor #FFFF00
 }
