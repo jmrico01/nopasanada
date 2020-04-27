@@ -1,0 +1,72 @@
+text {
+<p>&nbsp;</p>
+<p>Este lunes en conferencia de prensa el gobierno de Costa Rica anunci&oacute; los nuevos lineamientos en torno al desarrollo del covid-19 en el pa&iacute;s, estos incluyen la reapertura de actividades bajo restricciones.&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p style="text-align: left;"><strong>Las siguientes medidas ser&aacute;n graduales y depender&aacute;n del constante cambio del contagio del virus. &nbsp;&nbsp;</strong></p>
+<ul>
+<li>Se habilita entre semana de 5:00 am a 7:00 pm:</li>
+<li>Cines y teatros con medidas de separaci&oacute;n de asientos de m&iacute;nimo 2 metros entre cada persona.</li>
+<li>Establecimientos para pr&aacute;ctica o entrenamiento de deportes sin contacto, con una reducci&oacute;n de su capacidad m&aacute;xima de ocupaci&oacute;n normal al veinticinco por ciento (25%).</li>
+<li>Gimnasios con una reducci&oacute;n de su capacidad m&aacute;xima de ocupaci&oacute;n normal al veinticinco por ciento (25%), con programaci&oacute;n de citas y horario diferenciado para personas con factores de riesgo.&nbsp;</li>
+<li>Escuelas de nataci&oacute;n, con una reducci&oacute;n de su capacidad m&aacute;xima de ocupaci&oacute;n normal al veinticinco por ciento (25%).</li>
+</ul>
+<hr />
+<p style="text-align: left;"><strong>Fines de semana:</strong></p>
+<ul>
+<li>Los salones de belleza y barber&iacute;as, con un aforo al cincuenta por ciento (50%) seg&uacute;n capacidad m&aacute;xima y &uacute;nicamente con cita previa.</li>
+<li>Venta al por menor de partes, piezas y accesorios para veh&iacute;culos automotores y motocicletas, con un aforo al cincuenta por ciento (50%) seg&uacute;n capacidad m&aacute;xima de ocupaci&oacute;n</li>
+<li>Estacionamientos o parqueos.</li>
+</ul>
+<hr />
+<p><strong>Lo que se mantiene:</strong></p>
+<ul>
+<li>La restricci&oacute;n vehicular se mantendr&aacute; sin cambios, de 5 a. m. a 7 p. m, aplica la distribuci&oacute;n de placas y la restricci&oacute;n total nocturna ser&aacute; de 7 p. m. a 5 a. m., menos excepciones. Los s&aacute;bados podr&aacute;n transitar las placas terminadas en n&uacute;meros pares y los domingos los impares.&nbsp;</li>
+<li>Los protocolos del Ministerio de Salud deben de ser seguidos a lo interno en los negocios que reabrir&aacute;n sus puertas. Personas con s&iacute;ntomas de resfr&iacute;o deber&iacute;an aislarse por cuenta propia.&nbsp;</li>
+<li>El teletrabajo debe ser permanente en los extremos posibles.&nbsp;</li>
+<li>Los lugares que se encuentren incumpliendo estos nuevos lineamientos y protocolos se exponen a una suspensi&oacute;n de su permiso sanitario de funcionamiento por un mes calendario y si reinciden se suspender&aacute; su actividad de forma indefinida.&nbsp;</li>
+</ul>
+<hr />
+<p style="text-align: center;"><a href="https://www.nopasanada.com/content/202004/27-lo-importante">LEA LO IMPORTANTE DE HOY</a></p>
+<p style="text-align: center;">&nbsp;</p>
+}
+title Estas son las nuevas medidas ante el desarrollo de la pandemia en Costa Rica
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    cornbread1 /images/202004/alternativo-keto-cornbread/cornbread1.jpg
+    pop /images/202003/receta-diengo-atun/pop.jpg
+    franco /images/202004/2604-spotlight/franco.jpg
+    header /images/202004/headers/spotlight-cocteles-adomicilio.jpg
+    cornbread /images/202004/alternativo-keto-cornbread/cornbread.jpg
+    pollo1 /images/202003/keto-pollo-frito/pollo1.jpg
+    pollo2 /images/202003/keto-pollo-frito/pollo2.jpg
+    shakshuka /images/202004/buenobonitobarato-shakshouka/shakshuka.jpg
+    meraki /images/202004/2604-spotlight/meraki.jpg
+    brownies /images/202003/recomendado-dulce-recetascuarentena/brownies.jpg
+    galletasybrownies /images/202003/recomendado-dulce-recetascuarentena/galletasybrownies.jpg
+    kan /images/202004/2604-spotlight/kan.jpg
+    galletas /images/202003/recomendado-dulce-recetascuarentena/galletas.jpg
+    gallorojo /images/202004/2604-spotlight/gallorojo.jpg
+}
+description El gobierno de Costa Rica anunció los nuevos lineamientos en torno al desarrollo del covid-19 en el país, estos incluyen la reapertura de actividades bajo restricciones.
+year 2020
+author NPN NOTICIAS
+featured{kmkv} {
+    title Nuevas medidas ante el COVID-19 en Costa Rica
+    text1 Última hora en Costa Rica
+    text2 NPN Noticias
+    pretitle ÚLTIMA HORA
+    highlightColor #FFC7F7
+}
+type article
+subtitle Última hora en Costa Rica
+month 04
+tags{array} noticias
+videoID 
+titlePoster 
+color #FFC7F7
