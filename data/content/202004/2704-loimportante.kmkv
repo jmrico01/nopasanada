@@ -1,0 +1,44 @@
+text {
+<p style="text-align: center;">En este episodio de Lo Importante noticias hablamos de los robots en Tailandia que luchan contra la pandemia del coronavirus, la posible muerte de Kim Jong-Un y si su hermana podr&iacute;a remplazarlo. Adem&aacute;s, los tres escenarios para la recuperaci&oacute;n de la econom&iacute;a mundial y m&aacute;s.</p>
+<p style="text-align: center;">$youtube/BUj7gdvpqYw$</p>
+}
+title ¿Podría una mujer remplazar a Kim Jong-Un? ¡Robots en Tailandia luchan contra el COVID! Y más..
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    cornbread1 /images/202004/alternativo-keto-cornbread/cornbread1.jpg
+    pop /images/202003/receta-diengo-atun/pop.jpg
+    franco /images/202004/2604-spotlight/franco.jpg
+    header /images/202004/headers/spotlight-cocteles-adomicilio.jpg
+    cornbread /images/202004/alternativo-keto-cornbread/cornbread.jpg
+    pollo1 /images/202003/keto-pollo-frito/pollo1.jpg
+    pollo2 /images/202003/keto-pollo-frito/pollo2.jpg
+    shakshuka /images/202004/buenobonitobarato-shakshouka/shakshuka.jpg
+    meraki /images/202004/2604-spotlight/meraki.jpg
+    brownies /images/202003/recomendado-dulce-recetascuarentena/brownies.jpg
+    galletasybrownies /images/202003/recomendado-dulce-recetascuarentena/galletasybrownies.jpg
+    kan /images/202004/2604-spotlight/kan.jpg
+    galletas /images/202003/recomendado-dulce-recetascuarentena/galletas.jpg
+    gallorojo /images/202004/2604-spotlight/gallorojo.jpg
+}
+description Las noticias más importantes de hoy presentado por Lo Importante de NO PASA NADA.
+year 2020
+author NPN NOTICIAS
+featured{kmkv} {
+    title ¿Podría una mujer remplazar a Kim Jong-Un? ¡Robots en Tailandia luchan contra el COVID! Y más..
+    text1 Las noticias más importantes de hoy
+    text2 NPN Noticias
+    pretitle LO IMPORTANTE
+    highlightColor #FFC7F7
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FFC7F7
