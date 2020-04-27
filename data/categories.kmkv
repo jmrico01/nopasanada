@@ -39,10 +39,10 @@ guida{kmkv} {
         featured{array} /content/202004/2604-spotlight
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202004/2604-spotlight
+    featured{array} /content/202004/spotlight-cocteles-adomicilio
     bebidas{kmkv} {
         name Bebidas
-        featured{array} /content/202004/2604-spotlight
+        featured{array} /content/202004/spotlight-cocteles-adomicilio
     }
     viaje{kmkv} {
         name Viaje
@@ -50,7 +50,7 @@ guida{kmkv} {
     }
     recomendado{kmkv} {
         name Recomendado
-        featured{array} /content/202004/alternativo-keto-cornbread
+        featured{array} /content/202004/spotlight-cocteles-adomicilio
     }
 }
 noticias{kmkv} {
