@@ -61,7 +61,7 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202004/2704-loimportante
+        featured{array} /content/202004/28-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202004/28-lo-importante
