@@ -29,10 +29,10 @@ description Las noticias más importantes de hoy presentado por Lo Importante de
 year 2020
 author NPN NOTICIAS
 featured{kmkv} {
-    title ¿Podría una mujer remplazar a Kim Jong-Un? ¡Robots en Tailandia luchan contra el COVID! Y más..
-    text1 Las noticias más importantes de hoy
-    text2 NPN Noticias
-    pretitle LO IMPORTANTE
+    title LO IMPORTANTE
+    text1 ¿Podría una mujer remplazar a Kim Jong-Un? ¡Robots en Tailandia luchan contra el COVID! Y más..
+    text2 Con Guiri Uribe
+    pretitle Las noticias más importantes de hoy
     highlightColor #FFC7F7
 }
 type article
