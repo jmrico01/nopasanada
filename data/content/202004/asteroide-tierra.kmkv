@@ -2,6 +2,7 @@ text {
 <p>Gracias a las im&aacute;genes capturadas el pasado 18 de abril en el Observatorio Areceibo en Puerto Rico, tenemos un mejor concepto sobre el asteroide que va a volar &ldquo;cerca&rdquo; de la tierra a mediados de esta semana.&nbsp;</p>
 <p>El cerca va entre comillas porque realmente va a pasar a una distancia de 6.3 millones de kil&oacute;metros de nuestro planeta: es decir, 16 veces la distancia entre la tierra y la luna.</p>
 <p>Se estima que el asteroide, conocido como &ldquo;1998 OR2&rdquo;, tiene una longitud de 1.5 km y para el pr&oacute;ximo mi&eacute;rcoles 29, estar&iacute;a haciendo su recorrido cerca de la tierra.</p>
+<p>$image/asteroide$</p>
 <p>En una entrevista para el medio<a href="https://www.independent.co.uk/life-style/gadgets-and-tech/news/asteroid-space-earth-flyby-1998-or2-arecibo-observatory-a9486611.html"> The Independent,</a> Flaviane Venditti, una investigadora del observatorio aclar&oacute; que la importancia de estudiar el paso de este astro radica en que les va permitir tener una idea m&aacute;s precisa de d&oacute;nde estar&aacute; el asteroide en un futuro y sus otras aproximaciones a la tierra.</p>
 <p>&ldquo;En el 2079, el asteroide 1999 OR2 pasar&aacute; la tierra a una distancia 3.5 veces m&aacute;s cercana a la de este a&ntilde;o, es importante saber cu&aacute;l ser&aacute; su &oacute;rbita precisa&rdquo;, explic&oacute; en la entrevista.&nbsp;</p>
 <p>&iquest;Un asteroide de este tama&ntilde;o, de impactar la tierra, ser&iacute;a fatal? S&iacute;, definitivamente, pero esta vez, no va a pasar.</p>
@@ -42,6 +43,7 @@ media{kmkv} {
     poster /images/202001/posters/20-supernova-betelgeuse.jpg
     tweet1 /images/202001/necesita-saber-iran/tweet1.jpg
     respuesta /images/202001/necesita-saber-iran/respuesta.jpg
+    asteroide /images/202004/asteroide-tierra/asteroide.jpg
     irangardenold /images/202001/08-herencia-cultural-de-iran/irangardenold.jpg
     museeparislouis /images/202001/17-musee-paris/museeparislouis.jpg
     annakarina1 /images/201912/17-anna-karina/annakarina1.jpg
