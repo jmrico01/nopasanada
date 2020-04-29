@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202004/artista-confinamiento-emilianozuniga
+        featured{array} /content/202004/horizontes-musicales
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
