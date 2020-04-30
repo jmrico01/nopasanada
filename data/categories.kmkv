@@ -8,7 +8,7 @@ mas{kmkv} {
     featured{array} /content/202004/lenguas-perdidas
     cine{kmkv} {
         name Cine
-        featured{array} /content/202004/26-arte-y-cine
+        featured{array} /content/202004/bingewatcheable-tres-series
     }
     historias{kmkv} {
         name Historias
