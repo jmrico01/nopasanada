@@ -36,7 +36,7 @@ text {
 <p>Adem&aacute;s, la saga estrella de Cruise, Misi&oacute;n Imposible tiene dos nuevas entregas en espera. <strong>Misi&oacute;n Imposible 7 se estrenar&iacute;a el 19 de noviembre 2021 y Misi&oacute;n Imposible 8 el 4 de noviembre 2022.</strong></p>
 <p>Para los m&aacute;s peque&ntilde;os, las pel&iacute;culas de Universal <strong>Minions: el ascenso de Gru y Sing 2</strong> est&aacute;n programadas para el<strong> 2 de julio 2021 y el 22 de diciembre 2021, respectivamente.</strong></p>
 }
-title ¿Cómo quedó el calendario de estrenos de películas?
+title ¿Qué pasó con todas las pelis que se iban a estrenar este año?
 day 30
 text1 
 text2 
@@ -57,7 +57,7 @@ featured{kmkv} {
     highlightColor #D6FF04
 }
 type article
-subtitle Díficil ir al cine de lunes a viernes de 5 a.m a 7 p.m, pero por si acaso te podés dar una escapada, acá están las películas con nuevas fechas de estreno.
+subtitle Difícil ir al cine de lunes a viernes de 5 a.m a 7 p.m, pero por si acaso te podés dar una escapada, acá están las películas con nuevas fechas de estreno.
 month 04
 tags{array} mas-arteymusica,mas-cine
 videoID 
