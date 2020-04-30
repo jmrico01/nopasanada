@@ -12,7 +12,7 @@ text {
 <p>"Hay muchas maneras en las que puedes hacerlos responsables (a los chinos)", afirm&oacute; Trump. "Como sabr&aacute;n, estamos llevando a cabo investigaciones muy serias".&nbsp;</p>
 <p>Seg&uacute;n una reciente encuesta de Pew Research, 29% de los estadounidenses creen que el virus fue creado en un laboratorio, y de ellos 23% considera que fue intencional y 6% accidental.</p>
 }
-title Según EE.UU. covid-19 no fue creado ni modificado por el hombre
+title EE.UU: "covid-19 no fue creado ni modificado por el ser humano."
 day 30
 text1 
 text2 
@@ -22,12 +22,12 @@ customTop
 media{kmkv} {
     header /images/202004/headers/covid-modificado.jpg
 }
-description Dejemos las teorías conspirativas de lado, no hay pruebas que aseguren que el COVID-19 haya sido modificado por humanos.
+description Dejemos las teorías conspirativas de lado: no hay pruebas que apunten a que el COVID-19 haya sido modificado por humanos.
 year 2020
 author Roberto Morales
 featured{kmkv} {
     title <b>COVID-19</b>
-    text1 Según EE.UU. covid-19 no fue creado ni modificado por el hombre
+    text1 Según EE.UU, covid-19 no fue creado ni modificado por el hombre
     text2 AFP
     pretitle SALUD:
     highlightColor #FFFF00
