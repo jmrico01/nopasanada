@@ -36,21 +36,21 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202004/2604-spotlight
+        featured{array} /content/202005/top5-desayunos-domicilio
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202004/spotlight-cocteles-adomicilio
+    featured{array} /content/202005/top5-desayunos-domicilio
     bebidas{kmkv} {
         name Bebidas
-        featured{array} /content/202004/spotlight-cocteles-adomicilio
+        featured{array} /content/202005/top5-desayunos-domicilio
     }
     viaje{kmkv} {
         name Viaje
-        featured{array} /content/202002/lugares-cerca-de-chepe
+        featured{array} /content/202005/top5-desayunos-domicilio
     }
     recomendado{kmkv} {
         name Recomendado
-        featured{array} /content/202004/spotlight-cocteles-adomicilio
+        featured{array} /content/202005/top5-desayunos-domicilio
     }
 }
 noticias{kmkv} {
