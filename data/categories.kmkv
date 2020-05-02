@@ -1,6 +1,6 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202004/teorias-conspirativas-gripe
+    featured{array} /content/202005/02-critical-role
 }
 mas{kmkv} {
     name Más
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202005/primero-mayo-inedito
+    featured{array} /content/202005/02-critical-role
 }
 other{kmkv} {
     name Other (Internal)
