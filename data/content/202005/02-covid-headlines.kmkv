@@ -1,0 +1,53 @@
+text {
+<p>Estos ocho titulares de la agencia de noticias AFP demuestran que cada pa&iacute;s est&aacute; reaccionando a la pandemia en su propia manera, e incluyen formas bastante pintorescas de mantener a las personas en la casa, pruebas de que los epidemi&oacute;logos son los nuevos <em>rock stars</em>, y maneras bastante tiernas de comunicarse entre vecinos durante el confinamiento.</p>
+<p><strong>1. Corona, Covid y Lockdown son nuevos nombres de moda en Asia</strong></p>
+<p>Corona Kumar, Covid Marie entre otras variantes: en Asia cada vez m&aacute;s padres dan a sus reci&eacute;n nacidos un nombre que alude al coronavirus, visiblemente indiferentes a las consecuencias de su elecci&oacute;n a largo plazo.&nbsp;</p>
+<p>Una pareja de trabajadores migrantes del noreste de India, que qued&oacute; bloqueada a miles de kil&oacute;metros de sus hogares en el estado de Rajast&aacute;n, eligi&oacute; llamar a su hijo "Lockdown", que en ingl&eacute;s significa confinamiento.&nbsp;</p>
+<p>$image/tattoo$</p>
+<p><strong>2. En Suecia, hombre se tat&uacute;a en el brazo la cara del epidemi&oacute;logo estatal&nbsp;</strong></p>
+<p>El hombre de 32 a&ntilde;os decidi&oacute; tatuarse al hombre al frente de la respuesta de pa&iacute;s ante el covid-19. Confrontado por los periodistas al respecto, el epidemi&oacute;logo Anders Tegnell r&iacute;o visiblemente avergonzado y dijo &ldquo;no tengo comentarios.&rdquo;</p>
+<p><strong>3. Madagascar obliga a barrer las calles a quienes salen sin mascarilla</strong></p>
+<p>La polic&iacute;a de Madagascar sanciona a las personas que salgan a la calle sin mascarillas de protecci&oacute;n contra el coronavirus en las tres principales ciudades del pa&iacute;s, oblig&aacute;ndolas a barrer las aceras.</p>
+<p>$image/haunted$</p>
+<p><strong>4. Indonesios que infringen restricciones ser&aacute;n encerrados en &ldquo;casa embrujada&rdquo;</strong></p>
+<p>Cansada de ver a habitantes infringir las normas de cuarentena a riesgo de propagar el nuevo coronavirus, una funcionaria indonesia decidi&oacute; dar una lecci&oacute;n a aquellos que ignoren estas medidas encerr&aacute;ndoles en una "casa embrujada". Cinco personas ya han sido encerradas en estas moradas hechizadas.</p>
+<p><strong>5. En Malasia, un fantasma asusta a las personas para que se queden en sus casas</strong></p>
+<p>Desde hace algunos d&iacute;as un espectro blanco de largos cabellos atormenta a un pueblo del noreste de Malasia, aterrando a sus supersticiosos habitantes para que permanezcan en sus casas, y respeten el confinamiento destinado a contener la epidemia del coronavirus.</p>
+<p><strong>6. Turistas en India que irrespetaron cuarentena deber&aacute;n escribir 500 veces &ldquo;lo siento.&rdquo;</strong></p>
+<p>&iquest;El castigo por violar el confinamiento? Escribir 500 veces "lo siento". La polic&iacute;a india ha vuelto a innovar para sancionar a diez turistas extranjeros que ignoraron el confinamiento en una ciudad del norte del pa&iacute;s, anunci&oacute; la autoridad el domingo.</p>
+<p>$image/british$</p>
+<p><strong>7. Habitantes de playa brit&aacute;nica apilan rocas cada vez que salen a caminar&nbsp;</strong></p>
+<p>Miles de rocas han sido apiladas en torres por los habitantes de Whitley Bay, una a la vez, cada tarde cuando salen a hacer sus caminatas diarias, permitidas en soledad o con otros miembros de su casa, en confinamiento de otra forma estricto.&nbsp;</p>
+<p><strong>8. Pantal&oacute;n deportivo y pantuflas, el nuevo uniforme de los banqueros&nbsp;</strong></p>
+<p>Incluso los banqueros centrales, encerrados en casa como todo el mundo, se est&aacute;n dejando llevar: Sam Wood, miembro del comit&eacute; de pol&iacute;tica monetaria del Banco de Inglaterra, admite que en m&aacute;s de un mes s&oacute;lo sac&oacute; una corbata del armario para las fotos de una entrevista con The Times y una audiencia parlamentaria en l&iacute;nea.</p>
+}
+title Ocho titulares curiosos acerca del coronavirus
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202005/headers/02-covid-headlines.jpg
+    haunted /images/202005/02-covid-headlines/haunted.jpg
+    british /images/202005/02-covid-headlines/british.jpg
+    tattoo /images/202005/02-covid-headlines/tattoo.jpg
+}
+description ¿Cuáles titulares han llamado su atención en estos días de pandemia?
+year 2020
+author NPN Noticias y AFP
+featured{kmkv} {
+    title TITULARES<br><b>CURIOSOS<b>
+    text1 Lockdown el nuevo nombre de moda en Asia, y otras reacciones pintorescas ante la pandemia.
+    text2 Por NPN Noticias y AFP
+    pretitle NOTICIAS:
+    highlightColor #FFFF00
+}
+type article
+subtitle Realmente estamos viviendo tiempos muy interesantes.
+month 05
+tags{array} noticias
+videoID 
+titlePoster 
+color #FFFF00

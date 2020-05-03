@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202005/01-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202005/01-lo-importante
+    featured{array} /content/202005/02-covid-headlines
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202004/25-art-y-coronavirus
