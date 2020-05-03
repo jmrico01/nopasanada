@@ -5,7 +5,7 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202004/lenguas-perdidas
+    featured{array} /content/202005/03-intimidad-en-aislamiento
     cine{kmkv} {
         name Cine
         featured{array} /content/202004/bingewatcheable-tres-series
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202005/top5-desayunos-domicilio
+    featured{array} /content/202005/03-intimidad-en-aislamiento
 }
 other{kmkv} {
     name Other (Internal)
@@ -94,7 +94,7 @@ venus{kmkv} {
         featured{array} /content/202003/aislamiento-astronautas-consejos
     }
     displayOrder{array} derechos, inspiradoras, moda, salud
-    featured{array} /content/202004/adulting-crafting
+    featured{array} /content/202005/03-intimidad-en-aislamiento
     derechos{kmkv} {
         name Derechos de las mujeres
         featured{array} /content/202004/violencia-domestica-cuarentena
