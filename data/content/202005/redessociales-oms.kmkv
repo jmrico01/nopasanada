@@ -1,10 +1,10 @@
 text {
-<p>&iquest;Qu&eacute; necesitas saber?</p>
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
 <p>La Organizaci&oacute;n Mundial de la Salud (OMS) inform&oacute; el viernes que estaba trabajando con las redes sociales para luchar contra las ideas err&oacute;neas que rodean la enfermedad covid-19, incluso a trav&eacute;s de las aplicaciones m&aacute;s populares entre los j&oacute;venes.</p>
 <p>"Luchamos contra la desinformaci&oacute;n todos los d&iacute;as", afirm&oacute; Andy Pattison, un responsable de la OMS, durante una conferencia de prensa virtual en Ginebra.</p>
 <p>En las redes sociales, "las historias falsas circulan m&aacute;s r&aacute;pido que la verdad", dijo.</p>
 <p>En su sitio web, la OMS cre&oacute; una secci&oacute;n --"Acabar con las ideas preconcebidas"-- destinada a deconstruir las noticias falsas, los mitos y rumores que a menudo circulan en las redes sociales.</p>
-<p>&iquest;Por qu&eacute; nos importa?</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
 <p>La organizaci&oacute;n tambi&eacute;n trabaja con estas redes sociales para combatir mejor la desinformaci&oacute;n, en particular a trav&eacute;s de la red social TikTok y la aplicaci&oacute;n Snapchat.</p>
 <p>Aleksandra Kuzmanovic, responsable de redes sociales de la OMS, destac&oacute; la importancia que la organizaci&oacute;n explique a los adolescentes las mejores maneras de protegerse del virus. "Hemos adaptado algunos de nuestros productos de video para que se adapten" a TikTok, que generalmente se percibe como una "plataforma divertida", explic&oacute;.</p>
 <p>La OMS tambi&eacute;n trabaja con Whatsapp, Viber, Facebook Messenger y el Apple Business Chat y espera abrir nuevos canales de di&aacute;logo con la gente a trav&eacute;s de otras redes sociales, como la aplicaci&oacute;n de mensajer&iacute;a instant&aacute;nea Line en Jap&oacute;n.</p>
@@ -23,24 +23,18 @@ customTop
 media{kmkv} {
     header /images/202005/headers/redessociales-oms.jpg
 }
-description {
-OMS lucha contra la desinformación en redes sociales en media pandemia
-
-}
+description OMS lucha contra la desinformación en redes sociales en media pandemia
 year 2020
-author Roberto Morales
+author NPN Noticias y AFP
 featured{kmkv} {
     title <b>TIK TOK Y SNAPCHAT + OMS</b>
     text1 Las redes sociales se vuelven aliadas de la OMS contra la desinformación
-    text2 AFP
+    text2 POR NPN Noticias y AFP
     pretitle SALUD:
     highlightColor #FFFF00
 }
 type article
-subtitle {
-OMS lucha contra la desinformación en redes sociales en media pandemia
-
-}
+subtitle OMS lucha contra la desinformación en redes sociales en media pandemia
 month 05
 tags{array} noticias-politica
 videoID 
