@@ -4,7 +4,7 @@ text {
 <hr />
 <p>&iquest;Qu&eacute; les parece una receta r&aacute;pida y sencillo? Hice en estos d&iacute;as un pancito de banano. Yo no tengo batidora, as&iacute; que procuro hacer sin batir demasiado a mano. Hice el pan en mi sart&eacute;n de hierro preferido y qued&oacute; muy bien.</p>
 <hr />
-<p>$image/1pandebanano$</p>
+<p>$image/banano1$</p>
 <hr />
 <p style="text-align: center;"><strong>PAN DE BANANO:</strong></p>
 <p><strong>Ingredientes:</strong></p>
@@ -21,7 +21,7 @@ text {
 <p>&nbsp;</p>
 <p>En el taz&oacute;n convertir en pur&eacute; los bananos, agregar la mantequilla pomada, y mezclar con tenedor, agregar los dos huevos (es recomendable quebrar huevo por huevo en una tacita aparte para verificar que est&eacute;n buenos), mezclar con el batidor de varillas, seguir con la sal, la vainilla y la leche agria.</p>
 <p>La idea es que todo se incorpore f&aacute;cil, que la mezcla vaya quedando bien homog&eacute;nea sin necesidad de sudar mucho con el globo. Luego se incorpora la harina cernida y se termina de batir.</p>
-<p>Se enmantequilla el molde, se precalienta el horno a 180&deg;C y se hornea por unos 45 minutos con calor arriba y abajo. Se verifica con el palillo que salga seco en el centro al finalizar el plazo. !Y listo!</p>
+<p>Se enmantequilla el molde, se precalienta el horno a 180&deg;C y se hornea por unos 45 minutos con calor arriba y abajo. Se verifica con el palillo que salga seco en el centro al finalizar el plazo. &iexcl;Y listo!</p>
 <p>&nbsp;</p>
 <p><em><strong>Preparacion:</strong></em></p>
 <ol>
@@ -49,7 +49,7 @@ text {
 <p><strong>$youtube/8sMpPXTJ5pM$</strong></p>
 <p>&nbsp;</p>
 }
-title Shakshouka
+title Pan de banano
 day 04
 text1 
 text2 
@@ -65,6 +65,8 @@ media{kmkv} {
     shakshuka /images/202004/buenobonitobarato-shakshouka/shakshuka.jpg
     brownies /images/202003/recomendado-dulce-recetascuarentena/brownies.jpg
     galletasybrownies /images/202003/recomendado-dulce-recetascuarentena/galletasybrownies.jpg
+    banano1 /images/202005/040520-buenobonitoybarato-pan-de-banano/banano1.jpg
+    banano2 /images/202005/040520-buenobonitoybarato-pan-de-banano/banano2.jpg
     galletas /images/202003/recomendado-dulce-recetascuarentena/galletas.jpg
 }
 description Estos días todos estamos horneando más. Entones aquí te damos cómo hacer (el mejor) pan de banano en casa. ¡Es la receta definitiva!
