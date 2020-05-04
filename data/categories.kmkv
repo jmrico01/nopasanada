@@ -36,13 +36,13 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202005/top5-desayunos-domicilio
+        featured{array} /content/202005/040520-buenobonitoybarato-pan-de-banano
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202005/top5-desayunos-domicilio
+    featured{array} /content/202005/040520-buenobonitoybarato-pan-de-banano
     bebidas{kmkv} {
         name Bebidas
-        featured{array} /content/202005/top5-desayunos-domicilio
+        featured{array} /content/202005/040520-buenobonitoybarato-pan-de-banano
     }
     viaje{kmkv} {
         name Viaje
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202005/04-lo-importante
+    featured{array} /content/202005/040520-buenobonitoybarato-pan-de-banano
 }
 other{kmkv} {
     name Other (Internal)
