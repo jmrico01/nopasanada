@@ -24,7 +24,7 @@ text {
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 }
-title Las cinco lecciones del maestro Yoda
+title Las seis lecciones del maestro Yoda
 day 04
 text1 
 text2 
@@ -39,7 +39,7 @@ year 2020
 author SERGIO SALAZAR PACHECO
 featured{kmkv} {
     title <b>La sabiduría del maestro</b>
-    text1 Cinco lecciones del maestro Yoda
+    text1 Seis lecciones del maestro Yoda
     text2 Por Sergio Salazar
     pretitle #MAYTHE4THBEWITHYOU:
     highlightColor #D6FF04
