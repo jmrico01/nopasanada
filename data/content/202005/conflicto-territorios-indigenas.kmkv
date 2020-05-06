@@ -24,7 +24,8 @@ text {
 <p><strong>No se puede iniciar de cero</strong></p>
 <p>Los antecedentes m&aacute;s detallados y el marco jur&iacute;dico no son de conocimiento general, ni siquiera entre todas las personas ind&iacute;genas o funcionarias a quienes les compete directamente.&nbsp;</p>
 <p>Existen obligaciones como leyes, decretos, convenios internacionales y sentencias cuya desaplicaci&oacute;n ha sido sistem&aacute;tica. De ah&iacute; que es importante la iniciativa para actuar con una base com&uacute;n de conocimiento, en donde todos los actores involucrados sepan de qu&eacute; es lo que se est&aacute; hablando, y qu&eacute; es lo que est&aacute; en juego.</p>
-<p>La lucha es leg&iacute;tima, los medios pueden estar en debate<br />Estos son conflictos, literalmente sangrientos, en los cuales tomar postura podr&iacute;a no ser f&aacute;cil. Sin embargo, considerando la deuda hist&oacute;rica, es necesario decir que la lucha de los pueblos ind&iacute;genas es leg&iacute;tima y necesaria, aunque haya opiniones variadas sobre las muy diversas formas que que toma.&nbsp;</p>
+<p><strong>La lucha es leg&iacute;tima, los medios pueden estar en debate</strong></p>
+<p>Estos son conflictos, literalmente sangrientos, en los cuales tomar postura podr&iacute;a no ser f&aacute;cil. Sin embargo, considerando la deuda hist&oacute;rica, es necesario decir que la lucha de los pueblos ind&iacute;genas es leg&iacute;tima y necesaria, aunque haya opiniones variadas sobre las muy diversas formas que que toma.&nbsp;</p>
 <p>Los mecanismos de soluci&oacute;n deben depender s&oacute;lo del pueblo en cuesti&oacute;n y de la acci&oacute;n coordinada del Estado.</p>
 <p><strong>El di&aacute;logo es posible, y urgente</strong></p>
 <p>El pa&iacute;s ha desperdiciado valiosas oportunidades de tener un verdadero e integral proyecto de Autonom&iacute;a Ind&iacute;gena. Al d&iacute;a de hoy hay medidas cautelares de la Corte Iinteramericana de Derechos Humanos que no se cumplen. La Fuerza P&uacute;blica no tiene las condiciones para permanecer en los puestos indefinidamente. La tensi&oacute;n contin&uacute;a, y hay vidas en peligro.</p>
@@ -41,10 +42,7 @@ media{kmkv} {
     header /images/202005/headers/conflicto-territorios-indigenas.jpg
     numbers /images/202004/violencia-domestica-cuarentena/numbers.jpg
 }
-description {
-Este año un líder indígena fue asesinado, pero eso sólo es la punta del iceberg.
-
-}
+description Este año un líder indígena fue asesinado, pero eso sólo es la punta del iceberg.
 year 2020
 author Por Larissa Soto
 featured{kmkv} {
@@ -55,10 +53,7 @@ featured{kmkv} {
     highlightColor #FFFF00
 }
 type article
-subtitle {
-Este año un líder indígena fue asesinado, pero eso sólo es la punta del iceberg.
-
-}
+subtitle Este año un líder indígena fue asesinado, pero eso sólo es la punta del iceberg.
 month 05
 tags{array} noticias,opinion
 videoID 
