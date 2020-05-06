@@ -1,0 +1,55 @@
+text {
+<p>El presidente de El Salvador, Nayib Bukele, habl&oacute; ayer sobre la estrategia de Costa Rica frente al coronavirus, haciendo comentarios que solo pueden ser calificados como desinformaci&oacute;n, que vienen justo despu&eacute;s de que los medios internacionales difundieran que la estrategia de Costa Rica contra la pandemia estaba funcionando. Estas fueron sus declaraciones:</p>
+<p>&ldquo;Hay un punto que quiero resaltar y es Costa Rica, Guatemala y Honduras. Honduras hac&iacute;a 100 pruebas diarias hasta hace unos d&iacute;as y ten&iacute;an un aproximado de 30 casos nuevos cada d&iacute;a, subieron a 300 pruebas diarias y est&aacute;n teniendo 100 casos nuevos diarios.</p>
+<p>&ldquo;Si nosotros medimos la cantidad de pruebas que hac&iacute;a Costa Rica al principio con la cantidad de prueba que hacen ahora est&aacute;n haciendo n&uacute;meros incluso m&aacute;s bajo que Honduras, teniendo la capacidad de hacer pruebas 15 o 20 veces m&aacute;s de la que est&aacute;n haciendo, pues evidentemente Costa Rica solo est&aacute; haciendo pocas pruebas.&rdquo;</p>
+<p>&ldquo;Pero si nosotros hici&eacute;ramos lo mismo de Costa Rica en lugar de tener 32 casos de ayer hubi&eacute;ramos tenido 3 y pensar&iacute;amos que ya bajamos la curva y estamos bien, hay m&aacute;s curados que casos nuevos, claro, si estamos haciendo menos pruebas.</p>
+<p>&ldquo;Aqu&iacute; hay algo importante que decir para que no nos confundamos y luego digan, hagamos lo que hace Suecia, hagamos lo que hace Costa Rica, porque luego vamos a cometer el mismo error que est&aacute;n cometiendo ellos. Pero eso es pan para hoy y hambre para ma&ntilde;ana&rdquo;.</p>
+<p>Pero, es mentira: los n&uacute;meros difieren. Para ayer 5 de mayo, Costa Rica hab&iacute;a realizado 14.121 pruebas, a 9964 personas. Para asegurarse de que no existe el contagio comunitario, Costa Rica lleva a cabo adem&aacute;s 200 &ldquo;pruebas centinelas&rdquo; semanales, es decir, pruebas realizadas al azar por diferentes EBAIS del pa&iacute;s. Estas pruebas han dado todas negativas. &nbsp;</p>
+<p>Los lineamientos para considerar un caso como sospechoso en Costa Rica, adem&aacute;s, son los m&aacute;s amplios de toda la regi&oacute;n centroamericana. Definidos casos de posibles contagios masivos, Costa Rica ha aplicado la realizaci&oacute;n de tests a todos los miembros de un grupo sospechoso, como lo hizo recientemente en el hogar para ancianos Carlos Mar&iacute;a Ulloa, o en el Centro de Aprehensi&oacute;n Regional Central.&nbsp;</p>
+<p>Costa Rica registra solamente 336 casos activos de COVID-19, y 6 muertes. Su servicio de salud no se ha visto sobrecargado por la atenci&oacute;n a la pandemia.&nbsp;</p>
+<p>El canciller Rodolfo Solano, expres&oacute; su preocupaci&oacute;n por las declaraciones del presidente Bukele, y dijo que sus declaraciones no tienen fundamento.</p>
+<p>"Las declaraciones del Presidente Bukele son declaraciones que no tienen ning&uacute;n fundamento. Los datos manifestados por el presidente Bukele se alejan de toda realidad", expres&oacute;.</p>
+<hr />
+<p style="text-align: center;"><a href="https://www.nopasanada.com/content/202004/27-lo-importante">LEA LO IMPORTANTE DE HOY</a></p>
+<p style="text-align: center;">&nbsp;</p>
+}
+title Las declaraciones falsas de Nayib Bukele sobre la estrategia de Costa Rica frente al coronavirus
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    cornbread1 /images/202004/alternativo-keto-cornbread/cornbread1.jpg
+    pop /images/202003/receta-diengo-atun/pop.jpg
+    franco /images/202004/2604-spotlight/franco.jpg
+    header /images/202005/headers/bukele-miente.jpg
+    cornbread /images/202004/alternativo-keto-cornbread/cornbread.jpg
+    pollo1 /images/202003/keto-pollo-frito/pollo1.jpg
+    pollo2 /images/202003/keto-pollo-frito/pollo2.jpg
+    shakshuka /images/202004/buenobonitobarato-shakshouka/shakshuka.jpg
+    meraki /images/202004/2604-spotlight/meraki.jpg
+    brownies /images/202003/recomendado-dulce-recetascuarentena/brownies.jpg
+    galletasybrownies /images/202003/recomendado-dulce-recetascuarentena/galletasybrownies.jpg
+    kan /images/202004/2604-spotlight/kan.jpg
+    galletas /images/202003/recomendado-dulce-recetascuarentena/galletas.jpg
+    gallorojo /images/202004/2604-spotlight/gallorojo.jpg
+}
+description O sea, las mentiras de Bukele
+year 2020
+author NPN NOTICIAS
+featured{kmkv} {
+    title Bukele miente
+    text1 Las declaraciones falsas del presidente de El Salvador sobre la estrategia de Costa Rica frente al coronavirus
+    text2 NPN Noticias
+    pretitle ÚLTIMA HORA:
+    highlightColor #FFC7F7
+}
+type article
+subtitle "Evidentemente, Costa Rica solo está haciendo pocas pruebas." No, Bukele: eso no es cierto.
+month 05
+tags{array} noticias-politica
+videoID 
+titlePoster 
+color #FFC7F7
