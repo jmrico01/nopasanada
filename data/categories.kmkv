@@ -8,7 +8,7 @@ mas{kmkv} {
     featured{array} /content/202005/03-intimidad-en-aislamiento
     cine{kmkv} {
         name Cine
-        featured{array} /content/202004/bingewatcheable-tres-series
+        featured{array} /content/202005/tomcruise-espacio
     }
     historias{kmkv} {
         name Historias
