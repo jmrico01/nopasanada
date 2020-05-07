@@ -1,0 +1,44 @@
+text {
+<p>Un virus respiratorio emerge en China, cierra las fronteras, se convierte en pandemia y cobra varios miles de muertos alrededor del todo el mundo. &iquest;El coronavirus de 2020? &iquest;La pel&iacute;cula Contagion? No, la gripe de Hong Kong de finales de los 60.</p>
+<p>Esta epidemia de gripe A (H3N2), detectada a mediados de 1968 en Hong Kong, dio la vuelta al mundo en un a&ntilde;o y medio, y mat&oacute; a un mill&oacute;n de personas.</p>
+<p>"La gente llegaba en camilla, en un estado catastr&oacute;fico. Se mor&iacute;an de hemorragia pulmonar, con cianosis en los labios, completamente grises. Hab&iacute;a de todas las edades, 20, 30, 40 a&ntilde;os y m&aacute;s", record&oacute; el infect&oacute;logo Pierre Dellamonica en el a&ntilde;o 2005, en el diario galo Lib&eacute;ration.</p>
+<p>Durante el pico de la epidemia en pa&iacute;ses como Francia, los cad&aacute;veres se amontonaban en hospitales y morgues. Pero no colm&oacute; los titulares, ni hubo medidas por parte de los gobiernos&hellip; ni siquiera una alerta sanitaria.</p>
+<p>En esa &eacute;poca, el entorno m&eacute;dico, los dirigentes, los medios y la poblaci&oacute;n en general ten&iacute;an una fe casi ciega en el progreso y sus nuevas armas, como las vacunas y los antibi&oacute;ticos milagrosos, que hab&iacute;an funcionado contra enfermedades terribles, como la tuberculosis.</p>
+<p>Sobretodo, la sensibilidad hacia la muerte no era la misma que hoy en d&iacute;a. Ni siquiera se supo exactamente cu&aacute;l fue la cifra de muertos en varios lugares del mundo hasta la d&eacute;cada pasada (un estimado de un mill&oacute;n a cuatro millones de muertes).</p>
+<p>Aunque las muertes causadas por esta gripe fueron menores a las causadas por la famosa pandemia anterior, la llamada gripe espa&ntilde;ola de 1918, el virus s&iacute; era altamente contagioso.&nbsp;</p>
+<p>A&uacute;n as&iacute;, tard&oacute; varios meses en pasar de el sudeste asi&aacute;tico a Am&eacute;rica, y cuando lo hizo, lleg&oacute; a trav&eacute;s del Canal de Panam&aacute;. Su llegada a los Estados Unidos coincidi&oacute; con soldados que volv&iacute;an a California desde Vietnam. La pandemia, adem&aacute;s, tuvo una segunda ola que mat&oacute; a m&aacute;s personas que la primera.&nbsp;</p>
+<p>Para entender la reacci&oacute;n tan diferente a la pandemia actual quiz&aacute; habr&iacute;a que considerar la rapidez con la que viaja la informaci&oacute;n hoy en d&iacute;a, y que, en ese momento, la sociedad estaba convencida de forma inconsciente que dispon&iacute;a de todas las armas para combatir las epidemias.</p>
+<p>Pero la rapidez con la que el virus que causa el covid-19 se ha esparcido por el mundo juega un rol importante: coincide perfectamente con la densidad de las conexiones a&eacute;reas, demostrando que estas &ldquo;enfermedades del Antropoceno&rdquo; (la &eacute;poca de la actividad humana con incidencia en los ciclos de la tierra) tienen absolutamente todo que ver con la actividad del ser humano.&nbsp;</p>
+<p>La historia se cuenta en tres episodios: un "salto de especie" con el paso del coronavirus del murci&eacute;lago al hombre, un "desbordamiento" con el contagio de un ser humano a otros y una tercera etapa que tiene que ver con la explosi&oacute;n del virus debido a la acci&oacute;n del hombre en el planeta, mediante los transportes intercontinentales.</p>
+<p>En aquel momento, el virus tard&oacute; su tiempo en esparcirse por el mundo. En este caso, unas pocas semanas bastaron.&nbsp;</p>
+}
+title La letal pero discreta pandemia del ‘68 de la que seguro no has escuchado
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202005/headers/la-gripe-del-68.jpg
+    haunted /images/202005/02-covid-headlines/haunted.jpg
+    british /images/202005/02-covid-headlines/british.jpg
+    tattoo /images/202005/02-covid-headlines/tattoo.jpg
+}
+description Dos pandemias, dos reacciones muy diferentes
+year 2020
+author NPN Noticias y AFP
+featured{kmkv} {
+    title La pandemia<br><b>discreta<b>
+    text1 En el '68 hubo una pandemia que fue letal, pero no cerró ninguna frontera
+    text2 Por NPN Noticias y AFP
+    pretitle NOTICIAS:
+    highlightColor #FFFF00
+}
+type article
+subtitle Dos pandemias; dos reacciones muy diferentes.
+month 05
+tags{array} noticias,mas-saludyciencia
+videoID 
+titlePoster 
+color #FFFF00
