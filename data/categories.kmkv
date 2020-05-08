@@ -36,21 +36,21 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202005/040520-buenobonitoybarato-pan-de-banano
+        featured{array} /content/202005/07-jugando-con-fuego
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202005/040520-buenobonitoybarato-pan-de-banano
+    featured{array} /content/202005/07-jugando-con-fuego
     bebidas{kmkv} {
         name Bebidas
-        featured{array} /content/202005/040520-buenobonitoybarato-pan-de-banano
+        featured{array} /content/202005/07-jugando-con-fuego
     }
     viaje{kmkv} {
         name Viaje
-        featured{array} /content/202005/top5-desayunos-domicilio
+        featured{array} /content/202005/07-jugando-con-fuego
     }
     recomendado{kmkv} {
         name Recomendado
-        featured{array} /content/202005/top5-desayunos-domicilio
+        featured{array} /content/202005/07-jugando-con-fuego
     }
 }
 noticias{kmkv} {
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202005/contagion
+    featured{array} /content/202005/07-jugando-con-fuego
 }
 other{kmkv} {
     name Other (Internal)
