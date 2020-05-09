@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202005/08-online-dating
+    featured{array} /content/202005/090520-neuralink
 }
 other{kmkv} {
     name Other (Internal)
