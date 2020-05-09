@@ -1,0 +1,37 @@
+text {
+<p>Boris Johnson es hospitalizado mientras la pandemia avanza por el Reino Unido. Espa&ntilde;a logra recortar por cuarto d&iacute;a consecutivo las muertes por coronavirus. Jap&oacute;n avanza Hoy vemos los implantes de cerebro que plantea Elon Musk con Neuralink, la situaci&oacute;n que viven las poblaciones vulnerables como lo son los migrantes en Estados Unidos ante el COVID-19 y la tr&aacute;gica realidad de la mutilaci&oacute;n genital femenina en Sudan.</p>
+<hr />
+<p>Host: Guiri Uribe &amp; Stella</p>
+<p>Producido por: Pietro Cercone &amp; Kenneth Bald&iacute;</p>
+<p>Graficos &amp; Direcci&oacute;n Creativa: Lauren Gilleland</p>
+<div id="gtx-trans" style="position: absolute; left: -81px; top: 8.875px;">
+<div class="gtx-trans-icon">&nbsp;</div>
+</div>
+}
+title Lo Importante con Guiri Uribe 08.05.20
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202004/headers/06-lo-importante-con-guiri.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Hoy vemos los implantes de cerebro que plantea Elon Musk con Neuralink, la situación que viven las poblaciones vulnerables como lo son los migrantes en Estados Unidos ante el COVID-19 y la trágica realidad de la mutilación genital femenina en Sudan.
+year 2020
+featured{kmkv} {
+    title LO <b>IMPORTANTE<b>
+    text1 Joe Rogan, Musk e implantes de cerebro. La trágica situación de Sudan y migrantes durante el COVID
+    text2 NO PASA NADA NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #00FFFF
+}
+type video
+subtitle Lo Importante de hoy con Guiri Uribe
+month 05
+tags{array} noticias-loimportante,noticias-video
+videoID 8M66d431V0A
+titlePoster Lo Importante 06.04.20
+color #00FFFF
