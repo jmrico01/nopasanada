@@ -1,7 +1,9 @@
 text {
 <p style="text-align: center;"><strong>&ldquo;Eventualmente no vamos a tener que hablar....&rdquo; &ldquo;...La inteligencia artificial va demasiado r&aacute;pido y nos va dejar atr&aacute;s. Si no puedes vencerlos, &uacute;nete a ellos&rdquo; &nbsp;- Musk, Elon, Joe Rogan Podcast 07/05/20</strong></p>
 <p style="text-align: center;"><strong>$image/neuralink$</strong></p>
-<p>Elon Musk es una figura pol&eacute;mica, lo conocemos tanto por sus incre&iacute;bles logros en SpaceX, por revolucionar la industria de carros el&eacute;ctricos con Tesla, crear un prototipo de autopista subterr&aacute;nea con The Boring Company y querer llevarnos a habitar en Marte&hellip; Tambi&eacute;n lo conocemos por ser un poco&hellip; Controversial en Twitter.&nbsp;</p>
+<p>Elon Musk es una figura pol&eacute;mica, lo conocemos tanto por sus incre&iacute;bles logros en SpaceX, por revolucionar la industria de carros el&eacute;ctricos con Tesla, crear un prototipo de autopista subterr&aacute;nea con The Boring Company y querer llevarnos a habitar en Marte&hellip;</p>
+<p>$image/spacex$</p>
+<p>Tambi&eacute;n lo conocemos por ser un poco&hellip; Controversial en Twitter.&nbsp;</p>
 <p>$image/elontweet$</p>
 <p>Hoy no queremos hablar de sus tweets, o los nombres de sus hijos, pero s&iacute; sobre el posible futuro de uno sus proyectos menos conocidos: Neuralink.&nbsp;</p>
 <p>Recientemente, Musk volvi&oacute; a aparecer en el podcast de Joe Rogan. Anteriormente estuvo en las noticias por fumar marihuana (&iquest;&iexcl;C&Oacute;MO UN EMPRESARIO GENIO PUEDE FUMAR MARIHUANA?!) Esta vez decidi&oacute; hablar y profundizar sobre Neuralink, una compa&ntilde;&iacute;a basada en crear interfaces cerebro-m&aacute;quina.&nbsp;</p>
@@ -48,9 +50,6 @@ text {
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<div id="gtx-trans" style="position: absolute; left: 12px; top: 858.6px;">
-<div class="gtx-trans-icon">&nbsp;</div>
-</div>
 }
 title ¿Qué es el Neuralink de Elon Musk?
 day 09
@@ -62,6 +61,7 @@ customTop
 media{kmkv} {
     neuralink /images/202005/090520-neuralink/neuralink.jpg
     header /images/202005/headers/090520-neuralink.jpg
+    spacex /images/202005/090520-neuralink/spacex.jpg
     neuro2 /images/202005/090520-neuralink/neuro2.jpg
     neuro3 /images/202005/090520-neuralink/neuro3.jpg
     elontweet /images/202005/090520-neuralink/elontweet.jpg
