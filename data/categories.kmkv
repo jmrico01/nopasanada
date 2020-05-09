@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202005/07-jugando-con-fuego
+    featured{array} /content/202005/08-online-dating
 }
 other{kmkv} {
     name Other (Internal)
