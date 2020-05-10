@@ -28,18 +28,18 @@ media{kmkv} {
     elontweet /images/202005/090520-neuralink/elontweet.jpg
     info /images/202005/09-ixcanul/info.jpg
 }
-description Para ayudarnos a pasar un buen domingo, hoy Bad Bunny decidió sacar un álbum sorpresa. Encontralo aquí: 
+description Para ayudarnos a pasar un buen domingo, hoy Bad Bunny decidió sacar un álbum sorpresa. Encontralo aquí:
 year 2020
 author NPN Cultura
 featured{kmkv} {
-    title BAD BUNNY<b>ALBÚM SORPRESA</b>
-    text1 "Las que no ban a salir" 
-    text2 Por NPN Cultura 
+    title BAD BUNNY<b>ÁLBUM SORPRESA</b>
+    text1 "Las que no ban a salir"
+    text2 Por NPN Cultura
     pretitle MÚSICA:
     highlightColor #FBFF09
 }
 type article
-subtitle Para ayudarnos a pasar un buen domingo, hoy Bad Bunny decidió sacar un album sorpresa. 
+subtitle Para ayudarnos a pasar un buen domingo, hoy Bad Bunny decidió sacar un album sorpresa.
 month 05
 tags{array} noticias
 videoID 
