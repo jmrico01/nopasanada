@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202005/090520-neuralink
+    featured{array} /content/202005/100520-album-sorpresa-badbunny
 }
 other{kmkv} {
     name Other (Internal)

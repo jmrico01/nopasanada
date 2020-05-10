@@ -1,0 +1,47 @@
+text {
+<p style="text-align: center;"><span style="font-family: FuturaPTMedium;"><strong>Alb&uacute;m sorpresa de Bad Bunny: "Las que no iban a salir"</strong></span></p>
+<hr />
+<p style="text-align: left;">Hoy Domingo 10 de Mayo, no es un domingo c&oacute;mo cualquier otro. no. Bad Bunny decidi&oacute; darnos una raz&oacute;n para prender los parlantes y bailar. Aunque sea probablemente solos. Bueno, o tal vez por zoom. El &aacute;lbum incluye diez canciones y dura 30 minutos. Incluye canciones como "EN CASITA" una colaboraci&oacute;n con Gabriela sobre la cuarentena, y otros incre&iacute;bles feats como: "M&Aacute;S DE UNA CITA" con Zion &amp; Lennox, "CANCI&Oacute;N CON YANDEL" con Yandel y "BAD CON NICKY" con Nicky Jam, entre otros.&nbsp;</p>
+<p style="text-align: center;"><a href="https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz?si=r_UVY8rLTaOf2G5F0nue9w" target="_blank" rel="noopener"><strong>Encontra el alb&uacute;m en spotfy:</strong> </a></p>
+<p style="text-align: center;"><strong>$image/spotify$</strong></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Encontra el alb&uacute;m en YouTube:&nbsp;</strong></span></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>$youtube/L88MenfjtTI$</strong></span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+}
+title Un álbum sorpresa de Bad Bunny
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    neuralink /images/202005/090520-neuralink/neuralink.jpg
+    header /images/202005/headers/100520-album-sorpresa-badbunny.jpg
+    spacex /images/202005/090520-neuralink/spacex.jpg
+    neuro2 /images/202005/090520-neuralink/neuro2.jpg
+    neuro3 /images/202005/090520-neuralink/neuro3.jpg
+    spotify /images/202005/100520-album-sorpresa-badbunny/spotify.jpg
+    elontweet /images/202005/090520-neuralink/elontweet.jpg
+    info /images/202005/09-ixcanul/info.jpg
+}
+description Para ayudarnos a pasar un buen domingo, hoy Bad Bunny decidió sacar un álbum sorpresa. Encontralo aquí: 
+year 2020
+author NPN Cultura
+featured{kmkv} {
+    title BAD BUNNY<b>ALBÚM SORPRESA</b>
+    text1 "Las que no ban a salir" 
+    text2 Por NPN Cultura 
+    pretitle MÚSICA:
+    highlightColor #FBFF09
+}
+type article
+subtitle Para ayudarnos a pasar un buen domingo, hoy Bad Bunny decidió sacar un album sorpresa. 
+month 05
+tags{array} noticias
+videoID 
+titlePoster "Las que no iban a salir"
+color #FBFF09
