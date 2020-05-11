@@ -5,7 +5,7 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202005/03-intimidad-en-aislamiento
+    featured{array} /content/202005/10-michael-jordan
     cine{kmkv} {
         name Cine
         featured{array} /content/202005/tomcruise-espacio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202005/100520-album-sorpresa-badbunny
+    featured{array} /content/202005/10-michael-jordan
 }
 other{kmkv} {
     name Other (Internal)
