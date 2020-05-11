@@ -1,5 +1,5 @@
 text {
-<p>En un momento en el que deber&iacute;amos estar aprovechando para encontrar formas m&aacute;s sanas de relacionarnos con el mundo natural, la C&aacute;mara de apicultores de Costa Rica denunci&oacute; el 9 de mayo en sus redes sociales una &ldquo;masacre&rdquo; de entre dos y tres millones de abejas en la localidad de Esparza, Puntarenas, provocada a prop&oacute;sito por ganaderos que aplicaron un insecticida - altamente t&oacute;xico para las abejas y otros insectos - en las canoas para alimentaci&oacute;n bovina que frecuentaban estos polinizadores.&nbsp;</p>
+<p>Justo en un momento en el que deber&iacute;amos estar aprovechando para encontrar formas m&aacute;s sanas de relacionarnos con el mundo natural, la C&aacute;mara de apicultores de Costa Rica denunci&oacute; el 9 de mayo en sus redes sociales una &ldquo;masacre&rdquo; de entre dos y tres millones de abejas en la localidad de Esparza, Puntarenas, provocada a prop&oacute;sito por ganaderos que aplicaron un insecticida - altamente t&oacute;xico para las abejas y otros insectos - en las canoas para alimentaci&oacute;n bovina que frecuentaban estos polinizadores.&nbsp;</p>
 <p>El alcance de este insecticida fue devastador porque las abejas de la zona se ven obligadas a buscar cualquier fuente de alimento durante el invierno, una &eacute;poca en la que no hay floraci&oacute;n de plantas.</p>
 <p>Seg&uacute;n el post en las redes sociales de <a href="https://www.facebook.com/apicultoresCR/posts/1131072633893631">Apicultores de Costa Rica</a>: &ldquo;la mortandad masiva afect&oacute; tanto a las abejas pecoreadoras como a las nodrizas, es decir, aquellas que se encontraban en el campo, como a las que por su corta edad permanecen dentro de su colmena. Adem&aacute;s, hubo una incidencia casi total entre las cr&iacute;as que se encontraban por nacer, indic&oacute; a Apicultores de Costa Rica Camilo Barrantes, m&eacute;dico veterinario que atiende la emergencia.&rdquo;</p>
 <p>La zona es hogar para much&iacute;simos apiarios.&nbsp;</p>
@@ -22,19 +22,16 @@ media{kmkv} {
 }
 description Insecticida aplicado por ganaderos a propósito mató entre dos a tres millones de estos cruciales polinizadores.
 year 2020
-author Kenneth Baldí
+author NPN Ciencia
 featured{kmkv} {
     title <b>Matanza de abejas</b>
     text1 Apicultores costarricenses denunciaron matanza deliberada de abejas
-    text2 Por Kenneth Baldí
+    text2 Por NPN CIENCIA
     pretitle Medio Ambiente:
     highlightColor #FFFF00
 }
 type article
-subtitle {
-Insecticida aplicado por ganaderos a propósito mató entre dos a tres millones de estos cruciales polinizadores. Un suceso devastador cuyo verdadero impacto aún se desconoce.
-
-}
+subtitle Insecticida aplicado por ganaderos a propósito mató entre dos a tres millones de estos cruciales polinizadores. Un suceso devastador cuyo verdadero impacto aún se desconoce.
 month 05
 tags{array} mas-saludyciencia,noticias
 videoID 
