@@ -1,6 +1,6 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202005/02-critical-role
+    featured{array} /content/202005/03-intimidad-en-aislamiento
 }
 mas{kmkv} {
     name Más
@@ -24,7 +24,7 @@ mas{kmkv} {
     }
     saludmental{kmkv} {
         name Salud mental
-        featured{array} /content/202004/ejercicio-psicologia
+        featured{array} /content/202005/intestino-salud-mental
     }
     arteymusica{kmkv} {
         name Arte y música
