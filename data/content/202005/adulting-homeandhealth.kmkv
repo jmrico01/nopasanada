@@ -22,7 +22,7 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202005/headers/adulting-cuerpo.jpg
+    header /images/202005/headers/adulting-homeandhealth.jpg
 }
 description #adulting: no todo es terrible... la edad te trae algunas buenas revelaciones
 year 2020
@@ -35,10 +35,7 @@ featured{kmkv} {
     highlightColor #FFFF00
 }
 type article
-subtitle {
-Llevas dos semanas frente al tele viendo remodelaciones de casa, shows de cocina y vestidos de novia... y al parecer, lo estás disfrutando.
-
-}
+subtitle Llevas dos semanas frente al tele viendo remodelaciones de casa, shows de cocina y vestidos de novia... y al parecer, lo estás disfrutando.
 month 05
 tags{array} opinion
 videoID 
