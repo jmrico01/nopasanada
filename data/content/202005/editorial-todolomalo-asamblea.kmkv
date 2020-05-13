@@ -28,12 +28,9 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202004/headers/editorial-correr-san-pedro.jpg
+    header /images/202005/headers/editorial-todolomalo-asamblea.jpg
 }
-description {
-Golpes, mociones que tienen la ley en contra, obstaculización de temas urgentes, e irrespeto por los derechos humanos: bienvenidxs a la jornada de ayer en el congreso.
-
-}
+description Golpes, mociones que tienen la ley en contra, obstaculización de temas urgentes, e irrespeto por los derechos humanos: bienvenidxs a la jornada de ayer en el congreso.
 year 2020
 author NPN EDITORIAL
 featured{kmkv} {
@@ -44,10 +41,7 @@ featured{kmkv} {
     highlightColor #FFFF00
 }
 type article
-subtitle {
-Golpes, mociones que tienen la ley en contra, obstaculización de temas urgentes, e irrespeto por los derechos humanos: bienvenidxs a la jornada de ayer en el congreso.
-
-}
+subtitle Golpes, mociones que tienen la ley en contra, obstaculización de temas urgentes, e irrespeto por los derechos humanos: bienvenidxs a la jornada de ayer en el congreso.
 month 05
 tags{array} opinion,noticias
 videoID 
