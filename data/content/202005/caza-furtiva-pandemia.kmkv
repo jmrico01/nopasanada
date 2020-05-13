@@ -1,0 +1,41 @@
+text {
+<p>Un rinoceronte de un cuerno fue asesinado en uno de los parques nacionales m&aacute;s conocidos de la India, donde han aumentado los casos de caza furtiva durante el confinamiento decretado contra el nuevo coronavirus, seg&uacute;n informaron las autoridades este domingo.</p>
+<p>La falta de veh&iacute;culos en la carretera cercana al Parque Nacional Kaziranga, en el estado de Asam (donde se encuentra la mayor poblaci&oacute;n mundial de rinocerontes de un cuerno) provoca que los animales se acerquen a los lindes, haci&eacute;ndolos vulnerables a los cazadores furtivos.</p>
+<p>Los cazadores pueden ganar hasta 150.000 d&oacute;lares por un cuerno de rinoceronte o alrededor de 60.000 por kilo en el mercado negro, seg&uacute;n los medios de comunicaci&oacute;n, debido a la demanda extranjera para su uso en la medicina tradicional china.</p>
+<p>En abril, los guardaparques y una fuerza especial de protecci&oacute;n de rinocerontes creada por el gobierno estatal evitaron m&aacute;s de cinco intentos de caza furtiva. Las autoridades afirmaron que los intentos de caza furtiva han aumentado dentro y alrededor del parque desde el comienzo del confinamiento nacional a finales de marzo.</p>
+<p>La situaci&oacute;n demuestra que las ONGs ten&iacute;an raz&oacute;n al advertir que la caza furtiva de especies en peligro de extinci&oacute;n aumentar&iacute;a en el mundo &nbsp;con las autoridades concentradas en la gesti&oacute;n de la epidemia del coronavirus.&nbsp;</p>
+<p>El 29 de abril pasado, la ONG Wildlife Justice Commission habl&oacute; sobre el tema con el siguiente comunicado:&nbsp;</p>
+<p>&ldquo;Nos preocupa que los actos de caza furtiva aumenten durante el confinamiento, puesto que las redes criminales podr&iacute;an aprovecharse del cierre de los parques, la reducci&oacute;n de patrullas en las zonas protegidas y del hecho de que los recursos legales se concentren en los problemas sobre la covid-19.&rdquo;</p>
+<p>Desde que buena parte de la poblaci&oacute;n mundial qued&oacute; confinada, se han llevado a cabo importantes confiscaciones en &Aacute;frica y Asia, por ejemplo ejemplo, m&aacute;s de seis toneladas de escamas de pangolines incautadas el mes pasado en Malasia.&nbsp;</p>
+<p>Tambi&eacute;n se hallaron reservas de marfil en Camboya, Laos y Vietnam, y el cad&aacute;ver de un delf&iacute;n destripado fue hallado este domingo en un r&iacute;o cerca de un santuario de Banglad&eacute;s, seg&uacute;n indicaron funcionarios del pa&iacute;s.</p>
+}
+title Caza furtiva de especies en peligro de extinción aumenta durante la pandemia
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202005/headers/caza-furtiva-pandemia.jpg
+}
+description Pangolines, rinocerontes, y deflines: víctimas de caza ilegal en aumento por falta de vigilancia, tal como habían advertido ONGs.
+year 2020
+author AFP y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Aumenta caza furtiva</b>
+    text1 Pangolines, rinocerontes, y deflines: víctimas de caza ilegal en aumento por falta de vigilancia.
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle {
+Pangolines, rinocerontes, y deflines: víctimas de caza ilegal en aumento por falta de vigilancia, tal como habían advertido ONGs.
+
+}
+month 05
+tags{array} noticias,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
