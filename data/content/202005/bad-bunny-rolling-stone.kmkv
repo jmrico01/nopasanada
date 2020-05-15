@@ -1,11 +1,12 @@
 text {
-<p>Suzy Exposito pas&oacute; un fin de semana entrevistando al productor de Bad Bunny para escribir un art&iacute;culo sobre el cantante que saldr&iacute;a en la revista Rolling Stone, la m&aacute;s importante publicaci&oacute;n musical en el mundo. Ten&iacute;a planeado encontrarse con Benito en San Juan, pero dos d&iacute;as antes de su vuelo, la isla cerr&oacute; sus fronteras debido al coronavirus.&nbsp;</p>
+<p>La nueva portada de la revista Rolling Stone, la publicaci&oacute;n musical m&aacute;s importante del mundo, le ha dado la vuelta al mundo porque resulta que re&uacute;ne varios hitos, algunos de los cu&aacute;les, son resultado de la situaci&oacute;n excepcional que estamos viviendo. La escritora del art&iacute;culo de portada, Suzy Exposito, pas&oacute; un fin de semana entrevistando al productor de Bad Bunny para escribir un art&iacute;culo sobre el cantante que saldr&iacute;a en la revista, pero dos d&iacute;as antes de encontrarse finalmente con Benito en San Juan la isla cerr&oacute; sus fronteras debido al coronavirus. Sin embargo, Suzy no dej&oacute; pasar la oportunidad y se asegur&oacute; de que la historia de portada se llevara a cabo bajo cualquier circunstancia. Como no hab&iacute;a manera de hacer el photoshoot de manera convencional, Gabriela Berlingeri, la novia de Benito, tom&oacute; la fotograf&iacute;a de portada.</p>
 <p>$image/1$</p>
-<p>Sin embargo, Suzy no dej&oacute; pasar la oportunidad y se asegur&oacute; de que la historia de portada se llevara a cabo bajo cualquier circunstancia. Como no hab&iacute;a manera de hacer el photoshoot de manera convencional, Gabriela Berlingeri, la novia de Benito, tom&oacute; la fotograf&iacute;a de portada.</p>
-<p>El resultado resulta ser doblemente hist&oacute;rico (el hecho de que es la primera fotograf&iacute;a de portada de la revista tomada con un telef&oacute;no es, sinceramente, lo de menos): Suzy Exposito es la primera mujer latina en escribir la historia destacada en la portada de la revista Rolling Stone, y Gabriela Berlingeri es la primera mujer latina en tomar la fotograf&iacute;a para una portada de Rolling Stone.</p>
+<p>El resultado resulta ser hist&oacute;rico por cuatro razones:</p>
+<p>Suzy Exposito es la primera mujer latina en escribir la historia destacada en la portada de la revista Rolling Stone, y Gabriela Berlingeri es la primera mujer latina en tomar la fotograf&iacute;a para una portada de Rolling Stone. &iexcl;Ojal&aacute; este combo contin&uacute;e d&aacute;ndose en otras circunstancias!</p>
 <p>$image/2$</p>
+<p>Eso, sumado a que Bad Bunny es el primer artista latino de m&uacute;sica urbana en ser el sujeto de la portada y el art&iacute;culo destacado, y finalmente, Rolling Stone nunca hab&iacute;a tenido una fotograf&iacute;a tomada con un iPhone en su portada.&nbsp;</p>
 }
-title La nueva portada de Rolling Stone es histórica (y sí, es de Bad Bunny)
+title Cuatro razones por las cuales la nueva portada de Rolling Stone es histórica 
 day 14
 text1 
 text2 
@@ -24,20 +25,20 @@ media{kmkv} {
     2 /images/202005/bad-bunny-rolling-stone/2.jpg
     info /images/202005/09-ixcanul/info.jpg
 }
-description Mujeres latinas haciendo historia
+description Latinxs haciendo historia.
 year 2020
 author NPN Cultura
 featured{kmkv} {
     title Portada <b>histórica</b>
-    text1 La portada de Rolling Stone en la que aparece Bad Bunny es histórica por dos razones
+    text1 La portada de Rolling Stone en la que aparece Bad Bunny es histórica por cuatro razones
     text2 Por NPN Cultura
     pretitle MÚSICA:
     highlightColor #FBFF09
 }
 type article
-subtitle Mujeres latinas haciendo historia.
+subtitle Latinxs haciendo historia.
 month 05
 tags{array} noticias
 videoID 
-titlePoster "Las que no iban a salir"
+titlePoster 
 color #FBFF09
