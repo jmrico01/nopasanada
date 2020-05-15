@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202005/14-lo-importante
+        featured{array} /content/202005/15-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202005/14-lo-importante
+    featured{array} /content/202005/15-lo-importante
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202005/09-ixcanul
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202005/10-michael-jordan
+    featured{array} /content/202005/15-lo-importante
 }
 other{kmkv} {
     name Other (Internal)
