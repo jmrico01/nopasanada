@@ -6,7 +6,7 @@ text {
 <p>$image/2$</p>
 <p>L&aacute;stima que se necesit&oacute; de las complicaciones del coronavirus, (y de la fama de Bad Bunny, un hombre) para que estos dos hitos se conjugaran. Esperamos que siga sucediendo, en todo tipo de circunstancias.&nbsp;</p>
 }
-title Un álbum sorpresa de Bad Bunny
+title La nueva portada de Rolling Stone es histórica (y sí, es de Bad Bunny)
 day 14
 text1 
 text2 
@@ -25,7 +25,7 @@ media{kmkv} {
     2 /images/202005/bad-bunny-rolling-stone/2.jpg
     info /images/202005/09-ixcanul/info.jpg
 }
-description Para ayudarnos a pasar un buen domingo, hoy Bad Bunny decidió sacar un álbum sorpresa. Encontralo aquí:
+description Mujeres latinas haciendo historia
 year 2020
 author NPN Cultura
 featured{kmkv} {
@@ -36,7 +36,7 @@ featured{kmkv} {
     highlightColor #FBFF09
 }
 type article
-subtitle Para ayudarnos a pasar un buen domingo, hoy Bad Bunny decidió sacar un album sorpresa.
+subtitle Mujeres latinas haciendo historia.
 month 05
 tags{array} noticias
 videoID 
