@@ -1,0 +1,44 @@
+text {
+<p>Suzy Exposito pas&oacute; un fin de semana entrevistando al productor de Bad Bunny para escribir un art&iacute;culo sobre el cantante que saldr&iacute;a en la revista Rolling Stone, la m&aacute;s importante publicaci&oacute;n musical en el mundo. Ten&iacute;a planeado encontrarse con Benito en San Juan, pero dos d&iacute;as antes de su vuelo, la isla cerr&oacute; sus fronteras debido al coronavirus.&nbsp;</p>
+<p>$image/1$</p>
+<p>Sin embargo, Suzy no dej&oacute; pasar la oportunidad y se asegur&oacute; de que la historia de portada se llevara a cabo bajo cualquier circunstancia. Como no hab&iacute;a manera de hacer el photoshoot de manera convencional, Gabriela Berlingeri, la novia de Benito, tom&oacute; la fotograf&iacute;a de portada.</p>
+<p>El resultado resulta ser doblemente hist&oacute;rico (el hecho de que es la primera fotograf&iacute;a de portada de la revista tomada con un telef&oacute;no es, sinceramente, lo de menos): Suzy Exposito es la primera mujer latina en escribir la historia destacada en la portada de la revista Rolling Stone, y Gabriela Berlingeri es la primera mujer latina en tomar la fotograf&iacute;a para una portada de Rolling Stone.</p>
+<p>$image/2$</p>
+<p>L&aacute;stima que se necesit&oacute; de las complicaciones del coronavirus, (y de la fama de Bad Bunny, un hombre) para que estos dos hitos se conjugaran. Esperamos que siga sucediendo, en todo tipo de circunstancias.&nbsp;</p>
+}
+title Un álbum sorpresa de Bad Bunny
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    neuralink /images/202005/090520-neuralink/neuralink.jpg
+    header /images/202005/headers/bad-bunny-rolling-stone.jpg
+    spacex /images/202005/090520-neuralink/spacex.jpg
+    neuro2 /images/202005/090520-neuralink/neuro2.jpg
+    neuro3 /images/202005/090520-neuralink/neuro3.jpg
+    spotify /images/202005/100520-album-sorpresa-badbunny/spotify.jpg
+    elontweet /images/202005/090520-neuralink/elontweet.jpg
+    1 /images/202005/bad-bunny-rolling-stone/1.jpg
+    2 /images/202005/bad-bunny-rolling-stone/2.jpg
+    info /images/202005/09-ixcanul/info.jpg
+}
+description Para ayudarnos a pasar un buen domingo, hoy Bad Bunny decidió sacar un álbum sorpresa. Encontralo aquí:
+year 2020
+author NPN Cultura
+featured{kmkv} {
+    title Portada <b>histórica</b>
+    text1 La portada de Rolling Stone en la que aparece Bad Bunny es histórica por dos razones
+    text2 Por NPN Cultura
+    pretitle MÚSICA:
+    highlightColor #FBFF09
+}
+type article
+subtitle Para ayudarnos a pasar un buen domingo, hoy Bad Bunny decidió sacar un album sorpresa.
+month 05
+tags{array} noticias
+videoID 
+titlePoster "Las que no iban a salir"
+color #FBFF09
