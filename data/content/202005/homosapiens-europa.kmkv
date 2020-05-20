@@ -1,0 +1,44 @@
+text {
+<p>Hallazgos revelaron la existencia del Homo sapiens m&aacute;s antiguo de Europa conocido hasta el momento, de acuerdo con un estudio publicado la semana pasada por un equipo de investigadores internacionales.</p>
+<p>Seg&uacute;n el an&aacute;lisis de los vestigios encontrados en la cueva de Bacho Kiro, en el norte de Bulgaria, la presencia en el continente europeo del Homo sapiens - tambi&eacute;n denominado hombre moderno - datar&iacute;a de hace 45.000 a&ntilde;os, describen dos art&iacute;culos aparecidos en las revistas Nature y Nature Ecology and Evolution.</p>
+<p>"Se trata del periodo de la primera llegada de Homo Sapiens a territorio europeo desde Oriente Medio y de su cohabitaci&oacute;n con los Neandertales que dur&oacute; entre 5.000 y 10.000 a&ntilde;os", seg&uacute;n Nikolay Sirakov, uno de los responsables de las excavaciones,</p>
+<p>"La ciencia estimaba que estos eventos tuvieron lugar en un periodo que se remonta a 38.000 y 42.000 a&ntilde;os. Hemos demostrado que ocurrieron un poco antes", agreg&oacute;.</p>
+<p>Los vestigios de Bacho Kiro "es el ejemplo europeo m&aacute;s antiguo conocido que demuestra la presencia de Homo sapiens en el Paleol&iacute;tico superior. Los hombres modernos, que llegaron hace unos 45.000 a&ntilde;os, fueron ocupando poco a poco el lugar de los Neandertales", explica un comunicado del Colegio de Francia al cual pertenecen dos profesores del equipo internacional que trabaj&oacute; en estas dataciones.</p>
+<p>El periodo de transici&oacute;n entre las poblaciones de neandertales y homo sapiens sigue siendo objeto de interrogantes y esta dataci&oacute;n aporta nuevos elementos.</p>
+<p>Una primera dataci&oacute;n de los vestigios con carbono 14 sugiere una franja de entre 46.940 y 43.650 a&ntilde;os. Una segunda, con el m&eacute;todo que se basa en el an&aacute;lisis del ADN mitocondrial extra&iacute;do de los huesos, da estimaciones que van desde los 44.830 a los 42.616 a&ntilde;os, precisa el Colegio de Francia.</p>
+<p>"Estos resultados muestran que los humanos modernos se propagaron por las latitudes medias de Eurasia hace m&aacute;s de 45.000 a&ntilde;os y ocuparon los territorios de los neandertales, por lo que ejercieron una influencia sobre el comportamiento de estos &uacute;ltimos antes de reemplazarlos", explica la instituci&oacute;n.</p>
+<p>El yacimiento de Bacho Kiro, conocido desde los a&ntilde;os 1930 y acondicionado para el turismo, hab&iacute;a sido objeto de nuevas excavaciones desde 2015. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+}
+title Restos humanos más antiguos de Europa encontrados en Bulgaria
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202005/headers/homosapiens-europa.jpg
+}
+description {
+El Homo sapiens llegó a Europa antes de lo que pensábamos.
+
+}
+year 2020
+author AFP y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Homo sapiens Europeo</b>
+    text1 Restos encontrados en Bulgaria demuestran que el humano moderno llegó a Europa antes de lo pensado
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle {
+Dientes y fragmentos de hueso encontrados en una cueva en Bulgaria demuestran que el Homo sapiens llegó a Europa antes de lo que pensábamos.
+
+}
+month 05
+tags{array} noticias,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
