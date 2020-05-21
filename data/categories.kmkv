@@ -5,10 +5,10 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202005/10-michael-jordan
+    featured{array} /content/202005/have-a-good-trip
     cine{kmkv} {
         name Cine
-        featured{array} /content/202005/tomcruise-espacio
+        featured{array} /content/202005/09-ixcanul
     }
     historias{kmkv} {
         name Historias
@@ -16,19 +16,19 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202004/segundaola-covid
+        featured{array} /content/202005/agujeronegro-vecino
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202004/ruido-contaminacion
+        featured{array} /content/202005/pandemia-bicicleta
     }
     saludmental{kmkv} {
         name Salud mental
-        featured{array} /content/202005/intestino-salud-mental
+        featured{array} /content/202005/lineadeayuda-pandemia
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202004/horizontes-musicales
+        featured{array} /content/202005/lilmiquela-noexiste
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
@@ -64,10 +64,10 @@ noticias{kmkv} {
         featured{array} /content/202005/21-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202005/21-lo-importante
+    featured{array} /content/202005/costarica-coronavirus-tecnologia
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202005/09-ixcanul
+        featured{array} /content/202005/orquidea-valle-videoclip
     }
     video{kmkv} {
         name Video
