@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202005/21-lo-importante
+    featured{array} /content/202005/instintogregario-distanciasocial
 }
 other{kmkv} {
     name Other (Internal)
