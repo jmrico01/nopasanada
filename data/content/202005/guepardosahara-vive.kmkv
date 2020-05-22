@@ -1,0 +1,40 @@
+text {
+<p>El guepardo del Sahara (Acinonyx jubatus hecki), una especie en peligro cr&iacute;tico de extinci&oacute;n, ha sido avistado nuevamente en el parque cultural Ahaggar, en la regi&oacute;n de Tamanrasset, en el extremo sur de Argelia, seg&uacute;n la administraci&oacute;n local de parques.</p>
+<p>Este felino hab&iacute;a estado desaparecido por m&aacute;s de diez a&ntilde;os.</p>
+<p>Recientemente fue observado por equipos cient&iacute;ficos de la Oficina del Parque Cultural Ahaggar (Onpca), 2.000 km al sur de Argel, dijo un funcionario del parque, Salah Amokrane, citado el lunes por la agencia oficial de prensa APS.</p>
+<p>El guepardo del Sahara, nativo de la regi&oacute;n des&eacute;rtica del Sahel, est&aacute; incluido en la lista roja de especies en peligro de extinci&oacute;n por la Uni&oacute;n Internacional para la Conservaci&oacute;n de la Naturaleza (UICN).</p>
+<p>En 2012, los especialistas de la UICN estimaron su n&uacute;mero en apenas 37 ejemplares en Argelia.</p>
+}
+title Tras diez años desaparecido, este raro felino volvió a ser avistado en Argelia
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202005/headers/guepardosahara-vive.jpg
+}
+description {
+Solo existen 37 individuos de esta rara especie de guepardo… y los humanos teníamos más de diez años de no toparnos con ellos. 
+
+}
+year 2020
+author AFP y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Guepardo del Sahara</b>
+    text1 Tras diez años desaparecido, este raro felino volvió a ser avistado en Argelia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle {
+Solo existen 37 individuos de esta rara especie de guepardo… y los humanos teníamos más de diez años de no toparnos con ellos. 
+
+}
+month 05
+tags{array} noticias,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
