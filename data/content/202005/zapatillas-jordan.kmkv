@@ -23,7 +23,7 @@ text {
 <p>El cambio no ha escapado a la atenci&oacute;n de los fabricantes, que han adaptado sus estrategias de marketing y promoci&oacute;n en consecuencia.</p>
 <p>"Las marcas de zapatillas est&aacute;n atendiendo a los coleccionistas de zapatillas al lanzar m&aacute;s y m&aacute;s zapatillas de edici&oacute;n limitada, por lo que con cantidades m&aacute;s peque&ntilde;as, la demanda se dispara".</p>
 }
-title Restos humanos más antiguos de Europa encontrados en Bulgaria
+title El nuevo 'craze' de los Millennials y Gen Z: los coleccionables de Jordan
 day 22
 text1 
 text2 
@@ -44,10 +44,7 @@ featured{kmkv} {
     highlightColor #FBFF09
 }
 type article
-subtitle {
-Una zapatilla que ha estado en el mercado durante años duplicó su valor gracias al estreno de The Last Dance: la compran personas que no estaban vivas cuando Jordan jugó. Un testimonio de que el jugador es una figura cultural mítica.
-
-}
+subtitle Una zapatilla que ha estado en el mercado durante años duplicó su valor gracias al estreno de The Last Dance: la compran personas que no estaban vivas cuando Jordan jugó. Un testimonio de que el jugador es una figura cultural mítica.
 month 05
 tags{array} noticias-culturales,ludi
 videoID 
