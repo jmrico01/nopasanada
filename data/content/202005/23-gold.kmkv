@@ -1,0 +1,34 @@
+text {
+<p>Dos ni&ntilde;os descubrieron los lingotes de oro de su abuela mientras jugaba, entre unas viejas s&aacute;banas que estaban guardadas en un cuarto de visitas. Las iban a utilizar para construirse una tienda de campa&ntilde;a en el jard&iacute;n, tras haberse mudado a la casa de campo para pasar el confinamiento.&nbsp;</p>
+<p>Los padres pensaron primero que los lingotes eran unos posacubiertos de su abuela, pero, al dudar, los llevaron a Philippe Rouillac, un subastador, para que los analizara.</p>
+<p>Para el profesional, no hubo duda de que se trataba de dos lingotes de oro fino, macizos, de un kilo cada uno, con n&uacute;meros inscritos en el costado que corresponden al a&ntilde;o de fabricaci&oacute;n, el registro, la garant&iacute;a, los refinadores, y los fundidores.</p>
+<p>Aparentemente, los lingotes fueron comprados en 1967 por la abuela, ya fallecida, y ser&aacute;n subastados el 16 de junio en Vend&ocirc;me.</p>
+<p>El valor de ambos podr&iacute;a superar los 100.000 euros, seg&uacute;n Rouillac.</p>
+}
+title Confinados, dos niños franceses dieron con el tesoro escondido de su abuela
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202005/headers/23-gold.jpg
+}
+description ¿Qué te han dejado estos meses tan raros?
+year 2020
+author AFP y NPN NOTICIAS
+featured{kmkv} {
+    title <b>TESORO DE LA ABUELA<b>
+    text1 Confinados, dos niños franceses dieron dos lingotes de oro que pertenecían a su difunta abuela
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle Los padres pensaron primero que los lingotes de oro eran adornos de la abuela fallecida, pero, terminaron llevándolos a un subastador. Ahora, podrían cobrar hasta 100.000 euros por ellos.
+month 05
+tags{array} noticias
+videoID 
+titlePoster 
+color #FBFF09
