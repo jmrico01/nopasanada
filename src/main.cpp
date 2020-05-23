@@ -848,7 +848,8 @@ int main(int argc, char** argv)
 		templateItems.Add("color", entryData.color.ToArray());
 		templateItems.Add("title", entryData.title.ToArray());
 
-		auto AuthorStringConvert = [&uri](const Array<char>& author, FixedArray<char, 64>* outString) {
+		const uint64 AUTHOR_STRING_MAX = 256;
+		auto AuthorStringConvert = [&uri](const Array<char>& author, FixedArray<char, AUTHOR_STRING_MAX>* outString) {
 			outString->Clear();
 			if (author.size == 0) {
 				return true;
@@ -861,7 +862,7 @@ int main(int argc, char** argv)
 			outString->Append(authorUpper.ToArray());
 			return true;
 		};
-		FixedArray<char, 64> authorString;
+		FixedArray<char, AUTHOR_STRING_MAX> authorString;
 
 		if (entryData.type == EntryType::NEWSLETTER) {
 			templateItems.Add("customTop", entryData.newsletterData.customTop.ToArray());
