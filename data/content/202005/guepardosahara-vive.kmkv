@@ -15,10 +15,7 @@ customTop
 media{kmkv} {
     header /images/202005/headers/guepardosahara-vive.jpg
 }
-description {
-Solo existen 37 individuos de esta rara especie de guepardo… y los humanos teníamos más de diez años de no toparnos con ellos. 
-
-}
+description Existen menos de 250 individuos de esta rara especie de guepardo… y los humanos teníamos más de diez años de no toparnos con ellos.
 year 2020
 author AFP y NPN NOTICIAS
 featured{kmkv} {
@@ -29,10 +26,7 @@ featured{kmkv} {
     highlightColor #FBFF09
 }
 type article
-subtitle {
-Solo existen 37 individuos de esta rara especie de guepardo… y los humanos teníamos más de diez años de no toparnos con ellos. 
-
-}
+subtitle Solo existen 37 individuos de esta rara especie de guepardo… y los humanos teníamos más de diez años de no toparnos con ellos.
 month 05
 tags{array} noticias,mas-ambiente
 videoID 
