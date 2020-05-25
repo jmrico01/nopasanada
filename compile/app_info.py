@@ -1,38 +1,62 @@
+from compile import Platform, TargetType, Define, PlatformTargetOptions, BuildTarget, CopyDir, LibExternal
 from env_settings import DEFINES_ENV, WIN32_VCVARSALL
 
-class LibExternal:
-	def __init__(self, name, path, compiledNames = None, dllNames = None):
-		self.name = name
-		self.path = path
-		self.compiledNames = compiledNames
-		self.dllNames = dllNames
+windows_options = PlatformTargetOptions(
+    defines=[],
+    compiler_flags=[
+        "/MTd",
 
-PROJECT_NAME = "nopasanada"
+        # "/wd4100", # unreferenced formal parameter
+        "/wd4201", # nonstandard extension used: nameless struct/union
+    ],
+    linker_flags=[]
+)
 
-COPY_DIRS = {}
+linux_options = PlatformTargetOptions(
+    defines=[],
+    compiler_flags=[],
+    linker_flags=[
+        "-lz",
+        "-lssl",
+        "-lcrypto"
+    ]
+)
 
-DEFINES = [
-	"KM_CPP_STD",
-	"KM_KMKV_JSON",
-	"KM_UTF8"
+TARGETS = [
+    BuildTarget("nopasanada",
+        source_file="src/main.cpp",
+        type=TargetType.EXECUTABLE,
+        defines=[
+            Define("KM_CPP_STD"),
+            Define("KM_KMKV_JSON"),
+            Define("KM_UTF8"),
+        ],
+        platform_options={
+            Platform.WINDOWS: windows_options,
+            Platform.LINUX: linux_options
+        }
+    )
 ]
-DEFINES.extend(DEFINES_ENV)
+
+TARGETS[0].defines.extend(DEFINES_ENV)
+
+COPY_DIRS = [
+    CopyDir("data", "data")
+]
 
 DEPLOY_FILES = []
 
 LIBS_EXTERNAL = [
-	LibExternal("cJSON",       "cJSON"),
-	LibExternal("cpp-httplib", "cpp-httplib"),
-	LibExternal("stb_sprintf", "stb_sprintf-1.06"),
-	LibExternal("utf8proc",    "utf8proc"),
-	LibExternal("xxHash",      "xxHash")
+    LibExternal("cJSON",       path="cJSON"),
+    LibExternal("cpp-httplib", path="cpp-httplib"),
+    LibExternal("stb_sprintf", path="stb_sprintf-1.06"),
+    LibExternal("utf8proc",    path="utf8proc"),
+    LibExternal("xxHash",      path="xxHash")
 ]
 
 PATHS = {
-	"win32-vcvarsall": WIN32_VCVARSALL
+    "win32-vcvarsall": WIN32_VCVARSALL
 }
 
-USE_KM_PLATFORM = False
-
 def post_compile_custom(paths):
-	pass
+    pass
