@@ -52,10 +52,7 @@ media{kmkv} {
     trago /images/201912/lo-mejor-2019/trago.jpg
     albums /images/201912/5-albumes/albums.jpg
 }
-description {
-En 1996, alguien posó una inverosímil pregunta que nadie había pensado en hacerse: ¿qué tal si juntamos a Michael Jordan y a los Looney Tunes en una película? En resultado no podría ser más noventas.
-
-}
+description En 1996, alguien posó una inverosímil pregunta que nadie había pensado en hacerse: ¿qué tal si juntamos a Michael Jordan y a los Looney Tunes en una película? En resultado no podría ser más noventas.
 year 2020
 author Allan Vargas
 featured{kmkv} {
@@ -66,10 +63,7 @@ featured{kmkv} {
     highlightColor #00FFFF
 }
 type article
-subtitle {
-En 1996, alguien posó una inverosímil pregunta que nadie había pensado en hacerse: ¿qué tal si juntamos a Michael Jordan y a los Looney Tunes en una película? En resultado no podría ser más noventas.
-
-}
+subtitle En 1996, alguien posó una inverosímil pregunta que nadie había pensado en hacerse: ¿qué tal si juntamos a Michael Jordan y a los Looney Tunes en una película? En resultado no podría ser más noventas.
 month 05
 tags{array} opinion
 videoID 
