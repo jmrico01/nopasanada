@@ -1,0 +1,44 @@
+text {
+<p>La historia de la invasi&oacute;n biol&oacute;gica del "Mus musculus", com&uacute;nmente llamado rat&oacute;n gris o dom&eacute;stico, empez&oacute; en Oriente Medio, explic&oacute; un equipo internacional formado por miembros de ocho pa&iacute;ses en la revista Scientific Reports.</p>
+<p>En el estudio se analizaron m&aacute;s de 800 restos &oacute;seos del peque&ntilde;o roedor, procedentes de 43 sitios arqueol&oacute;gicos de Oriente Pr&oacute;ximo y del sureste de Europa, de Ir&aacute;n a Grecia, de entre 40.000 y 3.000 a&ntilde;os de antig&uuml;edad. Con ellos, se realizaron an&aacute;lisis morfom&eacute;tricos (que permiten reproducir la forma), gen&eacute;ticos y de dataci&oacute;n por radiocarbono.&nbsp;</p>
+<p>Los an&aacute;lisis muestran la presencia del rat&oacute;n gris junto al hombre desde las primeras ocupaciones sedentarias humanas, hace unos 15.000 a&ntilde;os, que crearon un "entorno propicio" para esta especie de roedor, que es en la actualidad, la m&aacute;s invasiva, por delante de la rata, explic&oacute; a la AFP el arqueozo&oacute;logo Thomas Cucchi, que dirigi&oacute; el estudio.</p>
+<p>El nacimiento de la agricultura, la transformaci&oacute;n del medio en campos de cultivo y el aumento del tama&ntilde;o y de la densidad de las aldeas hicieron que el rat&oacute;n pudiera "expandirse r&aacute;pidamente por todo el Levante, de Cisjordania a Anatolia", hace unos 12.000 a&ntilde;os, apunt&oacute; el investigador del Museo de Historia Natural de Par&iacute;s.</p>
+<p>"Nuestros resultados muestran que el sedentarismo permiti&oacute; el comensalismo", es decir, una interacci&oacute;n biol&oacute;gica en la que una especie vive a expensas de una especie hospedadora, coment&oacute;.&nbsp;</p>
+<p>"El rat&oacute;n encontr&oacute; en el medio de los primeros h&aacute;bitats sedentarios humanos muchas ventajas respecto a su entorno natural, como un aporte de alimentos constante y una protecci&oacute;n contra los predadores y los competidores", declar&oacute; el investigador, cuyos trabajos buscan "entender c&oacute;mo molde&oacute; el hombre la biodiversidad animal".</p>
+<p>Pero el rat&oacute;n no se convirti&oacute; en especie invasora hasta el auge de la agricultura, pues los peque&ntilde;os mam&iacute;feros incluso siguieron al hombre hasta la isla de Chipre, a bordo de barcos, como "polizones", hace 10.000 a&ntilde;os. Hubo que esperar 5.000 a&ntilde;os m&aacute;s para que la especie invadiera Europa.</p>
+<p>Su expansi&oacute;n con Europa coincide, adem&aacute;s, con la aparici&oacute;n de los primeros gatos dom&eacute;sticos, seg&uacute;n los restos encontrados en sitios antiguamente habitados en Chipre, Grecia y en el este de Europa. Fue esa expansi&oacute;n lo que habr&iacute;a incentivado la domesticaci&oacute;n de los gatos, cuyo origen no se conoce con exactitud.</p>
+<p>"El ancestro salvaje del gato dom&eacute;stico se habr&iacute;a visto atra&iacute;do en nuestro entorno por el rat&oacute;n y, desde ese momento, el hombre se dio cuenta de la importancia del predador para proteger sus reservas de cereales", sugiri&oacute; Cucchi.</p>
+}
+title Los ratones nos usaron para conquistar al mundo, pero gracias a ellos se nos acercaron los gatos
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202005/headers/guepardosahara-vive.jpg
+}
+description {
+El ratón gris es una de las especies mamíferas más invasivas, y le debe el 100% de su éxito a su relación con el ser humano, pero tenemos que agradecerles: su cercanía con nosotros fue lo que atrajo a los gatos a nuestras sociedades.
+
+}
+year 2020
+author AFP y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Ratones conquistadores de gatos</b>
+    text1 Los ratones nos usaron para conquistar al mundo, pero gracias a ellos se nos acercaron los gatos
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle {
+El ratón gris es una de las especies mamíferas más invasivas, y le debe el 100% de su éxito a su relación con el ser humano, pero tenemos que agradecerles: su cercanía con nosotros fue lo que atrajo a los gatos a nuestras sociedades.
+
+}
+month 05
+tags{array} noticias,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
