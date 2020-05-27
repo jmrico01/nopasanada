@@ -17,12 +17,9 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202005/headers/guepardosahara-vive.jpg
+    header /images/202005/headers/ratones-gatos-mundo.jpg
 }
-description {
-El ratón gris es una de las especies mamíferas más invasivas, y le debe el 100% de su éxito a su relación con el ser humano, pero tenemos que agradecerles: su cercanía con nosotros fue lo que atrajo a los gatos a nuestras sociedades.
-
-}
+description El ratón gris es una de las especies mamíferas más invasivas, y le debe el 100% de su éxito a su relación con el ser humano, pero tenemos que agradecerles: su cercanía con nosotros fue lo que atrajo a los gatos a nuestras sociedades.
 year 2020
 author AFP y NPN NOTICIAS
 featured{kmkv} {
@@ -33,10 +30,7 @@ featured{kmkv} {
     highlightColor #FBFF09
 }
 type article
-subtitle {
-El ratón gris es una de las especies mamíferas más invasivas, y le debe el 100% de su éxito a su relación con el ser humano, pero tenemos que agradecerles: su cercanía con nosotros fue lo que atrajo a los gatos a nuestras sociedades.
-
-}
+subtitle El ratón gris es una de las especies mamíferas más invasivas, y le debe el 100% de su éxito a su relación con el ser humano, pero tenemos que agradecerles: su cercanía con nosotros fue lo que atrajo a los gatos a nuestras sociedades.
 month 05
 tags{array} noticias,mas-saludyciencia
 videoID 
