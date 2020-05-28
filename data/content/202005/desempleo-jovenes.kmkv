@@ -1,0 +1,44 @@
+text {
+<p>Los j&oacute;venes son las principales v&iacute;ctimas del cataclismo econ&oacute;mico provocado por la pandemia del nuevo coronavirus y uno de cada seis se encuentra sin empleo, alert&oacute; el mi&eacute;rcoles la Organizaci&oacute;n Internacional del Trabajo (OIT).</p>
+<p>En su presentaci&oacute;n del informe ante la prensa, el director general de la OIT, Guy Ryder, inst&oacute; a los gobiernos a prestar una atenci&oacute;n especial a esta "generaci&oacute;n del confinamiento" para evitar que la crisis le afecte a largo plazo.</p>
+<p>El estudio de la organizaci&oacute;n concluye que una de cada seis personas menores de 29 a&ntilde;os y en edad de trabajar ha dejado de hacerlo desde que apareci&oacute; la covid-19. Y aquellos que conservaron sus puestos de trabajo han visto c&oacute;mo su jornada se reduc&iacute;a en un 23% como media.</p>
+<p>Los j&oacute;venes se est&aacute;n viendo afectados "de manera desproporcionada" por esta crisis, debido a su impacto en el mercado laboral y en los &aacute;mbitos de la ense&ntilde;anza y la formaci&oacute;n.</p>
+<p>"La pandemia inflige un triple impacto sobre los j&oacute;venes. No solo destruye sus empleos, sino tambi&eacute;n su educaci&oacute;n y formaci&oacute;n, y coloca grandes obst&aacute;culos en el camino de quienes buscan entrar en el mundo del trabajo o cambiar empleo", estima el informe.</p>
+<p>Adem&aacute;s, cerca de la mitad de los j&oacute;venes estudiantes experimentan un "retraso probable" para terminar sus estudios, y un 10% de ellos no creen que puedan acabarlos.</p>
+<p>En 2019, la tasa de desempleo juvenil de 13,6 por ciento era ya m&aacute;s alta que la de cualquier otro grupo. Hab&iacute;a alrededor de 267 millones de j&oacute;venes, es decir uno de cada cinco, que ni trabajan ni estaban estudiando o form&aacute;ndose.</p>
+<p>"La crisis de la covid-19 est&aacute; afectando a los j&oacute;venes &ndash;en particular a las mujeres&ndash; con mayor gravedad y rapidez que a cualquier otro grupo", se&ntilde;al&oacute; Ryder, citado en el comunicado.</p>
+<p>"Si no tomamos medidas inmediatas y significativas para mejorar su situaci&oacute;n, el legado del virus podr&iacute;a acompa&ntilde;arnos durante d&eacute;cadas", advirti&oacute;.</p>
+<p>Esta cuarta edici&oacute;n del Observatorio de la OIT sobre el impacto del nuevo coronavirus hace hincapi&eacute; en que un sistema de test riguroso implica menos perturbaciones del mercado de trabajo y a nivel social que las medidas de confinamiento y cierre de los lugares de trabajo.</p>
+<p>En los pa&iacute;ses con un dispositivo masivo de pruebas y trazabilidad, la disminuci&oacute;n media de las horas de trabajo se reduce a hasta el 50%.</p>
+<p>Seg&uacute;n la OIT, se debe a tres razones: los test masivos reducen la dependencia en las medidas de confinamiento estrictas; promueven la confianza de los ciudadanos y, en consecuencia, estimulan el consumo y apoyan el empleo; y contribuyen a minimizar la interrupci&oacute;n de las actividades en el lugar de trabajo.</p>
+<p>Estas medidas pueden incluso crear nuevos empleos, aunque sean temporales.</p>
+<p>"Las pruebas y la trazabilidad pueden formar una parte importante del conjunto de pol&iacute;ticas si queremos vencer el miedo, reducir el riesgo y que nuestras econom&iacute;as y sociedades vuelvan a moverse r&aacute;pidamente", insisti&oacute; Ryder.</p>
+<p>A nivel general, la crisis sigue provocando "una reducci&oacute;n sin precedentes de la actividad econ&oacute;mica y del tiempo de trabajo en el mundo", seg&uacute;n la OIT. Por regiones, Am&eacute;rica es la m&aacute;s afectada, seguida de Europa y Asia central.</p>
+}
+title Pandemia dejó uno de cada seis jóvenes en el mundo sin trabajo
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202005/headers/desempleo-jovenes.jpg
+}
+description Un estudio de la Organización Internacional del Trabajo concluye que una de cada seis personas menores de 29 años dejó de trabajar desde que apareció el covid-19... y las cifras son peores para las mujeres.
+year 2020
+author AFP y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Desempleo joven</b>
+    text1 Pandemia dejo a uno de cada seis jóvenes en el mundo sin trabajo
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle Un estudio de la Organización Internacional del Trabajo concluye que una de cada seis personas menores de 29 años dejó de trabajar desde que apareció el covid-19... y las cifras son peores para las mujeres.
+month 05
+tags{array} noticias
+videoID 
+titlePoster 
+color #FBFF09
