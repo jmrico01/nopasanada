@@ -18,8 +18,8 @@ text1 {
 <p>El martes en la noche, pese al toque de queda, una multitud tambi&eacute;n segu&iacute;a congregada frente a la Casa Blanca.&nbsp;</p>
 <p>"Estamos cansados de ver por las noticias que a la gente la matan de forma habitual (...) esto ha sucedido durante demasiado tiempo", dijo Caleb, un manifestante que lleva cuatro d&iacute;as protestando en Washington, donde el lunes por la noche hubo m&aacute;s de 300 detenciones.&nbsp;</p>
 <p>La ciudad estaba fuertemente custodiada despu&eacute;s de que durante el d&iacute;a hubiera protestas espont&aacute;neas delante del Capitolio y ante el memorial de Lincoln y dos helic&oacute;pteros sobrevolaban mientras la polic&iacute;a urg&iacute;a a los viandantes a cumplir con el toque de queda. &nbsp;Trump reiter&oacute; el martes su amenaza de desplegar al ej&eacute;rcito y afirm&oacute; que el lunes en la noche, cuando fueron detenidos 300 manifestantes, Washington "fue el lugar m&aacute;s seguro de la tierra".</p>
-<p><br />El mandatario, que se present&oacute; como el presidente de "la ley y el orden", tambi&eacute;n guard&oacute; salvas para sus rivales y critic&oacute; la gesti&oacute;n de la seguridad en Nueva York -donde gobiernan los dem&oacute;cratas- afirmando que cedieron a la "escoria".&nbsp;</p>
-<p><br />Pese a los incidentes y a las cr&iacute;ticas del gobernador del estado de Nueva York, Andrew Cuomo, que dijo que la polic&iacute;a y la municipalidad "no hicieron su trabajo", el alcalde de la ciudad, Bill De Blasio, se neg&oacute; a desplegar a la Guardia Nacional al estimar que la polic&iacute;a puede hacer frente a la situaci&oacute;n.</p>
+<p>El mandatario, que se present&oacute; como el presidente de "la ley y el orden", tambi&eacute;n guard&oacute; salvas para sus rivales y critic&oacute; la gesti&oacute;n de la seguridad en Nueva York -donde gobiernan los dem&oacute;cratas- afirmando que cedieron a la "escoria".&nbsp;</p>
+<p>Pese a los incidentes y a las cr&iacute;ticas del gobernador del estado de Nueva York, Andrew Cuomo, que dijo que la polic&iacute;a y la municipalidad "no hicieron su trabajo", el alcalde de la ciudad, Bill De Blasio, se neg&oacute; a desplegar a la Guardia Nacional al estimar que la polic&iacute;a puede hacer frente a la situaci&oacute;n.</p>
 <p>"No podemos tolerar ni cerrar los ojos ante ninguna forma de racismo o de exclusi&oacute;n y pretender defender el car&aacute;cter sagrado de toda vida humana", dijo desde Roma el papa Francisco el mi&eacute;rcoles.&nbsp;</p>
 <p>El representante de la Iglesia cat&oacute;lica calific&oacute; el racismo de "pecado" y dijo que rezaba por George Floyd y por "la reconciliaci&oacute;n nacional". Francisco subray&oacute; tambi&eacute;n que "nada se gana" con reacciones violentas como las registradas en estos d&iacute;as en Estados Unidos.</p>
 <p><em><strong>&nbsp;- La polic&iacute;a bajo investigaci&oacute;n -</strong></em></p>
@@ -144,12 +144,7 @@ text4 {
 <p><em><strong>&nbsp;- Futuro econ&oacute;mico sombr&iacute;o -</strong></em></p>
 <p>En otras regiones del mundo, Rusia tambi&eacute;n avanza hacia la normalidad y ya convoc&oacute; a un referendo constitucional para el 1 de julio, aunque siguen los temores a un rebrote. En Ir&aacute;n, por ejemplo, hay un nuevo pico de la pandemia.</p>
 <p>Seg&uacute;n el Banco Mundial, la econom&iacute;a mundial enfrenta p&eacute;rdidas "abismales" y la recuperaci&oacute;n se ver&aacute; obstaculizada por la escasez de recursos. La recesi&oacute;n global llevar&aacute; a 60 millones de personas a la pobreza extrema.</p>
-<p><br />En Am&eacute;rica Latina, la pandemia agrav&oacute; la tendencia a la baja de las exportaciones que se ven&iacute;a observando desde el a&ntilde;o pasado, seg&uacute;n un informe del Banco Interamericano de Desarrollo (BID) publicado este mi&eacute;rcoles.&nbsp;</p>
-<p>&nbsp;</p>
-<hr />
-<div id="gtx-trans" style="position: absolute; left: -10px; top: 257.863px;">
-<div class="gtx-trans-icon">&nbsp;</div>
-</div>
+<p>En Am&eacute;rica Latina, la pandemia agrav&oacute; la tendencia a la baja de las exportaciones que se ven&iacute;a observando desde el a&ntilde;o pasado, seg&uacute;n un informe del Banco Interamericano de Desarrollo (BID) publicado este mi&eacute;rcoles.</p>
 }
 description {
 LO IMPORTANTE DE HOY: 
@@ -169,7 +164,7 @@ featured{kmkv} {
     pretitle NOTICIAS:
     highlightColor #FFFF00
 }
-author4 Italia reabre sus fronteras mientras el virus se ensaña con América Latina
+author4 No Pasa Nada Noticias y AFP
 type newsletter
 month 06
 tags{array} noticias-loimportante
