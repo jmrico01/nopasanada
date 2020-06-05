@@ -1,0 +1,38 @@
+text {
+<p>Com&uacute;n y Silvestre es una docuserie que nos lleva a conocer de donde viene lo mejor de Costa Rica por medio del reconocido chef costarricense, Santiago Fernandez Benedetto. En este episodio vamos a la Isla Chira a descubrir el mejor producto de pesca responsable de Costa Rica.</p>
+<hr />
+<p><strong>Host:</strong> Santiago Fernandez Benedetto</p>
+<p><strong>Una producci&oacute;n original de:</strong> NO PASA NADA</p>
+<p><strong>Dirigido por:</strong> Pietro Cercone</p>
+<p><strong>Productor Ejecutivo:</strong> Pietro Cercone</p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p><strong>Productor:</strong> Kenneth Baldi</p>
+<p><strong>Editor de video:</strong> Alejandro Medeiras</p>
+}
+title COMÚN Y SILVESTRE | Pt. 1 Isla Chira
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202006/headers/05-comun-y-silvestre.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Común y Silvestre es una docuserie que nos lleva a conocer de donde viene lo mejor de Costa Rica por medio del reconocido chef costarricense, Santiago Fernandez Benedetto. En este episodio vamos a la Isla Chira a descubrir el mejor producto de pesca responsable de Costa Rica.
+year 2020
+featured{kmkv} {
+    title ISLA <b>CHIRA<b>
+    text1 Isla Chira pt. 1 de Común y Silvestre. Un docuserie de No Pasa Nada.
+    text2 Con Santiago Fernandez Benedetto de Restaurante Silvestre
+    pretitle COMÚN Y SILVESTRE:
+    highlightColor #F4FF00
+}
+type video
+subtitle 
+month 06
+tags{array} guida-comida
+videoID GKa-rojpDKw
+titlePoster 
+color #F4FF00
