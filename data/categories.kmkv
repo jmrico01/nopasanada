@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202006/04-lo-importante
+        featured{array} /content/202006/05-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202006/trump-racista-twitter
+    featured{array} /content/202006/05-lo-importante
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202005/orquidea-valle-videoclip
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202006/04-lo-importante
+    featured{array} /content/202006/05-lo-importante
 }
 other{kmkv} {
     name Other (Internal)
