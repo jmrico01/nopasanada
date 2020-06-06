@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202005/lilmiquela-noexiste
+        featured{array} /content/202006/06-baile
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202006/05-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202005/orquidea-valle-videoclip
+        featured{array} /content/202006/06-baile
     }
     video{kmkv} {
         name Video
