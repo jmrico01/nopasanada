@@ -71,7 +71,7 @@ noticias{kmkv} {
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202004/13-lo-importante-con-guiri
+        featured{array} /content/202006/06-esquina-de-guiri
     }
 }
 coleccion{kmkv} {
@@ -101,7 +101,7 @@ venus{kmkv} {
     }
     inspiradoras{kmkv} {
         name Mujeres inspiradoras
-        featured{array} /content/202005/canina-eva-video
+        featured{array} /content/202006/06-esquina-de-guiri
     }
     belleza{kmkv} {
         name Belleza
