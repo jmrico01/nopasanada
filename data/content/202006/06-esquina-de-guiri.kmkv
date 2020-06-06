@@ -1,11 +1,15 @@
 text {
-<p>Aumentan 16 veces los niveles de radioactividad en Chern&oacute;bil tras incendio forestal. Bernie Sanders abandon&oacute; este mi&eacute;rcoles la carrera dem&oacute;crata. Hallado el cuerpo de la miembro de la familia Kennedy desaparecida. Migrantes atrapados en M&eacute;xico viven "aterrorizados" ante amenaza de COVID-19.</p>
+<p>Hoy en LA ESQUINA - de Guiri, vemos qu&eacute; est&aacute;n haciendo las j&oacute;venes mujeres del mundo en el campo de la ciencia, que se esta pasando en nuestros oc&eacute;anos y lo que se esta haciendo para combatir el da&ntilde;o, un invento para la realidad post-covid de un millenial y que podemos hacer todos para ayudar a BLM.</p>
 <hr />
-<p>Host: Guiri Uribe &amp; Stella</p>
-<p>Producido por: Pietro Cercone &amp; Kenneth Bald&iacute;</p>
-<p>Graficos &amp; Direcci&oacute;n Creativa: Lauren Gilleland</p>
+<p><a href="https://youtu.be/bCgLa25fDHM">How to financially help BLM with NO MONEY/leaving your house</a></p>
+<hr />
+<p><strong>Productor Ejecutivo:</strong> Pietro Cercone</p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p><strong>Productors:</strong> Guiri Uribe y Kenneth Bald&iacute;</p>
+<p><strong>Editor de video:</strong> Pietro Cercone</p>
+<p><strong>Host:</strong> Guiri Uribe</p>
 }
-title Lo Importante con Guiri Uribe 08.04.20
+title La Esquina de Guiri | Mujeres en el mundo, hoy en la tierra, y más...
 day 05
 text1 
 text2 
@@ -13,22 +17,25 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202004/headers/08-lo-importante-con-guiri.jpg
+    header /images/202006/headers/06-esquina-de-guiri.jpg
     poster /images/201912/posters/17-solo-lo-importante-video.jpg
 }
-description Aumentan 16 veces los niveles de radioactividad en Chernóbil tras incendio forestal. Bernie Sanders abandonó este miércoles la carrera demócrata. Hallado el cuerpo de la miembro de la familia Kennedy desaparecida. Migrantes atrapados en México viven "aterrorizados" ante amenaza de COVID-19.
+description {
+Mujeres en el mundo, hoy en la tierra, avances de millenials y que hacer por BLM
+
+}
 year 2020
 featured{kmkv} {
-    title LO <b>IMPORTANTE<b>
-    text1 Radioactividad aumenta en Chernóbil y migrantes atrapados en México están en riesgo por COVID-19
-    text2 NO PASA NADA NOTICIAS
-    pretitle NOTICIAS:
+    title <b>NUEVO<b> SHOW
+    text1 Mujeres en el mundo, hoy en la tierra, avances de millenials y que hacer por BLM
+    text2 CON GUIRI URIBE Y STELLA
+    pretitle ESQUINA DE GUIRI:
     highlightColor #00FFFF
 }
 type video
 subtitle 
 month 06
-tags{array} noticias-loimportante,noticias-video
-videoID rrYa9WDysfA
-titlePoster Lo Importante 08.04.20
+tags{array} venus-inspiradoras,noticias-video
+videoID Wv7-mzxhoX4
+titlePoster 
 color #00FFFF
