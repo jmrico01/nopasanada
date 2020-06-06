@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><a href="https://mailchi.mp/3eef86616803/nopasanada" target="_blank" rel="noopener"><em><strong>S&uacute;scribase a nuestro newsletter para recibir Lo Importante todos los d&iacute;as</strong></em></a></p>
+<hr />
+<p><strong>WASHINGTON, DC - 05 DE JUNIO:</strong> La gente camina por la calle 16 despu&eacute;s de que voluntarios, con permiso de la ciudad, pintaran "Black Lives Matter"...</p>
+<p>$image/blm1$</p>
+<p>...En la calle cerca de la Casa Blanca el 5 de junio de 2020 en Washington, DC. Despu&eacute;s de siete d&iacute;as de protestas en DC por la muerte de George Floyd.&nbsp;</p>
+<p style="text-align: center;"><a href="https://www.nopasanada.com/content/202006/urgente-cuatro-oficiales" target="_blank" rel="noopener"><span style="text-decoration: underline;"><strong>LEA M&Aacute;S: Los 4 oficiales que arrestaron a George Floyd est&aacute;n siendo acusados</strong></span></a></p>
+<p>$image/blm2$</p>
+<p>El alcalde de DC, Muriel Bowser, cambi&oacute; el nombre de esa secci&oacute;n de la calle 16 "Black Lives Matter Plaza".</p>
+<p>$image/blm3$</p>
+<p><strong><em>-Tasos Katopodis / Getty Images / AFP</em></strong></p>
+<hr />
+<p style="text-align: center;"><a href="https://www.youtube.com/watch?v=GKa-rojpDKw" target="_blank" rel="noopener">Vea m&aacute;s: Estrena nueva docuserie sobre gastronom&iacute;a costarricense: Com&uacute;n y Silvestre</a></p>
+<p style="text-align: center;">$youtube/GKa-rojpDKw$</p>
+}
+title Black Lives Matter Plaza
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202006/headers/black-lives-matter-plaza.jpg
+    shari /images/202006/06-baile/shari.jpg
+    meme /images/202004/apreciacion-ministro/meme.jpg
+    blm1 /images/202006/black-lives-matter-plaza/blm1.jpg
+    blm2 /images/202006/black-lives-matter-plaza/blm2.jpg
+    blm3 /images/202006/black-lives-matter-plaza/blm3.jpg
+    cake /images/202004/apreciacion-ministro/cake.jpg
+}
+description WASHINGTON, DC - 05 DE JUNIO: La gente camina por la calle 16 después de que voluntarios, con permiso de la ciudad, pintaran "Black Lives Matter" en la calle cerca de la Casa Blanca el 5 de junio de 2020 en Washington, DC. Después de siete días de protestas en DC por la muerte de George Floyd, el alcalde de DC, Muriel Bowser, cambió el nombre de esa sección de la calle 16 "Black Lives Matter Plaza". Tasos Katopodis / Getty Images / AFP
+year 2020
+author NPN Noticias
+featured{kmkv} {
+    title Black Lives Matter Plaza
+    text1 Se inaugura nueva calle cerca de la Casa Blanca como "Black Lives Matter Plaza"
+    text2 POR NPN NOTICIAS
+    pretitle EN FOTOS:
+    highlightColor #FFFF00
+}
+type article
+subtitle Se inaugura nueva calle cerca de la Casa Blanca como "Black Lives Matter Plaza"
+month 06
+tags{array} noticias
+videoID 
+titlePoster 
+color #FFFF00
