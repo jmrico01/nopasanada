@@ -1,10 +1,14 @@
 text {
+<p><em>Photo de <a href="https://www.instagram.com/ojodepez.cr/?hl=es-la">Carlos Soto</a></em></p>
+<hr />
 <p>En esta ocasi&oacute;n mis discernimientos y divagaciones van acompa&ntilde;ados del conocimiento de una gran bailarina costarricense, <a href="https://www.instagram.com/sharidancelover/?hl=es-la">Sharifa Crawford</a> de 28 a&ntilde;os de edad, profesora especializada en t&eacute;cnica de ballet y danza contempor&aacute;nea y &nbsp;productora de obras originales como &ldquo;<a href="https://www.facebook.com/FestivalAfroculturalLimonRoots/posts/1917318208328881/">Hall of Freedom</a>&rdquo; y &ldquo;<a href="https://www.youtube.com/watch?v=1s0OitWeFSg">Negra Soy</a>&rdquo;, adem&aacute;s de ser parte de diversas academias de danza como Place Dancers (San Pedro), Home Studio (Paseo Col&oacute;n) o Cabalz Dance Studio (Coronado).</p>
 <p>$instagram/CAwQVidnc2p$</p>
 <p>A &ldquo;Shari&rdquo; la conoc&iacute; en la Universidad de Costa Rica (UCR), sin haber tenido conversaci&oacute;n alguna con ella, no me daba &ldquo;buena vibra&rdquo;, tal vez ve&iacute;a en ella cualidades parecidas a las m&iacute;as, creo que desde la infancia suelen darme celos aquellas personas di&aacute;fanas, genuinas, que opacan mi rol autoimpuesto de protagonista. Pero desde que tuvimos que trabajar en una pr&aacute;ctica acad&eacute;mica juntos hemos aprendido a valorarnos y aprender uno del otro cada vez que nos reunimos a tomarnos alguito.&nbsp;</p>
 <p>Una de las conversaciones que incit&oacute; esta entrevista, se fundamenta en la cr&iacute;tica al mundo &ldquo;popular&rdquo; del arte, que innegablemente es muchas veces elitista. Shari me expuso c&oacute;mo la danza no es la excepci&oacute;n, hist&oacute;ricamente ha estado direccionada por la pol&iacute;tica y la plata, ambas han sido las directoras de orquesta, que permiten o proh&iacute;ben iniciativas en los teatros de renombre nacional. Para mi asombro, me cont&oacute; c&oacute;mo en una &eacute;poca no muy lejana, la danza urbana estuvo censurada por reglamento en actos oficiales de estos recintos.&nbsp;</p>
 <p>Llegamos a la conclusi&oacute;n de que el baile d&iacute;a a d&iacute;a, en su forma m&aacute;s simple, es la herramienta social que acerca a la gente a la danza profesional m&aacute;s compleja. Bailar lo hacemos todos, desde el chancero hasta el m&eacute;dico, todos tenemos cuerpo, similitudes, diferencias y sobre todo posibilidades. En fin, el baile es el lenguaje l&uacute;dico y universal que como me explicaba Sharifa permite &ldquo;profundizar sobre nosotros mismos, aprender de otras culturas y visualizar otras realidades&rdquo;.</p>
 <p>Esta vez me re&uacute;no con Shar&iacute;fa a trav&eacute;s de una pantalla, pero su sonrisa logra penetrar como siempre mi mirada, y me hace pelar los dientes como en acto reflej&oacute;, creo que los que la conocen saben a lo que me refiero.&nbsp;</p>
+<p>$image/shari$</p>
+<p><em>Photo de <a href="https://www.instagram.com/andrsrangl/?hl=es-la">Andres Rangel</a></em></p>
 <p><strong>RM: &iquest;Shari desde hace cu&aacute;nto bail&aacute;s?</strong></p>
 <p>SC: A m&iacute; siempre me gust&oacute; bailar en la casa desde peque&ntilde;ita, bueno (piensa), pero no lo dimensionaba como ahora. Empec&eacute; a bailar formalmente desde los 8 a&ntilde;os en ballet, realmente mi hermana fue la que comenz&oacute; a ir a las clases y despu&eacute;s yo me le un&iacute; por insistencia de la profesora, adem&aacute;s mi madre tambi&eacute;n era profe de educaci&oacute;n f&iacute;sica en el Castella, entonces ya ven&iacute;amos como con ese background para las artes.&nbsp;</p>
 <p>Por diez a&ntilde;os fui religiosamente a clases de ballet sin chistar, ni reclamar, ni nada. No era que no me gustara, simplemente que no le daba el valor, iba y me gustaba y ya, tampoco era que dec&iacute;a &ldquo;amo el ballet&rdquo; (se r&iacute;e). Ya en la adolescencia en el Liceo Ema Gamboa, en la &ldquo;especial&rdquo; que se le llamaba, hab&iacute;a un casting para coreograf&iacute;a, entonces le dije a mi mam&aacute; que ese d&iacute;a no iba a ir a clase de ballet para poder asistir a la prueba, y casi le da algo (carcajea).</p>
@@ -41,6 +45,7 @@ text4
 customTop 
 media{kmkv} {
     header /images/202006/headers/06-baile.jpg
+    shari /images/202006/06-baile/shari.jpg
     meme /images/202004/apreciacion-ministro/meme.jpg
     cake /images/202004/apreciacion-ministro/cake.jpg
 }
@@ -48,16 +53,16 @@ description Roberto Morales entrevista a la bailarina costarricense, Sharifa Cra
 year 2020
 author Roberto Morales
 featured{kmkv} {
-    title <b>Los 10 trajes del ministro</b>
+    title <b>Sharifa<b> Crawford
     text1 “Trato de enseñarles a conectarse con el cuerpo por medio del baile, herramienta para la vida, para el amor propio”
     text2 POR ROBERTO MORALES
-    pretitle COLUMNA:
+    pretitle Entrevista:
     highlightColor #FFFF00
 }
 type article
 subtitle 
 month 06
-tags{array} noticias-politica,mas
+tags{array} noticias-culturales,mas-arteymusica
 videoID 
 titlePoster 
 color #FFFF00
