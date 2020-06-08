@@ -58,10 +58,10 @@ description Hoy hace dos años Anthony Bourdain tomó su propia vida en un apart
 year 2020
 author Pietro Cercone
 featured{kmkv} {
-    title <b>Anthony Bourdain definió a una generación</b>
-    text1 
+    title Anthony <b>Bourdain<b>
+    text1 Anthony Bourdain definió a una generación
     text2 POR PIETRO CERCONE
-    pretitle NOTAS Y OTRAS COSAS
+    pretitle NOTAS Y OTRAS COSAS:
     highlightColor #FFFF00
 }
 type article
