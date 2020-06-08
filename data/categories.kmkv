@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202006/05-comun-y-silvestre
+    featured{array} /content/202006/anthonybourdain
 }
 other{kmkv} {
     name Other (Internal)
