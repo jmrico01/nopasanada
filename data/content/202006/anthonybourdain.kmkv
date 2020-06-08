@@ -35,10 +35,8 @@ text {
 <hr />
 <p style="text-align: center;"><em>Aqu&iacute; les dejo tres de mis episodios favoritos de Parts Unkown:</em></p>
 <p>$youtube/R4J1seTHAMU$</p>
-<p>&nbsp;</p>
-<p><br />$youtube/1Vum1F3BFkk$</p>
-<p>&nbsp;</p>
-<p><br />$youtube/Yvvvc02tiJ8$</p>
+<p>$youtube/1Vum1F3BFkk$</p>
+<p>$youtube/Yvvvc02tiJ8$</p>
 }
 title <b>Anthony Bourdain definió a una generación</b>
 day 08
@@ -52,7 +50,7 @@ media{kmkv} {
     bourdain2 /images/202006/anthonybourdain/bourdain2.jpg
     bourdain3 /images/202006/anthonybourdain/bourdain3.jpg
     bourdain4 /images/202006/anthonybourdain/bourdain4.jpg
-    header /images/202006/headers/09-adulting-tiempo.jpg
+    header /images/202006/headers/anthonybourdain.jpg
 }
 description Hoy hace dos años Anthony Bourdain tomó su propia vida en un apartamento en Paris. Es la opinion del autor, que su vida y trabajo ayudo a formar la cultura de una generación. | Por Pietro Cercone
 year 2020
