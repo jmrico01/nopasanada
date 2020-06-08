@@ -1,11 +1,11 @@
 opinion{kmkv} {
     name Opinión
-    featured{array} /content/202005/23-lecciones
+    featured{array} /content/202006/09-adulting-tiempo
 }
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202005/have-a-good-trip
+    featured{array} /content/202006/09-adulting-tiempo
     cine{kmkv} {
         name Cine
         featured{array} /content/202005/09-ixcanul
