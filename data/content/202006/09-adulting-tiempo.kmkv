@@ -26,13 +26,17 @@ text3
 text4 
 customTop 
 media{kmkv} {
+    bourdain1 /images/202006/09-adulting-tiempo/bourdain1.jpg
+    bourdain2 /images/202006/09-adulting-tiempo/bourdain2.jpg
+    bourdain3 /images/202006/09-adulting-tiempo/bourdain3.jpg
+    bourdain4 /images/202006/09-adulting-tiempo/bourdain4.jpg
     header /images/202006/headers/09-adulting-tiempo.jpg
 }
-description #adulting: no todo es terrible... la edad te trae algunas buenas revelaciones
+description ¡Hay más tiempo que vida! Dice la leyenda. Pero que no te mientan: descubriste que el tiempo es finito y es un recurso invaluable.
 year 2020
 author Allan Vargas
 featured{kmkv} {
-    title <b>#ADULTING</b>
+    title <b>#Adulting</b>
     text1 Un día sos joven y al siguiente… jurás que el tiempo no te alcanza.
     text2 POR ALLAN VARGAS
     pretitle COLUMNA:
