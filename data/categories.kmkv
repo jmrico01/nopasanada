@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202006/09-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202006/06-baile
+        featured{array} /content/202006/09-pau-dones
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202006/09-adulting-tiempo
+    featured{array} /content/202006/09-pau-dones
 }
 other{kmkv} {
     name Other (Internal)
