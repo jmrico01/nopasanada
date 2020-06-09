@@ -122,16 +122,18 @@ text4 {
 }
 description {
 LO IMPORTANTE DE HOY: 
-España impone la mascarilla obligatoria hasta derrotar "definitivamente" al virus
-
+1. España impone uso de mascarilla hasta derrotar al virus
+2. George Floyd se convirtió en símbolo de la lucha antirracismo
+3. Hace un año empezaron protestas prodemocracia en Hong Kong
+4. Trump califica de montaje caída de manifestante empujado por policías
 }
 year 2020
 author1 No Pasa Nada Noticias y AFP
 author2 No Pasa Nada Noticias y AFP
 author3 No Pasa Noticias y AFP
 featured{kmkv} {
-    title 
-    text1 LO IMPORTANTE 09-06-20: Disparan a un protestante durante manifestación en EEUU, botan estatua en Reino Unido y más...
+    title Uso de <b>mascarilla<b>
+    text1 LO IMPORTANTE 09-06-20: España impone uso de mascarilla hasta derrotar al virus y más...
     text2 CURADAS POR<br>NO PASA NADA NOTICIAS
     pretitle NOTICIAS:
     highlightColor #FFFF00
