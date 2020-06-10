@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202006/06-baile
+        featured{array} /content/202006/09-pau-dones
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202006/09-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202006/09-pau-dones
+        featured{array} /content/202006/10-banksy
     }
     video{kmkv} {
         name Video

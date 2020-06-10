@@ -1,0 +1,40 @@
+text {
+<p>La polic&iacute;a italiana recuper&oacute; la obra robada en 2019 del artista urbano Banksy en homenaje a las v&iacute;ctimas del <a href="https://en.wikipedia.org/wiki/November_2015_Paris_attacks">atentado yihadista de 2015 en el teatro Bataclan de Par&iacute;s</a>, anunciaron este mi&eacute;rcoles fuentes del cuerpo de los carabineros.</p>
+<p>"Encontramos la puerta robada en el Bataclan con una obra de Banksy que representa a una ni&ntilde;a triste", indic&oacute; a la AFP un oficial de los carabineros de Teramo, en el centro de Italia.</p>
+<p>$image/banksy$</p>
+<p>La pintura fue robada en enero de 2019. Seg&uacute;n Reuters, una fuente policial dijo que la puerta fue robada durante la noche del viernes por ladrones en una camioneta. El Bataclan confirm&oacute; el robo el s&aacute;bado por la ma&ntilde;ana.</p>
+<p>La operaci&oacute;n cont&oacute; con la colaboraci&oacute;n de la polic&iacute;a francesa y fue dirigida por la fiscal&iacute;a de la ciudad de L'Aquila, en Abruzos (centro).</p>
+<p>La obra, en homenaje a las 90 personas que murieron en la sala de espect&aacute;culos del Bataclan el 13 de noviembre del 2015, hab&iacute;a sido colocada en una de las puertas de la salida de emergencias.</p>
+<p>"Ilustraremos todos los detalles sobre el hallazgo el jueves durante una conferencia de prensa", precis&oacute; la misma fuente.</p>
+<p>Seg&uacute;n el diario La Repubblica, que cita al fiscal general de L'Aquila, la puerta fue encontrada en una finca de esa regi&oacute;n monta&ntilde;osa en el coraz&oacute;n de Italia.</p>
+<p>La obra, que no estaba firmada, representa a un personaje cabizbajo y de aspecto triste y fue pintada en una de las salidas de emergencia por las que numerosas personas escaparon del atentado perpetrado por el grupo yihadista Estado Isl&aacute;mico (EI) en el que tirotearon indiscriminadamente al p&uacute;blico.</p>
+}
+title Hallan en Italia obra robada de Banksy
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202006/headers/10-banksy.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La obra, en homenaje a las 90 personas que murieron en la sala de espectáculos del Bataclan el 13 de noviembre del 2015, había sido colocada en una de las puertas de la salida de emergencias. La pintura fue robada en enero de 2019.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title obra robada de <b>Banksy<b>
+    text1 Hallan en Italia obra robada de Banksy en homenaje a víctimas del Bataclan en París (carabineros)
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle RECORDANDO:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-culturales,mas-arteymusica
+videoID 
+titlePoster 
+color #FBFF09
