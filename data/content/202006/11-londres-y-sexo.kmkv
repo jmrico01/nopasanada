@@ -1,0 +1,39 @@
+text {
+<p>El gobierno brit&aacute;nico tuvo que defender el martes sus nuevas reglas de distanciamiento f&iacute;sico contra la propagaci&oacute;n del coronavirus, tras denuncias de que la imposibilidad de encontrarse con alguien en un lugar cerrado implica de hecho una "prohibici&oacute;n del sexo".</p>
+<p>El Reino Unido emprendi&oacute; un desconfinamiento gradual el lunes, d&iacute;a en que entraron en vigor las nuevas consignas.&nbsp;</p>
+<p>Estas permiten ahora las reuniones al aire libre en grupos de hasta seis, pero proh&iacute;ben que dos personas que no comparten casa se encuentren en un lugar interior.</p>
+<p>La medida fue denunciada por algunos medios como una "prohibici&oacute;n del sexo" y la etiqueta #sexban comenz&oacute; a ser tendencia en Twitter, donde se bromeaba sobre la autorizaci&oacute;n a mantener relaciones al aire libre pero no en casa.</p>
+<p>El objetivo de todas estas medidas es proteger la salud p&uacute;blica y reducir las tasas de infecci&oacute;n, defendi&oacute; el ministro de vivienda, Simon Clarke, en la radio privada LBC.</p>
+<p>"Es de vital importancia, claramente, que la gente se quede en su casa y no tengamos ning&uacute;n riesgo adicional de transmisi&oacute;n y este es obviamente un paso clave para lograrlo", afirm&oacute;.</p>
+<p>"Es justo decir que el riesgo de transmisi&oacute;n del coronavirus al aire libre es mucho menor que en los espacios interiores", se&ntilde;al&oacute;, pero "obviamente no animamos a la gente a hacer algo as&iacute; afuera, en este momento o en cualquier otro", agreg&oacute; en referencia a las relaciones sexuales.</p>
+<p>Quien sea descubierto infringiendo las reglas se enfrenta a una multa de 100 libras (125 d&oacute;lares, 112 euros), aunque el gobierno se&ntilde;al&oacute; que la polic&iacute;a no tiene poder para entrar en los hogares a menos que se sospeche de una "actividad criminal grave".</p>
+}
+title Londres niega que sus reglas contra el coronavirus sean una "prohición del sexo"
+day 11
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202006/headers/11-londres-y-sexo.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El gobierno británico tuvo que defender el martes sus nuevas reglas de distanciamiento físico contra la propagación del coronavirus, tras denuncias de que la imposibilidad de encontrarse con alguien en un lugar cerrado implica de hecho una "prohibición del sexo".
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title "prohición<br>del <b>sexo"<b>
+    text1 Londres niega que sus reglas contra el coronavirus sean una "prohición del sexo"
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
