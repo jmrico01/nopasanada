@@ -33,13 +33,13 @@ year 2020
 author AFP Y NPN NOTICIAS
 featured{kmkv} {
     title Lo que el viento se llevó
-    text1 La icónica película atrae una ola de criticas
+    text1 La icónica película atrae una ola de críticas
     text2 Por AFP Y NPN NOTICIAS
     pretitle NOTICIA:
     highlightColor #FBFF09
 }
 type article
-subtitle La icónica película atrae una ola de criticas entre protestas raciales.
+subtitle La icónica película atrae una ola de críticas entre protestas raciales.
 month 06
 tags{array} noticias-culturales,mas-cine
 videoID 
