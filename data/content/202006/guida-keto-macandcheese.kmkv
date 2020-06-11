@@ -1,0 +1,72 @@
+text {
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Shakshouka</strong></span></p>
+<p style="text-align: left;"><em><strong>| "Alternativo" - Buena comida para dietas diferentess. | <a href="https://mailchi.mp/nopasanada.com/la_guida" target="_blank" rel="noopener">S&uacute;scribete a La Guida para recibir recetas como estas&nbsp;</a></strong></em></p>
+<hr />
+<p>$image/cheese1$</p>
+<hr />
+<p style="text-align: center;"><strong>"KETO" CORN BREAD:</strong></p>
+<p><strong>Ingredientes:</strong></p>
+<ul>
+<li>170g de mozzarella - US&Eacute; SARGENTO</li>
+<li>40g de parmesano reci&eacute;n cortado</li>
+<li>85g de queso munster&nbsp;</li>
+<li>340g de coliflor&nbsp;</li>
+<li>1 gajo de ajo</li>
+<li>1/2 taza de cebolla&nbsp;</li>
+<li>1/4 taza harina de almendra</li>
+<li>1 taza de leche de almendra</li>
+<li>1.4 lbs de cerdo</li>
+</ul>
+<hr />
+<p><em><strong>Preparacion:</strong></em></p>
+<p><br />1. Pre calentar el horno a 350 grados.</p>
+<p>2. Derretir la mantequilla, una vez maltada a&ntilde;adir en un taz&oacute;n separado el parmesano y la sal.</p>
+<p>3. Cocina la coliflor en una gran pote de agua hidratante hasta que se sienta correctamente como te gusta.</p>
+<p>4. En una olla peque&ntilde;a, comience a freir su cerdo en el aceite de oliva, estacionando con sal y pimienta.</p>
+<p>5. Lleve 3/4 de leche a un simmer desnudo en un peque&ntilde;o saucepano, agregue el parmesano y la mantequilla, agregue la cebolla y el ajo por unos 2 minutos. comience a reproducir la harina y retire constantemente hasta que la mezcla comience a pegarse al fondo del pan.</p>
+<p>6. Haga que la salsa de b&eacute;chamel hierba a reducir y luego reduzca el calor y el simmer, agregue el restante del queso hasta que est&eacute; suave y listo.</p>
+<p>7. Agregue la coliflor y la salsa a una bandeja para hornear y mezcle. luego agregue el restante de la leche al cerdo frito y espese en la grasa y el aceite. mezcle y espese, luego agregue a la bandeja para hornear y mezcle con el resto.</p>
+<p>8. Hornee por 8-10 minutos y deje enfriar por unos 10.</p>
+<hr />
+<p style="text-align: center;"><strong>Vea: Haciendo el c&oacute;ctel de Bruno Mars</strong></p>
+<p><strong>$youtube/9dS3XseOCMs$</strong></p>
+<p>&nbsp;</p>
+}
+title Keto Mac & Cheese
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    cornbread1 /images/202004/alternativo-keto-cornbread/cornbread1.jpg
+    pop /images/202003/receta-diengo-atun/pop.jpg
+    header /images/202006/headers/guida-keto-macandcheese.jpg
+    cornbread /images/202004/alternativo-keto-cornbread/cornbread.jpg
+    pollo1 /images/202003/keto-pollo-frito/pollo1.jpg
+    pollo2 /images/202003/keto-pollo-frito/pollo2.jpg
+    cheese1 /images/202006/guida-keto-macandcheese/cheese1.jpg
+    coliflor /images/202006/guida-keto-macandcheese/coliflor.jpg
+    shakshuka /images/202004/buenobonitobarato-shakshouka/shakshuka.jpg
+    brownies /images/202003/recomendado-dulce-recetascuarentena/brownies.jpg
+    galletasybrownies /images/202003/recomendado-dulce-recetascuarentena/galletasybrownies.jpg
+    galletas /images/202003/recomendado-dulce-recetascuarentena/galletas.jpg
+}
+description Esta es una increíble receta para hacer Keto Mac and Cheese
+year 2020
+author Pietro Cercone
+featured{kmkv} {
+    title Keto Mac & Cheese
+    text1 Cómo hacer Keto Mac & Cheese
+    text2 Por LA GUIDA
+    pretitle ALTERNATIVO
+    highlightColor #FFC7F7
+}
+type article
+subtitle ¡Tienen que probar esta increíble receta de keto mac and cheese!
+month 06
+tags{array} guida
+videoID 
+titlePoster 
+color #FFC7F7

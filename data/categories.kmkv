@@ -39,7 +39,7 @@ guida{kmkv} {
         featured{array} /content/202005/23-restaurantes-expres
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202006/05-comun-y-silvestre
+    featured{array} /content/202006/guida-keto-macandcheese
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202005/07-jugando-con-fuego
