@@ -1,0 +1,36 @@
+text {
+<p>Esta semana en Welcome To Chepe tuvimos un segmento en el cual hablamos sobre el caso de Aldesa, haciendo referencia tanto a la deuda por 200 millones de d&oacute;lares, como a las personas investigadas al respecto y que hoy est&aacute;n en el gobierno. Luego de subir el video recibimos un fuerte mensaje de "enojo" y "reclamo" por haber dicho que la compa&ntilde;&iacute;a "perdi&oacute;" el dinero cuando realmente lo "debe." Esto es una diferencia de s&iacute;ntesis, que s&iacute; admitimos es importante corregir... El problema es que Aldesa podr&iacute;a quedar debiendo gran parte de ese dinero indefinidamente. Aqu&iacute; dejamos nuestra aclaraci&oacute;n sobre el tema.</p>
+<hr />
+<p><strong>Productor Ejecutivo:</strong> Pietro Cercone</p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p><strong>Productors:</strong> Kenneth Bald&iacute;</p>
+<p><strong>Editor de video:</strong> Alejandro Mederas</p>
+<p><strong>Host:</strong> Kenneth Bald&iacute;</p>
+}
+title Aclaración: Aldesa no “perdió” $200 millones.... Los "debe" | WELCOME TO CHEPE
+day 11
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202006/headers/11-welcome-to-chepe.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Esta semana en Welcome To Chepe tuvimos un segmento en el cual hablamos sobre el caso de Aldesa, haciendo referencia tanto a la deuda por 200 millones de dólares, como a las personas investigadas al respecto y que hoy están en el gobierno. 
+year 2020
+featured{kmkv} {
+    title <b>Aldesa<b>
+    text1 Aclaración: Aldesa no “perdió” $200 millones.... Los "debe"
+    text2 CON KENNETH BALDÍ
+    pretitle WELCOME TO CHEPE:
+    highlightColor #00FFFF
+}
+type video
+subtitle 
+month 06
+tags{array} noticias-video,noticias-politica
+videoID 1-ImaN6Sqtg
+titlePoster 
+color #00FFFF

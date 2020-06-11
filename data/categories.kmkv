@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202004/canada-tiroteo
+        featured{array} /content/202006/11-welcome-to-chepe
     }
     loimportante{kmkv} {
         name Lo Importante
@@ -71,14 +71,14 @@ noticias{kmkv} {
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202006/06-esquina-de-guiri
+        featured{array} /content/202006/11-esquina-de-guiri
     }
 }
 coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202006/11-lo-importante
+    featured{array} /content/202006/11-esquina-de-guiri
 }
 other{kmkv} {
     name Other (Internal)
