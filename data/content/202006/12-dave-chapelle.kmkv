@@ -1,0 +1,34 @@
+text {
+<p>Uno de los mejores comediantes de toda la historia, Dave Chapelle, sorprendi&oacute; este viernes con un nuevo especial de Netflix '8:46'. El especial esta disponible para ser visto en YouTube, Instagram y Netflix. Este especial de Dave Chapelle fue grabado como uno de los primeros conciertos p&uacute;blicos en Norte America y se enfoca en la situaci&oacute;n actual que se esta viviendo en Estados Unidos. &nbsp;</p>
+<p>Dave tuvo esto que decir: "Normalmente no te mostrar&iacute;a algo tan poco refinado, espero que entiendas."</p>
+<p>$youtube/3tR6mKcBbT4$</p>
+}
+title Dave Chapelle estrena nuevo especial de comedia
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202006/headers/12-dave-chapelle.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Dave tuvo esto que decir: "Normalmente no te mostraría algo tan poco refinado, espero que entiendas."
+year 2020
+author NPN NOTICIAS
+featured{kmkv} {
+    title Dave <b>Chapelle<b>
+    text1 Dave Chapelle, sorprendió este viernes con un nuevo especial de Netflix '8:46'
+    text2 NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle En este nuevo especial de Dave Chappelle, el comediante dejó de hacer bromas.
+month 06
+tags{array} noticias-culturales,mas-cine
+videoID 
+titlePoster 
+color #FBFF09

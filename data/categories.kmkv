@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202006/12-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202006/10-banksy
+        featured{array} /content/202006/12-dave-chapelle
     }
     video{kmkv} {
         name Video
