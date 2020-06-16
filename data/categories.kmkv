@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202006/11-welcome-to-chepe
+        featured{array} /content/202006/16-mary-trump
     }
     loimportante{kmkv} {
         name Lo Importante
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202006/16-lo-importante
+    featured{array} /content/202006/16-mary-trump
 }
 other{kmkv} {
     name Other (Internal)
