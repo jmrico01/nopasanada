@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202006/17-lo-importante
+        featured{array} /content/202006/18-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202006/17-hermano-de-george-floyd
+    featured{array} /content/202006/18-lo-importante
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202006/12-dave-chapelle
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202006/17-hermano-de-george-floyd
+    featured{array} /content/202006/18-lo-importante
 }
 other{kmkv} {
     name Other (Internal)
