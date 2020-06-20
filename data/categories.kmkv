@@ -36,10 +36,10 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202005/23-restaurantes-expres
+        featured{array} /content/202006/comun-y-silvestre-parte-2
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202006/guida-keto-macandcheese
+    featured{array} /content/202006/comun-y-silvestre-parte-2
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202005/07-jugando-con-fuego
