@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202006/19-lo-importante
+    featured{array} /content/202006/comun-y-silvestre-parte-2
 }
 other{kmkv} {
     name Other (Internal)
