@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202006/23-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202006/12-dave-chapelle
+        featured{array} /content/202006/23-real-madrid
     }
     video{kmkv} {
         name Video
@@ -116,8 +116,8 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/201912/05-pasaen
+        featured{array} /content/202006/23-real-madrid
     }
     displayOrder{array} 
-    featured{array} /content/202005/051220-ludi-mike-tyson-im-back
+    featured{array} /content/202006/23-real-madrid
 }
