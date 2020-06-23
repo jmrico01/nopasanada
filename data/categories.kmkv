@@ -36,7 +36,7 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202006/comun-y-silvestre-parte-2
+        featured{array} /content/202006/nueva-salsa-costaria
     }
     displayOrder{array} comida, bebidas, recomendado
     featured{array} /content/202006/comun-y-silvestre-parte-2
