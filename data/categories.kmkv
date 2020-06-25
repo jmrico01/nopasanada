@@ -71,14 +71,14 @@ noticias{kmkv} {
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202006/11-esquina-de-guiri
+        featured{array} /content/202006/25-lo-importante-covid-panico
     }
 }
 coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202006/25-lo-importante
+    featured{array} /content/202006/25-lo-importante-covid-panico
 }
 other{kmkv} {
     name Other (Internal)

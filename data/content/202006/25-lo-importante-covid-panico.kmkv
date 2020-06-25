@@ -1,0 +1,35 @@
+text {
+<p>En Lo Importante de hoy vemos c&oacute;mo esta afectando el coronavirus a comunidades indigenas en Amazonia, el fracaso del rally de Trump en Tulsa provocado en parte por adolescentes en TikTok y finalmente hablamos sobre como miedo afecta como estamos reaccionando al COVID-19.</p>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Productor Ejecutivo:</strong> Pietro Cercone</p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p><strong>Host:</strong> Pietro Cercone</p>
+}
+title  LO IMPORTANTE: Coronavirus, pánico, mascaras, Trump y TikTok
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202006/headers/25-lo-importante-covid-panico.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En Lo Importante de hoy vemos cómo esta afectando el coronavirus a comunidades indigenas en Amazonia, el fracaso del rally de Trump en Tulsa provocado en parte por adolescentes en TikTok  y finalmente hablamos sobre como miedo afecta como estamos reaccionando al COVID-19.
+year 2020
+featured{kmkv} {
+    title COVID-19, PANICO, MÁSCARAS Y MÁS...
+    text1 Hablamos sobre como miedo afecta cómo estamos reaccionando al COVID-19 y más...
+    text2 CON PIETRO CERCONE
+    pretitle LO IMPORTANTE:
+    highlightColor #00FFFF
+}
+type video
+subtitle 
+month 06
+tags{array} noticias-video,noticias-loimportante
+videoID 5ntGiz79BEQ
+titlePoster 
+color #00FFFF
