@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202006/25-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202006/23-real-madrid
+        featured{array} /content/202006/25-disney
     }
     video{kmkv} {
         name Video

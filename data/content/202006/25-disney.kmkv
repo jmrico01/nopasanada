@@ -1,0 +1,35 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Disney inform&oacute; que pospondr&aacute; la reapertura de su parque por la alarmante alza en casos de COVID-19 en California. La empresa ten&iacute;a previsto abrir Disneyland y Disney California Adventure el 17 de julio.</p>
+<p>Disney explic&oacute; en un comunicado que las autoridades californianas no emitir&aacute;n las directrices de reapertura antes del 4 de julio, lo que dejar&iacute;a a los parques tem&aacute;ticos, hoteles y tiendas con tiempo insuficiente para reiniciar como se propuso.</p>
+<p>Otros parques tem&aacute;ticos de Disney abrieron como Hong Kong y Shangh&aacute;i. Tokyo Disney tiene previsto reabrir el 1 de julio, mientras que el de Par&iacute;s y el complejo de parques en Florida deben arrancar a medidos de julio.</p>
+}
+title Mickey en cuarentena: Reapertura de Disneyland se ha retrasado indefinidamente
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202006/headers/25-disney.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Disney informó que pospondrá la reapertura de su parque por la alarmante alza en casos de COVID-19 en California. La empresa tenía previsto abrir Disneyland y Disney California Adventure el 17 de julio.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title Mickey en cuarentena
+    text1 Reapertura de Disneyland se ha retrasado indefinidamente
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-culturales
+videoID 
+titlePoster 
+color #FBFF09
