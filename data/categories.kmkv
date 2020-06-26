@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202006/25-lo-importante
+        featured{array} /content/202006/26-lo-importante
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202006/25-eeuu-covid
+    featured{array} /content/202006/26-lo-importante
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202006/25-disney
