@@ -36,10 +36,10 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202006/nueva-salsa-costaria
+        featured{array} /content/202006/3-opciones-alitas-keto-costarica-laguida
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202006/comun-y-silvestre-parte-2
+    featured{array} /content/202006/3-opciones-alitas-keto-costarica-laguida
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202005/07-jugando-con-fuego
@@ -50,7 +50,7 @@ guida{kmkv} {
     }
     recomendado{kmkv} {
         name Recomendado
-        featured{array} /content/202005/07-jugando-con-fuego
+        featured{array} /content/202006/3-opciones-alitas-keto-costarica-laguida
     }
 }
 noticias{kmkv} {
@@ -116,7 +116,7 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202006/23-real-madrid
+        featured{array} /content/202006/3-opciones-alitas-keto-costarica-laguida
     }
     displayOrder{array} 
     featured{array} /content/202006/23-real-madrid
