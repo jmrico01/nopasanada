@@ -1,0 +1,42 @@
+text {
+<p>India prohibi&oacute; el lunes 59 aplicaciones chinas, entre ellas TikTok y WeChat, alegando preocupaciones sobre su seguridad nacional y sobre el respeto a la privacidad, unas semanas despu&eacute;s del enfrentamiento entre grupos de militares de las dos potencias nucleares en la frontera himalaya.</p>
+<p>"El gobierno indio ha decidido no autorizar m&aacute;s el uso de ciertas aplicaciones [...]. Esta decisi&oacute;n busca garantizar la seguridad y la soberan&iacute;a del ciberespacio indio", declar&oacute; el ministerio de Tecnolog&iacute;as de la Informaci&oacute;n en un comunicado.</p>
+<p>Estas aplicaciones "se libran a actividades [...] que perjudican a la soberan&iacute;a y la integridad de India, a la defensa de India, a la seguridad del Estado y al orden p&uacute;blico", explic&oacute;.</p>
+<p>Seg&uacute;n el comunicado, esta medida se tom&oacute; despu&eacute;s de que el ministerio recibiera varias denuncias por supuesto robo de datos y violaciones de las reglas en materia de respeto a la vida privada.</p>
+<p>Por el momento, se desconoce la fecha en la que se har&aacute; efectiva esta prohibici&oacute;n.</p>
+<p>Las relaciones entre los dos pa&iacute;ses m&aacute;s poblados del mundo se han tensado desde la muerte de 20 soldados indios a mediados de junio en combates cuerpo a cuerpo con soldados chinos a lo largo de su frontera, en la que libraron una guerra en 1962.</p>
+<p>Nueva Delhi acus&oacute; a China de haber entrado en su territorio, una acusaci&oacute;n que Pek&iacute;n rechaza. Miles de soldados est&aacute;n en estado de alerta de ambos lados, incluso si ambas partes afirman que intentan resolver el conflicto a trav&eacute;s del di&aacute;logo.</p>
+<p>La muerte de los soldados indios suscit&oacute; una ola de indignaci&oacute;n en el pa&iacute;s, que desencaden&oacute; llamados a prohibir empresas chinas.</p>
+<p>Los tel&eacute;fonos m&oacute;viles chinos representan un 65% del mercado indio, y las aplicaciones de videos como TikTok y Helo son muy populares entre los j&oacute;venes.</p>
+<p>El n&uacute;mero de usuarios de TikTok en India ronda los 120 millones, lo que le convierte en el mayor mercado internacional de esta aplicaci&oacute;n.</p>
+<p>Entre las otras plataformas prohibidas figuran Weibo (el equivalente chino de Twitter) o el juego Clash of Kings.</p>
+}
+title India prohíbe 59 aplicaciones chinas, como TikTok y WeChat, por motivos de "seguridad"
+day 30
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202006/headers/30-tiktok-china.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description India prohibió el lunes 59 aplicaciones chinas, entre ellas TikTok y WeChat, alegando preocupaciones sobre su seguridad nacional y sobre el respeto a la privacidad, unas semanas después del enfrentamiento entre grupos de militares de las dos potencias nucleares en la frontera himalaya.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title India <b>prohíbe TikTok<b>
+    text1 India prohíbe TikTok por motivos de "seguridad"
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-culturales
+videoID 
+titlePoster 
+color #FBFF09
