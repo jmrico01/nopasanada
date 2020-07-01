@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202006/30-tiktok-china
+    featured{array} /content/202007/01-harvey-weinstein
 }
 other{kmkv} {
     name Other (Internal)
