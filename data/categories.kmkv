@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202007/01-lo-importante
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202006/30-tiktok-china
+        featured{array} /content/202007/01-harvey-weinstein
     }
     video{kmkv} {
         name Video
