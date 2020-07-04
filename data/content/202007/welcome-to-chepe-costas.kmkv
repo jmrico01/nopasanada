@@ -1,0 +1,35 @@
+text {
+<p>En Lo Importante de hoy hablamos sobre c&oacute;mo han surgido los casos de Covid-19 en la poblaci&oacute;n millenial. Luego, sobre un acuerdo el que le otorgar&iacute;a a las v&iacute;ctimas de Harvey Weinstein casi 19 millones de d&oacute;lares y finalmente el arresto de Ghislaine M&aacute;ximo , la mano derecha de Jeffrey Epstein.</p>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Productor Ejecutivo:</strong> Pietro Cercone</p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p><strong>Host:</strong> Pietro Cercone</p>
+}
+title LO IMPORTANTE: Weinstein, Epstein, Ghislaine Maxwell y el COVID en Millenials
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/03-lo-importante-epstein.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En Lo Importante de hoy hablamos sobre cómo han surgido los casos de Covid-19 en la población millenial y más...
+year 2020
+featured{kmkv} {
+    title <b>La crisis costera de Costa Rica, récords de COVID y más<b>
+    text1  Récords de COVID-19 amenazan limites de CCSS y los cierres del BAC
+    text2 CON KENNETH BALDÍ
+    pretitle WELCOME TO CHEPE:
+    highlightColor #00FFFF
+}
+type video
+subtitle 
+month 07
+tags{array} noticias-video,noticias-loimportante
+videoID LZH_1fO_Ru4
+titlePoster 
+color #00FFFF
