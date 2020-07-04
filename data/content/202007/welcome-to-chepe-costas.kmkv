@@ -1,12 +1,12 @@
 text {
-<p>En Lo Importante de hoy hablamos sobre c&oacute;mo han surgido los casos de Covid-19 en la poblaci&oacute;n millenial. Luego, sobre un acuerdo el que le otorgar&iacute;a a las v&iacute;ctimas de Harvey Weinstein casi 19 millones de d&oacute;lares y finalmente el arresto de Ghislaine M&aacute;ximo , la mano derecha de Jeffrey Epstein.</p>
+<p>En Lo Importante de hoy hablamos de la aguda crisis que se esta viviendo en las comunidades costeras de Costa Rica por la pandemia del Coronavirus, adem&aacute;s c&oacute;mo los nuevos records de COVID-19 estan amenazando las capacidades de los hospitales de la CCSS y adem&aacute;s los cierres y despidos que realiz&oacute; el Banco Credomatic de Costa Rica esta semana.</p>
 <p>&nbsp;</p>
 <hr />
 <p><strong>Productor Ejecutivo:</strong> Pietro Cercone</p>
 <p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
-<p><strong>Host:</strong> Pietro Cercone</p>
+<p><strong>Host:</strong> Kenneth Baldi</p>
 }
-title LO IMPORTANTE: Weinstein, Epstein, Ghislaine Maxwell y el COVID en Millenials
+title La crisis costera de Costa Rica, récords de COVID y más
 day 04
 text1 
 text2 
@@ -14,10 +14,10 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202007/headers/03-lo-importante-epstein.jpg
+    header /images/202007/headers/welcome-to-chepe-costas.jpg
     poster /images/201912/posters/17-solo-lo-importante-video.jpg
 }
-description En Lo Importante de hoy hablamos sobre cómo han surgido los casos de Covid-19 en la población millenial y más...
+description En Lo Importante de hoy hablamos de la aguda crisis que se esta viviendo en las comunidades costeras de Costa Rica por la pandemia del Coronavirus, además cómo los nuevos records de COVID-19 estan amenazando las capacidades de los hospitales de la CCSS y además los cierres y despidos que realizó el Banco Credomatic de Costa Rica esta semana.
 year 2020
 featured{kmkv} {
     title <b>La crisis costera de Costa Rica, récords de COVID y más<b>
@@ -27,9 +27,9 @@ featured{kmkv} {
     highlightColor #00FFFF
 }
 type video
-subtitle 
+subtitle Welcome To Chepe: 04/07/20
 month 07
 tags{array} noticias-video,noticias-loimportante
-videoID LZH_1fO_Ru4
+videoID VrB1In0pA90
 titlePoster 
 color #00FFFF
