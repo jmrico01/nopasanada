@@ -1,0 +1,41 @@
+text {
+<p>La comunidad de Jaco y muchas otras como esta, han sido de las m&aacute;s afectadas por la pandemia del COVID-19. La desaparici&oacute;n del turismo ha destruido el mayor y en algunos casos &uacute;nico ingreso de estas zonas. Adem&aacute;s las restricciones impuestas por el ministerio de salud han limitado el acceso a las playas lo cual ha resultado en que la reactivaci&oacute;n econ&oacute;mica del sector sea pr&aacute;cticamente imposible. Esta decisi&oacute;n ha sido divisiva. Algunas personas se encuentran a favor de las restricciones, argumentando por la salud de las comunidades. Otros han protestado a favor de la reapertura, esperando ver ingresos econ&oacute;micos. Estas son sus historias.&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Productor Ejecutivo y Director:</strong> Pietro Cercone</p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p><strong>Productor y periodista:</strong> Kenneth Baldi</p>
+}
+title La crisis costera de Costa Rica por la pandemia del COVID-19
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/frente-al-mar-crisis-costera-costarica.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description {
+Un reportaje especial de NO PASA NADA sobre la aguda crisis que se esta viviendo en las zonas costeras de CostaRica. La comunidad de Jaco y muchas otras como esta, han sido de las más afectadas por la pandemia del COVID19. La desaparición del turismo ha destruido el mayor y en algunos casos único ingreso de estas zonas. 
+
+Además las restricciones impuestas por el ministerio de salud han limitado el acceso a las playas lo cual ha resultado en que la reactivación económica del sector sea prácticamente imposible. Esta decisión ha sido divisiva. 
+
+Algunas personas se encuentran a favor de las restricciones, argumentando por la salud de las comunidades. Otros han protestado a favor de la reapertura, esperando ver ingresos económicos. Estas son sus historias. 
+}
+year 2020
+featured{kmkv} {
+    title <b>La crisis costera de Costa Rica por la pandemia del COVID-19<b>
+    text1 Un reportaje especial de NO PASA NADA
+    text2 
+    pretitle FRENTE AL MAR:
+    highlightColor #00FFFF
+}
+type video
+subtitle Un reportaje especial de NO PASA NADA
+month 07
+tags{array} noticias-video,noticias-loimportante
+videoID lLtmFrXBEU0
+titlePoster 
+color #00FFFF
