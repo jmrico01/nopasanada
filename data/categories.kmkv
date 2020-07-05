@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/03-lo-importante-epstein
+    featured{array} /content/202007/frente-al-mar-crisis-costera-costarica
 }
 other{kmkv} {
     name Other (Internal)
