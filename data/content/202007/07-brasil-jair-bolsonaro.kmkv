@@ -1,0 +1,46 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El presidente de Brasil, Jair Bolsonaro, se someti&oacute; este lunes a un test por sospechas de coronavirus, cuyos resultados saldr&aacute;n este martes, inform&oacute; su oficina de prensa.</p>
+<p>"El presidente presenta, en este momento, buen estado de salud y est&aacute; en su residencia", se&ntilde;ala en un comunicado, sin dar m&aacute;s detalles.</p>
+<p>Seg&uacute;n la cadena CNN Brasil, Bolsonaro, un esc&eacute;ptico de la pandemia, le cont&oacute; a uno de sus reporteros que est&aacute; con algunos s&iacute;ntomas del coronavirus, entre ellos 38&ordm; de fiebre, y que se hizo en el Hospital de las Fuerzas Armadas una radiograf&iacute;a de los pulmones.</p>
+<p>Tambi&eacute;n le dijo que est&aacute; tomando hidroxicloroquina de manera preventiva.</p>
+<p>En un video grabado por uno de sus seguidores con los que suele hablar a las puertas de su residencia oficial en Brasilia, el mandatario, con una m&aacute;scara blanca, dijo que acababa de volver del hospital, donde se hizo una "placa de pulm&oacute;n".</p>
+<p>"Est&aacute; limpio el pulm&oacute;n, &iquest;de acuerdo? Voy a hacer un test de covid en un rato, pero est&aacute; todo bien", declar&oacute; tras advertir que no pod&iacute;a acercarse mucho a sus simpatizantes.</p>
+<p>Seg&uacute;n los medios brasile&ntilde;os, el mandatario habr&iacute;a cancelado, de manera preventiva, sus compromisos oficiales de esta semana.</p>
+<p>En su agenda para este martes, figura una reuni&oacute;n con el ministro de la Secretar&iacute;a de Gobierno, Luiz Eduardo Ramos, por la tarde.</p>
+<p>El mandatario, de 65 a&ntilde;os, ya se hizo anteriormente tres test para detectar el coronavirus. En mayo, fue obligado por la Corte Suprema a entregar los resultados, que dieron negativo.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Desde el inicio de la pandemia, Bolsonaro ha minimizado la enfermedad y participado en varios eventos p&uacute;blicos sin usar mascarilla, adem&aacute;s de criticar las medidas de aislamiento social implementadas en varios estados.</p>
+<p>El s&aacute;bado, Bolsonaro public&oacute; fotos en las redes sociales en las que se lo ve con el rostro descubierto junto a varios ministros y al embajador de Washington en Brasilia, durante un almuerzo de celebraci&oacute;n del D&iacute;a de la Independencia de Estados Unidos.</p>
+<p>Y este lunes vet&oacute; otros dos art&iacute;culos de la ley sobre el uso de mascarillas en lugares p&uacute;blicos para enfrentar la pandemia en Brasil, segundo pa&iacute;s en n&uacute;mero de muertos y de casos confirmados, despu&eacute;s de Estados Unidos.</p>
+<p>Seg&uacute;n el &uacute;ltimo balance oficial, de este lunes, 1,6 millones de personas fueron contaminadas y 65.487 murieron de covid-19 en Brasil.</p>
+}
+title Bolsonaro dio positivo en prueba de COVID-19
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/07-brasil-jair-bolsonaro.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El presidente de Brasil, Jair Bolsonaro, se sometió este lunes a un test por sospechas de coronavirus, cuyos resultados saldrán este martes, informó su oficina de prensa.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title Bolsonaro y coronavirus
+    text1 Bolsonaro dio positivo en prueba de COVID-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-politica,noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
