@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202007/07-peste-bubonica-china
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202007/01-harvey-weinstein
+        featured{array} /content/202007/07-johnny-depp
     }
     video{kmkv} {
         name Video
