@@ -1,0 +1,45 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El gobierno regional catal&aacute;n anunci&oacute; este martes que endurecer&aacute; el uso obligatorio de la mascarilla, incluso cuando se mantenga la distancia interpersonal, tras un rebrote que preocupa "mucho" a las autoridades sanitarias espa&ntilde;olas y oblig&oacute; a aislar a 200.000 personas.</p>
+<p>"La voluntad es que siempre sea obligatorio el uso de la mascarilla, m&aacute;s all&aacute; de la distancia entre personas", dijo en rueda de prensa en Barcelona la portavoz del ejecutivo regional, Meritxell Bud&oacute;.</p>
+<p>Actualmente, el uso de la mascarilla es obligatorio en toda Espa&ntilde;a siempre que no pueda mantenerse una distancia interpersonal de 1,5 metros, as&iacute; como en el transporte p&uacute;blico.</p>
+<p>Las autoridades regionales, que el s&aacute;bado aislaron a 200.000 habitantes en los alrededores de la ciudad de L&eacute;rida (150 km al oeste de Barcelona) por un rebrote con cientos de contagios, prev&eacute;n extender esta obligatoriedad.</p>
+<p>"Hemos podido ver ciertas actitudes de relajamiento en el uso de las mascarillas (...), entendemos que quiz&aacute;s debemos ir un poco m&aacute;s all&aacute;", dijo Bud&oacute;.</p>
+<p>La medida y los detalles de su aplicaci&oacute;n deben aprobarse en una reuni&oacute;n del servicio de protecci&oacute;n civil prevista para el mi&eacute;rcoles, explic&oacute;.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El anuncio llega tras el confinamiento de 200.000 personas de una comarca alrededor de L&eacute;rida, donde desde comienzos de junio se detectaron m&aacute;s de 1.000 contagios. Seg&uacute;n los datos regionales, hubo 64 casos m&aacute;s en 24 horas.</p>
+<p>"Nos est&aacute;n preocupando los brotes de L&eacute;rida, nos est&aacute;n preocupando mucho", advirti&oacute; el lunes el director del centro de emergencias sanitarias espa&ntilde;ol, Fernando Sim&oacute;n.</p>
+<p>Otra comarca en Galicia (noroeste), con 70.000 habitantes, tambi&eacute;n est&aacute; aislada perimetralmente, con sus accesos cerrados, pero el volumen de casos all&iacute; apenas supera el centenar.</p>
+<p>El brote en Catalu&ntilde;a, donde los independentistas en el poder hab&iacute;an sido muy cr&iacute;ticos con la gesti&oacute;n nacional de la pandemia, despert&oacute; dudas sobre el sistema de detecci&oacute;n de contagios implementado en la regi&oacute;n, con competencias en sanidad.</p>
+<p>La portavoz del gobierno catal&aacute;n defendi&oacute; su gesti&oacute;n pero reconoci&oacute; que "se est&aacute; replanteando de qu&eacute; manera se puede hacer m&aacute;s efectivo el sistema de rastreo de contactos".</p>
+<p>Con m&aacute;s de 28.300 fallecidos, Espa&ntilde;a es uno de los pa&iacute;ses m&aacute;s castigados por el coronavirus en Europa. Desde mediados de marzo hasta el 21 de junio, el gobierno aplic&oacute; uno de los confinamientos m&aacute;s estrictos del mundo.</p>
+}
+title Cataluña reforzará uso obligatorio de mascarilla tras rebrote
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/07-mascarilla-cataluna.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El gobierno regional catalán anunció este martes que endurecerá el uso obligatorio de la mascarilla, incluso cuando se mantenga la distancia interpersonal, tras un rebrote que preocupa "mucho" a las autoridades sanitarias españolas y obligó a aislar a 200.000 personas.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title uso obligatorio <b>de mascarilla<b>
+    text1 Cataluña reforzará uso obligatorio de mascarilla tras rebrote
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} mas-saludyciencia,noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
