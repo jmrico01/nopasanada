@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202007/07-peste-bubonica-china
+        featured{array} /content/202007/08-eeuu-y-oms
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/07-brasil-jair-bolsonaro
+        featured{array} /content/202007/08-eeuu-y-oms
     }
     loimportante{kmkv} {
         name Lo Importante

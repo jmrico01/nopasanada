@@ -1,0 +1,37 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>En medio de la crisis sanitaria que ha obligado varias zonas del sur y el oeste de Estados Unidos a dar marcha atr&aacute;s en su desconfinamiento, Washington inici&oacute; este martes la retirada formal del pa&iacute;s de la OMS, materializando las reiteradas amenazas del presidente Donald Trump.&nbsp;</p>
+<p>El mandatario acusa a la OMS de haber encubierto la gravedad de la pandemia y de tener posiciones muy cercanas a China, pa&iacute;s al que tambi&eacute;n responsabiliza de su propagaci&oacute;n.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Estados Unidos, que registr&oacute; este martes un nuevo r&eacute;cord de 60.000 contagios en 24 horas, es el mayor donante de la OMS y su salida supone un duro golpe para el funcionamiento de la organizaci&oacute;n, que perder&aacute; unos 400 millones de d&oacute;lares anuales.</p>
+<p>La retirada ser&aacute; efectiva en un a&ntilde;o, el 6 de julio de 2021. Pero Joe Biden, el rival dem&oacute;crata de Trump en las presidenciales de noviembre, asegur&oacute; que, si es elegido, mantendr&aacute; en el organismo a Estados Unidos, el pa&iacute;s m&aacute;s golpeado por la covid-19, con casi tres millones de contagiados, entre ellos 131.362 muertos.&nbsp;</p>
+}
+title EEUU inició su retiro de la Organización Mundial de la Salud
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/08-eeuu-y-oms.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description En medio de la crisis sanitaria que ha obligado varias zonas del sur y el oeste de Estados Unidos a dar marcha atrás en su desconfinamiento, Washington inició este martes la retirada formal del país de la OMS, materializando las reiteradas amenazas del presidente Donald Trump. 
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title EEUU y OMS
+    text1 EEUU inició su retiro de la Organización Mundial de la Salud
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
