@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Las lluvias torrenciales continuaron el mi&eacute;rcoles en el centro de Jap&oacute;n y las autoridades contabilizaban al menos 54 muertes por las inundaciones y deslizamientos de tierra, principalmente en el suroeste.</p>
+<p>Las fuertes lluvias que comenzaron la madrugada del s&aacute;bado en la isla de Kyushu ya han causado devastaci&oacute;n en la franja suroeste de Jap&oacute;n.</p>
+<p>El frente del mal tiempo comenz&oacute; a desplazarse y el mi&eacute;rcoles por la ma&ntilde;ana la Agencia Meteorol&oacute;gica de Jap&oacute;n (JMA) emiti&oacute; su advertencia de nivel m&aacute;s alto para las prefecturas de Gifu y Nagano, en el centro.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"En estas &aacute;reas, las fuertes lluvias est&aacute;n en un nivel sin precedentes", dijo un funcionario de la JMA. "Especialmente en &aacute;reas designadas como de alto riesgo por deslizamientos de tierra e inundaciones, la posibilidad es extremadamente alta de que alg&uacute;n tipo de desastre ya est&eacute; ocurriendo", advirti&oacute;.</p>
+<p>"Es una situaci&oacute;n en la que es necesario hacer todo lo posible para proteger vidas", a&ntilde;adi&oacute;.</p>
+<p>Al menos 80.000 rescatistas ya han sido desplegados en un esfuerzo desesperado por alcanzar a los sobrevivientes varados por inundaciones y deslizamientos de tierra.</p>
+<p>El martes por la noche, el primer ministro, Shinzo Abe, se comprometi&oacute; a duplicar los 10.000 efectivos militares desplegados en el esfuerzo de rescate.</p>
+<p>La Agencia de Manejo de Incendios y Desastres del gobierno dijo que al menos 54 personas hab&iacute;an muerto, otras cuatro posiblemente hab&iacute;an fallecido y 14 estaban consideradas desaparecidas</p>
+<p>En Kyushu las lluvias hab&iacute;an pr&aacute;cticamente cesado el mi&eacute;rcoles por la ma&ntilde;ana, dejando a los residentes de luto y tratando de medir la magnitud de los da&ntilde;os.</p>
+}
+title Al menos 54 muertos por las inundaciones en Japón
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/08-inundaciones-en-japon.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Las lluvias torrenciales continuaron el miércoles en el centro de Japón y las autoridades contabilizaban al menos 54 muertes por las inundaciones y deslizamientos de tierra, principalmente en el suroeste.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>las inundaciones<b> en Japón
+    text1 Al menos 54 muertos por las inundaciones en Japón
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
