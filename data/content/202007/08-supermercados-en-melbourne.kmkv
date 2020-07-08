@@ -1,0 +1,45 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Los estantes de los supermercados de Melbourne, la segunda ciudad m&aacute;s grande de Australia, fueron vaciados el mi&eacute;rcoles, a pocas horas de la entrada en vigor de nuevas medidas de confinamiento.</p>
+<p>M&aacute;s de cinco millones de habitantes recibieron el martes la orden de confinarse nuevamente por seis semanas a partir de la medianoche, en la noche de mi&eacute;rcoles a jueves.</p>
+<p>La epidemia de coronavirus resurgi&oacute; en los &uacute;ltimos d&iacute;as en Melbourne con un promedio superior a los cien casos adicionales por d&iacute;a.</p>
+<p>En las &uacute;ltimas 24 horas se registraron 134 infecciones, una cifra m&iacute;nima en comparaci&oacute;n con las decenas de miles de personas infectadas en los pa&iacute;ses m&aacute;s afectados, como Estados Unidos o Brasil.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Sin embargo, para las autoridades australianas se trata de un brote en este pa&iacute;s que parec&iacute;a haber logrado contener la epidemia de covid-19.</p>
+<p>El n&uacute;mero uno de los supermercados en Australia, Woolworth, decidi&oacute; volver a racionar sus ventas de pasta, verduras y az&uacute;cares.</p>
+<p>Los restaurantes y caf&eacute;s s&oacute;lo podr&aacute;n servir comida para llevar, mientras que los gimnasios y cines se ven obligados a cerrar de nuevo.</p>
+<p>Los residentes deber&aacute;n permanecer en sus casas, salvo por razones profesionales, para hacer ejercicio f&iacute;sico, acudir a citas m&eacute;dicas o comprar productos de primera necesidad.&nbsp;</p>
+<p>Las autoridades de salud explicaron que hab&iacute;an establecido un v&iacute;nculo entre muchos casos de coronavirus en Melbourne y los hoteles en los que los australianos, que regresaban del extranjero, eran puestos en cuarentena.</p>
+<p>Los medios de comunicaci&oacute;n informaron que los agentes de seguridad violaron las normas vigentes para luchar contra la contaminaci&oacute;n, en particular teniendo relaciones sexuales con las personas en r&eacute;gimen de aislamiento.&nbsp;</p>
+<p>En consecuencia, el gobierno sustituy&oacute; a esas personas, que trabajaban para empresas privadas, por personal penitenciario, y se abri&oacute; una investigaci&oacute;n.</p>
+<p>Australia ha registrado hasta ahora cerca de 9.000 casos de coronavirus y 106 muertes.</p>
+}
+title Supermercados vacíos en Melbourne por nuevo confinamiento
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/08-supermercados-en-melbourne.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Los estantes de los supermercados de Melbourne, la segunda ciudad más grande de Australia, fueron vaciados el miércoles, a pocas horas de la entrada en vigor de nuevas medidas de confinamiento.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Supermercados vacíos<b>
+    text1 Supermercados vacíos en Melbourne por nuevo confinamiento
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
