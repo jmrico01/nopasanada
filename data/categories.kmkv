@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202005/pandemia-bicicleta
+        featured{array} /content/202007/08-osos-y-lobos-en-alaska
     }
     saludmental{kmkv} {
         name Salud mental
