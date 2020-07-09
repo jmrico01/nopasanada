@@ -64,10 +64,10 @@ noticias{kmkv} {
         featured{array} /content/202007/09-hospitales-en-panama
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/07-peste-bubonica-china
+    featured{array} /content/202007/09-trump-declaraciones-de-impuestos
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202007/07-johnny-depp
+        featured{array} /content/202007/09-estudiantes-extranjeros-en-eeuu
     }
     video{kmkv} {
         name Video

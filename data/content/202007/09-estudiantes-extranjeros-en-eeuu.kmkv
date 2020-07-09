@@ -1,0 +1,48 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La preocupaci&oacute;n aumenta entre decenas de miles de estudiantes extranjeros en Estados Unidos amenazados de deportaci&oacute;n por el gobierno estadounidense si no regresan a clases presenciales, cuando siguen creciendo los casos y muertes por coronavirus en el pa&iacute;s.</p>
+<p>Solo en las universidades p&uacute;blicas de California, que anunciaron cursos virtuales a partir de septiembre, cuando comienza el primer semestre del a&ntilde;o acad&eacute;mico, hay m&aacute;s de 40.000 estudiantes extranjeros. En Harvard, que suspendi&oacute; los cursos presenciales por todo el a&ntilde;o, son unos 5.000.</p>
+<p>El lunes la polic&iacute;a migratoria estadounidense (ICE) anunci&oacute; la revocatoria de las visas de estudiantes universitarios que no tengan cursos presenciales.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Los estudiantes extranjeros se convirtieron as&iacute; en v&iacute;ctimas colaterales de la pulseada del presidente estadounidense, Donald Trump, para forzar la reapertura de todas las escuelas y universidades del pa&iacute;s, a pesar de que la pandemia est&aacute; lejos de estar controlada y ha dejado desde marzo casi tres millones de casos y m&aacute;s de 131.000 muertes.</p>
+<p>La Universidad de Harvard y el MIT pidieron el mi&eacute;rcoles a la justicia que bloquee la decisi&oacute;n "arbitraria y caprichosa" del gobierno. "Lleg&oacute; sin aviso, y su crueldad solo es superada por su irresponsabilidad", dijo el presidente de Harvard, Lawrence Bacow.</p>
+<p>"Podr&iacute;a verme afectado si no proponen cursos en persona", se inquieta Taimoor, estudiante paquistan&iacute; de 25 a&ntilde;os en la universidad p&uacute;blica Cal State de Los &Aacute;ngeles.&rdquo;</p>
+<p>"Estoy preocupado, podr&iacute;a cambiar mi futuro y mis proyectos", confes&oacute;.</p>
+<p>Un estudiante indio inscripto en una maestr&iacute;a en una gran universidad de Texas explica que pensaba seguir cursos en l&iacute;nea este oto&ntilde;o para evitar contagiarse de la enfermedad covid-19.&nbsp;</p>
+<p>Pero ahora se ve obligado a regresar f&iacute;sicamente a la universidad para no perder su visado.</p>
+<p>"El costo del tratamiento en el hospital (en caso de hospitalizaci&oacute;n si se contagia del coronavirus) es mucho m&aacute;s alto que en mi pa&iacute;s", se&ntilde;ala este joven que pidi&oacute; el anonimato y tiene 25 a&ntilde;os. "As&iacute; que tengo miedo".</p>
+<p>"Hablo con mucha gente que est&aacute; realmente atemorizada", a&ntilde;adi&oacute;. "Estamos solos en un pa&iacute;s extranjero. No tengo a nadie que me cuide" en caso de enfermedad, afirm&oacute;.</p>
+<p>Otra estudiante india que cursa una maestr&iacute;a en ingenier&iacute;a electr&oacute;nica en una gran universidad de Arizona, otro foco de la epidemia, tambi&eacute;n tiene temor.</p>
+<p>Sabe que deber&aacute; regresar al campus para terminar sus trabajos de investigaci&oacute;n y garantizar su puesto de tutora de estudiantes m&aacute;s j&oacute;venes, a pesar de que "parece muy dif&iacute;cil controlar la propagaci&oacute;n del virus en un campus tan poblado".</p>
+<p>La mayor&iacute;a de las universidades estadounidenses (84%, seg&uacute;n el sitio Chronicle of Higher Education) se orientan hacia una f&oacute;rmula en persona o h&iacute;brida, que combina cursos virtuales y ense&ntilde;anza en el campus, lo cual permitir&iacute;a a los estudiantes evitar la deportaci&oacute;n con la cual les amenaza el gobierno Trump.</p>
+<p>Algunas, como la Universidad del Sur de California (USC), que al inicio anunci&oacute; que casi todos los cursos ser&iacute;an en l&iacute;nea, estudian ofrecer m&aacute;s cursos presenciales.</p>
+}
+title Inquietud en EEUU por estudiantes extranjeros amenazados de deportación
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/09-estudiantes-extranjeros-en-eeuu.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La preocupación aumenta entre decenas de miles de estudiantes extranjeros en Estados Unidos amenazados de deportación por el gobierno estadounidense si no regresan a clases presenciales, cuando siguen creciendo los casos y muertes por coronavirus en el país.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title estudiantes extranjeros amenazados en EEUU
+    text1 Inquietud en EEUU por estudiantes extranjeros amenazados de deportación
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
