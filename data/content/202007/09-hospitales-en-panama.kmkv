@@ -1,0 +1,54 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Los hospitales de Panam&aacute; est&aacute;n bajo amenaza de colapso por el explosivo crecimiento de casos de covid-19, con m&eacute;dicos agotados por extenuantes horarios, en el pa&iacute;s de Centroam&eacute;rica con m&aacute;s contagios por el nuevo coronavirus.</p>
+<p>"Nuestra cantidad de pacientes infectados por d&iacute;a ha ido aumentando de manera sostenida hasta pasar los 1.000 casos", se&ntilde;al&oacute; David Villalobos, jefe de la unidad de cuidados intensivos (UCI) del complejo hospitalario Arnulfo Arias Madrid, en Ciudad de Panam&aacute;.</p>
+<p>"No hay hospital que pueda sostener semejante cantidad", agreg&oacute; tras visitar a sus pacientes m&aacute;s cr&iacute;ticos.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Con una poblaci&oacute;n de cuatro millones de habitantes, Panam&aacute; ha pasado de unos 200 contagios diarios a m&aacute;s de 1.100 en las &uacute;ltimas semanas.&nbsp;</p>
+<p>El escenario ha obligado a readecuar hospitales y buscar nuevas instalaciones, como centros de convenciones, en un sistema p&uacute;blico de salud con grandes carencias y listas interminables.</p>
+<p>"El temor al colapso del sistema p&uacute;blico de nuestro pa&iacute;s es evidente de mantenerse el n&uacute;mero de casos. Probablemente para las siguientes dos semanas no tengamos sitios donde colocar camas", advirti&oacute; Domingo Moreno, coordinador de la Comisi&oacute;n M&eacute;dica Negociadora Nacional, que agrupa a los gremios m&eacute;dicos.</p>
+<p>Hasta este mi&eacute;rcoles, Panam&aacute; presenta 819 defunciones y m&aacute;s de 41.000 contagios por covid-19, en los peores registros oficiales presentados por un pa&iacute;s centroamericano.&nbsp;</p>
+<p><strong>"Es extenuante"&nbsp;</strong></p>
+<p>Seg&uacute;n cifras oficiales, cerca de 20.000 personas se encuentran en aislamiento domiciliario y en hoteles, mientras que un millar est&aacute;n hospitalizados, 158 de ellos en cuidados intensivos.&nbsp;</p>
+<p>Las autoridades estiman que de cada 100 contagiados 20 terminan en hospitales. Al ritmo actual, significa m&aacute;s de 200 ingresos al d&iacute;a, 50 de ellos a las UCI.</p>
+<p>"Es extenuante, a veces tenemos que regresar en las noches para hacer admisiones (...) pero aqu&iacute; estamos", relat&oacute; la m&eacute;dica Giselle S&aacute;nchez, quien atiende a los pacientes m&aacute;s graves por covid-19. Como sus compa&ntilde;eros, cubre turnos de hasta doce horas.</p>
+<p>Durante las &uacute;ltimas semanas se han producido protestas de m&eacute;dicos y enfermeras en varios puntos del pa&iacute;s en demanda de insumos m&eacute;dicos y equipo de protecci&oacute;n.</p>
+<p>"Hay miedo, hay temor al contagio, a tener una situaci&oacute;n que ponga en peligro su vida, esto es una guerra de desgaste", dice Moreno.</p>
+<p><strong>Larga "batalla"&nbsp;</strong></p>
+<p>Las autoridades locales se han lanzado a la caza del virus casa por casa, bajo el sol o la lluvia, sobre todo en aquellos lugares m&aacute;s afectados por la pandemia.&nbsp;</p>
+<p>El presidente de Panam&aacute;, Laurentino Cortizo, manifest&oacute; recientemente que su gobierno busca realizar 4.000 pruebas diarias para localizar y aislar a los enfermos.&nbsp;</p>
+<p>Silda Idalia R&iacute;os cont&oacute; que ten&iacute;a "temor" a realizarse la prueba por los rumores sobre la pandemia.</p>
+<p>Pero el virus "ha venido para atacarnos" y "uno tiene que aceptar que tiene que examinarse para ver si es positivo", afirm&oacute; tras hacerse la prueba.</p>
+<p>El ministro de Salud, Luis Francisco Sucre, indic&oacute; que se ha detectado "un grupo importante de personas" que, a pesar de saber que est&aacute;n contagiadas, siguen saliendo a la calle, lo que dificulta el control de la pandemia.&nbsp;</p>
+<p>"Dependemos directamente de lo que la poblaci&oacute;n pueda hacer o pueda prevenir en la calle. Realmente la poblaci&oacute;n debe entender que vamos a colapsar", advirti&oacute; Malena Urrutia, del equipo de coordinaci&oacute;n de la mesa covid-19 del Arnulfo Arias.</p>
+<p>Mientras tanto, Cortizo, avisa: "Como presidente, me gustar&iacute;a decirles que esto ya pas&oacute;. Pero no es as&iacute;. A&uacute;n no tenemos una vacuna. Esta batalla contin&uacute;a".</p>
+}
+title Hospitales en Panamá al borde del colapso por incremento de covid-19
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/09-hospitales-en-panama.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Los hospitales de Panamá están bajo amenaza de colapso por el explosivo crecimiento de casos de covid-19, con médicos agotados por extenuantes horarios, en el país de Centroamérica con más contagios por el nuevo coronavirus.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title Hospitales en Panamá
+    text1 Hospitales en Panamá al borde del colapso por incremento de covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
