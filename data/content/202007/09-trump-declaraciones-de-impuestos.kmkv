@@ -1,0 +1,35 @@
+text {
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El presidente de Estados Unidos, Donald Trump, denunci&oacute; el jueves ser v&iacute;ctima de un "enjuiciamiento pol&iacute;tico" despu&eacute;s de que la Corte Suprema emitiera fallos mixtos sobre si el mandatario deb&iacute;a entregar una variedad de documentos financieros, incluidas sus declaraciones de impuestos.</p>
+<p>Si bien el m&aacute;ximo tribunal dijo que el presidente no es inmune a una citaci&oacute;n emitida por un fiscal de Nueva York, tambi&eacute;n bloque&oacute; una solicitud del Congreso para acceder a los registros de Trump. Ambos casos fueron devueltos a tribunales inferiores para su revisi&oacute;n.</p>
+<p>"Todo esto es un enjuiciamiento pol&iacute;tico", tuite&oacute; Trump. "Gan&eacute; la Caza de Brujas de Mueller, y otras, y ahora tengo que seguir luchando en una Nueva York pol&iacute;ticamente corrupta. &iexcl;No es justo para esta Presidencia o Administraci&oacute;n!".</p>
+}
+title Corte Suprema de EEUU ordena a Trump entregar sus documentos financieros
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/09-trump-declaraciones-de-impuestos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El presidente de Estados Unidos, Donald Trump, denunció el jueves ser víctima de un "enjuiciamiento político" después de que la Corte Suprema emitiera fallos mixtos sobre si el mandatario debía entregar una variedad de documentos financieros, incluidas sus declaraciones de impuestos. 
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title documentos financieros de TRUMP
+    text1 Corte Suprema de EEUU ordena a Trump entregar sus documentos financieros
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/08-eeuu-y-oms
+        featured{array} /content/202007/09-trump-declaraciones-de-impuestos
     }
     loimportante{kmkv} {
         name Lo Importante
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/frente-al-mar-crisis-costera-costarica
+    featured{array} /content/202007/09-trump-declaraciones-de-impuestos
 }
 other{kmkv} {
     name Other (Internal)
