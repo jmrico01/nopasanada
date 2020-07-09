@@ -1,0 +1,37 @@
+text {
+<p>&iquest;Qu&eacute; pasa ahora que Jair Bolsonaro, el presidente que ha intentado minimizar la importancia del coronavirus, se contagi&oacute; de la enfermedad? &iquest;Esta realmente lanzandose Kanye West a la presidencia de los Estados Unidos? Y un analisis de la nueva ley de seguridad en Hong Kong que pone en peligro a todo el planeta tierra</p>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Productor Ejecutivo:</strong> Pietro Cercone</p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p><strong>Host:</strong> Pietro Cercone</p>
+<hr />
+<p>Vea el &uacute;ltimo episodio: $youtube/LZH_1fO_Ru4$</p>
+}
+title KANYE 2020, BOLSONARO Y HONG KONG
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/kanye-bolsonaro-hongkong.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description ¿Qué pasa ahora que Jair Bolsonaro, el presidente que ha intentado minimizar la importancia del coronavirus, se contagió de la enfermedad? ¿Esta realmente lanzandose Kanye West a la presidencia de los Estados Unidos? Y un analisis de la nueva ley de seguridad en Hong Kong que pone en peligro a todo el planeta tierra
+year 2020
+featured{kmkv} {
+    title <b>KANYE 2020, BOLSONARO Y HONG KONG.<b>
+    text1 Lo Importante de la politica
+    text2 CON PIETRO CERCONE
+    pretitle LO IMPORTANTE:
+    highlightColor #00FFFF
+}
+type video
+subtitle 
+month 07
+tags{array} noticias-video,noticias-loimportante
+videoID PC_coveAgBo
+titlePoster 
+color #00FFFF
