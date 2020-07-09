@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/09-trump-declaraciones-de-impuestos
+    featured{array} /content/202007/kanye-bolsonaro-hongkong
 }
 other{kmkv} {
     name Other (Internal)
