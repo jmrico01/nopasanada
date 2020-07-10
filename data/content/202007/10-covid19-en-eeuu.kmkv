@@ -1,0 +1,40 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Estados Unidos registr&oacute; un nuevo r&eacute;cord de contagios por coronavirus en un d&iacute;a este jueves, con m&aacute;s de 65.500 nuevos casos en 24 horas, seg&uacute;n report&oacute; la Universidad Johns Hopkins.</p>
+<p>El n&uacute;mero total de casos registrados de la covid-19 en el pa&iacute;s desde el inicio de la pandemia supera los 3,11 millones y el registro anterior data del martes, con m&aacute;s de 60.200 casos.</p>
+<p>La preocupaci&oacute;n por la expansi&oacute;n del virus sigue en aumento en Estados Unidos, que en las &uacute;ltimas semanas experimenta un brote de infecciones en el sur y el oeste del pa&iacute;s y sigue siendo de lejos el pa&iacute;s m&aacute;s afectado en t&eacute;rminos absolutos.</p>
+<p>"Estamos en una situaci&oacute;n muy dif&iacute;cil", dijo este jueves el experto en enfermedades infecciosas Anthony Fauci, asesor de la Casa Blanca sobre la crisis de coronavirus.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La reapertura del pa&iacute;s tuvo lugar "omitiendo todos los pasos recomendados. No es la forma correcta de hacerlo, necesitamos repensarlo y hacerlo diferente", critic&oacute; el experto durante una teleconferencia organizada por el medio de periodismo pol&iacute;tico The Hill.</p>
+<p>"Los estados deben detener su proceso de desconfinamiento", agreg&oacute;, sin embargo matiz&oacute; que no cree necesario "volver a un cierre total".</p>
+<p>El presidente Donald Trump minimiza estos registros diarios. "Por en&eacute;sima vez, la raz&oacute;n por la que tenemos tantos casos, en comparaci&oacute;n con otros pa&iacute;ses que no lo hacen mucho mejor que nosotros, es que testeamos mucho m&aacute;s y mejor", dijo en Twitter este jueves.</p>
+}
+title EEUU registra más de 65.000 casos de coronavirus en 24 horas
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/10-covid19-en-eeuu.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Estados Unidos registró un nuevo récord de contagios por coronavirus en un día este jueves, con más de 65.500 nuevos casos en 24 horas, según reportó la Universidad Johns Hopkins.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title 65.000 casos de coronavirus en 24 horas
+    text1 EEUU registra más de 65.000 casos de coronavirus en 24 horas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

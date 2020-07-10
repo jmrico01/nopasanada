@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202007/08-osos-y-lobos-en-alaska
+        featured{array} /content/202007/10-deforestacion-en-la-amazonia
     }
     saludmental{kmkv} {
         name Salud mental
