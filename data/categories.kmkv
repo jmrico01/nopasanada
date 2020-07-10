@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202007/10-oms-en-china
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/09-hong-kong
+    featured{array} /content/202007/10-hong-kong
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/09-estudiantes-extranjeros-en-eeuu

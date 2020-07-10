@@ -1,0 +1,45 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Hong Kong cerrar&aacute; de nuevo todas sus escuelas despu&eacute;s de que el territorio registrara un aumento en los contagios locales de nuevo coronavirus, inform&oacute; el viernes el responsable de educaci&oacute;n.</p>
+<p>El gobierno orden&oacute; el cierre de todas las escuelas a partir del lunes, adelantando el inicio de las vacaciones de verano, dijo Kevin Yeung.</p>
+<p>Hong Kong registr&oacute; estos &uacute;ltimos d&iacute;as un "aumento exponencial" de casos locales de covid-19.&nbsp;</p>
+<p>El viernes, se registraron 38 nuevos casos confirmados, 32 de los cuales eran locales.&nbsp;</p>
+<p>Este incremento de los contagios preocupa especialmente a las autoridades de este territorio de 7,5 millones de habitantes, que hasta ahora hab&iacute;a conseguido frenar los contagios locales.</p>
+<p>La vida hab&iacute;a recobrado su curso en este enclave, donde nunca se impuso el confinamiento. &nbsp;</p>
+<p>Hong Kong fue uno de los primeros lugares en el mundo afectado por el coronavirus a principios de a&ntilde;o, tras su irrupci&oacute;n en China.&nbsp;</p>
+<p>Los nuevos focos virales fueron localizados el martes. Entre ellos figura una residencia de ancianos, donde se contabilizaron 32 casos, y una edificio con 11 personas contagiadas.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Al menos 21 de estas nuevas infecciones de estos &uacute;ltimos cinco d&iacute;as no tienen origen conocido, lo que significa que las autoridades no consiguen determinar como se propaga el virus.&nbsp;</p>
+<p>Las escuelas del territorio cerraron a finales de enero, cuando se detect&oacute; el coronavirus. Reabrieron de forma progresiva a partir de mayo.&nbsp;</p>
+<p>Desde el inicio de la epidemia, Hong Kong registr&oacute; 1.403 enfermos de covid-19, de los que fallecieron siete.&nbsp;</p>
+<p>Los residentes de la ciudad, traumatizados por la epidemia de SRAS (S&iacute;ndrome Respiratorio Agudo Severo) en 2003, que dej&oacute; 299 muertos, usaron m&aacute;scaras y mantuvieron la distancia social aconsejada desde el principio.&nbsp;</p>
+}
+title Hong Kong cierra de nuevo escuelas por contagios locales de coronavirus
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/10-hong-kong.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Hong Kong cerrará de nuevo todas sus escuelas después de que el territorio registrara un aumento en los contagios locales de nuevo coronavirus, informó el viernes el responsable de educación.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title Hong Kong cierra de nuevo escuelas
+    text1 Hong Kong cierra de nuevo escuelas por contagios locales de coronavirus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,noticias-politica,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
