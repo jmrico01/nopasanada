@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Un epidemi&oacute;logo y un experto en salud animal de la Organizaci&oacute;n Mundial de la Salud (OMS) viajar&aacute;n a China para una misi&oacute;n que quiere allanar el camino para determinar el origen del nuevo coronavirus, indic&oacute; la organizaci&oacute;n el viernes.</p>
+<p>"Est&aacute;n en camino", dijo en una rueda de prensa telem&aacute;tica la portavoz de la OMS, Margaret Harris.</p>
+<p>Los dos expertos deben preparar el terreno para una misi&oacute;n m&aacute;s amplia que quiere determinar el origen del coronavirus, responsable de m&aacute;s de 550.000 muertes en todo el mundo y de 12 millones de contagios.</p>
+<p>El equipo de la OMS se reunir&aacute; con responsables chinos y especificar&aacute; los lugares que la futura misi&oacute;n visitar&aacute;, seg&uacute;n Harris.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"Uno de los grandes interrogantes es si el virus lleg&oacute; al hombre desde un animal y qu&eacute; animal", dijo la portavoz.</p>
+<p>"Sabemos que el coronavirus es muy similar a un virus presente en los murci&eacute;lagos pero &iquest;pas&oacute; por un animal intermedio? Es una pregunta que tenemos que responder", agreg&oacute;.</p>
+<p>Los trabajos de los cient&iacute;ficos del Instituto de Virolog&iacute;a de Wuhan, ciudad del centro de China donde brot&oacute; la pandemia, concluyeron que la secuencia del genoma del nuevo coronavirus es en un 80%, similar a la del SARS, responsable de una epidemia entre 2002 y 2003, y en un 96% similar al de un coronavirus de murci&eacute;lago.</p>
+<p>La mayor&iacute;a de expertos tambi&eacute;n est&aacute; de acuerdo en que el SARS-CoV-2, virus causante de esta pandemia, naci&oacute; sin duda en un murci&eacute;lago, pero pas&oacute; por otra especie antes de llegar al hombre.</p>
+<p>Esta es la pieza que falta en el rompecabezas y que los expertos de la OMS quieren encontrar para saber qu&eacute; pas&oacute; y c&oacute;mo evitar una nueva pandemia.</p>
+}
+title Misión de la OMS rumbo a China para determinar origen del COVID-19
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/10-oms-en-china.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Un epidemiólogo y un experto en salud animal de la Organización Mundial de la Salud (OMS) viajarán a China para una misión que quiere allanar el camino para determinar el origen del nuevo coronavirus, indicó la organización el viernes.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title OMS para determinar origen del COVID-19
+    text1 Misión de la OMS rumbo a China para determinar origen del COVID-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
