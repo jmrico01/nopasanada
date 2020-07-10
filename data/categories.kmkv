@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202006/09-pau-dones
+        featured{array} /content/202007/10-musica-y-codigo
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202007/10-hong-kong
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202007/09-estudiantes-extranjeros-en-eeuu
+        featured{array} /content/202007/10-musica-y-codigo
     }
     video{kmkv} {
         name Video
