@@ -36,10 +36,10 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202006/3-opciones-alitas-keto-costarica-laguida
+        featured{array} /content/202007/bubble-waffles
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202006/3-opciones-alitas-keto-costarica-laguida
+    featured{array} /content/202007/bubble-waffles
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202005/07-jugando-con-fuego
