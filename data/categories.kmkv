@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/kanye-bolsonaro-hongkong
+    featured{array} /content/202007/10-deforestacion-en-la-amazonia
 }
 other{kmkv} {
     name Other (Internal)
