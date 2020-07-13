@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202007/10-oms-en-china
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/10-hong-kong
+    featured{array} /content/202007/13-kelly-preston
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/10-musica-y-codigo
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/10-deforestacion-en-la-amazonia
+    featured{array} /content/202007/13-kelly-preston
 }
 other{kmkv} {
     name Other (Internal)

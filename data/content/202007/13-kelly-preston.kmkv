@@ -1,0 +1,40 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La actriz estadounidense Kelly Preston, que trabaj&oacute; en pel&iacute;culas tan conocidas como "Jerry Maguire" o "Twins", muri&oacute; a los 57 a&ntilde;os de c&aacute;ncer, anunci&oacute; el domingo su marido, el actor John Travolta.</p>
+<p>"Es con gran tristeza que les informo que mi espl&eacute;ndida mujer Kelly perdi&oacute; su batalla contra el c&aacute;ncer tras dos a&ntilde;os", dijo la estrella de Hollywood en Instagram. "Luch&oacute; valerosamente con amor y el apoyo de muchos", agreg&oacute;.</p>
+<p>Un representante de la familia indic&oacute; a People que Preston hab&iacute;a fallecido el domingo por la ma&ntilde;ana.</p>
+<p>"Escogi&oacute; mantener su lucha en privado, se someti&oacute; a tratamiento m&eacute;dico durante un tiempo, apoyada por su familia m&aacute;s cercana y amigos", afirm&oacute; el representante, citado por People.</p>
+<p>Nacida el 13 de octubre de 1962 en Haw&aacute;i, Preston estudio arte dram&aacute;tico en la Universidad del Sur de California.</p>
+<p>Salt&oacute; a la fama por su papel en la comedia "Twins" en 1988, junto a Arnold Schwarzenegger y Danny DeVito. Trabaj&oacute; en decenas de pel&iacute;culas y series durante toda su carrera.</p>
+<p>En la comedia rom&aacute;ntica "Jerry Maguire" (1996), donde compart&iacute;a elenco con Tom Cruise y Renee Zellweger, Preston interpret&oacute; a la exnovia del personaje principal.</p>
+<p>Se cas&oacute; con John Travolta en 1991. La pareja tuvo tres hijos, el mayor de los cuales muri&oacute; en 2009 con 16 a&ntilde;os.</p>
+}
+title Fallece la actriz Kelly Preston a los 57 años de cáncer
+day 13
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/13-kelly-preston.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La actriz estadounidense Kelly Preston, que trabajó en películas tan conocidas como "Jerry Maguire" o "Twins", murió a los 57 años de cáncer, anunció el domingo su marido, el actor John Travolta.
+year 2020
+author NPN NOTICIAS Y AFP
+featured{kmkv} {
+    title <b>Fallece la actriz Kelly Preston<b>
+    text1 Fallece la actriz Kelly Preston a los 57 años de cáncer
+    text2 Por NPN Noticias y AFP
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-culturales,mas-cine,noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
