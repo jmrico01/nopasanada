@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/09-trump-declaraciones-de-impuestos
+        featured{array} /content/202007/13-costa-rica
     }
     loimportante{kmkv} {
         name Lo Importante
