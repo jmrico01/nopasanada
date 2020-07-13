@@ -1,0 +1,47 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Los pacientes que se recuperan de la covid-19 podr&iacute;an perder su inmunidad al cabo de unos meses, afirma un estudio publicado el lunes y que seg&uacute;n expertos podr&iacute;a influir en la gesti&oacute;n de las autoridades de la pr&oacute;xima fase de la pandemia.</p>
+<p>En el primer estudio de este tipo, un equipo de investigadores del King's College de Londres examin&oacute; los niveles de anticuerpos de m&aacute;s de 90 pacientes confirmados con el virus SARS-CoV-2 y su evoluci&oacute;n en el tiempo.</p>
+<p>Los an&aacute;lisis sangu&iacute;neos mostraron que incluso los individuos con s&iacute;ntomas leves produc&iacute;an alg&uacute;n tipo de respuesta inmune al virus.</p>
+<p>Del grupo estudiado, 60% de los pacientes dio una respuesta "potente" en las primeras semanas posteriores a la infecci&oacute;n.</p>
+<p>Sin embargo, despu&eacute;s de tres meses, solo 16,7% manten&iacute;a un nivel alto de anticuerpos neutralizadores de la covid-19 y algunos de ellos ni siquiera ten&iacute;an una cantidad detectable en la sangre.</p>
+<p>El estudio sugiere por lo tanto que no se puede dar por descontada la inmunidad -capaz de proteger el organismo contra nuevas infecciones- tras haber superado una primera vez la enfermedad. Este es el caso de otros virus como la gripe.</p>
+<p>Estas conclusiones, que todav&iacute;a no fueron objeto de examen por parte de otros colegas cient&iacute;ficos, fueron publicadas en el sitio medrxiv.</p>
+<p>Expertos que no participaron en estos trabajos estimaron que estos resultados pueden influir en c&oacute;mo los gobiernos preparan la nueva fase frente a la pandemia, incluida la fabricaci&oacute;n de una vacuna.</p>
+<p>Este estudio "subraya la necesidad de comprender mejor c&oacute;mo funciona la respuesta inmune protectora (a la covid-19) para poder desarrollar una vacuna eficaz", dijo Laurence Young, de la Universidad de Oncolog&iacute;a Molecular.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"Y es que si a la infecci&oacute;n se responde con niveles de anticuerpos que disminuyen en dos o tres meses, la vacuna har&aacute; potencialmente lo mismo" y "una sola inyecci&oacute;n no ser&aacute; quiz&aacute;s suficiente", explic&oacute; por su parte la doctora Katie Doores, principal autora del estudio, al diario brit&aacute;nico The Guardian.</p>
+<p>James Gill, de la Escuela M&eacute;dica de Warwick en Inglaterra, dijo que este trabajo enfatiza la necesidad de que todo el mundo siga tomando medidas para mitigar la propagaci&oacute;n del virus, especialmente con el inicio de las vacaciones en Europa.</p>
+<p>"De la misma forma en que estos pacientes se sorprendieron de tener anticuerpos de la covid-19 no les deber&iacute;a sorprender si el beneficio protector es leve e incluso transitorio", indic&oacute;.</p>
+<p>"Es como si uno gana 10 libras a la loter&iacute;a: no va a pensar que su suerte se ha incrementado y usar todos los ahorros de su vida para seguir comprando loter&iacute;a", dijo Gill.</p>
+<p>"Incluso quienes dieron positivo al test, especialmente quienes no saben d&oacute;nde se contagiaron, deber&iacute;an seguir yendo con cuidado, manteniendo el distanciamiento social y usar adecuadamente la mascarilla", agreg&oacute;.</p>
+}
+title Estudio señala que inmunidad ante covid-19 puede desaparecer en unos meses
+day 13
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/13-inmunidad-ante-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Los pacientes que se recuperan de la covid-19 podrían perder su inmunidad al cabo de unos meses, afirma un estudio publicado el lunes y que según expertos podría influir en la gestión de las autoridades de la próxima fase de la pandemia.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>inmunidad ante covid-19<b>
+    text1 Estudio señala que inmunidad ante covid-19 puede desaparecer en unos meses
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

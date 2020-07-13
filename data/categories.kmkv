@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202007/10-oms-en-china
+        featured{array} /content/202007/13-inmunidad-ante-covid-19
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/10-oms-en-china
+        featured{array} /content/202007/13-inmunidad-ante-covid-19
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202007/13-escandalo-de-calificaciones-robadas
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202007/10-musica-y-codigo
+        featured{array} /content/202007/13-kelly-preston
     }
     video{kmkv} {
         name Video
