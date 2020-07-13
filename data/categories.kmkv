@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202007/10-oms-en-china
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/13-kelly-preston
+    featured{array} /content/202007/13-escandalo-de-calificaciones-robadas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/10-musica-y-codigo
