@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202007/13-inmunidad-ante-covid-19
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/13-escandalo-de-calificaciones-robadas
+    featured{array} /content/202007/13-costa-rica
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/13-kelly-preston

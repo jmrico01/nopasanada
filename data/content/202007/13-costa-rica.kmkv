@@ -1,0 +1,45 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El presidente de Costa Rica, Carlos Alvarado, anunci&oacute; este domingo un fuerte recorte en el gasto p&uacute;blico como parte de las acciones para sortear la crisis provocada por la pandemia de la covid-19.</p>
+<p>El corte ser&aacute; equivalente a 1% del producto interno bruto(PIB), dijo Alvarado en cadena de radio y televisi&oacute;n, en la que deline&oacute; una hoja de ruta para enfrentar el impacto de la propagaci&oacute;n de la covid-19.</p>
+<p>Los cortes ser&aacute;n presentados este lunes a la Asamblea Legislativa (parlamento), junto a un presupuesto extraordinario, por el ministro de Hacienda, Eli&aacute;n Villegas.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"Ser&aacute; el mayor recorte del gasto p&uacute;blico de nuestra historia", destac&oacute; al mandatario, quien aclar&oacute; que incluir&aacute; todos los sectores, sin tocar los programas sociales y las grandes inversiones en obras p&uacute;blicas.</p>
+<p>Indic&oacute; que el gobierno negoci&oacute; cr&eacute;ditos con organismos financieros internacionales en condiciones favorables, lo que permitir&aacute; sustituir deuda con intereses m&aacute;s elevados para aliviar las finanzas p&uacute;blicas.</p>
+<p>Costa Rica acumul&oacute; hasta fines de 2019 un d&eacute;ficit fiscal de 6,96% del PIB, que podr&iacute;a alcanzar 9,7% del PIB para este a&ntilde;o como consecuencia de la pandemia, seg&uacute;n el Ministerio de Hacienda.</p>
+<p>El ministerio proyect&oacute; tambi&eacute;n que la deuda p&uacute;blica alcanzar&aacute; 68,8% del PIB este a&ntilde;o.</p>
+<p>Alvarado asegur&oacute; que con el corte de gastos y los cr&eacute;ditos negociados se garantizar&aacute; la estabilidad econ&oacute;mica para este a&ntilde;o.</p>
+<p>En los a&ntilde;os siguientes depender&aacute; de la aprobaci&oacute;n legislativa de un pr&eacute;stamo de 504 millones de d&oacute;lares con el Fondo Monetario Internacional (FMI), dijo.</p>
+<p>Con ese cr&eacute;dito, el gobierno podr&aacute; negociar un acuerdo "stand by" con el FMI, que seg&uacute;n Alvarado es "indispensable para mantener la estabilidad econ&oacute;mica del pa&iacute;s en los pr&oacute;ximos a&ntilde;os".</p>
+<p>Costa Rica, con 5 millones de habitantes, ha vivido en las &uacute;ltimas tres semanas una explosi&oacute;n de casos de covid-19, que este domingo alcanz&oacute; un acumulado de 7.596 infecciones y 30 muertos.</p>
+<p>El gobierno aplic&oacute; este fin de semana nuevas medidas restrictivas para evitar la movilizaci&oacute;n de personas en las &aacute;reas de mayor contagio.</p>
+}
+title Costa Rica anuncia drástico recorte a gasto público ante crisis por pandemia
+day 13
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/13-costa-rica.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El presidente de Costa Rica, Carlos Alvarado, anunció este domingo un fuerte recorte en el gasto público como parte de las acciones para sortear la crisis provocada por la pandemia de la covid-19.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title Costa Rica anuncia recorte a gasto
+    text1 Costa Rica anuncia drástico recorte a gasto público ante crisis por pandemia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
