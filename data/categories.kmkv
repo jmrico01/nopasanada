@@ -61,7 +61,7 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/13-inmunidad-ante-covid-19
+        featured{array} /content/202007/14-indios-vuelven-a-confinamiento
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202007/13-costa-rica

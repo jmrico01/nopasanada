@@ -1,0 +1,40 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Unos 133 millones de indios de la gran ciudad de Bangalore, en el sur, y el Estado de Bihar en el norte volver&aacute;n a quedar confinados para frenar la propagaci&oacute;n del nuevo coronavirus, anunciaron este martes las autoridades.</p>
+<p>"El gobierno de Bihar decidi&oacute; un confinamiento de quince d&iacute;as desde el 16 de julio hasta el 31 de julio", tuite&oacute; el viceministro en jefe del Estado, Sushil Kumar Modi.</p>
+<p>Tras haber impuesto un confinamiento radical a escala nacional a fines de marzo, India lo levant&oacute; a principios de junio pero los reconfinamientos locales se multiplican a lo largo del pa&iacute;s, donde la epidemia sigue con fuerza.</p>
+<p>Bombay y Nueva Delhi eran hasta el momento las grandes ciudades m&aacute;s afectadas por la pandemia, pero Bangalore, en el sur del pa&iacute;s, sede de las empresas de alta tecnolog&iacute;a indias, surge tambi&eacute;n como un nuevo foco, con 19.702 casos confirmados hasta el lunes por la noche.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El gobierno local impuso un reconfinamiento en la ciudad y los distritos aleda&ntilde;os que entra en vigor el martes a las 20H00 locales (14H30 GMT) y debe continuar hasta el 23 de julio a la ma&ntilde;ana.</p>
+<p>Los transportes p&uacute;blicos quedar&aacute;n suspendidos y s&oacute;lo los servicios y comercios esenciales podr&aacute;n continuar abiertos.</p>
+<p>La segunda naci&oacute;n m&aacute;s poblada del planeta contaba hasta este martes 23.727 muertos sobre 906.752 casos declarados de la enfermedad covid-19, unas cifras en r&aacute;pida progresi&oacute;n. Los especialistas estiman que el pico de la epidemia a&uacute;n no ha llegado.</p>
+}
+title Más de 130 millones de indios vuelven a confinamiento por brote de COVID-19
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/14-indios-vuelven-a-confinamiento.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Unos 133 millones de indios de la gran ciudad de Bangalore, en el sur, y el Estado de Bihar en el norte volverán a quedar confinados para frenar la propagación del nuevo coronavirus, anunciaron este martes las autoridades.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>indios vuelven a confinamiento<b>
+    text1 Más de 130 millones de indios vuelven a confinamiento por brote de COVID-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
