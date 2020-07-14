@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/13-escandalo-de-calificaciones-robadas
+    featured{array} /content/202007/ep1-que-pasa-en-no-pasa-nada
 }
 other{kmkv} {
     name Other (Internal)
