@@ -1,0 +1,40 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Estados Unidos llev&oacute; a cabo este martes la primera ejecuci&oacute;n federal en 17 a&ntilde;os despu&eacute;s de que la Corte Suprema autorizara el procedimiento, inform&oacute; el Departamento de Justicia.&nbsp;</p>
+<p>"Daniel Lewis Lee fue ejecutado utilizando la inyecci&oacute;n letal", inform&oacute; la prisi&oacute;n de la localidad de Terre Haute, en Indiana, donde estaba el condenado.&nbsp;</p>
+<p>Lee, que era un supremacista blanco, fue condenado a la pena capital por el asesinato de una ni&ntilde;a y sus padres en 1996 en medio de un robo para obtener fondos para la "Rep&uacute;blica de los pueblos arios".</p>
+<p>En sus &uacute;ltimas palabras, Lee proclam&oacute; su inocencia, seg&uacute;n un peri&oacute;dico local que estuvo en la ejecuci&oacute;n. "Est&aacute;n matando a un hombre inocente", dijo Lee, seg&uacute;n el diario The Indianapolis Star.</p>
+<p>La ejecuci&oacute;n de Lee estaba prevista para el lunes pero la jueza de distrito Tanya Chutkan orden&oacute; suspender la sentencia horas antes para permitir impugnaciones a los protocolos de la inyecci&oacute;n letal, que se aplicar&aacute; a ese y a otros tres condenados a muerte por delitos federales.</p>
+<p>El Departamento de Justicia apel&oacute; inmediatamente la sentencia de Chutkan y la Corte Suprema le dio la raz&oacute;n este martes de madrugada.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El gobierno del presidente, Donald Trump, anunci&oacute; en julio de 2019 que la administraci&oacute;n federal iba a volver a usar la pena capital, poniendo fin a la moratoria que estaba en vigor desde 2003.&nbsp;</p>
+}
+title EEUU lleva a cabo la primera ejecución federal en 17 años
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/14-ejecucion-federal.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Estados Unidos llevó a cabo este martes la primera ejecución federal en 17 años después de que la Corte Suprema autorizara el procedimiento, informó el Departamento de Justicia. 
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>ejecución federal <b>
+    text1 EEUU lleva a cabo la primera ejecución federal en 17 años
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

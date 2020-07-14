@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/13-costa-rica
+        featured{array} /content/202007/14-ejecucion-federal
     }
     loimportante{kmkv} {
         name Lo Importante
