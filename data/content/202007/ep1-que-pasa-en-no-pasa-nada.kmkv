@@ -1,0 +1,37 @@
+text {
+<p>Productor ejecutvio y edici&oacute;n: Pietro Cercone</p>
+<p>Productor, gui&oacute;n y hosts: Kenneth Bald&iacute; &amp; Pietro Cercone</p>
+<p>Direcci&oacute;n Creativa: Lauren Gilleland</p>
+<hr />
+<p>Vea el &uacute;ltimo episodio de Welcome To Chepe: $youtube/dm5GNHVr1RU$</p>
+}
+title ¿Qué pasa en NO PASA NADA?
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/ep1-que-pasa-en-no-pasa-nada.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description {
+En este episodio de ¿Qué pasa en NO PASA NADA? Pietro y Kenneth discuten el primer documental corto sobre la crisis costera en Costa Rica 
+El futuro de las elecciones en Estados Unidos, la Guida y sus nuevos programas y la situación del COVID-19 en Costa Rica 
+}
+year 2020
+featured{kmkv} {
+    title <b>¿Qué pasa en NO PASA NADA? <b>
+    text1 Ep 1 | Kanye, documentales y La Guida
+    text2 
+    pretitle PODCAST :
+    highlightColor #00FFFF
+}
+type video
+subtitle Un podcast de NO PASA NADA sobre que ... esta pasando en NPN y el mundo. 
+month 07
+tags{array} noticias-video,noticias-loimportante
+videoID -D9ZNRETBUI
+titlePoster 
+color #00FFFF
