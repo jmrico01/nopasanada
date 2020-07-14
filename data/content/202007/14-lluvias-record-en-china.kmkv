@@ -1,14 +1,21 @@
 text {
 <p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
-<p>La deforestaci&oacute;n en la Amazon&iacute;a brasile&ntilde;a tuvo un aumento de 25% entre enero y junio, totalizando 3.069,61 km2, un r&eacute;cord desde el inicio del c&oacute;mputo en 2015, seg&uacute;n datos oficiales divulgados este viernes.</p>
-<p>En el mes de junio la deforestaci&oacute;n lleg&oacute; a 1.034,4 km2, frente a 934,81 km2 en junio de 2019, lo que representa tambi&eacute;n un r&eacute;cord para ese mes, de acuerdo con los datos satelitales del Instituto Nacional de Investigaciones Espaciales (INPE, por sus siglas en portugu&eacute;s).</p>
-<p>Las alertas emitidas por el sistema del Inpe muestran adem&aacute;s aumentos en todos los meses de 2020 en comparaci&oacute;n con los n&uacute;meros registrados el a&ntilde;o pasado, a pesar de la presencia militar y de la presi&oacute;n internacional y empresarial para que el gobierno controle el da&ntilde;o ambiental.</p>
-<p>La tendencia enciende alarmas debido al inicio de la temporada seca en junio. En 2019, la deforestaci&oacute;n se dispar&oacute; en julio a 2.255,33 km2 de territorio amaz&oacute;nico.&nbsp;</p>
+<p>Las autoridades chinas movilizaron el ej&eacute;rcito el martes para intentar frenar las inundaciones que ya han causado m&aacute;s de 140 muertos o desaparecidos en el cuenca del r&iacute;o Yangts&eacute;, donde no se hab&iacute;an producido precipitaciones de este tipo desde hac&iacute;a casi 60 a&ntilde;os.</p>
+<p>Las inmediaciones del tercer r&iacute;o m&aacute;s largo del mundo est&aacute;n registrando este a&ntilde;o lluvias r&eacute;cord, declar&oacute; el viceministro de Situaciones de Urgencia Zheng Guoguang.</p>
+<p>"Desde junio, las precipitaciones medias en la cuenca del Yangts&eacute; son las m&aacute;s fuertes desde 1961", declar&oacute; ante la prensa el lunes en Pek&iacute;n.&nbsp;</p>
+<p>La cantidad de agua que ha ca&iacute;do en este periodo es superior en 51% a la media, a&ntilde;adi&oacute;.</p>
+<p>Las autoridades est&aacute;n especialmente preocupadas por la ciudad de Wuhan (centro), donde fue detectado en nuevo coronavirus en diciembre del a&ntilde;o pasado.</p>
+<p>Pero parece que el lunes se produjo el pico de la crecida en la metr&oacute;polis de 11 millones de habitantes sin causar demasiados da&ntilde;os.</p>
+<p>Ahora la atenci&oacute;n se centra en el lago Poyang, el m&aacute;s grande de China, en la provincia de Jiangxi (centro).</p>
 <p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
-<p>La temporada seca es tambi&eacute;n la de los incendios de las &aacute;reas deforestadas, que este a&ntilde;o provocan una doble preocupaci&oacute;n, tanto por su impacto ambiental como porque las humaredas suelen provocar un aumento de las enfermedades respiratorias, que este a&ntilde;o se dar&aacute;n en plena pandemia de coroanvirus.</p>
-<p>El presidented de Brasil, Jair Bolsonaro, cuestionado por defender la explotaci&oacute;n comercial y minera de la Amazon&iacute;a, decret&oacute; en mayo el env&iacute;o de tropas a la regi&oacute;n.&nbsp;</p>
+<p>Seg&uacute;n la agencia de noticias Xinhua, el nivel de agua registrado por una estaci&oacute;n hidr&aacute;ulica super&oacute; el r&eacute;cord establecido en 1998, cuando ocurrieron las inundaciones m&aacute;s graves de las &uacute;ltimas d&eacute;cadas, que causaron m&aacute;s de 4.000 muertos en toda China.</p>
+<p>Unas 100.000 personas fueron movilizadas para luchar contra las inundaciones en Jiangxi, entre militares, miembros de los equipos de emergencia y simples ciudadanos, seg&uacute;n los medios chinos.</p>
+<p>Cerca de la mitad de estos efectivos fueron desplegados alrededor del lago Poyang, donde varios diques hab&iacute;an cedido, seg&uacute;n la televisi&oacute;n nacional.</p>
+<p>En la ciudad de Jiujiang, donde el lago comunica con el Yangts&eacute;, soldados reforzaban los diques con sacos de arena.</p>
+<p>Unos 400 millones de personas --cerca de un tercio de la poblaci&oacute;n china-- viven en la cuenca del Yangts&eacute;.&nbsp;</p>
+<p>Se suelen producir inundaciones cada verano en China debido a las fuertes lluvias y al deshielo de los glaciares, en las monta&ntilde;as del Himalaya.</p>
 }
-title Deforestación récord en la Amazonía en el primer semestre de 2020
+title Lluvias récord desde hace seis décadas en China
 day 14
 text1 
 text2 
@@ -16,16 +23,16 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202007/headers/10-deforestacion-en-la-amazonia.jpg
+    header /images/202007/headers/14-lluvias-record-en-china.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     banksy /images/202006/10-banksy/banksy.jpg
 }
-description La deforestación en la Amazonía brasileña tuvo un aumento de 25% entre enero y junio, totalizando 3.069,61 km2, un récord desde el inicio del cómputo en 2015, según datos oficiales divulgados este viernes.
+description Las autoridades chinas movilizaron el ejército el martes para intentar frenar las inundaciones que ya han causado más de 140 muertos o desaparecidos en el cuenca del río Yangtsé, donde no se habían producido precipitaciones de este tipo desde hacía casi 60 años.
 year 2020
 author AFP Y NPN NOTICIAS
 featured{kmkv} {
-    title Deforestación récord en la Amazonía
-    text1 Deforestación récord en la Amazonía en el primer semestre de 2020
+    title <b>Lluvias récord en China<b>
+    text1 Lluvias récord desde hace seis décadas en China
     text2 Por AFP Y NPN NOTICIAS
     pretitle NOTICIAS:
     highlightColor #FBFF09
