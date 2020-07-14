@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202007/10-deforestacion-en-la-amazonia
+        featured{array} /content/202007/14-lluvias-record-en-china
     }
     saludmental{kmkv} {
         name Salud mental
@@ -64,14 +64,14 @@ noticias{kmkv} {
         featured{array} /content/202007/14-indios-vuelven-a-confinamiento
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/13-costa-rica
+    featured{array} /content/202007/14-lluvias-record-en-china
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/13-kelly-preston
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202007/03-lo-importante-epstein
+        featured{array} /content/202007/kanye-bolsonaro-hongkong
     }
 }
 coleccion{kmkv} {
