@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/ep1-que-pasa-en-no-pasa-nada
+    featured{array} /content/202007/to-pimp-a-butterfly-y-blm
 }
 other{kmkv} {
     name Other (Internal)
