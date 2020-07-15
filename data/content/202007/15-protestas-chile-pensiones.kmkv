@@ -1,0 +1,45 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Saqueos, barricadas y enfrentamientos se registraron en Santiago y otras ciudades de Chile tras un llamado a protestar la noche del martes a favor de la aprobaci&oacute;n de una ley que permita el retiro anticipado de fondos de pensiones, con un saldo de 61 detenidos, informaron este mi&eacute;rcoles las autoridades.</p>
+<p>La protesta comenz&oacute; tras un llamado en redes sociales a efectuar un 'cacerolazo' en apoyo a la aprobaci&oacute;n a la ley que permite el retiro anticipado de 10% de los fondos de pensiones, el que se sinti&oacute; con fuerza en distintos puntos de Santiago y otras ciudades de Chile, donde las personas hicieron sonar con fuerza las cacerolas desde los balcones de departamentos o en las afueras de sus casas.</p>
+<p>Pero conforme pasaron las horas la jornada se torn&oacute; m&aacute;s violenta en barrios perif&eacute;ricos, donde manifestantes levantaron barricadas, saquearon supermercados y provocaron fuertes des&oacute;rdenes. En la comuna de Estaci&oacute;n Central, en el centro de la ciudad, encapuchados quemaron una automotora y un autob&uacute;s del transporte p&uacute;blico.</p>
+<p>En total, durante la jornada, se registraron 28 barricadas, 13 saqueos a supermercados y dos ataques a cuarteles policiales, que dejaron 61 detenidos en todo el pa&iacute;s, seg&uacute;n un reporte oficial de la polic&iacute;a.</p>
+<p><strong>Jornada clave en el Congreso&nbsp;</strong></p>
+<p>La jornada, que hizo recordar las protestas que se registraron tras el estallido social de octubre pasado, se produjo en la antesala de la votaci&oacute;n que se registrar&aacute; en la C&aacute;mara de Diputados sobre la iniciativa que permite el retiro anticipado de los fondos de pensiones para paliar la crisis econ&oacute;mica derivada de la pandemia del coronavirus, que golpea con dureza a Chile con m&aacute;s de 300.000 contagiados y 11.000 fallecidos.</p>
+<p>La semana pasada, la C&aacute;mara de Diputados aprob&oacute; legislar sobre la iniciativa y ahora debe aprobar en particular el articulado antes de su revisi&oacute;n en el Senado.</p>
+<p>Pero en un intento por frenar la iniciativa, que en primera instancia fue aprobada con votos de parlamentarios de la coalici&oacute;n de gobierno, horas antes de la votaci&oacute;n, el presidente Sebasti&aacute;n Pi&ntilde;era anunci&oacute; el fortalecimiento de un paquete de medidas para la clase media.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>A diferencia de su primera propuesta, calificada como "insuficiente", Pi&ntilde;era adicion&oacute; ahora un bono de casi 630 d&oacute;lares, seguido de un cr&eacute;dito blando. Adicionalmente anunci&oacute; un acuerdo para modificar el sistema de pensiones chileno, ya muy criticado por entregar baj&iacute;simas pensiones.</p>
+<p>&nbsp;</p>
+<p>"Ninguna discusi&oacute;n democr&aacute;tica, ninguna causa puede nunca justificar los hechos de violencia como los que se vivieron anoche", critic&oacute; este mi&eacute;rcoles el ministro del Interior y Seguridad, Gonzalo Blumel.</p>
+<p>La propuesta de retiro anticipado de los fondos cuenta con un alto respaldo popular. Un sondeo reciente mostr&oacute; que 83% de la poblaci&oacute;n apoya la medida para poder hacer frente a la crisis derivada de la pandemia, que en Chile generar&aacute; una ca&iacute;da del PIB de hasta 7,5% este a&ntilde;o.</p>
+}
+title Protestas violentas en Chile a favor del retiro de fondos de pensiones
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/15-protestas-chile-pensiones.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Durante la jornada, se registraron 28 barricadas, 13 saqueos a supermercados y dos ataques a cuarteles policiales, que dejaron 61 detenidos en todo el país.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Protestas en Chile<b>
+    text1 Protestas violentas en Chile a favor del retiro de fondos de pensiones
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-politica,noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

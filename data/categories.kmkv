@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202007/13-inmunidad-ante-covid-19
+        featured{array} /content/202007/15-venezuela-endurece-confinamiento
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/14-ejecucion-federal
+        featured{array} /content/202007/15-protestas-chile-pensiones
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/14-indios-vuelven-a-confinamiento
+        featured{array} /content/202007/15-venezuela-endurece-confinamiento
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/14-lluvias-record-en-china
+    featured{array} /content/202007/15-protestas-chile-pensiones
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202007/13-kelly-preston
+        featured{array} /content/202007/15-hong-kong-profesores-censura
     }
     video{kmkv} {
         name Video

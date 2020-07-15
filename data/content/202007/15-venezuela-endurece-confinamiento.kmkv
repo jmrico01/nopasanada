@@ -1,0 +1,41 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>A partir de este mi&eacute;rcoles rige un endurecimiento del confinamiento en Caracas y el vecino estado de Miranda debido al avance de la pandemia de COVID-19 en Venezuela, anunci&oacute; el presidente, Nicol&aacute;s Maduro.&nbsp;</p>
+<p>"Debido al incremento de los casos de Covid-19, producto del ingreso ilegal de personas al pa&iacute;s, y atendiendo las recomendaciones de las Comisi&oacute;n Presidencial, tom&eacute; la decisi&oacute;n de aplicar cuarentena radical y necesaria en Caracas y el estado Miranda &iexcl;Cuidar la Salud es lo Primero!", inform&oacute; Maduro de madrugada en Twitter.</p>
+<p>El endurecimiento se produce despu&eacute;s de que el s&aacute;bado 11 de julio el gobierno anunciara la "flexibilizaci&oacute;n" de la cuarentena en Caracas y otros estados, permitiendo el funcionamiento de bancos y otras actividades econ&oacute;micas. "Hay que darle un respiro a la econom&iacute;a", dijo Maduro entonces.</p>
+<p>La vicepresidenta, Delcy Rodr&iacute;guez, anunci&oacute; el 10 de julio la extensi&oacute;n por un mes m&aacute;s del "estado de alarma" para controlar un "brote" del nuevo coronavirus en el pa&iacute;s, medida que da base legal para prolongar la cuarentena, en vigor en el pa&iacute;s desde el 16 de marzo.</p>
+<p>Se trata de la cuarta extensi&oacute;n declarada por el gobierno socialista, en momentos en que Venezuela experimenta un "preocupante" aumento en los casos, seg&uacute;n ha alertado el propio Maduro.</p>
+<p>La semana pasada, el n&uacute;mero dos del chavismo, Diosdado Cabello, y el gobernador del petrolero estado Zulia (oeste), Omar Prieto, confirmaron haber contra&iacute;do COVID-19. Le sigui&oacute; el ministro de Petr&oacute;leo, Tareck El Aissami, cercano colaborador de Maduro.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El martes Venezuela super&oacute; la barrera de los 10.000 casos, de acuerdo al gobierno de Maduro, pero la cifras oficiales son cuestionadas por la oposici&oacute;n y organizaciones como Human Rights Watch, al considerarlas poco cre&iacute;bles.</p>
+<p>Pasaron 70 d&iacute;as entre el primer caso registrado y el n&uacute;mero 1.000; solo cuatro entre el caso 6.000 y el 7.000 y tres entre el 7.000 y el 8.000.</p>
+}
+title Venezuela endurece confinamiento en Caracas por COVID-19
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/15-venezuela-endurece-confinamiento.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description A partir de este miércoles rige un endurecimiento del confinamiento en Caracas y el vecino estado de Miranda debido al avance de la pandemia de COVID-19 en Venezuela, anunció el presidente, Nicolás Maduro.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Venezuela endurece confinamiento<b>
+    text1 Venezuela endurece confinamiento en Caracas por COVID-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
