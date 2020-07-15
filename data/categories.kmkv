@@ -39,7 +39,7 @@ guida{kmkv} {
         featured{array} /content/202007/bubble-waffles
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202007/bubble-waffles
+    featured{array} /content/202007/don-lucas-cafe
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202005/07-jugando-con-fuego
