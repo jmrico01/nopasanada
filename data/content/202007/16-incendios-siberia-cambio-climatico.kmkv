@@ -1,0 +1,39 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Los bomberos rusos intentan extinguir m&aacute;s de 200 incendios que se registran en Siberia y que afectaron este jueves a la periferia de varias ciudades rusas, algunas de ellas literalmente inmersas en el humo.</p>
+<p>Una de las urbes m&aacute;s afectadas por estos incendios, que se registran cada a&ntilde;o pero que cada vez son m&aacute;s graves debido, seg&uacute;n los expertos, al calentamiento global, es Yugorsk, situada unos 1.600 kil&oacute;metros al noreste de Mosc&uacute;, donde un grupo de m&aacute;s de 100 bomberos y voluntarios lucha contra las llamas.</p>
+<p>"El fuego no amenaza las casas, pero el humo ha entrado en la ciudad", dijo Alexe&iuml; Maksimeniouk, un responsable municipal.</p>
+<p>En Iakutsk, ciudad de m&aacute;s de 300.000 habitantes en Siberia oriental, fotos y videos publicados en las redes sociales mostraban una nube gris de humo que envolv&iacute;a las calles y casas.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>En total, los casi 200 focos se extienden en un total de 43.000 hect&aacute;reas, pero hay otras 380.000 hect&aacute;reas que han sido devastadas por las llamas y en las que no hay bomberos, ya que la pol&iacute;tica oficial, a menudo criticada, es no extinguir incendios en zonas aisladas y deshabitadas.</p>
+<p>Este a&ntilde;o, los fuegos son m&aacute;s intensos y abundantes debido a la ola de calor provocada por el cambio clim&aacute;tico. Pero grupos ecologistas tambi&eacute;n apuntan que la gesti&oacute;n deficiente de los bosques rusos y la falta de medios financieros que se les consagra contribuyen a este recrudecimiento de los incendios.</p>
+}
+title Incendios en Siberia comienzan a afectar ciudades rusas
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/16-incendios-siberia-cambio-climatico.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Este año, los fuegos son más intensos y abundantes debido a la ola de calor provocada por el cambio climático.En total, los casi 200 focos se extienden en un total de 43.000 hectáreas, pero hay otras 380.000 hectáreas que han sido devastadas por las llamas y en las que no hay bomberos, ya que la política oficial, a menudo criticada, es no extinguir incendios en zonas aisladas y deshabitadas.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Incendios en Siberia<b>
+    text1 Incendios en Siberia comienzan a afectar ciudades rusas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,53 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El masivo pirateo de cuentas en Twitter de pol&iacute;ticos, millonarios y compa&ntilde;&iacute;as este mi&eacute;rcoles en Estados Unidos, plantea la pregunta de la seguridad de la red social favorita de Donald Trump y, de manera m&aacute;s amplia, de todas estas plataformas.</p>
+<p>Del "modus operandi" hasta las posibles defensas contra los piratas, esto es lo que se sabe de este espectacular ciberataque.</p>
+<p><strong>Un ataque "m&aacute;s bien cl&aacute;sico"</strong></p>
+<p>Twitter contin&uacute;a con la investigaci&oacute;n del ciberataque, por el cual desde cuentas certificadas de personalidades como Joe Biden o Bill Gates se invit&oacute; a la gente a enviar bitcoins a una determinada direcci&oacute;n con la promesa de devolverles el doble.</p>
+<p>Pero surgen pistas. Seg&uacute;n la revista Vice, una persona en el interior de Twitter podr&iacute;a haber provocado el pirateo, de acuerdo con capturas de pantalla intercambiadas con dos fuentes an&oacute;nimas que dicen ser responsables del ataque.</p>
+<p>Una de esas fuentes afirm&oacute; a la revista que se le pag&oacute; a un empleado de Twitter.</p>
+<p>"Esto no proviene de un fallo t&eacute;cnico. Apuntaron a uno o varios empleados de Twitter para estar seguros de tener los accesos operativos que administran cuentas certificadas, de gran notoriedad, con el objetivo de amplificar la comunicaci&oacute;n sobre la estafa, m&aacute;s bien cl&aacute;sica, por otra parte", explica Lo&iuml;c Guezo, director de estrategia en ciberseguridad de ProofPoint.</p>
+<p>"Las primeras pistas parecen remontar hacia al menos una persona que ofrec&iacute;a estos &uacute;ltimos d&iacute;as en el mercado negro accesos a cuentas certificadas de personalidades, sin conseguirlo. Parece que entonces eligi&oacute; utilizarlas &eacute;l mismo para garantizarse ganancias r&aacute;pidas", seg&uacute;n G&eacute;r&ocirc;me Billois, experto en ciberseguridad de Wavestone.</p>
+<p><strong>&iquest;Qu&eacute; consecuencias?</strong></p>
+<p>En lo inmediato, son limitadas. Twitter reaccion&oacute; r&aacute;pidamente, desactivando las cuentas concernidas y limitando las posibilidades de compartir mensajes sospechosos.</p>
+<p>Financieramente, la estafa parece tambi&eacute;n de poca envergadura: seg&uacute;n el sitio especializado Blockchain.com, que sigue las transacciones efectuadas en criptomonedas, un total de 12,58 bitcoins, es decir cerca de 116.000 d&oacute;lares, fue enviado a una de las direcciones mencionadas en los falsos tuits.</p>
+<p>Por otra parte, fue eso lo que permiti&oacute; a Twitter limitar el da&ntilde;o: el o los cibercriminales buscaron solo una r&aacute;pida ganancia, adem&aacute;s de llamar la atenci&oacute;n con el car&aacute;cter particulamente espectacular de la operaci&oacute;n.&nbsp;</p>
+<p>"Twitter fue muy reactivo, tiene visiblemente importantes capacidades de investigaci&oacute;n. Tambi&eacute;n jugaron la carta de la transparencia, comunicando de manera regular, algo que le da cr&eacute;dito y es se&ntilde;al de verdadera madurez sobre el tema", seg&uacute;n un portavoz de Clusif (club franc&eacute;s de seguridad de la informaci&oacute;n).</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Las consecuencias pudieron haber sido mucho m&aacute;s graves si los ciberpiratas hubiesen tenidos intenciones pol&iacute;ticas, subrayan los expertos.</p>
+<p>"Desde un punto de vista pol&iacute;tico, un tuit falso en un momento cr&iacute;tico podr&iacute;a tener un impacto enorme. Alguien que tuviese acceso a este tipo de cuenta en el buen momento y con el buen tipo de informaci&oacute;n falsa podr&iacute;a volcar totalmente una elecci&oacute;n", estima en ese sentido Anthony Glees, profesor especializado en seguridad e inteligencia de la Universidad de Buckingham.</p>
+<p>"Esta capacidad de controlar un n&uacute;mero importante de cuentas certificadas de primer plano en periodo electoral (en Estados Unidos) para tuitear en momentos precisos podr&iacute;a tener un efecto tremendo", confirman en Clusif.</p>
+<p>"Aqu&iacute;, la debilidad demostradas por Twitter es muy preocupante y plantea la pregunta de la importancia de las plataformas sociales en periodo electoral".</p>
+<p>Para el profesor Alan Woodward, del centro de ciberseguridad de la Universidad de Surrey, este ataque "muestra que organizaciones como Twitter pueden ser objeto de ataques a trav&eacute;s de su personal y que tienen que repensar su funcionamiento".</p>
+<p>El caso recuerda que "detr&aacute;s de las m&aacute;quinas hay seres humanos que pueden tener acceso a nuestros mensajes privados y a las informaciones que colocamos all&iacute;. Esos sistemas no son cerrados, lo que se intercambia puede ser accesible", subraya G&eacute;r&ocirc;me Billois.</p>
+<p>&nbsp;</p>
+}
+title Pirateo de Twitter es una señal clara de vulnerabilidad de redes sociales
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/16-hackean-cuentas-twitter.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Twitter continúa con la investigación del ciberataque, por el cual desde cuentas certificadas de personalidades como Joe Biden o Bill Gates se invitó a la gente a enviar bitcoins a una determinada dirección con la promesa de devolverles el doble.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Hackean cuentas de Twitter<b>
+    text1 Pirateo de Twitter es una señal clara de vulnerabilidad de redes sociales
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

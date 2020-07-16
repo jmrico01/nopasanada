@@ -1,0 +1,39 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La estatua que representa a una joven negra que particip&oacute; en las manifestaciones del movimiento "Black Lives Matter" fue retirada este jueves, un d&iacute;a despu&eacute;s de ser colocada sin permiso en la ciudad de Bristol, al suroeste de Inglaterra, informaron las autoridades municipales.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La escultura realizada por el artista brit&aacute;nico Marc Quinn, titulada "A Surge of Power", (Una oleada de poder) hab&iacute;a sido instalada sobre el pedestal donde se encontraba la de Edward Colston --un negrero del siglo XVII-- sin que el ayuntamiento de Bristol lo supiera.</p>
+<p>Seg&uacute;n las autoridades, ser&aacute; colocada en un museo para que su autor pueda recuperarla o donarla a la colecci&oacute;n de arte municipal. La pieza de acero representa a la manifestante Jen Reid, una mujer que fue fotografiada con el pu&ntilde;o en alto durante las manifestaciones antirracismo.</p>
+<p>El alcalde de Bristol, Marvin Rees, dijo en Twitter que entend&iacute;a la necesidad de la gente de "expresarse", pero que la estatua deb&iacute;a ser retirada.</p>
+<p>La imagen de Colston hab&iacute;a sido derribada a principios de junio, durante las manifestaciones del movimiento "Black Lives Matter" tras el fallecimiento, a finales de mayo, de George Floyd, un afroestadounidense muerto a manos de la polic&iacute;a en Estados Unidos, tras ser inmovilizado en el suelo despu&eacute;s de su arresto.</p>
+<p>&nbsp;</p>
+}
+title Retiran estatua de manifestante de "Black lives matter" en Reino Unido
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/16-estatua-black-lives-matter.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La estatua que representa a una joven negra que participó en las manifestaciones del movimiento "Black Lives Matter" fue retirada este jueves, un día después de ser colocada sin permiso en la ciudad de Bristol, al suroeste de Inglaterra, informaron las autoridades municipales.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Estatua de Black Lives Matter<b>
+    text1 Retiran estatua de manifestante de "Black lives matter" en Reino Unido
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-politica,noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

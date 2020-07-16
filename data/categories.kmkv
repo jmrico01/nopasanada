@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202007/14-lluvias-record-en-china
+        featured{array} /content/202007/16-incendios-siberia-cambio-climatico
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/15-venezuela-endurece-confinamiento
+        featured{array} /content/202007/16-hackean-cuentas-twitter
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/15-protestas-chile-pensiones
+    featured{array} /content/202007/16-michelle-obama-podcast
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202007/15-hong-kong-profesores-censura
+        featured{array} /content/202007/16-estatua-black-lives-matter
     }
     video{kmkv} {
         name Video
