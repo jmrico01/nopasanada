@@ -30,7 +30,7 @@ text {
 <hr />
 <p>&nbsp;</p>
 }
-title La relevancia de revisitar el álbum “To pimp a butterfly
+title La relevancia de revisitar el álbum “To Pimp a Butterfly"
 day 15
 text1 
 text2 
@@ -46,10 +46,10 @@ description La fotografía social descrita por Kendrick Lamar en el 2015 y los o
 year 2020
 author Allan Vargas Tomás
 featured{kmkv} {
-    title <b> La relevancia de revisitar el álbum “To pimp a butterfly”<b>
-    text1 Un mensaje directo hacia el racismo.
+    title <b>“To pimp a butterfly”<b>
+    text1 La relevancia de revisitar el álbum “To pimp a Butterfly." Un mensaje directo hacia el racismo.
     text2 Por Allan Vargas Tomás
-    pretitle OPINON:
+    pretitle OPINÓN:
     highlightColor #FBFF09
 }
 type article
