@@ -1,0 +1,36 @@
+text {
+<p>En Lo Importante de hoy respondemos la pregunta: &iquest;Cu&aacute;l pandemia? Por medio de una revisi&oacute;n del estado actual de la pandemia en el mundo. Vemos por qu&eacute; varios gobiernos ( incluyendo Estados Unidos ) quieren quitar la aplicaci&oacute;n TikTok y finalmente porqu&eacute; nos afectan los fallecimientos de personas famosas.</p>
+<hr />
+<p><strong>Productor Ejecutivo:</strong> Pietro Cercone</p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p><strong>Host:</strong> Pietro Cercone</p>
+<hr />
+<p>Vea el &uacute;ltimo episodio: $youtube/PC_coveAgBo$</p>
+}
+title El estado de la pandemia, el fin de TikTok y el efecto de la muerte de celebridades
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/16-estado-de-la-pandemia.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description ¿Cuál pandemia? Por medio de una revisión del estado actual de la pandemia en el mundo. Vemos por qué varios gobiernos ( incluyendo Estados Unidos ) quieren quitar la aplicación TikTok y finalmente porqué nos afectan los fallecimientos de personas famosas.
+year 2020
+featured{kmkv} {
+    title <b>El estado de la pandemia<b>
+    text1 El estado de la pandemia, el fin de TikTok y el efecto de la muerte de celebridades
+    text2 CON PIETRO CERCONE
+    pretitle LO IMPORTANTE:
+    highlightColor #00FFFF
+}
+type video
+subtitle 
+month 07
+tags{array} noticias-video,noticias-loimportante
+videoID bDLf1WzSBfc
+titlePoster 
+color #00FFFF
