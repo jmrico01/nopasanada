@@ -1,0 +1,38 @@
+text {
+<p>La agencia brit&aacute;nica de ciberseguridad acus&oacute; el jueves a un grupo de piratas inform&aacute;ticos que "casi con toda seguridad" trabajan para los servicios de inteligencia rusos de intentar robar informaci&oacute;n sobre los proyectos de vacunas contra el coronavirus.</p>
+<p>El Centro Nacional de Ciberseguridad (NCSC, por sus siglas en ingl&eacute;s) dijo que los objetivos de los piratas eran organismos de investigaci&oacute;n y desarrollo de vacunas del Reino Unido, Estados Unidos y Canad&aacute; y que sus acusaciones tienen el respaldo de las autoridades estadounidenses y canadienses.</p>
+<p>"El NCSC eval&uacute;a que (el grupo) APT29, tambi&eacute;n llamado Dukes (Duques) o Cozy Bear (Oso agradable) con casi toda seguridad opera como parte de los servicios de inteligencia rusos" se&ntilde;al&oacute; antes de agregar que Estados Unidos y Canad&aacute; opinan lo mismo.</p>
+<p>El canciller brit&aacute;nico Dominic Raab manifest&oacute; su indignaci&oacute;n por este hallazgo, que fue dado a conocer junto con consejos para que las propias organizaciones se puedan proteger ellas mismas de los ciberataques.</p>
+<p>"Es totalmente inaceptable que los Servicios de Inteligencia rusos tengan en el punto de mira aquellos que est&aacute;n trabajando para combatir la pandemia de coronavirus", dijo.</p>
+<p>"Mientras otros persiguen sus propios intereses con un comportamiento irresponsable, el Reino Unido y sus aliados est&aacute;n trabajando duro para encontrar una vacuna que proteja la salud de todos.</p>
+<p>"El Reino Unido seguir&aacute; contrarrestando a aquellos que realizan estos ciberataques, y trabajando con los aliados para que los responsables rindan cuentas".</p>
+}
+title Londres acusa a piratas rusos de querer robar informaciones sobre vacuna contra covid-19
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/16-piratas-rusos-de-querer-robar-informaciones.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La agencia británica de ciberseguridad acusó el jueves a un grupo de piratas informáticos que "casi con toda seguridad" trabajan para los servicios de inteligencia rusos de intentar robar información sobre los proyectos de vacunas contra el coronavirus.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>rusos de querer robar informaciones<b>
+    text1 Londres acusa a piratas rusos de querer robar informaciones sobre vacuna contra covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-politica,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
