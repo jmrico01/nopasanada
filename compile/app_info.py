@@ -22,6 +22,12 @@ linux_options = PlatformTargetOptions(
     ]
 )
 
+mac_options = PlatformTargetOptions(
+    defines=[],
+    compiler_flags=[],
+    linker_flags=[]
+)
+
 TARGETS = [
     BuildTarget("nopasanada",
         source_file="src/main.cpp",
