@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/17-aumentan-casos-de-covid-en-suecia
+    featured{array} /content/202007/compermisa-ep-1-nataliacarvajal-guiriuribe
 }
 other{kmkv} {
     name Other (Internal)
@@ -87,21 +87,21 @@ venus{kmkv} {
     name Venus
     moda{kmkv} {
         name Moda
-        featured{array} /content/202004/moda-adapta-coronavirus
+        featured{array} /content/202007/compermisa-ep-1-nataliacarvajal-guiriuribe
     }
     salud{kmkv} {
         name Salud de la mujer
-        featured{array} /content/202003/aislamiento-astronautas-consejos
+        featured{array} /content/202007/compermisa-ep-1-nataliacarvajal-guiriuribe
     }
     displayOrder{array} derechos, inspiradoras, moda, salud
-    featured{array} /content/202004/22-lo-importante
+    featured{array} /content/202007/compermisa-ep-1-nataliacarvajal-guiriuribe
     derechos{kmkv} {
         name Derechos de las mujeres
         featured{array} /content/202004/violencia-domestica-cuarentena
     }
     inspiradoras{kmkv} {
         name Mujeres inspiradoras
-        featured{array} /content/202006/06-esquina-de-guiri
+        featured{array} /content/202007/compermisa-ep-1-nataliacarvajal-guiriuribe
     }
     belleza{kmkv} {
         name Belleza
