@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/17-estadounidenses-detenidos-en-venezuela
+    featured{array} /content/202007/17-aumentan-casos-de-covid-en-suecia
 }
 other{kmkv} {
     name Other (Internal)
