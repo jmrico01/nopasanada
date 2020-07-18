@@ -46,7 +46,7 @@ guida{kmkv} {
     }
     viaje{kmkv} {
         name Viaje
-        featured{array} /content/202006/05-comun-y-silvestre
+        featured{array} /content/202007/bubble-waffles
     }
     recomendado{kmkv} {
         name Recomendado
