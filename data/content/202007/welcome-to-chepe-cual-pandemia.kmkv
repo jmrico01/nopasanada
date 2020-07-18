@@ -1,0 +1,44 @@
+text {
+<p style="text-align: center;"><a href="https://mailchi.mp/3eef86616803/nopasanada" target="_blank" rel="noopener"><strong><span style="text-decoration: underline;">S&uacute;scribete a nuestro newsletter diario:</span></strong></a></p>
+<p style="text-align: center;">Un nuevo episodio de Welcome To Chepe</p>
+<hr />
+<p style="text-align: center;"><strong>Escuche el nuevo estreno: "Compermisa" con Guiri Uribe y Natalia Carvajal<br /></strong></p>
+<p style="text-align: center;"><strong>$anchor/compermisa/embed/episodes/Compermisa-con-Guiri-Uribe-y-Natalia-Carvajal---EP-01-egtor9$</strong></p>
+<hr />
+<p><strong>Una producci&oacute;n original de:</strong> NO PASA NADA</p>
+<p><strong>Productor Ejecutivo:</strong> Pietro Cercone</p>
+<p><strong>Gui&oacute;n, producci&oacute;n y preesentado por:</strong> Kenneth Bald&iacute;</p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p><strong>Editor de video:</strong> Alejandro Medeiras</p>
+<p>&nbsp;</p>
+<hr />
+<p style="text-align: center;"><strong>Vea el &uacute;ltimo episodio de Lo Importante:</strong></p>
+<p style="text-align: center;">$youtube//bDLf1WzSBfc$</p>
+}
+title WELCOME TO CHEPE
+day 18
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/welcome-to-chepe-cual-pandemia.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Kenneth habla sobre el individuo que se viralizo por su comentario preguntando: ¿cuál pandemia?... Durante la peor pandemia de los últimos cien años. Luego, presentamos un análisis sobre el supuesto recorte al gasto público y finalmente celebrammos ( sin cerveza porqué se nos olvido hoy ) por la aprobación de la ley de acoso callejero.
+year 2020
+featured{kmkv} {
+    title <b>WELCOME TO CHEPE<b>
+    text1 ¿Cuál pandemia? El recorte al gasto y la ley de acoso callejero.
+    text2 Con Kenneth Baldí
+    pretitle NOTICIAS
+    highlightColor #00FFFF
+}
+type video
+subtitle Kenneth habla sobre el individuo que se viralizo por su comentario preguntando: ¿cuál pandemia?... Durante la peor pandemia de los últimos cien años. Luego, presentamos un análisis sobre el supuesto recorte al gasto público y finalmente celebrammos ( sin cerveza porqué se nos olvido hoy ) por la aprobación de la ley de acoso callejero.
+month 07
+tags{array} noticias
+videoID 4aLPgXBpLT4
+titlePoster 
+color #F2FF00
