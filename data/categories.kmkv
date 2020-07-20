@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202007/17-medicos-indios-exhaustos-contra-covid19
+        featured{array} /content/202007/20-medicamento-contra-covid
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/17-inversionistas-presionan-a-bolsonaro-para-preservar-amazonia
+        featured{array} /content/202007/20-matan-esposo-de-jueza-federal
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/17-aumentan-casos-de-covid-en-suecia
+        featured{array} /content/202007/20-espana-restricciones-contagios
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/17-estadounidenses-detenidos-en-venezuela
+    featured{array} /content/202007/20-quito-situacion-sanitaria-critica
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/16-michelle-obama-podcast

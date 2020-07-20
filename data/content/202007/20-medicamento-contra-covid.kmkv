@@ -1,0 +1,43 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Un medicamento llamado SNG001 reducir&iacute;a en 79% el riesgo de desarrollar una forma severa de la covid-19, seg&uacute;n resultados preliminares publicados el lunes por el laboratorio brit&aacute;nico que lo produce, Synairgen.</p>
+<p>Este tratamiento inhalado utiliza el interfer&oacute;n beta, una prote&iacute;na natural que participa en la respuesta del organismo contra los virus.</p>
+<p>El estudio de la universidad de Southampton con 101 pacientes llega a la conclusi&oacute;n de que quienes son tratados con este medicamento tienen un 79% menos de posibilidades de desarrollar formas severas de la enfermedad que los que recibieron un placebo.</p>
+<p>Estas formas severas obligan a usar respirador y pueden resultar mortales.</p>
+<p>Los pacientes tratados con SNG001 tienen m&aacute;s del doble de posibilidades de curarse en relaci&oacute;n a los que recibieron un placebo.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Tres de los pacientes (el 6%) tratados con el placebo murieron, mientras que no hubo ning&uacute;n fallecido entre los que fueron tratados con SNG001.</p>
+<p>El estudio se llev&oacute; a cabo con una muestra reducida de pacientes y no fue evaluado por un comit&eacute; de lectura. Sin embargo podr&iacute;a revolucionar la manera como se trata el covid-19.</p>
+<p>Seg&uacute;n el director general de Synairgen, Richard Marsden, podr&iacute;a tratarse de "un gran avance".</p>
+<p>"Los resultados confirman nuestra convicci&oacute;n de que el interfer&oacute;n beta (...) presenta un potencial enorme como tratamiento por inhalaci&oacute;n para restaurar la respuesta inmunitaria de los pulmones, mejorando la protecci&oacute;n, acelerando la recuperaci&oacute;n y combatiendo el impacto del virus SARS-CoV-2", dijo en un comunicado Tom Wilkinson, profesor de medicina en la universidad de Southampton, que dirige el ensayo.</p>
+<p>&nbsp;</p>
+}
+title Medicamento contra el covid-19 podría reducir riesgo de formas severas
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/20-medicamento-contra-covid.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Un medicamento llamado SNG001 reduciría en 79% el riesgo de desarrollar una forma severa de la covid-19, según resultados preliminares publicados el lunes por el laboratorio británico que lo produce, Synairgen.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Medicamento contra covid19<b>
+    text1 Medicamento contra el covid-19 podría reducir riesgo de formas severas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
