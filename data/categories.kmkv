@@ -71,14 +71,14 @@ noticias{kmkv} {
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202007/16-estado-de-la-pandemia
+        featured{array} /content/202007/ep2-que-pasa-en-no-pasa-nada
     }
 }
 coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/compermisa-ep-1-nataliacarvajal-guiriuribe
+    featured{array} /content/202007/ep2-que-pasa-en-no-pasa-nada
 }
 other{kmkv} {
     name Other (Internal)
