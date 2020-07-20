@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber? &nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>Dos proyectos<strong> de vacuna contra la covid-19</strong>, uno brit&aacute;nico y el otro chino, demostraron ser seguros para los pacientes y produjeron respuesta inmunitaria importante, seg&uacute;n resultados de los ensayos cl&iacute;nicos publicados este lunes en la revista m&eacute;dica The Lancet.</p>
+<p>El primero proyect odesarrollado <strong>por la Universidad de Oxford</strong> en asociaci&oacute;n con AstraZeneca, gener&oacute; <strong>"una fuerte respuesta inmunitaria"</strong> en un ensayo con m&aacute;s de 1.000 pacientes, y el segundo, apoyado por Cansino Biologics, provoc&oacute; una fuerte reacci&oacute;n de anticuerpos en otro ensayo en la mayor&iacute;a de los aproximadamente 500 participantes, seg&uacute;n la revista.</p>
+<p>Estos ensayos cl&iacute;nicos <strong>est&aacute;n a&uacute;n en una fase preliminar</strong> (fase 1/2 y fase 2), y su eficacia debe a&uacute;n ser establecida en un ensayo de fase 3, sobre un n&uacute;mero m&aacute;s importante de participantes, antes de contemplar su comercializaci&oacute;n a gran escala.</p>
+<p><em><strong>-Resultados esperados-</strong></em></p>
+<p>"Si nuestra vacuna se revelara eficaz, es una prometedora opci&oacute;n, <strong>ya que este tipo de vacuna puede ser fabricada f&aacute;cilmente a gran escala</strong>" coment&oacute; Sarah Gilbert, investigadora de la universidad de Oxford.</p>
+<p>La vacuna de Oxford, como la de CanSino, est&aacute;n basadas en un adenavirus modificado, que no se replica<strong>, lo que las convierte en m&aacute;s seguras</strong> en especial para los pacientes m&aacute;s fr&aacute;giles</p>
+<p><em><strong>-Sobre efectos secundarios-</strong></em></p>
+<p><strong>Ninguno de estos dos ensayos gener&oacute; efectos indeseables graves</strong>. Los efectos secundarios m&aacute;s observados fueron fiebre, fatiga, y dolor en el punto de inyecci&oacute;n de la vacuna.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title Vacuna: Proyecto de Oxford da respuesta positiva
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/vacuna-oxford-respuesta-imune-positiva.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El proyecto de la Universidad de Oxford generó "una fuerte respuesta inmunitaria" en un ensayo con más de 1,000 pacientes. Lea más ->
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Vacuna: Proyecto de Oxford da respuesta positiva<b>
+    text1 Ensayo genero: "una fuerte respuesta inmunitaria"
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle Oxford da resultados esperados y positivos en camino al desarollo de su vacuna contra el COVID-19
+month 07
+tags{array} noticias-politica,noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
