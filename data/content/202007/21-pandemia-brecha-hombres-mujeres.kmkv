@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La pandemia de la COVID-19 podr&iacute;a comprometer los progresos logrados por las mujeres en las &uacute;ltimas tres d&eacute;cadas para reducir la brecha econ&oacute;mica que las separa de los hombres, destac&oacute; la directora gerente del FMI este martes en el blog de la entidad.</p>
+<p>La crisis sanitaria, que va a generar una contracci&oacute;n del PIB global de 4,9%, afecta m&aacute;s a las mujeres que a los hombres ya que estas ocupan m&aacute;s empleos en sectores m&aacute;s golpeados como la industria de los servicios, el comercio minorista o la hoteler&iacute;a. &nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>En Estados Unidos, cerca de un 54% de las mujeres trabaja en sectores donde no pueden teletrabajar y en Brasil este porcentaje llega al 67%.&nbsp;</p>
+<p>El FMI se&ntilde;al&oacute; que adem&aacute;s a las mujeres las perjudica que tienen la tendencia de efectuar m&aacute;s trabajo dom&eacute;stico no remunerado. En promedio unas 2,7 horas a la semana.&nbsp;</p>
+<p>"Ellas asumen esencialmente las responsabilidades familiares que derivan del confinamiento por ejemplo el cierre de las escuelas", destac&oacute; el FMI.&nbsp;</p>
+<p>Y una vez que la econom&iacute;a abre, la situaci&oacute;n no mejora ya que los expertos alertaron que para las mujeres es m&aacute;s dif&iacute;cil encontrar trabajo a tiempo completo.&nbsp;</p>
+<p>El FMI destac&oacute; es crucial que los responsables de pol&iacute;ticas "adopten medidas para limitar los efectos adversos que tiene la pandemia para las mujeres". &nbsp;</p>
+<p>En este sentido la entidad alab&oacute; la Coalici&oacute;n Latinoamericana para Empoderar a las Mujeres, creada en abril a instancias de la vicepresidencia de Colombia y Costa Rica y de la Cepal.&nbsp;</p>
+<p>Adem&aacute;s celebr&oacute; medidas adoptadas en Austria, Italia, Portugal y Eslovenia para dar una licencia pagada, aunque sea parcial, a los padres con hijos menores de una cierta edad y tambi&eacute;n destac&oacute; una iniciativa de Francia de dar un permiso a los padres afectados por el cierre de las escuelas</p>
+}
+title Pandemia podría aumentar brecha entre hombres y mujeres
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/21-pandemia-brecha-hombres-mujeres.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La pandemia de la COVID-19 podría comprometer los progresos logrados por las mujeres en las últimas tres décadas para reducir la brecha económica que las separa de los hombres, destacó la directora gerente del FMI este martes en el blog de la entidad.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Podría aumentar brecha entre hombres y mujeres<b>
+    text1 Pandemia podría aumentar brecha entre hombres y mujeres
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-politica,noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
