@@ -21,8 +21,8 @@ media{kmkv} {
 description Enfoque es una serie de micro-documentales de NO PASA NADA donde se destaca el trabajo de un artistas y su medio. En este episodio conocemos al abogado de profesión Felipe Gallegos Pacheco y su proyecto "Veragua" donde confecciona joyería inspirada en la naturaleza de CostaRica. Conozca su historia.
 year 2020
 featured{kmkv} {
-    title <b>Artesano crea joyería inspirada en la naturaleza de Costa Rica<b>
-    text1 "Veragua"
+    title <b>Joyería inspirada en la naturaleza<b>
+    text1 "Veragua" | Artesano crea joyería inspirada en la naturaleza de Costa Rica
     text2 Con Felipe Gallegos Pacheco
     pretitle ENFOQUE :
     highlightColor #00FFFF
