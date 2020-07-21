@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202007/20-quito-situacion-sanitaria-critica
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202007/16-michelle-obama-podcast
+        featured{array} /content/202007/artesano-inspirado-en-naturaleza
     }
     video{kmkv} {
         name Video
