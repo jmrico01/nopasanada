@@ -19,7 +19,7 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202007/headers/20-espana-restricciones-contagios.jpg
+    header /images/202007/headers/vacuna-oxford-respuesta-imune-positiva.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     banksy /images/202006/10-banksy/banksy.jpg
 }
@@ -34,11 +34,7 @@ featured{kmkv} {
     highlightColor #FBFF09
 }
 type article
-subtitle {
-Oxford da resultados esperados y positivos en camino al desarollo de su vacuna contra el COVID-19 
-
-
-}
+subtitle Oxford da resultados esperados y positivos en camino al desarollo de su vacuna contra el COVID-19
 month 07
 tags{array} noticias-politica,noticias-loimportante
 videoID 
