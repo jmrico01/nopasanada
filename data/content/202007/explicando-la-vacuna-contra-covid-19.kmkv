@@ -1,0 +1,40 @@
+text {
+<p style="text-align: center;"><a href="https://mailchi.mp/3eef86616803/nopasanada" target="_blank" rel="noopener"><strong><span style="text-decoration: underline;">S&uacute;scribete a nuestro newsletter diario:</span></strong></a></p>
+<p style="text-align: center;">Un nuevo episodio de El Traductor</p>
+<hr />
+<p><strong>Una producci&oacute;n original de:</strong> NO PASA NADA</p>
+<p><strong>Gui&oacute;n, producci&oacute;n, edici&oacute;n y presentado por:</strong> Pietro Cercone</p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p style="text-align: center;"><strong>Vea el &uacute;ltimo episodio de Lo Importante:</strong></p>
+<p style="text-align: center;">$youtube//bDLf1WzSBfc$</p>
+}
+title Explicado la vacuna contra el COVID-19
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/explicando-la-vacuna-contra-covid-19.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Esta semana reportamos las noticias positivas sobre al avance de varios proyectos trabajando en el desarrollo de la vacuna contra el coronavirus. Hoy en el traductor de NO PASA NADA te explicamos que significa esto. Además, en que etapa esta y cuál es el avance de vacuna del proyecto de Oxford y que tanta diferencia va hacer una vez que esta vacuna este disponible y quien se espera la tendrá primero. Ve todo esto y más.
+year 2020
+featured{kmkv} {
+    title <b>Explicado la vacuna contra el COVID-19<b>
+    text1 ¿Qué tan cerca estamos de que se desarrolle una vacuna?
+    text2 Con Pietro Cercone
+    pretitle EL TRADUCTOR
+    highlightColor #00FFFF
+}
+type video
+subtitle La búsqueda de una vacuna para prevenir el COVID-19 comenzó este año. ¿Pero qué tan cerca estamos de que se desarrolle? Y una vez que se desarrolle una vacuna... ¿Cuándo la tendremos disponible?
+month 07
+tags{array} noticias
+videoID pvFE0iuQ1WI
+titlePoster 
+color #F2FF00
