@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202007/21-pandemia-brecha-hombres-mujeres
+        featured{array} /content/202007/22-guatemala-ataudes-coronavirus
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/20-matan-esposo-de-jueza-federal
+        featured{array} /content/202007/22-primera-sonda-china-lista
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/21-pandemia-brecha-hombres-mujeres
+        featured{array} /content/202007/22-eeuu-paga-1950-millones-por-posible-vacuna
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/21-union-europea-acuerdo-historico
+    featured{array} /content/202007/22-pandemia-se-prolonga-en-mexico
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/21-kanye-west-casa-blanca

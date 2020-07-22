@@ -1,0 +1,48 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El cohete est&aacute; preparado y se realizan las &uacute;ltimas verificaciones. China lanza esta semana una sonda hacia Marte, una misi&oacute;n complicada que refleja sus crecientes ambiciones espaciales frente a Estados Unidos.</p>
+<p>El lanzamiento est&aacute; previsto para el s&aacute;bado a partir de la isla tropical de Hain&aacute;n (sur), conocida por sus playas y hoteles de 5 estrellas. Pero el tiempo o los vientos desfavorables pueden retrasar el evento.&nbsp;</p>
+<p>La misi&oacute;n Tianwen-1 ("Preguntas al cielo-1") llevar&aacute; una sonda compuesta por tres elementos: un orbitador de observaci&oacute;n, que girar&aacute; alrededor del planeta rojo, un aterrizador y un robot teledirigido, encargado de analizar el suelo marciano.</p>
+<p>China no es la &uacute;nica que quiere enviar una sonda a Marte. Los Emiratos &Aacute;rabes Unidos enviaron la suya ("Esperanza") el lunes y Estados Unidos lanzar&aacute; una ("Marte 2020") el 30 de julio.</p>
+<p>Estos pa&iacute;ses buscan beneficiarse de la actual distancia reducida entre la Tierra y el planeta rojo.&nbsp;</p>
+<p>Para recorrer este largo trayecto, de unos 55 millones de kil&oacute;metros -lo que equivale a casi 5.000 idas y vueltas entre Par&iacute;s y Nueva York-, la sonda china tardar&aacute; unos siete meses. Llegar&aacute; al campo de gravedad de Marte en febrero de 2021.</p>
+<p>Tianwen-1 es "similar a las misiones Viking estadounidenses de 1975-1976" en t&eacute;rminos de "escala y ambici&oacute;n", explica Jonathan Mcdowell, astr&oacute;nomo en el Centro Harvard Smithsonian para la Astrof&iacute;sica, en Estados Unidos.</p>
+<p>Lejos de la feroz competencia espacial entre Estados Unidos y la Uni&oacute;n Sovi&eacute;tica durante la Guerra Fr&iacute;a, el pa&iacute;s asi&aacute;tico recupera terreno. Envi&oacute; a su primer hombre al espacio en 2003, hizo aterrizar peque&ntilde;os robots (los "conejos de jade") en la Luna en 2013 y 2019, y acaba de terminar en junio de establecer la constelaci&oacute;n de sat&eacute;lites de su sistema de navegaci&oacute;n Beidu, rival del GPS estadounidense.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La misi&oacute;n en Marte es la pr&oacute;xima gran etapa del programa chino, que tambi&eacute;n prev&eacute; la construcci&oacute;n de una estaci&oacute;n espacial en 2022.&nbsp;</p>
+<p>"El hecho que China se sume a la conquista de Marte va a cambiar la situaci&oacute;n actual, que ha estado dominada por Estados Unidos durante medio siglo", subraya Chen Lan, analista del sitio Gotaikonauts.com, especializado en el programa espacial chino.</p>
+<p>Seg&uacute;n los expertos, la experiencia de China en la Luna le ser&aacute; muy &uacute;til para su misi&oacute;n en Marte.</p>
+<p>De hecho, de las cuarenta misiones sovi&eacute;ticas, estadounidenses, europeas, japonesas o indias lanzadas hacia el planeta rojo desde 1960, la mayor&iacute;a se han saldado con fracasos.</p>
+<p>En 2011, China ya hab&iacute;a intentado conquistar Marte con su sonda Yingho-1 ("Luci&eacute;rnaga-1") colocada en una nave rusa. Pero esta &uacute;ltima sufri&oacute; una aver&iacute;a.&nbsp;</p>
+<p>Lejos de fanfarronear, China se muestra cautelosa despu&eacute;s de haber registrado algunos fracasos desde principios de 2020, con lanzamientos fallidos y el regreso a la Tierra fallido de una c&aacute;psula espacial.</p>
+<p>Los medios de comunicaci&oacute;n chinos ofrecen una cobertura modesta de los preparativos y el lanzamiento del cohete Long Marche 5, que llevar&aacute; la sonda a Marte, no deber&iacute;a ser retransmitido en directo por televisi&oacute;n.</p>
+}
+title Todo listo para envío de primera sonda china con destino Marte
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/22-primera-sonda-china-lista.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El cohete está preparado y se realizan las últimas verificaciones. China lanza esta semana una sonda hacia Marte, una misión complicada que refleja sus crecientes ambiciones espaciales frente a Estados Unidos.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Primera sonda china a Marte lista<b>
+    text1 Todo listo para envío de primera sonda china con destino Marte
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-politica,noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
