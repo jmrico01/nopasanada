@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/artesano-inspirado-en-naturaleza
+    featured{array} /content/202007/explicando-la-vacuna-contra-covid-19
 }
 other{kmkv} {
     name Other (Internal)
