@@ -1,6 +1,6 @@
 #include <cassert>
 #include <ctime>
-#include <filesystem>
+// #include <filesystem>
 #if SERVER_HTTPS
 #define CPPHTTPLIB_OPENSSL_SUPPORT
 #define CPPHTTPLIB_ZLIB_SUPPORT
@@ -486,6 +486,7 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 	pathBuffer.Append(rootPath);
 	pathBuffer.Append(ToString("data/content"));
 	pathBuffer.Append('\0');
+/*
 	for (const auto& entryIt : std::filesystem::recursive_directory_iterator(pathBuffer.data)) {
 		if (!entryIt.is_regular_file()) {
 			continue;
@@ -559,6 +560,7 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 		auto& featuredImagesString = *GetKmkvItemStrValue(featuredKmkv, "images");
 		featuredImagesString.Append(entryData.header.ToArray());
 	}
+	*/
 
 	DynamicArray<HashTable<KmkvItem<StandardAllocator>>*> metadataKmkvPtrs(metadataKmkvs.size);
 	for (uint64 i = 0; i < metadataKmkvs.size; i++) {
@@ -849,7 +851,7 @@ int main(int argc, char** argv)
                    templateItems.Add("title", entryData.title.ToArray());
 
                    const uint64 AUTHOR_STRING_MAX = 256;
-                   auto AuthorStringConvert = [&uri](const Array<char>& author, FixedArray<char, AUTHOR_STRING_MAX>* outString) {
+                   auto AuthorStringConvert = [](const Array<char>& author, FixedArray<char, AUTHOR_STRING_MAX>* outString) {
                        outString->Clear();
                        if (author.size == 0) {
                            return true;
