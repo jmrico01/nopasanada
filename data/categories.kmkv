@@ -24,7 +24,7 @@ mas{kmkv} {
     }
     saludmental{kmkv} {
         name Salud mental
-        featured{array} /content/202007/21-kanye-west-casa-blanca
+        featured{array} /content/202007/22-como-deberiamos-estar-hablando-de-kanye
     }
     arteymusica{kmkv} {
         name Arte y música
