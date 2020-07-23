@@ -36,10 +36,10 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202007/bubble-waffles
+        featured{array} /content/202007/kfc-pollo-tresd
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202007/don-lucas-cafe
+    featured{array} /content/202007/kfc-pollo-tresd
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202005/07-jugando-con-fuego
