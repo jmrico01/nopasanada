@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/22-primera-sonda-china-lista
+        featured{array} /content/202007/24-michael-cohen-liberado-de-carcel-por-segunda-vez
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/22-eeuu-paga-1950-millones-por-posible-vacuna
+        featured{array} /content/202007/24-eeuu-acusa-a-rusia-de-probar-arma-antisatelites-en-el-espacio
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/22-pandemia-se-prolonga-en-mexico
+    featured{array} /content/202007/24-coronavirus-podria-causar-migraciones-masivas
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202007/21-kanye-west-casa-blanca
+        featured{array} /content/202007/22-como-deberiamos-estar-hablando-de-kanye
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/explicando-la-vacuna-contra-covid-19
+    featured{array} /content/202007/video-loimportante-saludmental-kanye-trump
 }
 other{kmkv} {
     name Other (Internal)
