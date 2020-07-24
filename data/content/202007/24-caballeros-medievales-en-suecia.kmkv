@@ -1,0 +1,41 @@
+text {
+<p>Las autoridades de una isla sueca decidieron emprender una singular cruzada contra la COVID-19 mediante ocho caballeros medievales, que se pasean con sus armaduras para recordar a los turistas que deben guardar distancias entre si.</p>
+<p>"Tenemos tres mensajes: respeten las distancias, l&aacute;vense las manos regularmente y no salgan si no se sienten bien", explic&oacute; a la AFP Lennart Borg, el creador de la iniciativa en la isla de Gotland, en el mar B&aacute;ltico.</p>
+<p>$image/knights1$</p>
+<p>Los ocho caballeros, ataviados con armaduras dignas del siglo XII, se pasean a caballo para proclamar las demandas oficiales. Todos ellos trabajan para la empresa Torneamentum, que habitualmente reproduce torneos medievales en Gotland durante el verano.</p>
+<p>A causa del coronavirus, la justa medieval de este a&ntilde;o ha sido anulada, as&iacute; que los trabajadores de la empresa aceptaron ensillar sus monturas para su nueva misi&oacute;n: dar la bienvenida a los turistas en el puerto de la isla.</p>
+<p>$image/knights2$</p>
+<p>Pero su misi&oacute;n no termina ah&iacute;: los caballeros deber&aacute;n ahuyentar toda tentaci&oacute;n de los turistas de concentrarse en cualquier punto de la isla.</p>
+<p>Gotland est&aacute; situada en el sureste de Suecia, y es un lugar privilegiado por el turismo local. Con poco m&aacute;s de 58.000 habitantes, en 2018 acogi&oacute; a 950.000 visitantes, y este a&ntilde;o, a causa del cierre de fronteras y de otras restricciones a causa de la covid-19, las visitas de los suecos han aumentado.</p>
+}
+title Caballeros medievales en Suecia para hacer respetar la distanciación social
+day 24
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/24-caballeros-medievales-en-suecia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    knights1 /images/202007/24-caballeros-medievales-en-suecia/knights1.jpg
+    knights2 /images/202007/24-caballeros-medievales-en-suecia/knights2.jpg
+}
+description Las autoridades de una isla sueca decidieron emprender una singular cruzada contra la COVID-19 mediante ocho caballeros medievales, que se pasean con sus armaduras para recordar a los turistas que deben guardar distancias entre si.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Caballeros medievales en Suecia<b>
+    text1 Caballeros medievales en Suecia para hacer respetar la distanciación social
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
