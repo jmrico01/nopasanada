@@ -12,7 +12,7 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202007/headers/ep1-que-pasa-en-no-pasa-nada.jpg
+    header /images/202007/headers/video-loimportante-saludmental-kanye-trump.jpg
     poster /images/201912/posters/17-solo-lo-importante-video.jpg
 }
 description Hoy vemos cómo según el Reino Unido y Estados Unidos, tanto Rusia, como China, han intentado robar información sobre el desarollo para la vacuna del Covid-19. Además hoy hablamos un poco sobre la salud mental.
@@ -21,13 +21,13 @@ featured{kmkv} {
     title <b>Hablemos sobre la salud mental <b>
     text1 Además: La vacuna contra el COVID-19, Trump y Kanye West
     text2 Con Pietro Cercone
-    pretitle PODCAST :
+    pretitle LO IMPORTANTE:
     highlightColor #00FFFF
 }
 type video
 subtitle Hoy vemos cómo según el Reino Unido y Estados Unidos, tanto Rusia, como China, han intentado robar información sobre el desarollo para la vacuna del Covid-19. Además hoy hablamos un poco sobre la salud mental.
 month 07
 tags{array} noticias-video,noticias-loimportante
-videoID https://youtu.be/SmAL78zDtAk
+videoID SmAL78zDtAk
 titlePoster 
 color #00FFFF
