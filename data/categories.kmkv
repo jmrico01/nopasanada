@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202007/10-musica-y-codigo
+        featured{array} /content/202007/27-remueven-murales-de-picasso-en-oslo
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
