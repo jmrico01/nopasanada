@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/24-eeuu-acusa-a-rusia-de-probar-arma-antisatelites-en-el-espacio
+        featured{array} /content/202007/27-otra-protesta-en-seattle-contra-agentes-federales
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/24-caballeros-medievales-en-suecia
+    featured{array} /content/202007/27-australia-registra-record-de-casos-en-un-dia
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202007/22-como-deberiamos-estar-hablando-de-kanye
+        featured{array} /content/202007/27-museo-latino
     }
     video{kmkv} {
         name Video
