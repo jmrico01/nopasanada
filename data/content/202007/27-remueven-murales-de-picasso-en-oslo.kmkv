@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Dos inmensos grabados murales a partir de dibujos de Pablo Picasso fueron retirados este lunes del edificio en Oslo donde se encontraban y que debe ser demolido, anunci&oacute; la empresa encargada de esta operaci&oacute;n tan delicada como pol&eacute;mica.</p>
+<p>Incrustadas en grandes estructuras met&aacute;licas, las dos obras dibujadas por Picasso y grabadas en el hormig&oacute;n por el noruego Carl Nesjar ser&aacute;n desplazados muy lentamente, a menos de 1 km/h, en un vehiculo especialmente adaptado</p>
+<p>Ambos murales ser&aacute;n llevados a un dep&oacute;sito situado a unas decenas de metros indic&oacute; Statsbygg, la empresa p&uacute;blica noruega encargada del trabajo.</p>
+<p>"La operaci&oacute;n es muy lenta" y deber&iacute;a acabarse "el jueves o el viernes", indic&oacute; P&aring;l Weiby.</p>
+<p>Las obras se encontraban en dos lugares distintos del "Bloque Y", un edificio gubernamental construido en 1969 y que fue da&ntilde;ado durante el atentado del ultraderechista Anders Breivik el 22 de julio de 2011.</p>
+<p>El mural de "Los Pescadores" representa tres hombres que arrastran hacia su barca los peces capturados, mientras que en "La Gaviota" se ve a este p&aacute;jaro con las alas desplegadas comiendo un pez.</p>
+<p>Ambas obras se trasladar&aacute;n a nuevos edificios del gobierno en el centro de Oslo y cuya construcci&oacute;n deber&iacute;a acabarse en 2025.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La operaci&oacute;n gener&oacute; reticencias, tanto en Noruega como en el extranjero, y numerosas personas se movilizaron para preservar el "Bloque Y", y ped&iacute;an que lo renovaran como se har&aacute; con el vecino "Bloque H".</p>
+<p>El "Bloque H" albergaba las oficinas del primer ministro hasta que Breivik hizo estallar all&iacute; una camioneta con 950 kilos de explosivos.&nbsp;</p>
+}
+title Sacan dos grabados murales de Picasso de edificio en Oslo
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/24-coronavirus-podria-causar-migraciones-masivas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Dos inmensos grabados murales a partir de dibujos de Pablo Picasso fueron retirados este lunes del edificio en Oslo donde se encontraban y que debe ser demolido, anunció la empresa encargada de esta operación tan delicada como polémica.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Sacan dos murales de Picasso en Oslo<b>
+    text1 Sacan dos grabados murales de Picasso de edificio en Oslo 
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
