@@ -19,7 +19,7 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202007/headers/24-coronavirus-podria-causar-migraciones-masivas.jpg
+    header /images/202007/headers/27-remueven-murales-de-picasso-en-oslo.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     banksy /images/202006/10-banksy/banksy.jpg
 }
@@ -28,7 +28,7 @@ year 2020
 author AFP Y NPN NOTICIAS
 featured{kmkv} {
     title <b>Sacan dos murales de Picasso en Oslo<b>
-    text1 Sacan dos grabados murales de Picasso de edificio en Oslo 
+    text1 Sacan dos grabados murales de Picasso de edificio en Oslo
     text2 Por AFP Y NPN NOTICIAS
     pretitle NOTICIAS:
     highlightColor #FBFF09
