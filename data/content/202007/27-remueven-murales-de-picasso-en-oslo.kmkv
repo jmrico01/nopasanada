@@ -2,6 +2,7 @@ text {
 <p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
 <p>Dos inmensos grabados murales a partir de dibujos de Pablo Picasso fueron retirados este lunes del edificio en Oslo donde se encontraban y que debe ser demolido, anunci&oacute; la empresa encargada de esta operaci&oacute;n tan delicada como pol&eacute;mica.</p>
 <p>Incrustadas en grandes estructuras met&aacute;licas, las dos obras dibujadas por Picasso y grabadas en el hormig&oacute;n por el noruego Carl Nesjar ser&aacute;n desplazados muy lentamente, a menos de 1 km/h, en un vehiculo especialmente adaptado</p>
+<p>$image/picasso$</p>
 <p>Ambos murales ser&aacute;n llevados a un dep&oacute;sito situado a unas decenas de metros indic&oacute; Statsbygg, la empresa p&uacute;blica noruega encargada del trabajo.</p>
 <p>"La operaci&oacute;n es muy lenta" y deber&iacute;a acabarse "el jueves o el viernes", indic&oacute; P&aring;l Weiby.</p>
 <p>Las obras se encontraban en dos lugares distintos del "Bloque Y", un edificio gubernamental construido en 1969 y que fue da&ntilde;ado durante el atentado del ultraderechista Anders Breivik el 22 de julio de 2011.</p>
@@ -22,6 +23,7 @@ media{kmkv} {
     header /images/202007/headers/27-remueven-murales-de-picasso-en-oslo.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     banksy /images/202006/10-banksy/banksy.jpg
+    picasso /images/202007/27-remueven-murales-de-picasso-en-oslo/picasso.jpg
 }
 description Dos inmensos grabados murales a partir de dibujos de Pablo Picasso fueron retirados este lunes del edificio en Oslo donde se encontraban y que debe ser demolido, anunció la empresa encargada de esta operación tan delicada como polémica.
 year 2020
