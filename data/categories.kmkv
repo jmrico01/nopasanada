@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202007/24-caballeros-medievales-en-suecia
+        featured{array} /content/202007/28-en-africa-lo-peor-de-la-pandemia-esta-por-llegar
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/24-michael-cohen-liberado-de-carcel-por-segunda-vez
+        featured{array} /content/202007/28-nueva-zelanda-suspende-extradicion-con-hong-kong
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/27-otra-protesta-en-seattle-contra-agentes-federales
+        featured{array} /content/202007/28-en-africa-lo-peor-de-la-pandemia-esta-por-llegar
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/27-australia-registra-record-de-casos-en-un-dia
+    featured{array} /content/202007/28-madrid-extiende-uso-de-mascarillas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/27-museo-latino

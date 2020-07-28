@@ -1,0 +1,44 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La regi&oacute;n de Madrid anunci&oacute; este martes nuevas medidas para contener los rebrotes del nuevo coronavirus, como reforzar el uso obligatorio de la mascarilla o la limitaci&oacute;n de las reuniones de m&aacute;s de diez personas.</p>
+<p>Este anuncio llega despu&eacute;s de que el n&uacute;mero de contagios haya crecido en Espa&ntilde;a, llevando a Francia o Alemania a desaconsejar los viajes a las regiones m&aacute;s afectadas del pa&iacute;s y al Reino Unido a imponer una cuarentena a los pasajeros llegados de Espa&ntilde;a.</p>
+<p>"Ahora, la clave es sobre todo no confinarnos nuevamente", declar&oacute; ante la prensa la presidenta de la regi&oacute;n capitalina, Isabel D&iacute;az Ayuso.</p>
+<p>Su gobierno, siguiendo la estela de casi la totalidad de las 17 regiones espa&ntilde;olas, decidi&oacute; imponer el uso obligatorio de las mascarilla en la calle y "las terrazas" incluso cuando se puede mantener una distancia de seguridad de 1,5 metros.</p>
+<p>El cubrebocas ya era obligatorio en todo el pa&iacute;s para los mayores de seis a&ntilde;os cuando esta distancia no pod&iacute;a respetarse, pero todas las regiones, excepto Canarias, decidieron ampliar esta imposici&oacute;n.</p>
+<p>Por otro lado, el gobierno madrile&ntilde;o limitar&aacute; las reuniones a diez personas en espacios de uso p&uacute;blico como restaurantes y terrazas y pidi&oacute; hacerlo tambi&eacute;n en los domicilios privados.</p>
+<p>Adem&aacute;s, terrazas, discotecas y locales de ocio deber&aacute;n cerrar a las 1H30 de la noche y guardar un registro de sus clientes para que puedan ser localizados r&aacute;pidamente si hay un brote en el establecimiento.</p>
+<p>La regi&oacute;n de Madrid, epicentro de la epidemia en marzo en Espa&ntilde;a, se ve menos afectada por los rebrotes que Catalu&ntilde;a o Arag&oacute;n (noreste). A&uacute;n as&iacute;, su gobierno decidi&oacute; tener listos para derivar pacientes covid-19 dos pabellones de un recinto ferial que funcion&oacute; como hospital de campa&ntilde;a entre marzo y abril.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Espa&ntilde;a, que contabiliza oficialmente m&aacute;s de 28.400 muertos por la pandemia, experimenta un repunte de casos en las &uacute;ltimas semanas.</p>
+<p>Francia recomend&oacute; el viernes a sus ciudadanos evitar desplazarse a Catalu&ntilde;a y Alemania desaconsej&oacute; este martes los viajes "no esenciales" a Arag&oacute;n, Navarra y tambi&eacute;n Catalu&ntilde;a.</p>
+<p>Por su parte, Londres estableci&oacute; una cuarentena de dos semanas para todos los pasajeros procedentes de Espa&ntilde;a, una medida criticada por el jefe de gobierno espa&ntilde;ol Pedro S&aacute;nchez, que defendi&oacute; que regiones espa&ntilde;oles como los archipi&eacute;lagos de Baleares o Canarias son "m&aacute;s seguras que el Reino Unido".</p>
+}
+title Madrid extiende uso obligatorio de mascarilla y aplica nuevas restricciones
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/28-madrid-extiende-uso-de-mascarillas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La región de Madrid anunció este martes nuevas medidas para contener los rebrotes del nuevo coronavirus, como reforzar el uso obligatorio de la mascarilla o la limitación de las reuniones de más de diez personas.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Madrid extiende uso obligatorio de mascarillas<b>
+    text1 Madrid extiende uso obligatorio de mascarilla y aplica nuevas restricciones
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
