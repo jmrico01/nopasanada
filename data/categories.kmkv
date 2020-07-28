@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202007/28-en-africa-lo-peor-de-la-pandemia-esta-por-llegar
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/28-madrid-extiende-uso-de-mascarillas
+    featured{array} /content/202007/28-twitter-suspende-cuenta-de-trump-jr-por-info-falsa-acerca-de-covid19
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/27-museo-latino
