@@ -36,7 +36,7 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202007/kfc-pollo-tresd
+        featured{array} /content/202007/la-guida-servicio-expres
     }
     displayOrder{array} comida, bebidas, recomendado
     featured{array} /content/202007/kfc-pollo-tresd
