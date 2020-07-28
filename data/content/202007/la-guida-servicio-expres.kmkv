@@ -6,16 +6,34 @@ text {
 <hr />
 <p style="text-align: center;"><a href="https://mailchi.mp/nopasanada.com/la_guida" target="_blank" rel="noopener"><em><strong>| S&uacute;bribase a La Guida para tener m&aacute;s guias como estas, todas las semanas: La Guida |</strong></em></a></p>
 <hr />
+<p><strong>BAO:</strong></p>
+<p><strong>Asi&aacute;tico | <a href="https://www.facebook.com/baocostarica/app/701720909911837">Facebook</a></strong></p>
+<p><a href="https://waze.com/ul/hd1u0rxbu7"><strong>San Pedro</strong> | Av 1, Lourdes</a> | 7015-6330</p>
+<p><a href="https://waze.com/ul/hd1u0wbqve"><strong>Barrio Escalante</strong> | Amor de Barrio</a> | 7015-6330</p>
+<hr />
 <p>$image/canton$</p>
-<p><strong>CANTON:</strong></p>
+<p><strong>CANTON:&nbsp;</strong></p>
 <p><strong>Comida Chino | <a href="https://www.facebook.com/cantoncr/menu/">Men&uacute;</a></strong></p>
 <p><a href="https://waze.com/ul/hd1u0s5ebs"><strong>Santa Ana</strong> | Lindora</a> | 4701-7655</p>
 <p><span style="font-family: FuturaPTMedium;"><a href="https://waze.com/ul/hd1u0t4q2e"><strong>Escaz&uacute; </strong>| Plaza Itskaz&uacute;</a> | 2228-2778 / 2289-0900<strong><br /></strong></span></p>
 <p><a href="https://waze.com/ul/hd1u0wtrfm"><strong>Tib&aacute;s</strong> | Centro Tibas</a> | 2235-0240</p>
 <hr />
+<p>$image/mise$</p>
+<p><strong>MISE EN PLACE:</strong></p>
+<p><strong>Panader&iacute;a y Reposteria | <a href="https://www.facebook.com/MiseEnPlaceCR">Facebook</a></strong></p>
+<p>Barrio Escalante | 8459-1717 | Pedido por adelantado</p>
+<p>Servicio Expr&eacute;s y Pick Up</p>
+<hr />
 <p><strong>SALE E PEPE:</strong></p>
 <p><strong>Italiano | <a href="https://www.facebook.com/saleepepe.cr">Facebook</a></strong></p>
 <p><a href="Use%20Waze%20to%20drive%20to%20Sale%20e%20Pepe%20Restaurante%20-%20Centro%20Comercial%20Escaz&uacute;,%20San%20Rafael,%20Escaz&uacute;:%20https:/waze.com/ul/hd1u0mrxv5"><strong>Escaz&uacute;</strong> | Detr&aacute;s de la POPS de San Rafael de Escaz&uacute;, centro comercial Plaza del Valle</a> | 2289-5750</p>
+<p>Servicio Expr&eacute;s y Pick Up</p>
+<hr />
+<p><strong>SODA TIKAL:</strong></p>
+<p><strong>Tib&aacute;s</strong></p>
+<p><strong>Americana&nbsp; |&nbsp; Desayuno / Brunch&nbsp; |&nbsp; T&iacute;pico</strong></p>
+<p><a href="https://m.facebook.com/profile.php?id=116184173363253&amp;ref=content_filter">Facebook</a> | Servicio Expr&eacute;s y Pick Up | 7158-4936</p>
+<p><strong>Recomendado:</strong> Los desayunos, el sandwich Tikal</p>
 <hr />
 <p style="text-align: center;"><strong>VEA</strong>:<span style="text-decoration: underline;"><em><strong> C&oacute;mo hacer un Moscow Mule del show Better Call Saul | COLA DE GALLO</strong></em></span><br /><em><strong>&nbsp;</strong></em></p>
 <p style="text-align: center;">$youtube/A9SgEWwPgq4$</p>
@@ -41,6 +59,7 @@ media{kmkv} {
     taco1 /images/202005/23-restaurantes-expres/taco1.jpg
     taco2 /images/202005/23-restaurantes-expres/taco2.jpg
     canton /images/202007/la-guida-servicio-expres/canton.jpg
+    mise /images/202007/la-guida-servicio-expres/mise.jpg
     shakshuka /images/202004/buenobonitobarato-shakshouka/shakshuka.jpg
     pho1 /images/202005/23-restaurantes-expres/pho1.jpg
     meraki /images/202004/2604-spotlight/meraki.jpg

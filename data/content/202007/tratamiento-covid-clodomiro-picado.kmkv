@@ -1,0 +1,38 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El tratamiento que desarrolla el Instituto Clodomiro Picado de la Universidad de Costa Rica es exitoso en reprimir el COVID-19 en pacientes con el virus, seg&uacute;n la Universidad de George Mason de Estados Unidos.&nbsp;</p>
+<p><br />El tratamiento consiste en inyectar el virus en caballos para obtener plasma con los anticuerpos equinos necesarios para combatir el SARS-CoV-2, una vez estos anticuerpos se desarrollan se extraen de los caballos y se genera el tratamiento para inyectarlos en humanos.</p>
+<p><br />Los resultados en la universidad estadounidense se&ntilde;alaron que en efecto los anticuerpos producidos por los caballos impiden la entrada del virus en las c&eacute;lulas humanas.&nbsp;<br />Dicha terapia no es una inyecci&oacute;n preventiva del COVID-19, sino un f&aacute;rmaco que neutraliza el virus en personas que ya lo tienen.&nbsp;De esta manera el virus no evoluciona en sus formas m&aacute;s severas, lo que permitir&iacute;a que el proceso de recuperaci&oacute;n de personas contagiadas en los hospitales sea m&aacute;s r&aacute;pido.&nbsp;</p>
+<p><br />La siguiente fase del tratamiento es el estudio cl&iacute;nico o la aplicaci&oacute;n del tratamiento en personas para comprobar su efectividad. Si pasa esta &uacute;ltima fase podr&aacute; utilizarse en los hospitales en la lucha contra el COVID-19.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Actualmente no existe ning&uacute;n tratamiento oficial contra el coronavirus.&nbsp;Costa Rica, al igual que muchos otros pa&iacute;ses se encuentran cruzando por una segunda ola de la pandemia. Este tratamiento desarrollado por el laboratorio Cloromiro picado podr&iacute;a resultar ser una herramienta crucial en la lucha contra el virus.&nbsp;</p>
+}
+title Laboratorio en EEUU confirma que tratamiento de Costa Rica reprime COVID-19
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/tratamiento-covid-clodomiro-picado.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Laboratorio en EEUU confirma que tratamiento de Clodomiro Picado reprime COVID-19: aquí esta todo lo que necesitas saber.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Laboratorio en EEUU confirma que tratamiento de Costa Rica reprime COVID-19<b>
+    text1 Todo lo que necesitas saber
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle El tratamiento que desarrolla el Instituto Clodomiro Picado de la Universidad de Costa Rica es exitoso
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
