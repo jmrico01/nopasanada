@@ -1,0 +1,41 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>El presidente de Colombia, Iv&aacute;n Duque, anunci&oacute; este martes que ampli&oacute; "hasta el 30 de agosto" las medidas de confinamiento contra la pandemia, tras el avance de los contagios que ya dejan m&aacute;s de 9.000 muertos en casi cinco meses. &nbsp;</p>
+<p>El mandatario extendi&oacute; la vigencia de las restricciones que impuso el 25 de marzo y deb&iacute;an levantarse 1 de agosto, aunque con m&uacute;ltiples excepciones ante el agudo deterioro de la econom&iacute;a y la consecuente destrucci&oacute;n de millones de empleos.&nbsp;</p>
+<p>"Vienen semanas que son retadoras, que son desaf&iacute;os, en distintos lugares del territorio (&hellip;) Nuestro llamado es que en estas cuatro semanas todos entendamos que tenemos que seguir haciendo un gran esfuerzo por protegernos", se&ntilde;al&oacute; Duque en su mensaje diario a los colombianos.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Este martes el ministerio de Salud registr&oacute; 297 muertes en las &uacute;ltimas 24 horas, para un total de 9.074 defunciones desde la detecci&oacute;n del primer caso el 6 de marzo. La cartera tambi&eacute;n report&oacute; un r&eacute;cord de 10.284 nuevos contagios diarios, para un total de 267.385.</p>
+<p>De esta forma Colombia, con unos 50 millones de habitantes, se ubica como el quinto pa&iacute;s m&aacute;s castigado por la pandemia en n&uacute;mero de fallecidos y de contagios.&nbsp;</p>
+<p>Con una poblaci&oacute;n de ocho millones, Bogot&aacute; es el epicentro de la crisis con el 34% del total de casos.&nbsp;</p>
+<p>Sin embargo, el gobierno de Duque conf&iacute;a en que la pandemia entre pronto en "una tendencia decreciente".&nbsp;</p>
+<p>Entretanto, seguir&aacute;n rigiendo medidas diferenciadas de aislamiento conforme la situaci&oacute;n de la emergencia en cada municipio, aunque en ning&uacute;n caso habr&aacute; luz verde para aglomeraciones, seg&uacute;n explic&oacute; el mandatario.</p>
+}
+title Colombia extiende confinamiento tras superar 9.000 muertos por pandemia
+day 29
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/29-colombia-extiende-confinamiento.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El presidente de Colombia, Iván Duque, anunció este martes que amplió "hasta el 30 de agosto" las medidas de confinamiento contra la pandemia, tras el avance de los contagios que ya dejan más de 9.000 muertos en casi cinco meses.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Colombia extiende confinamiento tras superar 9.000 muertos por pandemia<b>
+    text1 Colombia extiende confinamiento tras superar 9.000 muertos por pandemia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,40 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Rusia espera poder empezar la producci&oacute;n industrial de dos vacunas contra el coronavirus en septiembre y en octubre, anunci&oacute; el mi&eacute;rcoles la viceprimera ministra rusa, Tatiana G&oacute;likova.</p>
+<p>Dos vacunas creadas por investigadores rusos "son hoy muy prometedoras", dijo G&oacute;likova durante una reuni&oacute;n por videoconferencia con el presidente Vladimir Putin, dedicada a la pandemia de covid-19.</p>
+<p>La primera est&aacute; siendo desarrollada por el ministerio ruso de Defensa y el Centro de Investigaciones en Epidemiolog&iacute;a y Microbiolog&iacute;a Nikol&aacute;i Gamaleia y ya se prueba en humanos, seg&uacute;n G&oacute;likova.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"El lanzamiento de su producci&oacute;n industrial est&aacute; previsto para septiembre de 2020", tras una certificaci&oacute;n y ensayos cl&iacute;nicos suplementarios en 1.600 personas, indic&oacute;.</p>
+<p>La segunda vacuna est&aacute; siendo desarrollada por el Centro de Investigaci&oacute;n V&eacute;ktor, en Siberia, y est&aacute; en fase de ensayos cl&iacute;nicos que deber&iacute;an terminar en septiembre, con la certificaci&oacute;n ese mismo mes, seg&uacute;n G&oacute;likova.</p>
+<p>Las primeras dosis podr&iacute;an estar listas en octubre de 2020.</p>
+<p>Rusia, el cuarto pa&iacute;s del mundo en n&uacute;mero de contaminaciones, registr&oacute; hasta ahora 828.990 casos de coronavirus, con 13.673 fallecimientos.</p>
+}
+title Rusia espera poder producir en septiembre vacunas contra el coroanvirus
+day 29
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/29-rusia-espera-producir-vacuna-contra-covid19-en-setiembre.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Rusia espera poder empezar la producción industrial de dos vacunas contra el coronavirus en septiembre y en octubre, anunció el miércoles la viceprimera ministra rusa, Tatiana Gólikova.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Rusia espera poder producir en septiembre vacunas contra el coroanvirus<b>
+    text1 Rusia espera poder producir en septiembre vacunas contra el coroanvirus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

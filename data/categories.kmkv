@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202007/28-en-africa-lo-peor-de-la-pandemia-esta-por-llegar
+        featured{array} /content/202007/29-colombia-extiende-confinamiento
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,21 +57,21 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/28-nueva-zelanda-suspende-extradicion-con-hong-kong
+        featured{array} /content/202007/29-facebook-amazon-frente-a-congreso-de-eeuu
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/28-en-africa-lo-peor-de-la-pandemia-esta-por-llegar
+        featured{array} /content/202007/29-rusia-espera-producir-vacuna-contra-covid19-en-setiembre
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/28-twitter-suspende-cuenta-de-trump-jr-por-info-falsa-acerca-de-covid19
+    featured{array} /content/202007/29-medica-de-video-retuiteado-por-trump-cree-en-reptilianos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/27-museo-latino
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202007/ep2-que-pasa-en-no-pasa-nada
+        featured{array} /content/202007/explicando-la-vacuna-contra-covid-19
     }
 }
 coleccion{kmkv} {
