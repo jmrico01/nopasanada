@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/29-facebook-amazon-frente-a-congreso-de-eeuu
+        featured{array} /content/202007/30-trump-sugiere-aplazar-elecciones-presidenciales
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/29-rusia-espera-producir-vacuna-contra-covid19-en-setiembre
+        featured{array} /content/202007/30-nasa-lanza-perseverance-a-marte
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/29-medica-de-video-retuiteado-por-trump-cree-en-reptilianos
+    featured{array} /content/202007/30-brasil-abre-fronteras-areas-a-extranjeros
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/27-museo-latino
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/compermisa-guiri-natalia-ep2
+    featured{array} /content/202007/30-trump-sugiere-aplazar-elecciones-presidenciales
 }
 other{kmkv} {
     name Other (Internal)
