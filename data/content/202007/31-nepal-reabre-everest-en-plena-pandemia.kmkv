@@ -47,7 +47,7 @@ featured{kmkv} {
 type article
 subtitle 
 month 07
-tags{array} noticias-loimportante,mas-saludyciencia
+tags{array} noticias-loimportante
 videoID 
 titlePoster 
 color #FBFF09
