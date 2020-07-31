@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202007/29-colombia-extiende-confinamiento
+        featured{array} /content/202007/31-vietnam-registra-primera-muerte-por-coronavirus
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/30-nasa-lanza-perseverance-a-marte
+        featured{array} /content/202007/31-portland-protesta-sin-gases-tras-salida-de-federales
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/30-brasil-abre-fronteras-areas-a-extranjeros
+    featured{array} /content/202007/31-nepal-reabre-everest-en-plena-pandemia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/27-museo-latino
