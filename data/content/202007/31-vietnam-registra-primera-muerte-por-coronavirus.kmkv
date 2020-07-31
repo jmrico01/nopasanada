@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Vietnam, que parec&iacute;a haber logrado controlar la epidemia de coronavirus, registr&oacute; el viernes su primera muerte por covid-19, anunci&oacute; la prensa oficial.</p>
+<p>Se trata de un "hombre de 70 a&ntilde;os residente en Hoi An (centro), que dio positivo a principios de semana", precisaron estas fuentes.</p>
+<p>Desde mediados de abril a mediados de julio, el pa&iacute;s no hab&iacute;a registrado ning&uacute;n caso de transmisi&oacute;n local, pero un nuevo foco apareci&oacute; el fin de semana pasado en la tur&iacute;stica ciudad de Da Nang (centro) y se propag&oacute; a varias ciudades, donde se han reportado un centenar de nuevos casos.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Solo el viernes se registraron "45 casos en un solo d&iacute;a", un r&eacute;cord diario desde el inicio de la crisis sanitaria, seg&uacute;n las autoridades, que no tardaron en actuar.</p>
+<p>El gobierno teme que el virus se propague a Han&oacute;i, la capital.</p>
+<p>Unos 21.000 habitantes de la capital, que estuvieron recientemente en este balneario, est&aacute;n siendo sometidos a pruebas de diagn&oacute;stico. Desde el mi&eacute;rcoles han cerrado los bares y se han prohibido las congregaciones.</p>
+<p>La mayor&iacute;a del 1,1 mill&oacute;n de habitantes de Da Nang han sido invitados a permanecer en sus domicilios y los transportes para llegar a la ciudad se han interrumpido.</p>
+<p>Poco despu&eacute;s de detectar los primeros casos en enero, Vietnam, que comparte una larga y porosa frontera con China, decret&oacute; un estricta cuarentena. Decenas de miles de personas fueron internadas en campos vigilados por el ej&eacute;rcito en todo el pa&iacute;s.</p>
+<p>Las autoridades han establecido un estricto seguimiento de las personas infectadas apoy&aacute;ndose en las redes utilizadas desde hace d&eacute;cadas por el r&eacute;gimen comunista para llevar la labor del partido a los barrios.</p>
+}
+title Vietnam registra primera muerte por coronavirus
+day 31
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/31-vietnam-registra-primera-muerte-por-coronavirus.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Vietnam, que parecía haber logrado controlar la epidemia de coronavirus, registró el viernes su primera muerte por covid-19, anunció la prensa oficial.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Vietnam registra primera muerte por coronavirus<b>
+    text1 Vietnam registra primera muerte por coronavirus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
