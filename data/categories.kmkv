@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202007/31-portland-protesta-sin-gases-tras-salida-de-federales
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/31-nepal-reabre-everest-en-plena-pandemia
+    featured{array} /content/202007/video-arepas-en-venezuela
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/27-museo-latino
