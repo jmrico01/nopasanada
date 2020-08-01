@@ -27,7 +27,9 @@ mac_options = PlatformTargetOptions(
     compiler_flags=[
         "-Wno-missing-braces"
     ],
-    linker_flags=[]
+    linker_flags=[
+        "-lstdc++"
+    ]
 )
 
 TARGETS = [

@@ -1138,7 +1138,7 @@ int main(int argc, char** argv)
                       res.set_content(responseJson.data, responseJson.size, "application/json");
                   });
 
-    serverDev.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const auto& req, auto& res) {
+    serverDev.Get("/content/[^/]+/.+", [&rootPath](const auto& req, auto& res) {
                       TEMP_LINEAR_ALLOCATOR();
                       Array<char> uri = ToString(req.path);
                       if (uri[uri.size - 1] == '/') {
