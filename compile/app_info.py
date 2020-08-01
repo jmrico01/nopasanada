@@ -24,7 +24,9 @@ linux_options = PlatformTargetOptions(
 
 mac_options = PlatformTargetOptions(
     defines=[],
-    compiler_flags=[],
+    compiler_flags=[
+        "-Wno-missing-braces"
+    ],
     linker_flags=[]
 )
 
@@ -39,7 +41,8 @@ TARGETS = [
         ],
         platform_options={
             Platform.WINDOWS: windows_options,
-            Platform.LINUX: linux_options
+            Platform.LINUX: linux_options,
+            Platform.MAC: mac_options
         }
     )
 ]

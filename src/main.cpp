@@ -857,7 +857,7 @@ int main(int argc, char** argv)
                    templateItems.Add("title", entryData.title.ToArray());
 
                    const uint64 AUTHOR_STRING_MAX = 256;
-                   auto AuthorStringConvert = [&uri](const Array<char>& author, FixedArray<char, AUTHOR_STRING_MAX>* outString) {
+                   auto AuthorStringConvert = [](const Array<char>& author, FixedArray<char, AUTHOR_STRING_MAX>* outString) {
                        outString->Clear();
                        if (author.size == 0) {
                            return true;
