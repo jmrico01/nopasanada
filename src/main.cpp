@@ -578,7 +578,7 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 
     for (uint64 i = 0; i < metadataKmkvPtrs.size; i++) {
         if (!KmkvToJson(*metadataKmkvPtrs[i], outJson)) {
-            LOG_ERROR("KmkvToJson failed for entry %llu\n", i);
+            LOG_ERROR("KmkvToJson failed for entry %d\n", (int)i);
             return false;
         }
         outJson->Append(',');
