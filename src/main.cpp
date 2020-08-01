@@ -1,6 +1,5 @@
 #include <cassert>
 #include <ctime>
-#include <filesystem>
 #if SERVER_HTTPS
 #define CPPHTTPLIB_OPENSSL_SUPPORT
 #define CPPHTTPLIB_ZLIB_SUPPORT
@@ -481,196 +480,205 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 
 	DynamicArray<HashTable<KmkvItem<StandardAllocator>>> metadataKmkvs;
 
-	FixedArray<char, PATH_MAX_LENGTH> pathBuffer;
-	pathBuffer.Clear();
-	pathBuffer.Append(rootPath);
-	pathBuffer.Append(ToString("data/content"));
-	pathBuffer.Append('\0');
-	for (const auto& entryIt : std::filesystem::recursive_directory_iterator(pathBuffer.data)) {
-		if (!entryIt.is_regular_file()) {
-			continue;
-		}
-		const std::filesystem::path::value_type* dirPath = entryIt.path().c_str();
-		pathBuffer.Clear();
-		// Oof, hacky and I love it. Handles wchar_t on Windows.
-		while (*dirPath != '\0') {
-			pathBuffer.Append((char)(*(dirPath++)));
-		}
-		for (uint64 i = 0; i < pathBuffer.size; i++) {
-			if (pathBuffer[i] == '\\') {
-				pathBuffer[i] = '/';
-			}
-		}
+    FixedArray<char, PATH_MAX_LENGTH> pathBuffer;
+    pathBuffer.Clear();
 
-		uint64 start = SubstringSearch(pathBuffer.ToArray(), ToString("content"));
-		if (start == pathBuffer.size) {
-			LOG_ERROR("Couldn't find \"content\" substring in path\n");
-			return false;
-		}
-		Array<char> uri = pathBuffer.ToArray().Slice(start - 1, pathBuffer.size - 5);
-		EntryData entryData;
-		if (!LoadEntry(rootPath, uri, &entryData)) {
-			LOG_ERROR("LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
-			return false;
-		}
+    Array<FileInfo> entryDirs = ListDir(ToString("data/content"), &defaultAllocator_);
+    defer(FreeListDir(entryDirs, &defaultAllocator_));
+    for (uint64 dd = 0; dd < entryDirs.size; dd++) {
+        const_string dirName = entryDirs[dd].name;
+        if (dirName.size == 0 || dirName[0] == '.') {
+            continue;
+        }
 
-		HashTable<KmkvItem<StandardAllocator>>& metadataKmkv = *metadataKmkvs.Append();
-		AllocAndSetString(metadataKmkv.Add("uri"), uri);
-		AllocAndSetString(metadataKmkv.Add("type"), entryData.typeString.ToArray());
-		AllocAndSetString(metadataKmkv.Add("tags"), Array<char>::empty);
-		metadataKmkv.GetValue("tags")->keywordTag.Append(ToString("array"));
-		auto& tagsString = *GetKmkvItemStrValue(metadataKmkv, "tags");
-		for (uint64 i = 0; i < entryData.tags.size; i++) {
-			tagsString.Append(entryData.tags[i].ToArray());
-			tagsString.Append(',');
-		}
-		if (entryData.tags.size > 0) {
-			tagsString.RemoveLast();
-		}
-		AllocAndSetString(metadataKmkv.Add("title"), entryData.title.ToArray());
-		DynamicArray<char> dateString;
-		dateString.Append(entryData.date.yearString[0]);
-		dateString.Append(entryData.date.yearString[1]);
-		dateString.Append(entryData.date.yearString[2]);
-		dateString.Append(entryData.date.yearString[3]);
-		dateString.Append(entryData.date.monthString[0]);
-		dateString.Append(entryData.date.monthString[1]);
-		dateString.Append(entryData.date.dayString[0]);
-		dateString.Append(entryData.date.dayString[1]);
-		AllocAndSetString(metadataKmkv.Add("dateString"), dateString.ToArray());
-		AllocAndSetString(metadataKmkv.Add("author"), entryData.author.ToArray());
-		AllocAndSetString(metadataKmkv.Add("subtitle"), entryData.subtitle.ToArray());
-		AllocAndSetString(metadataKmkv.Add("image"), entryData.header.ToArray());
+        string pathBufferString = { .size = PATH_MAX_LENGTH, .data = pathBuffer.data };
+        if (!SizedPrintf(&pathBufferString, "data/content/%.*s", (int)dirName.size, dirName.data)) {
+            LOG_ERROR("Entry dir path too long for %.*s\n", (int)dirName.size, dirName.data);
+            return false;
+        }
+        // TODO probably check if it's a dir first? don't have that info yet
+        Array<FileInfo> entries = ListDir(pathBufferString, &defaultAllocator_);
+        defer(FreeListDir(entries, &defaultAllocator_));
+        for (uint64 ee = 0; ee < entries.size; ee++) {
+            const_string entryName = entries[ee].name;
+            const uint64 suffixStart = SubstringSearch(entryName, ToString(".kmkv"));
+            if (suffixStart == entryName.size) {
+                continue;
+            }
 
-		auto* featured = metadataKmkv.Add("featuredInfo");
-		featured->type = KmkvItemType::KMKV;
-		featured->hashTablePtr = defaultAllocator_.template New<HashTable<KmkvItem<StandardAllocator>>>();
-		new (featured->hashTablePtr) HashTable<KmkvItem<StandardAllocator>>();
-		auto& featuredKmkv = *featured->hashTablePtr;
-		AllocAndSetString(featuredKmkv.Add("pretitle"), entryData.featuredPretitle.ToArray());
-		AllocAndSetString(featuredKmkv.Add("title"), entryData.featuredTitle.ToArray());
-		AllocAndSetString(featuredKmkv.Add("text1"), entryData.featuredText1.ToArray());
-		AllocAndSetString(featuredKmkv.Add("text2"), entryData.featuredText2.ToArray());
-		AllocAndSetString(featuredKmkv.Add("highlightColor"), entryData.featuredHighlightColor.ToArray());
+            const_string entryNameNoPrefix = entryName.SliceTo(suffixStart);
+            pathBufferString.size = PATH_MAX_LENGTH;
+            if (!SizedPrintf(&pathBufferString, "/content/%.*s/%.*s",
+                             (int)dirName.size, dirName.data, (int)entryNameNoPrefix.size, entryNameNoPrefix.data)) {
+                LOG_ERROR("Entry path too long for %.*s\n", (int)entryName.size, entryName.data);
+                return false;
+            }
 
-		// TODO look up "featured1" ... "featuredN" in entry media and use that if present
-		AllocAndSetString(featuredKmkv.Add("images"), Array<char>::empty);
-		featuredKmkv.GetValue("images")->keywordTag.Append(ToString("array"));
-		auto& featuredImagesString = *GetKmkvItemStrValue(featuredKmkv, "images");
-		featuredImagesString.Append(entryData.header.ToArray());
-	}
+            string uri = pathBufferString;
+            EntryData entryData;
+            if (!LoadEntry(rootPath, uri, &entryData)) {
+                LOG_ERROR("LoadEntry failed for entry %.*s\n", (int)uri.size, uri.data);
+                return false;
+            }
 
-	DynamicArray<HashTable<KmkvItem<StandardAllocator>>*> metadataKmkvPtrs(metadataKmkvs.size);
-	for (uint64 i = 0; i < metadataKmkvs.size; i++) {
-		metadataKmkvPtrs.Append(&metadataKmkvs[i]);
-	}
+            HashTable<KmkvItem<StandardAllocator>>& metadataKmkv = *metadataKmkvs.Append();
+            AllocAndSetString(metadataKmkv.Add("uri"), uri);
+            AllocAndSetString(metadataKmkv.Add("type"), entryData.typeString.ToArray());
+            AllocAndSetString(metadataKmkv.Add("tags"), Array<char>::empty);
+            metadataKmkv.GetValue("tags")->keywordTag.Append(ToString("array"));
+            auto& tagsString = *GetKmkvItemStrValue(metadataKmkv, "tags");
+            for (uint64 i = 0; i < entryData.tags.size; i++) {
+                tagsString.Append(entryData.tags[i].ToArray());
+                tagsString.Append(',');
+            }
+            if (entryData.tags.size > 0) {
+                tagsString.RemoveLast();
+            }
+            AllocAndSetString(metadataKmkv.Add("title"), entryData.title.ToArray());
+            DynamicArray<char> dateString;
+            dateString.Append(entryData.date.yearString[0]);
+            dateString.Append(entryData.date.yearString[1]);
+            dateString.Append(entryData.date.yearString[2]);
+            dateString.Append(entryData.date.yearString[3]);
+            dateString.Append(entryData.date.monthString[0]);
+            dateString.Append(entryData.date.monthString[1]);
+            dateString.Append(entryData.date.dayString[0]);
+            dateString.Append(entryData.date.dayString[1]);
+            AllocAndSetString(metadataKmkv.Add("dateString"), dateString.ToArray());
+            AllocAndSetString(metadataKmkv.Add("author"), entryData.author.ToArray());
+            AllocAndSetString(metadataKmkv.Add("subtitle"), entryData.subtitle.ToArray());
+            AllocAndSetString(metadataKmkv.Add("image"), entryData.header.ToArray());
 
-	qsort(metadataKmkvPtrs.data, metadataKmkvPtrs.size,
+            auto* featured = metadataKmkv.Add("featuredInfo");
+            featured->type = KmkvItemType::KMKV;
+            featured->hashTablePtr = defaultAllocator_.template New<HashTable<KmkvItem<StandardAllocator>>>();
+            new (featured->hashTablePtr) HashTable<KmkvItem<StandardAllocator>>();
+            auto& featuredKmkv = *featured->hashTablePtr;
+            AllocAndSetString(featuredKmkv.Add("pretitle"), entryData.featuredPretitle.ToArray());
+            AllocAndSetString(featuredKmkv.Add("title"), entryData.featuredTitle.ToArray());
+            AllocAndSetString(featuredKmkv.Add("text1"), entryData.featuredText1.ToArray());
+            AllocAndSetString(featuredKmkv.Add("text2"), entryData.featuredText2.ToArray());
+            AllocAndSetString(featuredKmkv.Add("highlightColor"), entryData.featuredHighlightColor.ToArray());
+
+            // TODO look up "featured1" ... "featuredN" in entry media and use that if present
+            AllocAndSetString(featuredKmkv.Add("images"), Array<char>::empty);
+            featuredKmkv.GetValue("images")->keywordTag.Append(ToString("array"));
+            auto& featuredImagesString = *GetKmkvItemStrValue(featuredKmkv, "images");
+            featuredImagesString.Append(entryData.header.ToArray());
+        }
+    }
+
+    DynamicArray<HashTable<KmkvItem<StandardAllocator>>*> metadataKmkvPtrs(metadataKmkvs.size);
+    for (uint64 i = 0; i < metadataKmkvs.size; i++) {
+        metadataKmkvPtrs.Append(&metadataKmkvs[i]);
+    }
+
+    qsort(metadataKmkvPtrs.data, metadataKmkvPtrs.size,
           sizeof(HashTable<KmkvItem<StandardAllocator>>*), CompareMetadataDateDescending);
 
-	for (uint64 i = 0; i < metadataKmkvPtrs.size; i++) {
-		if (!KmkvToJson(*metadataKmkvPtrs[i], outJson)) {
-			LOG_ERROR("KmkvToJson failed for entry %.*s\n", (int)pathBuffer.size, pathBuffer.data);
-			return false;
-		}
-		outJson->Append(',');
-	}
+    for (uint64 i = 0; i < metadataKmkvPtrs.size; i++) {
+        if (!KmkvToJson(*metadataKmkvPtrs[i], outJson)) {
+            LOG_ERROR("KmkvToJson failed for entry %llu\n", i);
+            return false;
+        }
+        outJson->Append(',');
+    }
 
-	outJson->RemoveLast();
-	outJson->Append(']');
-	return true;
+    outJson->RemoveLast();
+    outJson->Append(']');
+    return true;
 }
 
 bool LoadCategoriesJson(const Array<char>& rootPath, DynamicArray<char, StandardAllocator>* outJson)
 {
-	FixedArray<char, PATH_MAX_LENGTH> categoriesKmkvPath;
-	categoriesKmkvPath.Clear();
-	categoriesKmkvPath.Append(rootPath);
-	categoriesKmkvPath.Append(ToString("data/categories.kmkv"));
+    FixedArray<char, PATH_MAX_LENGTH> categoriesKmkvPath;
+    categoriesKmkvPath.Clear();
+    categoriesKmkvPath.Append(rootPath);
+    categoriesKmkvPath.Append(ToString("data/categories.kmkv"));
 
-	HashTable<KmkvItem<StandardAllocator>> categoriesKmkv;
-	if (!LoadKmkv(categoriesKmkvPath.ToArray(), &defaultAllocator_, &categoriesKmkv)) {
-		LOG_ERROR("LoadKmkv failed for categories: %.*s\n",
+    HashTable<KmkvItem<StandardAllocator>> categoriesKmkv;
+    if (!LoadKmkv(categoriesKmkvPath.ToArray(), &defaultAllocator_, &categoriesKmkv)) {
+        LOG_ERROR("LoadKmkv failed for categories: %.*s\n",
                   (int)categoriesKmkvPath.size, categoriesKmkvPath.data);
-		return false;
-	}
+        return false;
+    }
 
-	// TODO double check that displayOrder references valid categories here
+    // TODO double check that displayOrder references valid categories here
 
-	outJson->Clear();
-	if (!KmkvToJson(categoriesKmkv, outJson)) {
-		LOG_ERROR("KmkvToJson failed for categories: %.*s\n",
+    outJson->Clear();
+    if (!KmkvToJson(categoriesKmkv, outJson)) {
+        LOG_ERROR("KmkvToJson failed for categories: %.*s\n",
                   (int)categoriesKmkvPath.size, categoriesKmkvPath.data);
-		return false;
-	}
+        return false;
+    }
 
-	return true;
+    return true;
 }
 
 bool ServerListen(ServerType& server, const char* host, int port)
 {
-	LOG_INFO("Listening on host \"%s\", port %d\n", host, port);
-	if (!server.listen(host, port)) {
-		LOG_ERROR("server listen failed for host \"%s\", port %d\n", host, port);
-		return false;
-	}
+    LOG_INFO("Listening on host \"%s\", port %d\n", host, port);
+    if (!server.listen(host, port)) {
+        LOG_ERROR("server listen failed for host \"%s\", port %d\n", host, port);
+        return false;
+    }
 
-	return true;
+    return true;
 }
 
 void GenerateSessionId(const Array<char>& username, const Array<char>& password,
                        DynamicArray<char, StandardAllocator>* outSessionId)
 {
-	outSessionId->Clear();
-	outSessionId->Append(username);
-	outSessionId->Append(password);
-	XXH64_hash_t hash = XXH64(outSessionId->data, outSessionId->size, (XXH64_hash_t)time(NULL));
-	char buffer[17];
-	assert(stbsp_snprintf(buffer, 17, "%016I64x", hash) == 16);
-	outSessionId->Clear();
-	outSessionId->Append(username);
-	outSessionId->Append(':');
-	outSessionId->Append(ToString(buffer));
+    outSessionId->Clear();
+    outSessionId->Append(username);
+    outSessionId->Append(password);
+    XXH64_hash_t hash = XXH64(outSessionId->data, outSessionId->size, (XXH64_hash_t)time(NULL));
+    char buffer[17];
+    assert(stbsp_snprintf(buffer, 17, "%016I64x", hash) == 16);
+    outSessionId->Clear();
+    outSessionId->Append(username);
+    outSessionId->Append(':');
+    outSessionId->Append(ToString(buffer));
 }
 
 bool IsAdminUser(const Array<char>& username)
 {
-	return StringEquals(username, ToString("GMan"));
+    return StringEquals(username, ToString("GMan"));
 }
 
 bool IsLoginValid(const_string username, const_string password,
                   const HashTable<KmkvItem<StandardAllocator>>& loginsKmkv)
 {
-	const auto* userPassword = GetKmkvItemStrValue(loginsKmkv, username);
-	if (userPassword == nullptr) {
-		return false;
-	}
+    const auto* userPassword = GetKmkvItemStrValue(loginsKmkv, username);
+    if (userPassword == nullptr) {
+        return false;
+    }
 
-	return StringEquals(userPassword->ToArray(), password);
+    return StringEquals(userPassword->ToArray(), password);
 }
 
 bool IsAuthenticated(const httplib::Request& req, const DynamicArray<DynamicArray<char>>& sessions,
                      bool* outIsAdmin)
 {
-	*outIsAdmin = false;
-	if (!req.has_header("Cookie")) {
-		return false;
-	}
-	std::string cookieStdString = req.get_header_value("Cookie");
-	Array<char> cookieString = ToString(cookieStdString);
-	uint64 sessionInd = SubstringSearch(cookieString, ToString(LOGIN_SESSION_COOKIE));
-	if (sessionInd == cookieString.size) {
-		return false;
-	}
-	uint64 sessionStart = cookieString.FindFirst('=', sessionInd);
-	uint64 sessionEnd = cookieString.FindFirst(';', sessionInd);
-	Array<char> session = cookieString.Slice(sessionStart + 1, sessionEnd);
-	for (uint64 i = 0; i < sessions.size; i++) {
-		if (StringEquals(session, sessions[i].ToArray())) {
-			return true;
-		}
-	}
-	return false;
+    *outIsAdmin = false;
+    if (!req.has_header("Cookie")) {
+        return false;
+    }
+    std::string cookieStdString = req.get_header_value("Cookie");
+    Array<char> cookieString = ToString(cookieStdString);
+    uint64 sessionInd = SubstringSearch(cookieString, ToString(LOGIN_SESSION_COOKIE));
+    if (sessionInd == cookieString.size) {
+        return false;
+    }
+    uint64 sessionStart = cookieString.FindFirst('=', sessionInd);
+    uint64 sessionEnd = cookieString.FindFirst(';', sessionInd);
+    Array<char> session = cookieString.Slice(sessionStart + 1, sessionEnd);
+    for (uint64 i = 0; i < sessions.size; i++) {
+        if (StringEquals(session, sessions[i].ToArray())) {
+            return true;
+        }
+    }
+    return false;
 }
 
 #define CHECK_AUTH_ADMIN_OR_ERROR(request, response, sessions) bool isAdmin; \
@@ -688,90 +696,90 @@ defer(defaultAllocator_.Free(tempMemory));
 int main(int argc, char** argv)
 {
 #if SERVER_HTTPS
-	ServerType server(SERVER_CERT, SERVER_KEY);
+    ServerType server(SERVER_CERT, SERVER_KEY);
 #else
-	ServerType server;
+    ServerType server;
 #endif
 
 #if 0
-	// Test S3 object put
+    // Test S3 object put
 #if SERVER_HTTPS
-	httplib::SSLClient client("nopasanada.s3.amazonaws.com");
+    httplib::SSLClient client("nopasanada.s3.amazonaws.com");
 #else
-	httplib::Client client("nopasanada.s3.amazonaws.com");
+    httplib::Client client("nopasanada.s3.amazonaws.com");
 #endif
 
-	httplib::Headers headers;
-	headers.insert(std::pair("hello", "goodbye"));
-	std::shared_ptr<httplib::Response> response = client.Put("/images/202001/headers/i-am-test.jpg",
+    httplib::Headers headers;
+    headers.insert(std::pair("hello", "goodbye"));
+    std::shared_ptr<httplib::Response> response = client.Put("/images/202001/headers/i-am-test.jpg",
                                                              headers, "", "image/jpeg");
-	if (!response) {
-		LOG_ERROR("Amazon S3 PUT request failed\n");
-		return 1;
-	}
+    if (!response) {
+        LOG_ERROR("Amazon S3 PUT request failed\n");
+        return 1;
+    }
 
-	LOG_INFO("Response status %d, body:\n%s\n", response->status, response->body.c_str());
+    LOG_INFO("Response status %d, body:\n%s\n", response->status, response->body.c_str());
 
-	return 0;
+    return 0;
 #endif
 
-	FixedArray<char, PATH_MAX_LENGTH> rootPath = GetExecutablePath(&defaultAllocator_);
-	if (rootPath.size == 0) {
-		LOG_ERROR("Failed to get executable path\n");
-		return 1;
-	}
-	rootPath.RemoveLast();
-	rootPath.size = rootPath.ToArray().FindLast('/') + 1;
-	LOG_INFO("Root path: %.*s\n", (int)rootPath.size, rootPath.data);
+    FixedArray<char, PATH_MAX_LENGTH> rootPath = GetExecutablePath(&defaultAllocator_);
+    if (rootPath.size == 0) {
+        LOG_ERROR("Failed to get executable path\n");
+        return 1;
+    }
+    rootPath.RemoveLast();
+    rootPath.size = rootPath.ToArray().FindLast('/') + 1;
+    LOG_INFO("Root path: %.*s\n", (int)rootPath.size, rootPath.data);
 
-	FixedArray<char, PATH_MAX_LENGTH> mediaKmkvPath = rootPath;
-	mediaKmkvPath.Append(ToString("data/media.kmkv"));
-	HashTable<KmkvItem<StandardAllocator>> mediaKmkv;
-	if (!LoadKmkv(mediaKmkvPath.ToArray(), &defaultAllocator_, &mediaKmkv)) {
-		LOG_ERROR("LoadKmkv failed for media file\n");
-		return 1;
-	}
+    FixedArray<char, PATH_MAX_LENGTH> mediaKmkvPath = rootPath;
+    mediaKmkvPath.Append(ToString("data/media.kmkv"));
+    HashTable<KmkvItem<StandardAllocator>> mediaKmkv;
+    if (!LoadKmkv(mediaKmkvPath.ToArray(), &defaultAllocator_, &mediaKmkv)) {
+        LOG_ERROR("LoadKmkv failed for media file\n");
+        return 1;
+    }
 
-	DynamicArray<char> allMetadataJson;
-	if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
-		LOG_ERROR("Failed to load all entry metadata to JSON\n");
-		return 1;
-	}
-	// LOG_INFO("Metadata JSON:\n%.*s\n", (int)allMetadataJson.size, allMetadataJson.data);
+    DynamicArray<char> allMetadataJson;
+    if (!LoadAllMetadataJson(rootPath.ToArray(), &allMetadataJson)) {
+        LOG_ERROR("Failed to load all entry metadata to JSON\n");
+        return 1;
+    }
+    // LOG_INFO("Metadata JSON:\n%.*s\n", (int)allMetadataJson.size, allMetadataJson.data);
 
-	DynamicArray<char> categoriesJson;
-	if (!LoadCategoriesJson(rootPath.ToArray(), &categoriesJson)) {
-		LOG_ERROR("Failed to load categories to JSON\n");
-		return 1;
-	}
+    DynamicArray<char> categoriesJson;
+    if (!LoadCategoriesJson(rootPath.ToArray(), &categoriesJson)) {
+        LOG_ERROR("Failed to load categories to JSON\n");
+        return 1;
+    }
 
-	// Backwards compatibility =====================================================================
-	server.Get("/el-caso-diet-prada", [](const auto& req, auto& res) {
+    // Backwards compatibility =====================================================================
+    server.Get("/el-caso-diet-prada", [](const auto& req, auto& res) {
                    res.set_redirect("/content/201908/el-caso-diet-prada");
                });
-	server.Get("/la-cerveza-si-es-cosa-de-mujeres", [](const auto& req, auto& res) {
+    server.Get("/la-cerveza-si-es-cosa-de-mujeres", [](const auto& req, auto& res) {
                    res.set_redirect("/content/201908/la-cerveza-si-es-cosa-de-mujeres");
                });
-	server.Get("/content/201908/el-amazonas", [](const auto& req, auto& res) {
+    server.Get("/content/201908/el-amazonas", [](const auto& req, auto& res) {
                    res.set_redirect("/content/201908/newsletter-29");
                });
-	server.Get("/content/201909/newsletter-03", [](const auto& req, auto& res) {
+    server.Get("/content/201909/newsletter-03", [](const auto& req, auto& res) {
                    res.set_redirect("/content/201909/newsletter-03");
                });
-	server.Get("/tailor-to-suit", [](const auto& req, auto& res) {
+    server.Get("/tailor-to-suit", [](const auto& req, auto& res) {
                    res.set_redirect("/content/201909/tailor-to-suit");
                });
-	// =============================================================================================
+    // =============================================================================================
 
-	server.Get("/entries", [&allMetadataJson](const auto& req, auto& res) {
+    server.Get("/entries", [&allMetadataJson](const auto& req, auto& res) {
                    res.set_content(allMetadataJson.data, allMetadataJson.size, "application/json");
                });
 
-	server.Get("/categories", [&categoriesJson](const auto& req, auto& res) {
+    server.Get("/categories", [&categoriesJson](const auto& req, auto& res) {
                    res.set_content(categoriesJson.data, categoriesJson.size, "application/json");
                });
 
-	server.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const auto& req, auto& res) {
+    server.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const auto& req, auto& res) {
                    Array<char> uri = ToString(req.path);
                    if (uri[uri.size - 1] == '/') {
                        uri.RemoveLast();
@@ -1007,56 +1015,56 @@ int main(int argc, char** argv)
                    res.set_content(outStringMedia.data, outStringMedia.size, "text/html");
                });
 
-	FixedArray<char, PATH_MAX_LENGTH> imageRootPath = rootPath;
-	imageRootPath.RemoveLast();
-	uint64 lastSlash = imageRootPath.ToArray().FindLast('/');
-	if (lastSlash == imageRootPath.size) {
-		LOG_ERROR("Bad public path, no directory above for images: %.*s\n",
+    FixedArray<char, PATH_MAX_LENGTH> imageRootPath = rootPath;
+    imageRootPath.RemoveLast();
+    uint64 lastSlash = imageRootPath.ToArray().FindLast('/');
+    if (lastSlash == imageRootPath.size) {
+        LOG_ERROR("Bad public path, no directory above for images: %.*s\n",
                   (int)imageRootPath.size, imageRootPath.data);
-		return 1;
-	}
-	imageRootPath.size = lastSlash + 1;
-	imageRootPath.Append(ToString("nopasanada-images"));
-	imageRootPath.Append('\0');
-	if (!server.set_base_dir(imageRootPath.data, "/images")) {
-		LOG_ERROR("server set_base_dir failed on dir %s\n", imageRootPath.data);
-		return 1;
-	}
-	imageRootPath.RemoveLast();
-	imageRootPath.Append('/');
+        return 1;
+    }
+    imageRootPath.size = lastSlash + 1;
+    imageRootPath.Append(ToString("nopasanada-images"));
+    imageRootPath.Append('\0');
+    if (!server.set_base_dir(imageRootPath.data, "/images")) {
+        LOG_ERROR("server set_base_dir failed on dir %s\n", imageRootPath.data);
+        return 1;
+    }
+    imageRootPath.RemoveLast();
+    imageRootPath.Append('/');
 
-	FixedArray<char, PATH_MAX_LENGTH> publicPath = rootPath;
-	publicPath.Append(ToString("data/public"));
-	publicPath.Append('\0');
-	if (!server.set_base_dir(publicPath.data, "/")) {
-		LOG_ERROR("server set_base_dir failed on dir %s\n", publicPath.data);
-		return 1;
-	}
+    FixedArray<char, PATH_MAX_LENGTH> publicPath = rootPath;
+    publicPath.Append(ToString("data/public"));
+    publicPath.Append('\0');
+    if (!server.set_base_dir(publicPath.data, "/")) {
+        LOG_ERROR("server set_base_dir failed on dir %s\n", publicPath.data);
+        return 1;
+    }
 
 #if SERVER_DEV
-	FixedArray<char, PATH_MAX_LENGTH> loginsPath = rootPath;
-	loginsPath.Append(ToString("keys/logins.kmkv"));
-	HashTable<KmkvItem<StandardAllocator>> loginsKmkv;
-	if (!LoadKmkv(loginsPath.ToArray(), &defaultAllocator_, &loginsKmkv)) {
-		LOG_ERROR("Failed to load logins kmkv\n");
-		return 1;
-	}
-	DynamicArray<DynamicArray<char>> sessions;
+    FixedArray<char, PATH_MAX_LENGTH> loginsPath = rootPath;
+    loginsPath.Append(ToString("keys/logins.kmkv"));
+    HashTable<KmkvItem<StandardAllocator>> loginsKmkv;
+    if (!LoadKmkv(loginsPath.ToArray(), &defaultAllocator_, &loginsKmkv)) {
+        LOG_ERROR("Failed to load logins kmkv\n");
+        return 1;
+    }
+    DynamicArray<DynamicArray<char>> sessions;
 
 #if SERVER_HTTPS
-	ServerType serverDev(SERVER_CERT, SERVER_KEY);
+    ServerType serverDev(SERVER_CERT, SERVER_KEY);
 #else
-	ServerType serverDev;
+    ServerType serverDev;
 #endif
 
-	// serverDev.set_error_handler([](const auto& req, auto& res) {
-	// 	auto fmt = "<p>Error Status: <span style='color:red;'>%d</span></p>";
-	// 	char buf[BUFSIZ];
-	// 	snprintf(buf, sizeof(buf), fmt, res.status);
-	// 	res.set_content(buf, "text/html");
-	// });
+    // serverDev.set_error_handler([](const auto& req, auto& res) {
+    // 	auto fmt = "<p>Error Status: <span style='color:red;'>%d</span></p>";
+    // 	char buf[BUFSIZ];
+    // 	snprintf(buf, sizeof(buf), fmt, res.status);
+    // 	res.set_content(buf, "text/html");
+    // });
 
-	serverDev.set_file_request_handler([&sessions](const auto& req, auto& res) {
+    serverDev.set_file_request_handler([&sessions](const auto& req, auto& res) {
                                            bool isAdmin;
                                            if ((req.path == "/" || req.path == "/entry/") && !IsAuthenticated(req, sessions, &isAdmin)) {
                                                res.set_redirect("/login/");
@@ -1064,7 +1072,7 @@ int main(int argc, char** argv)
                                            }
                                        });
 
-	serverDev.Post("/authenticate", [&loginsKmkv, &sessions](const auto& req, auto& res) {
+    serverDev.Post("/authenticate", [&loginsKmkv, &sessions](const auto& req, auto& res) {
                        Array<char> bodyJson = ToString(req.body);
                        uint64 indEqual = bodyJson.FindFirst('=');
                        if (indEqual == bodyJson.size) {
@@ -1106,15 +1114,15 @@ int main(int argc, char** argv)
                        }
                    });
 
-	serverDev.Get("/entries", [&allMetadataJson](const auto& req, auto& res) {
+    serverDev.Get("/entries", [&allMetadataJson](const auto& req, auto& res) {
                       res.set_content(allMetadataJson.data, allMetadataJson.size, "application/json");
                   });
 
-	serverDev.Get("/categories", [&categoriesJson](const auto& req, auto& res) {
+    serverDev.Get("/categories", [&categoriesJson](const auto& req, auto& res) {
                       res.set_content(categoriesJson.data, categoriesJson.size, "application/json");
                   });
 
-	serverDev.Get("/previewSite", [](const auto& req, auto& res) {
+    serverDev.Get("/previewSite", [](const auto& req, auto& res) {
                       DynamicArray<char> responseJson;
                       responseJson.Append(ToString("{\"url\":\""));
 #if SERVER_HTTPS
@@ -1130,7 +1138,7 @@ int main(int argc, char** argv)
                       res.set_content(responseJson.data, responseJson.size, "application/json");
                   });
 
-	serverDev.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const auto& req, auto& res) {
+    serverDev.Get("/content/[^/]+/.+", [&rootPath, &mediaKmkv](const auto& req, auto& res) {
                       TEMP_LINEAR_ALLOCATOR();
                       Array<char> uri = ToString(req.path);
                       if (uri[uri.size - 1] == '/') {
@@ -1154,7 +1162,7 @@ int main(int argc, char** argv)
                       res.set_content(entryJson.data, entryJson.size, "application/json");
                   });
 
-	serverDev.Post("/featured", [&rootPath, &categoriesJson, &sessions](const auto& req, auto& res) {
+    serverDev.Post("/featured", [&rootPath, &categoriesJson, &sessions](const auto& req, auto& res) {
                        CHECK_AUTH_OR_ERROR(req, res, sessions);
                        TEMP_LINEAR_ALLOCATOR();
 
@@ -1271,7 +1279,7 @@ int main(int argc, char** argv)
                        }
                    });
 
-	serverDev.Post("/content/[^/]+/.+", [&rootPath, &allMetadataJson, &sessions](const auto& req, auto& res) {
+    serverDev.Post("/content/[^/]+/.+", [&rootPath, &allMetadataJson, &sessions](const auto& req, auto& res) {
                        CHECK_AUTH_OR_ERROR(req, res, sessions);
                        TEMP_LINEAR_ALLOCATOR();
 
@@ -1321,7 +1329,7 @@ int main(int argc, char** argv)
                        }
                    });
 
-	serverDev.Post("/newEntry", [&rootPath, &allMetadataJson, &sessions](const auto& req, auto& res) {
+    serverDev.Post("/newEntry", [&rootPath, &allMetadataJson, &sessions](const auto& req, auto& res) {
                        CHECK_AUTH_OR_ERROR(req, res, sessions);
                        TEMP_LINEAR_ALLOCATOR();
 
@@ -1440,7 +1448,7 @@ int main(int argc, char** argv)
                        }
                    });
 
-	serverDev.Post("/deleteEntry", [&rootPath, &allMetadataJson, &sessions](const auto& req, auto& res) {
+    serverDev.Post("/deleteEntry", [&rootPath, &allMetadataJson, &sessions](const auto& req, auto& res) {
                        CHECK_AUTH_OR_ERROR(req, res, sessions);
                        TEMP_LINEAR_ALLOCATOR();
 
@@ -1476,7 +1484,7 @@ int main(int argc, char** argv)
                        }
                    });
 
-	serverDev.Post("/newImage", [&imageRootPath, &sessions](const auto& req, auto& res) {
+    serverDev.Post("/newImage", [&imageRootPath, &sessions](const auto& req, auto& res) {
                        CHECK_AUTH_OR_ERROR(req, res, sessions);
                        // TODO review http return content-type for img upload library on front-end
 
@@ -1608,7 +1616,7 @@ int main(int argc, char** argv)
                        res.set_content(responseXml.data, responseXml.size, "application/xml");
                    });
 
-	serverDev.Post("/reset", [&rootPath, &sessions](const auto& req, auto& res) {
+    serverDev.Post("/reset", [&rootPath, &sessions](const auto& req, auto& res) {
                        CHECK_AUTH_ADMIN_OR_ERROR(req, res, sessions);
                        TEMP_LINEAR_ALLOCATOR();
 
@@ -1630,7 +1638,7 @@ int main(int argc, char** argv)
                        }
                    });
 
-	serverDev.Post("/commit", [&rootPath, &sessions](const auto& req, auto& res) {
+    serverDev.Post("/commit", [&rootPath, &sessions](const auto& req, auto& res) {
                        CHECK_AUTH_OR_ERROR(req, res, sessions);
                        TEMP_LINEAR_ALLOCATOR();
 
@@ -1665,7 +1673,7 @@ int main(int argc, char** argv)
                        }
                    });
 
-	serverDev.Post("/deploy", [&rootPath, &sessions](const auto& req, auto& res) {
+    serverDev.Post("/deploy", [&rootPath, &sessions](const auto& req, auto& res) {
                        CHECK_AUTH_OR_ERROR(req, res, sessions);
                        TEMP_LINEAR_ALLOCATOR();
 
@@ -1687,24 +1695,24 @@ int main(int argc, char** argv)
                        }
                    });
 
-	publicPath = rootPath;
-	publicPath.Append(ToString("data/public-dev"));
-	publicPath.Append('\0');
-	if (!serverDev.set_base_dir(publicPath.data)) {
-		LOG_ERROR("serverDev set_base_dir failed on dir %s\n", publicPath.data);
-		return 1;
-	}
+    publicPath = rootPath;
+    publicPath.Append(ToString("data/public-dev"));
+    publicPath.Append('\0');
+    if (!serverDev.set_base_dir(publicPath.data)) {
+        LOG_ERROR("serverDev set_base_dir failed on dir %s\n", publicPath.data);
+        return 1;
+    }
 
-	std::thread devThread(ServerListen, std::ref(serverDev), "localhost", SERVER_PORT_DEV);
+    std::thread devThread(ServerListen, std::ref(serverDev), "localhost", SERVER_PORT_DEV);
 #endif
 
-	ServerListen(server, "localhost", SERVER_PORT);
+    ServerListen(server, "localhost", SERVER_PORT);
 
 #if SERVER_DEV
-	devThread.join();
+    devThread.join();
 #endif
 
-	return 0;
+    return 0;
 }
 
 #include <cJSON.c>
