@@ -1,0 +1,41 @@
+text {
+<p style="text-align: center;"><a href="https://mailchi.mp/3eef86616803/nopasanada" target="_blank" rel="noopener"><strong><span style="text-decoration: underline;">S&uacute;scribete a nuestro newsletter diario:</span></strong></a></p>
+<hr />
+<p><strong>Una producci&oacute;n original de:</strong> NO PASA NADA</p>
+<p>Productor ejecutivo: Pietro Cercone</p>
+<p><strong>Presentado por:</strong> Guiri Uribe y Natalia Carvajal</p>
+<p><strong>Invitada:</strong> Laura Castro</p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p><strong>Edicic&oacute;n:&nbsp;</strong>Pietro Cercone</p>
+<p>&nbsp;</p>
+<hr />
+<p style="text-align: center;"><strong>Vea el &uacute;ltimo episodio de Lo Importante:</strong></p>
+<p style="text-align: center;">$<a href="https://youtu.be/SmAL78zDtAk">youtube//bDLf1WzSBfc</a>$</p>
+}
+title Compermisa - Ep. 2
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/compermisa-guiri-natalia-ep2.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Guiri y Natalia hablan a distancia sobre el machismo en las redes sociales y los medios de comunicación y cómo esto afecta la representación de las mujeres. Además de cómo esto ha afectado sus vidas personales. Invitada, la fotógrafa Laura Castro nos da su opinion y nos cuenta un poco sobre sus experiencias personales en el mismo tema. 
+year 2020
+featured{kmkv} {
+    title <b>Compermisa - Ep.2 <b>
+    text1 Sobre el machismo en redes sociales y los medios
+    text2 Con Laura Castro
+    pretitle PODCAST:
+    highlightColor #00FFFF
+}
+type video
+subtitle Guiri y Natalia hablan a distancia sobre el machismo en las redes sociales y los medios de comunicación y cómo esto afecta la representación de las mujeres. 
+month 07
+tags{array} noticias
+videoID https://youtu.be/VBVrarMgqy8
+titlePoster 
+color #F2FF00

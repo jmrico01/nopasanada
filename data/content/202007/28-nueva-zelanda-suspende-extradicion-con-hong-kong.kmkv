@@ -1,0 +1,40 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Nueva Zelanda suspendi&oacute; este martes su tratado de extradici&oacute;n con Hong Kong a causa de su "profunda preocupaci&oacute;n" respecto a la nueva ley de seguridad que China impuso en el territorio, una medida que ya adoptaron Canad&aacute;, Reino Unido y Australia.</p>
+<p>"La adopci&oacute;n por parte de China de la nueva ley sobre la seguridad nacional erosion&oacute; los principios del Estado de Derecho" y "viol&oacute; los compromisos de China ante la comunidad internacional", declar&oacute; el ministro de Relaciones Exteriores, Winston Peters.</p>
+<p>La suspensi&oacute;n, que podr&iacute;a irritar a Pek&iacute;n, principal socio comercial de Wellington, est&aacute; justificada porque "Nueva Zelanda no puede confiar m&aacute;s en la independencia del sistema judicial de Hong Kong respecto a China", agreg&oacute; el ministro.</p>
+<p>Adem&aacute;s, dijo que Nueva Zelanda reforzar&aacute; las restricciones a las exportaciones de material militar a Hong Kong y puso sobre aviso a los habitantes que quieran visitar la excolonia brit&aacute;nica.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Tres socios de Nueva Zelanda dentro de los servicios de inteligencia "Five Eyes" (Canad&aacute;, Reino Unido, Australia) tambi&eacute;n suspendieron su tratado de extradici&oacute;n con Hong Kong, mientras que Estados Unidos se&ntilde;al&oacute; que tambi&eacute;n pretende hacerlo.</p>
+<p>De momento, Pek&iacute;n no reaccion&oacute; oficialmente pero la diplomacia china advirti&oacute; que las presiones contra China respecto a esta ley supon&iacute;an una "injerencia grosera en los asuntos internos" del gigante asi&aacute;tico.</p>
+<p>Sus detractores denuncian que la ley de seguridad socava las libertades civiles y los derechos humanos en el centro financiero, semiaut&oacute;nomo.</p>
+}
+title Nueva Zelanda suspende su tratado de extradición con Hong Kong
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/28-nueva-zelanda-suspende-extradicion-con-hong-kong.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Nueva Zelanda suspendió este martes su tratado de extradición con Hong Kong a causa de su "profunda preocupación" respecto a la nueva ley de seguridad que China impuso en el territorio, una medida que ya adoptaron Canadá, Reino Unido y Australia.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Nueva Zelanda suspende su tratado de extradición con Hong Kong<b>
+    text1 Nueva Zelanda suspende su tratado de extradición con Hong Kong
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Estados Unidos acord&oacute; pagar 1.950 millones de d&oacute;lares para asegurar 100 millones de dosis de una potencial vacuna contra el coronavirus que est&aacute; siendo desarrollada por los laboratorios estadounidense Pfizer y alem&aacute;n Biontech, anunciaron ambas empresas este mi&eacute;rcoles.</p>
+<p>"El gobierno estadounidense hizo un pedido inicial de 100 millones de dosis por 1.950 millones de d&oacute;lares y podr&iacute;a adquirir hasta 500 millones de dosis adicionales", precisaron las dos compa&ntilde;&iacute;as que deben comenzar pr&oacute;ximamente los ensayos cl&iacute;nicos de la vacuna.</p>
+<p>La compa&ntilde;&iacute;a Biontech y el laboratorio estadounidense Pfizer est&aacute;n desarrollando desde hace meses una vacuna que est&aacute; entrando en una fase decisiva de ensayos a gran escala.</p>
+<p>Washington deber&iacute;a recibir las primeras dosis "cuando Pfizer logre fabricar [la vacuna] con &eacute;xito y obtenga la aprobaci&oacute;n" de las autoridades sanitarias.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El objetivo de ambos laboratorios es "fabricar cien millones de dosis antes de que termine 2020" y probablemente m&aacute;s de 1.300 millones antes de que termine 2021.</p>
+<p>A principios de julio las dos empresas anunciaron resultados preliminares positivos tras probar la vacuna en 45 personas.</p>
+<p>Seg&uacute;n Pfizer y Biontech, la vacuna es "capaz de generar una respuesta de anticuerpos neutralizantes entre los humanos a niveles superiores o iguales a los observados en los sueros convalecientes, y lo hace con dosis relativamente peque&ntilde;as".</p>
+<p>El martes el gobierno brit&aacute;nico anunci&oacute; por su parte un acuerdo para preservar 30 millones de dosis de esta vacuna.</p>
+<p>&nbsp;</p>
+}
+title EEUU paga 1.950 millones de dólares para garantizarse dosis de potencial vacuna
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/22-eeuu-paga-1950-millones-por-posible-vacuna.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Estados Unidos acordó pagar 1.950 millones de dólares para asegurar 100 millones de dosis de una potencial vacuna contra el coronavirus que está siendo desarrollada por los laboratorios estadounidense Pfizer y alemán Biontech, anunciaron ambas empresas este miércoles.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>EEUU paga 1.950 millones por posible vacuna<b>
+    text1 EEUU paga 1.950 millones de dólares para garantizarse dosis de potencial vacuna
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-politica,noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

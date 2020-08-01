@@ -1,0 +1,44 @@
+text {
+<p><strong>&nbsp;&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Seis miembros de la poderosa mafia calabresa Ndrangheta fueron detenidos en Argentina, Costa Rica y Albania en una operaci&oacute;n conjunta dirigida por la Interpol y las autoridades italianas, anunci&oacute; el viernes la organizaci&oacute;n internacional de polic&iacute;a.</p>
+<p>Los sospechosos est&aacute;n vinculados con el clan Bellocco, basado en la ciudad portuaria de Gioia Tauro, en Calabria.</p>
+<p>Dotado de considerables recursos financieros, el clan Bellocco se dedica a importar coca&iacute;na sudamericana por barco a Italia, en particular de Argentina y Costa Rica.</p>
+<p>Para ello, el grupo depende de emisarios que viajaban frecuentemente entre la base calabresa del clan Bellocco y los pa&iacute;ses proveedores.</p>
+<p>Entre los sospechosos detenidos en Argentina figuran Ferdinando Sarago, un estrecho colaborador de la temida organizaci&oacute;n que realizaba frecuentes viajes a Am&eacute;rica Latina, y Giovanni Di Pietro, tambi&eacute;n conocido como Massimo Pertini, considerado un actor clave en el tr&aacute;fico de drogas entre los dos continentes.</p>
+<p>En 1978, Di Pietro estuvo involucrado en el secuestro de Franz Trovato, hijo de un industrial que muri&oacute; en su intento de escapar despu&eacute;s de 21 d&iacute;as de cautiverio.</p>
+<p><strong>&iquest;Por qu&eacute; nosimporta?</strong></p>
+<p>En un balneario de Jac&oacute;, en el oeste de Costa Rica, fue arrestado Franco D'Agapiti, que ejerc&iacute;a como representante de la familia Bellocco en este pa&iacute;s centroamericano.</p>
+<p>En los operativos la polic&iacute;a se incaut&oacute; un total de 400 kilos de coca&iacute;na, 30 kilos de hach&iacute;s, 15 kilos de marihuana, un fusil de asalto autom&aacute;tico, tres pistolas semiautom&aacute;ticas, un silenciador y municiones de diversos calibres.</p>
+<p>"La Ndrangheta representa una amenaza que ha contaminado silenciosamente la econom&iacute;a de m&aacute;s de 30 pa&iacute;ses de todo el mundo. La &uacute;nica manera de contrarrestarla es a trav&eacute;s de una red mundial m&aacute;s poderosa", declar&oacute; el prefecto Vittorio Rizzi, de la Direcci&oacute;n Central de Polic&iacute;a Criminal de Italia, citado por la Interpol.</p>
+<p>La organizaci&oacute;n tiene la reputaci&oacute;n de haberse convertido en la mayor mafia de Italia, por delante de la Cosa Nostra siciliana y la Camorra napolitana, gracias al tr&aacute;fico de coca&iacute;na.&nbsp;</p>
+<p>Basada en una estructura familiar, naci&oacute; en Calabria, en el extremo sur de la pen&iacute;nsula italiana, pero ha llegado a ser influyente en el norte y en otras partes del mundo. Seg&uacute;n los expertos, es la &uacute;nica mafia presente en todos los continentes.&nbsp;</p>
+}
+title Miembros de mafia italiana detenidos en Argentina y Costa Rica
+day 24
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/24-mafia-italiana-detenida-en-argentina-y-costa-rica.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Seis miembros de la poderosa mafia calabresa Ndrangheta fueron detenidos en Argentina, Costa Rica y Albania en una operación conjunta dirigida por la Interpol y las autoridades italianas, anunció el viernes la organización internacional de policía.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Mafia italiana detenida en Argentina y Costa Rica<b>
+    text1 Miembros de mafia italiana detenidos en Argentina y Costa Rica
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Brasil reabri&oacute; este mi&eacute;rcoles sus fronteras a los visitantes extranjeros que lleguen por avi&oacute;n, con la esperanza de reflotar su devastada industria tur&iacute;stica, pese a la propagaci&oacute;n del coronavirus en el pa&iacute;s, seg&uacute;n un decreto publicado en la gaceta oficial.</p>
+<p>El decreto extiende por otros 30 d&iacute;as las prohibiciones para el ingreso de extranjeros por v&iacute;a terrestre o mar&iacute;tima, pero afirma que la restricci&oacute;n fronteriza "ya no prohibir&aacute; la llegada de extranjeros por aire".</p>
+<p>Brasil cerr&oacute; sus fronteras a&eacute;reas a los no residentes el 30 de marzo, en un momento en que el coronavirus causaba estragos en Europa y Asia y acababa de llegar a Sudam&eacute;rica.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Ahora el pa&iacute;s de 210 millones de habitantes es el segundo en n&uacute;mero de contagios y fallecidos por la pandemia, por detr&aacute;s de Estados Unidos. &nbsp;</p>
+<p>La industria tur&iacute;stica ya ha perdido cerca de 122.000 millones de reales (unos 23.600 millones de d&oacute;lares) por culpa de la pandemia, seg&uacute;n estimaciones de la Confederaci&oacute;n Nacional del Comercio de Bienes, Servicios y &nbsp;Turismo (CNC).</p>
+<p>La mayor econom&iacute;a de Am&eacute;rica Latina sufrir&aacute; una ca&iacute;da del 9,1% del PIB este a&ntilde;o, seg&uacute;n el Fondo Monetario Internacional.&nbsp;</p>
+<p>Con esta nueva medida, Brasil pedir&aacute; a los visitantes extranjeros que permanezcan durante 90 d&iacute;as o menos en el pa&iacute;s y que tengan un seguro de salud que los cubra en territorio brasile&ntilde;o antes de viajar.&nbsp;</p>
+<p>Brasil est&aacute; entre los pa&iacute;ses cuyos ciudadanos tienen vetada la entrada a la Uni&oacute;n Europea o Estados Unidos por culpa de la pandemia.&nbsp;</p>
+<p>El coronavirus sigue expandi&eacute;ndose por Brasil, que super&oacute; el umbral de 2,5 millones de infecciones y 90.000 muertes el mi&eacute;rcoles.&nbsp;</p>
+}
+title Brasil abre fronteras aéreas a extranjeros pese a pandemia
+day 30
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/30-brasil-abre-fronteras-areas-a-extranjeros.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Brasil reabrió este miércoles sus fronteras a los visitantes extranjeros que lleguen por avión, con la esperanza de reflotar su devastada industria turística, pese a la propagación del coronavirus en el país, según un decreto publicado en la gaceta oficial.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Brasil abre fronteras aéreas<b>
+    text1 Brasil abre fronteras aéreas a extranjeros pese a pandemia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

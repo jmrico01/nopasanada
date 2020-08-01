@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La NASA lanz&oacute; este jueves su robot explorador Perseverance a Marte, dise&ntilde;ado para descubrir rastros de vida antigua en el planeta rojo.&nbsp;</p>
+<p>Un cohete Atlas V de United Launch Alliance despeg&oacute; seg&uacute;n lo previsto a las 07H50 (11H50 GMT) desde Cabo Ca&ntilde;averal, Florida, en un cielo despejado, para emprender un viaje de casi siete meses y casi 480 millones de kil&oacute;metros.</p>
+<p>La primera etapa del cohete se desprendi&oacute; unos minutos despu&eacute;s. La NASA se prepara ahora para una segunda separaci&oacute;n, desde la &oacute;rbita terrestre, que propulsar&aacute; al Perseverance a su trayectoria en direcci&oacute;n a Marte.&nbsp;</p>
+<p>"Es realmente fant&aacute;stico verlo irse despu&eacute;s de todo el arduo trabajo del equipo", dijo poco despu&eacute;s del lanzamiento Bobby Braun, directivo de la NASA.&nbsp;</p>
+<p>Si todo sale bien, el 18 de febrero de 2021 Perseverance ser&aacute; el quinto rover en hacer esta traves&iacute;a desde 1997.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Todos los veh&iacute;culos exploradores que se han posado sobre Marte hasta ahora son estadounidenses, pero China lanz&oacute; su primer rover al planeta rojo la semana pasada y se espera que llegue en mayo de 2021.&nbsp;</p>
+<p>Por lo tanto, puede que Marte acoja simult&aacute;neamente tres rovers activos el pr&oacute;ximo a&ntilde;o, junto con el estadounidense Curiosity, que ha recorrido 23 km de la superficie del planeta desde 2012.&nbsp;</p>
+<p>La misi&oacute;n principal de Perseverance ser&aacute; buscar rastros de vida microbiana pasada.</p>
+<p>Los cient&iacute;ficos creen que hace m&aacute;s de 3.000 millones de a&ntilde;os el planeta era m&aacute;s c&aacute;lido y estaba cubierto de r&iacute;os y lagos, los ingredientes necesarios para hacer surgir los microbios.</p>
+}
+title NASA lanza su rover Perseverance a Marte
+day 30
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/30-nasa-lanza-perseverance-a-marte.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La NASA lanzó este jueves su robot explorador Perseverance a Marte, diseñado para descubrir rastros de vida antigua en el planeta rojo.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>NASA lanza su rover<b>
+    text1 NASA lanza su rover Perseverance a Marte
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

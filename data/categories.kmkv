@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202007/21-pandemia-brecha-hombres-mujeres
+        featured{array} /content/202007/31-vietnam-registra-primera-muerte-por-coronavirus
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -24,11 +24,11 @@ mas{kmkv} {
     }
     saludmental{kmkv} {
         name Salud mental
-        featured{array} /content/202007/21-kanye-west-casa-blanca
+        featured{array} /content/202007/22-como-deberiamos-estar-hablando-de-kanye
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202007/10-musica-y-codigo
+        featured{array} /content/202007/27-remueven-murales-de-picasso-en-oslo
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
@@ -36,10 +36,10 @@ guida{kmkv} {
     name Guida
     comida{kmkv} {
         name Comida
-        featured{array} /content/202007/bubble-waffles
+        featured{array} /content/202007/la-guida-servicio-expres
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202007/don-lucas-cafe
+    featured{array} /content/202007/kfc-pollo-tresd
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202005/07-jugando-con-fuego
@@ -57,28 +57,28 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/20-matan-esposo-de-jueza-federal
+        featured{array} /content/202007/30-trump-sugiere-aplazar-elecciones-presidenciales
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/21-pandemia-brecha-hombres-mujeres
+        featured{array} /content/202007/31-portland-protesta-sin-gases-tras-salida-de-federales
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/21-union-europea-acuerdo-historico
+    featured{array} /content/202007/video-arepas-en-venezuela
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202007/21-kanye-west-casa-blanca
+        featured{array} /content/202007/27-museo-latino
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202007/ep2-que-pasa-en-no-pasa-nada
+        featured{array} /content/202007/video-loimportante-stella-hydroxychloroquine-clodomiropicado
     }
 }
 coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/artesano-inspirado-en-naturaleza
+    featured{array} /content/202007/video-loimportante-stella-hydroxychloroquine-clodomiropicado
 }
 other{kmkv} {
     name Other (Internal)

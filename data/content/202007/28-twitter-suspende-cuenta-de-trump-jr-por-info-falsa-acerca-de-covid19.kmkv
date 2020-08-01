@@ -1,0 +1,38 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Este martes la red social Twitter suspendi&oacute; por 12 horas la cuenta de Donald Trump Jr. por haber publicado un video en el que se discut&iacute;a informaci&oacute;n falsa acerca del COVID-19.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>En el video aparec&iacute;an m&eacute;dicos discutiendo los beneficios de la hidroxicloroquina para combatir el virus, aunque no hayan suficientes estudios que respalden esto. Tambi&eacute;n dec&iacute;an que el uso de las mascarillas no era necesario para prevenir el esparcimiento del virus.</p>
+<p>El video original fue publicado el lunes por el medio de noticias de ultra derecha Breitbart News y se hizo viral por lo que Twitter, Facebook y Youtube lo borraron de sus plataformas.&nbsp;</p>
+<p>El presidente de los Estados Unidos, Donald Trump, tambi&eacute;n comparti&oacute; diferentes versiones del mismo video en Twitter pero &eacute;l no subi&oacute; el video a la red social a diferencia de su hijo, por lo que la suspensi&oacute;n solo se hizo en contra de Trump Jr.</p>
+<p>&nbsp;</p>
+}
+title Twitter suspende cuenta de Trump Jr. por publicar información falsa acerca del COVID-19
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/28-twitter-suspende-cuenta-de-trump-jr-por-info-falsa-acerca-de-covid19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Este martes la red social Twitter suspendió por 12 horas la cuenta de Donald Trump Jr. por haber publicado un video en el que se discutía información falsa acerca del COVID-19.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Twitter suspende cuenta de Trump Jr.<b>
+    text1 Twitter suspende cuenta de Trump Jr. por publicar información falsa acerca del COVID-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

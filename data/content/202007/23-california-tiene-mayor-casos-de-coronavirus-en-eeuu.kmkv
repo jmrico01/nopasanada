@@ -1,0 +1,47 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>California se convirti&oacute; en el estado de Estados Unidos con m&aacute;s casos de coronavirus, superando a Nueva York, tras reportar este mi&eacute;rcoles un total de cerca de 415.000 infectados.</p>
+<p>Las autoridades estadales informaron que 413.576 personas han contra&iacute;do la enfermedad desde que comenz&oacute; el brote, de las cuales 7.870 fallecieron, 115 el martes.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Si California fuera un pa&iacute;s, ser&iacute;a el quinto con mayor casos del mundo, por detr&aacute;s de Estados Unidos, Brasil, India y Rusia, y por delante de Sud&aacute;frica, Per&uacute;, M&eacute;xico y Chile, seg&uacute;n el conteo del hospital Johns Hopkins.</p>
+<p>El total de positivos supera adem&aacute;s en casi 4.700 casos al estado de Nueva York, que fue el epicentro de la pandemia en el pa&iacute;s en la primavera boreal.</p>
+<p>El n&uacute;mero de fallecidos en Nueva York de 25.068 contin&uacute;a siendo el mayor del pa&iacute;s, aunque el estado ha visto una fuerte ca&iacute;da tanto en infecciones como muertes en los &uacute;ltimos dos meses.</p>
+<p>Las autoridades californianas han subrayado que al comparar los n&uacute;meros, hay que considerar el hecho de que California tiene la mayor poblaci&oacute;n del pa&iacute;s, de casi 40 millones y el doble que la de Nueva York.</p>
+<p>El gobernador Gavin Newsom dijo el mi&eacute;rcoles que el pico de infecciones podr&iacute;a explicarse en parte por la reapertura de sectores clave de la econom&iacute;a, que arranc&oacute; a finales de mayo.</p>
+<p>"No sorprende que ahora, a medida que hemos comenzado a reabrir sectores clave de nuestra econom&iacute;a y la gente se mezcla y tiene contacto con otros que pueden haber contra&iacute;do esta enfermedad, que nuestras cifras comiencen a subir", dijo a periodistas.</p>
+<p>Advirti&oacute; que el aumento de las infecciones era un recordatorio de "la magnitud del impacto que este virus sigue teniendo".</p>
+<p>Newsom dijo que el estado registr&oacute; 12.807 nuevas infecciones de COVID-19 en las &uacute;ltimas 24 horas, un r&eacute;cord.</p>
+<p>Las hospitalizaciones tambi&eacute;n han aumentado mucho, con m&aacute;s de 7.000 personas hospitalizadas hasta el lunes y m&aacute;s de 2.000 en cuidados intensivos.</p>
+<p>California fue inicialmente promocionada como un ejemplo de manejo de la pandemia, imponiendo los primeros cierres en el pa&iacute;s.</p>
+<p>Pero despu&eacute;s de comenzar a relajar las restricciones a finales de mayo, se vio obligado, semanas m&aacute;s tarde, a ordenar nuevos cierres de salones de restaurantes, bares, peluquer&iacute;as y cines, a medida que el n&uacute;mero de infecciones aumentaba.</p>
+<p>&nbsp;</p>
+}
+title California tiene el mayor número de casos de covid-19 en EEUU
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/23-california-tiene-mayor-casos-de-coronavirus-en-eeuu.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description California se convirtió en el estado de Estados Unidos con más casos de coronavirus, superando a Nueva York, tras reportar este miércoles un total de cerca de 415.000 infectados.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>California tiene la mayor cantidad de casos en EEUU<b>
+    text1 California tiene el mayor número de casos de covid-19 en EEUU
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-politica,noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

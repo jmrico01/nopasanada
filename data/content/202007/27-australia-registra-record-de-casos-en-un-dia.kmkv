@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Australia registr&oacute; el lunes un nuevo r&eacute;cord de contaminaciones al nuevo coronavirus desde que se inici&oacute; la pandemia, lo que demuestra hasta qu&eacute; punto las autoridades tienen dificultades en frenar nuevos focos de contagio especialmente en el Estado de Victoria.</p>
+<p>Las autoridades anunciaron este lunes &nbsp;549 nuevas infecciones a covid-19, la mayor&iacute;a de ellas en este Estado, cuya capital es Melbourne.</p>
+<p>Las autoridades han admitido que esta segunda oleada es m&aacute;s dif&iacute;cil de controlar.</p>
+<p>No obstante el responsable de los servicios de salud en &nbsp;Victoria, Brett Sutton, se declar&oacute; optimista respecto a la eficacia del confinamiento parcial decretado hace dos semanas en Melbourne y sus alrededores, y que afecta a cinco millones de personas.</p>
+<p>"Hoy habremos alcanzado el pico" declar&oacute; Sutton, aunque admiti&oacute; que el numero de casos seguir&aacute; fluctuando y que podr&iacute;an establecerse nuevos r&eacute;cords en el n&uacute;mero de contaminaciones.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El n&uacute;mero de casos registrados en 24 horas ya ha superado la cifra r&eacute;cord (459) de la primera oleada, que se produjo en marzo, seg&uacute;n datos oficiales.</p>
+<p>Australia, pa&iacute;s que fue elogiado por su gesti&oacute;n inicial de la epidemia, totaliza 15.000 casos de covid-19, una enfermedad que ha dejado ya 161 muertos en esta isla-continente.</p>
+<p>Los nuevos focos "son realmente muy vol&aacute;tiles" dijo Sutton. "En residencia de personas mayores, las cifras pueden aumentar de forma muy significativa en un corto per&iacute;odo de tiempo".</p>
+<p>Los responsables siguen de forma atenta la situaci&oacute;n en el Estado de Victoria, pero en el vecino Nueva Gales del Sur se han producido focos generados por viajeros llegados a Sidney procedentes de &nbsp;Melbourne.&nbsp;</p>
+}
+title Australia registra récord de contaminaciones de covid-19
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202007/headers/27-australia-registra-record-de-casos-en-un-dia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Australia registró el lunes un nuevo récord de contaminaciones al nuevo coronavirus desde que se inició la pandemia, lo que demuestra hasta qué punto las autoridades tienen dificultades en frenar nuevos focos de contagio especialmente en el Estado de Victoria.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Australia registra récord de contaminaciones de covid-19<b>
+    text1 Australia registra récord de contaminaciones de covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
