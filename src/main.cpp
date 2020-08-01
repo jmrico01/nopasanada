@@ -482,8 +482,14 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
 
     FixedArray<char, PATH_MAX_LENGTH> pathBuffer;
     pathBuffer.Clear();
+    pathBuffer.Append(rootPath);
+    pathBuffer.Append(ToString("data/content"));
 
-    Array<FileInfo> entryDirs = ListDir(ToString("data/content"), &defaultAllocator_);
+    Array<FileInfo> entryDirs = ListDir(pathBuffer.ToArray(), &defaultAllocator_);
+    if (entryDirs.data == nullptr) {
+        LOG_ERROR("Failed to get entry dirs from %.*s\n", (int)pathBuffer.size, pathBuffer.data);
+        return false;
+    }
     defer(FreeListDir(entryDirs, &defaultAllocator_));
     for (uint64 dd = 0; dd < entryDirs.size; dd++) {
         const_string dirName = entryDirs[dd].name;
@@ -492,12 +498,17 @@ bool LoadAllMetadataJson(const Array<char>& rootPath, DynamicArray<char, Standar
         }
 
         string pathBufferString = { .size = PATH_MAX_LENGTH, .data = pathBuffer.data };
-        if (!SizedPrintf(&pathBufferString, "data/content/%.*s", (int)dirName.size, dirName.data)) {
+        if (!SizedPrintf(&pathBufferString, "%.*s/data/content/%.*s",
+                         (int)rootPath.size, rootPath.data, (int)dirName.size, dirName.data)) {
             LOG_ERROR("Entry dir path too long for %.*s\n", (int)dirName.size, dirName.data);
             return false;
         }
         // TODO probably check if it's a dir first? don't have that info yet
         Array<FileInfo> entries = ListDir(pathBufferString, &defaultAllocator_);
+        if (entries.data == nullptr) {
+            LOG_ERROR("Failed to get entry dirs from %.*s\n", (int)pathBufferString.size, pathBufferString.data);
+            return false;
+        }
         defer(FreeListDir(entries, &defaultAllocator_));
         for (uint64 ee = 0; ee < entries.size; ee++) {
             const_string entryName = entries[ee].name;
