@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202007/video-loimportante-stella-hydroxychloroquine-clodomiropicado
+    featured{array} /content/202008/ep3-que-pasa-en-no-pasa-nada
 }
 other{kmkv} {
     name Other (Internal)
