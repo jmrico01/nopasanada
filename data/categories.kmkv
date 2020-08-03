@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202007/31-vietnam-registra-primera-muerte-por-coronavirus
+        featured{array} /content/202008/3-rusia-promete-cientos-de-miles-de-vacunas-de-covid19-antes-de-finales-de-2020
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202007/30-trump-sugiere-aplazar-elecciones-presidenciales
+        featured{array} /content/202008/3-miles-de-personas-protestaron-en-berlin-en-contra-de-restricciones-por-pandemia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202007/31-portland-protesta-sin-gases-tras-salida-de-federales
+        featured{array} /content/202008/3-spacex-trae-de-regreso-astronautas-de-nasa
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202007/video-arepas-en-venezuela
+    featured{array} /content/202008/3-rusia-promete-cientos-de-miles-de-vacunas-de-covid19-antes-de-finales-de-2020
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202007/27-museo-latino
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202008/ep3-que-pasa-en-no-pasa-nada
+    featured{array} /content/202008/3-oms-admite-que-talvez-no-haya-solucion-para-coronavirus
 }
 other{kmkv} {
     name Other (Internal)

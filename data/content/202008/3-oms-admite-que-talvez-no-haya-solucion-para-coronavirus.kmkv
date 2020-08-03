@@ -1,0 +1,45 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La Organizaci&oacute;n Mundial de la Salud (OMS) advirti&oacute; este lunes que quiz&aacute;s nunca haya una "soluci&oacute;n" contra la pandemia de covid-19, a pesar de la carrera en curso para obtener un vacuna.</p>
+<p>"No hay soluci&oacute;n y quiz&aacute;s nunca la haya", declar&oacute; el director general de la OMS, Tedros Adhanom Ghebreyesus, en una conferencia de prensa en l&iacute;nea.</p>
+<p>"Los ensayos cl&iacute;nicos nos dan esperanza, pero esto no significa necesariamente que obtengamos una vacuna" eficaz, afirm&oacute;.</p>
+<p>"Todos esperamos tener un n&uacute;mero de vacunas eficaces que puedan evitar que la gente se contagie", a&ntilde;adi&oacute; &nbsp;Adhanom Ghebreyesus, quien insisti&oacute; en que mientras tanto frenar los brotes depende del respeto de las medidas de salud p&uacute;blica.</p>
+<p>El comit&eacute; de urgencia de la OMS, que se reuni&oacute; el viernes, "fue muy claro. Cuando los dirigentes trabajan en colaboraci&oacute;n estrecha con la poblaci&oacute;n, esta enfermedad puede ser controlada", record&oacute;.</p>
+<p>"Debemos contener las nuevas olas", defendi&oacute; el director de la OMS y para ello record&oacute; que "se deben hacer test, aislar y tratar a los enfermos y buscar y aislar a su contactos", pero tambi&eacute;n se debe "informar" para que, seg&uacute;n &eacute;l, las poblaciones sigan respetando los gestos de distanciamiento y as&iacute; romper las cadenas de transmisi&oacute;n.</p>
+<p>"El mensaje a la gente y los gobiernos es: haced todo esto. &iexcl;Y continuad cuando (el virus) est&eacute; bajo control!, insisti&oacute; Adhanom Ghebreyesus, tras haber recordado que en "varios pa&iacute;ses que parec&iacute;an haber superado lo m&aacute;s duro, ahora conocen nuevas oleadas".</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La pandemia caus&oacute; 690.000 muertos desde finales de diciembre, seg&uacute;n un balance hecho el lunes por la AFP a las 11H00 GMT, y contagi&oacute; a m&aacute;s de 18 millones de personas, de las cuales al menos 10,5 millones ya se curaron.</p>
+<p>El director general de la agencia de Naciones Unidas anunci&oacute; por otra parte que la misi&oacute;n de la OMS en China concluy&oacute; el trabajo preparatorio para su investigaci&oacute;n sobre el origen de la pandemia de covid-19.</p>
+<p>"El equipo de la OMS que viaj&oacute; a China termin&oacute; su misi&oacute;n consistente en sentar las bases de los esfuerzos conjuntos para identificar los or&iacute;genes del virus", declar&oacute; el jefe de la organizaci&oacute;n.</p>
+<p>"Estudios epidemiol&oacute;gicos comenzar&aacute;n en Wuhan para identificar la fuente potencial de infecci&oacute;n de los primeros casos", a&ntilde;adi&oacute;.</p>
+<p>La gran mayor&iacute;a de los cient&iacute;ficos coinciden en que el nuevo coronavirus se origin&oacute; en un murci&eacute;lago, pero que antes de ser transmitido al ser humano pas&oacute; por otro animal.</p>
+}
+title OMS admite que "quizás nunca haya una solución" para el coronavirus
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/3-oms-admite-que-talvez-no-haya-solucion-para-coronavirus.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La Organización Mundial de la Salud (OMS) advirtió este lunes que quizás nunca haya una "solución" contra la pandemia de covid-19, a pesar de la carrera en curso para obtener un vacuna.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>no haya solución para el COVID<b>
+    text1 OMS admite que "quizás nunca haya una solución" para el coronavirus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,50 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Varios miles de personas se manifestaron este s&aacute;bado en Berl&iacute;n para protestar contra las medidas de prevenci&oacute;n frente al coronavirus que seg&uacute;n ellas limitan las libertades individuales.</p>
+<p>Los manifestantes, unos 17.000 seg&uacute;n la polic&iacute;a, son menos que los 500.000 anunciados por los organizadores de la marcha, llamada "El Fin de la Pandemia - D&iacute;a de Libertad".</p>
+<p>Este desfile reuni&oacute; a "librepensadores", militantes antivacunas, conspiracionistas o incluso simpatizantes de extrema derecha.</p>
+<p>Algunos gritaban "Somos la segunda ola", "Resistencia" o denunciaban el coronavirus como "una gran teor&iacute;a de la conspiraci&oacute;n".</p>
+<p><strong>&iquest;Porqu&eacute; nos importa?</strong></p>
+<p>Muy pocos llevaban mascarilla, indic&oacute; un periodista de la AFP en el lugar, y la distancia f&iacute;sica de un metro cincuenta tampoco se respetaba.</p>
+<p>La polic&iacute;a de Berl&iacute;n, que pidi&oacute; a trav&eacute;s de altavoces a los manifestantes que respetaran las medidas de seguridad, anunci&oacute; en Twitter que interpuso una denuncia contra los organizadores por "no respetar las reglas de higiene".</p>
+<p>Los manifestantes creen que estas medidas deber&iacute;an desaparecer, ya que la crisis sanitaria se ha superado.</p>
+<p>"Es una pura t&aacute;ctica de miedo: no veo ning&uacute;n peligro con el virus. No conozco a otras personas enfermas. Conoc&iacute; muchos enfermos en marzo, esquiadores, turistas, realmente ocurr&iacute;a algo en febrero, pero ahora ya no hay m&aacute;s enfermos", afirm&oacute; Iris Birzenmeier.</p>
+<p>Una opini&oacute;n que comparte Anna-Maria Wetzel, que lleg&oacute; con unos quince amigos desde Bade-Wurtemberg (suroeste), donde ya particip&oacute; en varias concentraciones similares.</p>
+<p>"Los que no se informan por s&iacute; mismos, al contrario que nosotros, son ignorantes y creen lo que les dice el gobierno. Entran en el miedo que el gobierno nos mete en la cabeza. Y el miedo debilita el sistema inmunitario", lanza.</p>
+<p>Varias contramanifestaciones, entre ellas la del grupo Abuelas Contra la Extrema Derecha, calificaron de "nazis" a los manifestantes.</p>
+<p>El lema de la manifestaci&oacute;n , "D&iacute;a de la Libertad", coincide con el t&iacute;tulo de una pel&iacute;cula de la directora, Leni Riefenstahl, sobre la conferencia del partido de Adolf Hitler NSDAP en 1935.</p>
+<p>Alemania registr&oacute; hasta ahora 9.200 muertos por coronavirus, una cifra relativamente baja, pero las autoridades ven con preocupaci&oacute;n un lento aumento de casos.</p>
+<p>Varios responsables pol&iacute;ticos criticaron esta movilizaci&oacute;n, incluida Saskia Esken, responsable de los socialdem&oacute;cratas, partido minoritario de la coalici&oacute;n gubernamental con los conservadores de la canciller Angela Merkel.</p>
+<p>"Sin distancia, sin mascarilla: no solo ponen en peligro nuestra salud, sino tambi&eacute;n nuestro &eacute;xito ante la pandemia y la reactivaci&oacute;n de la econom&iacute;a, la educaci&oacute;n y la sociedad. &iexcl;Irresponsable!", tuite&oacute;.</p>
+<p>El ministro del Interior, Horst Seehofer, se mostr&oacute; por su parte m&aacute;s comprensivo al respecto, pues "siempre hay opiniones diferentes" cuando se trata de "restricciones a la libertad", aunque, seg&uacute;n &eacute;l, "no son la mayor&iacute;a".</p>
+<p>&nbsp;</p>
+}
+title Miles de personas en Berlín protestaron contra restricciones por coronavirus
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/3-miles-de-personas-protestaron-en-berlin-en-contra-de-restricciones-por-pandemia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Varios miles de personas se manifestaron este sábado en Berlín para protestar contra las medidas de prevención frente al coronavirus que según ellas limitan las libertades individuales.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Miles de personas protestaron<b>
+    text1 Miles de personas en Berlín protestaron contra restricciones por coronavirus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

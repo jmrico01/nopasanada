@@ -1,0 +1,40 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Rusia asegur&oacute; este lunes que pronto tendr&aacute; la capacidad de producir cada mes centenares de miles de dosis de la vacuna del nuevo coronavirus y que elevar&aacute; su producci&oacute;n a "varios millones" desde principios del a&ntilde;o que viene.</p>
+<p>"Seg&uacute;n las primeras estimaciones (...) podremos proporcionar a partir de este a&ntilde;o varios centenares de miles de dosis de la vacuna cada mes y luego varios millones desde principios del a&ntilde;o que viene", declar&oacute; el ministro ruso de Comercio, Denis Maturov, a la agencia estatal TASS.</p>
+<p>Maturov explic&oacute; que tres empresas biom&eacute;dicas empezar&aacute;n a partir de septiembre la producci&oacute;n industrial de la vacuna desarrollada por el laboratorio de investigaci&oacute;n en epidemiolog&iacute;a y microbiolog&iacute;a Nikol&aacute;i Gamaleia.</p>
+<p>Rusia, como muchos otros pa&iacute;ses, trabaja desde hace meses en varios proyectos de vacunas del covid-19 y por ahora se prioriz&oacute; el del laboratorio Gamaleia, desarrollado en colaboraci&oacute;n con el Ministerio de Defensa y cuyos detalles no fueron publicados, lo que impide certificar su eficacia.</p>
+<p>El Centro estatal de investigaci&oacute;n Vektor, en Siberia, trabaja en otra vacuna, cuyas primeras dosis deber&iacute;an estar listas a partir de octubre, seg&uacute;n las autoridades.</p>
+<p>Rusia es el cuarto pa&iacute;s en el mundo m&aacute;s afectado por la pandemia, por detr&aacute;s de Estados Unidos, Brasil e India, y desde abril expres&oacute; su voluntad de ser uno de los primeros pa&iacute;ses, o incluso el primero, en desarrollar la vacuna del covid-19.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Investigadores internacionales alertaron, sin embargo, ante la rapidez del desarrollo de las vacunas en Rusia y consideraron que no se hab&iacute;an respetado varios procesos cient&iacute;ficos para acelerar un trabajo realizado bajo la presi&oacute;n de Mosc&uacute;.</p>
+}
+title Rusia promete miles de vacunas del covid-19 desde finales de 2020
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/3-rusia-promete-cientos-de-miles-de-vacunas-de-covid19-antes-de-finales-de-2020.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Rusia aseguró este lunes que pronto tendrá la capacidad de producir cada mes centenares de miles de dosis de la vacuna del nuevo coronavirus y que elevará su producción a "varios millones" desde principios del año que viene.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Rusia promete miles de vacunas<b>
+    text1 Rusia promete miles de vacunas del covid-19 desde finales de 2020
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
