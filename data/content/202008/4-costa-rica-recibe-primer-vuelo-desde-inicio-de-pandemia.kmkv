@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Costa Rica recibi&oacute; la noche del lunes el primer vuelo comercial desde el inicio de la pandemia de la covid-19, con la llegada de un avi&oacute;n procedente de Espa&ntilde;a con m&aacute;s de 200 pasajeros.</p>
+<p>El avi&oacute;n de Iberia es el primer vuelo de turistas desde que el pa&iacute;s centroamericano cerr&oacute; sus fronteras para el ingreso de extranjeros en marzo, cuando se detectaron los primeros casos del nuevo coronavirus.</p>
+<p>Costa Rica autoriz&oacute; los vuelos con turistas procedentes de la Uni&oacute;n Europea, Reino Unido y Canad&aacute;, donde la pandemia est&aacute; bajo cierto control.</p>
+<p>Se exige a los extranjeros que arriben a Costa Rica una prueba negativa de covid-19 y un seguro que cubra eventuales sucesos relacionados con la pandemia, como tratamientos m&eacute;dicos y la posibilidad de que el pa&iacute;s adopte una cuarentena estricta que los obligue a prolongar su estad&iacute;a.</p>
+<p>El Aeropuerto Juan Santamar&iacute;a, que sirve a San Jos&eacute;, fue adaptado para recibir visitantes en tiempos de pandemia, con la instalaci&oacute;n de alfombras desinfectantes y condiciones que aseguren que los pasajeros guarden la distancia al hacer tr&aacute;mites de migraci&oacute;n y aduanas.</p>
+<p>El estatal Instituto Costarricense de Turismo inform&oacute; que 13 de los pasajeros no presentaron la prueba de covid-19, por lo que se les har&aacute; la prueba en el aeropuerto y deber&aacute;n permanecer aislados 24 horas en su hotel a la espera del resultado.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El pa&iacute;s recibir&aacute; incialmente cinco vuelos comerciales semanales, apenas el 1% de los que arribaban antes de la pandemia, seg&uacute;n cifras oficiales.</p>
+<p>M&aacute;s de 3 millones de extranjeros llegaban anualmente a Costa Rica en los &uacute;ltimos a&ntilde;os, convirtiendo al turismo en una de las principales fuentes de ingresos para el pa&iacute;s.</p>
+<p>&nbsp;</p>
+}
+title Costa Rica recibe primer vuelo comercial desde inicio de pandemia
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/4-costa-rica-recibe-primer-vuelo-desde-inicio-de-pandemia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Costa Rica recibió la noche del lunes el primer vuelo comercial desde el inicio de la pandemia de la covid-19, con la llegada de un avión procedente de España con más de 200 pasajeros.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Los turistas vuelan a Costa Rica<b>
+    text1 Costa Rica recibe primer vuelo comercial desde inicio de pandemia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

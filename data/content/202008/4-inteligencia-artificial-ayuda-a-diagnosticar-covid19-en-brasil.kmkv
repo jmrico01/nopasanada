@@ -1,0 +1,47 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Una plataforma que identifica lesiones pulmonares por medio de inteligencia artificial ayuda a m&eacute;dicos brasile&ntilde;os a diagnosticar el nuevo coronavirus, que ya dej&oacute; m&aacute;s de 2,6 millones de casos y cerca de 95.000 muertes en el pa&iacute;s.</p>
+<p>La herramienta RadVid-19, operativa desde abril, determina la probabilidad de contagio de covid-19. Combina dos algoritmos, de la china Huawei y la alemana Siemens, que analizan los rayos X y las tomograf&iacute;as de t&oacute;rax en busca de irregularidades en los pulmones.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"Es el aspecto m&aacute;s t&iacute;pico de la neumon&iacute;a por covid. El software marca esas &aacute;reas, dice cu&aacute;l es la probabilidad de tener covid e indica el porcentaje de pulm&oacute;n que est&aacute; enfermo", explica Marcio Sawamura, vicedirector del Instituto de Radiolog&iacute;a del Hospital de las Cl&iacute;nicas de la Facultad de Medicina de la Universidad de Sao Paulo (USP).</p>
+<p>Sawamura analiza los c&iacute;rculos blancos y amarillos que identifican las lesiones en las im&aacute;genes de su computador. En caso de pacientes regulares, la herramienta permite comparar el impacto de la contaminaci&oacute;n pulmonar con ex&aacute;menes previos.</p>
+<p>Al sistema, desarrollado por el Hospital de las Cl&iacute;nicas con apoyo, entre otros, del Banco Interamericano de Desarrollo (BID), se ha adherido 43 hospitales, 60% de la red p&uacute;blica. Despu&eacute;s del registro, gratuito, los m&eacute;dicos pueden subir sus im&aacute;genes para ser analizadas por los algoritmos.</p>
+<p><strong>Falta de ex&aacute;menes</strong></p>
+<p>&nbsp;Sawamura aclara que la evaluaci&oacute;n no reemplaza los ex&aacute;menes diagn&oacute;sticos, pero la herramienta ha servido para anticipar tratamientos y cuidados en este pa&iacute;s de 212 millones de habitantes que no adopt&oacute; una estrategia masiva de ex&aacute;menes. En cinco meses de pandemia, solo se han practicado unos 2,7 millones de tests RT-PCR y 4,4 millones serol&oacute;gicos.&nbsp;</p>
+<p>Arthur Lobo, un radiologista de Par&aacute; (norte), ha sido un usuario asiduo de la plataforma, que "ayud&oacute; sustancialmente en el diagn&oacute;stico en casos de duda", afirma.&nbsp;</p>
+<p>"Brasil realiz&oacute; menos ex&aacute;menes de los que deb&iacute;a, por lo que la tomograf&iacute;a y los rayos X terminaron utilizados como herramientas [de diagn&oacute;stico]", dice Lobo.&nbsp;</p>
+<p>El especialista ejerce en las redes p&uacute;blica y privada de Bel&eacute;m, capital de Par&aacute;, un estado con una tasa de contagios (17.825 por mill&oacute;n de habitantes) un 43% superior al promedio nacional (12.420/mill&oacute;n h).</p>
+<p>En las semanas m&aacute;s agudas de la crisis, ese sistema permiti&oacute; anticipar diagn&oacute;sticos que tardaban en llegar.</p>
+<p>"Muchas veces actu&eacute; apenas por la historia cl&iacute;nica. Un paciente llegaba con s&iacute;ntomas, hac&iacute;amos el test diagn&oacute;stico pero no ten&iacute;a nada. A pesar del negativo, ped&iacute;a estudios evolutivos por los s&iacute;ntomas. [Los rayos X y las tomograf&iacute;as] auxiliaban en la toma de decisiones, en decidir qu&eacute; procedimiento seguir", cuenta Lobo.</p>
+<p>"Muchas veces tuvimos pacientes con alteraciones en las im&aacute;genes, sin comprobaci&oacute;n de diagn&oacute;stico. En esos casos se tomaban las medidas para la covid-19 y m&aacute;s tarde se descubr&iacute;a que era covid-19", explica Claudia Leite, profesora del departamento de Radiolog&iacute;a y Oncolog&iacute;a de la USP.</p>
+<p>Hasta fines de julio, RadVid-19 analiz&oacute; 10.700 ex&aacute;menes y la fiabilidad de los diagn&oacute;sticos se est&aacute; evaluando.</p>
+}
+title Inteligencia artificial ayuda a diagnosticar covid-19 en Brasil
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/4-inteligencia-artificial-ayuda-a-diagnosticar-covid19-en-brasil.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Una plataforma que identifica lesiones pulmonares por medio de inteligencia artificial ayuda a médicos brasileños a diagnosticar el nuevo coronavirus, que ya dejó más de 2,6 millones de casos y cerca de 95.000 muertes en el país.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Inteligencia artificial y covid-19<b>
+    text1 Inteligencia artificial ayuda a diagnosticar covid-19 en Brasil
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
