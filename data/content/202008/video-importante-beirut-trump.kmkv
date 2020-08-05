@@ -1,0 +1,39 @@
+text {
+<p style="text-align: center;"><a href="https://mailchi.mp/3eef86616803/nopasanada" target="_blank" rel="noopener"><strong><span style="text-decoration: underline;">S&uacute;scribete a nuestro newsletter diario:</span></strong></a></p>
+<hr />
+<p><strong>Una producci&oacute;n original de:</strong> NO PASA NADA</p>
+<p><strong>Productor, gui&oacute;n y presentado por:</strong> Pietro Cercone</p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p style="text-align: center;"><strong>Vea el &uacute;ltimo episodio de Lo Importante:</strong></p>
+<p style="text-align: center;">$<a href="https://youtu.be/SmAL78zDtAk">youtube//bDLf1WzSBfc</a>$</p>
+}
+title Lo Importante: Beirut y la devastadora entrevista de Trump
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/video-importante-beirut-trump.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description Hoy hablamos sobre lo que sabemos al respecto de la explosión masiva que ocurrió en la capital del Libano, Beirut. texplicamos qué sabemos y que pasó. Además analizamos la devastadora entrevista realizada por el medio Axios con el presidente Donald Trump
+year 2020
+featured{kmkv} {
+    title <b Beirut y la devastadora entrevista de Trump <b>
+    text1 Una semana complicada. 
+    text2 
+    pretitle LO IMPORTANTE:
+    highlightColor #00FFFF
+}
+type video
+subtitle Hoy hablamos sobre lo que sabemos al respecto de la explosión masiva que ocurrió en la capital del Libano, Beirut. texplicamos qué sabemos y que pasó. Además analizamos la devastadora entrevista realizada por el medio Axios con el presidente Donald Trump
+month 08
+tags{array} noticias
+videoID OTvej47O9mg
+titlePoster 
+color #F2FF00
