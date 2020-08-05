@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202008/4-china-acusa-a-eeuu-de-intimidacion-por-venta-forzada-de-tiktok
+        featured{array} /content/202008/5-voto-por-correo-en-eeuu-presenta-retos
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/4-costa-rica-recibe-primer-vuelo-desde-inicio-de-pandemia
+        featured{array} /content/202008/5-lo-que-se-sabe-de-las-explosiones-en-beirut
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/4-fiestas-ilegales-en-paris-por-pandemia
+    featured{array} /content/202008/5-neonazi-confiesa-asesinato-de-politico-en-alemania
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202008/4-china-acusa-a-eeuu-de-intimidacion-por-venta-forzada-de-tiktok
