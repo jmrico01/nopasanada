@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202008/4-costa-rica-recibe-primer-vuelo-desde-inicio-de-pandemia
+    featured{array} /content/202008/compermisa-guiri-natalia-ep3
 }
 other{kmkv} {
     name Other (Internal)
@@ -94,7 +94,7 @@ venus{kmkv} {
         featured{array} /content/202007/compermisa-ep-1-nataliacarvajal-guiriuribe
     }
     displayOrder{array} derechos, inspiradoras, moda, salud
-    featured{array} /content/202007/compermisa-ep-1-nataliacarvajal-guiriuribe
+    featured{array} /content/202008/compermisa-guiri-natalia-ep3
     derechos{kmkv} {
         name Derechos de las mujeres
         featured{array} /content/202004/violencia-domestica-cuarentena
