@@ -24,8 +24,8 @@ media{kmkv} {
 description Hoy hablamos sobre lo que sabemos al respecto de la explosión masiva que ocurrió en la capital del Libano, Beirut. texplicamos qué sabemos y que pasó. Además analizamos la devastadora entrevista realizada por el medio Axios con el presidente Donald Trump
 year 2020
 featured{kmkv} {
-    title <b Beirut y la devastadora entrevista de Trump <b>
-    text1 Una semana complicada. 
+    title <b>Beirut</b> y la devastadora entrevista de Trump
+    text1 Una semana complicada.
     text2 
     pretitle LO IMPORTANTE:
     highlightColor #00FFFF
