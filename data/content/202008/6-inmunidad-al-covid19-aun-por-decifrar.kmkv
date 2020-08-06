@@ -1,0 +1,53 @@
+text {
+<p>&iquest;Es posible estar protegido contra la covid-19 a pesar de un test serol&oacute;gico negativo o a&uacute;n sin haber tenido jam&aacute;s esta enfermedad? Una inmunidad a&uacute;n poco conocida, basada en otros mecanismos que no sean los anticuerpos, podr&iacute;a tal vez frenar la epidemia, esperan los investigadores, aunque por ahora esto es solo una teor&iacute;a.</p>
+<p>"Sea cuales sean los mecanismos, es muy probable que haya mucha gente inmunizada sin que se la detecte en la serolog&iacute;a", es decir, por los test de anticuerpos, asegura P Yonathan Freund, profesor de medicina de urgencias en el hospital parisino de la Piti&eacute;-Salp&ecirc;tri&egrave;re.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Esta teor&iacute;a reposa sobre dos pilares. Por un lado, la hip&oacute;tesis de una inmunidad cruzada, es decir el hecho de estar protegido contra el nuevo coronavirus por haber estado infectado anteriormente por otros virus de la misma familia, que causan los resfr&iacute;os comunes.</p>
+<p>Por otro lado, el rol a&uacute;n poco conocido de los linfocitos T, un tipo de gl&oacute;bulos blancos responsables de la segunda parte de la respuesta inmune (la inmunidad celular), proviniendo la primera de los anticuerpos.&nbsp;</p>
+<p>"El sistema inmunitario es complejo", recuerda el especialista en mineralog&iacute;a alem&aacute;n Andreas Thiel, coautor de un estudio publicado el 29 de julio en la revista m&eacute;dica Nature.</p>
+<p>"Nuestro principal resultado es que al menos un tercio de los adultos que no hab&iacute;an estado jam&aacute;s en contacto con el SARS-COV-2 (el virus responsable de la covid-19) ten&iacute;an linfocitos T capaces de reaccionar a este virus. Estos proven&iacute;an probablemente de infecciones anteriores de otros coronavirus", explica el investigador del hospital Caridad, en Berl&iacute;n.</p>
+<p>Los trabajos de un equipo de Singapur, publicados el 15 de julio por Nature, llegaron a la misma conclusi&oacute;n.</p>
+<p><strong>Protecci&oacute;n</strong></p>
+<p>Lo mismo ocurre con otro estudio estadounidense publicado el martes en la revista Science: en ciertos individuos que no estuvieron expuestos al SARS-COV-2, hay linfocitos T que reaccionan al nuevo coronavirus, as&iacute; como a otros cuatro, responsables de gripes comunes.</p>
+<p>"Esto puede ayudar a explicar porqu&eacute; algunas personas con covid-19 tienen pocos s&iacute;ntomas, mientras que otras se enferman gravemente", dijo en un comunicado una de sus autoras, Daniela Weiskopf, del instituto de inmunolog&iacute;a La Jolla en California.</p>
+<p>Seg&uacute;n otro estudio de comienzos de julio del hospital sueco Karolinska, los enfermos de covid-19 con pocos o ning&uacute;n s&iacute;ntoma podr&iacute;an desarrollar una inmunidad ligada a los linfocitos T, a&uacute;n si sus tests de anticuerpos dan negativo.</p>
+<p>Las vacunas que se est&aacute;n elaborando buscan activar los dos tipos de respuesta inmunitaria.</p>
+<p><strong>&iquest;Subestimaci&oacute;n? </strong></p>
+<p>"Los tests de serolog&iacute;a no dicen toda la verdad, solo funcionan por un per&iacute;odo determinado", se&ntilde;ala Andreas Thiel.</p>
+<p>Los estudios demostraron que en los pacientes afectados por la covid-19, el nivel de anticuerpos podr&iacute;a bajar r&aacute;pidamente en unas semanas.</p>
+<p>"Eso podr&iacute;a decir dos cosas: una, que ser&iacute;a catastr&oacute;fica, es que la inmunidad contra la covid no dura. Pero no creo que sea as&iacute;: sobre 18 millones de casos, no hay casos probados de reincidencia", asegura el profesor Freund.</p>
+<p>"La otra es que puede haber personas inmunizadas que no se detectan en serolog&iacute;a", agrega.</p>
+<p>Consecuencia: la tasa de inmunidad de la poblaci&oacute;n, basada en la detecci&oacute;n de anticuerpos (o "seroprevalencia") podr&iacute;a estar subestimada en todo el mundo.</p>
+<p>"Los estudios de seroprevalencia dan cifras de hasta un 15% a 20% en las regiones m&aacute;s afectadas. Pero algunas regiones podr&iacute;an haber alcanzado un umbral de inmunidad suficiente para que no haya m&aacute;s cat&aacute;strofe", avanza el profesor Freund.</p>
+<p>"Entender el impacto de la presencia de los linfocitos T en la poblaci&oacute;n sobre la infecci&oacute;n SARS-COV-2 es de una importancia capital para la gesti&oacute;n de la pandemia", indican los autores del estudio alem&aacute;n.&nbsp;</p>
+<p>Pero esto por ahora es solo una "hip&oacute;tesis", concluye el profesor Freund.</p>
+}
+title Inmunidad al covid-19 es un misterio que aún debe ser descifrado
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/6-inmunidad-al-covid19-aun-por-decifrar.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description ¿Es posible estar protegido contra la covid-19 a pesar de un test serológico negativo o aún sin haber tenido jamás esta enfermedad? Una inmunidad aún poco conocida, basada en otros mecanismos que no sean los anticuerpos, podría tal vez frenar la epidemia, esperan los investigadores, aunque por ahora esto es solo una teoría.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Inmunidad al covid-19 es un misterio<b>
+    text1 Inmunidad al covid-19 es un misterio que aún debe ser descifrado
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
