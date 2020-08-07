@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202007/16-incendios-siberia-cambio-climatico
+        featured{array} /content/202008/7-brasil-deforesto-mas-de-1500km2-en-julio
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202008/5-voto-por-correo-en-eeuu-presenta-retos
+        featured{array} /content/202008/7-trump-aumenta-presion-contra-redes-chinas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/5-lo-que-se-sabe-de-las-explosiones-en-beirut
+        featured{array} /content/202008/7-epidemia-gana-terreno-en-pueblos-indios
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/5-neonazi-confiesa-asesinato-de-politico-en-alemania
+    featured{array} /content/202008/7-presidente-libanes-habla-sobre-un-misil-como-causa-de-explosion
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202008/4-china-acusa-a-eeuu-de-intimidacion-por-venta-forzada-de-tiktok
+        featured{array} /content/202008/7-trump-aumenta-presion-contra-redes-chinas
     }
     video{kmkv} {
         name Video
