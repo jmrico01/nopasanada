@@ -1,0 +1,41 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La deforestaci&oacute;n en la Amazon&iacute;a brasile&ntilde;a fue de 1.574 km2 en julio, inferior al r&eacute;cord de 2.255 km2 en julio de 2019, seg&uacute;n datos oficiales divulgados el viernes, que muestran sin embargo que la tala contin&uacute;a este a&ntilde;o en niveles alarmantes.</p>
+<p>En junio de 2020, la deforestaci&oacute;n de la mayor selva tropical del planeta hab&iacute;a sido de 1.039 km2.</p>
+<p>Entre enero y el 30 de julio, el &aacute;rea deforestada fue de 4.650,95 km2, apenas inferior a los 4.701,78 km2 del periodo enero-julio de 2019, de acuerdo con las observaciones satelitales del sistema DETER del Instituto Nacional de Investigaciones Espaciales (INPE).</p>
+<p>En el per&iacute;odo agosto 2019-julio 2020 (a&ntilde;o de referencia en el calendario de la deforestaci&oacute;n), la tala alcanza los 9.125 km2, muy por encima de los 6.844 km2 registrados entre agosto 2018-julio 2019.&nbsp;</p>
+<p>El vicepresidente Hamilton Mour&atilde;o, que encabeza el Consejo Nacional de Amazon&iacute;a y este a&ntilde;o lanz&oacute; una operaci&oacute;n contra la deforestaci&oacute;n ilegal en medio de una fuerte presi&oacute;n internacional, celebr&oacute; los datos de julio afirmando que se trata de una "inversi&oacute;n de la tendencia" gracias al trabajo del gobierno.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Ambientalistas se&ntilde;alan sin embargo que es muy temprano para afirmar que se est&aacute; iniciando una tendencia a la baja y que, a pesar de que los datos de julio no alcanzaron el r&eacute;cord de 2019, se trata de una superficie muy grande.&nbsp;</p>
+<p>"No podemos celebrar que no super&oacute; el r&eacute;cord de 2019. Esto es algo positivo, pero es importante entender que 1.600 km2 es mucho", dijo a la AFP Ane Alencar, directora de Ciencia del Instituto de Pesquisa Ambiental de la Amazon&iacute;a (IPAM), una ONG cient&iacute;fica.&nbsp;</p>
+<p>"La tala de la selva contin&uacute;a en el mismo nivel. Y hay mucho material combustible para quemar, las quemadas usualmente empiezan en junio, aceleran en agosto y tienen su pico en septiembre", advirti&oacute; la especialista.&nbsp;</p>
+}
+title Brasil deforestó más de 1.500 km2 en la Amazonía en julio
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/7-brasil-deforesto-mas-de-1500km2-en-julio.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La deforestación en la Amazonía brasileña fue de 1.574 km2 en julio, inferior al récord de 2.255 km2 en julio de 2019, según datos oficiales divulgados el viernes, que muestran sin embargo que la tala continúa este año en niveles alarmantes.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Brasil deforestó más de 1.500 km2<b>
+    text1 Brasil deforestó más de 1.500 km2 en la Amazonía en julio
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

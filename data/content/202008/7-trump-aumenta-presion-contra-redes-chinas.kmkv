@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El presidente estadounidense, Donald Trump, orden&oacute; este jueves amplias restricciones contra las redes sociales chinas TikTok y WeChat, que podr&iacute;an perjudicar su habilidad para operar en Estados Unidos.</p>
+<p>A trav&eacute;s de un decreto, que entra en vigor en 45 d&iacute;as, Trump proh&iacute;be toda transacci&oacute;n en Estados Unidos con las empresas due&ntilde;as de TikTok y WeChat.</p>
+<p>La medida aumenta la presi&oacute;n sobre ByteDance, la casa matriz de TikTok, para que concluya negociaciones para vender la plataforma de videos cortos a Microsoft, y crea otro nuevo frente en la confrontaci&oacute;n de la Casa Blanca con Pek&iacute;n.</p>
+<p>El lunes, el mandatario estadounidense acept&oacute; la posibilidad que un grupo estadounidense compre TikTok, pero antes del 15 de septiembre, so pena de prohibir la plataforma.<br />Al hacer frente a las compa&ntilde;&iacute;as, el decreto evoca una amenaza a la "seguridad nacional, la pol&iacute;tica exterior y la econom&iacute;a de Estados Unidos".</p>
+<p>"TikTok autom&aacute;ticamente captura vastas franjas de informaci&oacute;n de sus usuarios, incluyendo informaci&oacute;n como ubicaci&oacute;n, e historias de visitas y de b&uacute;squedas en internet", afirmar el texto.</p>
+<p>Seg&uacute;n el decreto de Trump, los datos de TikTok, que ha sido bajada 175 millones de veces en Estados Unidos y m&aacute;s de mil millones de veces en el mundo, puede potencialmente ser usada por China para detectar la ubicaci&oacute;n de empleados y contratistas del gobierno estadounidenses, construir expedientes de personas para chantajearlas y realizar espionaje corporativo.</p>
+<p>El jueves, el Senado estadounidense vot&oacute; para prohibir que TikTok sea instalada en los tel&eacute;fonos de los funcionarios federales. El proyecto de ley aprobado por el Senado controlado por los republicanos aliados de Trump ahora debe pasar a la C&aacute;mara de Representantes, dominada por la oposici&oacute;n dem&oacute;crata.</p>
+<p>Trump y otros funcionarios afirman que TikTok puede ser usada por Pek&iacute;n para espiar a sus usuarios estadounidenses, una aseveraci&oacute;n que insistentemente rechaza la plataforma, que opera fuera de China.</p>
+<p>WeChat es una aplicaci&oacute;n de mensajes, red social y pago electr&oacute;nico propiedad de TenCent Holdings y tendr&iacute;a m&aacute;s de mil millones de usuarios.</p>
+<p>"Como TikTok, WeChat captura autom&aacute;ticamente enormes franjas de informaci&oacute;n sobre sus usuarios, amenazando as&iacute; dar acceso al Partido comunista chino a informaciones personales de estadounidenses", se&ntilde;ala el decreto.</p>
+}
+title Trump aumenta la presión contra redes chinas TikTok y WeChat
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/7-trump-aumenta-presion-contra-redes-chinas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El presidente estadounidense, Donald Trump, ordenó este jueves amplias restricciones contra las redes sociales chinas TikTok y WeChat, que podrían perjudicar su habilidad para operar en Estados Unidos.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Trump se mueve para prohibir TikTok<b>
+    text1 Trump aumenta la presión contra redes chinas TikTok y WeChat
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,noticias-culturales
+videoID 
+titlePoster 
+color #FBFF09
