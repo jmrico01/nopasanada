@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202008/video-importante-beirut-trump
+    featured{array} /content/202008/video-welcome-to-chepe-aniversario
 }
 other{kmkv} {
     name Other (Internal)
