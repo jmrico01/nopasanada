@@ -57,21 +57,21 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202008/7-trump-aumenta-presion-contra-redes-chinas
+        featured{array} /content/202008/10-ministros-libaneses-renuncia-tras-explosion
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/7-epidemia-gana-terreno-en-pueblos-indios
+        featured{array} /content/202008/10-policia-de-hong-kong-arresta-magnate-de-prensa-prodemocracia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/7-presidente-libanes-habla-sobre-un-misil-como-causa-de-explosion
+    featured{array} /content/202008/10-bielorrusia-anuncia-victoria-de-lukashenko-tras-elecciones-cuestionadas
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202008/7-trump-aumenta-presion-contra-redes-chinas
+        featured{array} /content/202008/10-antonio-banderas-anuncia-que-tiene-covid19-en-su-cumpleanos
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202007/video-loimportante-stella-hydroxychloroquine-clodomiropicado
+        featured{array} /content/202008/video-importante-beirut-trump
     }
 }
 coleccion{kmkv} {
