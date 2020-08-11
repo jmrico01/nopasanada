@@ -1,14 +1,20 @@
 text {
-<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
-<p>El actor espa&ntilde;ol Antonio Banderas anunci&oacute; este lunes, justo cuando cumpli&oacute; 60 a&ntilde;os, que se encuentra en cuarentena tras dar positivo por coronavirus, aunque dijo estar "relativamente bien" y solo un poco "cansado".</p>
-<p>"Hoy, 10 de Agosto, me veo obligado a celebrar mi 60 cumplea&ntilde;os siguiendo cuarentena al haber dado positivo de la enfermedad covid-19", escribi&oacute; el artista nacido en M&aacute;laga (sur) en sus redes sociales, sin especificar si se encuentra en Espa&ntilde;a.</p>
-<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
-<p>"Me encuentro relativamente bien, solo un poco m&aacute;s cansado de lo habitual y confiado en recuperarme lo antes posible siguiendo las indicaciones m&eacute;dicas que espero me permitan superar el proceso infeccioso que sufro y que a tantas personas est&aacute; afectando alrededor del planeta", se&ntilde;al&oacute; el actor de "La m&aacute;scara del Zorro", "Entrevista con el vampiro" y "Los reyes del mambo".</p>
-<p>En el comunicado, que acompa&ntilde;&oacute; con una foto suya de beb&eacute; en blanco y negro, agreg&oacute; que aprovechar&aacute; el aislamiento "para leer, escribir, descansar y seguir haciendo planes para comenzar a darle significado a mis reci&eacute;n estrenados 60 a&ntilde;os".</p>
-<p>Banderas no acudi&oacute; la noche del domingo a una gala ben&eacute;fica anual de la que deb&iacute;a ser anfitri&oacute;n, en Marbella, una ciudad balneario a 60 km de M&aacute;laga, sin que hasta ahora se conociera la raz&oacute;n de su ausencia.</p>
-<p>Ganador de varios premios en su prolongada carrera, Banderas recibi&oacute; este a&ntilde;o su primera nominaci&oacute;n a un &Oacute;scar por su papel en la octava pel&iacute;cula en la que trabaj&oacute; bajo la direcci&oacute;n del realizador Pedro Almod&oacute;var, "Dolor y gloria", aunque al final no obtuvo la estatuilla.</p>
+<p><em><strong>*Esta publicaci&oacute;n contiene im&aacute;genes ofensivas utilizadas como ejemplos y educaci&oacute;n social.</strong></em></p>
+<p>Puede que para muchos ya sea obvio que es incre&iacute;blemente ofensivo y nada divertido vestirse, maquillarse o &ldquo;disfrazarse&rdquo; de otras razas, etnias o culturas. En el caso particular de &ldquo;blackface&rdquo; adem&aacute;s, se le agrega una problem&aacute;tica historia.</p>
+<p>$image/black1$</p>
+<p><strong>Una ( muy breve) historia.</strong></p>
+<p>Las primeras representaciones de &ldquo;blackface&rdquo; aparecieron como una forma de hacer caricaturas de los esclavos negros en obras de teatro. Estos retratos de personas negras eran de naturaleza burlona y reforzaban la idea de que las personas de color eran inferiores en todos los sentidos.</p>
+<p>En gran parte, fueron estas actuaciones de &ldquo;blackface&rdquo; que causaron muchos de los prejuicios y estereotipos que todav&iacute;a existen hoy.</p>
+<p>$image/black2$</p>
+<p><strong>Blackface hoy</strong></p>
+<p>Hoy en d&iacute;a es cierto que tal vez no existan estos shows u obras cuya intenci&oacute;n es denigrar a las personas de color, pero estas representaciones siguen existiendo y siguen siendo un problema. Hoy las razones para no hacer blackface son obvias:</p>
+<p>Por un lado esta tener respeto por las personas que tuvieron que vivir en una &eacute;poca en que esto iba de la mano con el trato discriminatorio y odio cotidiano.</p>
+<p>$image/black3$</p>
+<p>Por otro, est&aacute; el hecho de que esta pr&aacute;ctica contin&uacute;a reforzando la perspectiva de que las personas de color son sujetas a burla por sus facciones y recalca estereotipos negativos. Esto puede servir para apoyar el sesgo impl&iacute;cito y el trato discriminatorio en general.</p>
+<p>Finalmente, si realmente no puedes entender qu&eacute; tiene de malo el blackface, &iquest;Por qu&eacute; no cuestionarse el defenderlo?</p>
+<p>Es importante hacerse la pregunta: &ldquo;Si no hace falta y causa dolor o infelicidad en otras personas&hellip; &iquest;Por qu&eacute; disfruto yo de esto?&rdquo;</p>
 }
-title Antonio Banderas anuncia que tiene covid-19 en su cumpleaños
+title ¿Qué es blackface y porqué es tan ofensivo?
 day 10
 text1 
 text2 
@@ -16,24 +22,30 @@ text3
 text4 
 customTop 
 media{kmkv} {
-    header /images/202008/headers/10-antonio-banderas-anuncia-que-tiene-covid19-en-su-cumpleanos.jpg
+    black3 /images/202008/10-blackface/black3.jpg
+    header /images/202008/headers/10-blackface.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     banksy /images/202006/10-banksy/banksy.jpg
+    black1 /images/202008/10-blackface/black1.jpg
+    black2 /images/202008/10-blackface/black2.jpg
 }
-description El actor español Antonio Banderas anunció este lunes, justo cuando cumplió 60 años, que se encuentra en cuarentena tras dar positivo por coronavirus, aunque dijo estar "relativamente bien" y solo un poco "cansado".
+description Algunas personas pueden no saber qué es, o no que tiene de malo. Aquí te explicamos.
 year 2020
-author AFP Y NPN NOTICIAS
+author NPN NOTICIAS
 featured{kmkv} {
-    title <b>Antonio Banderas anuncia que tiene covid-19<b>
-    text1 Antonio Banderas anuncia que tiene covid-19 en su cumpleaños
-    text2 Por AFP Y NPN NOTICIAS
+    title <b>¿Qué es blackface?<b>
+    text1 ¿Qué es blackface y porqué es tan ofensivo?
+    text2 Por NPN NOTICIAS
     pretitle NOTICIAS:
     highlightColor #FBFF09
 }
 type article
-subtitle 
+subtitle {
+Algunas personas pueden no saber qué es, o no que tiene de malo. Aquí te explicamos.
+
+}
 month 08
-tags{array} noticias-loimportante,noticias-culturales
+tags{array} noticias-culturales
 videoID 
 titlePoster 
 color #FBFF09
