@@ -1,0 +1,44 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>A mes y medio de haber controlado la primera ola de la epidemia, Espa&ntilde;a vuelve a encontrarse en una situaci&oacute;n "cr&iacute;tica", seg&uacute;n expertos, con los peores datos de contagios por coronavirus de Europa Occidental.</p>
+<p>Espa&ntilde;a comunic&oacute; en los &uacute;ltimos siete d&iacute;as un promedio de 4.923 casos diarios, una cifra superior a las de Francia, Reino Unido, Alemania e Italia juntas.</p>
+<p>La tasa de contagios de Espa&ntilde;a, que con casi 323.000 infectados es primera en Europa Occidental y decimoprimera a nivel mundial, se ubica en 95 casos por cada 100.000 habitantes, distante de los 24 en Francia, 17 en Reino Unido, 13 en Alemania y 8 en Italia, donde la pandemia se declar&oacute; antes.</p>
+<p>Desde el extranjero, una lista cada vez m&aacute;s larga de pa&iacute;ses europeos impone alg&uacute;n tipo de restricci&oacute;n para los viajes a Espa&ntilde;a.</p>
+<p>Es un momento "cr&iacute;tico, estamos justo en un punto en el que la cosa puede ir a mejor o peor, (...) esto implica que hay que echar toda la carne en el asador e intentar frenar los brotes antes de que se compliquen", estim&oacute; a la AFP el investigador Salvador Macip, autor del libro "Las grandes epidemias modernas".</p>
+<p>En Espa&ntilde;a, donde los brotes superan el medio millar, existe una transmisi&oacute;n comunitaria "no perfectamente controlada" en algunas zonas, reconoci&oacute; el lunes el epidemi&oacute;logo en jefe del Ministerio de Sanidad, Fernando Sim&oacute;n, aunque acotando que esto "progresivamente se va suavizando" en d&iacute;as recientes.</p>
+<p>Cuando Espa&ntilde;a levant&oacute; el 21 de junio uno de los confinamientos m&aacute;s r&iacute;gidos de Europa vigente desde mediados de marzo, que por semanas solo permiti&oacute; salir a comprar productos b&aacute;sicos o ir al m&eacute;dico, notificaba unos 238 casos diarios y su tasa era de 8 casos/100.000 habitantes.</p>
+<p>Pero desde la segunda semana de julio los contagios se dispararon &iquest;Qu&eacute; sucedi&oacute;?</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong><br />"Hubo mucho prisa en la desescalada, seguramente pensando en el turismo", uno de los pilares de la econom&iacute;a espa&ntilde;ola, y "que en verano con el calor dif&iacute;cilmente habr&iacute;a brotes y que vendr&iacute;an para oto&ntilde;o", explica Joan Cayl&aacute;, presidente de la Unidad de Investigaci&oacute;n en Tuberculosis de Barcelona, instituto dedicado ahora al estudio del covid-19.</p>
+<p>Pero "los brotes han venido ya en verano, coincidiendo con las vacaciones de parte del personal sanitario", dice Cayl&aacute;, quien subraya que la escalada comenz&oacute; dos semanas despu&eacute;s del desconfinamiento, el plazo en que los contagios suelen reflejarse en las estad&iacute;sticas.</p>
+<p>Salvador Macip, profesor de la Universitat Oberta de Catalunya, suma otros factores a la "tormenta perfecta" en Espa&ntilde;a: los temporeros, que trabajan en condiciones precarias y estuvieron en el origen de varios brotes, y el "relajamiento" de la poblaci&oacute;n en un clima mediterr&aacute;neo proclive al contacto f&iacute;sico y las reuniones familiares y con amigos, algo quiz&aacute;s "m&aacute;s f&aacute;cil de evitar" en el norte de Europa.</p>
+<p>Se necesitaban tres "armas" contra los rebrotes: educar a la gente para meses dif&iacute;ciles, multiplicar los tests y contratar personal para rastrear contactos de gente infectada, resume Macip. Y en todas ha habido "fallas", estima.</p>
+}
+title España vuelve a tener peores datos europeos de covid-19
+day 11
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/11espana-vuelve-a-tener-peores-datos-de-covid-en-europa.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description A mes y medio de haber controlado la primera ola de la epidemia, España vuelve a encontrarse en una situación "crítica", según expertos, con los peores datos de contagios por coronavirus de Europa Occidental.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>España vuelve a tener peores datos europeos de covid-19<b>
+    text1 España vuelve a tener peores datos europeos de covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

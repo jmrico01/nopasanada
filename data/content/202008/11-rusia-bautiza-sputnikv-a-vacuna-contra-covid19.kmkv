@@ -1,0 +1,40 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Rusia anunci&oacute; este martes haber desarrollado la 'primera' vacuna eficaz contra covid-19, fue bautizada "Sputnik V" (V de Vacuna), en homenaje al sat&eacute;lite sovi&eacute;tico, declar&oacute; el presidente del fondo soberano implicado en su creaci&oacute;n.</p>
+<p>"M&aacute;s de 1.000 millones de dosis" fueron encargas por 20 pa&iacute;ses extranjeros, afirm&oacute; Kirill Dmitriev, precisando que la fase 3 de los ensayos comenzar&aacute; el mi&eacute;rcoles.&nbsp;</p>
+<p>El fondo soberano indic&oacute; que el inicio de la producci&oacute;n industrial est&aacute; previsto para septiembre.</p>
+<p>El presidente ruso Vladimir Putin anunci&oacute; este martes que su pa&iacute;s desarroll&oacute; la "primera" vacuna contra el coronavirus, que otorga una "inmunidad duradera".</p>
+<p>"Esta ma&ntilde;ana, por primera vez en el mundo, se ha registrado una vacuna contra el nuevo coronavirus", dijo Putin durante una videoconferencia con miembros del gobierno retransmitida por la televisi&oacute;n.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>En las semanas anteriores a este anuncio, cient&iacute;ficos extranjeros manifestaron su preocupaci&oacute;n por la rapidez de la creaci&oacute;n de una vacuna de este tipo, y la OMS llam&oacute; al respeto de las "l&iacute;neas directrices y directivas claras" en materia de desarrollo de este producto.</p>
+<p>Putin afirm&oacute; incluso que una de sus hijas fue inoculada con la vacuna.</p>
+}
+title Rusia anuncia haber desarrollado la 'primera' vacuna eficaz contra covid-19
+day 11
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/11-rusia-bautiza-sputnikv-a-vacuna-contra-covid19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La vacuna contra el coronavirus desarrollada por Rusia fue bautizada "Sputnik V" (V de Vacuna), en homenaje al satélite soviético, declaró el presidente del fondo soberano implicado en su creación.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Rusia anuncia haber desarrollado 'primera' vacuna contra covid-19<b>
+    text1 Rusia anuncia haber desarrollado 'primera' vacuna eficaz contra covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,noticias-culturales
+videoID 
+titlePoster 
+color #FBFF09

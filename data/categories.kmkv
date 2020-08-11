@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202008/4-inteligencia-artificial-ayuda-a-diagnosticar-covid19-en-brasil
+        featured{array} /content/202008/11-habitantes-de-wuhan-abandonan-mascarillas
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/10-policia-de-hong-kong-arresta-magnate-de-prensa-prodemocracia
+        featured{array} /content/202008/11-rusia-bautiza-sputnikv-a-vacuna-contra-covid19
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/10-bielorrusia-anuncia-victoria-de-lukashenko-tras-elecciones-cuestionadas
+    featured{array} /content/202008/11-se-difunde-video-de-opositora-bielorrusa-grabado-bajo-presion
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202008/10-antonio-banderas-anuncia-que-tiene-covid19-en-su-cumpleanos
