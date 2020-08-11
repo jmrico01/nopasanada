@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202008/podcast-ep4-que-pasa-en-no-pasa-nada
+    featured{array} /content/202008/video-importante-vacuna-blackface
 }
 other{kmkv} {
     name Other (Internal)
