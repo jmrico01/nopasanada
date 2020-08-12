@@ -1,0 +1,37 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>M&aacute;s de la mitad de los 55 hospitales evaluados por la OMS en Beirut, entre ellos tres de los m&aacute;s importantes, no funcionan, advirti&oacute; este mi&eacute;rcoles el director regional de emergencias de la instituci&oacute;n, Richard Brennan.</p>
+<p>Brennan precis&oacute; que tres de los principales hospitales est&aacute;n fuera de servicio y otros otros tres no funcionan a plena capacidad.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Esto viene a tan sol&oacute; d&iacute;as de la explosi&oacute;n que devasto una gran parte de la capital que adem&aacute;s ya se ve&iacute;a afectada por la pandemia del Coronavirus.</p>
+<p>Hoy Beirut es una capital con aires posapocal&iacute;pticos, organizaciones como UNICEF han precisado que al menos 100.000 ni&ntilde;os se han quedado sin hogar y la OMS anteriormente ya hab&iacute;a demostrado su preocupaci&oacute;n por la saturaci&oacute;n de hospitales, la escasez de medicamentos y de equipos m&eacute;dicos, y reclama 15 millones de d&oacute;lares.</p>
+}
+title De 55 hospitales evaluados en Beirut, más de la mitad no funcionan
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/12-hospitales-en-beirut.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Más de la mitad de los 55 hospitales evaluados por la OMS en Beirut, entre ellos tres de los más importantes, no funcionan, advirtió este miércoles el director regional de emergencias de la institución, Richard Brennan.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Hospitales en Beirut<b>
+    text1 De 55 hospitales evaluados en Beirut, más de la mitad no funcionan
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
