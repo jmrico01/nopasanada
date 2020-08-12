@@ -1,0 +1,47 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La econom&iacute;a del Reino Unido, golpeada por la crisis del coronavirus, sufri&oacute; en el segundo trimestre una ca&iacute;da r&eacute;cord de 20,4% y la recesi&oacute;n registrada en los seis primeros meses del a&ntilde;o en el pa&iacute;s es hist&oacute;rica.</p>
+<p>Seg&uacute;n el Instituto Nacional de Estad&iacute;stica (ONS, por sus siglas en ingl&eacute;s), que public&oacute; las cifras este mi&eacute;rcoles, se trata de la primera recesi&oacute;n t&eacute;cnica -es decir dos trimestres consecutivos de contracci&oacute;n del Producto Interno Bruto (PIB)- desde la crisis financiera de 2009.</p>
+<p>Seg&uacute;n el ONS, la contracci&oacute;n, que comenz&oacute; a sentirse en marzo, fue especialmente dif&iacute;cil en abril, cuando la poblaci&oacute;n estuvo totalmente confinada, pues la actividad econ&oacute;mica se paraliz&oacute; totalmente.</p>
+<p>Con la reanudaci&oacute;n de las obras de construcci&oacute;n y la manufactura, las cifras comenzaron a mejorar en mayo, cuando el PIB avanz&oacute; un 2,4%, y en junio (+8,7%), gracias a que los comercios pudieron reabrir, seg&uacute;n el organismo.</p>
+<p>La "peor recesi&oacute;n" de la econom&iacute;a brit&aacute;nica desde que la ONS comenz&oacute; a realizar los c&aacute;lculos oficiales trimestrales en 1955 refleja las "restricciones" de viajes y actividades desde la entrada en vigor del confinamiento en el pa&iacute;s, el 23 de marzo, cuya duraci&oacute;n fue mayor que en la mayor&iacute;a de los pa&iacute;ses europeos.</p>
+<p>"Dije que nos esperaban tiempos dif&iacute;ciles, las cifras de hoy lo confirman. Cientos de miles de personas ya perdieron sus empleos y, desgraciadamente, en los pr&oacute;ximos meses, muchas otros los perder&aacute;n", dijo el ministro de Finanzas, Rishi Sunak.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong><br />El Reino Unido registr&oacute; el peor comportamiento de Europa en el segundo trimestre, por delante de Espa&ntilde;a (-18,5%).</p>
+<p>Sumando los dos primeros trimestres, el organismo relev&oacute; que el retroceso de la econom&iacute;a brit&aacute;nica llega al 22,1%, "una cifra algo menor que la registrada en Espa&ntilde;a (-22,7%) pero el doble que la de Estados Unidos (-10,6%)" en este mismo periodo.</p>
+<p>Este bajo rendimiento del pa&iacute;s que tiene el mayor n&uacute;mero de decesos de Europa por covid-19 puede tambi&eacute;n atribuirse a su fuerte dependencia de los servicios, particularmente los gastos de consumo, que cayeron durante el confinamiento, y al hecho de que muchos padres tuvieron que dejar su trabajo para ocuparse de sus hijos, seg&uacute;n analistas de la consultora Pantheon Macro.</p>
+<p>Seg&uacute;n este centro de estudio, estas "desventajas estructurales" deber&iacute;an seguir frenando la recuperaci&oacute;n en el tercer y cuarto trimestres.</p>
+<p>El impacto de la pandemia y la paralizaci&oacute;n de la actividad apenas se vio amortizada por las medidas gubernamentales sin precedentes y las decenas de miles de millones de libras inyectadas por el Estado a trav&eacute;s de pr&eacute;stamos o ayudas al empleo, o por el Blanco de Inglaterra, mediante la recompra de activos o unas tasas de inter&eacute;s casi nulas.</p>
+<p>La recesi&oacute;n est&aacute; causando ya enormes da&ntilde;os sociales, con una disminuci&oacute;n de 730.000 personas empleadas entre marzo y julio, seg&uacute;n cifras oficiales publicadas el lunes.&nbsp;</p>
+<p>No pasa casi ning&uacute;n d&iacute;a sin que se anuncien nuevas supresiones de puestos de trabajo en empresas, que est&aacute;n preocupadas por la finalizaci&oacute;n del programa de desempleo parcial prevista en octubre.</p>
+<p>Para todo 2020, el Banco de Inglaterra prev&eacute; una ca&iacute;da de 9,5% del PIB y una recuperaci&oacute;n lenta en 2021.</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+}
+title Reino Unido está en una crisis económica histórica
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/12-reino-unido-en-recesion-record.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La economía del Reino Unido, golpeada por la crisis del coronavirus, sufrió en el segundo trimestre una caída récord de 20,4% y la recesión registrada en los seis primeros meses del año en el país es histórica.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Reino Unido en crisis económica récord<b>
+    text1 Reino Unido está en una crisis económica histórica
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
