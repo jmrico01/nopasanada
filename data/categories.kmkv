@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202008/10-ministros-libaneses-renuncia-tras-explosion
+        featured{array} /content/202008/12-nuevos-disturbios-en-bielorrusia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/11-rusia-bautiza-sputnikv-a-vacuna-contra-covid19
+        featured{array} /content/202008/12-reino-unido-en-recesion-record
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/11-se-difunde-video-de-opositora-bielorrusa-grabado-bajo-presion
+    featured{array} /content/202008/12-nuevos-disturbios-en-bielorrusia
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202008/10-antonio-banderas-anuncia-que-tiene-covid19-en-su-cumpleanos
+        featured{array} /content/202008/12-bill-cosby
     }
     video{kmkv} {
         name Video

@@ -1,0 +1,44 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Jair Bolsonaro dij&oacute; que es "mentira" el hecho de que hay incendios devastando parte del amazonas, a pesar de que los datos de su propio gobierno mostraron un aumento del n&uacute;mero de fuegos forestales en la regi&oacute;n.</p>
+<p>"Un bosque tropical no se incendia. As&iacute; que la historia de que la Amazon&iacute;a est&aacute; ardiendo es una mentira y tenemos que luchar contra ella con cifras", declar&oacute;.</p>
+<p>$image/fires$</p>
+<p>Los datos satelitales del Instituto Nacional de Investigaciones Espaciales (INPE) muestran, que los incendios forestales en la Amazon&iacute;a brasile&ntilde;a aumentaron el mes pasado en un 28% respecto a julio de 2019 hasta los 6.803 fuegos.</p>
+<p>Los expertos afirman que la mayor&iacute;a de esos incendios son provocados por personas que quieren deforestar tierras ilegalmente para dedicarlas a la agricultura y la ganader&iacute;a.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>En la memoria de todos contin&uacute;an las terribles im&aacute;genes de los enormes incendios forestales que arrasaron con extensas &aacute;reas de la Amazon&iacute;a entre mayo y octubre del a&ntilde;o pasado.</p>
+<p>Esos fuegos llamaron la atenci&oacute;n del mundo sobre un bosque considerado como &ldquo;el pulm&oacute;n del mundo&rdquo;.</p>
+<p>Especialistas prev&eacute;n adem&aacute;s una nueva temporada preocupante de incendios este a&ntilde;o.</p>
+<p>El Gobierno de Bolsonaro ha sido acusado de seleccionar los datos m&aacute;s favorables para &eacute;l al insistir en la reducci&oacute;n de la deforestaci&oacute;n en julio.</p>
+<p>Pero a pesar de ese dato positivo, la deforestaci&oacute;n en la Amazon&iacute;a brasile&ntilde;a alcanz&oacute; un nuevo r&eacute;cord en los primeros siete meses del a&ntilde;o, seg&uacute;n los datos del INPE.</p>
+}
+title Bolsonaro dice que es "mentira" que incendios estén arrasando parte de la Amazonía
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/bolsonaro-dice-que-es-mentira.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    fires /images/202008/bolsonaro-dice-que-es-mentira/fires.jpg
+}
+description Jair Bolsonaro dijó que es "mentira" el hecho de que hay incendios devastando parte del amazonas, a pesar de que los datos de su propio gobierno mostraron un aumento del número de fuegos forestales en la región.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>incendios en la Amazonía<b>
+    text1 Bolsonaro dice que es "mentira" que incendios estén arrasando parte de la Amazonía
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
