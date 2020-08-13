@@ -11,6 +11,7 @@ text {
 <p>Recuerdo que a los 8 a&ntilde;os a&ntilde;oraba el viol&iacute;n, as&iacute; que me apoyaron para entrar al Instituto Nacional de la M&uacute;sica, quer&iacute;a iniciar con el grupo Zuzuki pero por mi edad ya estaba &ldquo;pasadito&rdquo; de a&ntilde;os (se r&iacute;e).&nbsp;</p>
 <p>Entr&eacute; al programa normal con flauta dulce, despu&eacute;s de dos a&ntilde;os y pese a no ser mi primera opci&oacute;n inici&eacute; con arpa, estuve aprendiendo con ese instrumento hasta los 14 a&ntilde;os, pero ven&iacute;a como un &ldquo;quebrado&rdquo; en el colegio.&nbsp;</p>
 <p>Siendo &ldquo;teeneger&rdquo; era medio vago para lo que no fuera arte, en esa &eacute;poca fue un punto de quiebre con el apoyo que recib&iacute;a de mis padres; me dijeron que como estaba tratando &ldquo;tan mal&rdquo; al colegio me sacaban del instituto. Yo llor&eacute;, patalee, me sent&iacute; horrible, pero tuve que aceptarlo.</p>
+<p>$image/pato$</p>
 <p><strong>&iquest;Entonces al &ldquo;Pato&rdquo; lo dejaron sin alas musicales por cu&aacute;nto tiempo?</strong></p>
 <p>Pues por muy poco (carcajea). Creo que me pas&oacute; la historia de todo guitarrista, en la casa hab&iacute;a una guitarra y uno la toma por primera vez por curiosear, y claro, para mi pasar de 48 cuerdas a 6 cuerdas fue decirme &ldquo;mira que simple que es la vida&rdquo; (se sonr&iacute;e), adem&aacute;s las cuerdas eran m&aacute;s suavecitas, realmente fue toda una revelaci&oacute;n.&nbsp;</p>
 <p>La guitarra se convirti&oacute; en la compa&ntilde;era de mi casa, vos sab&eacute;s que me gusta el rock, entonces empec&eacute; con Met&aacute;lica, a sacar canciones de ellos; llegaba todo alegre donde &ldquo;mi mama&rdquo; a ense&ntilde;arle lo que aprend&iacute;a, y mi madre me ve&iacute;a abrumada, porque sab&iacute;a que ten&iacute;a talento. Entonces hubo una segunda ronda de discusi&oacute;n con mi padre, donde llegamos al acuerdo de que si no descuidaba el colegio pod&iacute;a continuar en clases de m&uacute;sica.&nbsp;</p>
@@ -57,13 +58,14 @@ media{kmkv} {
     header /images/202008/headers/13-musica-de-pato.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     banksy /images/202006/10-banksy/banksy.jpg
+    pato /images/202008/13-musica-de-pato/pato.jpg
 }
 description reador de proyectos pioneros como el que realizó en conjunto con el grupo Orquídea; con una ambientación sonora espectacular en el Parque Nacional Tapantí, también es parte del colectivo Tacacocodin basado en el  “livecoding”, a su vez en el presente año la plataforma subsuelo presentará música gestionada por él para osciloscopio.
 year 2020
 author ROBERTO MORALES
 featured{kmkv} {
     title “Pato”
-    text1 “Pato” voló con su guitarra y ahora es profesor en Alemania 
+    text1 “Pato” voló con su guitarra y ahora es profesor en Alemania
     text2 Por Roberto Morales
     pretitle MUSICA:
     highlightColor #FBFF09
