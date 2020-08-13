@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Las cadenas humanas se multiplicaban este jueves en Minsk para denunciar la violenta represi&oacute;n de las protestas tras la cuestionada reelecci&oacute;n del presidente Alexandre Lukashenko.</p>
+<p>Los ciudadanos, con flores o globos en sus manos, &nbsp;formaron cadenas de decenas o cientos de personas, en la puerta de empresas, a lo largo de avenidas o alrededor de estaciones de metro.</p>
+<p>Miles de personas se han sumado a este tipo de manifestaciones, en tanto en las redes sociales pueden verse im&aacute;genes de actos similares multiplic&aacute;ndose en todo el pa&iacute;s.&nbsp;</p>
+<p>Tambi&eacute;n comenzaron huelgas en empresas y f&aacute;bricas.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>En el centro hist&oacute;rico de Minsk, en la calle Nemiga, se concentr&oacute; un centenar de personas entre ellas mujeres vestidas de blanco, portando flores.</p>
+<p>"Ayer vi a mujeres vestidas as&iacute;, de blanco. Y comprend&iacute; y me dije 'quiero hacer eso'. Estamos en contra de la violencia, queremos elecciones honestas", explica Nastia, de 26 a&ntilde;os, artista digital.&nbsp;</p>
+<p>Elena, una maestra de 41 a&ntilde;os, dice que protesta para que "cesen las torturas en prisi&oacute;n, y para que todos los detenidos sean liberados", tras el arresto de unas 6.700 personas desde el domingo, y el comienzo de las protestas contra la reelecci&oacute;n de Alexander Lukashenko.&nbsp;</p>
+<p>En otras zonas de la capital, las cadenas se transformaron en marchas.&nbsp;</p>
+<p>Esta forma de movilizaci&oacute;n, lanzada el mi&eacute;rcoles por decenas de mujeres vestidas de blanco, hasta ahora no ha provocado ninguna represi&oacute;n violenta, como s&iacute; hubo contra las manifestaciones nocturnas.</p>
+}
+title Se multiplican cadenas humanas contra represión en Bielorrusia
+day 13
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/13-se-multiplican-cadenas-humanas-en-bielorrusia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Las cadenas humanas se multiplicaban este jueves en Minsk para denunciar la violenta represión de las protestas tras la cuestionada reelección del presidente Alexandre Lukashenko.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Se multiplican cadenas humanas en bielorrusa<b>
+    text1 Se multiplican cadenas humanas contra represión en Bielorrusia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,noticias-culturales
+videoID 
+titlePoster 
+color #FBFF09

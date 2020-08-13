@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202008/12-nuevos-disturbios-en-bielorrusia
+        featured{array} /content/202008/13-trump-dice-que-hong-kong-se-ira-al-infierno
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/12-reino-unido-en-recesion-record
+        featured{array} /content/202008/13-facebook-lanza-centro-de-informacion-para-las-elecciones
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/12-nuevos-disturbios-en-bielorrusia
+    featured{array} /content/202008/13-se-multiplican-cadenas-humanas-en-bielorrusia
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202008/12-bill-cosby
+        featured{array} /content/202008/13-migrantes-centroamericanos-lgtbi-encuentran-refugio-en-costa-rica
     }
     video{kmkv} {
         name Video
