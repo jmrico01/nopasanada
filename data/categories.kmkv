@@ -5,7 +5,7 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202006/19-notas-memoria
+    featured{array} /content/202008/13-musica-de-pato
     cine{kmkv} {
         name Cine
         featured{array} /content/202006/lo-que-el-viento-se-llevo
@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202007/27-remueven-murales-de-picasso-en-oslo
+        featured{array} /content/202008/13-musica-de-pato
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
