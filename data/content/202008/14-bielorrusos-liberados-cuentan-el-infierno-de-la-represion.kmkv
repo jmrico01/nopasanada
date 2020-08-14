@@ -20,7 +20,7 @@ text {
 <p>Mijail Chernenkov, emprendedor de 43 a&ntilde;os, muestra sus nalgas tumefactas a la vez que explica a la AFP que fue torturado con electricidad y golpeado con porras.</p>
 <p>"Nunca pens&eacute; que cosas as&iacute; pudieran producirse aqu&iacute;", en este pa&iacute;s "pac&iacute;fico", confiesa Yana Bobrovskaya. "&iexcl;Es dif&iacute;cil incluso imaginarlo en el siglo XXI!".</p>
 }
-title bielorrusos liberados cuentan el infierno de la represión
+title Bielorrusos liberados cuentan el infierno de la represión
 day 14
 text1 
 text2 
@@ -37,7 +37,7 @@ year 2020
 author AFP Y NPN NOTICIAS
 featured{kmkv} {
     title <b>Bielorrusos liberados cuentan el infierno de la represión"<b>
-    text1 bielorrusos liberados cuentan el infierno de la represión
+    text1 Bielorrusos liberados cuentan el infierno de la represión
     text2 Por AFP Y NPN NOTICIAS
     pretitle NOTICIAS:
     highlightColor #FBFF09
@@ -45,7 +45,7 @@ featured{kmkv} {
 type article
 subtitle 
 month 08
-tags{array} noticias-loimportante,noticias-politica,noticias-culturales
+tags{array} noticias-loimportante,noticias-politica
 videoID 
 titlePoster 
 color #FBFF09
