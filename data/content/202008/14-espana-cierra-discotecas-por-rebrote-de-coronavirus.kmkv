@@ -1,0 +1,41 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Las autoridades espa&ntilde;olas decidieron este viernes el cierre de discotecas y la prohibici&oacute;n de fumar en la calle sin respetar la distancia de seguridad, como parte de nuevas medidas para contener el rebrote del coronavirus.</p>
+<p>El ministro de Sanidad, Salvador Illa, present&oacute; una serie de medidas que se aplicar&aacute;n en todo el territorio, tras una reuni&oacute;n de emergencia de las autoridades sanitarias de todas las regiones de Espa&ntilde;a, cada una de ellas con competencia en materia de salud.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Espa&ntilde;a, uno de los pa&iacute;ses del mundo m&aacute;s golpeados por la pandemia, registr&oacute; el jueves 3.000 nuevos casos en 24 horas.</p>
+<p>Para luchar contra el rebrote, se cerrar&aacute;n discotecas, bares nocturnos y salones de baile. Los restaurantes y otros bares deber&aacute;n cerrar a la una de la ma&ntilde;ana y no podr&aacute;n recibir m&aacute;s clientes pasada medianoche.</p>
+<p>Estar&aacute; prohibido fumar en la calle, salvo que se pueda mantener una distancia de seguridad de dos metros. Esta medida, que sigue las recomendaciones de la Organizaci&oacute;n Mundial de la Salud (OMS), ya est&aacute; en vigor en dos de las 17 regiones auton&oacute;micas, Galicia y las canarias.</p>
+<p>En las residencias para ancianos, las visitas ser&aacute;n limitadas y los nuevos residentes deber&aacute;n pasar un test de covid-19 para su admisi&oacute;n.</p>
+<p>Las regiones son invitadas a efectuar campa&ntilde;as de test en los grupos de poblaci&oacute;n de riesgo y en los barrios y aglomeraciones particularmente afectados por la epidemia.</p>
+<p>El ministro no indic&oacute; en lo inmediato la fecha de entrada en vigor de estas nuevas restricciones.</p>
+}
+title España cierra discotecas por rebrote de coronavirus
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/14-espana-cierra-discotecas-por-rebrote-de-coronavirus.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Las autoridades españolas decidieron este viernes el cierre de discotecas y la prohibición de fumar en la calle sin respetar la distancia de seguridad, como parte de nuevas medidas para contener el rebrote del coronavirus.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>España cierra discotecas por rebrote de coronavirus<b>
+    text1 España cierra discotecas por rebrote de coronavirus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

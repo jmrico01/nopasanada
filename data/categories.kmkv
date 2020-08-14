@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202008/13-trump-dice-que-hong-kong-se-ira-al-infierno
+        featured{array} /content/202008/14trump-alega-que-harris-no-es-elegible
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/13-facebook-lanza-centro-de-informacion-para-las-elecciones
+        featured{array} /content/202008/14-bielorrusos-liberados-cuentan-el-infierno-de-la-represion
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/13-se-multiplican-cadenas-humanas-en-bielorrusia
+    featured{array} /content/202008/14-bolsonaro-mas-popular-que-nunca-pese-a-pandemia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202008/13-migrantes-centroamericanos-lgtbi-encuentran-refugio-en-costa-rica
