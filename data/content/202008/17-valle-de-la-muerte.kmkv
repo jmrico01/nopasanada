@@ -1,0 +1,38 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Haciendo valer su nombre, el domingo el Valle de la Muerte en California registr&oacute; una temperatura r&eacute;cord de 54,4 &deg;C <strong>a la sombra, la tercera m&aacute;s alta en la historia del planeta.</strong></p>
+<p>La temperatura, ser&aacute; verificada por un comit&eacute; de expertos, se registr&oacute; en un medidor autom&aacute;tico que est&aacute; a la sombra y a casi dos metros de altura en Furnace Creek (Arroyo del Horno), otro nombre que calza perfecto.</p>
+<p>&ldquo;Si se verifica, ser&aacute; la temperatura m&aacute;s elevada registrada oficialmente en Estados Unidos desde julio de 1913&rdquo; seg&uacute;n la oficina de Las Vegas del servicio meteorol&oacute;gico de Estados Unidos.</p>
+<p>Despu&eacute;s de estos otros r&eacute;cords han sido: 55 &deg;C registrados en Kebili, T&uacute;nez, en 1931. Y en el 2016 y 2017, los term&oacute;metros llegaron a 54 &deg;C en Kuwait y Pakist&aacute;n.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Sin recalcar lo obvio: el cambio clim&aacute;tico. &ldquo;Aunque el calentamiento no ha sido uniforme en todo el planeta, la tendencia al alza de la temperatura promedio global muestra que m&aacute;s &aacute;reas se est&aacute;n calentando que enfriando. Seg&uacute;n el Resumen del clima global de la NOAA 2019, la temperatura combinada de la tierra y el oc&eacute;ano ha aumentado a una tasa promedio de 0.07 &deg; C (0.13 &deg; F) por d&eacute;cada desde 1880; sin embargo, la tasa promedio de aumento desde 1981 (0.18 &deg; C / 0.32 &deg; F) es m&aacute;s del doble.&rdquo; - Seg&uacute;n el instituto de Administraci&oacute;n Nacional Oce&aacute;nica y Atmosf&eacute;rica de los Estados Unidos.</p>
+}
+title Calor “mortal” de 54,4°C en el Valle de la Muerte
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/17-valle-de-la-muerte.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Haciendo valer su nombre, el domingo el Valle de la Muerte en California registró una temperatura récord de 54,4 °C a la sombra, la tercera más alta en la historia del planeta.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Calor “mortal”<b>
+    text1 Calor “mortal” de 54,4°C en el Valle de la Muerte
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

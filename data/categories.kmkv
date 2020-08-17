@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202008/7-brasil-deforesto-mas-de-1500km2-en-julio
+        featured{array} /content/202008/17-valle-de-la-muerte
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,11 +57,11 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202008/14trump-alega-que-harris-no-es-elegible
+        featured{array} /content/202008/17-iran-pago-talibanes
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/14-bielorrusos-liberados-cuentan-el-infierno-de-la-represion
+        featured{array} /content/202008/17-elecciones-libres-en-venezuela
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202008/14-bolsonaro-mas-popular-que-nunca-pese-a-pandemia

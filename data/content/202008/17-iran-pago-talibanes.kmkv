@@ -1,0 +1,40 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Ir&aacute;n ofreci&oacute; a talibanes recompensas por atacar a soldados de Estados Unidos y de la coalici&oacute;n internacional en Afganist&aacute;n, igual que presuntamente lo habr&iacute;a hecho Rusia, inform&oacute; CNN, citando fuentes de inteligencia militar.</p>
+<p>CNN dijo que Estados Unidos identific&oacute; pagos vinculados a seis ataques del a&ntilde;o pasado, incluyendo uno ocurrido en diciembre contra un edificio afuera de la Base A&eacute;rea de Bagram, cerca de Kabul.</p>
+<p>El ataque dej&oacute; dos civiles afganos muertos y cuatro heridos estadounidenses, y congel&oacute; temporalmente las negociaciones entre Estados Unidos y los talibanes.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>No es la primera vez que vemos una acusaci&oacute;n de este tipo. En junio, los medios estadounidenses informaron que los servicios de inteligencia hab&iacute;an determinado que Rusia tambi&eacute;n hab&iacute;a ofrecido recompensas para matar soldados estadounidenses en Afganist&aacute;n.</p>
+<p>Esos reportes no fueron desmentidos por las jerarqu&iacute;as del gobierno Esto adem&aacute;s se convirti&oacute; en un asunto pol&iacute;tico luego de que Donald Trump negara haber sido informado al respecto.</p>
+<p>Seg&uacute;n el medio Axios, Trump ha obviado el tema en varias circunstancias. Esto incluso cuando los dem&oacute;cratas hab&iacute;an aprovechado el fallo de referirse a la acusaci&oacute;n para aludir a que esto es evidencia de que Trump no est&aacute; dispuesto a desafiar a Putin, incluso cuando est&aacute;n en juego vidas estadounidenses.</p>
+<p>Luego cuando Axios lo presiono y le pregunto a Trump sure si habl&oacute; con Putin dijo: &ldquo;Nunca lo he discutido con &eacute;l&rdquo;</p>
+}
+title Irán pagó talibanes para que atacaran a estadounidenses
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/17-iran-pago-talibanes.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Irán ofreció a talibanes recompensas por atacar a soldados de Estados Unidos y de la coalición internacional en Afganistán, igual que presuntamente lo habría hecho Rusia, informó CNN, citando fuentes de inteligencia militar.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Irán pagó talibanes<b>
+    text1 Irán pagó talibanes para que atacaran a estadounidenses
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
