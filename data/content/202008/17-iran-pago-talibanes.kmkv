@@ -9,7 +9,7 @@ text {
 <p>Seg&uacute;n el medio Axios, Trump ha obviado el tema en varias circunstancias. Esto incluso cuando los dem&oacute;cratas hab&iacute;an aprovechado el fallo de referirse a la acusaci&oacute;n para aludir a que esto es evidencia de que Trump no est&aacute; dispuesto a desafiar a Putin, incluso cuando est&aacute;n en juego vidas estadounidenses.</p>
 <p>Luego cuando Axios lo presiono y le pregunto a Trump sure si habl&oacute; con Putin dijo: &ldquo;Nunca lo he discutido con &eacute;l&rdquo;</p>
 }
-title Irán pagó talibanes para que atacaran a estadounidenses
+title Irán pagó a talibanes para que atacaran a estadounidenses
 day 17
 text1 
 text2 
@@ -25,8 +25,8 @@ description Irán ofreció a talibanes recompensas por atacar a soldados de Esta
 year 2020
 author AFP Y NPN NOTICIAS
 featured{kmkv} {
-    title <b>Irán pagó talibanes<b>
-    text1 Irán pagó talibanes para que atacaran a estadounidenses
+    title <b>Irán pagó a talibanes<b>
+    text1 Irán pagó a talibanes para que atacaran a estadounidenses
     text2 Por AFP Y NPN NOTICIAS
     pretitle NOTICIAS:
     highlightColor #FBFF09
