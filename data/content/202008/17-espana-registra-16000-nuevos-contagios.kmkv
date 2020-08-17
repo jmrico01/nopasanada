@@ -1,0 +1,46 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Espa&ntilde;a registr&oacute; m&aacute;s de 16.000 nuevos contagiados por coronavirus desde el viernes, inform&oacute; el ministerio de Sanidad este lunes, cuando algunas regiones como Baleares o Pa&iacute;s Vasco endurecieron las ya severas medidas decretadas por el gobierno central como cerrar locales nocturnos o restringir fumar en las calles.</p>
+<p>Las cifras divulgadas por el ministerio daban cuenta de un total de 359.082 infectados por el virus en Espa&ntilde;a, 16.269 contagiados m&aacute;s que en el &uacute;ltimo balance del viernes.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"No son cifras buenas, nos gustar&iacute;a estar en cifras mucho m&aacute;s bajas", reconoci&oacute; el director del centro de emergencias sanitarias Fernando Sim&oacute;n, aun insistiendo en que se trata de "un incremento progresivo, suave, mucho m&aacute;s moderado o mucho m&aacute;s f&aacute;cil de controlar que en otros periodos".</p>
+<p>Espa&ntilde;a es el pa&iacute;s de Europa Occidental con m&aacute;s infectados por coronavirus con casi 343.000 y su tasa de contagios fue de 115 casos por cada 100.000 habitantes en las &uacute;ltimas dos semanas, muy por encima de los 45 en Francia, 19 en Reino Unido y 16 en Alemania.</p>
+<p>Ante esta situaci&oacute;n, el gobierno anunci&oacute; el viernes un duro paquete de medidas que incluyen el cierre de discotecas, hora m&aacute;xima de apertura en las noches para restaurantes y bares, prohibici&oacute;n de fumar en espacios abiertos si no se puede mantener al menos dos metros de distancia o limitaci&oacute;n de las reuniones a diez personas.</p>
+<p>Pero son las regiones, competentes en materia de salud, las que deben implementarlas y vigilar su cumplimiento. En varias de las 17 comunidades aut&oacute;nomas del pa&iacute;s ya aprobaron las nuevas medidas y, en algunos casos, otras suplementarias.</p>
+<p>Es el caso del tur&iacute;stico archipi&eacute;lago de Baleares que prohibi&oacute; las fiestas en barcos y piscinas, incluso durante el d&iacute;a.</p>
+<p>El Pa&iacute;s Vasco declar&oacute; la "emergencia sanitaria", una figura que le permitir&aacute; tomar medidas incluso m&aacute;s severas, como por ejemplo restricciones locales de movilidad, ante "un posible tsunami" de contagios, seg&uacute;n dijo su responsable de salud, Nekane Murga.</p>
+<p>Las disposiciones fueron repudiadas el domingo en una manifestaci&oacute;n en Madrid que congreg&oacute; a entre 2.500 y 3.000 personas, seg&uacute;n un portavoz regional.</p>
+<p>Con gritos de "libertad" y pancartas que le&iacute;an "el virus no existe" o "las mascarillas matan", las personas se reunieron convocados por las redes sociales en una c&eacute;ntrica plaza madrile&ntilde;a para denunciar una supuesta exageraci&oacute;n de cifras del covid-19 para justificar una restricci&oacute;n de libertades.</p>
+<p>Como muchos de los asistentes no usaron mascarillas, obligatorias en el exterior en toda Espa&ntilde;a, el delegado del gobierno en Madrid, Jos&eacute; Manuel Franco, anunci&oacute; a la radio Cadena Ser que "se sancionar&aacute; con el m&aacute;ximo rigor lo que sucedi&oacute;".</p>
+<p>De todas maneras, buena parte de los nuevos casos son asintom&aacute;ticos y la letalidad del virus baj&oacute; considerablemente: desde que finaliz&oacute; el 21 de junio el r&iacute;gido confinamiento de toda la poblaci&oacute;n por tres meses, se notificaron poco m&aacute;s de 300 de los 28.646 fallecidos del pa&iacute;s por la pandemia.</p>
+<p>Sim&oacute;n subray&oacute; que el incremento de casos se explica por el aumento de la capacidad de detecci&oacute;n, si bien reconoci&oacute; que en algunos hospitales se "est&aacute; empezando a generar un cierto estr&eacute;s en el personal m&eacute;dico".</p>
+}
+title España registra 16.000 nuevos contagios en tres días mientras regiones endurecen medidas
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/17-espana-registra-16000-nuevos-contagios.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Las cifras divulgadas por el ministerio daban cuenta de un total de 359.082 infectados por el virus en España, 16.269 contagiados más que en el último balance del viernes.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>España registra más nuevos contagios<b>
+    text1 España registra 16.000 nuevos contagios en tres días mientras regiones endurecen medidas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
