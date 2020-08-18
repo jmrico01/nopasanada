@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El presidente de Estados Unidos, Donald Trump, respondi&oacute; con fuerza este martes a los ataques que la ex primera dama Michelle Obama le lanz&oacute; en su discurso ante la convenci&oacute;n dem&oacute;crata, en la que Joe Biden ser&aacute; confirmado como candidato a la Casa Blanca.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La ex primera dama dijo en la noche del lunes que Trump es el presidente "equivocado" para el pa&iacute;s y lo describi&oacute; como un l&iacute;der divisivo con una absoluta "falta de empat&iacute;a", que no ha estado a la altura del reto de la pandemia y la crisis econ&oacute;mica asociada.&nbsp;</p>
+<p>Trump esper&oacute; hasta la ma&ntilde;ana del martes para responder, lanz&aacute;ndose contra su predecesor Barack Obama y contra Biden, que fue su vicepresidente. &nbsp;</p>
+<p>"Por favor que alguien le explique a @MichelleObama que Donald J. Trump no estar&iacute;a aqu&iacute; en la bella Casa Blanca, si no fuera por el trabajo hecho por su esposo, Barack Obama", apunt&oacute; el mandatario.&nbsp;</p>
+<p>Trump -que se vanaglori&oacute; de la fortaleza de la econom&iacute;a con &iacute;ndices de desempleo muy bajos hasta el golpe del coronavirus - reiter&oacute; que la situaci&oacute;n est&aacute; mejorando r&aacute;pidamente.&nbsp;</p>
+<p>"Mi gobierno y yo creamos la mejor econom&iacute;a de la historia de cualquier pa&iacute;s", asegur&oacute; el mandatario, pese a que Estados Unidos es el pa&iacute;s del mundo m&aacute;s enlutado por el coronavirus, con m&aacute;s de 170.000 fallecidos, y el desempleo est&aacute; por encima de 10%.</p>
+<p>El mandatario afirm&oacute; que la econom&iacute;a se est&aacute; levantando, que los empleos abundan e hizo referencia a que el indicador tecnol&oacute;gico de la bolsa, el Nasdaq, toc&oacute; niveles r&eacute;cords.</p>
+<p>"Todo el resto ya va a llegar", afirm&oacute; Trump.</p>
+<p>El expresidente Barack Obama va a hablar el mi&eacute;rcoles en la tercera noche de la convenci&oacute;n para cimentar la nominaci&oacute;n de Biden, que aventaja a Trump en las encuestas para la elecci&oacute;n del 3 de noviembre.&nbsp;</p>
+}
+title Trump responde a ataques de Michelle Obama
+day 18
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/18-trump-responde-ataques-de-michelle-obama.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El presidente de Estados Unidos, Donald Trump, respondió con fuerza este martes a los ataques que la ex primera dama Michelle Obama le lanzó en su discurso ante la convención demócrata, en la que Joe Biden será confirmado como candidato a la Casa Blanca.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Trump responde a Michelle Obama<b>
+    text1 Trump responde a ataques de Michelle Obama
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

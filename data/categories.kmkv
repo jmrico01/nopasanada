@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202008/17-valle-de-la-muerte
+        featured{array} /content/202008/18-reaparece-musarana-elefante
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202008/17-iran-pago-talibanes
+        featured{array} /content/202008/18-trump-responde-ataques-de-michelle-obama
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/17-elecciones-libres-en-venezuela
+        featured{array} /content/202008/18-opositora-bielorrusa-denuncia-sistema-podrido
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/17-espana-registra-16000-nuevos-contagios
+    featured{array} /content/202008/18-reaparece-musarana-elefante
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202008/13-migrantes-centroamericanos-lgtbi-encuentran-refugio-en-costa-rica
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202008/17-iran-pago-talibanes
+    featured{array} /content/202008/18-opositora-bielorrusa-denuncia-sistema-podrido
 }
 other{kmkv} {
     name Other (Internal)
