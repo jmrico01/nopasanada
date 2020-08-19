@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202008/18-trump-responde-ataques-de-michelle-obama
+        featured{array} /content/202008/19-eu-rechaza-elecciones-en-bielorrusia-e-impondra-nuevas-sanciones
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/18-opositora-bielorrusa-denuncia-sistema-podrido
+        featured{array} /content/202008/19-vacuna-contra-el-coronavirus-sera-obligatoria-en-australia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/18-reaparece-musarana-elefante
+    featured{array} /content/202008/19-precarios-argentinos-sobreviven-por-subsidios-y-entragas-a-domicilio
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202008/13-migrantes-centroamericanos-lgtbi-encuentran-refugio-en-costa-rica
+        featured{array} /content/202008/19-trump-apoya-eventual-oferta-de-oracle-para-comprar-tiktok
     }
     video{kmkv} {
         name Video

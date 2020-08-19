@@ -1,0 +1,38 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La Uni&oacute;n Europea (UE) rechaza los resultados electorales que dieron la victoria al presidente bielorruso Alexandre Lukashenko e impondr&aacute; "en breve" nuevas sanciones al r&eacute;gimen, anunciaron este mi&eacute;rcoles responsables del bloque.</p>
+<p>"Para nosotros (...) no hay duda de que se produjeron violaciones masivas del Estado de derecho en las elecciones" presidenciales del 9 de agosto, anunci&oacute; la canciller alemana, Angela Merkel, desde Berl&iacute;n, tras una teleconferencia urgente de los mandatarios europeos.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Los comicios bielorrusos, que han provocado amplias protestas en el pa&iacute;s, no fueron "ni libres ni justos", a&ntilde;adi&oacute; la jefa de gobierno alemana.</p>
+<p>"Estamos del lado de los manifestantes pac&iacute;ficos", dijo Merkel.</p>
+<p>La UE "apoya con firmeza el derecho del pueblo bielorruso a determinar su futuro" y se dispone a aplicar "en breve" sanciones contra un n&uacute;mero "sustancial" de responsables del r&eacute;gimen, a&ntilde;adi&oacute; por su parte el presidente del Consejo Europeo, Charles Michel.</p>
+}
+title UE rechaza resultados de elecciones e impondrá nuevas sanciones
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/19-eu-rechaza-elecciones-en-bielorrusia-e-impondra-nuevas-sanciones.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La Unión Europea (UE) rechaza los resultados electorales que dieron la victoria al presidente bielorruso Alexandre Lukashenko e impondrá "en breve" nuevas sanciones al régimen, anunciaron este miércoles responsables del bloque.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>UE rechaza resultados<b>
+    text1 UE rechaza resultados de elecciones e impondrá nuevas sanciones
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

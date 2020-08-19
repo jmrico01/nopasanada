@@ -1,0 +1,45 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Australia har&aacute; obligatoria la vacuna contra el coronavirus, salvo excepci&oacute;n m&eacute;dica, estim&oacute; el mi&eacute;rcoles el primer ministro Scott Morrison.</p>
+<p>El dirigente conservador indic&oacute; que vacunarse "ser&iacute;a obligatorio, en la medida de lo que puede ser obligatorio".</p>
+<p>"Siempre hay excepciones a la vacuna, por razones m&eacute;dicas, pero deber&iacute;a ser la &uacute;nica", declar&oacute; Morrison en la radio 3AW de Melbourne.</p>
+<p>El primer ministro anunci&oacute; la v&iacute;spera que su pa&iacute;s hab&iacute;a garantizado obtener la vacuna "prometedora" que est&aacute; desarrollando el grupo farmac&eacute;utico suecobrit&aacute;nico AstraZeneca con la universidad de Oxford, en Reino Unido, explicando que el pa&iacute;s la fabricar&aacute; y la distribuir&aacute; gratuitamente a la poblaci&oacute;n</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Adelant&aacute;ndose a posibles movimientos antivacuna, Morrison afirm&oacute; el mi&eacute;rcoles que hab&iacute;a demasiadas cosas en juego para dejar que la enfermedad siguiera propag&aacute;ndose.</p>
+<p>"Estamos hablando de una pandemia que ha destruido la econom&iacute;a mundial y causado cientos de miles de muertes en todo el mundo", dijo.</p>
+<p>El gobierno australiano estima que, si se quiere erradicar el virus, el 95% de la poblaci&oacute;n deber&iacute;a estar inmunizada.</p>
+<p>"Tenemos que aportar la respuesta m&aacute;s amplia posible para que Australia recupere la normalidad", declar&oacute; Morrison.</p>
+<p>La vacuna contra ciertas enfermedades como la polio o el t&eacute;tanos es obligatoria antes de empezar la escuela en Australia. Pero hay un gran debate en torno a estos tratamientos ya que algunos piensan que atentan contra su libertad personal, y muchos grupos antivacunas alimentan las teor&iacute;as del complot y sobre los supuestos riesgos.</p>
+<p>La vacuna de Oxford es una de las cinco que se encuentran actualmente en la fase 3 de los ensayos. Los cient&iacute;ficos estiman que pueden tener resultados de aqu&iacute; a finales de a&ntilde;o.</p>
+<p>Australia tiene todav&iacute;a que firmar un acuerdo final con AstraZeneca sobre el precio de la vacuna. Y por el momento, no se ha designado ning&uacute;n fabricante local.</p>
+<p>Hasta la fecha, no se ha probado la eficacia en ensayos cl&iacute;nicos de ninguna vacuna contra el coronavirus, que ha provocado en el mundo m&aacute;s de 775.000 muertos y casi 22 millones de contagios, seg&uacute;n cifras oficiales.</p>
+}
+title Vacuna contra coronavirus será obligatoria en Australia
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/19-vacuna-contra-el-coronavirus-sera-obligatoria-en-australia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Australia hará obligatoria la vacuna contra el coronavirus, salvo excepción médica, estimó el miércoles el primer ministro Scott Morrison.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Vacuna obligatoria en Australia<b>
+    text1 Vacuna contra coronavirus será obligatoria en Australia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

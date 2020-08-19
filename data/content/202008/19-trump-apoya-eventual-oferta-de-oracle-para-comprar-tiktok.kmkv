@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El presidente estadounidense, Donald Trump, apoya una eventual oferta de compra por parte de Oracle de la aplicaci&oacute;n china de videos cortos TikTok, que ya est&aacute; en negociaciones con Microsoft.</p>
+<p>Seg&uacute;n la agencia Bloomberg, el grupo inform&aacute;tico Oracle, cuyo presidente Larry Ellison ha entregado millones de d&oacute;lares de fondos para la campa&ntilde;a de Trump, estar&iacute;a interesado en comprar las actividades de TikTok en Estados Unidos, Canad&aacute;, Australia y Nueva Zelanda.</p>
+<p>El grupo estadounidense, contactado el martes por la AFP, no quiso comentar esa informaci&oacute;n.</p>
+<p>Al responder preguntas tras dar un discurso el martes en Arizona, Trump declar&oacute;: "Creo que Oracle es una gran compa&ntilde;&iacute;a y creo que su due&ntilde;o es un gran tipo. Es una gran persona. Pienso que Oracle ser&iacute;a ciertamente capaz de manejarlo".</p>
+<p>Al ser consultado sobre su preferencia para la compra de TikTok solo dijo que el eventual comprador debe "asegurarse que Estados Unidos sea bien compensado".</p>
+<p>La administraci&oacute;n Trump dio 90 d&iacute;as al propietario chino de TikTok, ByteDance, para vender las operaciones estadounidenses de la red social, bajo amenaza de bloquearla en Estados Unidos, argumentando problemas de seguridad nacional.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El presidente acusa desde hace meses, sin aportar pruebas, a la plataforma china de recolectar datos de sus usuarios estadounidenses para beneficio de Pek&iacute;n.</p>
+<p>TikTok reforz&oacute; el lunes su campa&ntilde;a de comunicaci&oacute;n con un nuevo sitio web y una cuenta en Twitter dedicadas a combatir los "rumores" sobre la red.</p>
+<p>"TikTok no est&aacute; disponible en China. Los datos de los usuarios estadounidenses son guardados en Virginia y respaldados en Singapur", asegura la compa&ntilde;&iacute;a. "TikTok nunca ha dado ning&uacute;n dato estadounidense al gobierno chino y no lo har&iacute;a si nos lo pidieran", agreg&oacute;.</p>
+}
+title Trump apoya eventual oferta de Oracle para comprar TikTok
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/19-trump-apoya-eventual-oferta-de-oracle-para-comprar-tiktok.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El presidente estadounidense, Donald Trump, apoya una eventual oferta de compra por parte de Oracle de la aplicación china de videos cortos TikTok, que ya está en negociaciones con Microsoft.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Trump apoya eventual oferta de Oracle para comprar TikTok<b>
+    text1 Trump apoya eventual oferta de Oracle para comprar TikTok
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
