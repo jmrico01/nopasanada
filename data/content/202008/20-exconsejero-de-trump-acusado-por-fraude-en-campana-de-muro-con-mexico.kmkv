@@ -1,0 +1,41 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Steve Bannon, exconsejero del presidente estadounidense Donald Trump, fue arrestado el jueves y acusado de defraudar a ciudadanos que donaron dinero para construir un muro en la frontera con M&eacute;xico, inform&oacute; la fiscal&iacute;a de Nueva York.</p>
+<p>La fiscal interina del distrito sur de Nueva York, Audrey Strauss, dijo que Bannon y otros tres acusados "cometieron un fraude de cientos de miles de d&oacute;lares, capitalizando su inter&eacute;s de financiar un muro fronterizo para recaudar millones de d&oacute;lares, bajo la falsa pretensa de que todo el dinero ser&iacute;a gastado en la construcci&oacute;n", cuando en realidad se quedaron con parte del mismo para su uso personal.</p>
+<p>La campa&ntilde;a en l&iacute;nea recaud&oacute; m&aacute;s de 25 millones de d&oacute;lares, seg&uacute;n los fiscales.</p>
+<p>Bannon, de 66 a&ntilde;os, y otro de los acusados, Brian Kolfage, de 38, fundador de la campa&ntilde;a "Construimos el muro", aseguraron a los donantes que el 100% del dinero ser&iacute;a utilizado para la construcci&oacute;n y que Kolfage no obtendr&iacute;a un centavo de lo recaudado en salario o compensaciones.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Pero seg&uacute;n la acusaci&oacute;n, Kolfage se qued&oacute; con 350.000 d&oacute;lares para financiar su "lujoso estilo de vida", y Bannon desvi&oacute; un mill&oacute;n de d&oacute;lares a una organizaci&oacute;n sin fines de lucro que le pagaba secretamente a Kolfage "y cubr&iacute;a cientos de miles de d&oacute;lares de gastos personales de Bannon".</p>
+<p>Junto a los otros dos acusados, Timothy Shea y Andrew Badolato, Bannon y Kolfage montaron un esquema para desviar el dinero y esconder el fraude, asegura la inculpaci&oacute;n.</p>
+<p>Los cuatro detenidos fueron inculpados de dos delitos cada uno, fraude bancario y conspiraci&oacute;n para lavar dinero. Cada delito conlleva una pena m&aacute;xima de 20 a&ntilde;os de c&aacute;rcel.</p>
+<p>Bannon debe comparecer este jueves ante un juez federal de Nueva York que le leer&aacute; los cargos en su contra.</p>
+}
+title Exconsejero de Trump arrestado por fraude en campaña de muro con México
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/20-exconsejero-de-trump-acusado-por-fraude-en-campana-de-muro-con-mexico.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Steve Bannon, exconsejero del presidente estadounidense Donald Trump, fue arrestado el jueves y acusado de defraudar a ciudadanos que donaron dinero para construir un muro en la frontera con México, informó la fiscalía de Nueva York.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Exconsejero de Trump arrestado<b>
+    text1 Exconsejero de Trump arrestado por fraude en campaña de muro con México
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
