@@ -1,0 +1,48 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La ciudad estadounidense de Kenosha, en Wisconsin, fue escenario de protestas luego de que un polic&iacute;a disparara varias veces el domingo a un hombre negro por la espalda, a poca distancia y mientras &eacute;ste se sub&iacute;a a un veh&iacute;culo, seg&uacute;n un video del incidente.</p>
+<p>El hombre, identificado como Jacob Blake por el gobernador de Wisconsin, Tony Evers, fue llevado a un hospital en Milwaukee y estaba en estado cr&iacute;tico, inform&oacute; la polic&iacute;a de Kenosha.</p>
+<p>"Esta noche, Jacob Blake recibi&oacute; m&uacute;ltiples disparos en la espalda, a plena luz del d&iacute;a, en Kenosha, Wisconsin", tuite&oacute; Evers.</p>
+<p>"Aunque a&uacute;n no tenemos todos los detalles, sabemos con claridad que no es el primer hombre o persona negra en recibir disparos o heridas o en ser asesinado sin piedad a manos de miembros de las fuerzas del orden en nuestro estado o nuestro pa&iacute;s", sigui&oacute;.</p>
+<p>La polic&iacute;a dijo que el tiroteo ocurri&oacute; cuando respond&iacute;an a un incidente dom&eacute;stico, alrededor de las 5:11 pm locales.</p>
+<p>Un video del incidente grabado desde un tel&eacute;fono m&oacute;vil muestra c&oacute;mo un hombre negro es seguido por dos polic&iacute;as con armas, mientras intenta subirse al frente de una camioneta gris.</p>
+<p>Cuando abre la puerta e intenta llegar al asiento del conductor, uno de los oficiales le toma por la camiseta y aparentemente le dispara varias veces por la espalda.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El abogado de derechos civiles Ben Crump dijo que los tres hijos de Blake estaban en la camioneta cuando todo ocurri&oacute; y que el hombre hab&iacute;a intentado intervenir en una pelea entre dos mujeres.</p>
+<p>"Vieron a un polic&iacute;a disparar a su padre. Estar&aacute;n traumatizados para siempre", escribi&oacute; Crump en Twitter.</p>
+<p>Crump representa a la familia de George Floyd, un afroestadounidense que muri&oacute; el pasado 25 de mayo a manos de un polic&iacute;a blanco, que se arrodill&oacute; sobre su cuello por casi nueve minutos.</p>
+<p>Tras anochecer en Kenosha, una multitud de manifestantes se enfrent&oacute; a polic&iacute;as antidisturbios, seg&uacute;n im&aacute;genes publicadas por el diario Milwaukee Journal Sentinel.</p>
+<p>La ciudad declar&oacute; luego un toque de queda nocturno.</p>
+<p>El departamento de Justicia de Wisconsin dijo que su divisi&oacute;n de investigaci&oacute;n criminal est&aacute; investigando lo ocurrido.</p>
+<p>"Los oficiales involucrados han recibido una baja administrativa", inform&oacute; el departamento en un comunicado el lunes temprano.</p>
+<p>La muerte de Floyd desat&oacute; masivas protestas en todo Estados Unidos contra el racismo y la brutalidad policial.</p>
+}
+title Protestas en Wisconsin luego de que policía disparara a un hombre negro por la espalda
+day 24
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/24-protestas-en-wisconsin-luego-de-que-policia-disparara-a-un-hombre-negro-por-la-espalda.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La ciudad estadounidense de Kenosha, en Wisconsin, fue escenario de protestas luego de que un policía disparara varias veces el domingo a un hombre negro por la espalda, a poca distancia y mientras éste se subía a un vehículo, según un video del incidente.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Protestas en Wisconsin<b>
+    text1 Protestas en Wisconsin luego de que policía disparara a un hombre negro por la espalda
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
