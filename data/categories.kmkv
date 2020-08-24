@@ -71,14 +71,14 @@ noticias{kmkv} {
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202008/video-welcome-to-chepe-vacaciones-carlos-alvarado
+        featured{array} /content/202008/21-lo-importante-video
     }
 }
 coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202008/18-opositora-bielorrusa-denuncia-sistema-podrido
+    featured{array} /content/202008/21-lo-importante-video
 }
 other{kmkv} {
     name Other (Internal)
