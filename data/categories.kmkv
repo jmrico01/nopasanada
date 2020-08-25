@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202008/18-reaparece-musarana-elefante
+        featured{array} /content/202008/25-tormenta-laura-se-convierte-en-huracan-en-el-golfo-de-mexico
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202008/24-atacante-de-mezquitas-en-nueva-zelanda-indiferente-en-su-jucio
+        featured{array} /content/202008/24-lebron-james-indignado-por-ataque-policial
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/24-protestas-en-wisconsin-luego-de-que-policia-disparara-a-un-hombre-negro-por-la-espalda
+        featured{array} /content/202008/24-lebron-james-indignado-por-ataque-policial
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/24-13-muertos-en-peru-por-estampida-en-fiesta-clandestina
+    featured{array} /content/202008/25-bomberos-ganan-terreno-ante-incendios-que-destruyen-california
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202008/19-trump-apoya-eventual-oferta-de-oracle-para-comprar-tiktok
+        featured{array} /content/202008/25-corona-de-biggie-y-cartas-de-amor-de-tupac-seran-subastadas
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202008/24-13-muertos-en-peru-por-estampida-en-fiesta-clandestina
+    featured{array} /content/202008/25-corona-de-biggie-y-cartas-de-amor-de-tupac-seran-subastadas
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Los miles de bomberos estadounidenses, canadienses y australianos desplegados en California para contener los gigantescos incendios que asolan este estado desde hace varios d&iacute;as ganaron terreno a las llamas el lunes, gracias a unas condiciones meteorol&oacute;gicas m&aacute;s favorables de lo previsto.&nbsp;</p>
+<p>Seg&uacute;n el gobernador del estado, Gavin Newsom, los 625 incendios activos han devorado m&aacute;s de 485.000 hect&aacute;reas, equivalente al tama&ntilde;o del Gran Ca&ntilde;&oacute;n.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>De estos fuegos, 17 se consideran importantes, agreg&oacute;, incluido el "LNU Lightning Complex" y el "SCU Lightning Complex", los incendios m&aacute;s grandes en la historia de California.</p>
+<p>El primero se declar&oacute; el 8 de agosto al norte de San Francisco y el 22% del incendio estaba bajo control el lunes por la tarde. Mientras que el segundo, registrado el mismo d&iacute;a al sureste de San Francisco, estaba contenido solo en un 10%.</p>
+<p>Otro gran incendio, el "Complejo de rayos CZU", ha reducido a cenizas &aacute;reas cercanas a la costa.&nbsp;</p>
+<p>La mayor&iacute;a de estos incendios fueron causados por rayos y las altas temperaturas de r&eacute;cord registradas en el centro y norte de California.&nbsp;</p>
+<p>Los fuegos han destruido m&aacute;s de 100 casas y otras estructuras, y amenazan 100.000 inmuebles m&aacute;s, seg&uacute;n las autoridades.</p>
+<p>Cerca de 14.000 bomberos, entre ellos californianos y otros venidos del resto del pa&iacute;s as&iacute; como de Australia y Canad&aacute;, trabajan en la tareas de extinci&oacute;n.&nbsp;</p>
+<p>Las altas temperaturas y la baja humedad que alimentaron las llamas la semana pasada dieron una tregua el lunes.</p>
+}
+title Bomberos ganan terreno ante incendios que destruyen California
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/25-bomberos-ganan-terreno-ante-incendios-que-destruyen-california.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Los miles de bomberos estadounidenses, canadienses y australianos desplegados en California para contener los gigantescos incendios que asolan este estado desde hace varios días ganaron terreno a las llamas el lunes, gracias a unas condiciones meteorológicas más favorables de lo previsto.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Bomberos en California<b>
+    text1 Bomberos ganan terreno ante incendios que destruyen California
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

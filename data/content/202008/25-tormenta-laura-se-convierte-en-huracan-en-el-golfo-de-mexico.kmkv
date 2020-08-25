@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La tormenta Laura se convirti&oacute; este martes en hurac&aacute;n en el Golfo de M&eacute;xico, con vientos de 120 km/h que amenazan la costa estadounidense, anunci&oacute; el Centro Nacional de Huracanes (NHC).</p>
+<p>Se espera que Laura se fortalezca antes de llegar el mi&eacute;rcoles a las costas del suroeste de Luisiana y parte de Texas, precis&oacute; el NHC.</p>
+<p>"Laura se convirti&oacute; en un hurac&aacute;n con vientos m&aacute;ximos sostenidos de 120km/h, con rachas m&aacute;s fuertes", se&ntilde;al&oacute; el NHC en su bolet&iacute;n de las 12H00 GMT.</p>
+<p>"Se pronostica un fortalecimiento significativo en las pr&oacute;ximas 48 horas, y se espera que Laura sea un hurac&aacute;n mayor cuando toque tierra", agreg&oacute;.</p>
+<p>El gobernador de Luisiana, John Bel Edwards, dijo en Twitter que se espera que Laura "toque tierra al menos como un hurac&aacute;n de categor&iacute;a 3".</p>
+<p>"Aseg&uacute;rense de estar preparados, tengan lo necesario y sigan las noticias locales para estar informados", agreg&oacute; en su llamado de atenci&oacute;n a los habitantes del estado.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El cicl&oacute;n pas&oacute; el lunes por Cuba, donde dej&oacute; intensas lluvias y fuertes marejadas, y antes por la isla La Espa&ntilde;ola, que comparten Hait&iacute; y Rep&uacute;blica Dominicana, dejando una estela de al menos 24 muertos.</p>
+<p>Laura se desplaza a unos 28 km/h, alej&aacute;ndose de Cuba y adentr&aacute;ndose en el Golfo de M&eacute;xico, para acercarse luego a "la costa superior de Texas y el suroeste de Luisiana el mi&eacute;rcoles en la noche". Luego se mover&aacute; tierra adentro en esa zona el jueves.</p>
+<p>La temporada cicl&oacute;nica del Atl&aacute;ntico, que se extiende desde el 1 de junio al 30 de noviembre, podr&iacute;a ser especialmente severa este a&ntilde;o. El Centro Nacional de Huracanes de Estados Unidos espera 25 depresiones, siendo Laura la decimosegunda.</p>
+}
+title Tormenta Laura se convierte en huracán en el Golfo de México
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/25-tormenta-laura-se-convierte-en-huracan-en-el-golfo-de-mexico.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La tormenta Laura se convirtió este martes en huracán en el Golfo de México, con vientos de 120 km/h que amenazan la costa estadounidense, anunció el Centro Nacional de Huracanes (NHC).
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Tormenta Laura se convierte en huracán<b>
+    text1 Tormenta Laura se convierte en huracán en el Golfo de México
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
