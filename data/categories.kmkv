@@ -39,10 +39,10 @@ guida{kmkv} {
         featured{array} /content/202007/la-guida-servicio-expres
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202007/kfc-pollo-tresd
+    featured{array} /content/202008/laguida-cafe-guia
     bebidas{kmkv} {
         name Bebidas
-        featured{array} /content/202005/07-jugando-con-fuego
+        featured{array} /content/202008/laguida-cafe-guia
     }
     viaje{kmkv} {
         name Viaje
