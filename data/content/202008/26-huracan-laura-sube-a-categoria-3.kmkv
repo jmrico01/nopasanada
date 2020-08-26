@@ -1,0 +1,38 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Laura se reforz&oacute; este mi&eacute;rcoles y se convirti&oacute; en un hurac&aacute;n categor&iacute;a 3, con vientos de hasta 185 km/h, amenazando las costas estadounidenses del Golfo de M&eacute;xico con inundaciones potencialmente "catastr&oacute;ficas", anunci&oacute; el Centro Nacional de Huracanes (NHC).</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Se espera que Laura siga aumentando su fuerza hasta convertirse en un hurac&aacute;n de categor&iacute;a 4 mientras se acerca este mi&eacute;rcoles a las costas del suroeste de Luisiana y de parte de Texas, precisaron los meteor&oacute;logos.</p>
+<p>Laura tambi&eacute;n amenaza los principales centros de refinaci&oacute;n de petr&oacute;leo de Lake Charles en Luisiana y de Beaumont y Port Arthur en Texas, ubicados cerca de la costa.</p>
+<p>"Solo tienen unas horas para prepararse y evacuar", advirti&oacute; en Twitter John Bel Edwards, el gobernador de Luisiana, estado a&uacute;n traumatizado por la devastaci&oacute;n causada en 2005 por Katrina, un hurac&aacute;n de categor&iacute;a 5, la m&aacute;xima, que inund&oacute; el 80% de Nueva Orleans, dejando 1.000 muertos y enormes da&ntilde;os.</p>
+<p>"Dondequiera que est&eacute;s al mediod&iacute;a, ah&iacute; es donde deber&aacute;s capear el temporal", agreg&oacute;.</p>
+}
+title Huracán Laura sube a categoría 3 y amenaza costas de EEUU
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/26-huracan-laura-sube-a-categoria-3.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Laura se reforzó este miércoles y se convirtió en un huracán categoría 3, con vientos de hasta 185 km/h, amenazando las costas estadounidenses del Golfo de México con inundaciones potencialmente "catastróficas", anunció el Centro Nacional de Huracanes (NHC).
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Huracán Laura<b>
+    text1 Huracán Laura sube a categoría 3 y amenaza costas de EEUU
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
