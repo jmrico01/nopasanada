@@ -1,6 +1,6 @@
 text {
 <p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
-<p>Dos personas murieron por disparos la noche del martes en la ciudad estadounidense de Kenosha, mientras se produc&iacute;an protestas antirracistas surgidas luego de que un afroestadounidense fuera baleado por un polic&iacute;a blanco el pasado fin de semana.</p>
+<p>Dos personas murieron el martes en la noche en Kenosha,Winsconsin, mientras se produc&iacute;an protestas antirracistas surgidas luego de que un Jacob Blake fuera baleado por un polic&iacute;a blanco este fin de semana.</p>
 <p>La violencia se desat&oacute; cuando cientos de manifestantes marchaban por tercera noche consecutiva en esa ciudad de Wisconsin para protestar tras divulgarse un video en el que se ve c&oacute;mo Jacob Blake recibi&oacute; varios disparos a quemarropa por parte de un polic&iacute;a blanco de Kenosha.</p>
 <p>Blake, de 29 a&ntilde;os, intentaba entrar a su veh&iacute;culo, en el que se encontraban sus tres hijos, cuando fue baleado el domingo.</p>
 <p>Este &uacute;ltimo caso de violencia policial contra un afroestadounidense gener&oacute; protestas tambi&eacute;n en otras ciudades de Estados Unidos, incluidas Nueva York y Minneapolis, como parte del movimiento Black Lives Matter (las vidas de los negros importan).</p>
@@ -27,7 +27,7 @@ text {
 <p>Las autoridades aseguran que la polic&iacute;a acudi&oacute; por una llamada por un disturbio dom&eacute;stico, pero no han dicho por qu&eacute; dispararon contra Blake.</p>
 <p>Crump exigi&oacute; que los dos oficiales involucrados, actualmente suspendidos, sean despedidos y acusados.</p>
 }
-title LeBron James indignado por ataque policial en Wisconsin
+title Dos muertos durante protestas antirracistas
 day 26
 text1 
 text2 
@@ -39,12 +39,12 @@ media{kmkv} {
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     banksy /images/202006/10-banksy/banksy.jpg
 }
-description En el marco de la indignación general en la NBA por un nuevo ataque de la policía contra un hombre negro, LeBron James hizo un llamado este lunes a "hacer el cambio" en Estados Unidos comenzando por las elecciones presidenciales de noviembre.
+description Dos personas murieron el martes en la noche en Kenosha,Winsconsin, mientras se producían protestas antirracistas surgidas luego de que un Jacob Blake fuera baleado por un policía blanco este fin de semana.
 year 2020
 author AFP Y NPN NOTICIAS
 featured{kmkv} {
-    title <b>LeBron James indignado<b>
-    text1 LeBron James indignado por ataque policial en Wisconsin
+    title <b>Dos muertos durante protestas antirracistas<b>
+    text1 
     text2 Por AFP Y NPN NOTICIAS
     pretitle NOTICIAS:
     highlightColor #FBFF09
