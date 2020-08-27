@@ -1,4 +1,6 @@
 text {
+<p>De una aventura a una pandemia, este a&ntilde;o hemos visto a Chef Santiago Fernandez Benedetto vivir un poco de todo. En este episodio de Com&uacute;n y Silvestre vemos c&oacute;mo el concepto de "reinventarse" no ha sido tan sencillo como algunos piensan y lo que ha ideado Santiago para seguir haciendo lo que m&aacute;s le apasiona: cocinar.</p>
+<hr />
 <p><a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA para hacer m&aacute;s videos commo este:</a></p>
 <ul>
 <li><a href="https://mailchi.mp/3eef86616803/nopasanada" target="_blank" rel="noopener">S&uacute;scribete a nuestro bolet&iacute;n diario</a></li>
@@ -58,7 +60,7 @@ featured{kmkv} {
     highlightColor #00FFFF
 }
 type video
-subtitle ¡Esta semana estamos celebrando nuestro primer aniversario como NO PASA NADA! Y al mismo tiempo vimos cómo una mega-corporación posiblemente se vio inspirada por nuestros esfuerzos. Además una cuestionable compra de mascarillas por la CCSS, la entrega de mascarillas de China a partidos políticos y un poco de otras cosas importantes que pasaron en Costa Rica. Gracias por hacer este año lo que fue y lo que viene.
+subtitle 
 month 08
 tags{array} guida
 videoID EatY0c1gO7w
