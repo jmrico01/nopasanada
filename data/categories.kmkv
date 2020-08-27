@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/24-lebron-james-indignado-por-ataque-policial
+        featured{array} /content/202008/27-ue-considera-inaceptable-enjuiciamiento-de-opositores-en-bielorrusia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/25-bomberos-ganan-terreno-ante-incendios-que-destruyen-california
+    featured{array} /content/202008/27-manifestantes-antitrracismo-homenajean-victimas-de-violencia-en-kenosha
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202008/25-corona-de-biggie-y-cartas-de-amor-de-tupac-seran-subastadas
+        featured{array} /content/202008/27-tribu-amenazada-extincion-por-covid19-en-islas-indias
     }
     video{kmkv} {
         name Video

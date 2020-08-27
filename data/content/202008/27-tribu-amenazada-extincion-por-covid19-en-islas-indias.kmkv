@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Diez miembros de una tribu amenazada de extinci&oacute;n en un archipi&eacute;lago de India, se contagiaron de covid-19, informaron este jueves las autoridades.</p>
+<p>La tribu Gran Andameneses, que vive en la peque&ntilde;a Strait Island en el archipi&eacute;lago de las Andam&aacute;n, cuenta con apenas unos cincuenta miembros, y depende por completo del gobierno indio para su subsistencia.&nbsp;</p>
+<p>El archipi&eacute;lago, que separa al Golfo de Bengala del mar de Burma, cuenta con una poblaci&oacute;n de unos 400.000 habitantes. Oficialmente se han constatado 2.268 casos de contagio y 37 muertes por covid-19.&nbsp;</p>
+<p>Las autoridades indias enviaron el domingo un equipo m&eacute;dico a Strait Island para evaluar la situaci&oacute;n, luego de que seis miembros de la tribu dieran positivo en Port Blair, capital del archipi&eacute;lago.&nbsp;</p>
+<p>Algunos miembros de la tribu suelen viajar a Port Blair, donde trabajan en la administraci&oacute;n p&uacute;blica.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"El equipo analiz&oacute; 37 muestras y cuatro miembros de la tribu dieron positivo por covid-19. "Fueron hospitalizados", se&ntilde;al&oacute; Avijit Ray, un funcionario indio.&nbsp;</p>
+<p>Se estima que unos 5.000 representantes de esta etnia viv&iacute;an all&iacute; cuando los colonos brit&aacute;nicos llegaron a fines del siglo XIX.</p>
+<p>Centenares murieron defendiendo su territorio, y otros miles sucumbieron a enfermedades importadas, como la influenza y el sarampi&oacute;n, seg&uacute;n Survival International, una oeneg&eacute; para la defensa de los pueblos ind&iacute;genas, con sede en Londres.&nbsp;</p>
+<p>Con m&aacute;s de tres millones de casos, India es oficialmente el tercer pa&iacute;s m&aacute;s afectado en el mundo por coronavirus, despu&eacute;s de Estados Unidos y Brasil. Unas 60.000 personas han muerto en India a causa de covid-19.</p>
+}
+title Tribu amenazada de extinción por covid-19 en islas indias
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/27-tribu-amenazada-extincion-por-covid19-en-islas-indias.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Diez miembros de una tribu amenazada de extinción en un archipiélago de India, se contagiaron de covid-19, informaron este jueves las autoridades.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Tribu amenazada de extinción<b>
+    text1 Tribu amenazada de extinción por covid-19 en islas indias
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
