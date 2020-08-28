@@ -1,0 +1,38 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Hombres armados atracaron este viernes un furg&oacute;n blindado en la ciudad francesa de Lyon (sureste) y se llevaron un bot&iacute;n de nueve millones de euros (10,7 millones de d&oacute;lares), inform&oacute; la fiscal&iacute;a.</p>
+<p>La furgoneta, de la compa&ntilde;&iacute;a de transporte de dinero Loomis, fue atacada por hombres armados temprano por la ma&ntilde;ana cuando sal&iacute;a de una sucursal del Banco de Francia.</p>
+<p>"Los criminales lograron huir" tras el atraco, en el cual no se report&oacute; ning&uacute;n herido, indic&oacute; la fiscal&iacute;a de Lyon. Los malhechores prendieron fuego a la furgoneta antes de irse.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Seg&uacute;n el diario regional Le Progr&egrave;s, dos camionetas bloquearon a la furgoneta. Los ladrones amenazaron a los empleados y se hicieron con el bot&iacute;n. Huyeron en dos veh&iacute;culos que fueron encontrados posteriormente incendiados en el sur de la ciudad.</p>
+<p>Se trata del mayor robo a un furg&oacute;n blindado en Francia desde 2009, cuando, tambi&eacute;n en la ciudad de Lyon, Toni Musulin huy&oacute; con 11,6 millones de euros, de los cuales se hallaron 9,1 millones.</p>
+}
+title Roban 9 millones de euros en atraco a furgoneta blindada en Francia
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/28-roban-9-millones-de-euros-en-atraco-a-furgoneta-blindada-en-francia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Hombres armados atracaron este viernes un furgón blindado en la ciudad francesa de Lyon (sureste) y se llevaron un botín de nueve millones de euros (10,7 millones de dólares), informó la fiscalía.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>9 millones de euros<b>
+    text1 Roban 9 millones de euros en atraco a furgoneta blindada en Francia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,43 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La mayor&iacute;a de los nicarag&uuml;enses refugiados o solicitantes de asilo en Costa Rica pasan hambre y solo tienen acceso a una o dos comidas por d&iacute;a, alert&oacute; este viernes el Alto Comisionado de la ONU para los Refugiados (ACNUR).</p>
+<p>"Antes de la pandemia, y gracias a las iniciativas de integraci&oacute;n local efectivas en Costa Rica, solo 3% de los refugiados com&iacute;a una vez al d&iacute;a o menos", indic&oacute; ACNUR en un comunicado.</p>
+<p>Sin embargo, "esto se ha cuadruplicado hasta 14%, seg&uacute;n una evaluaci&oacute;n humanitaria realizada por ACNUR en julio y agosto".</p>
+<p>Los migrantes han sido duramente afectados por las medidas de contenci&oacute;n adoptadas para frenar la propagaci&oacute;n de la covid-19.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La misma evaluaci&oacute;n revel&oacute; que 63% de los nicarag&uuml;enses refugiados o solicitantes de asilo solo pueden alimentarse dos veces al d&iacute;a.</p>
+<p>"Las comunidades de acogida de refugiados se enfrentan a condiciones similares y la contracci&oacute;n econ&oacute;mica en estos pa&iacute;ses har&aacute; que sea a&uacute;n m&aacute;s dif&iacute;cil para los refugiados y las comunidades de acogida recuperarse", alert&oacute; ACNUR.</p>
+<p>Seg&uacute;n el organismo, 81.000 nicarag&uuml;enses dejaron su pa&iacute;s tras la ola represiva desatada por las protestas de 2018, que demandaron la salida del presidente Daniel Ortega. De ese total, 80% se instal&oacute; en Costa Rica.</p>
+<p>Nicarag&uuml;enses asilados en otros pa&iacute;ses de la regi&oacute;n, como Panam&aacute;, M&eacute;xico y Guatemala, reportaron problemas similares, seg&uacute;n ACNUR.</p>
+<p>Muchos de ellos regresaron a su pa&iacute;s a ra&iacute;z de la p&eacute;rdida de empleo en sus pa&iacute;ses de asilo, pero enfrentaron trabas del gobierno nicarag&uuml;ense, que les exigi&oacute; prueba negativa de covid-19 para permitirles regresar.</p>
+<p>&nbsp;</p>
+}
+title Pandemia provoca hambre entre refugiados nicaragüenses en Costa Rica
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/28-pandemia-provoca-hambre-y-desesperacion-entre-refugiados-nicaraguenses-en-costa-rica.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La mayoría de los nicaragüenses refugiados o solicitantes de asilo en Costa Rica pasan hambre y solo tienen acceso a una o dos comidas por día, alertó este viernes el Alto Comisionado de la ONU para los Refugiados (ACNUR).
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Refugiados nicaragüenses en Costa Rica<b>
+    text1 Pandemia provoca hambre entre refugiados nicaragüenses en Costa Rica
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
