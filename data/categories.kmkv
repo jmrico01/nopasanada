@@ -8,7 +8,7 @@ mas{kmkv} {
     featured{array} /content/202008/13-musica-de-pato
     cine{kmkv} {
         name Cine
-        featured{array} /content/202006/lo-que-el-viento-se-llevo
+        featured{array} /content/202008/29-chadwick-boseman
     }
     historias{kmkv} {
         name Historias
@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202008/27-manifestantes-antitrracismo-homenajean-victimas-de-violencia-en-kenosha
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202008/27-tribu-amenazada-extincion-por-covid19-en-islas-indias
+        featured{array} /content/202008/29-chadwick-boseman
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202008/25-corona-de-biggie-y-cartas-de-amor-de-tupac-seran-subastadas
+    featured{array} /content/202008/29-chadwick-boseman
 }
 other{kmkv} {
     name Other (Internal)
