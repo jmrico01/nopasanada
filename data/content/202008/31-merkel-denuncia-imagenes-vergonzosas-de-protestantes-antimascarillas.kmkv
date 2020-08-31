@@ -1,0 +1,44 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Angela Merkel denunci&oacute; el lunes las "im&aacute;genes vergonzosas" del intento de los manifestantes antimascarillas de entrar el s&aacute;bado por la fuerza en el edificio del Reichstag, la sede del parlamento alem&aacute;n.</p>
+<p>"Este fin de semana tuvimos un ejemplo de la manera como la libertad de manifestarse puede sufrir abusos", dijo a la prensa el portavoz del gobierno, Steffen Seibert.</p>
+<p>"Naturalmente este derecho a manifestarse pac&iacute;ficamente es un logro precioso, incluso en tiempos de pandemia" de nuevo coronavirus, a&ntilde;adi&oacute;.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"Sin embargo este derecho fue claramente ultrajado este fin de semana", dijo Seibert, hablando "en nombre del gobierno y de la canciller" Merkel.</p>
+<p>Varios centenares de manifestantes forzaron el s&aacute;bado las barreras para subirse a las escaleras del edificio del Reichstag.</p>
+<p>En el &uacute;ltimo momento las fuerzas de seguridad evitaron que entraran utilizando aerosoles para dispersar a la muchedumbre y detuvieron a varias personas.</p>
+<p>Las im&aacute;genes crearon indignaci&oacute;n en Alemania.</p>
+<p>"El resultado son im&aacute;genes vergonzosas, inaceptables" del intento de irrupci&oacute;n en el edificio del Reichstag por parte de "antidem&oacute;cratas" dijo Seibert.</p>
+<p>El Reichstag, donde se re&uacute;nen los diputados alemanes en sesi&oacute;n plenaria, es un lugar muy simb&oacute;lico de Alemania.</p>
+<p>El edificio y su c&eacute;lebre c&uacute;pula fueron incendiados en 1933 por los nazis, un acto que ten&iacute;a el objetivo de atentar contra la democracia alemana.</p>
+<p>Por su parte el presidente de la Rep&uacute;blica Federal, Frank-Walter Steinmeier, dijo que "la violencia de extrema derecha durante la manifestaci&oacute;n del s&aacute;bado en Berl&iacute;n asust&oacute; e indign&oacute; con toda la raz&oacute;n a muchas personas".</p>
+}
+title Merkel denuncia "imágenes vergonzosas" de protestantes antimascarillas
+day 31
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202008/headers/31-merkel-denuncia-imagenes-vergonzosas-de-protestantes-antimascarillas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Angela Merkel denunció el lunes las "imágenes vergonzosas" del intento de los manifestantes antimascarillas de entrar el sábado por la fuerza en el edificio del Reichstag, la sede del parlamento alemán.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Merkel denuncia protestas<b>
+    text1 Merkel denuncia "imágenes vergonzosas" de protestantes antimascarillas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

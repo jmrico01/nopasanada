@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202008/24-lebron-james-indignado-por-ataque-policial
+        featured{array} /content/202008/31-trump-biden-se-culpan-mutuamente-por-violencia-en-eeuu
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202008/27-ue-considera-inaceptable-enjuiciamiento-de-opositores-en-bielorrusia
+        featured{array} /content/202008/31-merkel-denuncia-imagenes-vergonzosas-de-protestantes-antimascarillas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/27-manifestantes-antitrracismo-homenajean-victimas-de-violencia-en-kenosha
+    featured{array} /content/202008/31-isla-italiana-saturada-por-migrantes
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202008/29-chadwick-boseman
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202008/29-chadwick-boseman
+    featured{array} /content/202008/31-merkel-denuncia-imagenes-vergonzosas-de-protestantes-antimascarillas
 }
 other{kmkv} {
     name Other (Internal)
