@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Solamente uno de cada tres alumnos en el mundo vuelve al colegio en este fin de verano boreal, y los dem&aacute;s siguen "sin colegio" o "en la incertidumbre" causada por el covid-19, indic&oacute; la Unesco en un comunicado.</p>
+<p>Sobre un total de 1.500 millones de ni&ntilde;os escolarizados, desde la pre-primaria hasta la secundaria en el mundo, 900 millones deber&iacute;an retornar a la escuela entre agosto y octubre, pues los dem&aacute;s tienen otro calendario escolar.</p>
+<p>Unos 128 millones ya est&aacute;n en su nueva clase y 433 millones m&aacute;s, de 155 pa&iacute;ses, lo har&aacute;n en las pr&oacute;ximas semanas, es decir un total de 561 millones de alumnos, precisa la Organizaci&oacute;n de Naciones Unidas para la Educaci&oacute;n, la Ciencia y la Cultura.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Pero cerca de 1.000 millones de alumnos, es decir dos tercios de la poblaci&oacute;n escolar mundial, siguen "sin escuela o en situaci&oacute;n de incertidumbre" precisa la Unesco, en este d&iacute;a de vuelta al colegio en varios pa&iacute;ses europeos.</p>
+<p>En efecto, "m&aacute;s de la mitad de los 900 millones de alumnos que empiezan el nuevo a&ntilde;o escolar debe seguir una ense&ntilde;anza a distancia, de forma total o parcial".</p>
+<p>La Unesco se alarma por esta situaci&oacute;n --escuelas cerradas, ense&ntilde;anza a distancia, incertidumbres, desescolarizaci&oacute;n-- y advierte que puede causar un impacto en las poblaciones m&aacute;s vulnerables, en especial en las ni&ntilde;as.</p>
+<p>Por ello insta a las autoridades educativas a garantizar un r&aacute;pido retorno a la escuela, adoptando medidas para la salud y la seguridad de los alumnos y del personal docente.</p>
+<p>"La crisis de la educaci&oacute;n sigue siendo grave" declar&oacute; Audrey Azoulay, directora general de la Unesco, citada en el comunicado.</p>
+<p>&nbsp;</p>
+}
+title Solo un tercio de estudiantes vuelve al colegio por el covid-19
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/1-solo-un-tercio-de-estudiantes-vuelve-al-colegio.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Solamente uno de cada tres alumnos en el mundo vuelve al colegio en este fin de verano boreal, y los demás siguen "sin colegio" o "en la incertidumbre" causada por el covid-19, indicó la Unesco en un comunicado.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Solo un tercio de estudiantes<b>
+    text1 Solo un tercio de estudiantes vuelve al colegio por el covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

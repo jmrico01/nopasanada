@@ -1,0 +1,40 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Centenares de estudiantes marcharon en Minsk este martes, d&iacute;a de inicio del a&ntilde;o acad&eacute;mico, denunciando el poder autoritario del presidente Alexander Lukashenko, enfrentado desde hace casi un mes a un desaf&iacute;o de protestas sin precedentes.&nbsp;</p>
+<p>La polic&iacute;a antidisturbios detuvo a una decena de j&oacute;venes en momentos en que intentaban formar una cadena humana en pleno centro de la capital de la ex rep&uacute;blica sovi&eacute;tica. "Fascistas", "Esta es nuestra ciudad", "Creemos, podemos, llegaremos", coreaban los estudiantes.&nbsp;</p>
+<p>Este desfile, organizado el 1 de septiembre, d&iacute;a tradicional de regreso a clases en toda la ex URSS, reuni&oacute; a estudiantes de distintas universidades de Minsk.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La juventud bielorrusa constituye uno de los pilares de la movilizaci&oacute;n contra Lukashenko, de 66 a&ntilde;os, desde su reciente reelecci&oacute;n, el 9 de agosto, considerada fraudulenta por sus opositores.</p>
+<p>La consulta cuestionada desat&oacute; una ola de protestas sin precedentes contra el l&iacute;der autoritario, quien ejerce el poder desde 1994, con tres domingos seguidos en que hubo manifestaciones que concentraron a unas 100.000 personas cada una solamente en Minsk.&nbsp;</p>
+<p>Las autoridades rechazan todo di&aacute;logo con la oposici&oacute;n y han aumentado los arrestos de pol&iacute;ticos y periodistas, as&iacute; como se han registrado huelgas. No obstante, las autoridades ya no han reprimido violentamente las protestas como en las primeras jornadas, en que hubo tres muertos y decenas de heridos.&nbsp;</p>
+<p>Lukashenko hasta el momento solamente ha propuesto un vago proyecto de reforma constitucional para intentar salir de la crisis, en tanto califica a los manifestantes de "ratas", exhibi&eacute;ndose con chaleco anti-balas y un fusil de asalto junto a las fuerzas antidisturbios que enfrentan a las manifestaciones.</p>
+}
+title Estudiantes bielorrusos protestan contra Lukashenko en primer día de clases
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/1-estudiantes-bielorrusos-marchan-contra-lukashenko.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Centenares de estudiantes marcharon en Minsk este martes, día de inicio del año académico, denunciando el poder autoritario del presidente Alexander Lukashenko, enfrentado desde hace casi un mes a un desafío de protestas sin precedentes.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Estudiantes bielorrusos<b>
+    text1 Estudiantes bielorrusos protestan contra Lukashenko en primer día de clases
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
