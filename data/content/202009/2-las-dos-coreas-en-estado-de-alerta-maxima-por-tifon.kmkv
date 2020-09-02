@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Las dos Coreas est&aacute;n en estado de alerta m&aacute;xima este mi&eacute;rcoles ante la proximidad de un tif&oacute;n que podr&iacute;a ser uno de los m&aacute;s potentes de los &uacute;ltimos a&ntilde;os.</p>
+<p>M&aacute;s de 300 vuelos internos fueron cancelados el mi&eacute;rcoles en Corea del Sur, ante la cercan&iacute;a del tif&oacute;n Maysak, que se acerca a la pen&iacute;nsula y provoca ya fort&iacute;simos vientos.</p>
+<p>El primer ministro surcoreano, Chung Sye-kyun, dijo que el tif&oacute;n, por su magnitud, se compara con el registrado en 2003, que provoc&oacute; la muerte de 131 personas y millonarias p&eacute;rdidas materiales.</p>
+<p>"Estamos muy preocupados", dijo.</p>
+<p>Maysak tiene previsto tocar tierra el mi&eacute;rcoles por la tarde en la costa sur de Corea y el jueves en Corea del Norte.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"Los vientos pueden ganar fuerza" el mi&eacute;rcoles por la tarde, seg&uacute;n los servicios meteorol&oacute;gicos de Corea del Sur.</p>
+<p>Los desastres naturales son temidos en Corea del Norte, cuyas infraestructuras son fr&aacute;giles. El pa&iacute;s es adem&aacute;s terreno abonado para las inundaciones, debido a la importante deforestaci&oacute;n que ha sufrido su territorio.</p>
+<p>Los medios oficiales de Pyongyang informaron de que se han tomado "medidas urgentes" para minimizar los da&ntilde;os que este tif&oacute;n podr&iacute;a provocar.</p>
+<p>Maysak es el segundo tif&oacute;n que golpea la pen&iacute;nsula de Corea en una semana.</p>
+}
+title Las dos Coreas en estado de alerta máxima por tifón
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/2-las-dos-coreas-en-estado-de-alerta-maxima-por-tifon.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Las dos Coreas están en estado de alerta máxima este miércoles ante la proximidad de un tifón que podría ser uno de los más potentes de los últimos años.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Tifón en Corea<b>
+    text1 Las dos Coreas en estado de alerta máxima por tifón
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,noticias-politica,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

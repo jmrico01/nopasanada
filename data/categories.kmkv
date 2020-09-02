@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202008/25-tormenta-laura-se-convierte-en-huracan-en-el-golfo-de-mexico
+        featured{array} /content/202009/2-las-dos-coreas-en-estado-de-alerta-maxima-por-tifon
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202008/31-trump-biden-se-culpan-mutuamente-por-violencia-en-eeuu
+        featured{array} /content/202009/2-rusia-intensifica-poyo-a-gobierno-bielorruso
     }
     loimportante{kmkv} {
         name Lo Importante
         featured{array} /content/202008/31-merkel-denuncia-imagenes-vergonzosas-de-protestantes-antimascarillas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202008/31-isla-italiana-saturada-por-migrantes
+    featured{array} /content/202009/2-las-dos-coreas-en-estado-de-alerta-maxima-por-tifon
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202008/29-chadwick-boseman
+        featured{array} /content/202009/2-comienza-en-francia-juicio-por-atentado-de-charlie-hebdo
     }
     video{kmkv} {
         name Video

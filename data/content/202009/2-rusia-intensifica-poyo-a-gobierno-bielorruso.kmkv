@@ -1,0 +1,52 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Rusia anunci&oacute; este mi&eacute;rcoles la visita a Bielorrusia de su primer ministro y una pr&oacute;xima reuni&oacute;n entre Vladimir Putin y Alexandre Lukashenko, reforzando su apoyo al presidente bielorruso en medio de una oleada de protestas en su contra.&nbsp;</p>
+<p>El primer ministro ruso, Mij&aacute;il Mishustin, llegar&aacute; el jueves a Minsk, en la primera visita de un funcionario ruso de tan alto rango a Bielorrusia desde el inicio de la crisis pol&iacute;tica, que sacude al pa&iacute;s desde hace casi un mes.&nbsp;</p>
+<p>Lukashenko, de 66 a&ntilde;os, de los cuales ha estado 26 al frente de Bielorrusia, se niega a dialogar con sus opositores, a pesar de las protestas casi diarias - algunas enormes (los domingos en particular)-, que denuncian como fraudulenta su reelecci&oacute;n en las presidenciales del 9 de agosto.&nbsp;</p>
+<p>Hasta ahora, solamente ha mencionado una vaga idea de una revisi&oacute;n constitucional para responder al descontento popular, enfoque que Mosc&uacute; considera adecuado en las circunstancias actuales, en tanto contin&uacute;a la represi&oacute;n.&nbsp;</p>
+<p>Al recibir a su hom&oacute;logo bielorruso, Vladimir Makei, en Mosc&uacute;, el jefe de la diplomacia rusa, Sergu&eacute;i Lavrov, indic&oacute; este mi&eacute;rcoles que Putin recibir&aacute; a Lukashenko "en las pr&oacute;ximas dos semanas".</p>
+<p>Tambi&eacute;n retom&oacute; su tono categ&oacute;rico denunciando intentos de "desestabilizar" a Bielorrusia y "declaraciones destructivas" provenientes de Ucrania, la OTAN y la Uni&oacute;n Europea.&nbsp;</p>
+<p>Asimismo, consider&oacute; "intolerable" la idea de una mediaci&oacute;n extranjera entre el poder y la oposici&oacute;n, excluyendo todo di&aacute;logo con &eacute;sta.&nbsp;</p>
+<p>Makei se congratul&oacute; por la actitud "ponderada" de Mosc&uacute;, que en los primeros d&iacute;as de la crisis expres&oacute; un tibio apoyo a Lukashenko.&nbsp;</p>
+<p>Rusia ha dado cada vez m&aacute;s se&ntilde;ales de apoyo al presidente bielorruso, al tiempo que intensifica sus ataques denunciando un complot occidental en su contra.&nbsp;</p>
+<p>Cuando las relaciones ruso-bielorrusas estaban considerablemente tensas en la primavera y el inicio del verano (boreales), Lukashenko acusaba a Mosc&uacute; de intentar derrocarlo para convertir a su pa&iacute;s en un vasallo, e inclusive anexarlo.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Pero, tras las elecciones presidenciales multitudes sin precedentes protestan contra el autoritario presidente bielorruso, quien ha solicitado a Rusia que acuda en su ayuda.&nbsp;</p>
+<p>Tambi&eacute;n agradeci&oacute; calurosamente a la cadena p&uacute;blica rusa RT -considerada por los Estados occidentales un arma de propaganda del Kremlin-, "por (su) apoyo".&nbsp;</p>
+<p>El hombre fuerte de Bielorrusia ha proclamado p&uacute;blicamente que "jam&aacute;s le dio la espalda a Rusia", inclusive argumentando que bielorrusos y rusos tienen una "patria" com&uacute;n.&nbsp;</p>
+<p>Putin ya prometi&oacute; enviar fuerzas rusas a Bielorrusia si los enfrentamientos se intensifican, pero ahora Minsk tambi&eacute;n est&aacute; pidiendo ayuda econ&oacute;mica, a causa de la crisis provocada por la disputa con la oposici&oacute;n, las sanciones impuestas por pa&iacute;ses vecinos y la crisis sanitaria de covid-19.&nbsp;</p>
+<p>De esta manera, Bielorrusia busca reestructurar su deuda, un levantamiento de las restricciones de traslados entre los dos pa&iacute;ses debido a la pandemia del coronavirus, y alternativas a sus rutas mar&iacute;timas comerciales que pasan por los puertos del mar B&aacute;ltico.</p>
+<p>Mosc&uacute; afirm&oacute; estar estudiando todos estos asuntos y denunci&oacute; las sanciones "inaceptables" impuestas por Lituania, Estonia y Letonia contra Lukashenko y 29 altos funcionarios.&nbsp;</p>
+<p>La UE tambi&eacute;n considera imponer prohibiciones de entrada y bloqueo de activos a funcionarios bielorrusos, pero el listado no es un&aacute;nime y requiere la aprobaci&oacute;n de los 27 Estados miembros.&nbsp;</p>
+<p>Las autoridades bielorrusas contin&uacute;an deteniendo a pol&iacute;ticos, huelguistas, periodistas y manifestantes.&nbsp;</p>
+<p>A pesar de ello, durante tres semanas seguidas, los d&iacute;as domingo, unas 100.000 personas se han lanzado a las calles de Minsk para denunciar al r&eacute;gimen, y cotidianamente se realizan protestas menos numerosas.</p>
+}
+title Rusia intensifica su apoyo al presidente de Bielorrusia
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/2-rusia-intensifica-poyo-a-gobierno-bielorruso.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Rusia anunció este miércoles la visita a Bielorrusia de su primer ministro y una próxima reunión entre Vladimir Putin y Alexandre Lukashenko, reforzando su apoyo al presidente bielorruso en medio de una oleada de protestas en su contra.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Rusia apoya a Lukashenko<b>
+    text1 Rusia intensifica su apoyo al presidente de Bielorrusia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
