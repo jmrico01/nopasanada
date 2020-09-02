@@ -71,7 +71,7 @@ noticias{kmkv} {
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202008/27-lo-importante-video
+        featured{array} /content/202009/01-lo-importante-video
     }
 }
 coleccion{kmkv} {
