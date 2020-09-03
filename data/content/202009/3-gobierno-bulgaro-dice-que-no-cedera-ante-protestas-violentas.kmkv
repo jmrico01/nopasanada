@@ -1,0 +1,45 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El primer ministro conservador de Bulgaria, Boiko Borisov, seguir&aacute; en su puesto pese a la violencia que empa&ntilde;&oacute; la noche del mi&eacute;rcoles al jueves las manifestaciones anticorrupci&oacute;n que afectan desde hace dos meses al pa&iacute;s, seg&uacute;n afirm&oacute; su partido pol&iacute;tico.</p>
+<p>"Tras los excesos de ayer, no dimitiremos porque querr&iacute;a decir que cualquier gobierno deber&iacute;a ceder ante la presi&oacute;n de los alborotadores", dijo en el parlamento un dirigente del Gerb, la formaci&oacute;n en el poder, Toma Bikov.</p>
+<p>Seg&uacute;n la polic&iacute;a, 126 personas, 62 de ellas ya conocidas por las fuerzas de seguridad, fueron detenidas. Ochenta polic&iacute;as resultaron heridos y los agentes recurrieron por primera vez a aerosoles de gas pimienta para dispersar a los manifestantes.</p>
+<p>Algunos de los manifestantes fueron rodeados y golpeados, seg&uacute;n un fot&oacute;grafo que trabaja para la AFP y que result&oacute; herido.</p>
+<p>"Estos choques permiten al gobierno marcar un punto con la opini&oacute;n p&uacute;blica", coment&oacute; el polit&oacute;logo Dimitar Ganev en la televisi&oacute;n b&uacute;lgara.</p>
+<p>"El umbral de intolerancia fue superado (...) Hemos levantado los bloqueos porque elementos criminales hab&iacute;an almacenado material peligroso", incluyendo c&oacute;cteles molotov, declar&oacute; el jueves a la prensa el director de la polic&iacute;a en Sof&iacute;a, Gueorgui Hadjiev.</p>
+<p>Desde hace m&aacute;s de un mes los opositores ocupaban tres cruces de v&iacute;as en Sof&iacute;a.</p>
+<p>"Algunos manifestantes, entre ellos hinchas ultras de f&uacute;tbol, agredieron brutalmente" a la polic&iacute;a, lament&oacute; el responsable Hadjiev.&nbsp;</p>
+<p>"Les atacaron con medios pirot&eacute;cnicos, bombas artesanales, piedras y adoquines", a&ntilde;adi&oacute;.</p>
+<p>Impotentes frente a los excesos, los organizadores de las manifestaciones hablaron de "provocaciones" y sus llamamientos a la calma no fueron escuchados.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Reclaman la dimisi&oacute;n del primer ministro, al que acusan de cerrar los ojos ante la corrupci&oacute;n.</p>
+<p>El movimiento de protesta tom&oacute; por primera vez desde hace dos meses un giro violento, constataron periodistas de la AFP, tras la obtenci&oacute;n por parte del gobierno el mi&eacute;rcoles del aval del parlamento para lanzar un controvertido proyecto de reforma de la Constituci&oacute;n.</p>
+}
+title Gobierno búlgaro dice que no cederá ante protestas violentas
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/3-gobierno-bulgaro-dice-que-no-cedera-ante-protestas-violentas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El primer ministro conservador de Bulgaria, Boiko Borisov, seguirá en su puesto pese a la violencia que empañó la noche del miércoles al jueves las manifestaciones anticorrupción que afectan desde hace dos meses al país, según afirmó su partido político.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Protestas en Bulgaria<b>
+    text1 Gobierno búlgaro dice que no cederá ante protestas violentas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
