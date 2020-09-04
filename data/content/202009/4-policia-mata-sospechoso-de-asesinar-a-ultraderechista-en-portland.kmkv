@@ -1,0 +1,44 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La polic&iacute;a mat&oacute; el jueves por la noche en el estado de Washington al sospechoso de asesinar a un militante de extrema derecha durante manifestaciones en Portland, en el oeste de Estados Unidos, dijeron el viernes autoridades locales.</p>
+<p>El hombre, de 48 a&ntilde;os, activista de izquierda e identificado como Michael Forest Reinoehl, seg&uacute;n los medios, fue abatido la noche del jueves por agentes, confirm&oacute; a la AFP un portavoz policial del condado de Thurston, al suroeste de Seattle.&nbsp;</p>
+<p>El sospechoso, cuyos desplazamientos estaban siendo vigilados, sali&oacute; de su apartamento y cuando se acerc&oacute; a su auto los agentes intentaron arrestarlo, seg&uacute;n el teniente Ray Brady.</p>
+<p>El hombre parec&iacute;a estar armado e intent&oacute; huir, seg&uacute;n los polic&iacute;as que estaban all&iacute;. Cuatro agentes le dispararon varias veces, inform&oacute; Brady.</p>
+<p>Una investigaci&oacute;n, que puede demorar meses, fue abierta y de momento no se confirm&oacute; el hallazgo del arma.</p>
+<p>Reinoehl era buscado por la muerte de Aaron Danielson, de 39 a&ntilde;os, partidario de un grupo de extrema derecha llamado Patriot Prayer. Danielson muri&oacute; a tiros el 29 de agosto durante enfrentamientos entre manifestantes antirracistas y pro-Trump.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Reinoehl, quien en las redes sociales se autoproclamaba "antifacista", concedi&oacute; una entrevista a la revista estadounidense Vice en la que pareci&oacute; admitir el asesinato de Danielson.&nbsp;</p>
+<p>En esa entrevista dijo que no hab&iacute;a tenido "otra opci&oacute;n". "Hubiera podido quedarme all&iacute; y ver c&oacute;mo mataban a un amigo m&iacute;o; un hombre de color. Pero no iba a hacer eso", afirm&oacute;.</p>
+<p>Desde hace 100 d&iacute;as la ciudad de Portland es escenario de manifestaciones contra el racismo y la brutalidad policial que a menudo terminan en choques con las fuerzas de seguridad.</p>
+<p>Poco antes de conocerse la muerte de Reinoehl, el presidente Donald Trump escribi&oacute; en Twitter: "&iquest;Por qu&eacute; la polic&iacute;a de Portland no detuvo a quien mat&oacute; a sangre fr&iacute;a a Aaron 'Jay' Danielson?".</p>
+<p>"Hagan su trabajo y h&aacute;ganlo r&aacute;pido. Todos saben qui&eacute;n es ese mat&oacute;n. No sorprende que Portland haya descendido a los infiernos", a&ntilde;adi&oacute; Trump.</p>
+}
+title Policía mata sospechoso de asesinar a ultraderechista en Portland
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/4-policia-mata-sospechoso-de-asesinar-a-ultraderechista-en-portland.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La policía mató el jueves por la noche en el estado de Washington al sospechoso de asesinar a un militante de extrema derecha durante manifestaciones en Portland, en el oeste de Estados Unidos, dijeron el viernes autoridades locales.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Policía mata sospechoso en Portland<b>
+    text1 Policía mata sospechoso de asesinar a ultraderechista en Portland
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

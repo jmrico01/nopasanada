@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202008/17-espana-registra-16000-nuevos-contagios
+        featured{array} /content/202009/4-oms-espera-vacunacion-generalizada-para-mediados-de-2021
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/2-rusia-intensifica-poyo-a-gobierno-bielorruso
+        featured{array} /content/202009/4-despedida-sin-lagrimas-a-victimas-de-covid19-en-venezuela
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/02-el-novichok
+        featured{array} /content/202009/4-oms-espera-vacunacion-generalizada-para-mediados-de-2021
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/2-las-dos-coreas-en-estado-de-alerta-maxima-por-tifon
+    featured{array} /content/202009/4-policia-mata-sospechoso-de-asesinar-a-ultraderechista-en-portland
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202009/2-comienza-en-francia-juicio-por-atentado-de-charlie-hebdo
+        featured{array} /content/202009/4-protestas-en-portland-se-mantienen-cien-dias-despues-de-muerte-de-george-floyd
     }
     video{kmkv} {
         name Video

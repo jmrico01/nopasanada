@@ -1,0 +1,45 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Cuatro hombres con trajes especiales cargan un at&aacute;ud con una de las v&iacute;ctimas de covid-19 en Venezuela. Se dirigen hacia una fosa com&uacute;n ofrecida a familias que no puedan costear los gastos de una cremaci&oacute;n. Es una despedida sin l&aacute;grimas, solitaria.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Los costos de los servicios crematorios promedian los 200 d&oacute;lares, un monto impagable para la mayor&iacute;a en un pa&iacute;s con seis a&ntilde;os de recesi&oacute;n y marcada inflaci&oacute;n donde el salario m&iacute;nimo est&aacute; por debajo de los 3 d&oacute;lares.</p>
+<p>Desde que la pandemia lleg&oacute; a Venezuela en marzo pasado, 16 personas han sido enterradas en esta fosa del cementerio municipal de San Crist&oacute;bal, desde donde pueden verse las monta&ntilde;as de los Andes. Ning&uacute;n deudo puede presenciar la inhumaci&oacute;n por protocolos sanitarios.&nbsp;</p>
+<p>La regla es especialmente dif&iacute;cil de cumplir en esta regi&oacute;n donde suele despedirse a los difuntos en velorios escenificados en casas y en los que se congregan decenas de acompa&ntilde;antes entre familiares, amigos y vecinos durante dos o m&aacute;s d&iacute;as.</p>
+<p>"La familia no puede estar a la hora del entierro, &iquest;por qu&eacute;?, porque esto es protocolo de seguridad que nosotros manejamos, solamente estamos los sepultureros", cuenta Ferm&iacute;n P&eacute;rez, quien lleva 30 a&ntilde;os en el cementerio de San Crist&oacute;bal.</p>
+<p>Ronald Zerpa, director de protecci&oacute;n Civil de la zona, indica que el protocolo incluye un proceso de desinfecci&oacute;n del personal y del veh&iacute;culo que traslada el cad&aacute;ver, rociando una soluci&oacute;n a base de hipoclorito.</p>
+<p>Se roc&iacute;a con el mismo l&iacute;quido el ata&uacute;d y las bolsas donde va el cad&aacute;ver. "El sitio donde se sepultan los cuerpos son tierras municipales (propiedad de la Alcal&iacute;a)", dice Zerpa.</p>
+<p>El temor al contagio est&aacute; presente. Ferm&iacute;n se ba&ntilde;a en el patio antes de entrar a la casa que comparte con su esposa y sus tres hijos.</p>
+<p>"Siempre est&aacute; el susto, pero como tenemos buenos implementos de seguridad eso le da un poco de confianza", sostiene este trabajador que en principio no pens&oacute; que la pandemia llegar&iacute;a a Venezuela.</p>
+<p>Luego de ser enterrados, "los familiares pueden traer una cruz con el nombre del familiar y se le colocar&aacute;" para identificar al muerto, comenta Ren&eacute; P&eacute;rez, coordinador del cementerio.</p>
+<p>El lugar est&aacute; cerca de llegar a su l&iacute;mite, por lo que est&aacute; en planes habilitar un nuevo terreno como cementerio.</p>
+<p>Seg&uacute;n cifras oficiales, los casos de covid-19 en Venezuela se acercan a 50.000 y las muertes a 402, pero tanto la oposici&oacute;n como varias oeneg&eacute;s consideran que los reportes del gobierno socialista ocultan una realidad mucho peor.</p>
+}
+title Despedida sin lágrimas a víctimas de covid-19 en Venezuela
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/4-despedida-sin-lagrimas-a-victimas-de-covid19-en-venezuela.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Cuatro hombres con trajes especiales cargan un atáud con una de las víctimas de covid-19 en Venezuela. Se dirigen hacia una fosa común ofrecida a familias que no puedan costear los gastos de una cremación. Es una despedida sin lágrimas, solitaria.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Muertes por covid en Venezuela<b>
+    text1 Despedida sin lágrimas a víctimas de covid-19 en Venezuela
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La Organizaci&oacute;n Mundial de la Salud (OMS) afirm&oacute; el viernes que no espera una vacunaci&oacute;n generalizada contra el covid-19 antes de mediados de 2021, en momentos en que se aceleran en Estados Unidos los preparativos para distribuir una vacuna.</p>
+<p>"Un n&uacute;mero considerable de candidatos ha entrado ahora en la fase 3 de los ensayos. Conocemos al menos de seis a nueve que ya han recorrido un buen trecho en t&eacute;rminos de investigaci&oacute;n", declar&oacute; una portavoz de la OMS, Margaret Harris, en reuni&oacute;n con la prensa en Ginebra.</p>
+<p>"Pero en t&eacute;rminos de calendario realista, no esperamos ver una vacunaci&oacute;n generalizada antes de mediados del a&ntilde;o pr&oacute;ximo", agreg&oacute;.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La portavoz explic&oacute; que la fase 3 de los ensayos cl&iacute;nicos --es decir la etapa de test masivos con voluntarios-- llevaba tiempo pues los cient&iacute;ficos deben verificar que las vacunas son eficaces y seguras.</p>
+<p>Existe una gran competencia para poner a punto una vacuna contra el covid-19.</p>
+<p>En Estados Unidos, pa&iacute;s con mayor n&uacute;mero de muertos del mundo, los Centros de Prevenci&oacute;n y Lucha contra las Enfermedades (CDC) pidieron "urgentemente" a los Estados que hagan lo necesario para que los centros de distribuci&oacute;n de una futura vacuna puedan estar "completamente operativos antes del 1 de noviembre de 2020", es decir justo antes de la elecci&oacute;n presidencial.</p>
+<p>A fines de agosto, el presidente estadounidense, Donald Trump, hab&iacute;a prometido una vacuna para "este a&ntilde;o" contra el covid-19.</p>
+<p>En Ginebra, Soumya Swaminathan, cient&iacute;fica jefe de la OMS, explic&oacute; esta semana que la organizaci&oacute;n trabaja con expertos de todo el mundo para "proponer criterios" en materia de seguridad y eficacia de las futuras vacunas.</p>
+<p>"Nos gustar&iacute;a ver una vacuna con una eficacia de al menos 50%, y de preferencia mayor", asegur&oacute;.</p>
+}
+title OMS espera una vacunación generalizada contra covid-19 para mediados de 2021
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/4-oms-espera-vacunacion-generalizada-para-mediados-de-2021.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La Organización Mundial de la Salud (OMS) afirmó el viernes que no espera una vacunación generalizada contra el covid-19 antes de mediados de 2021, en momentos en que se aceleran en Estados Unidos los preparativos para distribuir una vacuna.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>OMS vacunación generalizada<b>
+    text1 OMS espera una vacunación generalizada contra covid-19 para mediados de 2021
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
