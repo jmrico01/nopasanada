@@ -1,0 +1,50 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>India se convirti&oacute; este lunes en el segundo pa&iacute;s del mundo con m&aacute;s casos de coronavirus, por detr&aacute;s de Estados Unidos, pues su balance super&oacute; al de Brasil, en un contexto de progresi&oacute;n global de la pandemia.</p>
+<p>En India, segunda naci&oacute;n m&aacute;s poblada del planeta con 1.300 millones de habitantes, se registraron 4,2 millones de infecciones de covid-19 desde el inicio de la pandemia, seg&uacute;n el Ministerio indio de Salud, mientras que en Brasil se registraron 4,12 millones y en Estados Unidos, 6,25 millones de contagios, seg&uacute;n cifras compiladas por la AFP a partir de datos oficiales.</p>
+<p>A pesar de estas inquietantes cifras, India no ha interrumpido el proceso de desconfinamiento.</p>
+<p>El lunes, el metro volvi&oacute; a circular en la mayor&iacute;a de las ciudades, incluidas Nueva Delhi y Bombay, dos importantes focos epid&eacute;micos, tras permanecer cerrados casi seis meses.</p>
+<p>La tasa de crecimiento de nuevos casos progresa a un ritmo "bastante alarmante", indic&oacute; el vir&oacute;logo Shahid Jameel, de la Wellcome Trust/DBT IndiaAlliance.</p>
+<p>"En las &uacute;ltimas dos semanas, el promedio pas&oacute; de alrededor de 65.000 a 83.000 casos por d&iacute;a, o sea un aumento de alrededor de 27% en dos semanas y de 2% por d&iacute;a", dijo Jameel.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>El gobierno indio da cuenta de 71.642 fallecimientos debido a la pandemia de covid-19, por debajo de Brasil con 126.203 muertos y Estados Unidos que suma 188.540.</p>
+<p>Sin embargo, muchos expertos piensan que las cifras de casos y de fallecidos est&aacute;n subestimadas debido al n&uacute;mero relativamente bajo de tests y a que las causas de deceso son a menudo mal se&ntilde;aladas.</p>
+<p>India, que cuenta con algunas de las ciudades m&aacute;s densamente pobladas del mundo, es el pa&iacute;s que registra la cantidad m&aacute;s elevada de nuevos casos diarios.</p>
+<p>El n&uacute;mero de casos super&oacute; el s&aacute;bado la barrera de los cuatro millones, apenas 13 d&iacute;as despu&eacute;s de haber franqueado la de los tres millones.</p>
+<p>India realiza m&aacute;s de 10 millones de test diarios y espera aumentar el n&uacute;mero de prueba en los pr&oacute;ximos d&iacute;as.</p>
+<p>El Consejo Indio de Investigaci&oacute;n M&eacute;dica, que coordina la respuesta gubernamental, anunci&oacute; que de ahora en adelante no ser&aacute; necesario contar con una receta m&eacute;dica para hacer el test.</p>
+<p><strong>Casos asintom&aacute;ticos </strong></p>
+<p>"Eso va a permitir descubrir m&aacute;s casos asintom&aacute;ticos, que son la fuente real de esta progresi&oacute;n en India", declar&oacute; Jameel.</p>
+<p>"Habr&aacute; que realizar mas tests en los distritos y aldeas rurales ya que dos tercios de los casos provienen de ah&iacute;", agreg&oacute;.</p>
+<p>Debido al covid-19, India registr&oacute; entre abril y junio de este a&ntilde;o una ca&iacute;da de 23,9% del PIB.</p>
+<p>La situaci&oacute;n en India coincide con la tendencia en varios otros pa&iacute;ses donde la epidemia --tras una aparente contenci&oacute;n al final de la primavera boreal-- provoca ahora nuevas contaminaciones, con un alza alarmante de &eacute;stas, particularmente en Europa, en per&iacute;odo de la vuelta al colegio, la universidad o el trabajo tras las vacaciones de verano en el hemisferio norte.</p>
+}
+title India supera a Brasil y se convierte en segundo país del mundo con más casos de coronavirus
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/7-india-se-convierte-en-segundo-pais-con-mas-contagios-de-coronavirus-superando-a-brasil.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description India se convirtió este lunes en el segundo país del mundo con más casos de coronavirus, por detrás de Estados Unidos, pues su balance superó al de Brasil, en un contexto de progresión global de la pandemia.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>India contagios<b>
+    text1 India supera a Brasil y se convierte en segundo país del mundo con más casos de coronavirus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,38 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>El l&iacute;der opositor ruso Alex&eacute;i Navalni, que seg&uacute;n Alemania fue envenenado en Rusia, sali&oacute; del coma artificial y va a dejar de usar el respirador artificial "por etapas", anunci&oacute; el lunes el hospital de la Charit&eacute; en Berl&iacute;n.</p>
+<p>"Reacciona cuando se le habla", dijo en un informe el hospital en el que es tratado Navalni, de 44 a&ntilde;os, desde el 22 agosto.&nbsp;</p>
+<p>Su "estado de salud (...) ha mejorado", se&ntilde;al&oacute; el centro, uno de los m&aacute;s prestigiosos de Europa, aunque afirm&oacute; que no se pod&iacute;an "excluir" secuelas a largo plazo de "este grave envenenamiento".</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Principal opositor al Kremlin, Alex&eacute;i Navalni fue envenenado en Rusia, seg&uacute;n "pruebas inequ&iacute;vocas" mencionadas por Berl&iacute;n, con una sustancia neurot&oacute;xica de tipo Novichok, creada en la &eacute;poca sovi&eacute;tica para fines militares y que ya fue utilizada contra el exagente doble ruso Sergu&eacute;i Skripal y su hija Yulia en 2018 en Inglaterra.</p>
+<p>Navalni, un abogado de 44 a&ntilde;os conocido por sus investigaciones sobre la corrupci&oacute;n en la &eacute;lite pol&iacute;tica rusa, se sinti&oacute; mal el 20 de agosto durante un vuelo y fue ingresado urgentemente en un hospital de Omsk, en Siberia. Dos d&iacute;as m&aacute;s tarde, fue trasladado a Berl&iacute;n, a instancias de su familia.</p>
+}
+title Líder opositor ruso Navalni sale del coma artificial
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/7-lider-opositor-ruso-navalni-sale-del-coma-artificial.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El líder opositor ruso Alexéi Navalni, que según Alemania fue envenenado en Rusia, salió del coma artificial y va a dejar de usar el respirador artificial "por etapas", anunció el lunes el hospital de la Charité en Berlín.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Navalni sale de coma<b>
+    text1 Líder opositor ruso Navalni sale del coma artificial
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
