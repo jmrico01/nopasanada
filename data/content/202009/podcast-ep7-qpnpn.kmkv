@@ -1,0 +1,40 @@
+text {
+<p>En este episodio de QPNPN Pietro y Kenneth hablan en detalle sobre el terrible reportaje de 7 d&iacute;as el cual fue el tema principal del episodio de Welcome To Chepe de esta semana. Adem&aacute;s ven c&oacute;mo el ejercicio los ha ayudado con su salud mental y f&iacute;sica.</p>
+<p style="text-align: center;"><a href="https://www.patreon.com/nopasanadaoficial" target="_blank" rel="noopener"><strong>Apoyen a NO PASA NADA</strong></a></p>
+<hr />
+<p style="text-align: center;"><a href="https://anchor.fm/que-pasa-en-no-pasa-nada/episodes/004---Qu-pasa-en-NO-PASA-NADA-ehtlfm/a-a2tfo7r" target="_blank" rel="noopener"><em><strong>&iquest;Prefieren escuchar?&nbsp;</strong></em></a></p>
+<hr />
+<p><strong>Productor ejecutvio y edici&oacute;n:</strong> Pietro Cercone</p>
+<p><strong>Productor, gui&oacute;n y hosts:</strong> Kenneth Bald&iacute; &amp; Pietro Cercone</p>
+<p><strong>Direcci&oacute;n Creativa:</strong> Lauren Gilleland</p>
+<hr />
+<p>Vea el &uacute;ltimo episodio:</p>
+<p>$youtube/BbqjzNSVQXc$</p>
+}
+title ¿Qué pasa en NO PASA NADA?
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/podcast-ep7-qpnpn.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En este episodio de QPNPN Pietro y Kenneth hablan en detalle sobre el terrible reportaje de 7 días el cual fue el tema principal del episodio de Welcome To Chepe de esta semana. Además ven cómo el ejercicio los ha ayudado con su salud mental y física.
+year 2020
+featured{kmkv} {
+    title <b>¿Qué pasa en NO PASA NADA?<b>
+    text1 EP 03 | ¿Qué pasa en NO PASA NADA? | Inteligencia artificial, billonarios e historias
+    text2 Con Pietro Cercone y Kenneth Baldí
+    pretitle PODCAST :
+    highlightColor #00FFFF
+}
+type video
+subtitle Un podcast de NO PASA NADA sobre que ... esta pasando en NPN y el mundo.
+month 09
+tags{array} noticias-video
+videoID wpt5YodUAmI
+titlePoster 
+color #00FFFF
