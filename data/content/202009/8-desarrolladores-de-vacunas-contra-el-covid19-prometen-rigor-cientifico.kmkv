@@ -1,0 +1,43 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Nueve directores de empresas que desarrollan vacunas contra el covid-19 firmaron el lunes un compromiso de respetar el m&aacute;s alto rigor cient&iacute;fico, una respuesta impl&iacute;cita a las preocupaciones surgidas en Estados Unidos sobre la posible presi&oacute;n del presidente, Donald Trump, para que se autorice una vacuna antes de la elecci&oacute;n presidencial.</p>
+<p>"Nosotros, las compa&ntilde;&iacute;as biofarmac&eacute;uticas abajo firmantes, deseamos reiterar nuestro compromiso continuo de desarrollar y probar vacunas potenciales contra el covid-19 de acuerdo con altos est&aacute;ndares &eacute;ticos y principios cient&iacute;ficos rigurosos", dijeron en un comunicado conjunto los directores ejecutivos de AstraZeneca, BioNTech, GlaxoSmithKline, Johnson &amp; Johnson, Merck Sharp &amp; Dohme, Moderna, Novavax, Pfizer y Sanofi.</p>
+<p>Estas compa&ntilde;&iacute;as se comprometen a "presentar solo una solicitud de autorizaci&oacute;n, o autorizaci&oacute;n de emergencia, despu&eacute;s de haber demostrado la seguridad y eficacia de la vacuna en el contexto de un ensayo cl&iacute;nico de fase 3 dise&ntilde;ado y realizado con el fin de cumplir con las condiciones establecidas por las autoridades reguladoras como la FDA (la Agencia de Medicamentos de Estados Unidos)".</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Precisamente sobre la FDA se centran las preocupaciones de varios expertos y exfuncionarios de la salud de Estados Unidos, despu&eacute;s de que la entidad haya autorizado para uso de emergencia, a pesar de la falta de evidencia rigurosa, dos tratamientos contra el covid-19: la hidroxicloroquina (autorizaci&oacute;n posteriormente revocada) y el plasma sangu&iacute;neo de pacientes recuperados, ambos promocionados por Trump.</p>
+<p>El candidato dem&oacute;crata a la Casa Blanca, Joe Biden, acus&oacute; a Trump durante los &uacute;ltimos d&iacute;as de "socavar la confianza popular" al hablar en repetidas ocasiones sobre la posibilidad de tener una vacuna antes de las elecciones del 3 de noviembre.</p>
+<p>El jefe de la FDA, por su parte, garantiz&oacute; un proceso puramente cient&iacute;fico para juzgar la efectividad de una vacuna.</p>
+<p>Los comit&eacute;s de expertos independientes estadounidenses supervisan los ensayos cl&iacute;nicos de las vacunas Moderna y Pfizer.&nbsp;</p>
+<p>La FDA depende de estos comit&eacute;s independientes y de los fabricantes de vacunas, quienes deben presentar una solicitud de autorizaci&oacute;n.</p>
+<p>Seg&uacute;n Anthony Fauci, director del Instituto Nacional de Enfermedades Infecciosas, no se espera que los resultados de estas pruebas se conozcan hasta los &uacute;ltimos dos meses del a&ntilde;o.</p>
+<p>"Es extremadamente improbable, pero no imposible", que haya resultados antes de las elecciones, dijo a la radio NPR el cient&iacute;fico jefe del equipo de la Casa Blanca para la producci&oacute;n de vacunas, Moncef Slaoui.</p>
+}
+title Desarrolladores de vacunas contra el covid-19 prometen rigor científico
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/7-teorias-falsas-se-esconde-detras-de-argumentos-de-los-antimascarilla.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Nueve directores de empresas que desarrollan vacunas contra el covid-19 firmaron el lunes un compromiso de respetar el más alto rigor científico, una respuesta implícita a las preocupaciones surgidas en Estados Unidos sobre la posible presión del presidente, Donald Trump, para que se autorice una vacuna antes de la elección presidencial.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Vacunas covid19<b>
+    text1 Desarrolladores de vacunas contra el covid-19 prometen rigor científico
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,41 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Integrantes de la oposici&oacute;n rusa afirmaron que fueron atacados el martes por un desconocido que lanz&oacute; en sus oficinas en Siberia una botella con un "producto qu&iacute;mico", lo que oblig&oacute; a transferir al hospital a dos personas.</p>
+<p>Seg&uacute;n Olga Gousseva, integrante del Fondo de Lucha contra la Corrupci&oacute;n (FBK) del opositor Alex&eacute;i Navalni, el ataque se produjo en los locales de la coalici&oacute;n "Novosibirsk 2020", en la ciudad siberiana del mismo nombre.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Dicha formaci&oacute;n pol&iacute;tica hace campa&ntilde;a contra el partido en el poder y los comunistas de cara a las elecciones regionales del 13 de septiembre.</p>
+<p>"La sede de la Coalici&oacute;n Novosibirsk 2020 acaba de ser atacada: un desconocido irrumpi&oacute; en la oficina y lanz&oacute; una botella llena de un producto qu&iacute;mico desconocido. Est&aacute;bamos celebrando una reuni&oacute;n en la oficina, con unas 50 personas", escribi&oacute; en Twitter.</p>
+<p>Seg&uacute;n la mujer, los locales se llenaron r&aacute;pidamente "de un olor muy picante e insoportable".</p>
+<p>El director del FBK, Ivan Jdanov, precis&oacute; por su lado en Twitter que dos personas fueron llevadas al hospital para ser examinados.&nbsp;</p>
+<p>El opositor public&oacute; im&aacute;genes de video vigilancia que mostraban a un hombre con abrigo y capucha y una m&aacute;scara medicinal que le cubr&iacute;a el rostro, y que lanz&oacute; la botella en los locales para luego salir corriendo.</p>
+<p>El ataque se produjo tras el envenenamiento en agosto de Navalni, &nbsp;principal opositor ruso, mediante un agente neurot&oacute;xico del tipo Novichok, seg&uacute;n los m&eacute;dicos alemanes en el hospital donde est&aacute; internado, en Berl&iacute;n.</p>
+}
+title ¡Otra vez! opositores sufren ataque con producto químico en Rusia
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/7-lider-opositor-ruso-navalni-sale-del-coma-artificial.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Integrantes de la oposición rusa afirmaron que fueron atacados el martes por un desconocido que lanzó en sus oficinas en Siberia una botella con un "producto químico", lo que obligó a transferir al hospital a dos personas.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Ataque químico en Rusia<b>
+    text1 ¡Otra vez! opositores sufren ataque con producto químico en Rusia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
