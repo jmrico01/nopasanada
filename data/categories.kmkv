@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202009/4-oms-espera-vacunacion-generalizada-para-mediados-de-2021
+        featured{array} /content/202009/9-vacuna-rusa-a-prueba-en-40000-moscovitas
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,21 +57,21 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/4-despedida-sin-lagrimas-a-victimas-de-covid19-en-venezuela
+        featured{array} /content/202009/9-otro-lider-opositor-detenido-en-bielorussia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/4-oms-espera-vacunacion-generalizada-para-mediados-de-2021
+        featured{array} /content/202009/9-fmi-advierte-que-crisis-economica-global-esta-lejos-de-terminar
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/4-policia-mata-sospechoso-de-asesinar-a-ultraderechista-en-portland
+    featured{array} /content/202009/9-vacuna-rusa-a-prueba-en-40000-moscovitas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/4-protestas-en-portland-se-mantienen-cien-dias-despues-de-muerte-de-george-floyd
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202009/01-lo-importante-video
+        featured{array} /content/202009/05-welcome-to-chepe
     }
 }
 coleccion{kmkv} {

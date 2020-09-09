@@ -1,0 +1,42 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Las autoridades moscovitas anunciaron este mi&eacute;rcoles que comenzaron los ensayos de la vacuna rusa contra el covid-19 con 40.000 habitantes de la capital, la &uacute;ltima etapa de las pruebas de la misma, anunciada en agosto con gran pompa.</p>
+<p>"Los primeros participantes fueron vacunados en esta jornada en establecimientos m&eacute;dicos de la capital", se congratul&oacute; en un comunicado la teniente de alcalde de Mosc&uacute;, Anastasia Rakova, saludando un "d&iacute;a importante no solamente para la ciudad, sino para todo el pa&iacute;s".&nbsp;</p>
+<p>En total, 40.000 moscovitas est&aacute;n invitados a participar en este estudio, para el que puede ser voluntario todo habitante de la ciudad con nacionalidad rusa y cobertura m&eacute;dica vigente.&nbsp;</p>
+<p>Rusia anunci&oacute; a comienzos de agosto que hab&iacute;a desarrollado la "primera" vacuna contra el covid-19 por parte del centro de investigaciones Nikolai-Gamaleia, y en la ocasi&oacute;n el presidente ruso, Vladimir Putin, destac&oacute; que una de sus hijas hab&iacute;a sido vacunada.&nbsp;</p>
+<p>Llamada Sputnik V, en honor al primer sat&eacute;lite artificial de la historia, la vacuna rusa es percibida con escepticismo en el mundo, sobre todo a causa de la falta de una fase final de las pruebas en el momento de ese anuncio.&nbsp;</p>
+<p>Seg&uacute;n el sitio web oficial de la vacuna, "la fase 3 de ensayos cl&iacute;nicos en que participan m&aacute;s de 2.000 personas" en varios pa&iacute;ses, comenz&oacute; el 12 de agosto, el d&iacute;a despu&eacute;s al anuncio del registro de Sputnik V.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>M&aacute;s de 20 pa&iacute;ses han solicitado comprar mil millones de dosis de esta vacuna, de acuerdo al Fondo soberano ruso que particip&oacute; en su financiaci&oacute;n.&nbsp;</p>
+<p>Numerosos pa&iacute;ses est&aacute;n trabajando actualmente en la puesta a punto de una vacuna contra el coronavirus, que ya se ha cobrado casi 900.000 vidas en todo el mundo.&nbsp;</p>
+<p>Las pruebas cl&iacute;nicas de una de las vacunas m&aacute;s avanzadas, desarrollada por la universidad brit&aacute;nica de Oxford y el grupo farmac&eacute;utico anglo-sueco AstraZeneca, acaban de ser suspendidas para analizar un posible efecto secundario grave en un participante.<br />&nbsp;</p>
+}
+title Vacuna contra covid-19 a prueba en 40.000 moscovitas
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/9-vacuna-rusa-a-prueba-en-40000-moscovitas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Las autoridades moscovitas anunciaron este miércoles que comenzaron los ensayos de la vacuna rusa contra el covid-19 con 40.000 habitantes de la capital, la última etapa de las pruebas de la misma, anunciada en agosto con gran pompa.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Vacuna rusa covid19<b>
+    text1 Vacuna contra covid-19 a prueba en 40.000 moscovitas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
