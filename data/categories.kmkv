@@ -8,7 +8,7 @@ mas{kmkv} {
     featured{array} /content/202008/13-musica-de-pato
     cine{kmkv} {
         name Cine
-        featured{array} /content/202008/29-chadwick-boseman
+        featured{array} /content/202009/10-diana-rigg
     }
     historias{kmkv} {
         name Historias
@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202009/10-escocia-lanza-aplicacion-movil-para-rastreo-de-coronavirus
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202009/4-protestas-en-portland-se-mantienen-cien-dias-despues-de-muerte-de-george-floyd
+        featured{array} /content/202009/10-diana-rigg
     }
     video{kmkv} {
         name Video
