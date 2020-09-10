@@ -1,0 +1,41 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Escocia lanz&oacute; el jueves su propia aplicaci&oacute;n m&oacute;vil de rastreo de contactos para combatir la propagaci&oacute;n del coronavirus, adelantando a Inglaterra donde, tras algunos contratiempos, el proyecto que Boris Johnson pretend&iacute;a como puntero sigue sin estar listo.</p>
+<p>Llamada "Protect Scotland", la aplicaci&oacute;n utiliza tecnolog&iacute;a bluetooth para detectar los smartphones que han estado cerca de una persona diagnosticada con covid-19 y alertar a sus propietarios para que se pongan en contacto con las autoridades sanitarias.&nbsp;</p>
+<p>Creado por la empresa irlandesa NearForm, el sistema escoc&eacute;s se basa en un modelo desarrollado por Google y Apple que almacena y gestiona los datos de forma descentralizada en cada tel&eacute;fono.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>La primera ministra de Escocia, Nicola Sturgeon, llam&oacute; en Twitter a los habitantes de la regi&oacute;n a descarg&aacute;rsela, haciendo hincapi&eacute; en que garantiza la privacidad de los datos y los usuarios reciben las notificaciones "de forma an&oacute;nima".&nbsp;</p>
+<p>Tras intentar desarrollar su propia aplicaci&oacute;n nacional de rastreo en la divisi&oacute;n tecnol&oacute;gica del servicio de salud p&uacute;blica NHS, el Reino Unido dio un giro de 180 grados a mediados de junio y abandon&oacute; esa opci&oacute;n, que centralizaba los datos en servidores inform&aacute;ticos, alegando incompatibilidades con el iPhone.</p>
+<p>Hasta ahora s&oacute;lo Irlanda del Norte ten&iacute;a su propia aplicaci&oacute;n de rastreo de contactos, lanzada el 31 de julio.&nbsp;</p>
+<p>El Reino Unido, pa&iacute;s m&aacute;s castigado de Europa con casi 42.000 muertes confirmadas por covid-19, se enfrenta a un aumento reciente de contagios, ante el cual decidi&oacute; imponer restricciones por las cuales a partir del lunes estar&aacute;n prohibidas todas las reuniones de m&aacute;s de seis personas, exceptuando escuelas, lugares de trabajo y de culto.</p>
+<p><br />&nbsp;</p>
+}
+title Escocia lanza aplicación móvil para rastreo de coronavirus
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/10-escocia-lanza-aplicacion-movil-para-rastreo-de-coronavirus.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Escocia lanzó el jueves su propia aplicación móvil de rastreo de contactos para combatir la propagación del coronavirus, adelantando a Inglaterra donde, tras algunos contratiempos, el proyecto que Boris Johnson pretendía como puntero sigue sin estar listo.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Esocia app<b>
+    text1 Escocia lanza aplicación móvil para rastreo de coronavirus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

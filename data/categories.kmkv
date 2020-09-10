@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202009/9-vacuna-rusa-a-prueba-en-40000-moscovitas
+        featured{array} /content/202009/10-escocia-lanza-aplicacion-movil-para-rastreo-de-coronavirus
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/9-fmi-advierte-que-crisis-economica-global-esta-lejos-de-terminar
+        featured{array} /content/202009/10-siete-muertos-y-ola-de-destruccion-en-protestas-por-violencia-policial-en-bogota
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/9-vacuna-rusa-a-prueba-en-40000-moscovitas
+    featured{array} /content/202009/10-escocia-lanza-aplicacion-movil-para-rastreo-de-coronavirus
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/4-protestas-en-portland-se-mantienen-cien-dias-despues-de-muerte-de-george-floyd
