@@ -1,0 +1,45 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>La oeneg&eacute; Greenpeace despleg&oacute; el viernes una pancarta gigante sobre la sede de la Comisi&oacute;n Europea en Bruselas, para denunciar la deforestaci&oacute;n de la floresta amaz&oacute;nica, especialmente en Brasil, con un mensaje categ&oacute;rico: "la Amazon&iacute;a arde, Europa es culpable".</p>
+<p>Desplegada al alba en la fachada de la sede del ejecutivo europeo, la pancarta muestra una imagen de la vegetaci&oacute;n en llamas.</p>
+<p>En un momento, dos escaladores que descendieron con cuerdas desde lo alto del edificio usaron dispositivos de humo real a los costados de la enorme pancarta, seg&uacute;n constat&oacute; un reportero.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>"Los incendios en la Amazon&iacute;a est&aacute;n lejos, pero Europa est&aacute; arrojando petr&oacute;leo a las llamas: al comprar soja y otros productos de las &aacute;reas deforestadas, Europa es c&oacute;mplice de la destrucci&oacute;n", dijo Sini Erajaa, activista a cargo de la campa&ntilde;a agr&iacute;cola y forestal de Greenpeace.</p>
+<p>"Los europeos deben poder comprar sabiendo que ning&uacute;n art&iacute;culo en su supermercado ha contribuido a incendios forestales o violaciones de derechos humanos. Necesitamos una ley europea fuerte", insisti&oacute; en un comunicado.</p>
+<p>De acuerdo con Greenpeace, a trav&eacute;s de sus importaciones de carne vacuna, soja, aceite de palma, caf&eacute; o cacao, la UE es "responsable por m&aacute;s del 10% de la deforestaci&oacute;n en el mundo".</p>
+<p>"Las empresas se hab&iacute;an comprometido voluntariamente hace una d&eacute;cada para acabar con la deforestaci&oacute;n en su cadena de suministro. Pero no funcion&oacute;", explic&oacute; a AFP S&eacute;bastien Snoeck, activista de Greenpeace presente ante la Comisi&oacute;n.</p>
+<p>Esos productos "siguen siendo importados a Europa con muy pocos controles", asegur&oacute; Snoeck.</p>
+<p>Seg&uacute;n &eacute;l, "no podemos contar" con el gobierno del presidente brasile&ntilde;o Jair Bolsonaro para proteger la mayor floresta tropical del mundo, donde los incendios aumentaron un 28% en julio de 2020, en comparaci&oacute;n con julio de 2019.</p>
+<p>El vasto acuerdo comercial a&uacute;n no ratificado entre la UE y el Mercosur (Brasil, Argentina, Uruguay y Paraguay) es motivo de preocupaci&oacute;n por esta misma raz&oacute;n.</p>
+<p>Cada vez m&aacute;s estados miembro ha manifestado su fuerte reticencia a validar este acuerdo, ante la amenaza ecol&oacute;gica en Brasil.</p>
+<p>Pero si bien la Comisi&oacute;n Europea acaba de lanzar una consulta p&uacute;blica para afinar su estrategia contra la deforestaci&oacute;n, "es bueno recordarle que los compromisos voluntarios no funcionaron y que se deben tomar acciones muy concretas", argument&oacute; Snoeck.</p>
+}
+title Greenpeace protesta por protección de la Amazonía en Comisión Europea
+day 11
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202009/headers/11-greenpeace-protesta-por-la-amazonia-en-comision-europea.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La oenegé Greenpeace desplegó el viernes una pancarta gigante sobre la sede de la Comisión Europea en Bruselas, para denunciar la deforestación de la floresta amazónica, especialmente en Brasil, con un mensaje categórico: "la Amazonía arde, Europa es culpable".
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Incendio en Amazonía<b>
+    text1 Greenpeace protesta por protección de la Amazonía en Comisión Europea
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
