@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong>&iquest;Qu&eacute; necesitas saber?</strong></span></p>
+<ul>
+<li>"La pandemia de covid-19 est&aacute; poniendo a prueba el grado de preparaci&oacute;n en todo el mundo", destac&oacute; el Consejo de Supervisi&oacute;n de la Preparaci&oacute;n Global (GPMB).&nbsp;</li>
+<li>La GPMB es un &oacute;rgano independiente lanzado en el 2018 por la OMS y el Banco Mundial. En su &uacute;ltimo informe anual reconocieron que sus recomendaciones han sido ignoradas.&nbsp;</li>
+<li>&ldquo;Si no se aprenden las lecciones del covid-19 o si no se act&uacute;a con los medios y el compromiso necesarios, la pr&oacute;xima pandemia &ndash;que es una certeza&ndash; ser&aacute; a&uacute;n m&aacute;s devastadora", advierte el Consejo.</li>
+<li>El c&aacute;lculo es simple: "Ser&aacute;n necesarios 500 a&ntilde;os para gastar en prevenci&oacute;n el dinero que el mundo est&aacute; perdiendo a causa del covid-19". "El retorno de la inversi&oacute;n en la preparaci&oacute;n para una pandemia es inmenso", agreg&oacute;.</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>&iquest;Por qu&eacute; nos importa?</strong></span></p>
+<ul>
+<li>Al d&iacute;a de hoy han muerto al rededor de novecientas mil personas alrededor del mundo por causa del COVID-19.&nbsp;</li>
+<li>Seg&uacute;n el banco mundial se espera una contracci&oacute;n del 5.2% de la econom&iacute;a a nivel mundial, lo cual es la recesi&oacute;n mas profunda en d&eacute;cadas.&nbsp;</li>
+<li>Expertos hab&iacute;an emitido precauciones sobre una posible pandemia hac&iacute;a d&eacute;cadas, tal vez m&aacute;s puntualmente fue luego de la crisis del SARS en Asia hace 13 a&ntilde;os, o MERS en el Medio Oriente, <a href="https://www.theatlantic.com/health/archive/2020/06/scientists-predicted-coronavirus-pandemic/613003/" target="_blank" rel="noopener">pero muchas otras precauciones se continuaron emitiendo durante a&ntilde;os.</a></li>
+</ul>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+}
+title No estamos listos para la próxima pandemia
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202009/headers/la-proxima-pandemia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description La próxima pandemia puede ser aún más devastadora que la de COVID-19, advirtió el lunes un panel internacional.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>No estamos listos para la próxima pandemia<b>
+    text1 "Algo aún más devastador que el COVID-19"
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle "Algo aún más devastador que el COVID-19"
+month 09
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

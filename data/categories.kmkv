@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/9-otro-lider-opositor-detenido-en-bielorussia
+        featured{array} /content/202009/trump-biden-joerogan
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/10-siete-muertos-y-ola-de-destruccion-en-protestas-por-violencia-policial-en-bogota
+        featured{array} /content/202009/la-proxima-pandemia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/10-escocia-lanza-aplicacion-movil-para-rastreo-de-coronavirus
+    featured{array} /content/202009/posible-destitucion-presidente-de-peru
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/10-diana-rigg
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202009/video-loimportante-rusia-israel-blaine
+    featured{array} /content/202009/la-proxima-pandemia
 }
 other{kmkv} {
     name Other (Internal)
