@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/trump-biden-joerogan
+        featured{array} /content/202009/15-amlo-pide-al-senado-consulta-para-enjuiciar-a-expresidentes-de-mexico
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/la-proxima-pandemia
+        featured{array} /content/202009/15-casi-60-policias-investigados-en-colombia-por-violencia-en-protestas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/posible-destitucion-presidente-de-peru
+    featured{array} /content/202009/15-alemania-preve-recibir-1500-migrantes-de-islas-griegas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/10-diana-rigg
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202009/la-proxima-pandemia
+    featured{array} /content/202009/15-casi-60-policias-investigados-en-colombia-por-violencia-en-protestas
 }
 other{kmkv} {
     name Other (Internal)
