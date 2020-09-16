@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202009/16-mision-de-la-onu-vincula-a-maduro-con-crimenes-de-lesa-humanidad
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/16-siria-critica-declaraciones-de-trump-sobre-planes-para-asesinar-a-asad
+    featured{array} /content/202009/16-denuncian-histerectomias-en-centro-de-detencion-para-migrantes-en-estados-unidos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/10-diana-rigg
