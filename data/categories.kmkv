@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202009/15-casi-60-policias-investigados-en-colombia-por-violencia-en-protestas
+    featured{array} /content/202009/16-huracan-sally-toca-tierra-en-alabama
 }
 other{kmkv} {
     name Other (Internal)
