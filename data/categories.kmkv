@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202009/2-las-dos-coreas-en-estado-de-alerta-maxima-por-tifon
+        featured{array} /content/202009/16-huracan-sally-toca-tierra-en-alabama
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/15-amlo-pide-al-senado-consulta-para-enjuiciar-a-expresidentes-de-mexico
+        featured{array} /content/202009/16-policia-panamena-detiene-a-gobernador-por-narcotrafico
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/15-casi-60-policias-investigados-en-colombia-por-violencia-en-protestas
+        featured{array} /content/202009/16-mision-de-la-onu-vincula-a-maduro-con-crimenes-de-lesa-humanidad
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/15-alemania-preve-recibir-1500-migrantes-de-islas-griegas
+    featured{array} /content/202009/16-siria-critica-declaraciones-de-trump-sobre-planes-para-asesinar-a-asad
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/10-diana-rigg

@@ -1,0 +1,61 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong>&iquest;Qu&eacute; necesitas saber?</strong></span></p>
+<ul>
+<li>El hurac&aacute;n Sally toc&oacute; tierra en la madrugada del mi&eacute;rcoles en el estado de Alabama, en la costa sur de Estados Unidos, con previsi&oacute;n de que provoque inundaciones "hist&oacute;ricas" y potencialmente mortales, seg&uacute;n los meteor&oacute;logos.</li>
+<li>El Centro Nacional de Huracanes (CNH) dijo a las 09H45 GMT que el cicl&oacute;n, de categor&iacute;a 2 en un escala de 5, registra vientos de hasta 165 kil&oacute;metros por hora que amenazan &aacute;reas costeras de Alabama, Misisipi y Florida.</li>
+<li>Unas 75.000 viviendas en Alabama y Florida ya se encontraban sin servicio el&eacute;ctrico en la noche del martes, seg&uacute;n el Weather Channel, y videos publicados en redes sociales parec&iacute;an mostrar que algunas zonas ya comenzaron a sufrir inundaciones.</li>
+<li>El hurac&aacute;n se adentr&oacute; en tierra a un paso de 3,2 km/h, aunque se espera que gane velocidad durante la jornada del mi&eacute;rcoles.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Sally, que se form&oacute; al sur de Florida, donde produjo intensas lluvias durante el fin de semana, es uno de los cinco ciclones actualmente activos en el Atl&aacute;ntico, un fen&oacute;meno que solo se registr&oacute; una vez antes, en septiembre de 1971, seg&uacute;n los meteor&oacute;logos.&nbsp;</li>
+<li>La gobernadora de Alabama, Kay Ivey, dijo a los residentes que aunque se haya debilitado, "el hurac&aacute;n Sally no debe ser menospreciado".</li>
+<li>"Veremos inundaciones r&eacute;cord que quiz&aacute;s superen niveles hist&oacute;ricos. Y con esa mayor cantidad de agua, vendr&aacute;n mayores riesgos de p&eacute;rdidas de vidas y propiedades", dijo a la prensa. Ivey declar&oacute; el estado de emergencia el lunes a la espera de la llegada de Sally.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Misisipi tambi&eacute;n declar&oacute; el estado de emergencia.</p>
+<p>Tate Reeves, gobernador de Misisipi, dijo que "las proyecciones de marejadas cicl&oacute;nicas contin&uacute;an siendo preocupantes, con marejadas costeras de entre cinco y ocho pies (1,5 a 2,4 metros)".</p>
+<p>"Seguimos muy preocupados por la cantidad de lluvia", a&ntilde;adi&oacute;.</p>
+<p>En tanto, el gobernador de Luisiana, John Bel Edwards, cuyo estado a&uacute;n no se recupera del azote de Laura, que impact&oacute; como hurac&aacute;n categor&iacute;a 4, pidi&oacute; a los residentes estar preparados.</p>
+<p>"Sean inteligentes y mant&eacute;nganse a salvo", tuite&oacute;.</p>
+<p>&nbsp;Ha habido tantas tormentas tropicales en el Atl&aacute;ntico este a&ntilde;o que la Organizaci&oacute;n Meteorol&oacute;gica Mundial de la ONU, que las designa, est&aacute; a punto de quedarse sin nombres por segunda vez en la historia.</p>
+<p>La &uacute;ltima vez fue en 2005, el a&ntilde;o en que el hurac&aacute;n Katrina devast&oacute; Nueva Orleans.</p>
+<p>Adem&aacute;s de Sally est&aacute;n en actividad el hurac&aacute;n Paulette, las tormentas tropicales Teddy y Vicky y la depresi&oacute;n tropical Rene.</p>
+<p>Paulette azot&oacute; la isla de Bermudas el lunes con vientos de categor&iacute;a 2 y fuertes lluvias, seg&uacute;n el NHC.</p>
+<p>El centro espera asimismo que la tormenta tropical Teddy, que actualmente se encuentra en medio del Atl&aacute;ntico, se convierta en hurac&aacute;n.</p>
+<hr />
+<p>&nbsp;</p>
+}
+title Huracán Sally toca tierra en Alabama
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202009/headers/16-huracan-sally-toca-tierra-en-alabama.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description El huracán Sally tocó tierra en la madrugada del miércoles en el estado de Alabama, en la costa sur de Estados Unidos, con previsión de que provoque inundaciones "históricas" y potencialmente mortales, según los meteorólogos.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Huracán Sally toca tierra en Alabama<b>
+    text1 Huracán Sally toca tierra en Alabama
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
