@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/16-policia-panamena-detiene-a-gobernador-por-narcotrafico
+        featured{array} /content/202009/17-hallados-restos-de-novichok-en-botella-de-hotel-donde-estuvo-navalni
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/16-mision-de-la-onu-vincula-a-maduro-con-crimenes-de-lesa-humanidad
+        featured{array} /content/202009/17-fabricante-de-vacuna-para-covid-19-moderna-revela-protocolo-de-ensayo
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/16-denuncian-histerectomias-en-centro-de-detencion-para-migrantes-en-estados-unidos
+    featured{array} /content/202009/17-hallados-restos-de-novichok-en-botella-de-hotel-donde-estuvo-navalni
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/10-diana-rigg
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202009/16-huracan-sally-toca-tierra-en-alabama
+    featured{array} /content/202009/17-exmodelo-acusa-a-donald-trump-de-agresion-sexual-en-1997
 }
 other{kmkv} {
     name Other (Internal)
