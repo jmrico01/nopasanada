@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/17-hallados-restos-de-novichok-en-botella-de-hotel-donde-estuvo-navalni
+        featured{array} /content/202009/18-bolsonaro-le-toma-gusto-a-popularidad-ante-recelo-de-mercados
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/17-fabricante-de-vacuna-para-covid-19-moderna-revela-protocolo-de-ensayo
+        featured{array} /content/202009/18-washington-prohibe-tiktok-y-wechat
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/17-hallados-restos-de-novichok-en-botella-de-hotel-donde-estuvo-navalni
+    featured{array} /content/202009/18-boda-en-eeuu-deja-7-muertos-y-177-contagiados-por-covid-19
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/10-diana-rigg

@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Hackers chinos robaron informaci&oacute;n de laboratorios espa&ntilde;oles que trabajaban sobre una vacuna para el covid-19, indica el viernes el diario El Pa&iacute;s.</li>
+<li>Esta informaci&oacute;n se divulga cuando varios pa&iacute;ses compiten en la carrera por obtener un remedio frente a la pandemia, que ha causado la muerte de m&aacute;s de 940.000 personas y contaminado a 30 millones.</li>
+<li>El diario cita fuentes "conocedoras" de estos ciberataques, aunque no se precisa qu&eacute; informaci&oacute;n fue sustra&iacute;da o cu&aacute;ndo ocurri&oacute;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Los asaltos a los sistemas inform&aacute;ticos se han repetido en varios pa&iacute;ses que compiten en la carrera por obtener un remedio frente a la pandemia, seg&uacute;n cita el diario a la directora del Centro Nacional de Inteligencia (CNI), Paz Esteban, quien a&ntilde;ade que sus respectivos servicios secretos intercambian informaci&oacute;n para evitarlos, aunque no ofreci&oacute; detalles.</p>
+<p>En un encuentro el jueves con la prensa, Esteban alert&oacute; del crecimiento "cualitativo y cuantitativo" de los ciberataques durante el confinamiento.</p>
+<p>La directora del CNI subray&oacute; los ciberataques a "sectores sensibles como el sanitario y el farmac&eacute;utico", as&iacute; como "una campa&ntilde;a, especialmente virulenta, no solo en Espa&ntilde;a, contra laboratorios que trabajan en la b&uacute;squeda de una vacuna para la covid-19", agrega El Pa&iacute;s.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La mayor&iacute;a de estos ciberataques, seg&uacute;n las fuentes consultadas por el diario, &nbsp;proceden de China y Rusia.&nbsp;</li>
+<li>En muchos casos se trata de entidades estatales, pero tambi&eacute;n hay universidades y organizaciones criminales que comercian con la informaci&oacute;n sustra&iacute;da, agregan las fuentes.</li>
+<li>En el caso de Espa&ntilde;a, se sabe que el ataque proced&iacute;a de China.</li>
+</ul>
+}
+title Hackers chinos robaron información en España sobre vacuna contra covid-19
+day 18
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202009/headers/18-hackers-chinos-robaron-infromacion-en-espana-acerca-de-vacuna-contra-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    bottle /images/202009/17-hallados-restos-de-novichok-en-botella-de-hotel-donde-estuvo-navalni/bottle.jpg
+}
+description Hackers chinos robaron información de laboratorios españoles que trabajaban sobre una vacuna para el covid-19, indica el viernes el diario El País.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Hackers robaron info sobre vacuna<b>
+    text1 Hackers chinos robaron información en España sobre vacuna contra covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
