@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202009/16-huracan-sally-toca-tierra-en-alabama
+        featured{array} /content/202009/21-cientos-de-ballenas-varadas-en-sur-de-australia
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/18-bolsonaro-le-toma-gusto-a-popularidad-ante-recelo-de-mercados
+        featured{array} /content/202009/21-trump-dice-que-nominara-nuevo-miembro-de-corte-suprema
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/18-washington-prohibe-tiktok-y-wechat
+        featured{array} /content/202009/21-eeuu-ofrece-recompensa-de-5-millones-por-narcotraficante-colombiano
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/18-boda-en-eeuu-deja-7-muertos-y-177-contagiados-por-covid-19
+    featured{array} /content/202009/21-opositor-ruso-navalni-afirma-que-se-encontro-novickok-en-su-cuerpo
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/10-diana-rigg
