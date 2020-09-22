@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/21-trump-dice-que-nominara-nuevo-miembro-de-corte-suprema
+        featured{array} /content/202009/22-mas-protestas-y-disturbios-en-contra-de-violencia-policial-colombiana
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/21-eeuu-ofrece-recompensa-de-5-millones-por-narcotraficante-colombiano
+        featured{array} /content/202009/22-casi-180-detenidos-en-operativo-mundial-contra-la-dark-web
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/21-opositor-ruso-navalni-afirma-que-se-encontro-novickok-en-su-cuerpo
+    featured{array} /content/202009/22-turquia-y-grecia-acuerdan-negociar-sobre-mediterraneo-oriental
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202009/10-diana-rigg
+        featured{array} /content/202009/22-300000-escolares-peruanos-desertan-por-la-pandemia
     }
     video{kmkv} {
         name Video

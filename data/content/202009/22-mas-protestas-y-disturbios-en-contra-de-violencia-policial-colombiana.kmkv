@@ -1,0 +1,56 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Miles de colombianos se movilizaron nuevamente este lunes contra los excesos policiales y en rechazo al gobierno de Iv&aacute;n Duque, en manifestaciones menos violentas que las que desat&oacute; el reciente homicidio de un hombre a manos de dos uniformados.</li>
+<li>Sindicatos y estudiantes encabezaron caravanas, concentraciones y marchas que terminaron en algunos choques con la fuerza p&uacute;blica en el centro de Bogot&aacute;, principal punto de encuentro.&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Escuadrones antidisturbios intervinieron para contener acciones "violentas" en Bogot&aacute;, Medell&iacute;n (noroeste) y Pasto (suroeste), seg&uacute;n el general &Oacute;scar Atehort&uacute;a, m&aacute;ximo comandante de la polic&iacute;a.</p>
+<p>Al menos nueve personas fueron detenidas tras protagonizar destrozos en entidades financieras y bienes p&uacute;blicos, a&ntilde;adi&oacute; el oficial.&nbsp;</p>
+<p>Despu&eacute;s de una pausa de once d&iacute;as, j&oacute;venes con mascarillas regresaron a las calles para expresar su desconfianza y rabia contra la polic&iacute;a en movilizaciones que en su mayor&iacute;a fueron pac&iacute;ficas.&nbsp;</p>
+<p>"Esto de hoy es un estallido de lo que se ha venido acumulando hace rato. &iexcl;Por fin la gente se dio cuenta! Y ver c&oacute;mo, frente a una c&aacute;mara, matan a alguien indefenso hizo que saliera a las calles", se&ntilde;al&oacute; Diego, un universitario de 23 a&ntilde;os que march&oacute; en Bogot&aacute; y evit&oacute; dar su apellido para no ser identificado por la autoridad.</p>
+<p>La polic&iacute;a cifr&oacute; unas 5.600 personas en 142 movilizaciones, aunque la concurrencia parec&iacute;a sensiblemente mayor al final de la tarde.</p>
+<p>El l&iacute;der y excandidato presidencial de izquierda Gustavo Petro denunci&oacute; en Twitter que uno de los dirigentes estudiantes que lo apoyan recibi&oacute; un disparo en un ojo y "tiene varias fracturas en el cr&aacute;neo".</p>
+<p>Petro culp&oacute; a la polic&iacute;a en un mensaje acompa&ntilde;ado de la foto de un joven que se ve sangrando por el ojo izquierdo.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Hace once d&iacute;as Bogot&aacute; tambi&eacute;n hab&iacute;a sido el foco de las manifestaciones que siguieron a la mortal paliza que recibi&oacute; Javier Ord&oacute;&ntilde;ez, el 9 de septiembre.&nbsp;</li>
+<li>Ese d&iacute;a el ingeniero de 43 a&ntilde;os, quien estaba a punto de completar sus estudios de Derecho, fue sometido en el suelo a repetidas descargas con un arma el&eacute;ctrica y golpes que le ocasionaron la muerte, de acuerdo con la fiscal&iacute;a.</li>
+<li>La justicia orden&oacute; este lunes la prisi&oacute;n preventiva contra los dos uniformados que detuvieron a Ord&oacute;&ntilde;ez, mientras responden en el proceso por tortura y homicidio agravado.&nbsp;</li>
+<li>En un principio los polic&iacute;as alegaron haber actuado en respuesta a un intento de agresi&oacute;n por parte de Ord&oacute;&ntilde;ez, aunque la familia asegura que la v&iacute;ctima fue atacada cuando sal&iacute;a a comprar licor.</li>
+<li>El video viral que registr&oacute; el castigo contra el ingeniero y padre de dos hijos desat&oacute; las protestas que antecedieron a la jornada de este lunes.</li>
+<li>Algunos uniformados reprimieron a los manifestantes con armas de fuego que dejaron 12 muertos, en su mayor&iacute;a j&oacute;venes alcanzados por proyectiles. Decenas de efectivos est&aacute;n bajo investigaci&oacute;n.&nbsp;</li>
+<li>Tambi&eacute;n hubo m&aacute;s de medio millar de heridos, entre ellos numerosos uniformados, en tanto que decenas de puestos barriales de la polic&iacute;a quedaron destruidos.</li>
+</ul>
+}
+title Más protestas y disturbios en contra de violencia policial colombiana
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202009/headers/22-mas-protestas-y-disturbios-en-contra-de-violencia-policial-colombiana.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+}
+description Miles de colombianos se movilizaron nuevamente este lunes contra los excesos policiales y en rechazo al gobierno de Iván Duque, en manifestaciones menos violentas que las que desató el reciente homicidio de un hombre a manos de dos uniformados.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Más protestas y disturbios en Colombia<b>
+    text1 Más protestas y disturbios en contra de violencia policial colombiana
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
