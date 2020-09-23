@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/22-mas-protestas-y-disturbios-en-contra-de-violencia-policial-colombiana
+        featured{array} /content/202009/23-opositor-ruso-alexei-navalni-dado-de-alta-en-alemania
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/22-casi-180-detenidos-en-operativo-mundial-contra-la-dark-web
+        featured{array} /content/202009/23-lukashenko-se-juramento-en-secreto-para-sexto-mandato-presidencial-en-bielorrusia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/22-turquia-y-grecia-acuerdan-negociar-sobre-mediterraneo-oriental
+    featured{array} /content/202009/23-mexico-realiza-primer-transplante-bipulmonar-en-latinoamerica
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/22-300000-escolares-peruanos-desertan-por-la-pandemia
