@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/23-opositor-ruso-alexei-navalni-dado-de-alta-en-alemania
+        featured{array} /content/202009/24-youtube-anade-a-videos-informacion-confiable-sobre-voto-por-correo-en-eeuu
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/23-lukashenko-se-juramento-en-secreto-para-sexto-mandato-presidencial-en-bielorrusia
+        featured{array} /content/202009/24-paris-y-marsella-se-levantan-contra-nuevas-restricciones-para-frenar-covid-19
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/23-mexico-realiza-primer-transplante-bipulmonar-en-latinoamerica
+    featured{array} /content/202009/24-en-xinjiang-hay-mas-de-380-centros-de-detencion-de-uigures
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202009/22-300000-escolares-peruanos-desertan-por-la-pandemia
+        featured{array} /content/202009/24-feminismo-es-lo-mas-influyente-de-2020-afirman-lastesis
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202009/17-exmodelo-acusa-a-donald-trump-de-agresion-sexual-en-1997
+    featured{array} /content/202009/24-feminismo-es-lo-mas-influyente-de-2020-afirman-lastesis
 }
 other{kmkv} {
     name Other (Internal)
