@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/24-youtube-anade-a-videos-informacion-confiable-sobre-voto-por-correo-en-eeuu
+        featured{array} /content/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/24-paris-y-marsella-se-levantan-contra-nuevas-restricciones-para-frenar-covid-19
+        featured{array} /content/202009/25-otra-noche-de-protestas-contra-violencia-policial-en-louiseville
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/24-en-xinjiang-hay-mas-de-380-centros-de-detencion-de-uigures
+    featured{array} /content/202009/25-dos-heridos-por-arma-blanca-en-paris-cerca-de-antigua-sede-de-charlie-hebdo
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/24-feminismo-es-lo-mas-influyente-de-2020-afirman-lastesis
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202009/24-ningun-policia-acusado-por-caso-de-breonna-taylor-en-eeuu
+    featured{array} /content/202009/rata-detectora-de-minas-premiada-por-su-valor
 }
 other{kmkv} {
     name Other (Internal)
