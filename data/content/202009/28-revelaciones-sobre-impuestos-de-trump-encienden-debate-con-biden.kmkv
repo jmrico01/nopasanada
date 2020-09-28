@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong>&iquest;Qu&eacute; necesitas saber?</strong></span></p>
+<ul>
+<li>El presidente estadounidense, Donald Trump, fue acusado este domingo por el diario The New York Times de apenas pagar impuestos federales en 2016, cuando gan&oacute; las elecciones, una informaci&oacute;n que aviva la pol&eacute;mica sobre sus declaraciones fiscales antes del primer debate contra el dem&oacute;crata Joe Biden, el martes.&nbsp;</li>
+<li>El diario neoyorquino public&oacute; que el presidente s&oacute;lo abon&oacute; 750 d&oacute;lares en impuestos sobre la renta en 2016, y que no pag&oacute; nada en 10 de los 15 a&ntilde;os anteriores porque indic&oacute; tener m&aacute;s p&eacute;rdidas que ganancias en esos ejercicios fiscales.&nbsp;</li>
+<li>Trump tach&oacute; enseguida esas informaciones de "falsas" y "totalmente inventadas".&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>&nbsp;Pese a que Biden cuenta con ventaja en las encuestas a nivel nacional, con el 49,6% frente al 42,9% de Trump, seg&uacute;n el compilado de encuestas RealClearPolitics, la batalla en estados claves ser&aacute; re&ntilde;ida.</li>
+<li>En estas elecciones hay un n&uacute;mero r&eacute;cord de latinos habilitados para votar, con 32 millones de electores hispanos, que representan un 13,3% del total.&nbsp;</li>
+<li>Entre los latinos la ventaja de Biden es clara con un 65% de apoyo frente al 36% del republicano, pero en estados claves como Florida la brecha se acorta.</li>
+<li>En este basti&oacute;n, cuyos 29 votos electorales son clave para llegar a la Casa Blanca, Biden tiene una leve ventaja con el 48,7% de la intenci&oacute;n de voto frente al 47,4% de Trump, seg&uacute;n RealClearPolitics.&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Sin embargo, entre latinos es Trump quien lleva ventaja con 50% frente al 46% de Biden, debido al fuerte apoyo de los cubanos, revel&oacute; una encuesta de la cadena NBC News.&nbsp;</p>
+<p>En este estado Trump apuesta con fuerza a atizar el sentimiento anticomunista, se&ntilde;alando que Biden es socialista.&nbsp;</p>
+<p>Por su parte, el candidato dem&oacute;crata busca aprovechar el rechazo que provoca el presidente por su gesti&oacute;n del hurac&aacute;n Mar&iacute;a, que dej&oacute; 3.000 muertos en Puerto Rico, para sumar votos entre la comunidad de la isla que emigr&oacute; tras el desastre.</p>
+}
+title Revelan el pobre pago de impuestos de Donald Trump
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202009/headers/28-revelaciones-sobre-impuestos-de-trump-encienden-debate-con-biden.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El presidente estadounidense, Donald Trump, fue acusado este domingo por el diario The New York Times de apenas pagar impuestos federales en 2016, cuando ganó las elecciones, una información que aviva la polémica sobre sus declaraciones fiscales antes del primer debate contra el demócrata Joe Biden, el martes.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Impuestos de Trump<b>
+    text1 Revelan el pobre pago de impuestos de Donald Trump
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
