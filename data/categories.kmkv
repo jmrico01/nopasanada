@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia
+        featured{array} /content/202009/28-cuerentena-reaviva-la-grieta-en-argentina
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/25-otra-noche-de-protestas-contra-violencia-policial-en-louiseville
+        featured{array} /content/202009/28-revelaciones-sobre-impuestos-de-trump-encienden-debate-con-biden
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/25-dos-heridos-por-arma-blanca-en-paris-cerca-de-antigua-sede-de-charlie-hebdo
+    featured{array} /content/202009/28-cuerentena-reaviva-la-grieta-en-argentina
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/24-feminismo-es-lo-mas-influyente-de-2020-afirman-lastesis
