@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong>&iquest;Qu&eacute; necesitas saber?</strong></span></p>
+<ul>
+<li>La canciller alemana Angela Merkel pidi&oacute; el martes nuevas medidas restrictivas para combatir la pandemia de coronavirus ante el aumento de las infecciones en el pa&iacute;s y a medida que se acerca el invierno.&nbsp;</li>
+<li>La l&iacute;der conservadora, que re&uacute;ne el martes por la tarde a los dirigentes de los 16 estados regionales, quiere poder limitar a 25 el n&uacute;mero de personas que asisten a una fiesta privada y a 50 el n&uacute;mero de personas que asisten a una fiesta en un espacio p&uacute;blico en caso de que se produzca un aumento del n&uacute;mero de casos, seg&uacute;n el proyecto de texto que se aprobar&aacute; durante esta reuni&oacute;n.&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>"Debido al descenso de las temperaturas, a las estancias prolongadas en espacios cerrados durante el oto&ntilde;o y el invierno, y a la amenaza de la temporada de gripe, ahora debemos estar especialmente atentos, sobre todo en la organizaci&oacute;n de actividades de ocio y fiestas privadas", subrayaron distintos responsables pol&iacute;ticos.&nbsp;</p>
+<p>En los restaurantes, caf&eacute;s y bares, donde cada cliente debe dejar sus datos, tambi&eacute;n se impondr&aacute;n multas de al menos 50 euros si la gente da informaci&oacute;n err&oacute;nea.&nbsp;</p>
+<p>En ciertas regiones particularmente afectadas por el virus, la venta de alcohol tambi&eacute;n podr&aacute; ser restringida temporalmente.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Berl&iacute;n vuelve a pedir a los alemanes que asuman su responsabilidad, mientras que, seg&uacute;n su portavoz, Angela Merkel est&aacute; "muy preocupada" por la reciente evoluci&oacute;n de la pandemia.</p>
+<p>El n&uacute;mero diario de nuevas infecciones en Alemania super&oacute; las 2.000, seg&uacute;n el instituto Robert Koch de vigilancia sanitaria, mientras que 9.471 personas murieron a causa del virus desde su aparici&oacute;n en el pa&iacute;s.&nbsp;</p>
+}
+title Merkel pide nuevas medidas restrictivas contra el coronavirus
+day 29
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202009/headers/29-merkel-pide-nuevas-restricciones-contra-coronavirus.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La canciller alemana Angela Merkel pidió el martes nuevas medidas restrictivas para combatir la pandemia de coronavirus ante el aumento de las infecciones en el país y a medida que se acerca el invierno.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Angela Merkel<b>
+    text1 Merkel pide nuevas medidas restrictivas contra el coronavirus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

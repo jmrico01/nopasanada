@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/28-cuerentena-reaviva-la-grieta-en-argentina
+        featured{array} /content/202009/29-trump-y-biden-se-enfrentan-en-primer-debate-este-martes
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202009/28-revelaciones-sobre-impuestos-de-trump-encienden-debate-con-biden
+        featured{array} /content/202009/29-merkel-pide-nuevas-restricciones-contra-coronavirus
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/28-cuerentena-reaviva-la-grieta-en-argentina
+    featured{array} /content/202009/29-maquina-china-hace-test-de-covid-19-en-solo-30-minutos
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202009/24-feminismo-es-lo-mas-influyente-de-2020-afirman-lastesis
+        featured{array} /content/202009/29-jbalvin-y-bad-bunny-los-mas-nominados-a-primer-grammy-latino-con-categoria-para-reggaeton
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202009/28-revelaciones-sobre-impuestos-de-trump-encienden-debate-con-biden
+    featured{array} /content/202009/29-jbalvin-y-bad-bunny-los-mas-nominados-a-primer-grammy-latino-con-categoria-para-reggaeton
 }
 other{kmkv} {
     name Other (Internal)
