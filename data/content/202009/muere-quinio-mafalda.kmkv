@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong>&iquest;Qu&eacute; necesitas saber?</strong></span></p>
+<ul>
+<li>El dibujante argentino Joaqu&iacute;n Salvador Lavado, conocido universalmente como "Quino", autor de Mafalda, muri&oacute; este mi&eacute;rcoles a los 88 a&ntilde;os de edad, inform&oacute; en Twitter su editor, Daniel Divinsky.</li>
+<li>"Se muri&oacute; Quino. Toda la gente buena en el pa&iacute;s y en el mundo, lo llorar&aacute;", escribi&oacute; Divinsky, director de Ediciones de la Flor.</li>
+<li>Quino sol&iacute;a pasar seis meses del a&ntilde;o en Espa&ntilde;a y seis meses en Argentina. Al momento de su muerte se encontraba en su ciudad natal, Mendoza (oeste), seg&uacute;n la prensa local.</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>&iquest;Por qu&eacute; nos importa?</strong></span></p>
+<ul>
+<li>Mafalda es uno de los personajes mas ic&oacute;nicos de la cultura e historia latinoamericana. Su autor, Quino, fue reconocido con el Premio Pr&iacute;ncipe de Asturias en 2014 y tambi&eacute;n recibi&oacute; la Lgi&oacute;n de Honor de Francia.</li>
+<li>Mafalda sirvi&oacute; tanto como entretenimiento para cientos de miles como un recurso de expresi&oacute;n. Quino en sus caricaturas siempre reivindic&oacute; la libertad, muchas veces ironiz&oacute; sobre la explotaci&oacute;n laboral y tambi&eacute;n hizo humor con el psicoan&aacute;lisis.</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">En profundidad:</strong></span></p>
+<ul>
+<li>Mafalda debuto el 29 de Setiembre de 1964 en la revista &ldquo;Primera Plana&rdquo;. &nbsp;El personaje fue originalmente creado en 1963 pero no fue publicado hasta entonces.&nbsp;</li>
+<li>El origin de Mafalda viene de una campa&ntilde;a promocional para una compa&ntilde;&iacute;a de electromodesticos llamada mansfield.</li>
+<li>&ldquo;La agencia Agnes Publicidad le encarg&oacute; el trabajo a Miguel Brasc&oacute;, pero como &eacute;l ten&iacute;a otros compromisos, me lo pas&oacute; a m&iacute;. Esto fue en 1963. Pero la campa&ntilde;a nunca se hizo y las ocho tiras que dibuj&eacute; quedaron guardadas en un caj&oacute;n. Hasta que al a&ntilde;o siguiente Juli&aacute;n Delgado, secretario de redacci&oacute;n de "Primera Plana", me pidi&oacute; una historieta. Entonces rescat&eacute; esas tiras y bueno, ah&iacute; empez&oacute; todo." Esta an&eacute;cdota, que Quino cont&oacute; muchas veces, tiene algunos detalles poco conocidos.</li>
+<li>El nombre &ldquo;Mafalda&rdquo; viene de la pel&iacute;cula "Dar la cara", de David Vi&ntilde;as. En una escena de esa pel&iacute;cula aparece un bebe dentro de un mois&eacute;s que se llama as&iacute;, y el autor, Quino, adopt&oacute; el nombre, ya que le pareci&oacute; alegre.</li>
+</ul>
+}
+title Muere Quino, el autor de Mafalda.
+day 30
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202009/headers/muere-quinio-mafalda.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El dibujante argentino Joaquín Salvador Lavado, conocido universalmente como "Quino", autor de Mafalda, murió este miércoles a los 88 años de edad, informó en Twitter su editor, Daniel Divinsky.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Muere Quino, el autor de Mafalda. <b>
+    text1 "Quino", el autor de Mafalda, murió este miércoles a los 88 años de edad
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle Ciao Quino, gracias por la sonrisas y los recuerdos.
+month 09
+tags{array} noticias-loimportante,noticias-culturales,mas-arteymusica
+videoID 
+titlePoster 
+color #FBFF09
