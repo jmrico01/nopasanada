@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202009/debate-hechos-check
+    featured{array} /content/202009/viajar-en-el-tiempo
 }
 other{kmkv} {
     name Other (Internal)
