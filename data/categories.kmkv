@@ -16,11 +16,11 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202009/10-escocia-lanza-aplicacion-movil-para-rastreo-de-coronavirus
+        featured{array} /content/202009/viajar-en-el-tiempo
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202009/21-cientos-de-ballenas-varadas-en-sur-de-australia
+        featured{array} /content/202010/1-incendios-siguen-arrasando-amazonia-y-el-pantanal-de-brasil
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202009/29-trump-y-biden-se-enfrentan-en-primer-debate-este-martes
+        featured{array} /content/202010/1-navalni-acusa-a-putin-de-su-envenenamiento
     }
     loimportante{kmkv} {
         name Lo Importante
         featured{array} /content/202009/29-merkel-pide-nuevas-restricciones-contra-coronavirus
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202009/29-maquina-china-hace-test-de-covid-19-en-solo-30-minutos
+    featured{array} /content/202010/1-incendios-siguen-arrasando-amazonia-y-el-pantanal-de-brasil
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/muere-quinio-mafalda

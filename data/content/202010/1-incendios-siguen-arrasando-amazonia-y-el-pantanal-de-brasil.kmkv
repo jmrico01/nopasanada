@@ -1,0 +1,57 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong>&iquest;Qu&eacute; necesitas saber?</strong></span></p>
+<ul>
+<li>El n&uacute;mero de focos de incendio en la Amazon&iacute;a brasile&ntilde;a tuvo un aumento de 61% en septiembre respecto al mismo mes del a&ntilde;o pasado y se triplic&oacute; en la regi&oacute;n del Pantanal, seg&uacute;n datos oficiales divulgados este jueves.</li>
+<li>En la selva amaz&oacute;nica, los sat&eacute;lites del Instituto Nacional de Investigaciones Espaciales (INPE) detectaron 32.017 focos de incendios el mes pasado, frente a 19.925 en septiembre de 2019.</li>
+<li>En los primeros nueve meses del a&ntilde;o, hubo 76.030 focos, un aumento de 14% en comparaci&oacute;n con los 66.749 del mismo periodo del a&ntilde;o pasado.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>M&aacute;s al sur, el Pantanal, el mayor humedal tropical del planeta, est&aacute; siendo arrasado por las llamas. El INPE detect&oacute; el mes pasado 8.106 focos de incendio, un r&eacute;cord mensual desde el inicio de esas observaciones en 1998, con un incremento de 180% respecto a septiembre de 2019.</li>
+<li>En los primeros nueve meses del a&ntilde;o, los incendios del Pantanal brasile&ntilde;o totalizan 18.259 y ya superaron el r&eacute;cord de todo un a&ntilde;o, que remontaba a 2005 (12.536 focos).</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>El gobierno del presidente Jair Bolsonaro, que niega el cambio clim&aacute;tico y preconiza la apertura de zonas protegidas a actividades mineras y agropecuarias, difundi&oacute; el pasado fin de semana en redes sociales un gr&aacute;fico que pretend&iacute;a demostrar una disminuci&oacute;n de los incendios forestales en 2020.</p>
+<p>Pero las cifras se refer&iacute;an a los incendios de los primeros ocho meses de 2020 comparados a los de los 12 meses de los a&ntilde;os precedentes.</p>
+<p>La estaci&oacute;n seca, donde se practican quemadas y en la cual se incineran los &aacute;rboles ya talados, se extiende hasta noviembre.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title Incendios siguen arrasando Amazonía y Pantanal de Brasil
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/1-incendios-siguen-arrasando-amazonia-y-el-pantanal-de-brasil.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El número de focos de incendio en la Amazonía brasileña tuvo un aumento de 61% en septiembre respecto al mismo mes del año pasado y se triplicó en la región del Pantanal, según datos oficiales divulgados este jueves.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Amazonía<b>
+    text1 Incendios siguen arrasando Amazonía y Pantanal de Brasil
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

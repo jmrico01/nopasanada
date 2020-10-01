@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong>&iquest;Qu&eacute; necesitas saber?</strong></span></p>
+<ul>
+<li>M&aacute;s de 3.000 hondure&ntilde;os partieron la noche del mi&eacute;rcoles hacia Estados Unidos desafiando la pandemia del coronavirus, huyendo del desempleo y en busca de mejores condiciones de vida.</li>
+<li>Los migrantes despegaron a pie de la terminal de buses de San Pedro Sula, la segunda ciudad de Honduras, situada 180 km al norte de Tegucigalpa.</li>
+<li>Miembros de la Cruz Roja Hondure&ntilde;a, que abastec&iacute;an a los migrantes de documentos de orientaci&oacute;n para la traves&iacute;a y medicamentos b&aacute;sicos, aseguraron que contabilizaron unos 1.200 en un primer grupo y cerca de 2.000 en un segundo que parti&oacute; horas despu&eacute;s.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Todos avanzaban a pie por grupos a la orilla de la carretera hacia la frontera con Guatemala por la aduana de Corinto, por momentos bajo llovizna.&nbsp;</p>
+<p>"Nosotros no le ponemos mente a eso de la pandemia, es en lo &uacute;ltimo que uno piensa. Queremos sacar adelante a la familia", dijo Jefrey Amaya, de 20 a&ntilde;os, quien lleg&oacute; a la terminal en un grupo de siete j&oacute;venes desde la comunidad de El Negrito, departamento de Yoro, a unos 20 km de San Pedro Sula.</p>
+<p>Jefrey dijo que atendi&oacute; una convocatoria que vio en redes sociales divulgada por personas no identificadas.&nbsp;</p>
+<p>"Vamos en busca del sue&ntilde;o americano, nadie nos detiene. Aqu&iacute; o nos morimos de covid-19 o nos morimos de hambre. Los gobiernos no hacen nada por generar empleo", sentenci&oacute; Miguel Artiga, de 27 a&ntilde;os, compa&ntilde;ero de Jefrey.</p>
+<p>La expectativa de afluencia masiva ante la convocatoria era poca porque desde enero, cuando salieron alrededor de 2.000 en una caravana, personas desconocidas convocaron a otros &eacute;xodos, sin que tuvieran &eacute;xito.&nbsp;</p>
+<p>Sin embargo, en esta ocasi&oacute;n, desde la tarde se fueron concentrando cientos de personas en la terminal de transporte, la mayor&iacute;a muy j&oacute;venes y muy pocas mujeres con hijos peque&ntilde;os.</p>
+<p>"Sabemos que (en el viaje) podemos perder, una mano, un pie o la vida. Uno va arriesgando todo y a saber si podremos pasar la frontera" de M&eacute;xico hacia Estados Unidos, reconoci&oacute; Jefrey.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Desde octubre del 2018, una docena de caravanas de mil o m&aacute;s personas, y otra menores de cientos, han salido de San Pedro Sula, a chocar con el muro de militares y polic&iacute;as tendido por el presidente Donald Trump en la frontera con M&eacute;xico.</p>
+<p>Salvadore&ntilde;os, guatemaltecos y mexicanos se han ido agregando en el camino hasta formar decenas miles, la inmensa mayor&iacute;a frustrados por las patrullas fronterizas, para despu&eacute;s ser deportados a sus pa&iacute;ses de origen.</p>
+<p>Seg&uacute;n el gobierno de Juan Orlando Hern&aacute;ndez, hasta el 27 de setiembre, hab&iacute;an sido deportados 31.022 hondure&ntilde;os, la mayor&iacute;a desde M&eacute;xico y Estados Unidos y los terceros de Guatemala.</p>
+}
+title Más de 3.000 hondureños inician caravana hacia EEUU
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/1-mas-de-3000-hondurenos-inician-caravana-hacia-eeuu.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Más de 3.000 hondureños partieron la noche del miércoles hacia Estados Unidos desafiando la pandemia del coronavirus, huyendo del desempleo y en busca de mejores condiciones de vida.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Caravana hondureña<b>
+    text1 Más de 3.000 hondureños inician caravana hacia EEUU
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

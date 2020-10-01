@@ -37,21 +37,18 @@ text4
 customTop 
 media{kmkv} {
     kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
-    header /images/202009/headers/29-maquina-china-hace-test-de-covid-19-en-solo-30-minutos.jpg
+    header /images/202009/headers/viajar-en-el-tiempo.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
     banksy /images/202006/10-banksy/banksy.jpg
     ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
 }
-description {
-Germain Tobar, y su equipo de investigación han logrado calcular cómo seria posible viajar en el tiempo sin crear una paradoja... ¿Podríamos cambiar entonces el 2020?
-
-}
+description Germain Tobar, y su equipo de investigación han logrado calcular cómo seria posible viajar en el tiempo sin crear una paradoja... ¿Podríamos cambiar entonces el 2020?
 year 2020
 author AFP Y NPN NOTICIAS
 featured{kmkv} {
-    title <b>El 2020 tiene solución: Viajar en el tiempo sin paradojas es posible<b>
-    text1 Investigadores lograron calcular cómo seria posible esto.
+    title <b>Viajar en el tiempo<b>
+    text1 El 2020 tiene solución: Viajar en el tiempo sin paradojas es posible
     text2 Por AFP Y NPN NOTICIAS
     pretitle NOTICIAS:
     highlightColor #FBFF09

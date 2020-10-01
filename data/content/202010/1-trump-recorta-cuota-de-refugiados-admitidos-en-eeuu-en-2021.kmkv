@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong>&iquest;Qu&eacute; necesitas saber?</strong></span></p>
+<ul>
+<li>La administraci&oacute;n del presidente Donald Trump anunci&oacute; una nueva reducci&oacute;n de la cuota de refugiados admitidos en Estados Unidos, con el l&iacute;mite de 15.000 personas en 2021, una medida con miras a la elecci&oacute;n presidencial de noviembre.</li>
+<li>El Departamento de Estado hizo este anuncio el mi&eacute;rcoles por la noche, media hora antes del inicio del a&ntilde;o presupuestario 2021 el 1 de octubre, respetando al l&iacute;mite el plazo establecido por la ley.</li>
+<li>En los pr&oacute;ximos 12 meses, un m&aacute;ximo de 15.000 refugiados podr&aacute;n ser admitidas en el pa&iacute;s, a menos que no haya un cambio en la administraci&oacute;n, frente a los 18.000 refugiados autorizados este a&ntilde;o.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>La cifra cay&oacute; a su nivel m&aacute;s bajo, y representa una &iacute;nfima cantidad respecto a las 100.000 personas acogidas anualmente durante la administraci&oacute;n del presidente anterior, Barack Obama.</p>
+<p>Trump, que ha hecho de la lucha contra la migraci&oacute;n una de sus prioridades, ya suspendi&oacute; las admisiones de refugiados durante meses este a&ntilde;o, con el pretexto de la pandemia de covid-19.</p>
+<p>Al presentar la medida, el Departamento de Estado argument&oacute; que Estados Unidos busca ayudar a los refugiados "lo m&aacute;s cerca posible de sus hogares", para que puedan regresar.</p>
+<p>"Centr&aacute;ndonos en primer lugar en poner t&eacute;rmino a los conflictos que conllevan los desplazamientos y suministrando una ayuda humanitaria en el extranjero para proteger y ayudar a las personas desplazadas, podemos prevenir los efectos desestabilizadores de estos desplazamientos en los pa&iacute;ses afectados y sus vecinos", afirm&oacute; en un comunicado.</p>
+<p>Casi 80 millones de personas en todo el mundo han tenido que abandonar sus hogares, seg&uacute;n el Alto Comisionado de las Naciones Unidas para los Refugiados, una cifra que se ha duplicado en diez a&ntilde;os.</p>
+<p>El candidato dem&oacute;crata a la Casa Blanca, Joe Biden, se comprometi&oacute; a aumentar el n&uacute;mero de refugiados admitidos a 125.000, alegando que la recepci&oacute;n de personas perseguidas forma parte de los valores estadounidenses.&nbsp;</p>
+<p>La campa&ntilde;a de Trump public&oacute; anuncios en los que se afirmaba que la postura de Biden sobre los refugiados mostraba que era "d&eacute;bil" y que llegar&iacute;an personas de lugares "peligrosos".&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>Durante su campa&ntilde;a de 2016, el mandatario prometi&oacute; reducir el n&uacute;mero de inmigrantes mexicanos y musulmanes, y critic&oacute; a la canciller alemana, Angela Merkel, por dar la bienvenida a cientos de miles de migrantes, incluidos sirios.&nbsp;</p>
+<p>Durante a&ntilde;os, Estados Unidos ha acogido a m&aacute;s refugiados que el resto de pa&iacute;ses juntos, pero Canad&aacute; lo super&oacute; el a&ntilde;o pasado al permitir la entrada de m&aacute;s de 30.000 migrantes, seg&uacute;n cifras de la ONU.</p>
+}
+title Trump recorta cuota de refugiados admitidos en EEUU en 2021
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/1-trump-recorta-cuota-de-refugiados-admitidos-en-eeuu-en-2021.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La administración del presidente Donald Trump anunció una nueva reducción de la cuota de refugiados admitidos en Estados Unidos, con el límite de 15.000 personas en 2021, una medida con miras a la elección presidencial de noviembre.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Trump<b>
+    text1 Trump recorta cuota de refugiados admitidos en EEUU en 2021
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
