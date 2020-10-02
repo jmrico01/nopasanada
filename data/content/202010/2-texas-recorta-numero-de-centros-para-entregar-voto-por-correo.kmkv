@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong>&iquest;Qu&eacute; necesitas saber?</strong></span></p>
+<ul>
+<li>El gobernador republicano de Texas ha anunciado que solo habilitar&aacute; un punto por condado para para entregar las papeletas de votaci&oacute;n por correo en todo el estado sure&ntilde;o, el segundo m&aacute;s extenso de Estados Unidos.</li>
+<li>La decisi&oacute;n del gobernador Greg Abbott, un partidario de Trump, restringe el acceso a la pr&aacute;ctica com&uacute;n de votar por correo, que se espera que sea mucho m&aacute;s popular debido a la pandemia de coronavirus.&nbsp;</li>
+<li>"Estos protocolos de seguridad mejorados garantizar&aacute;n una mayor transparencia y ayudar&aacute;n a detener los intentos de votaci&oacute;n ilegal", dijo Abbott en un comunicado el jueves.&nbsp;</li>
+<li>Texas tiene alguno de los condados m&aacute;s poblados del pa&iacute;s. En el de Harris, donde est&aacute; Houston, hay 2,3 millones de votantes que tendr&aacute;n solo punto para entregar su papeleta. Hasta ahora ten&iacute;an 12 puntos habilitados. &nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>"Esto no es seguridad, es represi&oacute;n", dijo en Twitter Lina Hidalgo, una dem&oacute;crata de alto rango de este condado.&nbsp;</li>
+<li>"Los votantes con boleta por correo no deber&iacute;an tener que conducir 30 millas (48 kil&oacute;metros) para entregar su papeleta o depender de un sistema de correo que enfrenta recortes".&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>La medida de Abbott est&aacute; en l&iacute;nea con las opiniones expresadas por el presidente de Estados Unidos, Donald Trump, quien frecuentemente afirma sin dar pruebas que el voto epistolar es una fuente de fraude electoral.</p>
+<p>Adem&aacute;s de enviar en voto por el servicio de correos, Estados Unidos permite depositar las papeletas en unas urnas ubicadas en estos centros.&nbsp;</p>
+<p>Esta pr&aacute;ctica se considera m&aacute;s segura para la poblaci&oacute;n de riesgo ante el covid-19 que tener que hacer fila en un colegio electoral el d&iacute;a de las elecciones.&nbsp;</p>
+<p>Aparte de incidentes aislados, ning&uacute;n estudio serio ha confirmado la existencia de fraudes importantes relacionados con las papeletas de voto por correo en las elecciones estadounidenses.</p>
+<p>En las &uacute;ltimas elecciones presidenciales en Estados Unidos, en 2016, una cuarta parte del electorados, alrededor de 33 millones de personas, votaron por correo</p>
+}
+title Texas recorta número de centros para entregar voto por correo
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/2-texas-recorta-numero-de-centros-para-entregar-voto-por-correo.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El gobernador republicano de Texas ha anunciado que solo habilitará un punto por condado para para entregar las papeletas de votación por correo en todo el estado sureño, el segundo más extenso de Estados Unidos.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Votos en EEUU<b>
+    text1 Texas recorta número de centros para entregar voto por correo
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

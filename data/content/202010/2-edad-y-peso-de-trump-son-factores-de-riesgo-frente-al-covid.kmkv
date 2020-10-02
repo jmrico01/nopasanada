@@ -1,0 +1,56 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong>&iquest;Qu&eacute; necesitas saber?</strong></span></p>
+<ul>
+<li>Su edad --74 a&ntilde;os-- y sobrepeso colocan a Donald Trump en un grupo de riesgo frente al covid-19, pero estos factores no bastan para prever de qu&eacute; manera afectar&aacute; esta enfermedad al presidente de Estados Unidos.</li>
+<li>La gravedad del covid-19 depende en gran medida de la edad. Los peores casos necesitan una hospitalizaci&oacute;n e incluso un ingreso en reanimaci&oacute;n, que puede acabar en la muerte.</li>
+<li>"Hay dos grupos de personas con un riesgo m&aacute;s elevado de caer gravemente enfermas: los mayores de 60 a&ntilde;os y quienes tienen otros problemas de salud", subraya la Organizaci&oacute;n Mundial de la Salud en su sitio web.</li>
+<li>"De cada 10 muertes relacionadas con el covid-19 en Estados Unidos, ocho corresponden a adultos mayores de 65 a&ntilde;os", seg&uacute;n los Centros de Control y Prevenci&oacute;n de Enfermedades (CDC) de ese pa&iacute;s.</li>
+</ul>
+<p><strong>En profundidad&nbsp;</strong></p>
+<p>Seg&uacute;n los &uacute;ltimos datos sobre su salud publicadas en junio, Trump puede ser calificado de obeso. Con 110 kilos por 1,90 metros, el presidente tiene un &Iacute;ndice de Masa Corporal (el peso dividido por la estatura al cuadrado) de 30,5.</p>
+<p>Se considera que un individuo sufre obesidad cuando su IMC supera 30 ("moderada" hasta 35, "elevada" entre 35 y 40 y "m&oacute;rbida" por encima de 40).</p>
+<p>La obesidad "aumenta el riesgo de enfermar gravemente de covid-19", seg&uacute;n los CDC.</p>
+<p>"El v&iacute;nculo entre obesidad y el riesgo de complicaciones est&aacute; comprobado, debido a patolog&iacute;as anexas", como diabetes e hipertensi&oacute;n, seg&uacute;n el ministerio franc&eacute;s de Sanidad.</p>
+<p>Pero de nuevo, ser obeso no implica autom&aacute;ticamente padecer una manifestaci&oacute;n grave de covid-19.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Independientemente de la edad, la presencia de otras patolog&iacute;as es un factor agravante: hipertensi&oacute;n, problemas card&iacute;acos, diabetes, insuficiencia renal o incluso un sistema inmunitario debilitado.</li>
+<li>La salud del presidente estadounidense fue objeto de especulaciones en los &uacute;ltimos meses, como en junio, cuando fue filmado bajando con cuidado una rampa, paso a paso.</li>
+<li>Dos semanas despu&eacute;s, asegur&oacute; encontrarse bien: "Si hay un problema, lo comunicar&eacute;".</li>
+<li>Por otro lado, se sospecha que algunos casos graves tambi&eacute;n pueden estar relacionados con la gen&eacute;tica. Eso explicar&iacute;a en parte por qu&eacute; el nuevo coronavirus afecta m&aacute;s a algunas minor&iacute;as &eacute;tnicas en Estados Unidos, como negros y asi&aacute;ticos, como se&ntilde;alaron varios estudios.</li>
+</ul>
+}
+title Trump contrae covid-19 con factores de riesgo
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/2-edad-y-peso-de-trump-son-factores-de-riesgo-frente-al-covid.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Su edad --74 años-- y sobrepeso colocan a Donald Trump en un grupo de riesgo frente al covid-19, pero estos factores no bastan para prever de qué manera afectará esta enfermedad al presidente de Estados Unidos.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Trump tiene covid-19<b>
+    text1 Trump contrae covid-19 con factores de riesgo
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
