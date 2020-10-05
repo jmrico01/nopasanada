@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202010/1-incendios-siguen-arrasando-amazonia-y-el-pantanal-de-brasil
+        featured{array} /content/202010/5-desastre-ecologico-en-rusia-provoca-muert-masiva-de-animales-marinos
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202010/2-texas-recorta-numero-de-centros-para-entregar-voto-por-correo
+        featured{array} /content/202010/5-mas-de-una-semana-de-combate-en-karabaj
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202010/2-fuerzas-de-azerbaiyan-bombardean-karabaj
+        featured{array} /content/202010/5-pandemia-complica-nombramiento-de-jueza-en-corte-suprema-de-eeuu
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/2-dejennos-trabajar-los-restaurantes-parisinos
+    featured{array} /content/202010/5-medicos-de-trump-decidiran-sobre-su-alta-durante-jornada
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202009/muere-quinio-mafalda
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202010/2-edad-y-peso-de-trump-son-factores-de-riesgo-frente-al-covid
+    featured{array} /content/202010/5-medicos-de-trump-decidiran-sobre-su-alta-durante-jornada
 }
 other{kmkv} {
     name Other (Internal)

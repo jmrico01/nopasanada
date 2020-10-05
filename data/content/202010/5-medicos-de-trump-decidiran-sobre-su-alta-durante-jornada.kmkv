@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong>&iquest;Qu&eacute; necesitas saber?</strong></span></p>
+<ul>
+<li>El equipo m&eacute;dico del presidente de Estados Unidos, Donald Trump, decidir&aacute; "durante la jornada" si da de alta al mandatario, ingresado el viernes tras contagiarse de covid-19, indic&oacute; un alto funcionario de la Casa Blanca.</li>
+<li>El jefe de gabinete, Mark Meadows, indic&oacute; a la cadena Fox News que "todav&iacute;a no se ha tomado una decisi&oacute;n" y que la salud del mandatario "contin&uacute;a mejorando".&nbsp;</li>
+<li>El mandatario, de 74 a&ntilde;os, fue hospitalizado para tratar un cuadro de coronavirus, tras dar positivo el jueves en la noche.&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>"Los m&eacute;dicos van a efectuar una evaluaci&oacute;n en alg&uacute;n momento hacia el final de la ma&ntilde;ana y despu&eacute;s el presidente, en consultas con sus doctores, van a tomar una decisi&oacute;n sobre si le dan el alta durante la jornada", agreg&oacute; Meadows.&nbsp;</p>
+<p>El funcionario indic&oacute; que no podr&iacute;a entregar una hora precisa, pero que piensa que ser&aacute; "a principio de la tarde".&nbsp;</p>
+<p>El domingo, un optimismo prudente reinaba en el entorno del Trump, pese a que el m&eacute;dico de la Casa Blanca admiti&oacute; que el estado inicial del mandatario fue m&aacute;s grave de lo que se inform&oacute;.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El facultativo de Trump, Sean Conley, contradijo sus declaraciones del s&aacute;bado y dijo que el viernes el mandatario requiri&oacute; la administraci&oacute;n de ox&iacute;geno durante una hora cuando todav&iacute;a estaba en la Casa Blanca.</li>
+<li>Este episodio fue considerado como lo suficientemente inquietante como para decidir su hospitalizaci&oacute;n.&nbsp;</li>
+<li>El m&eacute;dico reconoci&oacute; que no hab&iacute;a revelado el incidente el s&aacute;bado para proyectar una imagen de optimismo.</li>
+</ul>
+}
+title Trump contrae covid-19 con factores de riesgo
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/5-medicos-de-trump-decidiran-sobre-su-alta-durante-jornada.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Su edad --74 años-- y sobrepeso colocan a Donald Trump en un grupo de riesgo frente al covid-19, pero estos factores no bastan para prever de qué manera afectará esta enfermedad al presidente de Estados Unidos.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Médicos de Trump<b>
+    text1 Trump contrae covid-19 con factores de riesgo
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
