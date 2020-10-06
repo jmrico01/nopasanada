@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El brit&aacute;nico Roger Penrose, el alem&aacute;n Reinhard Genzel y la estadounidense Andrea Ghez fueron galardonados este martes con el Premio Nobel de F&iacute;sica por sus investigaciones sobre "los agujeros negros", comunic&oacute; el jurado.</li>
+<li>La mitad del premio recay&oacute; en Penrose, de 89 a&ntilde;os, por demostrar "que la formaci&oacute;n de un agujero negro es una predicci&oacute;n s&oacute;lida de la teor&iacute;a de la relatividad general" y la otra mitad del premio se la reparten Genzel, de 68, y Ghez, de 55, por descubrir "un objeto compacto y extremadamente pesado en el centro de nuestra galaxia", explic&oacute; el jurado.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Andrea Ghez se convierte as&iacute; en la cuarta mujer que gana un Premio Nobel de F&iacute;sica, uno de los seis prestigiosos galardones.</li>
+<li>Los agujeros negros supermasivos son un enigma de la astrof&iacute;sica, sobre todo por la manera en que llegan a ser tan grandes, y su formaci&oacute;n centra muchas investigaciones. Los cient&iacute;ficos piensan que devoran, a una velocidad inaudita, todos los gases emitidos por las galaxias muy densas que les rodean.</li>
+<li>Como son invisibles, s&oacute;lo se pueden observar por contraste, viendo qu&eacute; fen&oacute;menos generan a su alrededor. Una primera imagen revolucionaria fue revelada al mundo en abril de 2019.</li>
+<li>La astrof&iacute;sica y la f&iacute;sica cu&aacute;ntica, que se centra en el estudio de lo infinitamente peque&ntilde;o, eran favoritas para este Nobel 2020, seg&uacute;n los expertos.</li>
+</ul>
+}
+title Nobel de Física premia a tres expertos de los "agujeros negros"
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/5-pandemia-complica-nombramiento-de-jueza-en-corte-suprema-de-eeuu.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El británico Roger Penrose, el alemán Reinhard Genzel y la estadounidense Andrea Ghez fueron galardonados este martes con el Premio Nobel de Física por sus investigaciones sobre "los agujeros negros", comunicó el jurado.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Nobel de Física<b>
+    text1 Nobel de Física premia a tres expertos de los "agujeros negros"
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

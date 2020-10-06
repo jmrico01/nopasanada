@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Par&iacute;s empez&oacute; a aplicar este martes nuevas medidas para frenar el auge de la epidemia del covid-19, como el cierre de bares y condiciones m&aacute;s restrictivas en los restaurantes, que se prolongar&aacute;n como m&iacute;nimo dos semanas.</li>
+<li>En los restaurantes parisinos y de los departamentos lim&iacute;trofes, no podr&aacute; haber m&aacute;s de seis comensales por mesa, los diferentes grupos deber&aacute;n estar separados como m&iacute;nimo de un metro y el establecimiento registrar&aacute; los datos de sus clientes para poder contactarlos en caso de que surja un contagio. Adem&aacute;s, sobre las mesas, junto a la sal y a la pimienta, habr&aacute; gel hidroalcoh&oacute;lico.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Otras medidas incluyen el cierre de ferias, salones profesionales y circos, as&iacute; como limitar el acceso en centros comerciales y grandes almacenes a un cliente por cada cuatro metros cuadrados de superficie del local.</p>
+<p>En las universidades, los anfiteatros solo podr&aacute;n acoger 50% de los estudiantes y a las piscinas solo podr&aacute;n acceder los ni&ntilde;os que siguen cursos de nataci&oacute;n. Las salas de deporte siguen cerradas.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En la regi&oacute;n parisina, la tasa de ocupaci&oacute;n de las camas de cuidados intensivos para los pacientes con covid-19 super&oacute; el techo cr&iacute;tico de 30% y se espera que se dispare hasta 50% en los "pr&oacute;ximos 15 d&iacute;as", advirtieron el lunes las autoridades sanitarias, que estiman a la vez necesario un periodo de 15 d&iacute;as para evaluar la eficacia de las nuevas restricciones.</li>
+<li>Seg&uacute;n los &uacute;ltimos datos oficiales del lunes, m&aacute;s de 1.400 enfermos de covid-19 se hallan en cuidados intensivos en Francia, que cuenta con 5.000 plazas disponibles.</li>
+<li>La tasa de positividad, es decir, el porcentaje de tests positivos respecto al total, contin&uacute;a aumentando y el lunes se situ&oacute; en 8,6%.</li>
+<li>Esta cifra es muy superior entre las personas que viven en la pobreza en la regi&oacute;n parisina: m&aacute;s de la mitad de ellas, en su mayor&iacute;a migrantes, contrajeron el nuevo coronavirus, seg&uacute;n un estudio de la ONG M&eacute;dicos Sin Fronteras.</li>
+<li>La epidemia en Francia ha dejado m&aacute;s de 32.000 muertos desde mediados de marzo.</li>
+</ul>
+}
+title París aplica nuevas medidas para frenar epidemia del covid-19
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/5-pandemia-complica-nombramiento-de-jueza-en-corte-suprema-de-eeuu.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description París empezó a aplicar este martes nuevas medidas para frenar el auge de la epidemia del covid-19, como el cierre de bares y condiciones más restrictivas en los restaurantes, que se prolongarán como mínimo dos semanas.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>París<b>
+    text1 París aplica nuevas medidas para frenar epidemia del covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

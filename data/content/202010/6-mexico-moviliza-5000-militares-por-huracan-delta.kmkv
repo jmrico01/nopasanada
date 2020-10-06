@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>M&eacute;xico orden&oacute; el despliegue de 5.000 militares en una regi&oacute;n del sureste del pa&iacute;s hacia donde avanza con el hurac&aacute;n Delta, que se intensific&oacute; a categor&iacute;a 2, anunciaron este martes las autoridades.</li>
+<li>"Se ha dado la instrucci&oacute;n de que se movilicen hasta 5.000 elementos con todos los equipos necesarios para proteger a la poblaci&oacute;n, y ojal&aacute; el hurac&aacute;n Delta pierda fuerza", dijo el presidente Andr&eacute;s Manuel L&oacute;pez Obrador en su habitual conferencia matutina.</li>
+<li>Los efectivos, que pertenecen a la Secretar&iacute;a de Marina, ejecutar&aacute;n el Plan DN-III, que auxilia a las comunidades afectadas por desastres de origen natural o humano.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>"Delta se ha intensificado a hurac&aacute;n categor&iacute;a 2 en la escala Saffir-Simpson, su centro se localiza a 675 km al sureste de Cozumel y a 710 km al sureste de Canc&uacute;n", en el estado de Quintana Roo, inform&oacute; por su parte la Comisi&oacute;n Nacional del Agua (Conagua).</p>
+<p>Delta sopla con vientos m&aacute;ximos sostenidos de 155 km/h y su desplazamiento, hacia el oeste-noroeste, es de 24 km/h, precis&oacute; la instituci&oacute;n en un comunicado.</p>
+<p>Los huracanes de gran intensidad son los que tienen categor&iacute;a 3 a 5, de una escala de de 5, con vientos de m&aacute;s de 178 km/h.</p>
+<p>En Quintana Roo, autoridades declararon la alerta naranja, de alta peligrosidad, para Tulum, Solidaridad, Cozumel, Puerto Morelos, Benito Ju&aacute;rez, Isla Mujeres y L&aacute;zaro C&aacute;rdenas, todos municipios del norte del estado.</p>
+<p>Mientras que en Yucat&aacute;n autoridades determinaron igualmente una alerta naranja para los municipios en riesgo.</p>
+<p>Delta es la vigesimosexta tormenta con nombre de una temporada de huracanes en el Atl&aacute;ntico inusualmente activa en la que se han batido varios r&eacute;cords, entre ellos que se agot&oacute; la lista de nombres previstos para los ciclones y los meteor&oacute;logos comenzaron a identificarlos con el alfabeto griego.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El Centro Nacional de Huracanes (NHC), con sede en Miami, Estados Unidos, dijo por su parte que se "esperan condiciones de hurac&aacute;n extremadamente peligrosas para el noreste de la Pen&iacute;nsula de Yucat&aacute;n a partir del mi&eacute;rcoles".</li>
+<li>Autoridades estatales de Quintana Roo y Yucat&aacute;n incrementaron sus alertas de protecci&oacute;n civil ante la previsi&oacute;n de que Delta impacte sus territorios la noche de este martes, ya como hurac&aacute;n categor&iacute;a 3.</li>
+</ul>
+}
+title México moviliza 5.000 militares por huracán Delta
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/5-pandemia-complica-nombramiento-de-jueza-en-corte-suprema-de-eeuu.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description México ordenó el despliegue de 5.000 militares en una región del sureste del país hacia donde avanza con el huracán Delta, que se intensificó a categoría 2, anunciaron este martes las autoridades.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Huracán Delta<b>
+    text1 México moviliza 5.000 militares por huracán Delta
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
