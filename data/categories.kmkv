@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202009/viajar-en-el-tiempo
+        featured{array} /content/202010/7-por-primera-vez-dos-mujeres-reciben-premio-nobel-cientifico-juntas
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -101,7 +101,7 @@ venus{kmkv} {
     }
     inspiradoras{kmkv} {
         name Mujeres inspiradoras
-        featured{array} /content/202007/compermisa-ep-1-nataliacarvajal-guiriuribe
+        featured{array} /content/202010/7-por-primera-vez-dos-mujeres-reciben-premio-nobel-cientifico-juntas
     }
     belleza{kmkv} {
         name Belleza

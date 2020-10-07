@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Delta toc&oacute; tierra este mi&eacute;rcoles por la ma&ntilde;ana en la costa caribe&ntilde;a de M&eacute;xico como hurac&aacute;n de categor&iacute;a dos, con vientos de hasta 175 km/h, sin que de momento se hayan reportado v&iacute;ctimas</li>
+<li>El cicl&oacute;n, que lleg&oacute; a ser de categor&iacute;a cuatro, entr&oacute; al amanecer por la Pen&iacute;nsula de Yucat&aacute;n, cerca de la ciudad de Puerto Morelos, entre los balnearios tur&iacute;sticos de Canc&uacute;n y Playa del Carmen, seg&uacute;n el Centro Nacional de Huracanes, con sede en Miami.</li>
+<li>"No tenemos notificaci&oacute;n (...) de alg&uacute;n deceso provocado por este paso del hurac&aacute;n", se&ntilde;al&oacute; Luis Alberto Ortega, de Protecci&oacute;n Civil de M&eacute;xico.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Delta causaba lluvias torrenciales en los estados de Yucat&aacute;n y Quintana Roo, as&iacute; como en los vecinos Campeche y Tabasco.</p>
+<p>El gobernador de Quintana Roo, Carlos Joaqu&iacute;n, indic&oacute; que la mitad del balneario de Canc&uacute;n "est&aacute; sin energ&iacute;a el&eacute;ctrica, mucho menos de lo que se esperaba para este momento", al tiempo que report&oacute; la ca&iacute;da de gran cantidad de &aacute;rboles y de cableado el&eacute;ctrico.</p>
+<p>Unos 41.000 turistas fueron evacuados el martes a refugios desde sus hoteles en los balnearios de Canc&uacute;n, Puerto Morelos e Isla Mujeres, seg&uacute;n Roberto Cintr&oacute;n, presidente de la asociaci&oacute;n hotelera local. De ellos, 85% son mexicanos y el resto extranjeros, sobre todo estadounidenses.</p>
+<p>"Est&aacute;bamos a 35% de nuestra capacidad. Para prevenir el contagio de covid-19, en los refugios se han tomado las mismas medidas que en los hoteles, como uso de gel, cubrebocas", a&ntilde;adi&oacute; Cintr&oacute;n.</p>
+<p>En Canc&uacute;n, el mayor destino tur&iacute;stico de M&eacute;xico, han sido habilitados m&aacute;s de 160 albergues.</p>
+<p>Seg&uacute;n el pron&oacute;stico, el hurac&aacute;n recorrer&aacute; Quintana Roo y el vecino Yucat&aacute;n para la noche de este mismo mi&eacute;rcoles para regresar al mar por el Golfo de M&eacute;xico y seguir hacia Estados Unidos.</p>
+<p><span style="font-family: FuturaPTMedium;"><strong>&iquest;Por qu&eacute; nos importa?</strong></span></p>
+<ul>
+<li>El fin de semana, la tormenta tropical Gamma y otro frente fr&iacute;o provocaron intensas lluvias en gran parte de la regi&oacute;n, con saldo de seis muertos y unos 600.000 afectados en el sur y sureste de M&eacute;xico.</li>
+<li>"No hemos tenido mucho sol, es una l&aacute;stima. Tampoco hemos podido salir a conocer otros lugares", declar&oacute; la turista costarricense Alexandra Gonz&aacute;lez, de 34 a&ntilde;os.</li>
+<li>Delta es la vigesimosexta tormenta de esta temporada en el Atl&aacute;ntico, en la que se han batido varios r&eacute;cords, entre ellos que se agot&oacute; la lista de nombres previstos para los ciclones y los meteor&oacute;logos comenzaron a identificarlos con el alfabeto griego.</li>
+</ul>
+}
+title Huracán Delta toca tierra en México y se debilita
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/7-huracan-toca-tierra-en-mexico-y-se-debilita.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Delta tocó tierra este miércoles por la mañana en la costa caribeña de México como huracán de categoría dos, con vientos de hasta 175 km/h, sin que de momento se hayan reportado víctimas.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Huracán Delta<b>
+    text1 Huracán Delta toca tierra en México y se debilita
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
