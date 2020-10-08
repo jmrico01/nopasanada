@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202010/6-biden-aventaja-a-trump-por-16-puntos-en-encuesta
+        featured{array} /content/202010/8-una-mosca-en-la-cabeza-de-pence-durante-debate-acaparo-twitter
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202010/6-nobel-de-fisica-premia-tres-expertos-en-agujeros-negros
+        featured{array} /content/202010/8-trump-dice-que-no-paritipara-en-debate-virtual
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/6-mexico-moviliza-5000-militares-por-huracan-delta
+    featured{array} /content/202010/8-contagios-de-coronavirus-en-rusia-se-agravan-a-cifras-record
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202009/muere-quinio-mafalda
+        featured{array} /content/202010/8-poeta-estadounidense-louise-gluck-gana-nobel-de-literatura
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202010/6-nobel-de-fisica-premia-tres-expertos-en-agujeros-negros
+    featured{array} /content/202010/8-trump-dice-que-no-paritipara-en-debate-virtual
 }
 other{kmkv} {
     name Other (Internal)
