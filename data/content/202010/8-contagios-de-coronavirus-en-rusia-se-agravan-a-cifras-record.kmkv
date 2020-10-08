@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La epidemia de coronavirus en Rusia continu&oacute; agrav&aacute;ndose el jueves con m&aacute;s de 11.400 nuevas infecciones, un nivel equivalente al pico de mayo, pero el gobierno no anunci&oacute; ninguna medida restrictiva importante.&nbsp;</li>
+<li>En total se registraron 11.493 nuevos casos y 191 muertes, una cifra muy cercana al r&eacute;cord de 11.656 casos registrados el 11 de mayo, cuando se aplicaba un estricto confinamiento en el pa&iacute;s.&nbsp;</li>
+<li>En un mes, el n&uacute;mero diario de nuevas infecciones casi se duplic&oacute;.&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Oficialmente, se registraron 3.323 nuevos casos en Mosc&uacute;, la ciudad m&aacute;s afectada de Rusia, y 461 en San Petersburgo, la segunda ciudad m&aacute;s grande del pa&iacute;s.</p>
+<p>El jueves, el patriarca Kirill, el jefe de la iglesia ortodoxa rusa, anunci&oacute; que se hab&iacute;a aislado despu&eacute;s de haber estado en contacto con una persona que dio positivo.&nbsp;</p>
+<p>"El tiempo de mi cuarentena, seg&uacute;n las recomendaciones m&eacute;dicas, no ha terminado a&uacute;n", dijo en una comunicado anunciando la cancelaci&oacute;n de una visita a un monasterio cerca de Mosc&uacute;.&nbsp;</p>
+<p>El d&iacute;a anterior, la jefa de la agencia de salud rusa, Anna Popova, reconoci&oacute; que la situaci&oacute;n epidemiol&oacute;gica "se est&aacute; volviendo m&aacute;s compleja".</p>
+<p>"Est&aacute;bamos preparados para esto. Tenemos un aumento en 60 regiones. En otras veinte, la situaci&oacute;n es estable, o incluso en disminuci&oacute;n si se observan medidas" de protecci&oacute;n, dijo en televisi&oacute;n.&nbsp;</p>
+<p>Por su parte, el presidente Vladimir Putin dijo el martes que unas "50 personas" de su entorno hab&iacute;an sido vacunadas contra el coronavirus, elogiando una vez m&aacute;s la vacuna que Rusia dice haber inventado.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las autoridades no mencionan ning&uacute;n nuevo confinamiento, juzgando que el sistema sanitario es capaz de acoger a los enfermos y que las existencias de medios de protecci&oacute;n y de medicamentos son suficientes.&nbsp;</li>
+<li>Sin embargo, la ciudad de Mosc&uacute; orden&oacute; a las empresas que pongan en teletrabajo a al menos el 30% de su personal hasta el 28 de octubre, mientras que las actuales vacaciones escolares se ampliaron de una a dos semanas. El ayuntamiento tambi&eacute;n recomienda que la poblaci&oacute;n de riesgo no salga de sus casas.</li>
+<li>Desde el comienzo de la epidemia, Rusia ha registrado m&aacute;s de 1,2 millones de casos de coronavirus, incluyendo 22.056 muertes.</li>
+</ul>
+}
+title Contagios de coronavirus en Rusia se acercan a cifras récord
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/8-contagios-de-coronavirus-en-rusia-se-agravan-a-cifras-record.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La epidemia de coronavirus en Rusia continuó agravándose el jueves con más de 11.400 nuevas infecciones, un nivel equivalente al pico de mayo, pero el gobierno no anunció ninguna medida restrictiva importante.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Coronavirus en Rusia<b>
+    text1 Contagios de coronavirus en Rusia se acercan a cifras récord
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
