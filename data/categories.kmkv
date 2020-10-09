@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202010/8-trump-dice-que-no-paritipara-en-debate-virtual
+        featured{array} /content/202010/9-bachelet-pide-cese-el-fuego-urgente-en-karabaj
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/8-contagios-de-coronavirus-en-rusia-se-agravan-a-cifras-record
+    featured{array} /content/202010/9-protestas-encienden-chispas-en-venezuela
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202010/8-poeta-estadounidense-louise-gluck-gana-nobel-de-literatura
+        featured{array} /content/202010/9-programa-mundial-de-alimentos-gana-nobel-de-la-paz-por-batalla-contra-el-hambre
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202010/8-trump-dice-que-no-paritipara-en-debate-virtual
+    featured{array} /content/202010/9-programa-mundial-de-alimentos-gana-nobel-de-la-paz-por-batalla-contra-el-hambre
 }
 other{kmkv} {
     name Other (Internal)
