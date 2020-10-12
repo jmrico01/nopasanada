@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202010/5-desastre-ecologico-en-rusia-provoca-muert-masiva-de-animales-marinos
+        featured{array} /content/202010/12-cambio-climatico-es-principal-responsable-de-duplicacion-de-catastrofes-naturales-en-20-anos
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202010/8-una-mosca-en-la-cabeza-de-pence-durante-debate-acaparo-twitter
+        featured{array} /content/202010/12-prueba-de-fuego-para-jueza-barret-nombrada-por-trump-a-corte-suprema
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202010/9-bachelet-pide-cese-el-fuego-urgente-en-karabaj
+        featured{array} /content/202010/12-consejo-europeo-renovo-por-un-ano-sanciones-a-nicaragua
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/9-protestas-encienden-chispas-en-venezuela
+    featured{array} /content/202010/12-ue-llega-a-acuerdo-para-sancionar-a-rusia-por-caso-navalni
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202010/9-programa-mundial-de-alimentos-gana-nobel-de-la-paz-por-batalla-contra-el-hambre
