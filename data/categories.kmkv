@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202010/12-prueba-de-fuego-para-jueza-barret-nombrada-por-trump-a-corte-suprema
+        featured{array} /content/202010/13-opositora-rusa-lanza-un-ultimatum-al-presidente-luckashenko
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202010/12-consejo-europeo-renovo-por-un-ano-sanciones-a-nicaragua
+        featured{array} /content/202010/13-policia-dispers-manifestacion-en-costa-rica-contra-pacto-con-fmi
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/12-ue-llega-a-acuerdo-para-sancionar-a-rusia-por-caso-navalni
+    featured{array} /content/202010/13-hospitales-parisinos-se-acercan-a-la-saturacion
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202010/9-programa-mundial-de-alimentos-gana-nobel-de-la-paz-por-batalla-contra-el-hambre
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202010/9-programa-mundial-de-alimentos-gana-nobel-de-la-paz-por-batalla-contra-el-hambre
+    featured{array} /content/202010/13-policia-dispers-manifestacion-en-costa-rica-contra-pacto-con-fmi
 }
 other{kmkv} {
     name Other (Internal)
