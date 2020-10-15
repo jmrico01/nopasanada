@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202010/13-opositora-rusa-lanza-un-ultimatum-al-presidente-luckashenko
+        featured{array} /content/202010/censura-hunter-biden
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202010/13-policia-dispers-manifestacion-en-costa-rica-contra-pacto-con-fmi
+        featured{array} /content/202010/caida-co2-covid19
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/13-hospitales-parisinos-se-acercan-a-la-saturacion
+    featured{array} /content/202010/que-esta-pasando-en-tailandia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202010/9-programa-mundial-de-alimentos-gana-nobel-de-la-paz-por-batalla-contra-el-hambre
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202010/13-policia-dispers-manifestacion-en-costa-rica-contra-pacto-con-fmi
+    featured{array} /content/202010/europa-prepara-peor
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,63 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Movimientos pro democracia llevan m&aacute;s de tres meses protestando, y ahora por primera vez en la historia del pa&iacute;s, hasta algunos militantes no han dudado en pedir reformas que hasta ahora hubiesen sido extremadamente tab&uacute;.</li>
+<li>El movimiento pide la dimisi&oacute;n del primer ministro, el general Prayut Chan O Cha, quien tiene su cargo desde el golpe de estado del 2014 y legitimado por elecciones controvertidas el a&ntilde;o pasado.</li>
+<li>Algunos activistas van m&aacute;s all&aacute; y han pedido una reforma a la riqu&iacute;sima monarqu&iacute;a, cosa que en Tailandia se puede castigar severamente.</li>
+<li>En virtud del art&iacute;culo 112 del C&oacute;digo Penal, difamar, insultar o amenazar al Rey o a su familia se castiga con una pena de tres a 15 a&ntilde;os de prisi&oacute;n. Esta ley, que deja mucho espacio a la interpretaci&oacute;n, permite castigar cualquier cr&iacute;tica de la monarqu&iacute;a, especialmente en las redes sociales.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p><em>&iquest;Por qu&eacute; ahora?</em></p>
+<ul>
+<li>El factor desencadenante fue la disoluci&oacute;n, en febrero, de un reciente partido de oposici&oacute;n muy popular entre los j&oacute;venes.</li>
+<li>El cierre del pa&iacute;s ha sido devastador para su econom&iacute;a y aument&oacute; las desigualdades sociales.</li>
+<li>En junio, la desaparici&oacute;n inexplicable del activista prodemocracia tailand&eacute;s Wanchalearm Satsaksit, en Camboya, tambi&eacute;n desencaden&oacute; una ola de indignaci&oacute;n de protestas.</li>
+</ul>
+<p><em>&iquest;Con qu&eacute; apoyo cuentan?&nbsp;</em></p>
+<ul>
+<li>Mitigado. El movimiento es, por el momento, esencialmente estudiantil y urbano.&nbsp;</li>
+<li>Se ha extendido a las escuelas secundarias del pa&iacute;s, donde los adolescentes visten nudos blancos en se&ntilde;al de solidaridad.</li>
+<li>Por su parte, los que apoyan la realeza han organizado contramanifestaciones, en las que han participado personas de m&aacute;s edad, que protestan contra lo que consideran una afrenta a la monarqu&iacute;a.</li>
+</ul>
+<p><em>&iquest;Y despu&eacute;s?</em></p>
+<ul>
+<li>El decreto de urgencia permite a la polic&iacute;a detener a cualquier persona sospechosa de haber participado en las manifestaciones.&nbsp;</li>
+<li>Sin embargo, es dif&iacute;cil saber si el movimiento continuar&aacute; despu&eacute;s de la detenci&oacute;n de sus principales l&iacute;deres.</li>
+<li>"Se prev&eacute;n nuevas confrontaciones entre los partidarios pro-realezas y el movimiento anti-establishement", advierte Thitinan Pongsudhirak, polit&oacute;logo de la universidad Chulalongkorn.</li>
+<li>La repentina vuelta de tuerca de las autoridades corre el riesgo de "acentuar las quejas de la juventud", que desfila por las calles desde este verano (boreal), y por ello las tensiones.</li>
+</ul>
+}
+title ¿Qué está pasando en Tailandia?
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/que-esta-pasando-en-tailandia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Movimientos pro democracia llevan más de tres meses protestando, y ahora por primera vez en la historia del país, hasta algunos militantes no han dudado en pedir reformas que hasta ahora hubiesen sido extremadamente tabú. ¿Viene una posible reforma historia en Tailandia?
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>¿Qué está pasando en Tailandia?<b>
+    text1 Protestas, militares y hasta una posible reforma a la realeza.
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle Una posible reforma historia en Tailandia
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

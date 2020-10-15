@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Las restricciones debidas a la pandemia del covid-19 provocaron una ca&iacute;da in&eacute;dita de las emisiones de CO₂ en el primer semestre de 2020, superior <strong>incluso a las registradas durante la crisis financiera de 2008 y la Segunda Guerra Mundial</strong>, indic&oacute; el mi&eacute;rcoles un grupo internacional de investigadores.</li>
+<li>El confinamiento provoc&oacute; un retroceso dr&aacute;stico de las emisiones relacionadas con los transportes, la aviaci&oacute;n y la energ&iacute;a, seg&uacute;n este equipo que public&oacute; su estudio en la revista Nature Communications.</li>
+</ul>
+<p><strong><em>...Pero...</em></strong></p>
+<ul>
+<li>Tambi&eacute;n apuntaron que las emisiones volvieron a escalar a sus niveles habituales en julio de 2020, cuando la mayor&iacute;a de pa&iacute;ses levant&oacute; las restricciones.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>En concreto, en el primer semestre, las emisiones de CO₂ derivadas del transporte se redujeron un 40%, las de la producci&oacute;n de energ&iacute;a un 22% y las de la industria, un 17%.</p>
+<p>Las vinculadas con la vivienda declinaron un 3%, pese al teletrabajo masivo. Los investigadores atribuyen esta bajada a un invierno boreal anormalmente suave que limit&oacute; la necesidad de poner la calefacci&oacute;n.</p>
+<p>El Acuerdo de Par&iacute;s de 2015 prev&eacute; limitar el alza de la temperatura global por debajo de 2 &deg;C e incluso a 1,5 &deg;C, comparado con el periodo preindustrial. Para cumplir este objetivo, habr&iacute;a que reducir las emisiones de gases de efecto invernadero de 7,6% anual entre 2020 y 2030, seg&uacute;n la ONU.</p>
+<p>"Aunque la ca&iacute;da de las emisiones de CO₂ es sin precedentes, la respuesta [a largo plazo] no puede ser la reducci&oacute;n de las actividades humanas", indic&oacute; el coautor del estudio Hans Joachim Schellnhuber, del Potsdam Institute for Climate Impact Research (PIK). "Necesitamos cambios estructurales y de transformaci&oacute;n de nuestros sistemas de producci&oacute;n de energ&iacute;a y de consumo".</p>
+}
+title Caída inédita de las emisiones de CO₂
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/14-astronautas-alcanzan-estacion-espacial-internacional-en-tiempo-record.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Las restricciones debidas a la pandemia del covid-19 provocaron una caída inédita de las emisiones de CO₂ en el primer semestre de 2020, superior incluso a las registradas durante la crisis financiera de 2008 y la Segunda Guerra Mundial, indicó el miércoles un grupo internacional de investigadores.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b> Caída inédita de las emisiones de CO₂<b>
+    text1 La pandemia provocó una caída inédita de las emisiones de CO₂
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle Caída sin precedentes de las emisiones de CO2 debido al covid-19
+month 10
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
