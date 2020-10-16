@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Los glaciares suizos continuaron derriti&eacute;ndose este a&ntilde;o a un ritmo preocupante y nunca antes hubo tan poca acumulaci&oacute;n de nieve en el mayor glaciar de los Alpes, advierte un estudio publicado el viernes.</li>
+<li>En total, los glaciares suizos perdieron un 2% de su volumen este a&ntilde;o, seg&uacute;n el estudio anual de la Academia suiza de Ciencias.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Estas cifras van en l&iacute;nea con el promedio de estos diez &uacute;ltimos a&ntilde;os, pero son igualmente "muy preocupantes", explic&oacute; Matthias Huss, autor del texto y encargado de la red de vigilancia de los glaciares GLAMOS.</p>
+<p>"Estas cifras son un poco m&aacute;s bajas que estos tres &uacute;ltimos a&ntilde;os cuando tuvimos temperaturas muy elevadas, pero igualmente los glaciares perdieron mucha masa", se&ntilde;ala el cient&iacute;fico.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En los &uacute;ltimos 60 a&ntilde;os, los glaciares suizos concentraron tanta agua como hay en el lago Constanza, una extensi&oacute;n de agua de 63 kil&oacute;metros de largo en la frontera entre Austria, Alemania y Suiza, insiste el estudio.</li>
+<li>Una de las medidas que m&aacute;s preocupan es la del Aletsch, el mayor glaciar de los Alpes, que "este a&ntilde;o se registr&oacute; la menor acumulaci&oacute;n de nieve" en algo m&aacute;s de cien a&ntilde;os, cuando comenzaron a realizarse estos c&aacute;lculos, subraya Huss.&nbsp;</li>
+<li>El glaciar, que se extiende 86 km2 y se estima que contiene 11.000 millones de toneladas de hielo, vio retroceder su frente alrededor de 1 km desde comienzos de siglo.</li>
+</ul>
+}
+title Glaciares suizos se derriten a un ritmo preocupante
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/16-glaciares-suizos-se-derriten-a-un-ritmo-preocuipante.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los glaciares suizos continuaron derritiéndose este año a un ritmo preocupante y nunca antes hubo tan poca acumulación de nieve en el mayor glaciar de los Alpes, advierte un estudio publicado el viernes.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Glaciares<b>
+    text1 Glaciares suizos se derriten a un ritmo preocupante
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
