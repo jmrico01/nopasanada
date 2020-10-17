@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202010/europa-prepara-peor
+    featured{array} /content/202010/welcome-to-chepe-17oct
 }
 other{kmkv} {
     name Other (Internal)
