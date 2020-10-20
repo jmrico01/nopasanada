@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202010/censura-hunter-biden
+        featured{array} /content/202010/20-entre-arrepentidos-jovenes-y-latinos-biden-puede-quitarle-a-trump-la-crucial-arizona
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202010/caida-co2-covid19
+        featured{array} /content/202010/20-china-afirma-haber-probado-vacunas-de-covid-19-en-60000-personas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/que-esta-pasando-en-tailandia
+    featured{array} /content/202010/20-padre-de-alumna-y-agresor-se-enviaron-mensajes-antes-de-decapitacion-de-profesor-en-francia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202010/9-programa-mundial-de-alimentos-gana-nobel-de-la-paz-por-batalla-contra-el-hambre
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202010/welcome-to-chepe-17oct
+    featured{array} /content/202010/20-justicia-alemana-pide-arresto-internacional-para-mossack-y-fonseca
 }
 other{kmkv} {
     name Other (Internal)
