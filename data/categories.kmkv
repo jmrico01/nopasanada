@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202010/20-entre-arrepentidos-jovenes-y-latinos-biden-puede-quitarle-a-trump-la-crucial-arizona
+        featured{array} /content/202010/21-si-trump-rechaza-veredicto-de-las-urnas-los-manifestantes-ya-estan-listos
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202010/20-china-afirma-haber-probado-vacunas-de-covid-19-en-60000-personas
+        featured{array} /content/202010/21-si-trump-rechaza-veredicto-de-las-urnas-los-manifestantes-ya-estan-listos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/20-padre-de-alumna-y-agresor-se-enviaron-mensajes-antes-de-decapitacion-de-profesor-en-francia
+    featured{array} /content/202010/21-once-mujeres-mueren-en-afganistan-en-una-estampida
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202010/9-programa-mundial-de-alimentos-gana-nobel-de-la-paz-por-batalla-contra-el-hambre
