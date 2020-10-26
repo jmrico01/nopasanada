@@ -1,0 +1,45 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesita saber?</strong></p>
+<ul>
+<li>"Sud&aacute;n e Israel acordaron la normalizaci&oacute;n de las relaciones, otro paso importante hacia la construcci&oacute;n de la paz en el Medio Oriente con otra naci&oacute;n que se suma a los Acuerdos de Abraham" que involucran a Bar&eacute;in y a los Emiratos &Aacute;rabes Unidos, dijo Judd Deere.</li>
+<li>"Estamos expandiendo el c&iacute;rculo de la paz tan r&aacute;pidamente gracias a su liderazgo", dijo el primer ministro israel&iacute;, Benjamin Netanyahu sobre Trump.</li>
+<li>El primer ministro sudan&eacute;s, Abdal&aacute; Hamdok, agradeci&oacute; a Trump durante la llamada y salud&oacute; el gran impacto que esta medida tendr&iacute;a en la econom&iacute;a sudanesa.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Desde la ca&iacute;da del r&eacute;gimen de Omar al Bashir en abril de 2019, Sud&aacute;n ha estado gobernado por un gobierno de transici&oacute;n en el que los militares y civiles comparten el poder hasta las elecciones previstas para 2022.</li>
+<li>Este gobierno enfrenta dificultades econ&oacute;micas con una fuerte depreciaci&oacute;n de la libra sudanesa, por lo que hab&iacute;a pedido a Estados Unidos que retirara a Sud&aacute;n de la lista de pa&iacute;ses que apoyan el terror</li>
+</ul>
+}
+title Paz entre Israel y Sudán
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/19-manifestacion-en-chile-conmemora-inicio-de-protestas-sociales.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Donald Trump, anunció la normalización de las relaciones entre Israel y Sudán, asegurando que los dos países hicieron la "paz". 
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Paz entre Israel y Súdan<b>
+    text1 Trump anuncia que Israel y Sudán acordaron normalizar relaciones
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle Donald Trump, anunció la normalización de las relaciones entre Israel y Sudán, asegurando que los dos países hicieron la "paz". 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

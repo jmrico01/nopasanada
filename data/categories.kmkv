@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202010/21-si-trump-rechaza-veredicto-de-las-urnas-los-manifestantes-ya-estan-listos
+        featured{array} /content/202010/26-manipulacion-electoral-en-redes-es-made-in-usa
     }
     loimportante{kmkv} {
         name Lo Importante
         featured{array} /content/202010/21-si-trump-rechaza-veredicto-de-las-urnas-los-manifestantes-ya-estan-listos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/21-once-mujeres-mueren-en-afganistan-en-una-estampida
+    featured{array} /content/202010/chile-entierra-la-constitucion-de-pinochet
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202010/9-programa-mundial-de-alimentos-gana-nobel-de-la-paz-por-batalla-contra-el-hambre

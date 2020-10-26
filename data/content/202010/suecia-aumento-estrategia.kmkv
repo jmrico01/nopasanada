@@ -1,0 +1,58 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesita saber?</strong></p>
+<ul>
+<li>El n&uacute;mero de casos aumenta regularmente desde mediados de septiembre. El jueves, las autoridades sanitarias registraron 1.614 nuevos infectados con el coronavirus, la cifra m&aacute;s alta desde junio.</li>
+<li>En los &uacute;ltimos d&iacute;as, el pa&iacute;s n&oacute;rdico anunci&oacute; recomendaciones m&aacute;s estrictas, pero tambi&eacute;n flexibiliz&oacute; varias medidas, siguiendo su sorprendente carrera en solitario.&nbsp;</li>
+<li>Suecia que ha registrado 5.930 fallecidos por covid-19 desde el inicio de la pandemia y registr&oacute; durante la primera ola una de las tasas de mortalidad m&aacute;s altas de Europa, trata de ajustar su enfoque.</li>
+<li>"La gente solo puede aguantar medidas tan estrictas un periodo limitado y el momento es importante. No se puede empezar demasiado pronto ni esperar demasiado tiempo (...), esperamos que es el buen momento", justifica el epidemi&oacute;logo Anders Tegnell, responsable de la estrategia sueca.</li>
+</ul>
+<p><strong>&iquest;Porqu&eacute; nos importa?</strong></p>
+<ul>
+<li>A contracorriente del mundo, Suecia es uno de los pocos pa&iacute;ses que no recomienda llevar la mascarilla, ya que la autoridad sanitaria no la considera muy eficaz.</li>
+<li>Aunque las im&aacute;genes de autobuses y restaurantes repletos han dado la vuelta al mundo, muchos estudios de las autoridades muestran que el 80% de los suecos han cambiado sus h&aacute;bitos, en un pa&iacute;s conocido por su disciplina social.</li>
+<li>Aunque este sexagenario reconoce que quiz&aacute; el enfoque sueco no funcionar&iacute;a en todas partes. "Nadie les obliga, pero los suecos son as&iacute;, siguen" las reglas.</li>
+</ul>
+<p><strong>En profunidad:</strong></p>
+<p>A principios de la epidemia, algunos acusaron a Suecia de jugar a la ruleta rusa con la poblaci&oacute;n, con un n&uacute;mero de muertes muy superior al de sus vecinos que hab&iacute;an adoptado medidas m&aacute;s estrictas.</p>
+<p>El gobierno defiende su modelo y habla de medidas pertinentes de largo plazo, para un "marat&oacute;n" y no un para un "sprint".</p>
+<p>Para Johan Carlson, director de la Agencia Sueca de Salud P&uacute;blica, se trata de "crear una situaci&oacute;n en la que se pueda vivir una vida lo m&aacute;s normal posible dentro de las restricciones" y donde la estrategia sea ampliamente aceptada y seguida.</p>
+<p>El resto de Europa muestra, seg&uacute;n &eacute;l, que los confinamientos y los desconfinamientos "no son una v&iacute;a a seguir".</p>
+}
+title Estrategia Sueca
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/19-manifestacion-en-chile-conmemora-inicio-de-protestas-sociales.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description {
+Suecia mantiene su estrategia pese al aumento de casos de coronavirus
+
+}
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Estrategia Sueca<b>
+    text1 Suecia mantiene su estrategia pese al aumento de casos de coronavirus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle {
+Suecia mantiene su estrategia pese al aumento de casos de coronavirus
+
+}
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
