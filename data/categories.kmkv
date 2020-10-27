@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202010/26-manipulacion-electoral-en-redes-es-made-in-usa
+        featured{array} /content/202010/27-confirman-jueza-conservadora-para-corte-suprema-de-eeuu
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202010/21-si-trump-rechaza-veredicto-de-las-urnas-los-manifestantes-ya-estan-listos
+        featured{array} /content/202010/27-a-la-hora-del-conteo-de-votos-en-eeuu-que-podria-salir-mal
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/chile-entierra-la-constitucion-de-pinochet
+    featured{array} /content/202010/27-a-la-hora-del-conteo-de-votos-en-eeuu-que-podria-salir-mal
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202010/9-programa-mundial-de-alimentos-gana-nobel-de-la-paz-por-batalla-contra-el-hambre
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202010/20-justicia-alemana-pide-arresto-internacional-para-mossack-y-fonseca
+    featured{array} /content/202010/27-estudio-muestra-que-inmunidad-contra-covid-19-decae-rapidamente
 }
 other{kmkv} {
     name Other (Internal)
