@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202010/27-a-la-hora-del-conteo-de-votos-en-eeuu-que-podria-salir-mal
+        featured{array} /content/202010/28-exconvictos-de-florida-votan-por-primera-vez-en-150-anos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/27-a-la-hora-del-conteo-de-votos-en-eeuu-que-podria-salir-mal
+    featured{array} /content/202010/28-azerbaiyan-anuncia-19-muertos-y-60-heridos-por-ataque-armenio
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202010/9-programa-mundial-de-alimentos-gana-nobel-de-la-paz-por-batalla-contra-el-hambre
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202010/video-adonde-putas-estan
+    featured{array} /content/202010/28-segunda-noche-de-violencia-en-filadelfia-tras-muerte-de-hombre-negro-en-manos-de-la-policia
 }
 other{kmkv} {
     name Other (Internal)
