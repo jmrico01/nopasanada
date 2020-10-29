@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202010/28-exconvictos-de-florida-votan-por-primera-vez-en-150-anos
+        featured{array} /content/202010/29-kim-klacik-quiere-encarnar-la-nueva-generacion-negra-pro-trump
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/28-azerbaiyan-anuncia-19-muertos-y-60-heridos-por-ataque-armenio
+    featured{array} /content/202010/29-tres-muertos-por-ataque-con-cuchillo-en-iglesia-en-francia
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202010/9-programa-mundial-de-alimentos-gana-nobel-de-la-paz-por-batalla-contra-el-hambre
+        featured{array} /content/202010/29-spotify-supera-los-300-millones-de-usuarios-activos
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202010/28-segunda-noche-de-violencia-en-filadelfia-tras-muerte-de-hombre-negro-en-manos-de-la-policia
+    featured{array} /content/202010/29-vuelve-la-nina-con-sus-sequias-y-mal-tiempo
 }
 other{kmkv} {
     name Other (Internal)
