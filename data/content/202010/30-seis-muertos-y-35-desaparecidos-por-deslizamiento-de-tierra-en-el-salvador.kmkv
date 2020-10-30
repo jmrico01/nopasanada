@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Seis muertos, 35 desaparecidos y unas 50 viviendas soterradas dej&oacute; este viernes en El Salvador un deslave de agua, lodo y rocas provocado por las fuertes lluvias en una comunidad rural de Nejapa, 15 km al norte de la capital, inform&oacute; la Polic&iacute;a.</li>
+<li>"En informaci&oacute;n preliminar hay alrededor de 35 personas desaparecidas, se han encontrado entre lodo y escombros seis cad&aacute;veres", precis&oacute; la Polic&iacute;a Nacional Civil (PNC) en un comunicado.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Cuerpos de socorro, agentes de polic&iacute;a y del ej&eacute;rcito coordinan la b&uacute;squeda de los desaparecidos.</p>
+<p>Socorristas evacuaron de la zona del desastre a unas 35 personas que se encuentran en una iglesia.</p>
+<p>Una autopista que une la capital con ciudades del norte como Nejapa y Quezaltepeque qued&oacute; bloqueada al paso de veh&iacute;culos.</p>
+<p>El ministro de Gobernaci&oacute;n, Mario Dur&aacute;n, inform&oacute; que en la b&uacute;squeda de cad&aacute;veres se cuenta con 300 elementos de distintos cuerpos de socorro.</p>
+<p>Por su parte, el ministro de la Defensa, Ren&eacute; Francis Merino inform&oacute; que el "equipo de caninos" de la Fuerza Armada trabaja para rescatar a los afectados.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La fuerte correntada de agua, lodo y gigantescas rocas baj&oacute; desde la parte alta del volc&aacute;n de San Salvador y en su recorrido de varios kil&oacute;metros arrastr&oacute; de ra&iacute;z &aacute;rboles y viviendas hasta llegar a la autopista.</li>
+<li>La &uacute;ltima tragedia provocada por un deslave desde la parte alta del volc&aacute;n de San Salvador, se produjo el 19 de septiembre de 1982, cuando soterr&oacute; la colonia Montebello, en la periferia norte de San Salvador provocando un poco m&aacute;s de 300 muertos al soterrar 160 viviendas.</li>
+</ul>
+<p><br />&nbsp;</p>
+}
+title Seis muertos y 35 desaparecidos por deslizamiento en El Salvador
+day 30
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202010/headers/30-seis-muertos-y-35-desaparecidos-por-deslizamiento-de-tierra-en-el-salvador.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Seis muertos, 35 desaparecidos y unas 50 viviendas soterradas dejó este viernes en El Salvador un deslave de agua, lodo y rocas provocado por las fuertes lluvias en una comunidad rural de Nejapa, 15 km al norte de la capital, informó la Policía.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>El Salvador<b>
+    text1 Seis muertos y 35 desaparecidos por deslizamiento en El Salvador
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
