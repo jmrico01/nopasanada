@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202010/27-confirman-jueza-conservadora-para-corte-suprema-de-eeuu
+        featured{array} /content/202011/2-arrestan-a-300-personas-en-manifestacion-de-la-opsicion-en-bielorrusia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202010/29-kim-klacik-quiere-encarnar-la-nueva-generacion-negra-pro-trump
+        featured{array} /content/202011/2-segunda-ola-del-covid-19-en-europa-no-sera-la-ultima
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202010/29-tres-muertos-por-ataque-con-cuchillo-en-iglesia-en-francia
+    featured{array} /content/202011/2-tener-mas-votos-y-perder-la-eleccion-el-colegio-electoral-en-eeuu
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202010/29-spotify-supera-los-300-millones-de-usuarios-activos
+        featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202010/29-vuelve-la-nina-con-sus-sequias-y-mal-tiempo
+    featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
 }
 other{kmkv} {
     name Other (Internal)
