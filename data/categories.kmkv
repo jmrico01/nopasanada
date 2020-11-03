@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
+    featured{array} /content/202011/video-loimportante-como-funcionan-las-eleciones
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,40 @@
+text {
+<p style="text-align: left;">En este episodio de Lo Importante vemos como funcionan las elecciones en Estados Unidos, que es el colegio electoral, cuales votos importan m&aacute;s que otros y que deber&iacute;amos de buscar para saber que va pasar hoy en la noche durante las elecciones. | Vea parte 2: &iquest;Qui&eacute;n va a ganar. las elecciones?</p>
+<hr />
+<p style="text-align: center;"><a href="https://mailchi.mp/3eef86616803/nopasanada" target="_blank" rel="noopener"><strong><span style="text-decoration: underline;">S&uacute;scribete a nuestro newsletter diario:</span></strong></a></p>
+<hr />
+<p><strong>Una producci&oacute;n original de:</strong> NO PASA NADA</p>
+<p><strong>Producci&oacute;n, gui&oacute;n y presentado por: Pietro Cercone</strong></p>
+<p><strong>Direcci&oacute;n de arte:</strong> Lauren Gilleland</p>
+<p><strong>Edici&oacute;n:</strong> Pietro Cercone</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: left;"><em>Lo Importante es un programa que toma una mirada sat&iacute;rica a las noticias, la pol&iacute;tica y los eventos actuales. *Las opiniones, an&aacute;lisis y suposiciones expresadas en este video son las de las presentadoras y no necesariamente reflejan las opiniones, pol&iacute;ticas oficiales o la posici&oacute;n de NPN PRODUCCIONES S.A como empresa, sus empleados, personas, entidades, marcas afiliadas o directores.</em></p>
+}
+title ¿Cómo funcionan las eleccione en Estados Unidos?
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    header /images/202011/headers/video-loimportante-como-funcionan-las-eleciones.jpg
+    poster /images/201912/posters/17-solo-lo-importante-video.jpg
+}
+description En este episodio de Lo Importante vemos como funcionan las elecciones en Estados Unidos, que es el colegio electoral, cuales votos importan más que otros y que deberíamos de buscar para saber que va pasar hoy en la noche durante las elecciones. | Vea parte 2: ¿Quién va a ganar. las elecciones?
+year 2020
+featured{kmkv} {
+    title ¿Cómo funcionan las elecciones en Estados Unidos?
+    text1 Un especial de Lo Importante
+    text2 
+    pretitle LO IMPORTANTE:
+    highlightColor #00FFFF
+}
+type video
+subtitle Una explicación del complicado sistema gringo
+month 11
+tags{array} noticias-video,noticias-loimportante
+videoID sIl_LmrpqMk
+titlePoster 
+color #F2FF00
