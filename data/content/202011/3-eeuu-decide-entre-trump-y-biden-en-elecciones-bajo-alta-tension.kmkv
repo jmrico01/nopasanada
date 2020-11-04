@@ -38,7 +38,7 @@ text {
 <p>El v&iacute;nculo de la primera potencia econ&oacute;mica con China, agriado durante los &uacute;ltimos cuatro a&ntilde;os no s&oacute;lo por motivos comerciales sino porque Trump culpa a Pek&iacute;n de la pandemia, preocupa al mundo entero.</p>
 <p>La Bolsa de Nueva York inici&oacute; la jornada en s&oacute;lida alza, luego de una semana pasada con fuertes p&eacute;rdidas.</p>
 }
-title Bolivianos van a cementerios para recordar a sus difuntos
+title EEUU decide entre Trump y Biden en elecciones bajo alta tensión
 day 03
 text1 
 text2 
@@ -53,12 +53,12 @@ media{kmkv} {
     banksy /images/202006/10-banksy/banksy.jpg
     ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
 }
-description Con comida y música del agrado de parientes fallecidos, miles de bolivianos fueron este lunes a los cementerios para celebrar el tradicional "Día de los Difuntos", aunque la festividad estuvo marcada por las medidas tomadas a consecuencia de la pandemia de covid-19.
+description ¿Reelegir al republicano Donald Trump o reemplazarlo por el demócrata Joe Biden? Estados Unidos acude este martes a las urnas en una elección presidencial histórica, marcada por la pandemia del coronavirus, la crisis económica y una profunda polarización.
 year 2020
 author AFP Y NPN NOTICIAS
 featured{kmkv} {
-    title <b>Bolivia<b>
-    text1 Bolivianos van a cementerios para recordar a sus difuntos
+    title <b>Elecciones en EEUU<b>
+    text1 EEUU decide entre Trump y Biden en elecciones bajo alta tensión
     text2 Por AFP Y NPN NOTICIAS
     pretitle NOTICIAS:
     highlightColor #FBFF09

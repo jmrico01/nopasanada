@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202011/2-arrestan-a-300-personas-en-manifestacion-de-la-opsicion-en-bielorrusia
+        featured{array} /content/202011/4-trump-afirma-que-gano-las-elecciones-pese-a-que-recuento-de-votos-continua
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202011/2-segunda-ola-del-covid-19-en-europa-no-sera-la-ultima
+        featured{array} /content/202011/4-eta-avanza-por-nicaragua-degradada-a-tormenta-tropical
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202011/2-tener-mas-votos-y-perder-la-eleccion-el-colegio-electoral-en-eeuu
+    featured{array} /content/202011/4-imputan-por-corrupcion-a-senador-hijo-de-jair-bolsonaro
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202011/video-loimportante-como-funcionan-las-eleciones
+    featured{array} /content/202011/4-trump-afirma-que-gano-las-elecciones-pese-a-que-recuento-de-votos-continua
 }
 other{kmkv} {
     name Other (Internal)
