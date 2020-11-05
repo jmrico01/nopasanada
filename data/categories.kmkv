@@ -71,7 +71,7 @@ noticias{kmkv} {
     }
     video{kmkv} {
         name Video
-        featured{array} /content/202009/05-welcome-to-chepe
+        featured{array} /content/202011/video-loimportante-como-funcionan-las-eleciones
     }
 }
 coleccion{kmkv} {
