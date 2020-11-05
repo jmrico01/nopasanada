@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Europa se convirti&oacute; en la regi&oacute;n con m&aacute;s casos de covid-19 en el mundo desde el inicio de la pandemia, seg&uacute;n el balance realizado el jueves a las 11H00 GMTa partir de datos oficiales.</li>
+<li>Con 11,6 millones de positivos diagnosticados del coronavirus, y m&aacute;s de 293.000 muertos, Europa super&oacute; en las cifras de contagiados a Am&eacute;rica Latina y el Caribe, que suman 11,4 millones de contagiados y casi 407.000 muertos.</li>
+<li>Tras haber sufrido una mort&iacute;fera primera ola en marzo y abril, Europa volvi&oacute; al centro mundial de la pandemia desde octubre.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Desde principios del mes pasado, el Viejo Continente se convirti&oacute; en la regi&oacute;n con un mayor n&uacute;mero de casos diarios.</p>
+<p>La semana pasada se registr&oacute; una media de 277.000 nuevos positivos al d&iacute;a, lo que represent&oacute; m&aacute;s de la mitad de los casos diagnosticados en el mundo, donde se registr&oacute; una media de 517.000.</p>
+<p>La situaci&oacute;n epid&eacute;mica se agrav&oacute; desde finales de octubre, como lo refleja un aumento de casi el 50% del n&uacute;mero de muertos, 21.500 la semana pasada mientras que la anterior fueron 14.403, y un incremento del 20% de los casos.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Francia es el pa&iacute;s que registra un mayor n&uacute;mero de infecciones (una media de 44.000 casos diarios, +11%) y la siguen Italia (28.600, +43%), Reino Unido (22.400, +2%), Espa&ntilde;a (21.100, +13%) y Polonia (20.000, +46%).</li>
+<li>Antes de ser superada por Europa, Am&eacute;rica Latina y el Caribe hab&iacute;an sido la regi&oacute;n con un mayor n&uacute;mero de contagios desde finales de julio.&nbsp;</li>
+<li>Asia se convirti&oacute; a finales del verano en el continente que registraba las cifras m&aacute;s elevadas de positivos diarios, debido a que la pandemia se descontrol&oacute; en India.</li>
+</ul>
+}
+title Europa supera a América Latina como región con más casos de covid-19
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202011/headers/5-europa-supera-a-america-latina-como-la-region-con-mas-casos-de-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Europa se convirtió en la región con más casos de covid-19 en el mundo desde el inicio de la pandemia, según el balance realizado el jueves a las 11H00 GMT a partir de datos oficiales.
+year 2020
+author AFP Y NPN NOTICIAS
+featured{kmkv} {
+    title <b>Europa<b>
+    text1 Europa supera a América Latina como región con más casos de covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
