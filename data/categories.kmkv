@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202011/5-oregon-se-convierte-en-primer-estado-en-despenalizar-todas-las-drogas
+        featured{array} /content/202011/6-elecciones-presidenciales-en-eeuu-se-juegan-en-cinco-estados
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202011/5-europa-supera-a-america-latina-como-la-region-con-mas-casos-de-covid-19
+    featured{array} /content/202011/6-neozelandeses-dicen-no-a-cannabis-recreativo-y-si-a-legalizar-eutanasia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202011/5-biden-se-acerca-a-la-casa-blanca-y-trump-denuncia-fraude
+    featured{array} /content/202011/6-neozelandeses-dicen-no-a-cannabis-recreativo-y-si-a-legalizar-eutanasia
 }
 other{kmkv} {
     name Other (Internal)
