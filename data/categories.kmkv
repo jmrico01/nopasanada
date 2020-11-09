@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202011/biden-gana
+    featured{array} /content/202011/09-vacuna-de-pfizer-contra-el-covid-19
 }
 other{kmkv} {
     name Other (Internal)
