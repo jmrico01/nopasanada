@@ -1,0 +1,61 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Muchos barrios de Manila quedaron anegados tras el paso del tif&oacute;n Vamco, el tercero que azota Filipinas en pocas semanas y que caus&oacute; al menos once muertos en otras partes del archipi&eacute;lago.</li>
+<li>Vamco toc&oacute; tierra el mi&eacute;rcoles por la noche en el este de la isla de Luz&oacute;n, acompa&ntilde;ado por vientos de 155 km/h. El tif&oacute;n se alej&oacute; del archipi&eacute;lago por el oeste el jueves rumbo al Mar de China Meridional.</li>
+<li>Al menos once personas murieron y otras nueve est&aacute;n desaparecidas en dos regiones de Luzon, seg&uacute;n informes de la agencia de lucha contra los desastres naturales.</li>
+<li>Otra regi&oacute;n devastada es la de Bicol, que a&uacute;n no se hab&iacute;a recuperado de los tifones Molave y Goni, que dejaron a miles de personas sin hogar y provocaron graves inundaciones en las &uacute;ltimas semanas.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Este jueves, las autoridades advirtieron del riesgo de desprendimientos de tierra y de fuertes olas en toda la costa.</p>
+<p>Con una poblaci&oacute;n de 12 millones de habitantes, la capital, Manila, vio c&oacute;mo muchos de sus vecindarios quedaban paralizados por las lluvias torrenciales. La situaci&oacute;n tambi&eacute;n era complicada en varias provincias lim&iacute;trofes.</p>
+<p>"Muchas zonas est&aacute;n anegadas. Hay muchos pedidos de ayuda" en la provincia, declar&oacute; Rouel Santos, de 53 a&ntilde;os, un funcionario jubilado de los servicios de emergencia en la provincia de Rizal, cerca de Manila.</p>
+<p>Santos explic&oacute; que las inundaciones le recordaron el paso en 2009 del tif&oacute;n Ketsana, conocido en Filipinas como tormenta tropical Ondoy, que caus&oacute; cientos de muertos.</p>
+<p>Un alto cargo de Protecci&oacute;n Civil dijo que las precipitaciones provocadas por Vamco "se acercaban al volumen" de las de Ondoy, y estim&oacute; que las inundaciones podr&iacute;an agravarse porque los cursos de agua ya est&aacute;n llenos.</p>
+<p>En Marikina City, uno de los barrios m&aacute;s afectados de la capital, los miembros de la Cruz Roja de Filipinas utilizaban embarcaciones para rescatar a las personas atrapadas en sus casas. En algunas calles el agua llegaba a la altura de la cintura.</p>
+<p>"Muchas personas est&aacute;n bloqueadas en estos momentos en sus tejados o en la planta superior", cont&oacute;.</p>
+<p>Seg&uacute;n Casiano Monilla, vicedirector de operaciones de Protecci&oacute;n Civil, hubo mucha gente que no hizo caso a las advertencias de evacuaci&oacute;n ante la llegada del tif&oacute;n.</p>
+<p>"No esperaba que fuera a ser as&iacute;", dijo Rosalinda Opsima, que abandon&oacute; su casa junto a su esposo ante la repentina crecida de las aguas.&nbsp;</p>
+<p>Unas 180.000 personas se refugiaron en centros de evacuaci&oacute;n, seg&uacute;n Protecci&oacute;n Civil, como escuelas y gimnasios.&nbsp;</p>
+<p>Los servicios meteorol&oacute;gicos alertaron de que la costa, incluyendo Manila, podr&iacute;a verse asolada marejadas cicl&oacute;nicas particularmente peligrosas y con fuerza suficiente para inundar tierras bajas.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El presidente filipino, Rodrigo Duterte, afirm&oacute; en un comunicado que el gobierno ten&iacute;a "la situaci&oacute;n bajo control" y prometi&oacute; compensaciones econ&oacute;micas, bienes materiales, refugios y asesoramiento psicol&oacute;gico para los damnificados.</li>
+<li>Los filipinos se ven afectados cada a&ntilde;o por una media de 20 tormentas tropicales y tifones.</li>
+<li>En 2013, el tif&oacute;n Haiyan caus&oacute; m&aacute;s de 7.300 muertos, sobre todo en la ciudad central de Tacloban, que qued&oacute; sumergida bajo olas gigantes.</li>
+</ul>
+}
+title Tifón Vamco deja once muertos e inunda capital de Filipinas
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202011/headers/12-tifon-vamco-deja-once-muertos-e-inunda-manila.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Muchos barrios de Manila quedaron anegados tras el paso del tifón Vamco, el tercero que azota Filipinas en pocas semanas y que causó al menos once muertos en otras partes del archipiélago.
+year 2020
+author AFP y NPN Noticias
+featured{kmkv} {
+    title <b>Filipinas<b>
+    text1 Tifón Vamco deja once muertos e inunda capital de Filipinas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

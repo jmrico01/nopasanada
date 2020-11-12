@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202011/5-biden-se-acerca-a-la-casa-blanca-y-trump-denuncia-fraude
+        featured{array} /content/202011/12-detienen-a-diez-opositores-armenios-tras-protestas-violentas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202011/10-corte-suprema-eeuu-evalua-programa-de-salud
+        featured{array} /content/202011/12-ue-exige-a-china-que-anule-nueva-normativa-para-acallar-voces-opositoras-en-hong-kong
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202011/6-neozelandeses-dicen-no-a-cannabis-recreativo-y-si-a-legalizar-eutanasia
+    featured{array} /content/202011/12-tifon-vamco-deja-once-muertos-e-inunda-manila
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202011/10-brasil-suspende-ensayos-de-vacuna-china
+    featured{array} /content/202011/12-biden-sigue-adelante-con-la-transicion-presidencial
 }
 other{kmkv} {
     name Other (Internal)
