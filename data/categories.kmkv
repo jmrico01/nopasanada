@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202010/7-por-primera-vez-dos-mujeres-reciben-premio-nobel-cientifico-juntas
+        featured{array} /content/202011/16-moderna-anuncia-otra-vacuna-contra-el-covid-19-con-eficacia-de-mas-del-90
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202011/12-detienen-a-diez-opositores-armenios-tras-protestas-violentas
+        featured{array} /content/202011/16-bolsonaro-se-distancia-de-derrotas-de-aliados-en-las-municipalidades-brasilenas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202011/12-ue-exige-a-china-que-anule-nueva-normativa-para-acallar-voces-opositoras-en-hong-kong
+        featured{array} /content/202011/16-moderna-anuncia-otra-vacuna-contra-el-covid-19-con-eficacia-de-mas-del-90
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202011/12-tifon-vamco-deja-once-muertos-e-inunda-manila
+    featured{array} /content/202011/16-iota-amenaza-con-convertirse-en-huracan-categoria-5-y-siembra-terror-en-centroamerica
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202011/12-biden-sigue-adelante-con-la-transicion-presidencial
+    featured{array} /content/202011/16-peru-en-incertidumbre-sin-presidente-ni-jefe-del-congreso
 }
 other{kmkv} {
     name Other (Internal)
