@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202011/16-moderna-anuncia-otra-vacuna-contra-el-covid-19-con-eficacia-de-mas-del-90
+        featured{array} /content/202011/18-aves-cerdos-y-visones-las-otras-epidemias-animales
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -24,7 +24,7 @@ mas{kmkv} {
     }
     saludmental{kmkv} {
         name Salud mental
-        featured{array} /content/202007/22-como-deberiamos-estar-hablando-de-kanye
+        featured{array} /content/202007/22-eeuu-paga-1950-millones-por-posible-vacuna
     }
     arteymusica{kmkv} {
         name Arte y música
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202011/16-bolsonaro-se-distancia-de-derrotas-de-aliados-en-las-municipalidades-brasilenas
+        featured{array} /content/202011/18-trump-despide-a-funcionario-de-seguridad-electoral-por-rechazar-acusaciones-de-fraude
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202011/16-moderna-anuncia-otra-vacuna-contra-el-covid-19-con-eficacia-de-mas-del-90
+        featured{array} /content/202011/18-iota-deja-una-decena-de-muertos-y-se-degrada-a-depresion-tropical
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202011/16-iota-amenaza-con-convertirse-en-huracan-categoria-5-y-siembra-terror-en-centroamerica
+    featured{array} /content/202011/18-trump-despide-a-funcionario-de-seguridad-electoral-por-rechazar-acusaciones-de-fraude
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202011/17-fundador-de-twitter-defiende-sus-decisiones-sobre-moderacion-de-plataforma
+    featured{array} /content/202011/18-once-vacunas-contra-el-covid-19-que-estan-en-ultima-fase-de-ensayos-en-humanos
 }
 other{kmkv} {
     name Other (Internal)
