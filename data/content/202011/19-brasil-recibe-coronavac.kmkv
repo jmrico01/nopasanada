@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Brasil recibi&oacute; este jueves el primer lote con 120.000 dosis de la vacuna CoronaVac, desarrollada por el laboratorio chino Sinovac Biotech.</li>
+<li>"Es un hito muy importante", conmemor&oacute; desde el aeropuerto de Sao Paulo el gobernador del estado Joao Doria, seg&uacute;n un video posteado en sus redes sociales.</li>
+<li>La vacuna lleg&oacute; a Brasil a trav&eacute;s de un convenio con el Instituto Butantan, adscrito al gobierno de Sao Paulo, y se volvi&oacute; motivo de disputa entre el presidente ultraderechista Jair Bolsonaro y Doria, su rival pol&iacute;tico.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>El enfrentamiento subi&oacute; unos decibelios la semana pasada cuando la agencia de vigilancia sanitaria nacional (Anvisa) suspendi&oacute; por 48 horas el ensayo en voluntarios en Brasil, argumentando "un incidente grave" ocurrido durante las pruebas.&nbsp;</p>
+<p>Bolsonaro se congratul&oacute; en redes sociales por la paralizaci&oacute;n del estudio, y las autoridades regionales de Sao Paulo, as&iacute; como la directiva del Instituto Butantan, expresaron "indignaci&oacute;n" y garantizaron que el incidente no estaba relacionado con el medicamento en investigaci&oacute;n.&nbsp;</p>
+<p>El suicidio de un voluntario del ensayo motiv&oacute; la suspensi&oacute;n de los ensayos, pero enseguida Anvisa autoriz&oacute; que fueran retomados, afirmando que las suspensiones en fase de estudio son comunes y que eso "no significa necesariamente que el producto bajo investigaci&oacute;n no sea de calidad, seguro o eficaz".&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El convenio entre Sinovac y el Instituto Butantan contempla el env&iacute;o de un total de 6 millones de dosis hasta fines de a&ntilde;o, as&iacute; como la entrega de materia prima para fabricar otras 40 millones de dosis en Sao Paulo, seg&uacute;n inform&oacute; el gobierno regional.</li>
+<li>CoronaVac forma parte de las vacunas m&aacute;s avanzadas en el mundo, muy cerca del gigante farmac&eacute;utico estadounidense Pfizer, quien present&oacute; resultados provisionales de la fase 3 que muestran una eficacia "de m&aacute;s del 90%".</li>
+<li>La vacuna de Sinovac est&aacute; igualmente en fase 3 de los ensayos en humanos, la &uacute;ltima etapa antes de su homologaci&oacute;n, que implica a miles de voluntarios en Brasil, Indonesia y Turqu&iacute;a.</li>
+<li>China autoriza desde julio, para los casos "urgentes", la administraci&oacute;n de vacunas experimentales. Al menos cientos de miles de chinos ya recibieron la vacuna de Sinovac o las del laboratorio p&uacute;blico Sinopharm.</li>
+<li>Brasil, con 211 millones de habitantes, contabiliza m&aacute;s de 167.000 muertes y casi 6 millones de contagiados con el virus. Sao Paulo, el estado m&aacute;s poblado del pa&iacute;s, registra m&aacute;s de 1,1 mill&oacute;n de casos y casi 41.000 muertes.</li>
+</ul>
+}
+title Brasil recibe de China 120.000 dosis de CoronaVac
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202011/headers/19-brasil-recibe-coronavac.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Brasil recibió este jueves el primer lote con 120.000 dosis de la vacuna CoronaVac, desarrollada por el laboratorio chino Sinovac Biotech.
+year 2020
+author AFP y NPN Noticias
+featured{kmkv} {
+    title <b>Brasil<b>
+    text1 Brasil recibe de China 120.000 dosis de CoronaVac
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
