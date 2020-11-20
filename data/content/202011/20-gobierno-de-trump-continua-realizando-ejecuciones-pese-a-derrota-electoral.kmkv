@@ -41,10 +41,10 @@ description Un condenado a muerte fue ejecutado el jueves en Estados Unidos, en 
 year 2020
 author AFP y NPN Noticias
 featured{kmkv} {
-    title <b>Trump<b>
-    text1 Trump continúa realizando ejecuciones pese a derrota electoral
+    title <b>¿Fraude en Estados Unidos? <b>
+    text1 ¿Fraude en Estados Unidos? La nueva vacuna contra el COVID-19 y el huracán Iota
     text2 Por AFP Y NPN NOTICIAS
-    pretitle NOTICIAS:
+    pretitle LO IMPORTANTE:
     highlightColor #FBFF09
 }
 type article
