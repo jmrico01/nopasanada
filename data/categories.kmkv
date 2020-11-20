@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202011/18-aves-cerdos-y-visones-las-otras-epidemias-animales
+        featured{array} /content/202011/20-contraer-covid-19-crea-inmunidad-durante-seis-meses
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202011/19-boris-johnson-anuncia
+        featured{array} /content/202011/20-miles-de-bielorrusos-asisten-a-funeral
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202011/19-trump-lleva-adelante-intento-desesperado-por-invalidar-elecciones
+        featured{array} /content/202011/20-gobierno-de-trump-continua-realizando-ejecuciones-pese-a-derrota-electoral
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202011/19-jefe-policial-chileno-renuncia-luego-de-que-agentas-hirieran-de-bala-a-dos-menores
+    featured{array} /content/202011/20-miles-de-bielorrusos-asisten-a-funeral
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202011/19-brasil-recibe-coronavac
+    featured{array} /content/202011/20-indignacion-en-brasil-por-muerte-de-hombre-negro
 }
 other{kmkv} {
     name Other (Internal)
