@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202010/12-cambio-climatico-es-principal-responsable-de-duplicacion-de-catastrofes-naturales-en-20-anos
+        featured{array} /content/202011/23-concentracion-record-de-co2-en-atmosfera-pese-a-confinamientos
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202011/20-miles-de-bielorrusos-asisten-a-funeral
+        featured{array} /content/202011/23-congreso-de-guatemala-suspende-aprobacion-de-presupuesto-que-desato-protestas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202011/20-gobierno-de-trump-continua-realizando-ejecuciones-pese-a-derrota-electoral
+        featured{array} /content/202011/23-wong-chow-y-lang-tres-celebre-activistas-hongkoneses-en-detencion
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202011/20-miles-de-bielorrusos-asisten-a-funeral
+    featured{array} /content/202011/23-wong-chow-y-lang-tres-celebre-activistas-hongkoneses-en-detencion
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202011/20-indignacion-en-brasil-por-muerte-de-hombre-negro
+    featured{array} /content/202011/23-biden-nombrara-a-antony-blinken-secretario-de-estado
 }
 other{kmkv} {
     name Other (Internal)
