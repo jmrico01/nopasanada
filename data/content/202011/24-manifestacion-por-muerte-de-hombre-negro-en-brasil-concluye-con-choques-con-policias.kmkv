@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Cientos de personas marcharon de nuevo este lunes en Porto Alegre (sur de Brasil) por la muerte de un hombre negro a manos de guardias de un supermercado Carrefour, en una jornada que acab&oacute; con choques entre un grupo de manifestantes y la polic&iacute;a, que los dispers&oacute; con gases lacrim&oacute;genos.</li>
+<li>"Las vidas negras importan, paren de matarnos", se le&iacute;a en carteles y camisetas contra el racismo de los manifestantes, que por cuarto d&iacute;a consecutivo marcharon en esta ciudad para repudiar la brutal muerte de Jo&atilde;o Batista Rodrigues Freitas el jueves por la noche, un soldador de 40 a&ntilde;os.</li>
+<li>Una marcha pac&iacute;fica lleg&oacute; a ocupar una avenida, interrumpiendo el tr&aacute;nsito, frente a una sucursal de Carrefour en la zona este de Porto Alegre, la capital del estado Rio Grande do Sul, adonde se desplegaron varias decenas de uniformados para proteger el supermercado.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>"Carrefour es un asesino, Carrefour es un asesino", gritaron los participantes contra la filial brasile&ntilde;a del grupo franc&eacute;s CRFB3, en tanto otros ped&iacute;an en una pancarta "Justicia por Beto", como era conocida la v&iacute;ctima.</p>
+<p>Tras tres horas de movilizaci&oacute;n, un peque&ntilde;o n&uacute;mero de manifestantes trat&oacute; de causar destrozos en las inmediaciones del supermercado y lanz&oacute; piedras y fuegos artificiales contra los polic&iacute;as, que dispers&oacute; al grupo con gases lacrim&oacute;genos y balas de goma. No se registraron heridos.</p>
+<p>Carrefour, cuyas acciones perdieron en la jornada un 5,35% en el &iacute;ndice Ibovespa, anunci&oacute; un fondo de unos 25 millones de reales (4,8 millones USD) para promover acciones que contra el racismo.</p>
+<p>"Sabemos que no podemos reparar la p&eacute;rdida de la vida del se&ntilde;or Jo&atilde;o Alberto. Este movimiento es el primer paso de nuestra empresa para combatir los prejuicios y el racismo estructural, que es urgente en Brasil, para que gane m&aacute;s fuerza a&uacute;n y apoyo de la sociedad", indic&oacute; la empresa en un comunicado.</p>
+<p>El director general de Carrefour, Alexandre Bompard, expres&oacute; el viernes en Twitter sus condolencias tras ese "acto horrible" y estim&oacute; que las im&aacute;genes eran "insoportables".</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La agresi&oacute;n contra Rodrigues Freitas conmocion&oacute; a Brasil -un pa&iacute;s que adolece de un racismo estructural hace siglos- al divulgarse un video en el que se ve a un guardia de seguridad golpear a la v&iacute;ctima en el estacionamiento del supermercado mientras otro lo sujeta.</li>
+<li>Seg&uacute;n los primeros elementos de la investigaci&oacute;n, el hombre fue golpeado durante m&aacute;s de cinco minutos antes de ser inmovilizado por sus agresores y morir asfixiado.</li>
+<li>La muerte de Rodrigues Freitas, que fue enterrado el domingo, tambi&eacute;n moviliz&oacute; a cientos de personas en Rio de Janeiro y Sao Paulo, principalmente entre viernes y domingo.</li>
+</ul>
+}
+title Protestas por muerte de hombre negro a manos de guardias en Brasil
+day 24
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202011/headers/24-manifestacion-por-muerte-de-hombre-negro-en-brasil-concluye-con-choques-con-policias.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Cientos de personas marcharon de nuevo este lunes en Porto Alegre (sur de Brasil) por la muerte de un hombre negro a manos de guardias de un supermercado Carrefour, en una jornada que acabó con choques entre un grupo de manifestantes y la policía, que los dispersó con gases lacrimógenos.
+year 2020
+author AFP y NPN Noticias
+featured{kmkv} {
+    title <b>Brasil<b>
+    text1 Protestas por muerte de hombre negro a manos de guardias en Brasil
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

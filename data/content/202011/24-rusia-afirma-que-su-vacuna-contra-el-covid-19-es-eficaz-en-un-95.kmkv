@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Rusia afirm&oacute; este martes que su vacuna Sputnik V contra el covid-19, desarrollada por el centro de investigaci&oacute;n Gamaleya de Mosc&uacute;, tiene una eficacia del 95%.</li>
+<li>Se trata de resultados preliminares obtenidos con voluntarios 42 d&iacute;as despu&eacute;s de la inyecci&oacute;n de la primera dosis, indicaron en un comunicado conjunto del centro, el ministerio ruso de Salud y el Fondo Soberano ruso implicado en el desarrollo de la vacuna.</li>
+<li>Sin embargo, no explicaron cu&aacute;ntos casos se usaron en los c&aacute;lculos.&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>"El precio de una dosis de Sputnik V en el mercado internacional ser&aacute; inferior a 10 d&oacute;lares", anunci&oacute; en un comunicado distinto el Fondo Soberano ruso, mientras que para los ciudadanos rusos la vacuna ser&aacute; gratuita.&nbsp;</p>
+<p>La vacuna Sputnik 5 se encuentra actualmente en la fase 3 de los ensayos cl&iacute;nicos aleatorizados con doble ciego, con cerca de 40.000 voluntarios.&nbsp;</p>
+<p>Alabada por el presidente Vladimir Putin, Rusia apenas ha explicado la documentaci&oacute;n cient&iacute;fica de esta vacuna, pero sus creadores reiteraron el martes que los datos de la investigaci&oacute;n ser&aacute;n publicados dentro de poco "en una de las principales revistas m&eacute;dicas del mundo y revisados por pares".&nbsp;</p>
+<p>Se trata de una vacuna basada en el "vector viral", que utiliza dos inyecciones de dos adenovirus (un tipo de virus muy com&uacute;n, causante de resfriados, por ejemplo) modificados con una parte del virus responsable del covid-19.&nbsp;</p>
+<p>Cuando el adenovirus modificado penetra en las c&eacute;lulas de las personas vacunadas, estas fabrican una prote&iacute;na t&iacute;pica del SARS-CoV-2, con lo que permiten al sistema inmunitario reconocer el virus y combatirlo, seg&uacute;n lo explicado por el centro Gamaleya.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La competencia es feroz para desarrollar una vacuna que frene la pandemia de coronavirus que azota al mundo desde principios de a&ntilde;o.&nbsp;</li>
+<li>El laboratorio brit&aacute;nico AstraZeneca y la Universidad de Oxford publicaron el lunes que su vacuna ten&iacute;a una eficacia media del 70%.&nbsp;</li>
+<li>Por su parte, la vacuna desarrollada entre Pfizer y BioNTech es eficaz al 95%, seg&uacute;n los resultados completos de su ensayo cl&iacute;nico a gran escala, que se conocieron la semana pasada. La empresa estadounidense Moderna anunci&oacute; resultados similares (94,5% de eficacia).&nbsp;</li>
+<li>Rusia est&aacute; dispuesta a dar la batalla por liderar la carrera de la vacuna y, ya en agosto (antes incluso de que hubiera hecho ensayos cl&iacute;nicos a gran escala) anunci&oacute; que Sputnik V era muy eficaz, lo que suscit&oacute; las dudas de la comunidad cient&iacute;fica internacional.</li>
+</ul>
+}
+title Rusia afirma que su vacuna contra el covid-19 es eficaz en un 95%
+day 24
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202011/headers/24-rusia-afirma-que-su-vacuna-contra-el-covid-19-es-eficaz-en-un-95.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Rusia afirmó este martes que su vacuna Sputnik V contra el covid-19, desarrollada por el centro de investigación Gamaleya de Moscú, tiene una eficacia del 95%.
+year 2020
+author AFP y NPN Noticias
+featured{kmkv} {
+    title <b>Sputnik V<b>
+    text1 Rusia afirma que su vacuna contra el covid-19 es eficaz en un 95%
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

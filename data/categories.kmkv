@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202011/23-congreso-de-guatemala-suspende-aprobacion-de-presupuesto-que-desato-protestas
+        featured{array} /content/202011/24-claves-para-entender-crisis-que-golpea-al-presidente-de-guatemala
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202011/23-wong-chow-y-lang-tres-celebre-activistas-hongkoneses-en-detencion
+        featured{array} /content/202011/24-indignacion-en-francia-por-polemico-desmantelamiento-de-campamento-de-migrantes
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202011/23-wong-chow-y-lang-tres-celebre-activistas-hongkoneses-en-detencion
+    featured{array} /content/202011/24-manifestacion-por-muerte-de-hombre-negro-en-brasil-concluye-con-choques-con-policias
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
