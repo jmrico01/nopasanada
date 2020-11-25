@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Francia aplicar&aacute; un impuesto a las grandes empresas del sector digital, pese a las amenazas de Estados Unidos de aplicar aranceles sobre productos franceses por valor de 1.300 millones de d&oacute;lares.</li>
+<li>"Las empresas sujetas a este impuesto recibieron una notificaci&oacute;n fiscal para los pagos de 2020", indic&oacute; la misma fuente en referencia a esta tasa que concierne a las grandes multinacionales de internet, los GAFA (Google, Amazon, Facebook, Apple), cuyos beneficios escapan a numerosas administraciones fiscales de todo el mundo.</li>
+<li>Facebook y Amazon est&aacute;n entre las empresas que recibieron una notificaci&oacute;n en los &uacute;ltimos d&iacute;as.</li>
+<li>Francia se expone a sanciones de Estados Unidos, en plena transici&oacute;n entre el presidente electo Jo Biden y el saliente Donald Trump.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Francia es pionera en la imposici&oacute;n de impuestos a los grandes grupos digitales. En julio de 2019, el parlamento franc&eacute;s aprob&oacute; un impuesto del 3% sobre el volumen de negocios de los gigantes digitales.</li>
+<li>Washington, que considera que este impuesto es discriminatorio para las empresas estadounidenses, amenaz&oacute; a Francia con aplicar aranceles aduaneros de 100% a ciertos productos franceses, como el queso o los productos de belleza.</li>
+<li>En enero, los dos aliados acordaron una tregua para dar una oportunidad a las negociaciones lideradas por la OCDE para crear un impuesto global sobre las multinacionales.</li>
+<li>Par&iacute;s congel&oacute; su impuesto y Washington se abstuvo de imponer sanciones.</li>
+<li>"Hab&iacute;amos suspendido la recaudaci&oacute;n del impuesto hasta que concluyeran las negociaciones de la OCDE. Estas negociaciones han fracasado, por lo que el pr&oacute;ximo mes de diciembre impondremos un impuesto a los gigantes digitales", hab&iacute;a advertido a mediados de octubre el ministro de Econom&iacute;a franc&eacute;s Bruno Le Maire.&nbsp;</li>
+</ul>
+}
+title Francia aplicará “impuesto digital” pese a amenazas de Estados Unidos
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202011/headers/25-impuesto-digital.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description "Las empresas sujetas a este impuesto recibieron una notificación fiscal para los pagos de 2020", indicó la misma fuente en referencia a esta tasa que concierne a las grandes multinacionales de internet, los GAFA (Google, Amazon, Facebook, Apple), cuyos beneficios escapan a numerosas administraciones fiscales de todo el mundo. 
+year 2020
+author AFP y NPN Noticias
+featured{kmkv} {
+    title <b>impuesto digital<b>
+    text1 Francia aplicará “impuesto digital” pese a amenazas de Estados Unidos
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
