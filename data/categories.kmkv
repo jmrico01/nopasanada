@@ -5,7 +5,7 @@ opinion{kmkv} {
 mas{kmkv} {
     name Más
     displayOrder{array} ambiente, saludmental, saludyciencia, arteymusica, cine
-    featured{array} /content/202008/13-musica-de-pato
+    featured{array} /content/202011/25-gratis-productos-menstruales
     cine{kmkv} {
         name Cine
         featured{array} /content/202009/10-diana-rigg
@@ -97,7 +97,7 @@ venus{kmkv} {
     featured{array} /content/202008/compermisa-guiri-natalia-ep3
     derechos{kmkv} {
         name Derechos de las mujeres
-        featured{array} /content/202004/violencia-domestica-cuarentena
+        featured{array} /content/202011/25-gratis-productos-menstruales
     }
     inspiradoras{kmkv} {
         name Mujeres inspiradoras

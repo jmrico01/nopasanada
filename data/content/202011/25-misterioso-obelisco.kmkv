@@ -1,0 +1,58 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Un misterioso "obelisco" de metal fue encontrado enterrado en el remoto desierto del oeste de Estados Unidos. Lo que, bueno&hellip; Nos ha dado campo para pensar en qu&eacute; podr&aacute; ser el objeto salido de 2001 Space Odyssey.&nbsp;</li>
+<li>l mi&eacute;rcoles pasado miembros de la tripulaci&oacute;n del Departamento de Seguridad P&uacute;blica de Utah encontraron "un monolito de metal instalado en el suelo", pero "ninguna indicaci&oacute;n obvia de qui&eacute;n podr&iacute;a haber puesto el monolito all&iacute;".</li>
+<li>"Es ilegal instalar estructuras u obras de arte sin autorizaci&oacute;n en terrenos p&uacute;blicos administrados por el gobierno federal&hellip;&rdquo; advirti&oacute; la agencia en un comunicado &ldquo;Sin importar de qu&eacute; planeta sea&rdquo; a&ntilde;adieron al final.</li>
+<li>Obviamente una cantidad sin fin de memes han aparecido desde entonces.&nbsp;</li>
+</ul>
+<p>$image/obelisk1$</p>
+<p>$image/obelisk2$</p>
+<p><strong>&hellip;&iquest;En serio, que es?</strong></p>
+<ul>
+<li>Los funcionarios no han dicho mucho sobre que saben del objeto, pero si sabemos que se niegan a revelar la ubicaci&oacute;n del objeto por temor a que hordas de curiosos se acerquen al desierto remoto.</li>
+<li>Pero es el internet y un usuario de la red social Reddit dijo que logr&oacute; geolocalizar al obelisco a partir de las formaciones rocosas que lo rodean.</li>
+<li>Esta persona comparti&oacute; la ubicaci&oacute;n del objeto a trav&eacute;s de Google Earth -donde puede verse una peque&ntilde;a estructura a unos 10 kil&oacute;metros de la ruta m&aacute;s cercana, y afirm&oacute; que fue fotografiado por primera vez por Google en el 2016.</li>
+<li>Bret Hutchings, el piloto que pas&oacute; sobrevolando el obelisco, especul&oacute; que el elemento hab&iacute;a sido plantado por "alg&uacute;n artista de nueva tendencia".</li>
+<li>Algunos observadores se&ntilde;alaron el parecido del objeto con la obra de vanguardia de John McCracken, un artista estadounidense que vivi&oacute; durante un tiempo en las cercan&iacute;as de Nuevo M&eacute;xico y muri&oacute; en 2011.&nbsp;</li>
+</ul>
+<p>Posiblemente arte, posiblemente un alien, posiblemente nada.</p>
+<p>$image/spaceodessey$</p>
+}
+title ¿Qué sabemos del misterioso “obelisco” descubierto en el desierto de EEUU?
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202011/headers/25-misterioso-obelisco.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+    obelisk1 /images/202011/25-misterioso-obelisco/obelisk1.jpg
+    obelisk2 /images/202011/25-misterioso-obelisco/obelisk2.jpg
+    spaceodessey /images/202011/25-misterioso-obelisco/spaceodessey.jpg
+}
+description Un misterioso "obelisco" de metal fue encontrado enterrado en el remoto desierto del oeste de Estados Unidos. Lo que, bueno… Nos ha dado campo para pensar en qué podrá ser el objeto salido de 2001 Space Odyssey.
+year 2020
+author AFP y NPN Noticias
+featured{kmkv} {
+    title <b>el misterioso “obelisco”<b>
+    text1 ¿Qué sabemos del misterioso “obelisco” descubierto en el desierto de EEUU?
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante,noticias-culturales
+videoID 
+titlePoster 
+color #FBFF09

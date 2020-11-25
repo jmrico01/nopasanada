@@ -43,7 +43,7 @@ featured{kmkv} {
 type article
 subtitle 
 month 11
-tags{array} noticias-politica,mas-saludyciencia
+tags{array} noticias-politica,mas-saludyciencia,venus-derechos
 videoID 
 titlePoster 
 color #FBFF09
