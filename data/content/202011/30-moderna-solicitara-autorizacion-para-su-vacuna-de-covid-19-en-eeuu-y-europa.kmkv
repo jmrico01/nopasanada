@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La estadounidense Moderna anunci&oacute; que presentar&aacute; este lunes solicitudes de autorizaci&oacute;n de emergencia para su vacuna contra el covid-19 en Estados Unidos y en Europa, luego de que resultados completos confirmaran una alta eficacia de la misma (94,1%).</li>
+<li>Dos semanas despu&eacute;s de haber anunciado una eficacia de 94,5% sobre la base de resultados preliminares, Moderna report&oacute; que de 196 participantes en su ensayo cl&iacute;nico que se infectaron con covid-19, 185 pertenec&iacute;an al grupo placebo y 11 al grupo vacunado, con una eficacia calculada de 94,1%.&nbsp;</li>
+<li>Esto significa que las personas vacunadas vieron reducido su riesgo de contraer covid-19 en un 94% en comparaci&oacute;n con las personas que no fueron vacunadas, una eficacia similar a la de la vacuna de Pfizer/BioNTech (95%).</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Ninguna forma grave de la enfermedad se registr&oacute; en el grupo vacunado, contra 30 en el grupo placebo.</p>
+<p>Moderna inform&oacute; que no se observaron nuevos efectos secundarios graves en los voluntarios vacunados, pero no dijo expl&iacute;citamente si se observaron inicialmente efectos secundarios graves. El 16 de noviembre, la compa&ntilde;&iacute;a anunci&oacute; que la vacuna era "generalmente bien tolerada" y no hab&iacute;a suscitado "preocupaciones de seguridad importantes".</p>
+<p>Las reacciones m&aacute;s frecuentes no fueron graves, como dolor alrededor del lugar de la inyecci&oacute;n en el brazo, fatiga, rigidez muscular o dolor de cabeza.</p>
+<p>Un participante del ensayo cl&iacute;nico muri&oacute;, pero estaba en el grupo de placebo.</p>
+<p>Moderna inform&oacute; que la eficacia observada de su vacuna fue uniforme seg&uacute;n la edad, el g&eacute;nero y la etnia.</p>
+<p>"Este an&aacute;lisis positivo preliminar confirma la capacidad de nuestra vacuna para prevenir el covid-19 con una eficiencia del 94,1% y, significativamente, la capacidad para prevenir la forma grave de covid-19", dijo St&eacute;phane Bancel, el director ejecutivo de Moderna.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La compa&ntilde;&iacute;a presentar&aacute; lo que se denomina en Estados Unidos una solicitud de autorizaci&oacute;n de emergencia a la Agencia de Medicamentos (FDA), que se espera convoque a su comit&eacute; asesor sobre vacunas el 17 de diciembre. Esto podr&iacute;a permitir, en caso de luz verde, una distribuci&oacute;n en los d&iacute;as siguientes.</li>
+<li>Moderna tambi&eacute;n presentar&aacute; este lunes una solicitud de uso condicional a la Agencia Europea de Medicamentos (EMA).</li>
+<li>La vacuna Pfizer/BioNTech ya est&aacute; siendo evaluada por la FDA y podr&iacute;a autorizarse poco despu&eacute;s del 10 de diciembre.</li>
+</ul>
+}
+title Moderna solicita autorización para vacuna de covid-19 en EEUU y Europa
+day 30
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202011/headers/30-moderna-solicitara-autorizacion-para-su-vacuna-de-covid-19-en-eeuu-y-europa.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La estadounidense Moderna anunció que presentará este lunes solicitudes de autorización de emergencia para su vacuna contra el covid-19 en Estados Unidos y en Europa, luego de que resultados completos confirmaran una alta eficacia de la misma (94,1%).
+year 2020
+author AFP y NPN Noticias
+featured{kmkv} {
+    title <b>Moderna<b>
+    text1 Moderna solicita autorización para vacuna de covid-19 en EEUU y Europa
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
