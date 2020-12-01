@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Treinta hombres fuertemente armados asaltaron la madrugada del martes un banco en una ciudad del sur de Brasil, utilizando explosivos, tomando rehenes e intercambiando tiros con la polic&iacute;a antes de fugarse.</li>
+<li>El robo, cuyo monto no fue divulgado, sacudi&oacute; a Crici&uacute;ma, una ciudad de unos 200.000 habitantes situada a 200 km al sur de Florian&oacute;polis, capital del estado de Santa Catarina.</li>
+<li>"Fue una acci&oacute;n extremadamente violenta. Alrededor de medianoche, unos 30 delincuentes realizaron un asalto utilizando armas pesadas y explosivos", dijo a la TV Globo el comisario Anselmo Cruz, de la divisi&oacute;n de robos y antisecuestro de la polic&iacute;a local.</li>
+<li>Un polic&iacute;a y un guardia de seguridad resultaron heridos.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Durante la acci&oacute;n bloquearon varias calles del centro de la ciudad y redujeron a un grupo de hombres que estaba pintando un paso de cebra, forzando a uno de ellos a cargar los billetes hasta el convoy de veh&iacute;culos en el que se dieron a la fuga, inform&oacute; el portal de noticias G1.</p>
+<p>La polic&iacute;a localiz&oacute; los autom&oacute;viles abandonados y continuaba tras la pista de los asaltantes la ma&ntilde;ana del martes.</p>
+<p>Cuatro personas recogieron 810.000 reales (unos 150.000 d&oacute;lares) que hab&iacute;an quedado desparramados en la calle tras las explosiones y fueron detenidas, pero no fue informado si tienen v&iacute;nculo con el atraco.</p>
+<p>Seg&uacute;n im&aacute;genes de la TV local, el lugar fue cercado por los peritos criminales, que utilizaron un robot y trajes antibomba para despejar el &aacute;rea de unos 30 kilos de explosivos abandonados por los asaltantes.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Cl&eacute;sio Salvaro, alcalde de Crici&uacute;ma, pidi&oacute; durante la madrugada en las redes sociales que la poblaci&oacute;n no saliera a la calle, a fin de protegerse de un "asalto de grandes proporciones" en curso.</li>
+<li>En julio pasado, decenas de asaltantes aterrorizaron una peque&ntilde;a localidad en el interior de Sao Paulo, Botucatu, en una acci&oacute;n que incluy&oacute; tiroteos, explosivos y toma de rehenes. Esa misma ciudad ya hab&iacute;a vivido un episodio similar en diciembre del a&ntilde;o pasado.&nbsp;</li>
+<li>Un intento de asalto a dos agencias bancarias en el estado de Cear&aacute; (noreste de Brasil) en 2018 dej&oacute; 12 muertos, entre ellos cinco rehenes.</li>
+</ul>
+<p>&nbsp;</p>
+}
+title Asaltan banco con rehenes, tiros y explosivos en Brasil
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/1-asaltan-banco-con-rehenes-tiros-y-explosivos-en-brasil.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Treinta hombres fuertemente armados asaltaron la madrugada del martes un banco en una ciudad del sur de Brasil, utilizando explosivos, tomando rehenes e intercambiando tiros con la policía antes de fugarse.
+year 2020
+author AFP y NPN Noticias
+featured{kmkv} {
+    title <b>Asaltan banco en Brasil<b>
+    text1 Asaltan banco con rehenes, tiros y explosivos en Brasil
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
