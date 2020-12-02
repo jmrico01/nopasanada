@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202012/1-origen-del-covid-19-sigue-envuelto-en-misterio
+    featured{array} /content/202012/video-que-es-no-pasa-nada
 }
 other{kmkv} {
     name Other (Internal)

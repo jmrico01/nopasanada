@@ -1,0 +1,19 @@
+text <p>Text goes here.</p>
+title Title
+day 02
+media{kmkv} {
+    header{image} /images/unused/garrazo.jpg
+}
+description Description
+year 2020
+featured{kmkv} {
+    title TITLE -<br>LANDING PAGE
+    text1 SUBTEXT, LEFT
+    text2 SUBTEXT, RIGHT
+    pretitle VIDEO:
+}
+type video
+month 12
+tags{array} noticias-loimportante
+videoID yKUGwlFJAHw
+color #ffe11a
