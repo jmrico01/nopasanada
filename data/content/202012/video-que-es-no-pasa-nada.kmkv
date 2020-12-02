@@ -22,10 +22,10 @@ media{kmkv} {
 description ¡Si llegaron aquí y no saben que es NO PASA NADA... Ahora sí!
 year 2020
 featured{kmkv} {
-    title ¿Qué es NO PASA NADA?
+    title 
     text1 Por si todavía no saben...
     text2 
-    pretitle ¡HOLA!
+    pretitle 
     highlightColor #00FFFF
 }
 type video
