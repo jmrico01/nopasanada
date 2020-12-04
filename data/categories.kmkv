@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202012/1-comienza-debate-parlamentario-por-aborto-legal-en-argentina
+        featured{array} /content/202012/4-obama-bush-y-clinton-listos-para-vacunarse-publicamente-contra-el-covid-19
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202012/1-asaltan-banco-con-rehenes-tiros-y-explosivos-en-brasil
+        featured{array} /content/202012/4-chavismo-elige-un-nuevo-parlamento-y-deja-a-guaido-contra-las-cuerdas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202012/1-una-madre-arrestada-en-suecia-por-encerrar-a-su-hijo-por-30-anos
+    featured{array} /content/202012/4-bloqueos-se-extienden-a-una-segunda-carretera-en-peru
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202012/video-que-es-no-pasa-nada
+    featured{array} /content/202012/4-china-activa-reactor-experimental-de-fusion-nuclear
 }
 other{kmkv} {
     name Other (Internal)

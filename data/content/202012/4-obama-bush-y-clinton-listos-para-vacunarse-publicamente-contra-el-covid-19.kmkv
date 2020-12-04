@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Los expresidentes de Estados Unidos Barack Obama, George W. Bush y Bill Clinton expresaron su voluntad de vacunarse p&uacute;blicamente contra el covid-19 para animar a sus conciudadanos a hacer lo propio.</li>
+<li>Obama, de 59 a&ntilde;os, dijo que tiene "total confianza" en las autoridades sanitarias del pa&iacute;s, incluido el inmun&oacute;logo Anthony Fauci, una figura cient&iacute;fica muy respetada en Estados Unidos.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>"Si Anthony Fauci me dice que esta vacuna es segura y puede inmunizar contra el covid, definitivamente la tomar&eacute;", dijo en una entrevista de radio en SiriusXM, cuyos extractos fueron compartidos el mi&eacute;rcoles en YouTube.</li>
+<li>"Les prometo que cuando (la vacunaci&oacute;n) se haga para personas que corren menos riesgos, la tomar&eacute;. Puede que termine haci&eacute;ndolo en la televisi&oacute;n o que lo filmen, s&oacute;lo para que la gente sepa que conf&iacute;o en esta ciencia", explic&oacute;.</li>
+<li>Un representante de George W. Bush dijo m&aacute;s tarde a la cadena CNN que el expresidente republicano de 74 a&ntilde;os tambi&eacute;n estaba dispuesto a promover las vacunas, administr&aacute;ndose la dosis "ante las c&aacute;maras".</li>
+<li>Y el portavoz de Bill Clinton, &Aacute;ngel Ure&ntilde;a, dijo asimismo a CNN que el expresidente dem&oacute;crata, tambi&eacute;n de 74 a&ntilde;os, ser&iacute;a vacunado p&uacute;blicamente "si eso anima a todos los estadounidenses a hacer lo propio".</li>
+</ul>
+}
+title Obama, Bush y Clinton listos para vacunarse públicamente contra el covid-19
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/4-obama-bush-y-clinton-listos-para-vacunarse-publicamente-contra-el-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los expresidentes de Estados Unidos Barack Obama, George W. Bush y Bill Clinton expresaron su voluntad de vacunarse públicamente contra el covid-19 para animar a sus conciudadanos a hacer lo propio.
+year 2020
+author Daniel Hoffman de AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Obama, Bush y Clinton<b>
+    text1 Obama, Bush y Clinton listos para vacunarse públicamente contra el covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

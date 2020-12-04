@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>China activ&oacute; con &eacute;xito el viernes su reactor experimental de fusi&oacute;n nuclear m&aacute;s avanzado, inform&oacute; la agencia de prensa estatal Xinhua, lo que marca un gran paso en la investigaci&oacute;n del gigante asi&aacute;tico para producir energ&iacute;as con bajas emisiones de carbono.</li>
+<li>El pa&iacute;s, primer contaminador mundial, construy&oacute; su crecimiento a partir de energ&iacute;as f&oacute;siles y contin&uacute;a creando cada a&ntilde;o nuevas centrales el&eacute;ctricas de carb&oacute;n, muy contaminantes.</li>
+<li>Pero China es tambi&eacute;n el pa&iacute;s del mundo que m&aacute;s invierte en energ&iacute;as renovables. Realiza en especial experimentos de fusi&oacute;n nuclear, considerada por sus defensores como la energ&iacute;a del ma&ntilde;ana, pues es infinita como la del sol, y no produce ni residuos ni gases de efecto invernadero.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Para ello, China cuenta con el reactor Tokamak HL-2M, el dispositivo de investigaci&oacute;n experimental de fusi&oacute;n nuclear m&aacute;s grande y avanzado del pa&iacute;s, en la provincia de Sichuan (suroeste). Se trata de una c&aacute;mara de confinamiento magn&eacute;tica que genera un fuerte calor para fundir n&uacute;cleos at&oacute;micos.</li>
+<li>A este reactor se le conoce con el nombre de "sol artificial", debido a la temperatura que puede superar los 150 millones de grados, seg&uacute;n Xinhua, es decir diez veces el calor producido en el coraz&oacute;n mismo del Sol. &nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>El reactor va a "aportar un apoyo t&eacute;cnico esencial a China" en el marco de su participaci&oacute;n en el proyecto internacional Iter sobre reactores de fusi&oacute;n experimentales --el proyecto de investigaci&oacute;n de fusi&oacute;n nuclear m&aacute;s grande del mundo con sede en Francia, que se espera se complete en 2025--, indic&oacute; el ingeniero jefe Yang Qingway, citado por Xinhhua.&nbsp;</p>
+<p>"El desarrollo de la energ&iacute;a de fusi&oacute;n nuclear no es solo una manera para resolver las necesidades energ&eacute;ticas estrat&eacute;gicas de China, sino que tambi&eacute;n tiene gran importancia para el futuro desarrollo sostenible de la energ&iacute;a y la econom&iacute;a nacional de China", dijo el Diario del Pueblo.&nbsp;</p>
+<p>La investigaci&oacute;n sobre fusi&oacute;n nuclear no es nueva. C&aacute;maras de confinamiento magn&eacute;tico fueron inicialmente concebidas en la URSS. Otras fueron edificadas en Europa, Estados Unidos, Jap&oacute;n y Corea del Sur.&nbsp;</p>
+<p>Esta fusi&oacute;n nuclear (cuyo principio es usado ya por la explosi&oacute;n de bombas H) no debe confundirse con la fisi&oacute;n (divisi&oacute;n de &aacute;tomos) que opera en las centrales at&oacute;micas cl&aacute;sicas.</p>
+<p>La dificultad consiste en mantener estas temperaturas de manera sostenible y contenerlas en materiales resistentes.</p>
+}
+title China activa un reactor experimental de fusión nuclear
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/4-china-activa-reactor-experimental-de-fusion-nuclear.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description China activó con éxito el viernes su reactor experimental de fusión nuclear más avanzado, informó la agencia de prensa estatal Xinhua, lo que marca un gran paso en la investigación del gigante asiático para producir energías con bajas emisiones de carbono.
+year 2020
+author Daniel Hoffman de AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Reactor nuclear<b>
+    text1 China activa un reactor experimental de fusión nuclear
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
