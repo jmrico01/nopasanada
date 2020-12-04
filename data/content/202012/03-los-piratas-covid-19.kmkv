@@ -1,0 +1,62 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<p>Las vacunas contra el coronavirus despiertan la codicia de los ciberdelincuentes, que multiplican los ataques para interrumpir su entrega o incautar secretos comerciales, lo que obliga a los laboratorios y actores de la cadena de suministro a estar m&aacute;s atentos.</p>
+<p>En un documento publicado el jueves, el grupo inform&aacute;tico IBM inform&oacute; de una serie de ciberataques dirigidos contra la cadena de distribuci&oacute;n de las vacunas, que requieren que las dosis sean almacenadas y transportadas a muy bajas temperaturas.</p>
+<p>"Nuestro equipo recientemente descubri&oacute; una campa&ntilde;a global de 'phishing' (suplantaci&oacute;n de identidad) que ataca a organizaciones asociadas con la cadena de fr&iacute;o del covid-19", escribieron en un blog Claire Zaboeva y Melissa Frydrych, analistas de IBM X-Force, un grupo de trabajo dedicado a la ciberseguridad.</p>
+<p>La vacuna desarrollada por Pfizer y su socia alemana BioNTech, que recibi&oacute; el mi&eacute;rcoles la luz verde para su comercializaci&oacute;n en Reino Unido, no puede quedar expuesta a temperaturas superiores a -70 &ordm;C para garantizar su eficacia.</p>
+<p>La direcci&oacute;n general de Fiscalizaci&oacute;n y Aduanas, servicio perteneciente a la Comisi&oacute;n Europea, fue uno de los blancos del ataque, as&iacute; como compa&ntilde;&iacute;as de energ&iacute;a e inform&aacute;tica de Alemania, Italia, Rep&uacute;blica Checa, Corea del Sur y Taiw&aacute;n, dijo IBM.</p>
+<p>Para atrapar a sus v&iacute;ctimas, los ciberpiratas usaron principalmente el m&eacute;todo de "spear phishing", que consiste en hacerse pasar por alguien conocido para obtener datos confidenciales y sensibles.</p>
+<p>Los piratas enviaron correos electr&oacute;nicos fraudulentos a nombre de un supuesto dirigente de la empresa china Haier Biomedical, que efectivamente forma parte de la cadena log&iacute;stica de las vacunas y colabora con la Organizaci&oacute;n Mundial de la Salud, Unicef y otras agencias de la ONU.</p>
+<p>En los mensajes incitaron a suministrar contrase&ntilde;as o datos de identificaci&oacute;n, luego explotados por softwares maliciosos.</p>
+<p>Tambi&eacute;n intentaron atacar a farmac&eacute;uticas que desarrollan vacunas como las estadounidenses Johnson &amp; Johnson y Novavax, la brit&aacute;nica AstraZeneca y laboratorios surcoreanos, seg&uacute;n el Wall Street Journal.&nbsp;</p>
+<p>Laboratorios espa&ntilde;oles fueron atacados por ciberdelincuentes chinos, inform&oacute; el peri&oacute;dico El Pa&iacute;s en septiembre.&nbsp;</p>
+<p>En noviembre, el gigante de almacenamiento en fr&iacute;o Americold dio cuenta de un ataque a sus sistemas inform&aacute;ticos al organismo encargado de controlar la Bolsa de Estados Unidos, sin especificar si esa acci&oacute;n estaba relacionada con el papel del grupo en el almacenamiento de vacunas.</p>
+<p><strong>- Motivaciones -</strong></p>
+<p>IBM precis&oacute; que no puede determinar qui&eacute;n est&aacute; detr&aacute;s de esos ataques, pero asegura que su naturaleza y sofisticaci&oacute;n hacen pensar en un actor estatal.</p>
+<p>Para Mark Kedgleyc, del proveedor de programas de ciberseguridad New Net Technologies, "la propiedad intelectual ligada a los productos farmac&eacute;uticos de gran alcance tiene un inmenso valor para los cibercriminales".</p>
+<p>"En el caso de las vacunas contra el covid-19, tiene que ver con pirater&iacute;a a nivel de Estados-naci&oacute;n", estim&oacute;.</p>
+<p>Los pa&iacute;ses cuyos nombres son citados frecuentemente por expertos occidentales son Rusia, China o Corea del Norte, aunque se carece de pruebas formales contra ellos.</p>
+<p>El fabricante ruso de antivirus Kaspersky recuerda al respecto que se pueden utilizar t&eacute;cnicas de robo de identidad "o direcciones de correo electr&oacute;nico alojadas en un dominio .ru [asociado a sitios en Rusia, ndlr] (...) para intentar desviar sospechas sobre la identidad y, en particular, la nacionalidad de los atacantes".&nbsp;</p>
+<p>Las motivaciones financieras tampoco pueden ser descartadas, dadas las elevadas ganancias que deja la comercializaci&oacute;n de vacunas.&nbsp;</p>
+<p>"Los actores estatales y no estatales intentan usar cualquier situaci&oacute;n para obtener ventajas, ya sean pol&iacute;ticas o financieras. Habr&iacute;a sido inconcebible que los esfuerzos relacionados con el covid no fueran un objetivo, dijo "Brett Callow, de Emsisoft, una empresa especializada en ciberseguridad.</p>
+<p><strong>- Vigilancia -</strong></p>
+<p>La agencia estadounidense encargada de la ciberseguridad, CISA, estim&oacute; que el informe de IBM debe ser tomado con seriedad.</p>
+<p>"CISA anima a todas las organizaciones implicadas en el almacenamiento y transporte de vacunas a reforzar sus protecciones, principalmente para las operaciones de conservaci&oacute;n en fr&iacute;o, y a seguir atentas a toda actividad en ese sector", afirm&oacute; en un comunicado enviado a AFP Josh Corman, investigador de la CISA.</p>
+<p>Tambi&eacute;n los laboratorios est&aacute;n en estado de alerta.</p>
+<p>"La mayor&iacute;a de los grandes grupos farmac&eacute;uticos tienen recursos para detectar y protegerse de c&oacute;digos maliciosos", dijo el jueves Marene Allison, gerente de seguridad de Johnson &amp; Johnson.&nbsp;</p>
+<p>"Lamentablemente, este no es el caso de todos en la industria de la salud", agreg&oacute;.</p>
+}
+title Los piratas informáticos al asalto de las vacunas contra el covid-19
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/03-los-piratas-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El presidente estadounidense, Donald Trump, amenazó con vetar el proyecto de ley de financiación militar de 2021 a menos que el Congreso derogue la ley que protege el estatus de las redes sociales, por considerar que esas plataformas lo desfavorecen políticamente.
+year 2020
+author Daniel Hoffman de AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Los piratas<b>
+    text1 Los piratas informáticos al asalto de las vacunas contra el covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
