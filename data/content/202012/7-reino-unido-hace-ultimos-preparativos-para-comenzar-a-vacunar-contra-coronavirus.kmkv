@@ -1,0 +1,57 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El Reino Unido hac&iacute;a el lunes los &uacute;ltimos preparativos para dar inicio a la primera campa&ntilde;a de vacunaci&oacute;n contra el covid-19 realizada en un pa&iacute;s occidental, advirtiendo que ser&aacute; "m&aacute;s una carrera de fondo que de velocidad".</li>
+<li>Pa&iacute;s m&aacute;s castigado de Europa por la pandemia, con m&aacute;s de 61.000 muertes confirmadas, el Reino Unido es el primero del mundo cuyo organismo regulador autoriz&oacute; el uso de la vacuna desarrollada por el estadounidense Pfizer y el alem&aacute;n BioNTech.&nbsp;</li>
+<li>Rusia comenz&oacute; a administrar su propia vacuna, denominada Sputnik V, el pasado fin de semana. &nbsp;</li>
+<li>La campa&ntilde;a, que se anuncia larga y log&iacute;sticamente compleja, comienza el martes, "d&iacute;a V", de vacuna... o victoria, para el ministro de Sanidad, Matt Hancock. "Es un momento hist&oacute;rico", asegur&oacute;.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>El Reino Unido ha pedido 40 millones de dosis de esta vacuna, suficientes para 20 millones de personas porque cada individuo debe ser inyectado dos veces con 21 d&iacute;as de separaci&oacute;n.</p>
+<p>Es menos de un tercio de su poblaci&oacute;n (66,5 millones) y el pa&iacute;s cuenta con la pr&oacute;xima autorizaci&oacute;n de otras vacunas, especialmente la brit&aacute;nica de AstraZenaca/Oxford, para llegar a todo el mundo.</p>
+<p>Cincuenta hospitales del pa&iacute;s empezaron a recibir durante el fin de semana la primera entrega de 800.000 dosis enviadas desde la f&aacute;brica de Pfizer en la localidad belga de Puurs.&nbsp;</p>
+<p>En un primer momento la campa&ntilde;a se har&aacute; solo en hospitales debido a la necesidad de mantener la vacuna a muy baja temperatura, entre -70&ordm;C y -80&ordm;C. M&aacute;s adelante se establecer&aacute;n 1.000 centros de vacunaci&oacute;n desde ambulatorios a polideportivos.</p>
+<p>A su llegada el lunes, las dosis eran extra&iacute;das de sus cajas llenas de hielo seco por un t&eacute;cnico farmac&eacute;utico y colocadas en un congelador especial.</p>
+<p>"Saber que est&aacute;n aqu&iacute;, y que estamos entre los primeros del pa&iacute;s en recibir la vacuna, y por lo tanto los primeros del mundo, es simplemente incre&iacute;ble", afirm&oacute; Louise Coughlan, farmac&eacute;utica jefe del hospital universitario de Croydon, en el sur de Londres.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La vacunaci&oacute;n se realizar&aacute; en un orden de prioridades que comienza con residentes y trabajadores de las residencias de ancianos, personal m&eacute;dico y mayores de 80 a&ntilde;os en un segundo tiempo.</li>
+<li>Se proseguir&aacute; despu&eacute;s por grupos de edad regresivos hasta los mayores de 50 a&ntilde;os.</li>
+<li>Las autoridades ya advirtieron de que el grueso de la campa&ntilde;a se realizar&aacute; en 2021.</li>
+<li>El ejecutivo espera haber vacunado a todas las personas vulnerables hacia abril, pero esto depender&aacute; del ritmo con el que vayan llegando las siguientes entregas de la vacuna.</li>
+</ul>
+}
+title Últimos preparativos en Reino Unido para comenzar a vacunar
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/7-reino-unido-hace-ultimos-preparativos-para-comenzar-a-vacunar-contra-coronavirus.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El Reino Unido hacía el lunes los últimos preparativos para dar inicio a la primera campaña de vacunación contra el covid-19 realizada en un país occidental, advirtiendo que será "más una carrera de fondo que de velocidad".
+year 2020
+author Daniel Hoffman de AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Reino Unido<b>
+    text1 Últimos preparativos en Reino Unido para comenzar a vacunar
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
