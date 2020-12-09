@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El primer vuelo "a prueba de Covid" lleg&oacute; este mi&eacute;rcoles a Roma procedente de Nueva York, una iniciativa para abrir las rutas a&eacute;reas entre Europa y Estados Unidos, bloqueadas por la pandemia.&nbsp;</li>
+<li>Los pasajeros tuvieron que presentar una prueba negativa de covid-19 realizada 48 horas antes de tomar el vuelo de Alitalia en el aeropuerto Kennedy y hacer otra prueba al llegar a Roma.&nbsp;</li>
+<li>Los 100 pasajeros a bordo resultaron negativos, seg&uacute;n la agencia de noticias italiana AGI, resultado que les permiti&oacute; evitar la cuarentena de 14 d&iacute;as exigida a los pasajeros procedentes de Estados Unidos.&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Entre ellos se encontraba Chiara, una italiana residente en Estados Unidos que viaj&oacute; con su esposo y un hijo de siete meses para visitar a la familia.</p>
+<p>"Desde hace un a&ntilde;o que no ven&iacute;amos a Italia", cont&oacute;.&nbsp;</p>
+<p>"En abril naci&oacute; nuestro hijo y hasta ahora nadie de nuestras familias lo ha podido conocer. Por eso estamos tan emocionados", confes&oacute;.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Todas las personas a bordo ten&iacute;an que usar mascarillas y reemplazarlas cada cuatro horas, seg&uacute;n las disposiciones para el vuelo.</li>
+<li>"Este es un experimento extraordinario, porque reactiva los viajes a&eacute;reos, la movilidad y la econom&iacute;a incluso con el coronavirus en circulaci&oacute;n", declar&oacute; Nicola Zingaretti, gobernador de la regi&oacute;n Lazio, que incluye Roma.&nbsp;</li>
+<li>La iniciativa fue lanzada en septiembre para los viajes dom&eacute;sticos entre Roma y la capital financiera Mil&aacute;n, al norte, con el lema "vuelo libre de virus".</li>
+</ul>
+}
+title Llega a Roma el primer vuelo "a prueba de covid" desde Nueva York
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/9-llega-a-roma-primer-vuelo-a-prueba-de-covid.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El primer vuelo "a prueba de Covid" llegó este miércoles a Roma procedente de Nueva York, una iniciativa para abrir las rutas aéreas entre Europa y Estados Unidos, bloqueadas por la pandemia.
+year 2020
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Roma<b>
+    text1 Llega a Roma el primer vuelo "a prueba de covid" desde Nueva York
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

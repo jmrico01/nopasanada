@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202012/4-obama-bush-y-clinton-listos-para-vacunarse-publicamente-contra-el-covid-19
+        featured{array} /content/202012/9-seis-de-cada-diez-paises-vulneraron-derechos-humanos-en-pandemia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202012/4-chavismo-elige-un-nuevo-parlamento-y-deja-a-guaido-contra-las-cuerdas
+        featured{array} /content/202012/9-tras-fallar-activan-el-sistema-de-diques-de-venecia-para-inundaciones
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202012/4-bloqueos-se-extienden-a-una-segunda-carretera-en-peru
+    featured{array} /content/202012/9-llega-a-roma-primer-vuelo-a-prueba-de-covid
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202012/4-china-activa-reactor-experimental-de-fusion-nuclear
+    featured{array} /content/202012/9-seis-de-cada-diez-paises-vulneraron-derechos-humanos-en-pandemia
 }
 other{kmkv} {
     name Other (Internal)
