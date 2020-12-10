@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202012/9-seis-de-cada-diez-paises-vulneraron-derechos-humanos-en-pandemia
+        featured{array} /content/202012/10-gobierno-de-eeuu-presenta-demanda-antimonopolio-contra-facebook
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202012/9-tras-fallar-activan-el-sistema-de-diques-de-venecia-para-inundaciones
+        featured{array} /content/202012/10-ue-presenta-plan-de-emergencia-ante-posibilidad-de-que-no-haya-acuerdp-posbrexit
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202012/9-llega-a-roma-primer-vuelo-a-prueba-de-covid
+    featured{array} /content/202012/10-aumento-de-contagios-por-coronavirus-en-alemania-es-preocupante
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202012/9-seis-de-cada-diez-paises-vulneraron-derechos-humanos-en-pandemia
+    featured{array} /content/202012/10-riqueza-de-multimillonarios-estadounidenses-se-dispara-durante-pandemia
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El aumento de los contagios por coronavirus en Alemania es "preocupante", dijo este jueves el presidente del instituto de vigilancia epidemiol&oacute;gica Robert Koch.</li>
+<li>"La situaci&oacute;n sigue siendo muy grave (...) ha empeorado desde la semana pasada", subray&oacute; Lothar Wieler. El jueves, el pa&iacute;s registr&oacute; 23.679 nuevos casos en 24 horas y 440 fallecidos.</li>
+<li>El mi&eacute;rcoles el n&uacute;mero de decesos por coronavirus lleg&oacute; a 590, una cifra r&eacute;cord.</li>
+<li>Wieler, al igual que hizo la canciller Angela Merkel el mi&eacute;rcoles, asegur&oacute; que est&aacute;n "considerando" nuevas medidas de restricci&oacute;n."Si [las medidas actuales] no funcionan, no veo otra posibilidad", dijo.</li>
+<li>En Alemania est&aacute;n cerrados desde principios de noviembre bares, restaurantes, centros culturales y deportivos.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>"Desde hace semanas, el n&uacute;mero de casos se sit&uacute;a en un nivel muy alto y en este momento, vemos incluso un aumento de los contagios", dijo, en una rueda de prensa en Berl&iacute;n.</li>
+<li>Alemania fue presentado como un ejemplo de gesti&oacute;n de la primera ola en primavera, pero se ve muy castigado por la segunda. En total, el pa&iacute;s ha registrado 1,2 millones de infecciones, seg&uacute;n los datos del instituto Robert Koch.</li>
+<li>El mi&eacute;rcoles, Merkel subray&oacute; que los contactos entre las personas siguen siendo "demasiado elevados" y dio a entender que podr&iacute;a haber m&aacute;s restricciones de cara a las fiestas de Navidad.</li>
+</ul>
+<p><br /><br /></p>
+}
+title Aumento de contagios por coronavirus en Alemania es "preocupante"
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/10-aumento-de-contagios-por-coronavirus-en-alemania-es-preocupante.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El aumento de los contagios por coronavirus en Alemania es "preocupante", dijo este jueves el presidente del instituto de vigilancia epidemiológica Robert Koch.
+year 2020
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Alemania<b>
+    text1 Aumento de contagios por coronavirus en Alemania es "preocupante"
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
