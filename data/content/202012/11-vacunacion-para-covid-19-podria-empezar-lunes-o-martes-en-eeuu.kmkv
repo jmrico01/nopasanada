@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El secretario de Salud de Estados Unidos, Alex Azar, estim&oacute; este viernes que la vacuna Pfizer/BioNTech contra el covid-19 podr&iacute;a comenzar a ser administrada a la poblaci&oacute;n el lunes o el martes, una vez que sea aprobada por las autoridades reguladoras.&nbsp;</li>
+<li>Despu&eacute;s de que una comisi&oacute;n consultiva de Administraci&oacute;n de Alimentos y Medicamentos de Estados Unidos (FDA) recomend&oacute; el jueves que se autorice el uso de la vacuna, el funcionario inform&oacute; que este ente regulador probablemente va a proceder a dar su visto bueno definitivo "en los pr&oacute;ximos d&iacute;as".&nbsp;</li>
+<li>"Vamos a trabajar con Pfizer para la distribuci&oacute;n y podr&iacute;amos tener personas vacun&aacute;ndose el lunes o el martes de la pr&oacute;xima semana", indic&oacute; Azar en una entrevista a la cadena ABC.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las dosis van a ser entregadas directamente a los hospitales y a las farmacias que van a vacunar a los grupos prioritarios: los residentes de los geri&aacute;tricos y los profesionales sanitarios.&nbsp;</li>
+<li>Un alto cargo de la FDA precis&oacute; que en Estados Unidos el compuesto no est&aacute; recomendado para personas que tengan una alergia a alguno de los componentes.&nbsp;</li>
+<li>Este pa&iacute;s es el m&aacute;s afectado por la pandemia con 15,6 millones de casos confirmados y m&aacute;s de 292.000 muertos, seg&uacute;n los datos de la Universidad Johns Hopkins, que son utilizados como referencia.</li>
+</ul>
+}
+title Vacunación para covid-19 en EEUU podría comenzar lunes
+day 11
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/11-vacunacion-para-covid-19-podria-empezar-lunes-o-martes-en-eeuu.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El secretario de Salud de Estados Unidos, Alex Azar, estimó este viernes que la vacuna Pfizer/BioNTech contra el covid-19 podría comenzar a ser administrada a la población el lunes o el martes, una vez que sea aprobada por las autoridades reguladoras.
+year 2020
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 Vacunación para covid-19 en EEUU podría comenzar lunes
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
