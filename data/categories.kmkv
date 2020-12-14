@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202012/11-magnate-hongkones-jimmy-lai-inculpado-en-virtud-de-ley-de-seguridad-nacional
+        featured{array} /content/202012/14-canada-va-a-empezar-distribuir-vacuna-de-pfizer-biontech
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202012/11-diputados-aprueban-aborto-en-argentina-y-pasa-al-senado
+        featured{array} /content/202012/14-guerra-fria-secreto-bancario-club-de-ricos-la-ocde-en-cinco-puntos-clave
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202012/11-ue-acuerda-reducir-drasticamente-emisiones-en-proxima-decada
+    featured{array} /content/202012/14-chile-busca-un-claro-entre-las-nubes-para-ver-el-eclipse
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202012/11-vacunacion-para-covid-19-podria-empezar-lunes-o-martes-en-eeuu
+    featured{array} /content/202012/14-gobierno-de-eeuu-confirma-ciberataques-a-sus-redes-informaticas
 }
 other{kmkv} {
     name Other (Internal)

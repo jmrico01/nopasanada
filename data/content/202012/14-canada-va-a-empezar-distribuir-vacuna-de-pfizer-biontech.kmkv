@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Canad&aacute; empezar&aacute; este lunes a distribuir la vacuna contra el covid-19 de la alianza estadounidense-alemana Pfizer/BioNTech, d&iacute;as despu&eacute;s de ser uno de los primeros pa&iacute;ses en aprobar el tratamiento.&nbsp;</li>
+<li>El primer cargamento de vacunas lleg&oacute; a Canad&aacute; el domingo por la noche.</li>
+<li>El primer ministro, Justin Trudeau, celebr&oacute; la "buena noticia", pero record&oacute; que la "lucha contra el covid-19 no termin&oacute;", en su cuenta de Twitter. "Ahora m&aacute;s que nunca, seamos m&aacute;s vigilantes", a&ntilde;adi&oacute;.&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Canad&aacute; recibir&aacute; 249.000 dosis de la vacuna este mes y espera tener ya las primeras 30.000 este lunes, seg&uacute;n indic&oacute; el primer ministro.&nbsp;</p>
+<p>Seg&uacute;n medios locales, la vacuna se distribuir&aacute; el mismo d&iacute;a en Quebec, la provincia m&aacute;s afectada por la pandemia, y las primeras beneficiarias ser&aacute;n las residencias de ancianos.&nbsp;</p>
+<p>En la provincia vecina de Ontario, el reparto de la vacuna empezar&aacute; el martes como parte de un plan para proteger a 2.500 trabajadores de los hospitales y las residencias de ancianos.&nbsp;</p>
+<p>Respecto a las dem&aacute;s provincias, "estar&aacute;n en posici&oacute;n de administrar las vacunas en los pr&oacute;ximos d&iacute;as", dijo el domingo al canal CBC Dany Fortin, el encargado de la distribuci&oacute;n del tratamiento en Canad&aacute;.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El pa&iacute;s norteamericano encarg&oacute; 20 millones de dosis de la vacuna de Pfizer y BioNTech cuando a&uacute;n estaba en fase de desarrollo, con la posibilidad de adquirir 56 millones de dosis adicionales.&nbsp;</li>
+<li>El producto, que demostr&oacute; una eficacia del 95% en los ensayos cl&iacute;nicos, se administra en dos dosis con 21 d&iacute;as de intervalo.&nbsp;</li>
+<li>Canad&aacute; ha registrado 460.743 casos de coronavirus y ha sufrido m&aacute;s de 13.400 fallecidos desde el inicio de la pandemia.&nbsp;</li>
+</ul>
+}
+title Canadá va a empezar a distribuir vacuna de Pfizer-BioNTech
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/14-canada-va-a-empezar-distribuir-vacuna-de-pfizer-biontech.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Canadá empezará este lunes a distribuir la vacuna contra el covid-19 de la alianza estadounidense-alemana Pfizer/BioNTech, días después de ser uno de los primeros países en aprobar el tratamiento.
+year 2020
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Canadá<b>
+    text1 Canadá va a empezar a distribuir vacuna de Pfizer-BioNTech
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

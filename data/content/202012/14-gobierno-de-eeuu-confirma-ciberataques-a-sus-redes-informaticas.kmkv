@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El gobierno de Estados Unidos confirm&oacute; el domingo que sus redes inform&aacute;ticas fueron afectadas por un ciberataque, mientras el diario The Washington Post se&ntilde;al&oacute; que al menos dos departamentos del gobierno, incluido el Tesoro, fueron hackeados por piratas inform&aacute;ticos rusos.</li>
+<li>"Hemos estado trabajando en estrecha colaboraci&oacute;n con nuestras agencias asociadas con respecto a la actividad recientemente descubierta en las redes gubernamentales", dijo un portavoz de la Agencia de Seguridad de Infraestructura y Ciberseguridad (CISA, por su sigla en ingl&eacute;s).</li>
+<li>"CISA est&aacute; brindando asistencia t&eacute;cnica a las entidades afectadas mientras trabaja para identificar y mitigar cualquier compromiso potencial".&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Rusia estar&iacute;a detr&aacute;s de esos ataques, que habr&iacute;an penetrado las defensas de los departamos de Comercio y Tesoro, se&ntilde;al&oacute; The Washington Post.</li>
+<li>El Post sostuvo que los ataques del domingo estaban relacionados con otro producido la semana pasada contra la firma de ciberseguridad FireEye, que dijo que sus propias defensas fueron violadas por atacantes sofisticados que robaron herramientas utilizadas para probar los sistemas inform&aacute;ticos de los clientes.&nbsp;</li>
+<li>FireEye indic&oacute; que sospechaba que el ataque hab&iacute;a sido patrocinado por un Estado.&nbsp;</li>
+<li>Informes de la prensa estadounidense se&ntilde;alaron que el FBI estaba investigando a un grupo que trabajaba para el servicio de inteligencia exterior ruso, SVR.&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Seg&uacute;n agregaron, SVR hacke&oacute; agencias gubernamentales de Estados Unidos durante la administraci&oacute;n de Barack Obama.&nbsp;</p>
+<p>"El gobierno de Estados Unidos est&aacute; al tanto de estos informes y estamos tomando todas las medidas necesarias para identificar y remediar cualquier posible problema relacionado con esta situaci&oacute;n", dijo el portavoz del Consejo de Seguridad Nacional, John Ullyot.</p>
+<p>La embajada rusa en Estados Unidos respondi&oacute; la noche del domingo denunciando "infundados" reportes de prensa y negando su papel en los supuestos ataques.</p>
+<p>"Las actividades maliciosas en el espacio de la informaci&oacute;n contradicen los principios de la pol&iacute;tica exterior rusa, los intereses nacionales y nuestra visi&oacute;n de las relaciones entre Estados", declar&oacute; la embajada en un comunicado en su sitio de Facebook.</p>
+<p>"Rusia no realiza operaciones ofensivas en internet".</p>
+}
+title Gobierno de EEUU confirma ciberataques a sus redes informáticas
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/14-gobierno-de-eeuu-confirma-ciberataques-a-sus-redes-informaticas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El gobierno de Estados Unidos confirmó el domingo que sus redes informáticas fueron afectadas por un ciberataque, mientras el diario The Washington Post señaló que al menos dos departamentos del gobierno, incluido el Tesoro, fueron hackeados por piratas informáticos rusos.
+year 2020
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ciberataques<b>
+    text1 Gobierno de EEUU confirma ciberataques a sus redes informáticas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
