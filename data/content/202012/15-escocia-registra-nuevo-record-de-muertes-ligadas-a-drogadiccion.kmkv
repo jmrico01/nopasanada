@@ -1,0 +1,52 @@
+text {
+<p><strong>&iquest;Qu&eacute; necesitas saber</strong></p>
+<ul>
+<li>Escocia registr&oacute; el a&ntilde;o pasado un n&uacute;mero r&eacute;cord de muertes relacionadas con las drogas, m&aacute;s de 1.200 para una poblaci&oacute;n de 5,5 millones, el peor balance en Europa, seg&uacute;n estad&iacute;sticas oficiales publicadas el martes. &nbsp;</li>
+<li>Las cifras de la oficina de estad&iacute;stica escocesa (NRS), cuya aparici&oacute;n se retras&oacute; debido a la pandemia, mostraron un aumento del 6% en 2019 respecto al a&ntilde;o anterior, con un total de 1.264 muertes ligadas al consumo de estupefacientes. &nbsp;</li>
+<li>Es una tasa de mortalidad casi 3,5 veces superior a la del conjunto del Reino Unido, pa&iacute;s formado por cuatro naciones: Inglaterra, Escocia, Gales e Irlanda del Norte.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Seg&uacute;n las &uacute;ltimas cifras disponibles del Observatorio Europeo de las Drogas y las Toxicoman&iacute;as, Escocia tiene la mayor tasa de muertes relacionadas con las drogas per c&aacute;pita de Europa, seguida de Suecia. &nbsp;</p>
+<p>Las autoridades escocesas calificaron la mortalidad debida a la drogas como una emergencia de salud p&uacute;blica. &nbsp;</p>
+<p>Sin embargo, y pese a este nuevo r&eacute;cord, el aumento se ralentiz&oacute; en comparaci&oacute;n con 2018, cuando fue del 27% respecto al a&ntilde;o anterior.</p>
+<p>Cada una de estas muertes es "una tragedia", afirm&oacute; el ministro de Sanidad de Escocia, Joe FitzPatrick, admitiendo que se trata de un problema "complejo y de larga data" en la regi&oacute;n. &nbsp;</p>
+<p>"No existen atajos que nos permitan resolver esto de repente" pero "estamos tomando medidas ahora que tendr&aacute;n un impacto" futuro, a&ntilde;adi&oacute;. &nbsp;</p>
+<p>Entre ellas se incluye una inversi&oacute;n de m&aacute;s de 95 millones de libras (127 millones de d&oacute;lares, 104 millones de euros) este a&ntilde;o para combatir la adicci&oacute;n al alcohol y las drogas, y la distribuci&oacute;n de naloxona, un f&aacute;rmaco utilizado en casos de sobredosis de opi&aacute;ceos.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>De los fallecimientos registrados en 2019, el 69% fueron hombres y 68% ocurrieron entre personas de 35 a 54 a&ntilde;os, principalmente en Glasgow -la mayor ciudad de Escocia- y su &aacute;rea metropolitana: 404 muertes. &nbsp;</li>
+<li>En el 94% de los casos, la muerte fue causada por m&aacute;s de una sustancia (hero&iacute;na, morfina, metadona, benzodiacepina, opi&aacute;ceos, etc.).</li>
+</ul>
+}
+title Escocia registra nuevo récord de muertes ligadas a drogadicción
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/15-escocia-registra-nuevo-record-de-muertes-ligadas-a-drogadiccion.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Escocia registró el año pasado un número récord de muertes relacionadas con las drogas, más de 1.200 para una población de 5,5 millones, el peor balance en Europa, según estadísticas oficiales publicadas el martes.
+year 2020
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Escocia<b>
+    text1 Escocia registra nuevo récord de muertes ligadas a drogadicción
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
