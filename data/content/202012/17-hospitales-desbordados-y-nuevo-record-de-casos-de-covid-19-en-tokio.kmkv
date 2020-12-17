@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Los hospitales de Tokio tienen dificultades para garantizar cuidados debido a un aumento de casos de coronavirus, advirtieron el jueves las autoridades sanitarias locales, mientras la capital japonesa bati&oacute; un nuevo r&eacute;cord de contaminaciones.</li>
+<li>Por primera vez la capital pas&oacute; al nivel cuatro, el m&aacute;s alto en la escala de alerta de disponibilidad de servicios m&eacute;dicos.</li>
+<li>"Es dif&iacute;cil garantizar a la vez los cuidados normales y los de pacientes infectados por el coronavirus, debido al aumento de las hospitalizaciones" declar&oacute; el jueves Masataka Inokuchi, vicepresidente de la Asociaci&oacute;n m&eacute;dica de Tokio.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La gobernadora de la capital, Yuriko Koike, exhort&oacute; a los habitantes a la prudencia para evitar que la propagaci&oacute;n del covid-19 se intensifique m&aacute;s, e inst&oacute; a evitar las fiestas de fin de a&ntilde;o as&iacute; como los viajes a las regiones de origen.</li>
+<li>"El virus no tiene calendario (...) puede golpear en cualquier momento, en Navidad, a fines de a&ntilde;o o principios del pr&oacute;ximo", dijo este jueves en conferencia de prensa.</li>
+<li>Jap&oacute;n ha salido relativamente bien parado desde el inicio de la pandemia, con 187.000 infecciones y 2.700 muertos a nivel nacional, estad&iacute;sticas bajas si se comparan con las de otros pa&iacute;ses.</li>
+<li>Pero el n&uacute;mero de infecciones diarias de covid-19 est&aacute; en fuerte aumento desde noviembre. Tokio bati&oacute; un nuevo r&eacute;cord el jueves con 822 nuevos casos, contra 500 a 600 diarios en las &uacute;ltimas semanas.</li>
+</ul>
+}
+title Hospitales desbordados y nuevo récord de casos de covid-19 en Tokio
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/17-hospitales-desbordados-y-nuevo-record-de-casos-de-covid-19-en-tokio.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los hospitales de Tokio tienen dificultades para garantizar cuidados debido a un aumento de casos de coronavirus, advirtieron el jueves las autoridades sanitarias locales, mientras la capital japonesa batió un nuevo récord de contaminaciones.
+year 2020
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Tokio<b>
+    text1 Hospitales desbordados y nuevo récord de casos de covid-19 en Tokio
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
