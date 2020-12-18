@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La pandemia de coronavirus en B&eacute;lgica ya ha provocado la muerte de m&aacute;s de 10.000 residentes en hogares de ancianos, m&aacute;s de la mitad del n&uacute;mero nacional de v&iacute;ctimas fatales, anunciaron el viernes funcionarios del &aacute;rea de salud.</li>
+<li>"Esta semana hemos superado el umbral de los 10.000 decesos entre los usuarios de las residencias de ancianos, estamos actualmente en 10.270", declar&oacute; en una rueda de prensa Yves Van Laethem, un portavoz del grupo de trabajo para la epidemia.</li>
+<li>B&eacute;lgica, un pa&iacute;s de 11,5 millones de habitantes, ya registr&oacute; 18.371 v&iacute;ctimas fatales por covid-19 desde que comenz&oacute; el brote. Esto representa la tasa de mortalidad per c&aacute;pita m&aacute;s elevada del mundo.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El n&uacute;mero de casos volvi&oacute; a aumentar en B&eacute;lgica despu&eacute;s de experimentar un retroceso tras la reinstauraci&oacute;n de un cierre parcial de caf&eacute;s y restaurantes a fines de octubre, durante una segunda ola.</li>
+<li>Yves Van Laethem afirm&oacute; que la situaci&oacute;n en las comunidades de jubilados era "precaria y dif&iacute;cil" y que los residentes y personal en casas de ancianos tendr&iacute;an prioridad cuando comiencen las campa&ntilde;as de vacunaci&oacute;n.</li>
+<li>Se espera que los pa&iacute;ses miembros de la UE comiencen a administrar vacunas el 27 de diciembre, despu&eacute;s de que la Agencia Europea de Medicamentos y la Comisi&oacute;n Europea aprueben el primer f&aacute;rmaco candidato.</li>
+<li>No obstante, en B&eacute;lgica no se espera que una verdadera campa&ntilde;a de vacunaci&oacute;n masiva se ponga en marcha antes del 4 de enero, aunque habr&iacute;a una operaci&oacute;n simb&oacute;lica a fines de diciembre.</li>
+</ul>
+}
+title Más de 10.000 fallecidos por covid-19 en retiros de ancianos en Bélgica
+day 18
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/18-mas-de-10000-fallecidos-por-covid-en-retiros-de-ancianos-en-belgica.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La pandemia de coronavirus en Bélgica ya ha provocado la muerte de más de 10.000 residentes en hogares de ancianos, más de la mitad del número nacional de víctimas fatales, anunciaron el viernes funcionarios del área de salud.
+year 2020
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Bélgica<b>
+    text1 Más de 10.000 fallecidos por covid-19 en retiros de ancianos en Bélgica
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
