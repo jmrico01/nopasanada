@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Rusia registr&oacute; el lunes un r&eacute;cord de nuevos casos diarios de infecciones de coronavirus, en medio de una segunda oleada epid&eacute;mica que est&aacute; golpeando duramente al pa&iacute;s, donde no se decret&oacute; ning&uacute;n confinamiento generalizado para proteger la econom&iacute;a.</li>
+<li>Rusia, el cuarto pa&iacute;s del mundo m&aacute;s afectado por la pandemia, report&oacute; 29.350 nuevos casos de covid-19 en las &uacute;ltimas 24 horas, lo que llevaba el total a 2,87 millones de contagios. El balance oficial de fallecidos en el pa&iacute;s asciende a 51.351, de los que 493 fueron registrados en las &uacute;ltimas 24 horas.</li>
+<li>En San Petersburgo, segunda ciudad del pa&iacute;s, las autoridades informaron el lunes que quedaban menos del 4% de las camas reservadas en los hospitales para enfermos de covid-19.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las cifras oficiales publicadas por las autoridades rusas dan cuenta de una mortalidad menor que en Europa occidental o en Estados Unidos. Sin embargo, Rusia solo tiene en cuenta los decesos en los que la causa principal haya sido el covid-19, tras una confirmaci&oacute;n por autopsia.</li>
+<li>Una segunda oleada epid&eacute;mica ha provocado que cada semana se batan r&eacute;cords, con una situaci&oacute;n particularmente preocupante en las regiones m&aacute;s empobrecidas y, a menudo, infraequipadas.</li>
+<li>Hasta ahora, las autoridades han rechazado instaurar un nuevo confinamiento nacional, con el fin de no lastrar la econom&iacute;a, y apuestan por una estrategia basada en la vacunaci&oacute;n masiva de la poblaci&oacute;n con un ant&iacute;doto desarrollado por Mosc&uacute;, la vacuna Sputnik V.</li>
+</ul>
+}
+title Nuevo récord de casos diarios de covid-19 en Rusia
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/21-nuevo-record-de-casos-diarios-de-covid-19-en-rusia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Rusia registró el lunes un récord de nuevos casos diarios de infecciones de coronavirus, en medio de una segunda oleada epidémica que está golpeando duramente al país, donde no se decretó ningún confinamiento generalizado para proteger la economía.
+year 2020
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Nuevo récord de casos diarios de covid-19 en Rusia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

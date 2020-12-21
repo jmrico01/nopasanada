@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Los cheques para ayudar a las familias debilitadas por los efectos de la pandemia en Estados Unidos comenzar&aacute;n a enviarse a partir de la pr&oacute;xima semana, anunci&oacute; el lunes el secretario del Tesoro, Steven Mnuchin, en la cadena CNBC.</li>
+<li>Estos cheques de 600 d&oacute;lares por adulto y por ni&ntilde;o, incluidos en el nuevo plan de ayuda a la econom&iacute;a por 900.000 millones de d&oacute;lares que ser&aacute; sometido a la votaci&oacute;n final en el Congreso este lunes, son "una forma muy r&aacute;pida de inyectar dinero en el econom&iacute;a", explic&oacute; Mnuchin.</li>
+<li>"La gente ver&aacute; este dinero desde el comienzo de la semana pr&oacute;xima. Ser&aacute; muy r&aacute;pido", a&ntilde;adi&oacute;.</li>
+<li>El secretario del Tesoro celebr&oacute; igualmente esta ayuda que llega "justo a tiempo para las vacaciones" de fin de a&ntilde;o.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Su objetivo es el de sostener el consumo de los hogares y permitir a las familias con mayores dificultades que puedan pagar sus alquileres.</p>
+<p>Mnuchin estim&oacute; tambi&eacute;n que el plan de ayuda, cuyo acuerdo fue anunciado el domingo por dem&oacute;cratas y republicanos, permitir&aacute; apoyar a las "peque&ntilde;as empresas" y "llevar a m&aacute;s gente al trabajo".</p>
+<p>Entre las medidas estrella del plan destacan las ayudas para las escuelas y guarder&iacute;as por un total de cerca de 100.000 millones de d&oacute;lares, con el objetivo de permitir hacer inversiones para reabrir esos establecimientos, pese a la pandemia y facilitar as&iacute; a los padres su regreso al trabajo.</p>
+<p>Numerosas escuelas permanecieron cerradas en el oto&ntilde;o boreal en Estados Unidos, ralentizando la retomada econom&iacute;a.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En primavera, muchas familias ya recibieron cheques de 1.200 d&oacute;lares por adulto, lo que sostuvo en gran medida el consumo.</li>
+<li>El nuevo plan de est&iacute;mulo, que ser&aacute; sometido este lunes al parecer del Congreso, debe tomar el relevo del de 2,2 billones de d&oacute;lares votado en urgencia a finales de marzo y cuyas medidas expiran a finales de diciembre.</li>
+<li>Comprende igualmente prestaciones excepcionales por desempleo de 300 d&oacute;lares por semana, frente a los de 600 d&oacute;lares del plan precedente.</li>
+</ul>
+}
+title Familias de EEUU recibirán cheques de ayuda la próxima semana
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202012/headers/21-familias-de-eeuu-recibiran-cheques-de-ayuda-a-partir-de-la-proxima-semana.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los cheques para ayudar a las familias debilitadas por los efectos de la pandemia en Estados Unidos comenzarán a enviarse a partir de la próxima semana, anunció el lunes el secretario del Tesoro, Steven Mnuchin, en la cadena CNBC.
+year 2020
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 Familias de EEUU recibirán cheques de ayuda la próxima semana
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
