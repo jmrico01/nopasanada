@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202012/14-canada-va-a-empezar-distribuir-vacuna-de-pfizer-biontech
+        featured{array} /content/202012/22-europa-tiene-menos-que-perder-con-el-brexit-que-londres
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202012/16-londres-cierra-de-nuevo-por-preocupacion-de-contagios-en-navidad
+        featured{array} /content/202012/22-rusia-sanciona-a-ue-por-caso-navalni
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202012/16-el-bitcoin-supera-los-20000-dolares-por-primera-vez-en-su-historia
+    featured{array} /content/202012/22-polemico-alcalde-de-rio-termina-su-mandato-detenido-por-caso-de-sobornos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202012/16-una-quinta-parte-de-la-poblacion-mundial-podria-no-tener-acceso-a-vacuna-hasta-2022
+    featured{array} /content/202012/22-biontech-puede-suministrar-en-seis-semanas-vacuna-para-nueva-cepa-del-virus
 }
 other{kmkv} {
     name Other (Internal)
