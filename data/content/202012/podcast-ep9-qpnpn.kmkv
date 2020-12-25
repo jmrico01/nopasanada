@@ -14,7 +14,7 @@ text {
 <p>$youtube/rRl-a7ek06s$</p>
 }
 title ¿Qué pasa en NO PASA NADA?
-day 25
+day 28
 text1 
 text2 
 text3 
@@ -35,7 +35,7 @@ featured{kmkv} {
 }
 type video
 subtitle Un podcast de NO PASA NADA sobre que ... esta pasando en NPN y el mundo.
-month 12
+month 09
 tags{array} noticias-video
 videoID edsoIL6Co3M
 titlePoster 
