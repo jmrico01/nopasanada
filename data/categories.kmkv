@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202012/22-europa-tiene-menos-que-perder-con-el-brexit-que-londres
+        featured{array} /content/202101/4-trump-provoca-indignacion-por-presionar-a-alto-cargo-para-revertir-resultados-electorales
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202012/22-rusia-sanciona-a-ue-por-caso-navalni
+        featured{array} /content/202101/4-que-se-sabe-de-las-dos-variantes-del-covid-19
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202012/22-polemico-alcalde-de-rio-termina-su-mandato-detenido-por-caso-de-sobornos
+    featured{array} /content/202101/4-funcionarios-de-estadounidenses-defienden-campana-de-vacunacion-contra-covid-19
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202012/22-biontech-puede-suministrar-en-seis-semanas-vacuna-para-nueva-cepa-del-virus
+    featured{array} /content/202101/4-justicia-britanica-rechaza-extradicion-de-assange-a-eeuu
 }
 other{kmkv} {
     name Other (Internal)
