@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La primera vacuna china aprobada oficialmente contra el covid-19 es efectiva contra las nuevas variantes del virus, dijo uno de sus creadores el martes.</li>
+<li>La vacuna desarrollada por el laboratorio p&uacute;blico Sinopharm junto a su filial China National Biotec Group (CNBG) tiene una tasa de eficiencia del 79%, anunci&oacute; la semana pasada el grupo farmac&eacute;utico, justo antes de recibir una aprobaci&oacute;n "condicional" para su comercializaci&oacute;n.&nbsp;</li>
+<li>"La actual mutaci&oacute;n del virus covid-19 no ha hecho que la vacuna sea ineficaz", dijo el presidente de CNBG, Yang Xiaoming, a la televisi&oacute;n estatal.&nbsp;</li>
+<li>Pek&iacute;n anunci&oacute; el jueves que hab&iacute;a descubierto la nueva variante de origen brit&aacute;nico en un estudiante que regresaba del Reino Unido. El 24 de diciembre China ya hab&iacute;a ordenado la suspensi&oacute;n de sus vuelos con este pa&iacute;s.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Este martes las autoridades chinas intentaban acelerar la vacunaci&oacute;n de la poblaci&oacute;n en v&iacute;speras de la gran migraci&oacute;n del A&ntilde;o Nuevo chino, que este a&ntilde;o cae el 12 de febrero.&nbsp;</li>
+<li>Esta fiesta suele dar lugar a la mayor migraci&oacute;n del mundo, cuando cientos de millones de trabajadores abandonan las grandes ciudades para regresar a sus hogares.&nbsp;</li>
+<li>En Shangh&aacute;i, el personal sanitario recibi&oacute; la inyecci&oacute;n esta semana. Pero a diferencia de Europa, las personas mayores no est&aacute;n entre los grupos prioritarios para ser vacunados y las vacunas est&aacute;n reservadas a las personas de entre 18 y 59 a&ntilde;os.&nbsp;</li>
+<li>Seg&uacute;n el diario en ingl&eacute;s Global Times, pocas personas mayores fueron incluidas en los ensayos cl&iacute;nicos de la vacuna, lo que explica "el recurso prudente a la vacunaci&oacute;n para los m&aacute;s mayores".&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Sin esperar la autorizaci&oacute;n oficial de las autoridades m&eacute;dicas, China, donde el covid-19 apareci&oacute; por primera vez hace poco m&aacute;s de un a&ntilde;o, comenz&oacute; a vacunar a millones de personas el verano pasado, incluidos trabajadores de la salud, estudiantes que iban al extranjero y diplom&aacute;ticos.&nbsp;</p>
+<p>En los &uacute;ltimos meses ya se han administrado al menos 4,5 millones de dosis, dijeron las autoridades la semana pasada.&nbsp;</p>
+<p>Aunque el pa&iacute;s ha erradicado en gran medida la epidemia desde principios del a&ntilde;o pasado, tanto el lunes como el martes se registraron 33 nuevos casos en 24 horas, la cifra m&aacute;s alta en casi dos meses.</p>
+}
+title Vacuna china es efectiva contra nuevas cepas del covid-19
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202101/headers/5-vacuna-china-es-efectiva-contra-nuevas-cepas-del-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La primera vacuna china aprobada oficialmente contra el covid-19 es efectiva contra las nuevas variantes del virus, dijo uno de sus creadores el martes.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Covid-19<b>
+    text1 Vacuna china es efectiva contra nuevas cepas del covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
