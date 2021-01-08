@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202101/7-un-dia-de-caos-en-el-capitolio-de-eeuu-un-recuento-de-los-hechos
+        featured{array} /content/202101/8-trump-enfrenta-posible-destitucion-por-vigesimo-quinta-enmienda
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202101/7-alza-de-contagios-en-espana-lleva-a-endurecer-medidas-sin-confinamiento
+        featured{array} /content/202101/8-trump-enfrenta-posible-destitucion-por-vigesimo-quinta-enmienda
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202101/7-inglaterra-busca-camas-de-hospital-ante-aumento-de-pacientes-de-covid-19
+    featured{array} /content/202101/8-policia-de-londres-busca-falso-vacunador-que-cobro-160-libras-por-inyeccion
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202101/7-un-dia-de-caos-en-el-capitolio-de-eeuu-un-recuento-de-los-hechos
+    featured{array} /content/202101/8-japon-se-enfrenta-a-vieja-desconfianza-en-vacunas
 }
 other{kmkv} {
     name Other (Internal)
