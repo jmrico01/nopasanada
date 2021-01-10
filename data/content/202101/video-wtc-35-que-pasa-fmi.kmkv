@@ -25,10 +25,10 @@ media{kmkv} {
 description ¿Somos muy delicados para los chistes? Y nuestras teorías de conspiración...
 year 2021
 featured{kmkv} {
-    title <b>¿Qué esta pasando con el FMI?<b>
-    text1 EP 35 |
+    title 
+    text1 
     text2 Con Kenenth Baldi
-    pretitle WTC :
+    pretitle 
     highlightColor #00FFFF
 }
 type video
