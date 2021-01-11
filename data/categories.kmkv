@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202101/8-trump-enfrenta-posible-destitucion-por-vigesimo-quinta-enmienda
+        featured{array} /content/202101/11-republicanos-multiplican-llamados-a-renuncia-de-trump
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202101/8-trump-enfrenta-posible-destitucion-por-vigesimo-quinta-enmienda
+        featured{array} /content/202101/11-investigacion-sobre-origen-de-covid-19-en-wuhan-iniciara-este-jueves
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202101/8-policia-de-londres-busca-falso-vacunador-que-cobro-160-libras-por-inyeccion
+    featured{array} /content/202101/11-medico-australiano-conquista-eeuu-con-test-covid-19-sin-receta
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202101/video-wtc-35-que-pasa-fmi
+    featured{array} /content/202101/11-parler-deja-de-funcionar-tras-vetos-de-amazon-apple-google
 }
 other{kmkv} {
     name Other (Internal)
