@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202101/13-trump-cerca-de-segundo-juicio-politico-tras-asalto-al-congreso
+        featured{array} /content/202101/14-servicios-penitenciarios-rusos-dicen-que-detendran-a-navalni-si-regresa
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202101/13-mutacion-e484k-del-covid-19-arroja-dudas-sobre-eficacia-de-vacunas
+        featured{array} /content/202101/14-wikipedia-la-enciclopedia-mas-grande-del-mundo-cumple-20-anos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202101/13-irlanda-es-el-pais-donde-coronavirus-se-propaga-mas-rapido
+    featured{array} /content/202101/14-aborto-legal-entra-en-vigencia-en-argentina
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202101/13-estados-unidos-ejecuta-a-primer-mujer-en-casi-70-anos
+    featured{array} /content/202101/14-equipo-de-investigacion-de-la-oms-llega-a-china
 }
 other{kmkv} {
     name Other (Internal)
@@ -97,7 +97,7 @@ venus{kmkv} {
     featured{array} /content/202008/compermisa-guiri-natalia-ep3
     derechos{kmkv} {
         name Derechos de las mujeres
-        featured{array} /content/202012/11-diputados-aprueban-aborto-en-argentina-y-pasa-al-senado
+        featured{array} /content/202101/14-aborto-legal-entra-en-vigencia-en-argentina
     }
     inspiradoras{kmkv} {
         name Mujeres inspiradoras
