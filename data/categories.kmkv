@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202101/14-servicios-penitenciarios-rusos-dicen-que-detendran-a-navalni-si-regresa
+        featured{array} /content/202101/15-washington-bajo-vigilancia-por-riesgo-de-violencia-en-traspaso-de-poderes
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202101/14-wikipedia-la-enciclopedia-mas-grande-del-mundo-cumple-20-anos
+        featured{array} /content/202101/15-creamatorio-aleman-desbordado-por-victimas-de-coronavirus
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202101/14-aborto-legal-entra-en-vigencia-en-argentina
+    featured{array} /content/202101/15-china-confina-en-centros-de-cuarentena-a-20000-habitantes
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202101/14-equipo-de-investigacion-de-la-oms-llega-a-china
+    featured{array} /content/202101/15-washington-bajo-vigilancia-por-riesgo-de-violencia-en-traspaso-de-poderes
 }
 other{kmkv} {
     name Other (Internal)

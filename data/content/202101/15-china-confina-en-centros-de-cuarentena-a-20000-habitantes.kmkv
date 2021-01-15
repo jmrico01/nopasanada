@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>China coloc&oacute; en cuarentena en instalaciones estatales a m&aacute;s de 20.000 residentes rurales que viven en el epicentro del &uacute;ltimo brote de virus del pa&iacute;s, al tiempo que anunci&oacute; el viernes el peor balance de la pandemia desde marzo.</li>
+<li>Pek&iacute;n hab&iacute;a logrado controlar en gran medida el virus tras la adopci&oacute;n de medidas estrictas que inclu&iacute;an test masivos y restricciones de movimiento, pero en las &uacute;ltimas semanas las cifras volvieron a aumentar, especialmente en el norte, lo que llev&oacute; a una nueva oleada de confinamientos.&nbsp;</li>
+<li>La Comisi&oacute;n Nacional de Salud inform&oacute; el viernes de 144 infecciones, la mayor cifra diaria desde marzo del a&ntilde;o pasado, principalmente en la provincia de Hebei, donde m&aacute;s de 22 millones de personas est&aacute;n confinadas.&nbsp;</li>
+<li>El aumento parece haber sido provocado por las llamadas "infecciones silenciosas", o casos asintom&aacute;ticos, en la mayor&iacute;a en zonas rurales en las afueras de las ciudades.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>M&aacute;s de 20.000 residentes de aldeas alrededor de Shijiazhuang, a unos 294 kil&oacute;metros al suroeste de Pek&iacute;n, fueron enviadas a partir del mi&eacute;rcoles a instalaciones del Estado para cumplir cuarentena, dijo la cadena estatal CCTV.</li>
+<li>Los residentes fueron alojados en hoteles, seg&uacute;n la CCTV, con los miembros de la familia separados en diferentes habitaciones.</li>
+<li>China inform&oacute; el jueves de su primera muerte por covid-19 en ocho meses, coincidiendo con la llegada de expertos de la Organizaci&oacute;n Mundial de la Salud a Wuhan --donde la enfermedad apareci&oacute; por primera vez a finales de 2019- para investigar sus or&iacute;genes.</li>
+</ul>
+}
+title China confina en centros de cuarentena a 20.000 habitantes
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202101/headers/15-china-confina-en-centros-de-cuarentena-a-20000-habitantes.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description 
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 China confina en centros de cuarentena a 20.000 habitantes
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
