@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202101/15-washington-bajo-vigilancia-por-riesgo-de-violencia-en-traspaso-de-poderes
+        featured{array} /content/202101/18-biden-quiere-enfrentar-pandemia-pero-juicio-a-trump-lo-complica
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202101/15-creamatorio-aleman-desbordado-por-victimas-de-coronavirus
+        featured{array} /content/202101/18-opositor-navalni-es-detenido-tras-volver-a-rusia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202101/15-china-confina-en-centros-de-cuarentena-a-20000-habitantes
+    featured{array} /content/202101/18-mineros-atrapados-en-china-logran-trasmitir-una-nota-a-socorristas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202101/15-washington-bajo-vigilancia-por-riesgo-de-violencia-en-traspaso-de-poderes
+    featured{array} /content/202101/18-biden-quiere-enfrentar-pandemia-pero-juicio-a-trump-lo-complica
 }
 other{kmkv} {
     name Other (Internal)
