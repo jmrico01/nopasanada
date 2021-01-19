@@ -55,8 +55,8 @@ description El presidente de Estados Unidos, Donald Trump, comenzó el martes su
 year 2021
 author AFP | NPN Noticias
 featured{kmkv} {
-    title Trump cierra lista de indultos en su último día completo en el poder
-    text1 
+    title <b>Trump<b>
+    text1 Trump cierra lista de indultos en su último día completo en el poder
     text2 Por AFP Y NPN NOTICIAS
     pretitle LO IMPORTANTE:
     highlightColor #FBFF09
