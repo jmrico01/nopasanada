@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202101/18-biden-quiere-enfrentar-pandemia-pero-juicio-a-trump-lo-complica
+        featured{array} /content/202101/19-trump-cierra-lista-de-indultos-en-su-ultimo-dia-completo-en-el-poder
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202101/18-opositor-navalni-es-detenido-tras-volver-a-rusia
+        featured{array} /content/202101/19-mujer-sospechosa-de-intentar-vender-computadora-robada-de-pelosi-a-rusia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202101/18-mineros-atrapados-en-china-logran-trasmitir-una-nota-a-socorristas
+    featured{array} /content/202101/19-trump-cierra-lista-de-indultos-en-su-ultimo-dia-completo-en-el-poder
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202101/18-biden-quiere-enfrentar-pandemia-pero-juicio-a-trump-lo-complica
+    featured{array} /content/202101/19-trump-cierra-lista-de-indultos-en-su-ultimo-dia-completo-en-el-poder
 }
 other{kmkv} {
     name Other (Internal)
