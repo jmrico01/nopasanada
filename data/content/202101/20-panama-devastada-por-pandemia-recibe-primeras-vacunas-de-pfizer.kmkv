@@ -27,7 +27,7 @@ text {
 </ul>
 <p>&nbsp;</p>
 }
-title Panamá devastada por pandemia recibe primeras vacunas 
+title Panamá devastada por pandemia recibe primeras vacunas
 day 20
 text1 
 text2 
@@ -36,7 +36,7 @@ text4
 customTop 
 media{kmkv} {
     kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
-    header /images/202101/headers/18-biden-quiere-enfrentar-pandemia-pero-juicio-a-trump-lo-complica.jpg
+    header /images/202101/headers/20-panama-devastada-por-pandemia-recibe-primeras-vacunas-de-pfizer.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
     banksy /images/202006/10-banksy/banksy.jpg
@@ -47,7 +47,7 @@ year 2021
 author AFP | NPN Noticias
 featured{kmkv} {
     title <b>Panamá<b>
-    text1 Panamá devastada por pandemia recibe primeras vacunas 
+    text1 Panamá devastada por pandemia recibe primeras vacunas
     text2 Por AFP Y NPN NOTICIAS
     pretitle LO IMPORTANTE:
     highlightColor #FBFF09
@@ -55,7 +55,7 @@ featured{kmkv} {
 type article
 subtitle 
 month 01
-tags{array} noticias-loimportante,noticias-politica
+tags{array} noticias-loimportante
 videoID 
 titlePoster 
 color #FBFF09
