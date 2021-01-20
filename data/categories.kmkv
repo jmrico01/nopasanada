@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202101/19-trump-cierra-lista-de-indultos-en-su-ultimo-dia-completo-en-el-poder
+        featured{array} /content/202101/20-eeuu-denuncia-a-china-de-genocidio-contra-uigures
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202101/19-mujer-sospechosa-de-intentar-vender-computadora-robada-de-pelosi-a-rusia
+        featured{array} /content/202101/20-medicos-brasilenos-preocupados-por-virulencia-de-segunda-ola-pandemica
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202101/19-trump-cierra-lista-de-indultos-en-su-ultimo-dia-completo-en-el-poder
+    featured{array} /content/202101/20-medicos-brasilenos-preocupados-por-virulencia-de-segunda-ola-pandemica
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202101/19-trump-cierra-lista-de-indultos-en-su-ultimo-dia-completo-en-el-poder
+    featured{array} /content/202101/20-eeuu-denuncia-a-china-de-genocidio-contra-uigures
 }
 other{kmkv} {
     name Other (Internal)
