@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Un incendio se registr&oacute; el jueves en el Serum Institute of India, el mayor fabricante de vacunas del mundo, seg&uacute;n im&aacute;genes de la televisi&oacute;n local, aunque los medios indios aseguraron que la producci&oacute;n de vacunas no se ve&iacute;a afectada.</li>
+<li>Las televisiones indias mostraban una enorme humareda gris sobre la sede del Serum Institute of India, en Pune (oeste), donde se producen en este momento millones de dosis de la vacuna contra el covid-19 desarrollada por AstraZeneca y la Universidad de Oxford.</li>
+<li>Sin embargo, seg&uacute;n las cadenas, el incendio fue declarado en un sitio que est&aacute; en obras, apartado de las instalaciones donde se fabrican las vacunas.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>"La instalaci&oacute;n de producci&oacute;n de vacunas no se vio afectado y esto no afectar&aacute; a la producci&oacute;n", declar&oacute; una fuente del Serum Institute of India, precisando que "el fuego se produjo en la nueva f&aacute;brica en construcci&oacute;n".</li>
+<li>"Hemos enviado seis o siete camiones de bomberos al lugar. De momento, no tenemos m&aacute;s informaci&oacute;n sobre el alcance del incendio o sobre si alguien qued&oacute; atrapado", precis&oacute; un responsable del parque de bomberos local.</li>
+<li>"Al lugar llegaron equipos de polic&iacute;a", indic&oacute; la polic&iacute;a de Pune.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>India es el segundo pa&iacute;s m&aacute;s afectado por el covid-19, despu&eacute;s de Estados Unidos, con m&aacute;s de 10 millones de casos declarados, aunque su tasa de mortalidad es una de las m&aacute;s bajas del mundo.</p>
+<p>A principios de enero, fueron aprobadas dos vacunas: la Covishield, desarrollada por AstraZeneca y la Universidad de Oxford y producida por el Serum Institute of India; y la Covaxin, fabricada por la empresa local Bharat Biotech.</p>
+<p>India inici&oacute; el s&aacute;bado una de las campa&ntilde;as de vacunaci&oacute;n m&aacute;s ambiciosas del mundo, para inmunizar a 300 millones de personas hasta julio.<br />&nbsp;</p>
+}
+title Incendio en sede del mayor fabricante de vacunas del mundo en India
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202101/headers/21-incendio-en-sede-del-mayor-fabricante-de-vacunas-en-india.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un incendio se registró el jueves en el Serum Institute of India, el mayor fabricante de vacunas del mundo, según imágenes de la televisión local, aunque los medios indios aseguraron que la producción de vacunas no se veía afectada.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>India<b>
+    text1 Incendio en sede del mayor fabricante de vacunas del mundo en India
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
