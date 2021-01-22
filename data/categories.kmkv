@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202101/21-biden-emprende-en-lucha-contra-el-coronavirus
+        featured{array} /content/202101/22-biden-aumenta-ayudas-ante-crisis-alimentaria-que-afecta-a-millones-de-estadounidenses
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202101/21-poder-ruso-intenta-limitar-exito-de-investigacion-de-navalni-sobre-putin
+        featured{array} /content/202101/22-nina-muere-asfixiada-en-italia-por-participar-en-reto-de-tiktok
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202101/21-incendio-en-sede-del-mayor-fabricante-de-vacunas-en-india
+    featured{array} /content/202101/22-rusia-amenaza-y-detiene-a-opositores-antes-de-protestas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202101/21-biden-emprende-en-lucha-contra-el-coronavirus
+    featured{array} /content/202101/22-hospitales-pagan-resaca-de-fiestas-navidenas
 }
 other{kmkv} {
     name Other (Internal)
