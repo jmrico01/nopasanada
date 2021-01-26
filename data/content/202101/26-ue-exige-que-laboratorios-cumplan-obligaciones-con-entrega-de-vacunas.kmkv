@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La Uni&oacute;n Europea (UE) aument&oacute; este martes la presi&oacute;n sobre los grandes laboratorios y exigi&oacute; que cumplan con los compromisos asumidos en materia de entrega de las vacunas para el covid-19, en medio de una creciente controversia por retrasos.</li>
+<li>En un discurso por videoconferencia al Foro Econ&oacute;mico Mundial de Davos, la presidenta de la Comisi&oacute;n Europea, Ursula von der Leyen, record&oacute; que "Europa ha invertido miles de millones para desarrollar las primeras vacunas contra el covid-19".</li>
+<li>Por eso, a&ntilde;adi&oacute;, "ahora, las empresas deben mantener sus promesas y honrar sus obligaciones".</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Las enormes inversiones, se&ntilde;al&oacute; la funcionaria, fueron destinadas a "construir infraestructura de investigaci&oacute;n e instalaciones de producci&oacute;n" y se propon&iacute;an ayudar a desarrollar "un bien com&uacute;n verdaderamente global".</p>
+<p>La UE busc&oacute; mecanismos para lograr alg&uacute;n tipo de coordinaci&oacute;n en las campa&ntilde;as nacionales de vacunaci&oacute;n en los 27 pa&iacute;ses del bloque, pero r&aacute;pidamente surgieron problemas evidentes por retrasos en la distribuci&oacute;n de las vacunas.</p>
+<p>El bloque firm&oacute; precontratos por varios laboratorios para asegurarse m&aacute;s de 2.000 millones de dosis.</p>
+<p>Hasta el momento, la UE ya certific&oacute; y autoriz&oacute; dos vacunas -las de Pfizer-BioNTech y Moderna- y pretend&iacute;a dar la luz verde esta semana a la de AstraZeneca.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Sin embargo, los problemas surgidos con retrasos en la distribuci&oacute;n de las dosis de Pfizer/BioNTech se agravaron en d&iacute;as recientes despu&eacute;s que AstraZeneca tambi&eacute;n anunciase que experimentar&iacute;a demoras en sus entregas.</li>
+<li>Von der Leyen mantuvo el lunes una conversaci&oacute;n telef&oacute;nica con el director general de AstraZeneca, Pascal Soriot.</li>
+<li>La comisaria europea de Sanidad, Stella Kyriakides, asegur&oacute; ese mismo d&iacute;a que un nuevo programa de entregas sugerido por el laboratorio no era "aceptable" para la UE.</li>
+<li>Se trata de una cuesti&oacute;n de extrema sensibilidad y adem&aacute;s pone en jaque el liderazgo de Von der Leyen, quien ayud&oacute; a dise&ntilde;ar la pol&iacute;tica adoptada en la UE de negociar de forma centralizadas con los laboratorios a nombre de los pa&iacute;ses del bloque.</li>
+<li>La semana pasada, hab&iacute;a anunciado la meta de vacunar al 70% de los adultos de la UE hasta el fin del verano boreal, en agosto, un objetivo que con los retrasos en las entregas de vacunas queda severamente cuestionado.</li>
+</ul>
+}
+title UE exige a laboratorios cumplir con entrega de vacunas
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202101/headers/26-ue-exige-que-laboratorios-cumplan-obligaciones-con-entrega-de-vacunas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La Unión Europea (UE) aumentó este martes la presión sobre los grandes laboratorios y exigió que cumplan con los compromisos asumidos en materia de entrega de las vacunas para el covid-19, en medio de una creciente controversia por retrasos.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Unión Europea<b>
+    text1 UE exige a laboratorios cumplir con entrega de vacunas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
