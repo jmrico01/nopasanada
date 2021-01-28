@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202101/26-acusacion-llega-al-senado-activando-juicio-contra-trump
+        featured{array} /content/202101/28-protestas-en-polonia-por-prohibicion-casi-total-del-aborto
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202101/26-acusacion-llega-al-senado-activando-juicio-contra-trump
+        featured{array} /content/202101/28-influencer-italiana-acusada-de-incitar-suicidio-a-nina-en-tiktok
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202101/26-protestas-por-segunda-noche-contra-toque-de-queda-en-holanda
+    featured{array} /content/202101/28-autoridades-rusas-deciden-mantener-detenido-a-navalni
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202101/26-ue-exige-que-laboratorios-cumplan-obligaciones-con-entrega-de-vacunas
+    featured{array} /content/202101/28-oms-inicia-investigacion-en-wuhan-tras-cumplir-cuarentena
 }
 other{kmkv} {
     name Other (Internal)
