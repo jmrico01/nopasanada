@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202101/28-protestas-en-polonia-por-prohibicion-casi-total-del-aborto
+        featured{array} /content/202101/29-portugal-se-prepara-para-legalizar-eutanasia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202101/28-influencer-italiana-acusada-de-incitar-suicidio-a-nina-en-tiktok
+        featured{array} /content/202101/29-television-del-estado-ruso-se-burla-del-palacio-de-putin
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202101/28-autoridades-rusas-deciden-mantener-detenido-a-navalni
+    featured{array} /content/202101/29-delicuentes-explotan-desesperacion-de-familiares-de-enfermos-de-covid-19-en-mexico
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202101/28-oms-inicia-investigacion-en-wuhan-tras-cumplir-cuarentena
+    featured{array} /content/202101/29-portugal-se-prepara-para-legalizar-eutanasia
 }
 other{kmkv} {
     name Other (Internal)
