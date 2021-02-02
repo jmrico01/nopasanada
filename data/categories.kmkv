@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202101/29-portugal-se-prepara-para-legalizar-eutanasia
+        featured{array} /content/202102/2-navalni-se-defiende-en-juicio-ante-amenaza-de-prision
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202101/29-television-del-estado-ruso-se-burla-del-palacio-de-putin
+        featured{array} /content/202102/2-twitter-bloquea-cuentas-relacionadas-con-protestas-de-agricultores-en-india
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202101/29-delicuentes-explotan-desesperacion-de-familiares-de-enfermos-de-covid-19-en-mexico
+    featured{array} /content/202102/2-diputada-casio-cortez-confiesa-haber-sobrevivido-agresion-sexual
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202101/29-portugal-se-prepara-para-legalizar-eutanasia
+    featured{array} /content/202102/2-coronavirus-desborda-hospitales-de-portugal-en-tercera-ola
 }
 other{kmkv} {
     name Other (Internal)
