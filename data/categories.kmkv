@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202102/2-navalni-se-defiende-en-juicio-ante-amenaza-de-prision
+        featured{array} /content/202102/3-tuits-de-rihanna-y-greta-thunberg-por-protestas-de-agricultores-irritan-al-gobierno-indio
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202102/2-twitter-bloquea-cuentas-relacionadas-con-protestas-de-agricultores-en-india
+        featured{array} /content/202102/3-rusia-defiende-su-represion-ante-manifestantes-que-luchan-por-liberacion-de-navalni
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202102/2-diputada-casio-cortez-confiesa-haber-sobrevivido-agresion-sexual
+    featured{array} /content/202102/3-equipo-de-oms-no-dara-resultados-rapidos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202102/2-coronavirus-desborda-hospitales-de-portugal-en-tercera-ola
+    featured{array} /content/202102/3-jeff-bezos-ve-mas-alla-de-amazon
 }
 other{kmkv} {
     name Other (Internal)
