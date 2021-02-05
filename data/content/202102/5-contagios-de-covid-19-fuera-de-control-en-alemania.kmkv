@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La situaci&oacute;n sanitaria est&aacute; "lejos de estar bajo control" en Alemania, donde se propagan, a pesar de las restricciones draconianas, las variantes del coronavirus, advirti&oacute; el viernes el director del instituto Robert Koch.</li>
+<li>"El virus todav&iacute;a no est&aacute; cansado, al contrario, acaba de recibir un nuevo impulso" con las variantes brit&aacute;nica y sudafricana, deplor&oacute; en una conferencia de prensa el director del instituto de vigilancia epidemiol&oacute;gica, Lothar Wieler.</li>
+<li>"La situaci&oacute;n est&aacute; lejos de estar bajo control", advirti&oacute;, disipando las esperanzas de un r&aacute;pido levantamiento de las restricciones frente a un virus que se convirti&oacute; en "m&aacute;s peligroso".&nbsp;</li>
+<li>El propio gobierno de Angela Merkel hab&iacute;a abierto la puerta el jueves para flexibilizarla, con la posibilidad de reabrir las escuelas antes de fin de mes.</li>
+<li>La canciller y los l&iacute;deres de las 16 regiones se reunir&aacute;n el mi&eacute;rcoles para negociar una posible eliminaci&oacute;n de algunas de las restricciones que han estado en vigor durante m&aacute;s de un mes.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Sin embargo, la propagaci&oacute;n de las variantes podr&iacute;a poner en tela de juicio una posible supresi&oacute;n de las prohibiciones.</li>
+<li>Seg&uacute;n Wieler, estas variantes "a&uacute;n no dominan" en Alemania.</li>
+<li>La variante brit&aacute;nica representa menos del 6% de los casos detectados. Pero ahora est&aacute; presente en 13 de las 16 regiones alemanas.</li>
+<li>Hasta el viernes se hab&iacute;an registrado en Alemania oficialmente 2,2 millones de casos (+12.908 en 24 horas) y 60.597 muertes (+855).</li>
+</ul>
+}
+title Contagios de variantes de covid-19 fuera de control en Alemania
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202102/headers/5-contagios-de-covid-19-fuera-de-control-en-alemania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La situación sanitaria está "lejos de estar bajo control" en Alemania, donde se propagan, a pesar de las restricciones draconianas, las variantes del coronavirus, advirtió el viernes el director del instituto Robert Koch.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Alemania<b>
+    text1 Contagios de variantes de covid-19 fuera de control en Alemania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
