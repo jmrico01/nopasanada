@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Cuatro personas fueron detenidas en Jerusal&eacute;n despu&eacute;s de nuevos enfrentamientos entre las fuerzas de seguridad y jud&iacute;os ultraortodoxos que se oponen a las medidas contra el coronavirus, dijo la polic&iacute;a el mi&eacute;rcoles.</li>
+<li>El domingo pasado, Israel comenz&oacute; la salida gradual de su tercer confinamiento, instaurado en diciembre.</li>
+<li>Pero las localidades donde viven los ultraortodoxos forman parte de los llamados sectores "rojos", donde las restricciones sanitarias se levantan con menos rapidez.&nbsp;</li>
+<li>Los ultraortodoxos rechazan las medidas y han protagonizado enfrentamientos violentos con las fuerzas de seguridad.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>A finales de enero, un autob&uacute;s fue incendiado y su conductor result&oacute; herido en Bnei Brak, cerca de Tel Aviv.</p>
+<p>En la noche del martes centenas de personas volvieron a reunirse en un barrio ultraortodoxo de Jerusal&eacute;n, la gran mayor&iacute;a violando la obligaci&oacute;n de utilizar una mascarilla.</p>
+<p>"Stop al hostigamiento contra la religi&oacute;n en Tierra Santa", dec&iacute;a una pancarta.</p>
+<p>Los manifestantes prendieron fuego a cubos de basura y algunos participantes "arrojaron piedras y objetos contra la polic&iacute;a", inform&oacute; la polic&iacute;a en un comunicado.</p>
+<p>Cuatro personas fueron arrestadas y luego liberadas, agreg&oacute; el comunicado.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Para muchos israel&iacute;es, los jud&iacute;os ultraortodoxos (jared&iacute;es), 12% de la poblaci&oacute;n del pa&iacute;s, son en gran parte responsables de la circulaci&oacute;n del virus en el pa&iacute;s.</li>
+<li>Israel, un pa&iacute;s de nueve millones de habitantes, que est&aacute; llevando a cabo una amplia campa&ntilde;a de vacunaci&oacute;n, registr&oacute; oficialmente 706.400 casos de covid-19 y mas de 5.200 muertos.</li>
+</ul>
+}
+title Enfrentamientos en Israel entre judíos ortodoxos y la policía
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202102/headers/10-enfrentamientos-en-israel-entre-judios-ortodoxos-y-la-policia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Cuatro personas fueron detenidas en Jerusalén después de nuevos enfrentamientos entre las fuerzas de seguridad y judíos ultraortodoxos que se oponen a las medidas contra el coronavirus, dijo la policía el miércoles.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Israel<b>
+    text1 Enfrentamientos en Israel entre judíos ortodoxos y la policía
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
