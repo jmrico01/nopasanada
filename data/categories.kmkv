@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202102/3-rusia-defiende-su-represion-ante-manifestantes-que-luchan-por-liberacion-de-navalni
+        featured{array} /content/202102/10-hongkoneses-huyen-al-reino-unido-por-represion-a-democracia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202102/3-equipo-de-oms-no-dara-resultados-rapidos
+    featured{array} /content/202102/11-birmanos-protestan-contra-golpe-de-estado-por-sexto-dia-consecutivo
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202102/3-jeff-bezos-ve-mas-alla-de-amazon
+    featured{array} /content/202102/11-sigue-juicio-contra-trump-por-toma-del-capitolio
 }
 other{kmkv} {
     name Other (Internal)
