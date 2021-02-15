@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202102/3-tuits-de-rihanna-y-greta-thunberg-por-protestas-de-agricultores-irritan-al-gobierno-indio
+        featured{array} /content/202102/15-menos-birmanos-en-las-calles-tras-represion-del-ejercito
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202102/10-hongkoneses-huyen-al-reino-unido-por-represion-a-democracia
+        featured{array} /content/202102/15-china-supero-a-estados-unidos-como-principal-socio-comercial-de-ue
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202102/11-birmanos-protestan-contra-golpe-de-estado-por-sexto-dia-consecutivo
+    featured{array} /content/202102/15-rapero-espanol-se-atrinchera-en-universidad-para-evitar-su-arresto
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202102/11-sigue-juicio-contra-trump-por-toma-del-capitolio
+    featured{array} /content/202102/15-senado-de-estados-unidos-absolvio-a-donald-trump-este-domingo
 }
 other{kmkv} {
     name Other (Internal)

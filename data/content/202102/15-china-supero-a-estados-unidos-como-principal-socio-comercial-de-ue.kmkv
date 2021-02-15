@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>China super&oacute; a Estados Unidos en 2020 y por primera vez como el principal socio comercial de la Uni&oacute;n Europea, indic&oacute; el lunes la agencia de europea de estad&iacute;sticas Eurostat.</li>
+<li>Mientras tanto el Reino Unido -que ya no es parte de la Uni&oacute;n Europea- fue el tercer socio comercial m&aacute;s importante, luego de China y Estados Unidos.</li>
+<li>Aunque sufri&oacute; el fuerte impacto de la pandemia de covid-19 en el primer trimestre del a&ntilde;o pasado, China se recuper&oacute; vigorosamente y el consumo incluso super&oacute; su nivel de hace un a&ntilde;o ya a fines de 2020.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Esto ayud&oacute; a impulsar las ventas de productos europeos, particularmente en los sectores de autom&oacute;viles y art&iacute;culos de lujo, mientras que las exportaciones de China a Europa se beneficiaron de la fuerte demanda de equipos m&eacute;dicos y electr&oacute;nicos.</li>
+<li>El destronamiento de EEUU se produjo en momentos en que la UE y China buscan ratificar un acuerdo de inversi&oacute;n negociado durante varios a&ntilde;os y que dar&iacute;a a las empresas europeas un mejor acceso al mercado chino.</li>
+<li>Eurostat se&ntilde;al&oacute; que el volumen comercial con China alcanz&oacute; los 586.000 millones de euros en 2020, en comparaci&oacute;n con los 555.000 millones de euros en la relaci&oacute;n con Estados Unidos.</li>
+<li>Eurostat se&ntilde;al&oacute; que las exportaciones de la UE aumentaron un 2,2%, a 202.500 millones de euros, mientras que al mismo tiempo, las importaciones de China aumentaron un 5,6 por ciento, a 383.000 millones de euros.</li>
+<li>Las exportaciones de la UE hacia Estados Unidos cayeron un 13,2% en el mismo per&iacute;odo, y las importaciones un 8,2%.</li>
+<li>Adem&aacute;s de la crisis del covid-19, el comercio entre la UE y Estados Unidos se vio afectado por una serie de disputas y medidas de represalias que han dado lugar a aranceles sobre el acero y productos como el champ&aacute;n franc&eacute;s o las motocicletas estadounidenses Harley Davidson.</li>
+</ul>
+}
+title China superó a EEUU como principal socio comercial de UE
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202102/headers/15-china-supero-a-estados-unidos-como-principal-socio-comercial-de-ue.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description China superó a Estados Unidos en 2020 y por primera vez como el principal socio comercial de la Unión Europea, indicó el lunes la agencia de europea de estadísticas Eurostat.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 China superó a EEUU como principal socio comercial de UE
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
