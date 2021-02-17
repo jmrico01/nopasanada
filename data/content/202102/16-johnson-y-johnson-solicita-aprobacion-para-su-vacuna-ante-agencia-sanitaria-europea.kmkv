@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La farmac&eacute;utica estadounidense Johnson&amp;Johnson (J&amp;J) solicit&oacute; la autorizaci&oacute;n para su vacuna contra el coronavirus en la UE, inform&oacute; este martes la agencia sanitaria europea (EMA), que podr&iacute;a tomar una decisi&oacute;n hacia mediados de marzo.</li>
+<li>"La EMA ha recibido una aplicaci&oacute;n para la autorizaci&oacute;n provisional de una vacuna contra el covid-19 desarrollada por Janssen-Cilag International N.V", la filial holandesa de Johnson&amp;Johnson, inform&oacute; el comunicado.</li>
+<li>El regulador "podr&iacute;a notificar una opini&oacute;n a mediados de marzo de 2021, si los datos de la empresa sobre la eficacia, la seguridad y la calidad de la vacuna son suficientemente amplios y robustos".</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La EMA se encuentra sometida a fuerte presi&oacute;n de los Estados europeos a causa de los grandes atrasos en la entrega de vacunas de las farmac&eacute;uticas que ya han sido autorizadas, AstraZeneca, Pfizer/BioNTech y Moderna.</li>
+<li>La Comisi&oacute;n Europea reaccion&oacute; con rapidez al anuncio de J&amp;J y su jefa, Ursula von der Leyen, asegur&oacute; que Bruselas "est&aacute; lista para garantizar la autorizaci&oacute;n en cuanto la EMA entregue una opini&oacute;n cient&iacute;fica positiva".</li>
+<li>La vacuna de J&amp;J ya estaba siendo supervisada por la EMA a medida de que se realizaban sus ensayos cl&iacute;nicos desde el 1 de diciembre.</li>
+</ul>
+}
+title Johnson&Johnson solicita aprobación para su vacuna ante agencia sanitaria europea
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202102/headers/16-johnson-y-johnson-solicita-aprobacion-para-su-vacuna-ante-agencia-sanitaria-europea.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La farmacéutica estadounidense Johnson&Johnson (J&J) solicitó la autorización para su vacuna contra el coronavirus en la UE, informó este martes la agencia sanitaria europea (EMA), que podría tomar una decisión hacia mediados de marzo.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Johnson&Johnson<b>
+    text1 Johnson&Johnson solicita aprobación para su vacuna ante agencia sanitaria europea
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
