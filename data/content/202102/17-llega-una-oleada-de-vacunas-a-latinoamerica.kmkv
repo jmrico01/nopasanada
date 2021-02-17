@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Panam&aacute; recibi&oacute; este mi&eacute;rcoles m&aacute;s de 67.860 dosis de la vacuna de Pfizer contra el covid-19, en el segundo env&iacute;o de la multinacional farmac&eacute;utica al pa&iacute;s centroamericano, que ha visto descender el n&uacute;mero de contagios en las &uacute;ltimas semanas.</li>
+<li>En Argentina, este mi&eacute;rcoles lleg&oacute; un cargamento de 580.000 vacunas del instituto indio Serum para fortalecer la campa&ntilde;a de inmunizaci&oacute;n, en un pa&iacute;s que est&aacute; a punto de iniciar la vacunaci&oacute;n de mayores de 70 a&ntilde;os.</li>
+<li>Paraguay recibir&aacute; el jueves el primer lote de vacunas contra el covid-19 procedente de Rusia, con un total de 4.000 dosis destinadas al personal m&eacute;dico y param&eacute;dico.</li>
+<li>Venezuela recibi&oacute; el s&aacute;bado pasado un primer lote de 100.000 vacunas Sputnik V, de 10 millones acordadas con Rusia.</li>
+<li>Bolivia firm&oacute; el pasado jueves, un acuerdo con China para la adquisici&oacute;n de 500.000 vacunas de la farmac&eacute;utica Sinopharm y espera que lleguen a fin de mes para comenzar la inmunizaci&oacute;n masiva de la poblaci&oacute;n.</li>
+<li>En Per&uacute;, el pasado s&aacute;bado, recibieron el segundo lote de 700.000 vacunas contra el covid-19 de la china Sinopharm, llegando as&iacute; a un mill&oacute;n de dosis que se aplicar&aacute;n en el personal de salud.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Panam&aacute; ya suma 80.700 dosis de la vacuna del laboratorio Pfizer/BioNtech y espera contar con al menos otras 5,5 millones de vacunas de tres multinacionales (Pfizer, AstraZeneca y Johnson &amp; Johnson) y del mecanismo Covax de la OMS.</li>
+<li>Argentina est&aacute; formulando un acuerdo para la compra de 30 millones de dosis de Sputnik V, unos 23 millones de la vacuna de Oxford/AstraZeneca (incluidas las Covishield) y nueve millones por el mecanismo Covax.</li>
+<li>Paraguay tiene en reserva cerca de cuatro millones de dosis reservadas a trav&eacute;s del Mecanismo Covax y est&aacute; a la espera de la confirmaci&oacute;n de las fechas de env&iacute;o de los primeros lotes de vacunas del laboratorio brit&aacute;nico AstraZeneca.</li>
+<li>Venezuela, adem&aacute;s de las 10 millones de dosis acordadas con Rusia, tiene reservadas entre 1,4 y 2,4 millones de vacunas de AstraZeneca por medio del sistema Covax.</li>
+<li>En Bolivia, este nuevo lote de vacunas se suma a un paquete de 15,2 millones de dosis de vacunas Sputnik V, AstraZeneca y del mecanismo Covax, que proveer&aacute; la de Pfizer/BioNTech.</li>
+<li>Por &uacute;ltimo, Per&uacute; ya cuenta con contratos suscritos que le permiten asegurar 48.240.000 vacunas durante este 2021, como resultado de acuerdos con los laboratorios Sinopharm, Pfizer, AstraZeneca y el mecanismo Covax.</li>
+</ul>
+}
+title Llega una oleada de vacunas a Latinoamérica
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202102/headers/17-llega-una-oleada-de-vacunas-a-latinoamerica.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Panamá recibió este miércoles más de 67.860 dosis de la vacuna de Pfizer contra el covid-19, en el segundo envío de la multinacional farmacéutica al país centroamericano, que ha visto descender el número de contagios en las últimas semanas.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Vacunas<b>
+    text1 Llega una oleada de vacunas a Latinoamérica
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

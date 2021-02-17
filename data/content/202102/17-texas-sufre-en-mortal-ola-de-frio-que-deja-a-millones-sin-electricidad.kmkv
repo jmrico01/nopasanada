@@ -1,0 +1,57 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Una tormenta sin precedentes tiene a Texas bajo nieve, con temperaturas polares y millones sin electricidad.</li>
+<li>Seg&uacute;n reportes de prensa, esta ola de fr&iacute;o --que azota buena parte de Estados Unidos&mdash;ha dejado m&aacute;s de 20 personas muertas el jueves pasado, la mayor&iacute;a en Texas, pero tambi&eacute;n en Luisiana y Tennessee.</li>
+<li>"Nunca pens&eacute; que alg&uacute;n d&iacute;a podr&iacute;a hacer snowboard frente a mi propia casa ... &iexcl;EN SAN ANTONIO, TEXAS!", tuite&oacute; un internauta, Armen Chakmakian, junto a un video en el que se lo ve&iacute;a desliz&aacute;ndose por una calle blanca.</li>
+<li>En San Antonio, donde como en el resto del estado las temperaturas promedio en febrero rondan los 20&deg;C, el martes se registraron -8&deg;C, por debajo de los -7&deg;C que marc&oacute; el term&oacute;metro en Anchorage, Alaska. En Austin, la capital estatal, lleg&oacute; a haber -12&deg;C.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>A lo largo del fin de semana, las empresas el&eacute;ctricas han estado realizando apagones parciales para evitar sobrecargar el sistema.</li>
+<li>Seg&uacute;n reportes, el encargado de red el&eacute;ctrica estatal, est&aacute; considerando cortar el suministro de energ&iacute;a a los circuitos de infraestructura cr&iacute;tica, como lo son el 911, el servicio de bomberos y los hospitales; esto como &uacute;ltimo recurso para evitar la ca&iacute;da de la red.</li>
+<li>M&aacute;s de 3,2 millones de residentes y comercios no ten&iacute;an electricidad el martes por la tarde en este estado acostumbrado a los picos de calor</li>
+<li>Algunos incluso se despertaron sin agua corriente.</li>
+<li>"Nuestro vecino acaba de conseguirnos un tanque de propano para intentar descongelar nuestras tuber&iacute;as porque est&aacute;n congeladas. No estamos acostumbrados a esto en Texas", cont&oacute; a AFP Burke Nixon, residente en Houston.</li>
+<li>La cadena NBC inform&oacute; que una mujer y una ni&ntilde;a fueron halladas sin vida el martes por intoxicaci&oacute;n por mon&oacute;xido de carbono tras usar un veh&iacute;culo para generar calor en una casa de Houston afectada por los cortes de energ&iacute;a.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>El presidente Joe Biden, que ya activ&oacute; el domingo asistencia federal para Texas, habl&oacute; con el gobernador de ese estado el martes y con los de otros estados afectados: Luisiana, Kentucky, Kansas, Tennessee, Misisip&iacute; y Oklahoma.</p>
+<p>El presidente les dijo que "desplegar&aacute; cualquier recurso federal de emergencia adicional disponible para ayudar a los residentes de sus estados a superar esta tormenta hist&oacute;rica", inform&oacute; la Casa Blanca.</p>
+<p>El Servicio Meteorol&oacute;gico Nacional (NWS) anunci&oacute; que el martes por la noche se desarrollar&aacute; un &aacute;rea de baja presi&oacute;n sobre el sur de Texas que producir&aacute; "nieve y hielo intensos" desde las Grandes Llanuras del sur, a trav&eacute;s del valle de Misisip&iacute; el mi&eacute;rcoles y hasta el noreste del pa&iacute;s el jueves.</p>
+<p>El aire g&eacute;lido del &Aacute;rtico persistir&aacute; sobre la zona central del pa&iacute;s en los pr&oacute;ximos d&iacute;as, se&ntilde;al&oacute; el NWS, tras advertir que la sensaci&oacute;n t&eacute;rmica polar se extender&aacute; hasta M&eacute;xico.</p>
+}
+title Texas sufre en mortal ola de frío que deja a millones sin electricidad
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202102/headers/17-texas-sufre-en-mortal-ola-de-frio-que-deja-a-millones-sin-electricidad.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Una tormenta sin precedentes tiene a Texas bajo nieve, con temperaturas polares y millones sin electricidad
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Texas Blackout<b>
+    text1 Texas sufre en mortal ola de frío que deja a millones sin electricidad
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Hombres armados invadieron el martes por la noche un internado en el estado de N&iacute;ger, en el norte de Nigeria, y secuestraron a "centenares" de alumnos y a varios profesores, inform&oacute; a la AFP un responsable local y una fuente de seguridad.</li>
+<li>"Los bandidos entraron anoche en el colegio gubernamental de Kagara y secuestraron a cientos de estudiantes y a sus profesores", dijo un responsable local, que pidi&oacute; el anonimato.</li>
+<li>Los hombres armados, "muy numerosos", vestidos con uniformes militares, se llevaron a los estudiantes al bosque, seg&uacute;n esta fuente.</li>
+<li>"Uno de los empleados y algunos de los estudiantes lograron escapar. El personal confirm&oacute; que un estudiante hab&iacute;a muerto de un disparo" durante el ataque, a&ntilde;adi&oacute; el funcionario.</li>
+<li>Por su parte el presidente nigeriano, Muhammadu Buhari, conden&oacute; el mi&eacute;rcoles el secuestro y orden&oacute; una operaci&oacute;n de rescate.</li>
+<li>"El presidente ha ordenado a las fuerzas armadas y a la polic&iacute;a que devuelvan inmediatamente a todos los cautivos ilesos", dijo su portavoz Garba Shehu en un comunicado.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El centro de ense&ntilde;anza secundaria tiene aproximadamente mil alumnos, pero por el momento se desconoce el n&uacute;mero exacto de adolescentes secuestrados.</li>
+<li>"Se est&aacute; realizando un recuento para establecer el n&uacute;mero exacto de estudiantes secuestrados. Esperamos que todos los que han huido de la escuela vuelvan para el recuento", dijo una fuente de seguridad.</li>
+<li>Tropas militares con apoyo a&eacute;reo estaban buscando a los secuestradores y a los rehenes para una posible operaci&oacute;n de rescate, dijo la fuente.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Desde hace casi una d&eacute;cada, el noroeste y el centro de Nigeria est&aacute;n asolados por la violencia de los grupos criminales conocidos localmente como "bandidos", que multiplican los secuestros para pedir rescate y el robo de ganado.</p>
+<p>Estas bandas criminales est&aacute;n impulsadas por la codicia, pero algunas tienen fuertes v&iacute;nculos con grupos yihadistas presentes en el noreste.&nbsp;</p>
+<p>Adem&aacute;s, este secuestro masivo se produce dos meses despu&eacute;s de que grupos criminales secuestraran a 344 adolescentes de un internado en el vecino estado de Katsina. Tras negociar con las autoridades, los estudiantes fueron liberados una semana despu&eacute;s.&nbsp;</p>
+}
+title Grupo armado secuestra a "centenares" de estudiantes en Nigeria
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202102/headers/17-grupo-armado-secuestra-a-centenares-de-estudiante-en-nigeria.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Hombres armados invadieron el martes por la noche un internado en el estado de Níger, en el norte de Nigeria, y secuestraron a "centenares" de alumnos y a varios profesores, informó a la AFP un responsable local y una fuente de seguridad.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Nigeria<b>
+    text1 Grupo armado secuestra a "centenares" de estudiantes en Nigeria
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
