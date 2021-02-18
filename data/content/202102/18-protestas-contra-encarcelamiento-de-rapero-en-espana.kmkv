@@ -1,0 +1,56 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La polic&iacute;a espa&ntilde;ola detuvo a m&aacute;s de 50 personas el mi&eacute;rcoles, en la segunda noche de altercados a ra&iacute;z del encarcelamiento del rapero Pablo Has&eacute;l por unos tuits insultantes hacia la monarqu&iacute;a y las fuerzas de seguridad.</li>
+<li>Las primeras manifestaciones se hab&iacute;an producido la noche del martes en Catalu&ntilde;a, horas despu&eacute;s de que la polic&iacute;a se llevara detenido al rapero, de 32 a&ntilde;os, para que empezara a cumplir una pena de nueve meses de prisi&oacute;n.&nbsp;</li>
+<li>&Eacute;ste se hab&iacute;a negado a ingresar voluntariamente, y se hab&iacute;a atrincherado en la universidad de su ciudad, L&eacute;rida (Catalu&ntilde;a).</li>
+<li>Las protestas se extendieron el mi&eacute;rcoles a Madrid, donde cientos de manifestantes se enfrentaron a la polic&iacute;a en la c&eacute;ntrica Puerta del Sol, a gritos de "&iexcl;Pablo Has&eacute;l, libertad!".</li>
+<li>Porra en mano, los agentes cargaron varias veces contra los manifestantes, que replicaron con lanzamientos de botellas y destrozaron luego los escaparates de algunas tiendas cercanas.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En la capital hubo 19 detenidos, indic&oacute; este jueves la delegaci&oacute;n del gobierno en Madrid. Los servicios de emergencias informaron de 55 heridos, entre ellos 35 polic&iacute;as.</li>
+<li>Tambi&eacute;n hubo incidentes violentos en la ciudad andaluza de Granada, donde los manifestantes quemaron contenedores de basura. Las autoridades reportaron cuatro detenidos.</li>
+<li>En Barcelona, los manifestantes lanzaron objetos a la polic&iacute;a y levantaron barricadas que luego incendiaron. Los agentes los disolvieron con pelotas de foam.</li>
+<li>En toda Catalu&ntilde;a, la polic&iacute;a regional, Mossos d'Esquadra, dijo haber detenido el mi&eacute;rcoles a 33 personas. Fuentes m&eacute;dicas hablaron de ocho heridos leves.</li>
+<li>El martes por la noche, 15 personas hab&iacute;an sido ya detenidas en Catalu&ntilde;a, por unas protestas en las que resultaron heridas 30 personas, incluidos 19 polic&iacute;as.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Has&eacute;l, que ten&iacute;a antecedentes penales, ingres&oacute; en prisi&oacute;n por un delito de enaltecimiento del terrorismo en unos tuits publicados entre 2014 y 2016, y que le valieron una condena en 2018.</p>
+<p>En ellos calificaba al rey Juan Carlos I de "mafioso" y "ladr&oacute;n", acusaba a la polic&iacute;a de matar y torturar a migrantes y manifestantes y mencionaba como referentes a personas implicadas en delitos de terrorismo.</p>
+<p>Su caso gener&oacute; un nuevo debate sobre la libertad de expresi&oacute;n en Espa&ntilde;a. Amnist&iacute;a Internacional tach&oacute; la pena recibida de "desproporcionada", y antes de su ingreso en prisi&oacute;n, unas 200 personalidades, entre ellas el director de cine Pedro Almod&oacute;var y el actor Javier Bardem firmaron un manifiesto de apoyo al rapero.</p>
+}
+title Protestas contra encarcelamiento de rapero en España
+day 18
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202102/headers/18-protestas-contra-encarcelamiento-de-rapero-en-espana.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La policía española detuvo a más de 50 personas el miércoles, en la segunda noche de altercados a raíz del encarcelamiento del rapero Pablo Hasél por unos tuits insultantes hacia la monarquía y las fuerzas de seguridad.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>España<b>
+    text1 Protestas contra encarcelamiento de rapero en España
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
