@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La polic&iacute;a en Espa&ntilde;a detuvo a 16 personas la noche del jueves, en Barcelona y Valencia, durante los altercados estallados por tercer d&iacute;a consecutivo a ra&iacute;z del encarcelamiento de un del rapero Pablo Has&eacute;l, informaron las autoridades locales.</li>
+<li>En Barcelona (noreste), que acumula tres noches de protestas, la polic&iacute;a inform&oacute; de ocho nuevas detenciones por "actos vand&aacute;licos y altercados", que se suman a las 51 personas arrestadas desde el martes en la regi&oacute;n de Catalu&ntilde;a.</li>
+<li>Los manifestantes lanzaron contundentes objetos contra la polic&iacute;a, levantaron barricadas con contenedores y mobiliario urbano en llamas y atacaron la redacci&oacute;n de un diario local.</li>
+<li>Seg&uacute;n los servicios de emergencias regionales, seis personas fueron atendidas por lesiones.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>En Valencia (este), la protesta para reclamar la libertad del rapero Pablo Has&eacute;l tambi&eacute;n desemboc&oacute; en choques entre los manifestantes y la polic&iacute;a, que carg&oacute; contra la muchedumbre y dispar&oacute; proyectiles de foam.</p>
+<p>Seg&uacute;n la Polic&iacute;a Nacional, se practicaron ocho arrestos y diez agentes resultaron lesionados. Los servicios de emergencias no informaron del n&uacute;mero de manifestantes heridos.</p>
+<p>Los altercados estallaron el martes de noche en Catalu&ntilde;a, horas despu&eacute;s del ingreso en prisi&oacute;n de Pablo Has&eacute;l, condenado a nueve meses por unos tuits en los que insultaba a la monarqu&iacute;a y la polic&iacute;a y ensalzaba a personas implicadas en delitos de terrorismo.</p>
+<p>La movilizaci&oacute;n se ha extendido a otras ciudades del pa&iacute;s como Granada o Madrid, donde se prepara una nueva manifestaci&oacute;n para el s&aacute;bado.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Este viernes hay convocada una huelga y una manifestaci&oacute;n estudiantil en la regi&oacute;n de Catalu&ntilde;a, lugar de origen de Has&eacute;l y donde las protestas fueron de m&aacute;s intensidad.</li>
+<li>El balance de detenidos desde el martes se acerca al centenar de personas. Tambi&eacute;n se registraron numerosos heridos, entre ellos una joven que perdi&oacute; la visi&oacute;n de un ojo en Barcelona, presumiblemente por un proyectil de foam disparado por la polic&iacute;a.</li>
+<li>El caso expuso desavenencias en el gobierno espa&ntilde;ol, entre el partido socialista de Pedro S&aacute;nchez y su socio minoritario Podemos, que fustig&oacute; el encarcelamiento y aplaudi&oacute; las protestas.</li>
+</ul>
+}
+title Siguen protestas en España por encarcelamiento de rapero
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202102/headers/19-siguen-protestas-en-espana-por-encarcelamiento-de-un-rapero.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La policía en España detuvo a 16 personas la noche del jueves, en Barcelona y Valencia, durante los altercados estallados por tercer día consecutivo a raíz del encarcelamiento de un controvertido rapero, informaron las autoridades locales.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>España<b>
+    text1 Siguen protestas en España por encarcelamiento de rapero
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
