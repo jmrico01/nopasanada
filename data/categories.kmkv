@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202102/17-trump-insta-a-republicanos-a-echar-a-mcconnell-como-su-lider-en-el-senado
+        featured{array} /content/202102/22-militares-amenazan-de-muerte-a-protestantes-en-birmania
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202102/17-llega-una-oleada-de-vacunas-a-latinoamerica
+        featured{array} /content/202102/22-militares-amenazan-de-muerte-a-protestantes-en-birmania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202102/17-texas-sufre-en-mortal-ola-de-frio-que-deja-a-millones-sin-electricidad
+    featured{array} /content/202102/22-motor-de-avion-se-enciende-en-llamas-sobre-denver
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202102/17-llega-una-oleada-de-vacunas-a-latinoamerica
+    featured{array} /content/202102/22-familia-de-malcom-x-pide-reabrir-investigacion-sobre-su-asesinato
 }
 other{kmkv} {
     name Other (Internal)
