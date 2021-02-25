@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202102/22-militares-amenazan-de-muerte-a-protestantes-en-birmania
+        featured{array} /content/202102/25-violencia-se-dispara-en-birmania-en-protestas-contra-golpe-de-estado
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202102/22-militares-amenazan-de-muerte-a-protestantes-en-birmania
+        featured{array} /content/202102/25-australia-aprueba-ley-que-obliga-a-google-y-facebook-a-pagar-a-la-prensa-por-sus-contenidos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202102/22-motor-de-avion-se-enciende-en-llamas-sobre-denver
+    featured{array} /content/202102/25-primer-ministro-de-armenia-sale-a-la-calle-para-denunciar-intento-de-golpe-de-estado
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202102/22-familia-de-malcom-x-pide-reabrir-investigacion-sobre-su-asesinato
+    featured{array} /content/202102/25-china-niega-haber-hecho-tests-anales-de-covid-19-a-diplomaticos-de-eeuu
 }
 other{kmkv} {
     name Other (Internal)
