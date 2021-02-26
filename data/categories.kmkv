@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202102/25-violencia-se-dispara-en-birmania-en-protestas-contra-golpe-de-estado
+        featured{array} /content/202102/26-gran-bretana-niega-regreso-de-novia-del-ei
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202102/25-australia-aprueba-ley-que-obliga-a-google-y-facebook-a-pagar-a-la-prensa-por-sus-contenidos
+        featured{array} /content/202102/26-secuestran-a-cientos-de-chicas-de-escuela-en-nigeria
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202102/25-primer-ministro-de-armenia-sale-a-la-calle-para-denunciar-intento-de-golpe-de-estado
+    featured{array} /content/202102/26-idea-de-pasaporte-de-vacunacion-gana-terreno
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202011/2-cancion-infantil-baby-shark-se-convierte-en-video-mas-visto-en-youtube
+        featured{array} /content/202102/26-costa-rica-busca-traer-producciones-de-cine-y-television-con-incentivos
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202102/25-china-niega-haber-hecho-tests-anales-de-covid-19-a-diplomaticos-de-eeuu
+    featured{array} /content/202102/26-costa-rica-busca-traer-producciones-de-cine-y-television-con-incentivos
 }
 other{kmkv} {
     name Other (Internal)
