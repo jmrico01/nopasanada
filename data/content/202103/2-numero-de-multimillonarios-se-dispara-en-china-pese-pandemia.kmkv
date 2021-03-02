@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>China nunca hab&iacute;a contado con tantos multimillonarios, a pesar de la pandemia que sacude la econom&iacute;a mundial, y el pa&iacute;s supera ahora a sus rivales m&aacute;s cercanos, incluido Estados Unidos, seg&uacute;n una clasificaci&oacute;n publicada el martes.</li>
+<li>China fue el primer pa&iacute;s afectado a finales de 2019 por el nuevo coronavirus que paraliz&oacute; su econom&iacute;a pero tambi&eacute;n el primero que se ha recuperado y ha vuelto a crecer.&nbsp;</li>
+<li>Y a pesar de las medidas de confinamiento sin precedentes que desplomaron la actividad a principios de 2020, el a&ntilde;o pasado China vio aumentar el n&uacute;mero de sus multimillonarios en d&oacute;lares, seg&uacute;n la clasificaci&oacute;n anual del gabinete Hurun.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El gigante asi&aacute;tico cuenta con 253 m&aacute;s y domina ampliamente la clasificaci&oacute;n mundial, ya que cuenta con un total de 992 superricos (incluyendo Hong Kong).</li>
+<li>En n&uacute;mero, Estados Unidos es el segundo pa&iacute;s con m&aacute;s multimillonarios (696) pero las tres mayores fortunas siguen siendo estadounidenses y francesa: 197.000 millones de d&oacute;lares para Elon Musk, el jefe de Tesla, por delante de Jeff Bezos (Amazon) y del franc&eacute;s Bernard Arnault (LVMH).</li>
+<li>India es el tercer pa&iacute;s del mundo con mayor n&uacute;mero de multimillonarios (177).</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>El hombre m&aacute;s rico de China es el jefe del gigante del agua embotellada Zhong Shanshan, que un a&ntilde;o antes no figuraba entre las 100 personas m&aacute;s ricas.</p>
+<p>Su fortuna est&aacute; valorada en 85.000 millones de d&oacute;lares (70.710 millones de euros), despu&eacute;s de que su empresa Nongfu Spring saliera a bolsa el a&ntilde;o pasado.</p>
+<p>Por primera vez en la historia de la clasificaci&oacute;n Hurun, las mayores fortunas de China ya no est&aacute;n ligadas al sector inmobiliario, un sector en el que se ha basado el crecimiento del pa&iacute;s durante mucho tiempo.&nbsp;</p>
+<p>Los jefes de Tencent (internet y videojuegos) y ByteDance (propietaria de la aplicaci&oacute;n de v&iacute;deos cortos TikTok) ocupan el segundo y tercer lugar respectivamente. Jack Ma, que durante mucho tiempo ocup&oacute; el primer escal&oacute;n del podio, cae al cuarto puesto, con una fortuna estimada en 55.000 millones de d&oacute;lares (45.750 millones de euros).&nbsp;</p>
+}
+title Número de multimillonarios se dispara en China pese pandemia
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202103/headers/2-numero-de-multimillonarios-se-dispara-en-china-pese-pandemia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description China nunca había contado con tantos multimillonarios, a pesar de la pandemia que sacude la economía mundial, y el país supera ahora a sus rivales más cercanos, incluido Estados Unidos, según una clasificación publicada el martes.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 Número de multimillonarios se dispara en China pese pandemia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
