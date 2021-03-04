@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202102/26-secuestran-a-cientos-de-chicas-de-escuela-en-nigeria
+        featured{array} /content/202103/4-disminuye-el-desempleo-en-costa-rica-tras-aumento-por-pandemia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202102/26-idea-de-pasaporte-de-vacunacion-gana-terreno
+    featured{array} /content/202103/4-pandemia-eleva-la-pobreza-en-america-latina
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202102/26-costa-rica-busca-traer-producciones-de-cine-y-television-con-incentivos
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202102/26-costa-rica-busca-traer-producciones-de-cine-y-television-con-incentivos
+    featured{array} /content/202103/4-estudiantes-mueren-al-caer-de-cuarto-piso-en-universidad-boliviana
 }
 other{kmkv} {
     name Other (Internal)
