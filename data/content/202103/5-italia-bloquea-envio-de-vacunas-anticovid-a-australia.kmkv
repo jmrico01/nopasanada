@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Italia anunci&oacute; el jueves el bloqueo de la exportaci&oacute;n a Australia de vacunas desarrolladas por el laboratorio AstraZeneca contra el covid-19, en base a una normativa de la UE.</li>
+<li>Roma anunci&oacute; su decisi&oacute;n el 26 de febrero a la Comisi&oacute;n Europea, que no emiti&oacute; ninguna objeci&oacute;n. El ministerio de Relaciones Exteriores precis&oacute; en un comunicado que este rechazo a la exportaci&oacute;n afecta a 250.700 dosis del laboratorio sueco-brit&aacute;nico.&nbsp;</li>
+<li>El env&iacute;o fue frenado ante "la escasez sostenida de vacunas en la UE y en Italia y el retraso en el suministro de AstraZeneca en la UE e Italia", explic&oacute; el comunicado oficial.</li>
+<li>Australia, adem&aacute;s, no es considerado un pa&iacute;s "vulnerable" ante la pandemia, y adem&aacute;s pidi&oacute; un "alto volumen de dosis".</li>
+<li>Italia precis&oacute; que Australia solicit&oacute; el permiso de exportaci&oacute;n el 24 de febrero, y Roma lo reenvi&oacute; a la Comisi&oacute;n Europea dos d&iacute;as despu&eacute;s, solicitando al mismo tiempo su rechazo.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El primer ministro de Australia, Scott Morrison, manifest&oacute; este viernes su comprensi&oacute;n y minimiz&oacute; la decisi&oacute;n.</li>
+<li>"En Italia, mueren un promedio de 300 personas al d&iacute;a. As&iacute; que entiendo el alto nivel de preocupaci&oacute;n que existe en ese pa&iacute;s y en Europa", dijo.</li>
+<li>"Est&aacute;n en una situaci&oacute;n de crisis. No es el caso de Australia", agreg&oacute;.</li>
+<li>El 28 de enero, en medio de una fuerte presi&oacute;n por las dificultades de AstraZeneca para distribuir la cantidad negociada de dosis de la vacuna anticovid, la UE anunci&oacute; un sistema de monitoreo de la exportaci&oacute;n del producto.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>El sistema, denominado "Mecanismo de Transparencia y Concesi&oacute;n de Licencias para las Exportaciones", tiene formalmente como objetivo recopilar informaci&oacute;n sobre la producci&oacute;n de la vacuna contra el covid-19 que se enviar&aacute; fuera de la UE.</p>
+<p>Italia es el primer pa&iacute;s de la UE en utilizar esta prerrogativa.</p>
+<p>En Italia, 1,52 millones de personas ya fueron vacunadas, en su mayor&iacute;a personal sanitario y personas de edad avanzada. Con una poblaci&oacute;n de unos 60 millones, el pa&iacute;s ya aplic&oacute; 4,8 millones de dosis en total.</p>
+}
+title Italia bloquea envío de vacunas anticovid a Australia
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202103/headers/5-italia-bloquea-envio-de-vacunas-anticovid-a-australia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Italia anunció el jueves el bloqueo de la exportación a Australia de vacunas desarrolladas por el laboratorio AstraZeneca contra el covid-19, en base a una normativa de la UE.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Italia<b>
+    text1 Italia bloquea envío de vacunas anticovid a Australia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
