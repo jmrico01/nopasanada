@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202103/9-crimen-organizado-irrumpe-a-sangre-y-fuego-campana-electoral-mexicana
+        featured{array} /content/202103/10-redadas-contra-trabajadores-ferroviarios-en-birmania
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202103/9-juez-anula-condenas-contra-lula-da-silva-permitiendole-postularse-a-elecciones-2022
+        featured{array} /content/202103/10-reconocimiento-facial-avanza-en-cotidianidad-rusa
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202103/9-crimen-organizado-irrumpe-a-sangre-y-fuego-campana-electoral-mexicana
+    featured{array} /content/202103/10-un-ano-despues-del-crack-de-2020-viene-la-verdadera-crisis-financiera
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202102/26-costa-rica-busca-traer-producciones-de-cine-y-television-con-incentivos
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202103/9-cuatro-claves-sobre-pasaportes-de-vacunacion
+    featured{array} /content/202103/10-mexico-a-punto-de-legalizar-marihuana
 }
 other{kmkv} {
     name Other (Internal)

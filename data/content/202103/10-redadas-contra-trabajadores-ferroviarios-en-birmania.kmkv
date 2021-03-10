@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Las fuerzas de seguridad birmanas lanzaron una redada este mi&eacute;rcoles en Rang&uacute;n contra los trabajadores ferroviarios huelguistas que participan en el movimiento de desobediencia civil contra la junta militar, lo que hace temer m&aacute;s detenciones.</li>
+<li>Cientos de polic&iacute;as y veh&iacute;culos militares se desplegaron alrededor del recinto donde reside el personal ferroviario de la estaci&oacute;n Ma Hlwa Gone, en el este de la capital econ&oacute;mica, seg&uacute;n im&aacute;genes difundidas en las redes sociales. "Estamos unidos", corearon los trabajadores.</li>
+<li>"Bloquean las puertas (de los apartamentos) y las destrozan para entrar", cont&oacute; un familiar de un trabajador ferroviario que pidi&oacute; mantener el anonimato por miedo a represalias.</li>
+<li>"Logr&eacute; escapar pero estoy preocupada por los trabajadores" y sus familias, a&ntilde;adi&oacute;.</li>
+<li>Seg&uacute;n ella, unos 800 trabajadores ferroviarios participan en el movimiento de desobediencia civil en esta estaci&oacute;n.</li>
+<li>M&eacute;dicos, profesores, empleados de compa&ntilde;&iacute;as el&eacute;ctricas y ferroviarias y muchos funcionarios dejaron de trabajar desde el golpe de Estado del 1 de febrero que derroc&oacute; el gobierno civil de Aung San Suu Kyi.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los efectos se sienten en la fr&aacute;gil econom&iacute;a birmana, sobre todo en la administraci&oacute;n, los colegios, los hospitales y los bancos.</li>
+<li>Los principales sindicatos han llamado a intensificar la huelga general a partir de esta semana para intentar paralizar el pa&iacute;s y aumentar la presi&oacute;n sobre los militares.</li>
+<li>La junta orden&oacute; a los funcionarios que regresen a trabajar a partir del 8 de marzo, si no quieren ser despedidos y exponerse a represalias.</li>
+<li>Desde el golpe de Estado hay protestas diarias en todo el pa&iacute;s.La junta intenta sofocar el movimiento pac&iacute;fico y lo hace mediante redadas, detenciones masivas y disparos contra los manifestantes.</li>
+<li>Al menos 60 civiles han muerto y casi 2.000 personas han sido detenidas desde el 1 de febrero, seg&uacute;n la Asociaci&oacute;n para la Asistencia a los Presos Pol&iacute;ticos.</li>
+<li>El ej&eacute;rcito alega fraudes electorales en las elecciones legislativas de noviembre que gan&oacute; por abrumadora mayor&iacute;a el partido de Aung San Suu Kyi. Niega estar implicado en la muerte de manifestantes.</li>
+</ul>
+}
+title Redadas contra trabajadores ferroviarios en Birmania
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202103/headers/10-redadas-contra-trabajadores-ferroviarios-en-birmania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Las fuerzas de seguridad birmanas lanzaron una redada este miércoles en Rangún contra los trabajadores ferroviarios huelguistas que participan en el movimiento de desobediencia civil contra la junta militar, lo que hace temer más detenciones.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Birmania<b>
+    text1 Redadas contra trabajadores ferroviarios en Birmania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
