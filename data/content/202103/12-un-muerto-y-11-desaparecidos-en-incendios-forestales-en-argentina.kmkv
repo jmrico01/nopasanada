@@ -1,0 +1,56 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Un muerto, 11 desaparecidos, decenas de evacuados y m&aacute;s de 200 casas destruidas es el saldo todav&iacute;a provisional el jueves de incendios forestales que azotaron esta semana la regi&oacute;n de bosques y lagos de la Patagonia argentina, informaron autoridades.</li>
+<li>Los bomberos finalizaban este viernes su combate al fuego en la Comarca Andina, un tur&iacute;stico vergel convertido en paisaje desolador, a unos 1.800 Km al sudoeste de Buenos Aires.</li>
+<li>Los incendios, presuntamente intencionales seg&uacute;n las autoridades, estallaron a inicios de la semana alcanzando las localidades de Lago Puelo, El Bols&oacute;n, El Mait&eacute;n, Epuy&eacute;n, Futaleuf&uacute;, El Hoyo y Las Golondrinas, cerca de la precordillera de Los Andes. "Hay 1.500 hect&aacute;reas de bosque nativo consumido", seg&uacute;n reportes de Defensa Civil.</li>
+<li>El cad&aacute;ver calcinado de un trabajador rural, desaparecido desde el martes, fue hallado en la localidad de El Mait&eacute;n, reportaron autoridades locales.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>"El fuego alcanz&oacute; a m&aacute;s de doscientas viviendas y sigue habiendo once personas de las cuales no conocemos el paradero", dijo a periodistas el ministro de Ambiente, Juan Cabandi&eacute;, actualizando la cifra de desaparecidos, que era de 15 el mi&eacute;rcoles.</li>
+<li>Las copiosas lluvias de las &uacute;ltimas horas aliviaron la situaci&oacute;n pero "hay focos &iacute;gneos contenidos sin estar del todo apagados", precis&oacute; Cabandi&eacute; durante una recorrida por la zona. Decenas de evacuados est&aacute;n alojados en centros comunales.&nbsp;</li>
+<li>En las provincias de Chubut, R&iacute;o Negro y Neuqu&eacute;n, afectadas por los incendios, operan decenas de brigadistas con apoyo de 12 autobombas, tres aviones hidrantes y dos helic&oacute;pteros para contener las llamas.</li>
+<li>"Hay pobladores que se quedaron sin casa, ni nada. Hay mucha gente con necesidad. Yo tenia un taller de chapa y pintura. Ten&iacute;a mi casa y no qued&oacute; nada", relat&oacute; Marcelo C&aacute;rdenas, due&ntilde;o de un local de reparaciones de veh&iacute;culos en un sector arrasado por las llamas.</li>
+<li>"Perd&iacute; mi casa, mis perros y 60 gallinas", dijo Rosalinda Muena, de 70 a&ntilde;os, que vende mermeladas y huevos a turistas.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Seg&uacute;n el ministro, "la intencionalidad de los incendios se manifiesta a partir de la simultaneidad en el inicio en siete localidades, las que en un lapso de tres horas tuvieron fuego. Fue muy planificado".</p>
+<p>Peritos judiciales comienzan a trabajar para determinar responsabilidades.</p>
+<p>Los incendios devoraron el a&ntilde;o pasado decenas de miles de hect&aacute;reas en Argentina. Fueron causados por la mano del hombre, en su mayor&iacute;a con fines especulativos para siembra o negocios inmobiliarios, seg&uacute;n el ministerio ambiental.</p>
+<p>Las llamaradas de esta semana dejaron "da&ntilde;os tremendos", dijo el ministro. "No hay agua en Lago Puelo, en Epuy&eacute;n, en El Mait&eacute;n ni en Las Golondrinas. No hay electricidad".</p>
+}
+title Un muerto y 11 desaparecidos en incendios forestales en Argentina
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202103/headers/12-un-muerto-y-11-desaparecidos-en-incendios-forestales-en-argentina.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un muerto, 11 desaparecidos, decenas de evacuados y más de 200 casas destruidas es el saldo todavía provisional el jueves de incendios forestales que azotaron esta semana la región de bosques y lagos de la Patagonia argentina, informaron autoridades.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Argentina<b>
+    text1 Un muerto y 11 desaparecidos en incendios forestales en Argentina
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

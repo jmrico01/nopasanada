@@ -1,0 +1,59 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Gran parte de Italia deber&iacute;a permanecer confinada a partir del lunes hasta el 6 de abril, tras la decisi&oacute;n del gobierno este viernes en base al &iacute;ndice de contagios, que amenaza con saturar los hospitales.&nbsp;</li>
+<li>El gobierno de Mario Draghi decidi&oacute; al t&eacute;rmino del Consejo de Ministros, que del 15 de marzo al 6 de abril, las regiones "donde el n&uacute;mero semanal de contagios supere los 250 por 100.000 habitantes, pasar&aacute;n a ser consideradas rojas".</li>
+<li>Una indicaci&oacute;n t&eacute;cnica que obliga a las autoridades regionales a anunciar la medida en base al &iacute;ndice de contagio.</li>
+<li>A partir del lunes, deber&iacute;an as&iacute; cerrar las escuelas, bares y restaurantes en gran parte de las 20 regiones del pa&iacute;s.</li>
+<li>Seg&uacute;n la clasificaci&oacute;n por colores, la zona roja, la m&aacute;s contagiosa, implica cerrar tambi&eacute;n liceos y universidades, as&iacute; como bares, cafeter&iacute;as y restaurantes (excepto para llevar).&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Adem&aacute;s, los viajes est&aacute;n autorizados s&oacute;lo en caso de necesidad laboral, compra de art&iacute;culos de primera necesidad y por urgencias m&eacute;dicas.</p>
+<p>Las grandes regiones del norte --Lombard&iacute;a, Piamonte, V&eacute;neto, Emilia-Roma&ntilde;a--, as&iacute; como Lazio (la regi&oacute;n de Roma) y Calabria, al sur, corren el riego de ser declaradas zona roja y se unir&iacute;an a otras regiones meridionales --Campania, Basilicata y Molise-- que ya lo son. &nbsp;</p>
+<p>Toscana, Liguria, Umbr&iacute;a y Abruzos se mantendr&iacute;an como zonas intermedias, color naranja.&nbsp;</p>
+<p>S&oacute;lo Sicilia permanecer&iacute;a en amarillo, mientras que la isla de Cerde&ntilde;a es la &uacute;nica zona blanca de la pen&iacute;nsula, es decir sin contagios.</p>
+<p>Del 3 al 5 de abril, al final de la Semana Santa, toda Italia se considerar&aacute; en cambio zona roja y s&oacute;lo ser&aacute; posible desplazarse dentro de la propia regi&oacute;n a otra residencia privada, una vez al d&iacute;a y un m&aacute;ximo de dos personas.&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Italia, que super&oacute; esta semana el umbral de las 100.000 muertes por covid-19, ha registrado un fuerte aumento de los contagios y de las muertes, en gran parte debido a la variante brit&aacute;nica, seg&uacute;n los expertos.&nbsp;</li>
+<li>El jueves, las autoridades reportaron 26.000 nuevos casos y 373 muertes en 24 horas.&nbsp;El centro de investigaci&oacute;n especializado en asuntos de salud GIMBE sostiene que el n&uacute;mero de nuevos casos observados durante las &uacute;ltimas tres semanas "confirma el inicio de la tercera ola" de coronavirus en Italia.</li>
+<li>Seg&uacute;n el presidente de GIMBE, Nino Cartabellotta, en m&aacute;s de la mitad de las 20 regiones italianas, "los hospitales y especialmente las unidades de cuidados intensivos ya est&aacute;n saturados" y las hospitalizaciones e intervenciones no relacionadas con el coronavirus fueron aplazadas.</li>
+<li>Las restricciones representan un nuevo golpe para la tercera econom&iacute;a de la zona del euro, sumida en una severa recesi&oacute;n por el confinamiento en 2020.&nbsp;</li>
+<li>Sin embargo, en una encuesta publicada por el diario Il Corriere della Sera, el 44% de los italianos se manifestaron a favor del confinamiento, frente al 30% de hace dos semanas.&nbsp;</li>
+<li>Italia inici&oacute; la campa&ntilde;a de vacunaci&oacute;n a finales de diciembre, pero desde entonces los suministros de vacunas se han ralentizado considerablemente y solo 1,8 millones de personas, sobre una poblaci&oacute;n de 60 millones, ha recibido las dos dosis de la vacuna.</li>
+</ul>
+}
+title Gran parte de Italia vuelve a confinarse este lunes
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202103/headers/12-confinamiento-en-gran-parte-de-italia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Gran parte de Italia debería permanecer confinada a partir del lunes hasta el 6 de abril, tras la decisión del gobierno este viernes en base al índice de contagios, que amenaza con saturar los hospitales.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Italia<b>
+    text1 Gran parte de Italia vuelve a confinarse este lunes
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
