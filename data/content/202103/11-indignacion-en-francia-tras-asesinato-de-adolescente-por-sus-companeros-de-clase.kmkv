@@ -37,7 +37,7 @@ text4
 customTop 
 media{kmkv} {
     kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
-    header /images/202103/headers/10-mexico-a-punto-de-legalizar-marihuana.jpg
+    header /images/202103/headers/11-indignacion-en-francia-tras-asesinato-de-adolescente-por-sus-companeros-de-clase.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
     banksy /images/202006/10-banksy/banksy.jpg
@@ -56,7 +56,7 @@ featured{kmkv} {
 type article
 subtitle 
 month 03
-tags{array} noticias-loimportante,noticias-politica
+tags{array} noticias-loimportante
 videoID 
 titlePoster 
 color #FBFF09
