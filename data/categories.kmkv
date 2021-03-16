@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202103/12-decenas-de-policias-birmanos-y-sus-familias-huyen-a-india
+        featured{array} /content/202103/16-advertencia-de-corea-del-norte-a-estados-unidos
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202103/12-confinamiento-en-gran-parte-de-italia
+        featured{array} /content/202103/16-moscu-da-un-mes-a-twitter-para-bloquear-contenido-ilegal
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202103/12-un-muerto-y-11-desaparecidos-en-incendios-forestales-en-argentina
+    featured{array} /content/202103/16-vaticano-aclara-que-homosexualidad-es-un-pecado
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202102/26-costa-rica-busca-traer-producciones-de-cine-y-television-con-incentivos
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202103/12-un-muerto-y-11-desaparecidos-en-incendios-forestales-en-argentina
+    featured{array} /content/202103/16-vaticano-aclara-que-homosexualidad-es-un-pecado
 }
 other{kmkv} {
     name Other (Internal)
