@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202103/16-advertencia-de-corea-del-norte-a-estados-unidos
+        featured{array} /content/202103/17-espana-se-prepara-para-legalizar-la-eutanasia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202103/16-moscu-da-un-mes-a-twitter-para-bloquear-contenido-ilegal
+        featured{array} /content/202103/17-biden-dice-que-vladimir-putin-es-un-asesino
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202103/16-vaticano-aclara-que-homosexualidad-es-un-pecado
+    featured{array} /content/202103/17-uber-concede-derechos-laborales-a-conductores-britanicos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202102/26-costa-rica-busca-traer-producciones-de-cine-y-television-con-incentivos
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202103/16-vaticano-aclara-que-homosexualidad-es-un-pecado
+    featured{array} /content/202103/17-espana-se-prepara-para-legalizar-la-eutanasia
 }
 other{kmkv} {
     name Other (Internal)
