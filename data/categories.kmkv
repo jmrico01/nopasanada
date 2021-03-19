@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202103/17-biden-dice-que-vladimir-putin-es-un-asesino
+        featured{array} /content/202103/19-covid-19-empieza-a-ensanarse-con-los-mas-jovenes-en-brasil
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202103/17-uber-concede-derechos-laborales-a-conductores-britanicos
+    featured{array} /content/202103/19-alemania-sufre-alza-exponencial-de-contagios-por-covid-19
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202102/26-costa-rica-busca-traer-producciones-de-cine-y-television-con-incentivos
+        featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202103/17-espana-se-prepara-para-legalizar-la-eutanasia
+    featured{array} /content/202103/19-mujeres-llevan-energia-solar-a-sus-pueblos-en-yemen
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Alemania registra un aumento "claramente exponencial" de los contagios por coronavirus, vinculado especialmente a la variante brit&aacute;nica, declar&oacute; el viernes el vicepresidente del instituto de vigilancia epidemiol&oacute;gica Robert Koch (RKI).</li>
+<li>"Es muy posible que en Pascua [principios de abril] tengamos una situaci&oacute;n similar a la que vivimos antes de Navidad, con un n&uacute;mero muy elevado de contagios, numerosos casos graves y muertes, y hospitales saturados", dijo en una rueda de prensa Lars Schaade.</li>
+<li>"Estamos en la tercera ola de la pandemia, las cifras aumentan, la proporci&oacute;n de variantes es alta", a&ntilde;adi&oacute; el ministro de Sanidad, Jens Spahn.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Alemania ha registrado oficialmente m&aacute;s de 17.000 casos en 24 horas, unos 5.000 m&aacute;s que hace una semana.&nbsp;</li>
+<li>El &iacute;ndice de incidencia alcanz&oacute; el viernes 95,6 (frente a 90 el jueves), cerca de la marca de 100 que desencadenar&iacute;a nuevas restricciones.&nbsp;</li>
+<li>La canciller alemana, Angela Merkel, y los l&iacute;deres de los 16 estados federados del pa&iacute;s se reunir&aacute;n el lunes para decidir sobre posibles nuevos confinamientos.</li>
+</ul>
+}
+title Alemania sufre alza exponencial de contagios por covid-19
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202103/headers/19-alemania-sufre-alza-exponencial-de-contagios-por-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Alemania registra un aumento "claramente exponencial" de los contagios por coronavirus, vinculado especialmente a la variante británica, declaró el viernes el vicepresidente del instituto de vigilancia epidemiológica Robert Koch (RKI).
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Alemania<b>
+    text1 Alemania sufre alza exponencial de contagios por covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
