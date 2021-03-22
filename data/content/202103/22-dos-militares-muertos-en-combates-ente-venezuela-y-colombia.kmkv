@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Dos militares venezolanos murieron y 32 "irregulares" colombianos fueron detenidos en combates en la frontera entre los dos pa&iacute;ses registrados el domingo, inform&oacute; este lunes la Fuerza Armada de Venezuela en un comunicado.</li>
+<li>"Enfrentamientos con grupos irregulares armados colombianos en el sector La Coromoto, parroquia Rafael Urdaneta del municipio Jos&eacute; Antonio P&aacute;ez, estado Apure" (suroeste), dejaron como resultado "el lamentable fallecimiento" de un mayor y un teniente, adem&aacute;s de "varios heridos", seg&uacute;n el texto.</li>
+<li>En la operaci&oacute;n se destruyeron seis campamentos, fueron capturados "32 sujetos" y "decomisado armamento, municiones, explosivos, pertrechos de guerra, veh&iacute;culos y drogas".</li>
+<li>Durante el despliegue, ejecutado en el marco de la llamada operaci&oacute;n Escudo Bolivariano 2021 ordenada por el presidente Nicol&aacute;s Maduro, tambi&eacute;n "fue neutralizado uno de los cabecillas conocido como alias 'El Nando'", a&ntilde;adi&oacute; el texto firmado por el ministro de Defensa venezolano, general Vladimir Padrino.</li>
+<li>Maduro confirm&oacute; el domingo los combates en la televisi&oacute;n p&uacute;blica y dijo que su gobierno tendr&aacute; "cero tolerancia" con "grupos armados que vengan de Colombia en territorio venezolano".</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El domingo, autoridades colombianas informaron que la confrontaci&oacute;n dej&oacute; varios heridos y el desplazamiento de una familia al vecino departamento colombiano de Arauca, indic&oacute; el alcalde del municipio de Arauquita, Etelivar Torres.</li>
+<li>Seg&uacute;n Torres, una familia con una mujer embarazada tuvo que salir de su hogar por la violencia y se encuentra en el municipio fronterizo de Arauquita, mientras que otras ocho solicitaron apoyo de organismos de socorro colombianos.</li>
+<li>A pesar de que comparten una porosa frontera de 2.200 kil&oacute;metros, Colombia y Venezuela no mantienen relaciones diplom&aacute;ticas desde que Bogot&aacute; reconoci&oacute; al opositor Juan Guaid&oacute; como presidente interino en enero de 2019.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Aunque Guaid&oacute; es reconocido como mandatario interino por medio centenar de pa&iacute;ses, con Estados Unidos a la cabeza, Maduro mantiene el control del pa&iacute;s con apoyo de las fuerzas armadas.</p>
+<p>El gobierno del presidente colombiano Iv&aacute;n Duque acusa recurrentemente a Maduro de albergar en su territorio a guerrilleros del Ej&eacute;rcito de Liberaci&oacute;n Nacional (ELN) y disidentes que se apartaron del acuerdo de paz firmado en 2016 con la guerrilla FARC, algo que Caracas niega.</p>
+}
+title Dos militares muertos en combates fronterizos entre Venezuela y Colombia
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202103/headers/22-dos-militares-muertos-en-combates-ente-venezuela-y-colombia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Dos militares venezolanos murieron y 32 "irregulares" colombianos fueron detenidos en combates en la frontera entre los dos países registrados el domingo, informó este lunes la Fuerza Armada de Venezuela en un comunicado.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Venezuela<b>
+    text1 Dos militares muertos en combates fronterizos entre Venezuela y Colombia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

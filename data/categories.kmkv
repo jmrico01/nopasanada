@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202103/17-espana-se-prepara-para-legalizar-la-eutanasia
+        featured{array} /content/202103/22-dos-militares-muertos-en-combates-ente-venezuela-y-colombia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202103/19-covid-19-empieza-a-ensanarse-con-los-mas-jovenes-en-brasil
+        featured{array} /content/202103/22-ue-sanciona-al-lider-de-junta-de-birmania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202103/19-alemania-sufre-alza-exponencial-de-contagios-por-covid-19
+    featured{array} /content/202103/22-astrazeneca-dice-que-suvacuna-es-79-fectiva-y-segura
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202103/19-mujeres-llevan-energia-solar-a-sus-pueblos-en-yemen
+    featured{array} /content/202103/22-futbol-femenino-logra-acuerdo-de-tv-record-en-inglaterra
 }
 other{kmkv} {
     name Other (Internal)

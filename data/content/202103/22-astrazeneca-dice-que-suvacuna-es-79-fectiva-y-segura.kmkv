@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La vacuna contra el covid-19 de AstraZeneca tiene una eficacia de 79% para prevenir la enfermedad y no aumenta el riesgo de co&aacute;gulos sangu&iacute;neos, dijo la firma de biotecnolog&iacute;a el lunes, luego de sus ensayos de eficiencia de fase 3 en Estados Unidos.&nbsp;</li>
+<li>La vacuna tambi&eacute;n fue efectiva en un 80% para los mayores de 65 a&ntilde;os, dijo. Varios pa&iacute;ses hab&iacute;an suspendido la administraci&oacute;n del f&aacute;rmaco a personas mayores debido a la falta de datos entre los participantes de edad avanzada en ensayos anteriores.</li>
+<li>Los ensayos de fase 3 en Estados Unidos de la vacuna desarrollada por AstraZeneca y la Universidad de Oxford involucraron a 32.449 personas, de las cuales dos tercios recibieron una dosis, seg&uacute;n un comunicado de la compa&ntilde;&iacute;a farmac&eacute;utica.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Alrededor de 20% de los participantes ten&iacute;an 65 a&ntilde;os o m&aacute;s, y cerca del 60% ten&iacute;a problemas de salud con alto riesgo de un covid-19 grave, como diabetes, obesidad o enfermedades card&iacute;acas.</li>
+<li>Los ensayos realizados por un equipo independiente hallaron que no hay un mayor riesgo de trombos entre los 21.583 participantes que recibieron por lo menos una dosis, se&ntilde;ala el comunicado.</li>
+<li>"Estos datos reconfirman resultados previos observados en ensayos de AZD1222 en todas las poblaciones de adultos, pero es muy emocionante ver por primera vez resultados de eficacia similar en personas de m&aacute;s de 65 a&ntilde;os", dijo Ann Falsey, profesora de la Facultad de Medicina de la Universidad de Rochester y una de las investigadoras que condujo los ensayos.</li>
+<li>"Este an&aacute;lisis reconoce la vacuna de AstraZeneca contra el covid-19 como una de la opciones de vacunaciones que tanto se necesitan, y ofrece confianza para que los adultos de todas las edades puedan beneficiarse de protecci&oacute;n contra el virus", agreg&oacute;.</li>
+</ul>
+}
+title AstraZeneca dice que su vacuna es efectiva y segura
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202103/headers/22-astrazeneca-dice-que-suvacuna-es-79-fectiva-y-segura.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La vacuna contra el covid-19 de AstraZeneca tiene una eficacia de 79% para prevenir la enfermedad y no aumenta el riesgo de coágulos sanguíneos, dijo la firma de biotecnología el lunes, luego de sus ensayos de eficiencia de fase 3 en Estados Unidos.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>AstraZeneca<b>
+    text1 AstraZeneca dice que su vacuna es efectiva y segura
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
