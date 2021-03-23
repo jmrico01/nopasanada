@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202103/22-dos-militares-muertos-en-combates-ente-venezuela-y-colombia
+        featured{array} /content/202103/23-dominicanas-cansadas-de-esperar-cambio-de-ley-antiaborto
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202103/22-ue-sanciona-al-lider-de-junta-de-birmania
+        featured{array} /content/202103/23-raul-castro-se-despide-en-plena-crisis-economica-en-cuba
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202103/22-astrazeneca-dice-que-suvacuna-es-79-fectiva-y-segura
+    featured{array} /content/202103/23-australianos-atrapados-por-inundaciones-son-evacuados-en-helicopteros-y-lanchas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202103/22-futbol-femenino-logra-acuerdo-de-tv-record-en-inglaterra
+    featured{array} /content/202103/23-diez-muertos-en-tiroteo-en-un-supermercado-de-colorado
 }
 other{kmkv} {
     name Other (Internal)
