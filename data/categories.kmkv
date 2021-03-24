@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202103/23-dominicanas-cansadas-de-esperar-cambio-de-ley-antiaborto
+        featured{array} /content/202103/24-junta-de-birmania-libera-a-mas-de-600-personas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202103/23-raul-castro-se-despide-en-plena-crisis-economica-en-cuba
+        featured{array} /content/202103/24-lluvias-cesan-en-australia-pero-miles-siguen-aislados
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202103/23-australianos-atrapados-por-inundaciones-son-evacuados-en-helicopteros-y-lanchas
+    featured{array} /content/202103/24-merkel-pide-perdon-por-medidas-anticovid-de-semana-santa
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202103/23-diez-muertos-en-tiroteo-en-un-supermercado-de-colorado
+    featured{array} /content/202103/24-equipo-de-la-casa-blanca-visita-frontera-con-mexico-por-crisis-migratoria
 }
 other{kmkv} {
     name Other (Internal)
