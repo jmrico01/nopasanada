@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202103/24-junta-de-birmania-libera-a-mas-de-600-personas
+        featured{array} /content/202103/25-buque-encallado-bloquea-canal-de-suez
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202103/24-lluvias-cesan-en-australia-pero-miles-siguen-aislados
+        featured{array} /content/202103/25-mas-de-la-mitad-de-la-poblacion-de-israel-recibio-las-dos-dosis-de-vacuna-anticovid
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202103/24-merkel-pide-perdon-por-medidas-anticovid-de-semana-santa
+    featured{array} /content/202103/25-salud-del-opositor-ruso-navalni-preocupa-a-sus-colaboradores
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202103/24-equipo-de-la-casa-blanca-visita-frontera-con-mexico-por-crisis-migratoria
+    featured{array} /content/202103/25-buque-encallado-bloquea-canal-de-suez
 }
 other{kmkv} {
     name Other (Internal)
