@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202103/25-buque-encallado-bloquea-canal-de-suez
+        featured{array} /content/202103/29-protestantes-resisten-represion-tras-fin-de-semana-mas-sangriento-desde-golpe-en-birmania
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202103/25-mas-de-la-mitad-de-la-poblacion-de-israel-recibio-las-dos-dosis-de-vacuna-anticovid
+        featured{array} /content/202103/29-lopez-obrador-denuncia-brutal-asesinato-de-salvadorena-amanos-de-policias-mexicanos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202103/25-salud-del-opositor-ruso-navalni-preocupa-a-sus-colaboradores
+    featured{array} /content/202103/29-reorientaron-buque-que-bloquea-canal-de-suez-pero-falta-lo-mas-dificil
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202103/25-buque-encallado-bloquea-canal-de-suez
+    featured{array} /content/202103/29-informe-de-oms-sobre-origen-del-covid-apuesta-por-transmision-por-animal-intermedio
 }
 other{kmkv} {
     name Other (Internal)
