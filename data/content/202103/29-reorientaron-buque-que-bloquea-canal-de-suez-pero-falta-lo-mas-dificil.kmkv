@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El portacontenedores "Ever Given", de 400 metros de eslora y 220.000 toneladas-- est&aacute; atascado en diagonal desde el martes en el canal de Suez y bloquea completamente esta v&iacute;a de agua de unos 300 metros de ancho que es una de las m&aacute;s transitadas del mundo.</li>
+<li>Aunque en un principio se atribuy&oacute; el incidente a los fuertes vientos combinados con una tormenta de arena, el almirante Rabie no descart&oacute; el s&aacute;bado que un "error humano" haya provocado el incidente.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<ul>
+<li>El buque fue reorientado este lunes en un 80% en la "direcci&oacute;n correcta", pero lo m&aacute;s dif&iacute;cil est&aacute; por hacer, advirti&oacute; la empresa holandesa contratada para desencallarlo.&nbsp;</li>
+<li>"La buena noticia es que la popa est&aacute; despejada, pero eso era lo que consider&aacute;bamos la parte f&aacute;cil. El reto sigue siendo la parte delantera", dijo su director ejecutivo, Peter Berdowski.</li>
+<li>Cuando se logre desencallar el "Ever Given", se necesitar&aacute;n "alrededor de tres d&iacute;as y medio" para que el tr&aacute;fico sea reabsorbido, asegur&oacute; Rabie. "El canal funcionar&aacute; las 24 horas", a&ntilde;adi&oacute;.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En total, 425 buques estaban atrapados el lunes a ambos lados y en el centro del canal que une el mar Rojo y el Mediterr&aacute;neo, seg&uacute;n la revista Lloyd's List.</li>
+<li>Por el canal de Suez circula en torno al 10% del comercio mar&iacute;timo internacional y cada d&iacute;a sin actividad supone perdidas que van desde 3.000 millones de d&oacute;lares diarios seg&uacute;n Jonathan Owens, experto en log&iacute;stica de la universidad brit&aacute;nica de Salford, hasta 9.600 millones seg&uacute;n Lloyd's List.</li>
+<li>Las autoridades del canal subrayaron por su parte que Egipto pierde entre 12 y 14 millones de d&oacute;lares por d&iacute;a de cierre.</li>
+</ul>
+}
+title Lo que sabemos sobre el buque que bloquea el canal de Suez
+day 29
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202103/headers/26-lula-da-silva-dice-que-muertes-por-covid-19-es-el-mayor-genocidio-en-historia-brasilena.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El portacontenedores "Ever Given", de 400 metros de eslora y 220.000 toneladas-- está atascado en diagonal desde el martes en el canal de Suez y bloquea completamente esta vía de agua de unos 300 metros de ancho que es una de las más transitadas del mundo.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Egipto<b>
+    text1 Lo que sabemos sobre el buque que bloquea el canal de Suez
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
