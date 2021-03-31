@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202103/30-china-reforma-sistema-electoral-de-hong-kong-y-reprime-oposicion
+        featured{array} /content/202103/31-hambre-se-abre-paso-en-brasil-golpeado-por-pandemia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202103/30-vietnamita-condenado-a-dos-anos-de-carcel-por-propagar-coronavirus
+        featured{array} /content/202103/31-vacunas-chinas-antivcovid-son-seguras-pero-falta-informacion
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202103/30-miles-de-estudiantes-relatan-abusos-sexuales-en-escuelas-del-reino-unido
+    featured{array} /content/202103/31-policia-detiene-sospechoso-de-atacar-mujer-asiatica-en-nueva-york
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
