@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Al menos 26 personas murieron en el naufragio de un ferry ocurrido el domingo en Banglad&eacute;s, seg&uacute;n un nuevo balance comunicado por las autoridades este lunes.</li>
+<li>"El balance es de 26 muertos. Hemos encontrado 21 cuerpos en el barco", que fue sacado del agua al mediod&iacute;a, declar&oacute; Mustain Billah, un responsable local.</li>
+<li>En un balance anterior, los socorristas daban cuenta de 20 muertos.</li>
+<li>El ferry "Sabit Al Hasan", que llevaba unos cincuenta pasajeros a bordo, naufrag&oacute; el domingo tras chocar con otro barco en el centro de Banglad&eacute;s.</li>
+<li>El barco naufrag&oacute; en el r&iacute;o Shitalakhsya, tras haber zarpado de la ciudad de Narayanganj, a 20 kil&oacute;metros de la capital, Daca, rumbo al distrito vecino de Munshiganj.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Un miembro de la polic&iacute;a local dijo que el nav&iacute;o transportaba a muchos pasajeros deseosos de irse de Narayanganj despu&eacute;s de que el gobierno decretara un confinamiento nacional de siete d&iacute;as a partir del lunes para atajar el reciente aumento de casos de covid-19.</li>
+<li>Los accidentes de ferry son frecuentes en Banglad&eacute;s, un pa&iacute;s ubicado en un delta atravesado por centenares de r&iacute;os.</li>
+<li>Millones de personas dependen de los transbordadores para poder moverse, sobre todo en la regi&oacute;n costera del sur del pa&iacute;s, pero los barcos suelen ir sobrecargados y estar en malas condiciones.</li>
+<li>As&iacute;, en junio del a&ntilde;o pasado, al menos 32 personas murieron en el naufragio de un ferry que choc&oacute; contra otro barco en Daca.</li>
+</ul>
+}
+title Naufragio de un ferry deja 26 muertos en Bangladés
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/5-naufragio-de-un-ferry-deja-26-muertes-en-banglades.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Al menos 26 personas murieron en el naufragio de un ferry ocurrido el domingo en Bangladés, según un nuevo balance comunicado por las autoridades este lunes.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Bangladés<b>
+    text1 Naufragio de un ferry deja 26 muertos en Bangladés
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

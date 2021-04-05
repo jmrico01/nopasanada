@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202103/31-hambre-se-abre-paso-en-brasil-golpeado-por-pandemia
+        featured{array} /content/202104/5-se-reanuda-juicio-contra-netanyahu-por-corrupcion
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202103/31-vacunas-chinas-antivcovid-son-seguras-pero-falta-informacion
+        featured{array} /content/202104/5-aplauden-a-protestantes-para-desafiar-a-junta-militar-en-birmania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202103/31-policia-detiene-sospechoso-de-atacar-mujer-asiatica-en-nueva-york
+    featured{array} /content/202104/5-naufragio-de-un-ferry-deja-26-muertes-en-banglades
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202103/30-jefe-de-oms-pide-investigar-en-profundidad-hipotesis-de-fuga-del-virus-de-laboratorio
+    featured{array} /content/202104/5-inundaciones-en-indonesia-y-timor-oriental-dejan-91-muertos
 }
 other{kmkv} {
     name Other (Internal)
