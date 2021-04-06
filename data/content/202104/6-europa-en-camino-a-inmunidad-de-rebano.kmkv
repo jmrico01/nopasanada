@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Europa est&aacute; en el bueno camino para lograr "inmunidad comunitaria" al covid-19 a fines del verano gracias a la entrega acelerada de dosis de vacunas, dijo el martes un portavoz de la Comisi&oacute;n Europea.</li>
+<li>La UE deber&iacute;a cumplir su objetivo de vacunar completamente a la mayor&iacute;a de su poblaci&oacute;n adulta a mediados de septiembre, apoyada en una aceleraci&oacute;n de las entregas de dosis con relaci&oacute;n al primer trimestre, triplicando el volumen, dijo a la prensa el portavoz Stefan de Keersmaecker.</li>
+<li>"Creemos que, sobre la base de esto, tendremos suficientes dosis de la vacuna para alcanzar nuestro objetivo de aproximadamente el 70% de la poblaci&oacute;n adulta", se&ntilde;al&oacute;.</li>
+<li>Este cuadro "nos dejar&iacute;a en una situaci&oacute;n en la que tenemos suficiente inmunidad comunitaria para combatir el virus", agreg&oacute;.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El funcionario confirm&oacute; que las entregas de vacunas al bloque de 27 naciones en el primer trimestre ascendieron a 107 millones de dosis, muy por debajo de lo esperado.</li>
+<li>Pero deber&iacute;an suministrarse "entre 300 y 360 millones de dosis" hasta fines de junio. La UE tiene una poblaci&oacute;n total de 450 millones, de los cuales 365 millones son adultos.</li>
+<li>Para alcanzar el objetivo de vacunar al 70% de la poblaci&oacute;n adulta, 255 millones de personas necesitar&iacute;an estar completamente vacunadas, dos inyecciones en la mayor&iacute;a de los casos, o solo una inyecci&oacute;n con la vacuna producida por Johnson &amp; Johnson.</li>
+<li>Seg&uacute;n un documento confidencial utilizado por los diplom&aacute;ticos de la UE para monitorear las entregas de vacunas, 23 de los 27 Estados miembros deber&iacute;an haber vacunado a m&aacute;s de la mitad de sus poblaciones seg&uacute;n el total de entregas en la primera mitad de este a&ntilde;o.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>El suministro insuficiente de las dosis prometidas por AstraZeneca, tema de una disputa muy p&uacute;blica entre la empresa y la Comisi&oacute;n Europea, signific&oacute; un comienzo titubeante para el uso de esa vacuna en las campa&ntilde;as p&uacute;blicas.</p>
+<p>Sin embargo, con el anuncio de Pfizer de adelantar entregas de sus dosis y la pr&oacute;xima llegada de las vacunas de Johnson &amp; Johnson, existe una mayor confianza en que la UE avanzar&aacute; con fuerza en el segundo trimestre.</p>
+<p>Incluso las preocupaciones en torno a la posibilidad de un v&iacute;nculo entre la vacuna de AstraZeneca y un co&aacute;gulo de sangre poco com&uacute;n que afecta el cerebro es poco probable que descarrilen esa proyecci&oacute;n, dado el creciente suministro de las otras vacunas.</p>
+}
+title Europa en camino a lograr inmunidad de rebaño
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/6-europa-en-camino-a-inmunidad-de-rebano.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Europa está en el bueno camino para lograr "inmunidad comunitaria" al covid-19 a fines del verano gracias a la entrega acelerada de dosis de vacunas, dijo el martes un portavoz de la Comisión Europea.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Europa<b>
+    text1 Europa en camino a lograr inmunidad de rebaño
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
