@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Una tercera fisurase abri&oacute; el martes por la noche en el lugar de una erupci&oacute;n que lleva casi tres semanas en curso, a unos 40 kil&oacute;metros de Reikiavik, en Islandia, inform&oacute; la agencia meteorol&oacute;gica islandesa.&nbsp;</li>
+<li>La erupci&oacute;n, cuyas im&aacute;genes han dado la vuelta al mundo, comenz&oacute; el 19 de marzo a trav&eacute;s de una primera fisura que arroja lava de forma continua en el peque&ntilde;o valle de Geldingadalir, situado cerca del monte Fagradalsfjall, en el extremo suroccidental de Islandia.&nbsp;</li>
+<li>El lunes, una nueva falla compuesta por dos fisuras se hab&iacute;a abierto a unos 700 metros de este primer foco, creando una larga corriente de lava que fluye hacia otro peque&ntilde;o valle cercano.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Ahora se ha a&ntilde;adido una tercera fuente de lava, que tiene 150 metros de longitud y aproximadamente un metro de profundidad, y se encuentra a medio kil&oacute;metro de los sitios de la primera erupci&oacute;n.&nbsp;</li>
+<li>Alrededor de la medianoche un punto brillante ilumin&oacute; repentinamente la colina casi a mitad de camino entre los dos primeros focos de erupci&oacute;n, liberando peque&ntilde;os chorros de lava y con ellos una tenue columna de humo, seg&uacute;n im&aacute;genes difundidas por la televisi&oacute;n estatal R&Uacute;V.&nbsp;</li>
+<li>Los vulcan&oacute;logos islandeses, que inicialmente contaban con una erupci&oacute;n de unos pocos d&iacute;as, creen ahora que ser&aacute; de larga duraci&oacute;n, aunque sin poder pronunciarse sobre si durar&aacute; semanas, meses o a&ntilde;os.</li>
+</ul>
+}
+title Erupción en Islandia se extiende aún más
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/7-erupcion-en-islandia-se-extiende-aun-mas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Una tercera fisurase abrió el martes por la noche en el lugar de una erupción que lleva casi tres semanas en curso, a unos 40 kilómetros de Reikiavik, en Islandia, informó la agencia meteorológica islandesa.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Islandia<b>
+    text1 Erupción en Islandia se extiende aún más
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
