@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202104/7-explota-navio-irani-en-el-mar-rojo-y-sospechas-apuntan-a-israel
+        featured{array} /content/202104/8-biden-anunciara-medidas-para-limitar-armas-de-fuego
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202104/7-cadena-perpetua-para-22-exmilitares-por-intento-de-golpe-de-estado-en-turquia
+        featured{array} /content/202104/8-gamer-surcoreano-denuncia-racismo-en-eeuu
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202104/7-inundaciones-arrasan-con-isla-indonesia-de-adonara
+    featured{array} /content/202104/8-unionistas-y-republicanos-condenan-juntos-violencia-en-irlanda-del-norte
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202104/7-erupcion-en-islandia-se-extiende-aun-mas
+    featured{array} /content/202104/8-cuatro-detenidos-y-35-heridos-en-disturbio-de-ultraderecha-en-madrid
 }
 other{kmkv} {
     name Other (Internal)

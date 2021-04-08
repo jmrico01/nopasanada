@@ -1,0 +1,61 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La Agencia Europea de Medicamentos (EMA) reafirm&oacute; este mi&eacute;rcoles su apoyo a la vacuna anticovid de AstraZeneca, a pesar de los trombos sangu&iacute;neos que han sufrido algunos de los que recibieron el f&aacute;rmaco.</li>
+<li>A&uacute;n as&iacute;, la Agencia afirm&oacute; que los co&aacute;gulos sangu&iacute;neos constituyen un efecto secundario "muy raro", animando a los pa&iacute;ses a continuar utiliz&aacute;ndola.</li>
+<li>El balance entre riesgos y beneficios sigue siendo "positivo", seg&uacute;n un comunicado.</li>
+<li>La directora ejecutiva de la EMA, Emer Cooke, se&ntilde;al&oacute; que esos trombos podr&iacute;an ser una respuesta inmunol&oacute;gica, aunque "no se ha podido confirmar factores de riesgo espec&iacute;fico como la edad, el sexo o los antecedentes m&eacute;dicos".</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los trombos despertaron una ola de inquietud, en especial en Europa, que no ha logrado estabilizarse, en buena parte a causa de las propias contradicciones de las autoridades.</li>
+<li>Pa&iacute;ses como Canad&aacute;, Francia, Alemania y Holanda recomendaron no usar esa vacuna en j&oacute;venes tras la detecci&oacute;n de los trombos sangu&iacute;neos.</li>
+<li>Al mismo tiempo, el comit&eacute; cient&iacute;fico que asesora al gobierno brit&aacute;nico recomend&oacute; que el inmunizante de AstraZeneca solo se utilice en personas mayores de 30 a&ntilde;os, como "precauci&oacute;n".</li>
+<li>Seg&uacute;n el regulador brit&aacute;nico de medicamentos, de los 79 casos de trombos en personas vacunadas con la vacuna de AstraZeneca reportados en el Reino Unido, 19 fueron letales.</li>
+<li>La vacuna, desarrollada por AstraZeneca y la universidad de Oxford, ha sido administrada en al menos 111 pa&iacute;ses, por delante de Pfizer/BioNTech (67 pas&iacute;ses) o Moderna (al menos 39 pa&iacute;ses)&nbsp;</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Al otro lado del Atl&aacute;ntico, Organizaci&oacute;n Panamericana de la Salud (OPS) destac&oacute; la "preocupante" alza de infecciones de covid-19 en Sudam&eacute;rica, se&ntilde;alando que, en la &uacute;ltima semana, Brasil y Argentina estuvieron entre los diez pa&iacute;ses con el mayor n&uacute;mero de nuevos contagios en todo el mundo.</p>
+<p>En todo el mundo, las campa&ntilde;as de vacunaci&oacute;n avanzan a ritmos dispares, pero esa buena noticia coincide con nuevas oleadas del covid-19, dominadadas por variantes m&aacute;s agresivas del virus.</p>
+<p>En Latinoam&eacute;rica, se registraron ya 805.865 decesos (en m&aacute;s de 25,5 millones de contagios).</p>
+<p>Es la segunda regi&oacute;n m&aacute;s enlutada por el coronavirus, detr&aacute;s de Europa (978.685 muertes), seg&uacute;n estimaciones de la AFP basadas en fuentes oficiales.</p>
+<p>Brasil es de lejos el pa&iacute;s m&aacute;s golpeado con m&aacute;s de 336.947 fallecidos, superado solo por Estados Unidos con unos 555.000.</p>
+<p>El gigante sudamericano, de 212 millones de habitantes, registr&oacute; el martes por primera vez m&aacute;s de 4.000 muertes en 24 horas.</p>
+<p>En la regi&oacute;n, Argentina tambi&eacute;n tuvo un m&aacute;ximo sin precedentes, al contar 20.870 nuevas infecciones diarias.</p>
+<p>En Chile, la crisis sanitaria llev&oacute; a postergar por cinco semanas la elecci&oacute;n de alcaldes y constituyentes prevista para este fin de semana.</p>
+<p>La pandemia ha matado a m&aacute;s de 2,8 millones de personas en todo el mundo.</p>
+}
+title EMA defiende utilidad de vacuna AstraZeneca pero la relaciona con trombosis
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202103/headers/31-vacunas-chinas-antivcovid-son-seguras-pero-falta-informacion.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La Agencia Europea de Medicamentos (EMA) reafirmó este miércoles su apoyo a la vacuna anticovid de AstraZeneca, a pesar de los trombos sanguíneos que han sufrido algunos de los que recibieron el fármaco.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Europa<b>
+    text1 EMA defiende utilidad de vacuna AstraZeneca pero la relaciona con trombosis
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
