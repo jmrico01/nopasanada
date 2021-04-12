@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Las autoridades rusas amenazan con alimentar por la fuerza al opositor Alex&eacute;i Navalni, en huelga de hambre en el centro penitenciario donde se encuentra detenido, indic&oacute; el lunes su cuenta oficial Twitter manejada por su equipo.</li>
+<li>"Pesa 77 kilos", es decir ocho menos desde que empez&oacute; la huelga del 31 de marzo, se&ntilde;al&oacute; la cuenta @navalny, agregando que "visto lo serio de la huelga de hambre, la administraci&oacute;n (penitenciaria) lo amenaza a diario con alimentarlo por la fuerza".</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La alimentaci&oacute;n forzada de un preso en Rusia es autorizada por la ley, y puede hacerse oralmente, por v&iacute;a rectal o por intubaci&oacute;n. Semejante tratamiento es considerado como una forma de tortura por militantes de derechos humanos.</li>
+<li>Navalni, de 44 a&ntilde;os, anunci&oacute; el 31 de marzo que hab&iacute;a decidido dejar de alimentarse para protestar contra sus condiciones de detenci&oacute;n en el campo n&uacute;mero 2 de Pokrov, a 100 km al este de Mosc&uacute;, que tiene fama de ser uno de los m&aacute;s duros del pa&iacute;s.</li>
+<li>El opositor regres&oacute; a Rusia en enero tras cinco meses de convalecencia en Alemania de un envenenamiento que sufri&oacute; en agosto y cuya responsabilidad imputa al Kremlin.</li>
+<li>Al llegar a suelo ruso, fue inmediatamente detenido y luego condenado a dos a&ntilde;os y medio de c&aacute;rcel por un viejo asunto de fraude que considera como pol&iacute;tico.</li>
+</ul>
+}
+title Autoridades rusas amenazan alimentar por la fuerza a Navalni
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/8-cuatro-detenidos-y-35-heridos-en-disturbio-de-ultraderecha-en-madrid.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Las autoridades rusas amenazan con alimentar por la fuerza al opositor Alexéi Navalni, en huelga de hambre en el centro penitenciario donde se encuentra detenido, indicó el lunes su cuenta oficial Twitter manejada por su equipo.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Autoridades rusas amenazan alimentar por la fuerza a Navalni
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
