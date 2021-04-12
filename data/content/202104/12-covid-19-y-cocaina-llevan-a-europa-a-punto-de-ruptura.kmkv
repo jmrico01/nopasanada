@@ -31,7 +31,7 @@ text4
 customTop 
 media{kmkv} {
     kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
-    header /images/202104/headers/8-cuatro-detenidos-y-35-heridos-en-disturbio-de-ultraderecha-en-madrid.jpg
+    header /images/202104/headers/12-covid-19-y-cocaina-llevan-a-europa-a-punto-de-ruptura.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
     banksy /images/202006/10-banksy/banksy.jpg
@@ -50,7 +50,7 @@ featured{kmkv} {
 type article
 subtitle 
 month 04
-tags{array} noticias-loimportante,noticias-politica
+tags{array} noticias-loimportante
 videoID 
 titlePoster 
 color #FBFF09

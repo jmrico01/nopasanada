@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202104/8-gamer-surcoreano-denuncia-racismo-en-eeuu
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202104/8-unionistas-y-republicanos-condenan-juntos-violencia-en-irlanda-del-norte
+    featured{array} /content/202104/12-protestas-en-eeuu-por-muerte-de-hombre-negro-a-manos-de-policia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202104/8-cuatro-detenidos-y-35-heridos-en-disturbio-de-ultraderecha-en-madrid
+    featured{array} /content/202104/12-despiden-policia-en-eeuu-por-uso-de-fuerza-en-detencion-de-militar-negro
 }
 other{kmkv} {
     name Other (Internal)
