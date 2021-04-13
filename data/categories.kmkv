@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202104/8-biden-anunciara-medidas-para-limitar-armas-de-fuego
+        featured{array} /content/202104/13-segunda-noche-de-protestas-tras-muerte-de-joven-negro-a-manos-de-policia-en-minneapolis
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202104/8-gamer-surcoreano-denuncia-racismo-en-eeuu
+        featured{array} /content/202104/13-japon-tirara-al-mar-agua-de-fukushima-una-vez-tratada
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202104/12-protestas-en-eeuu-por-muerte-de-hombre-negro-a-manos-de-policia
+    featured{array} /content/202104/13-eeuu-recomienda-pausa-de-vacuna-de-johnson-por-coagulos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202104/12-despiden-policia-en-eeuu-por-uso-de-fuerza-en-detencion-de-militar-negro
+    featured{array} /content/202104/13-bitcoin-bate-su-record-de-cotizacion-al-superar-los-62000-dolares
 }
 other{kmkv} {
     name Other (Internal)
