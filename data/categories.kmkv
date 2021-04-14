@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202104/13-segunda-noche-de-protestas-tras-muerte-de-joven-negro-a-manos-de-policia-en-minneapolis
+        featured{array} /content/202104/14-biden-retirara-todas-las-tropas-de-afganistan-antes-del-11-de-setiembre
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202104/13-japon-tirara-al-mar-agua-de-fukushima-una-vez-tratada
+        featured{array} /content/202104/14-tercera-noche-de-protestas-en-minneapolis
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202104/13-eeuu-recomienda-pausa-de-vacuna-de-johnson-por-coagulos
+    featured{array} /content/202104/14-iran-aumenta-enriquecimiento-de-uranio-en-un-60
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202104/13-bitcoin-bate-su-record-de-cotizacion-al-superar-los-62000-dolares
+    featured{array} /content/202104/14-tercera-noche-de-protestas-en-minneapolis
 }
 other{kmkv} {
     name Other (Internal)
