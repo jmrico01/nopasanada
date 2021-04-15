@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202104/14-biden-retirara-todas-las-tropas-de-afganistan-antes-del-11-de-setiembre
+        featured{array} /content/202104/15-brasil-vive-catastrofe-humanitaria-por-su-respuesta-al-covid-19
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202104/14-tercera-noche-de-protestas-en-minneapolis
+        featured{array} /content/202104/15-india-registra-record-de-200000-nuevos-casos-de-covid-19-en-24-horas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202104/14-iran-aumenta-enriquecimiento-de-uranio-en-un-60
+    featured{array} /content/202104/15-eeuu-anuncia-sanciones-contra-moscu-y-expulsion-de-10-diplomaticos-rusos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202104/14-tercera-noche-de-protestas-en-minneapolis
+    featured{array} /content/202104/15-eeuu-anuncia-sanciones-contra-moscu-y-expulsion-de-10-diplomaticos-rusos
 }
 other{kmkv} {
     name Other (Internal)

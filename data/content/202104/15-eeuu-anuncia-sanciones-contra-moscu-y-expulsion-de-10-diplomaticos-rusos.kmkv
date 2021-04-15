@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Estados Unidos anunci&oacute; este jueves sanciones financieras contra Rusia y la expulsi&oacute;n de 10 diplom&aacute;ticos rusos, en respuesta a ciberataques y una injerencia en las elecciones presidenciales de 2020 atribuidos a Mosc&uacute;.&nbsp;</li>
+<li>El presidente Joe Biden firm&oacute; una orden ejecutiva que ampl&iacute;a las restricciones a los bancos estadounidenses que negocian la deuda que emite el gobierno ruso, expulsa a 10 diplom&aacute;ticos que incluyen presuntos esp&iacute;as y sanciona a 32 personas que presuntamente interfirieron en las elecciones de 2020, dijo la Casa Blanca.</li>
+<li>El decreto de Biden permitir&aacute; asimismo volver a castigar a Rusia, con "consecuencias estrat&eacute;gicas y econ&oacute;micas", "si contin&uacute;a o promueve una escalada de sus acciones desestabilizadoras internacionales", advirti&oacute; la Casa Blanca en un comunicado.</li>
+<li>La declaraci&oacute;n enumera en primer lugar los "esfuerzos de Mosc&uacute; para socavar la conducci&oacute;n de elecciones democr&aacute;ticas libres y justas y las instituciones democr&aacute;ticas en Estados Unidos y en sus aliados".</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Con esto alude a acusaciones de que las agencias de inteligencia rusas organizaron campa&ntilde;as persistentes de desinformaci&oacute;n y trucos sucios durante las carreras electorales de 2016 y 2020, en parte para ayudar a la candidatura de Donald Trump.</li>
+<li>La Casa Blanca dijo que las sanciones responden tambi&eacute;n a "actividades cibern&eacute;ticas maliciosas contra Estados Unidos y sus aliados", en referencia al pirateo de un programa de la empresa SolarWinds, que permiti&oacute; entrar en sistemas inform&aacute;ticos del gobierno estadounidense el a&ntilde;o pasado.</li>
+<li>Adem&aacute;s llam&oacute; la atenci&oacute;n sobre los "ataques" extraterritoriales de Rusia contra disidentes y periodistas as&iacute; como el debilitamiento de la seguridad en pa&iacute;ses importantes para la seguridad nacional de Estados Unidos.</li>
+<li>Junto con la Uni&oacute;n Europea, Australia, Reino Unido y Canad&aacute;, el Departamento del Tesoro sancion&oacute; a ocho personas y entidades asociadas con la ocupaci&oacute;n rusa de Crimea en Ucrania.</li>
+<li>En Bruselas, la OTAN (Organizaci&oacute;n de Tratado del Atl&aacute;ntico Norte) manifest&oacute; su apoyo y "solidaridad" a las sanciones dictadas por Estados Unidos en respuesta a sus "actividades desestabilizadoras" en particular en Ucrania y Georgia.</li>
+</ul>
+}
+title EEUU anuncia sanciones contra Rusia por ciberataques e injerencia en elecciones
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/15-eeuu-anuncia-sanciones-contra-moscu-y-expulsion-de-10-diplomaticos-rusos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Estados Unidos anunció este jueves sanciones financieras contra Rusia y la expulsión de 10 diplomáticos rusos, en respuesta a ciberataques y una injerencia en las elecciones presidenciales de 2020 atribuidos a Moscú.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 EEUU anuncia sanciones contra Rusia por ciberataques e injerencia en elecciones
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

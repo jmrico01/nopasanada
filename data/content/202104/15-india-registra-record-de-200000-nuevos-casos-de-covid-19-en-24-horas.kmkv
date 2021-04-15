@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>India registr&oacute; un r&eacute;cord de 200.000 nuevos casos de covid-19 en las &uacute;ltimas 24 horas, seg&uacute;n datos oficiales publicados este jueves, en momentos en que el pa&iacute;s de 1.300 millones de habitantes sufre una inmensa segunda ola de contagios.</li>
+<li>El n&uacute;mero de casos diarios se ha m&aacute;s que duplicado desde inicios de abril. India, que ha registrado en total m&aacute;s de 14,1 millones de casos, ha sufrido tambi&eacute;n 1.038 decesos en 24 horas, lo que eleva a 175.000 el n&uacute;mero total de muertos desde el inicio de la pandemia, seg&uacute;n datos del ministerio de Salud.&nbsp;</li>
+<li>El gran pa&iacute;s del subcontinente indio se convirti&oacute; el lunes en el segundo del mundo m&aacute;s afectado por el covid-19 en n&uacute;mero de casos, superando a Brasil.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los expertos culpan a las fiestas religiosas, los mitines pol&iacute;ticos y los lugares p&uacute;blicos repletos de gente. El mi&eacute;rcoles, el gobierno posterg&oacute; los ex&aacute;menes escolares previstos en mayo junio para los estudiantes de entre 15 y 18 a&ntilde;os.</li>
+<li>Este nueva ola de covid-19 en India dio lugar a restricciones y/o confinamientos parciales en muchos estados y territorios gravemente afectados.</li>
+<li>Maharashtra, principal foco de contaminaci&oacute;n, impuso la semana pasada un confinamiento los fines de semana y un toque de queda nocturno.</li>
+<li>Pero el estado -que alberga Bombay, la capital econ&oacute;mica- advirti&oacute; que un confinamiento total podr&iacute;a ser instaurado en los pr&oacute;ximos d&iacute;as si la contaminaci&oacute;n contin&uacute;a aumentando.</li>
+</ul>
+}
+title India registra récord de 200.000 nuevos casos de covid-19 en 24 horas
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/15-india-registra-record-de-200000-nuevos-casos-de-covid-19-en-24-horas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description India registró un récord de 200.000 nuevos casos de covid-19 en las últimas 24 horas, según datos oficiales publicados este jueves, en momentos en que el país de 1.300 millones de habitantes sufre una inmensa segunda ola de contagios.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>India<b>
+    text1 India registra récord de 200.000 nuevos casos de covid-19 en 24 horas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
