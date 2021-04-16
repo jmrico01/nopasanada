@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La vacuna china Coronavac registr&oacute; una efectividad de un 67% para prevenir casos sintom&aacute;ticos de coronavirus y de un 80% para evitar las muertes, seg&uacute;n el primer estudio oficial presentado este viernes por el gobierno de Chile tras dos meses de vacunaci&oacute;n masiva en el pa&iacute;s.</li>
+<li>"Estas cifras deben transmitir tranquilidad al pa&iacute;s", dijo el ministro de Salud, Enrique Paris, en la rueda de prensa en la que se presentaron los resultados del estudio, realizado entre el 2 de febrero y el 1 de abril.</li>
+<li>El estudio estim&oacute; tambi&eacute;n una efectividad del 85% para prevenir una hospitalizaci&oacute;n derivada de un caso grave de coronavirus y de un 89% para evitar el ingreso a las Unidades de Cuidados Intensivos (UCI).</li>
+<li>Chile es uno de los pa&iacute;ses del mundo donde el proceso de vacunaci&oacute;n avanza de manera m&aacute;s r&aacute;pida. Hasta este viernes, el pa&iacute;s hab&iacute;a logrado vacunar con al menos una dosis a 7,6 millones de personas y a m&aacute;s de cinco con las dos dosis.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El objetivo de las autoridades es vacunar a un 80% de la poblaci&oacute;n chilena, esto es, 15,2 millones de personas. Hasta el momento, el 33,7% de los chilenos recibi&oacute; las dos vacunas.</li>
+<li>El 90,7% del total de vacunados lo ha sido con la vacuna Coronavac, del laboratorio chino Sinovac, mientras un 9,9% lo hecho con la vacuna de la alianza estadounidense-alemana Pfizer/BioNtech.</li>
+<li>El proceso de vacunaci&oacute;n en Chile arranc&oacute; el 24 de diciembre con el personal m&eacute;dico. A inicios de febrero empez&oacute; de forma masiva, primero con los mayores de 90 a&ntilde;os, y luego con el resto de la poblaci&oacute;n bajando progresivamente en edad.</li>
+<li>Esta semana eran vacunados los adultos sanos entre 49 y 48 a&ntilde;os.</li>
+</ul>
+}
+title Chile reporta efectividad del 67% de vacuna china Coronavac
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/16-chile-reporta-efectividad-del-67-de-vacuna-coronavac.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La vacuna china Coronavac registró una efectividad de un 67% para prevenir casos sintomáticos de coronavirus y de un 80% para evitar las muertes, según el primer estudio oficial presentado este viernes por el gobierno de Chile tras dos meses de vacunación masiva en el país.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Chile<b>
+    text1 Chile reporta efectividad del 67% de vacuna china Coronavac
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202104/15-brasil-vive-catastrofe-humanitaria-por-su-respuesta-al-covid-19
+        featured{array} /content/202104/16-catorce-meses-de-prision-para-jimmy-lai-por-protestas-prodemocracia-en-hong-kong
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202104/15-india-registra-record-de-200000-nuevos-casos-de-covid-19-en-24-horas
+        featured{array} /content/202104/16-ocho-muertos-en-tiroteo-en-un-fedex-de-indianapolis
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202104/15-eeuu-anuncia-sanciones-contra-moscu-y-expulsion-de-10-diplomaticos-rusos
+    featured{array} /content/202104/16-chile-reporta-efectividad-del-67-de-vacuna-coronavac
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202104/15-eeuu-anuncia-sanciones-contra-moscu-y-expulsion-de-10-diplomaticos-rusos
+    featured{array} /content/202104/16-chicago-publica-imagenes-de-muerte-de-adolescente-latino-a-manos-de-la-policia
 }
 other{kmkv} {
     name Other (Internal)
