@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202104/16-catorce-meses-de-prision-para-jimmy-lai-por-protestas-prodemocracia-en-hong-kong
+        featured{array} /content/202104/19-raul-castro-se-va-pero-cuba-seguira-misma-linea-politica
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202104/16-ocho-muertos-en-tiroteo-en-un-fedex-de-indianapolis
+        featured{array} /content/202104/19-rusia-rechaza-advertencias-occidentales-sobre-salud-de-navalni
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202104/16-chile-reporta-efectividad-del-67-de-vacuna-coronavac
+    featured{array} /content/202104/19-israelis-salen-a-la-calle-sin-mascarilla
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202104/16-chicago-publica-imagenes-de-muerte-de-adolescente-latino-a-manos-de-la-policia
+    featured{array} /content/202104/19-raul-castro-se-va-pero-cuba-seguira-misma-linea-politica
 }
 other{kmkv} {
     name Other (Internal)
