@@ -1,0 +1,44 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Por qu&eacute; hay una crisis humanitaria en Etiop&iacute;a?</strong></p>
+<ul>
+<li>Desde Noviembre del 2020 el pa&iacute;s entro en guerra luego de que el primer ministro del pa&iacute;s realizo una ofensiva militar en el norte del pa&iacute;s, acusando a los lideres politicos del area de organizar un ataque a una base militar, seg&uacute;n reporta NPR.</li>
+<li>Seg&uacute;n un reportero de NPR quien se encuentra en Etiopia, el conflicto originalmente era uno politico entre el gobierno actual de Etiopia y su gobierno anterior.</li>
+<li>Sin embargo, ahora este conflicto se ha convertido en uno etnico, entre los dos grupos mas grandes del pa&iacute;s, los Oromo y Amhara entrando en enfrentamientos directos.</li>
+<li>La violencia ha dejado a miles afectados e incontables muertes. <a href="https://www.aljazeera.com/news/2021/4/19/ethiopia-declares-state-of-emergency-in-amhara-amid-violence">Se ha declarado un estado de emergencia en el estado de Amhara</a>, <a href="https://www.bbc.com/news/topics/cwlw3xz047jt/ethiopia">los Estados Unidos han llamado para una expulsi&oacute;n inmediata de las tropas Eritrean luego de acusaciones de violaciones y violencia sexual</a>, <a href="https://www.reuters.com/world/africa/eighteen-killed-clashes-between-ethiopias-oromo-amhara-groups-2021-04-19/">y multiples grupos de rebeldes se han agr&eacute;dalo al conflicto</a>.</li>
+</ul>
+<p style="text-align: center;"><a href="https://www.npr.org/2021/04/20/988997494/updates-on-the-conflict-in-ethiopias-tigray-region" target="_blank" rel="noopener"><em><strong>Aqu&iacute; una entrevista por NPR sobre que esta sucediendo actualmente en el pa&iacute;s:&nbsp;</strong></em></a></p>
+}
+title La terrible crisis humanitaria en Etiopía
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/20-la-crisis-humanitaria-de-etiopia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Etiopía se sumerge en aún más conflictos armados, evolucionando su conflicto de uno politico a un étnico. Esto es lo que sabemos.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Etiopía<b>
+    text1 La crisis humanitaria en Etiopía
+    text2 Por NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
