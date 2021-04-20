@@ -27,18 +27,18 @@ text4
 customTop 
 media{kmkv} {
     kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
-    header /images/202104/headers/20-space-x-base-espacial.jpg
+    header /images/202104/headers/brasil-taza-mortalidad.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
     banksy /images/202006/10-banksy/banksy.jpg
     ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
 }
-description Brasil alcanzó la mayor tasa de mortalidad por covid-19 en America. Lea más. 
+description Brasil alcanzó la mayor tasa de mortalidad por covid-19 en America. Lea más.
 year 2021
 author AFP | NPN Noticias
 featured{kmkv} {
     title <b>Brasil y el covid-19 de America<b>
-    text1 Brasil alcanzó la mayor tasa de mortalidad por covid-19 en America. 
+    text1 Brasil alcanzó la mayor tasa de mortalidad por covid-19 en America.
     text2 Por AFP y NPN NOTICIAS
     pretitle LO IMPORTANTE:
     highlightColor #FBFF09
