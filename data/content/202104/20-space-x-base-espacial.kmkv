@@ -30,10 +30,7 @@ media{kmkv} {
     banksy /images/202006/10-banksy/banksy.jpg
     ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
 }
-description {
-SpaceX enviará a cuatro astronautas a la Estación Espacial Internacional (ISS) el jueves. Esto es lo que sabemos. 
-
-}
+description SpaceX enviará a cuatro astronautas a la Estación Espacial Internacional (ISS) el jueves. Esto es lo que sabemos.
 year 2021
 author AFP | NPN Noticias
 featured{kmkv} {
@@ -46,7 +43,7 @@ featured{kmkv} {
 type article
 subtitle 
 month 04
-tags{array} noticias-loimportante,noticias-politica
+tags{array} noticias-loimportante
 videoID 
 titlePoster 
 color #FBFF09

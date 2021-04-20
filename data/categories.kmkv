@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202104/19-raul-castro-se-va-pero-cuba-seguira-misma-linea-politica
+        featured{array} /content/202104/brasil-taza-mortalidad
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202104/19-rusia-rechaza-advertencias-occidentales-sobre-salud-de-navalni
+        featured{array} /content/202104/20-la-crisis-humanitaria-de-etiopia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202104/19-israelis-salen-a-la-calle-sin-mascarilla
+    featured{array} /content/202104/20-la-crisis-humanitaria-de-etiopia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
