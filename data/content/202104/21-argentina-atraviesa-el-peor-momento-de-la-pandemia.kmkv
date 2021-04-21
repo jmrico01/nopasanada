@@ -1,0 +1,58 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La ministra de Salud argentina, Carla Vizzotti, advirti&oacute; este mi&eacute;rcoles que el pa&iacute;s sudamericano enfrenta el peor momento de la pandemia y pidi&oacute; priorizar la salud sobre la pol&iacute;tica cuando la alcald&iacute;a de Buenos Aires resiste en la justicia al cierre temporal de escuelas que orden&oacute; el gobierno.</li>
+<li>"Necesitamos priorizar la salud por sobre la pol&iacute;tica y poner en valor, en jerarqu&iacute;a, el riesgo colectivo", dijo Vizzotti en conferencia de prensa.</li>
+<li>La ministra asegur&oacute; que "Argentina est&aacute; viviendo el peor momento de la pandemia desde el 3 de marzo del a&ntilde;o pasado. Es el momento de m&aacute;s riesgo", lo que fundament&oacute; en la velocidad exponencial de contagios y en el n&uacute;mero de ingresos en terapias intensivas, que alcanzaron el 75% de ocupaci&oacute;n en la regi&oacute;n metropolitana de Buenos Aires (AMBA).</li>
+<li>El sistema de salud est&aacute; "en riesgo de desborde", alert&oacute;.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El acumulado de infecciones supera los 2,7 millones y las muertes se elevan a casi 60.000, con 316 fallecimientos en la &uacute;ltima jornada para un pa&iacute;s de 45 millones de habitantes.&nbsp;</li>
+<li>El epicentro de los contagios es la capital argentina y su periferia (AMBA), donde habitan 15 millones de personas.</li>
+<li>El alcalde de Buenos Aires, el opositor de derecha Horacio Rodr&iacute;guez Larreta, se declar&oacute; en rebeld&iacute;a y orden&oacute; abrir las escuelas apoyado en un fallo judicial desafiando un decreto presidencial que ordenaba el pase a clases virtuales durante 15 d&iacute;as para disminuir la circulaci&oacute;n de personas.</li>
+<li>Larreta considera que "las escuelas no contagian" y hab&iacute;a justificado su oposici&oacute;n en que "la ciudad tiene autonom&iacute;a" para tomar decisiones en un caso que debe zanjar la Corte Suprema.</li>
+<li>"No se trata del riesgo individual de asistir a clases, sino del riesgo colectivo en un aglomerado urbano con transmisi&oacute;n comunitaria intensa del virus y velocidad acelerada", explic&oacute; la ministra.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>El decreto presidencial tambi&eacute;n orden&oacute; restringir la circulaci&oacute;n en el AMBA entre las 20H00 y las 06H00 hasta el 30 de abril.</p>
+<p>"Estamos buscando que se reduzca la velocidad de contagio y ese es el motivo sanitario de esa decisi&oacute;n que no se contrapone con ning&uacute;n otro derecho (...) Esta medida se toma en el AMBA porque es el epicentro de la pandemia", agreg&oacute;. "Cuando se dispara la curva (de contagios) es muy dif&iacute;cil interrumpirla".</p>
+<p>Tambi&eacute;n consider&oacute; un "hito" el inicio de la producci&oacute;n en Argentina de la vacuna Sputnik V, del laboratorio Gamaleya, cuyo primer lote con 21.000 dosis fue enviado a Rusia para un control de calidad.</p>
+<p>Se trata del primer pa&iacute;s de Am&eacute;rica Latina en producirla.</p>
+<p>"Es una gran noticia, tenemos que ser prudentes y esperar el control de calidad, tenemos claro la complejidad que tiene el proceso de producci&oacute;n", se&ntilde;al&oacute;.</p>
+<p>Argentina ha recibido casi 9 millones de vacunas de distintos laboratorios y ha aplicado unos 6,5 millones.</p>
+}
+title Argentina atraviesa el peor momento de la pandemia
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/21-argentina-atraviesa-el-peor-momento-de-la-pandemia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La ministra de Salud argentina, Carla Vizzotti, advirtió este miércoles que el país sudamericano enfrenta el peor momento de la pandemia y pidió priorizar la salud sobre la política cuando la alcaldía de Buenos Aires resiste en la justicia al cierre temporal de escuelas que ordenó el gobierno.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Argentina<b>
+    text1 Argentina atraviesa el peor momento de la pandemia
+    text2 Por NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

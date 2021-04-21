@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La polic&iacute;a de Columbus, en el estado de Ohio, en Estados Unidos, mat&oacute; a tiros a una adolescente negra que aparentemente atacaba con un cuchillo a otra persona, menos de una hora antes de que el expolic&iacute;a Derek Chauvin fuera declarado culpable del asesinato de George Floyd.</li>
+<li>La ciudad fue escenario de manifestaciones tras este incidente, que se produce en un contexto de protestas e indignaci&oacute;n contra el racismo y la violencia policial en Estados Unidos.</li>
+<li>Seg&uacute;n el jefe policial de la ciudad, Michael Woods, la polic&iacute;a recibi&oacute; una llamada de emergencia el martes por la tarde de una persona que tem&iacute;a ser atacada con un arma blanca.</li>
+<li>La polic&iacute;a public&oacute; adem&aacute;s una parte de la grabaci&oacute;n de la c&aacute;mara que llevaba el polic&iacute;a que mat&oacute; a la adolescente, identificada como Ma'Khia Bryant, de 16 a&ntilde;os, por los servicios de infancia del condado Franklin en Columbus.</li>
+<li>"Hemos pensado que era importante compartir con la comunidad, de ser transparentes sobre este incidente (...)" declar&oacute; Michael Woods</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las im&aacute;genes muestran a los polic&iacute;as llegando a un lugar donde se produce una pelea, en medio de un peque&ntilde;o grupo de espectadores. Una adolescente ataca a otra con lo que parece ser un cuchillo, se escuchan disparos y la joven se desploma.</li>
+<li>El alcalde Andrew Ginther calific&oacute; de "situaci&oacute;n horrible y de conmoci&oacute;n" la muerte de la joven, y habl&oacute; de "un d&iacute;a tr&aacute;gico para la ciudad de Columbus".</li>
+<li>Seg&uacute;n el alcalde, el polic&iacute;a --cuyo nombre no fue divulgado-- "actu&oacute; para proteger a otra joven de nuestra comunidad".</li>
+</ul>
+}
+title Adolescente negra muere a manos de la policía en Ohio
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/21-adolescente-negra-muere-a-manos-de-policia-en-ohio.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La policía de Columbus, en el estado de Ohio, en Estados Unidos, mató a tiros a una adolescente negra que aparentemente atacaba con un cuchillo a otra persona, menos de una hora antes de que el expolicía Derek Chauvin fuera declarado culpable del asesinato de George Floyd.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Estados Unidos<b>
+    text1 Adolescente negra muere a manos de la policía en Ohio
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
