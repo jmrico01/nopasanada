@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La polic&iacute;a rusa arrest&oacute; a al menos 1.784 personas en manifestaciones de apoyo al opositor encarcelado Alex&eacute;i Navalni en toda Rusia, indic&oacute; el jueves la oeneg&eacute; especializada OVD-Info.</li>
+<li>La v&iacute;spera, miles de manifestantes se congregaron por la noche para defender la liberaci&oacute;n de Alex&eacute;i Navalni, en huelga de hambre desde hace tres semanas y cuya salud preocupa a sus allegados. La movilizaci&oacute;n fue no obstante menor a la de las protestas que siguieron a su detenci&oacute;n, a principios de a&ntilde;o.</li>
+<li>Seg&uacute;n OVD-Info, la mayor&iacute;a de los arrestos -805 personas- tuvieron lugar en San Petersburgo, segunda ciudad de Rusia, donde se registraron varios casos de violencia policial.</li>
+<li>Al menos 84 manifestantes pasaron la noche detenidos, seg&uacute;n esta fuente</li>
+<li>En Mosc&uacute;, los manifestantes, concentrados en diferentes marchas, protestaron cerca del Kremlin y, despu&eacute;s, de la sede de los servicios de seguridad (FSB), sin que los agentes antidisturbios intervinieran.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Al menos 30 personas fueron arrestadas en la capital, seg&uacute;n OVD-Info.</li>
+<li>Tambi&eacute;n hubo detenidos en otras 95 ciudades, seg&uacute;n la organizaci&oacute;n, como en Ufa (119), Kaz&aacute;n (68) y Barnaul (58).</li>
+<li>Los simpatizantes del opositor convocaron estas marchas el mi&eacute;rcoles para hacerlas coincidir con el discurso sobre el estado de la naci&oacute;n del presidente, Vladimir Putin.</li>
+<li>En enero, m&aacute;s de 11.000 personas fueron detenidas en las protestas organizadas tras el arresto del opositor ruso.</li>
+<li>En aquel momento, Alex&eacute;i Navalni acababa de regresar de Alemania, donde se hab&iacute;a recuperado de un envenenamiento del que acusa al Kremlin. El activista fue detenido y encarcelado por malversaci&oacute;n.&nbsp;</li>
+</ul>
+}
+title Protestas  a favor de Navalni dejan 1.784 detenidos en Rusia
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/22-protestas-a-favor-de-navalni-en-rusia-deja-1784-detenidos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La policía rusa arrestó a al menos 1.784 personas en manifestaciones de apoyo al opositor encarcelado Alexéi Navalni en toda Rusia, indicó el jueves la oenegé especializada OVD-Info.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Protestas  a favor de Navalni dejan 1.784 detenidos en Rusia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

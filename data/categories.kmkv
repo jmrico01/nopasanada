@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202104/21-india-en-grave-crisis-sanitaria-con-record-de-muertes-y-contagios
+        featured{array} /content/202104/22-biden-aumenta-compromiso-de-eeuu-en-lucha-contra-cambio-climatico
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202104/21-argentina-atraviesa-el-peor-momento-de-la-pandemia
+        featured{array} /content/202104/22-india-bate-record-mundial-con-315000-casos-diarios
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202104/21-adolescente-negra-muere-a-manos-de-policia-en-ohio
+    featured{array} /content/202104/22-protestas-a-favor-de-navalni-en-rusia-deja-1784-detenidos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202104/21-demandan-a-tiktok-por-recopilar-datos-de-millones-de-ninos
+    featured{array} /content/202104/22-biden-aumenta-compromiso-de-eeuu-en-lucha-contra-cambio-climatico
 }
 other{kmkv} {
     name Other (Internal)
