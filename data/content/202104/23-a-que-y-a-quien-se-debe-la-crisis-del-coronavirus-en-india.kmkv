@@ -1,0 +1,73 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>India, azotada por una violenta ola de covid-19, no tiene suficientes camas de hospital para sus enfermos, necesita ox&iacute;geno y medicamentos, se&ntilde;ales claras de que su sistema de salud es arcaico y no ha recibido la financiaci&oacute;n suficiente.</li>
+<li>La pandemia provoca m&aacute;s de 2.000 muertos diarios en el segundo pa&iacute;s m&aacute;s poblado del mundo, con 1.300 millones de habitantes. Destacamos los factores que han conducido a esta crisis.</li>
+</ul>
+<p><strong>Alivio al inicio de a&ntilde;o&nbsp;&nbsp;</strong></p>
+<ul>
+<li>Cuando la pandemia golpeaba a muchos pa&iacute;ses a principios de 2021, India ve&iacute;a con alivio que el n&uacute;mero de contaminaciones diarias era de solamente 9.000 casos y menos de 80 muertos, con lo que se pens&oacute; que el pa&iacute;s quiz&aacute; superaba la enfermedad.</li>
+</ul>
+<p><strong>Inmunidad colectiva</strong></p>
+<ul>
+<li>Estudios serol&oacute;gicos sugirieron que una fuerte proporci&oacute;n de la poblaci&oacute;n presentaba anticuerpos y que India posiblemente hab&iacute;a logrado la "inmunidad colectiva". &nbsp;Tambi&eacute;n sugirieron que la juventud de la poblaci&oacute;n india y la gran exposici&oacute;n a otros agentes pat&oacute;genos aumentaron su resistencia al virus.</li>
+</ul>
+<p><strong>Optimismo prematuro&nbsp;</strong></p>
+<ul>
+<li>El pico epid&eacute;mico alcanzado en septiembre y la disminuci&oacute;n de contaminaciones alentaron a los gobiernos central y estatales a autorizar un retorno a una vida casi normal de las actividades.</li>
+<li>"Creo que una prematura declaraci&oacute;n de victoria dio a la poblaci&oacute;n un sentimiento err&oacute;neo de autosatisfacci&oacute;n" dice a la AFP Ramanan Laxminarayan, del Center for Disease Dynamics, Economic and Policy.</li>
+</ul>
+<p><strong>Aglomeraciones&nbsp;</strong></p>
+<ul>
+<li>Decenas de miles de agricultores se manifestaron contra las nuevas leyes agr&iacute;colas del gobierno nacionalista hind&uacute;. Y los masivos m&iacute;tines, as&iacute; como las elecciones regionales, tuvieron su responsabilidad en este rebrote epid&eacute;mico.</li>
+<li>A ello se a&ntilde;adieron las muchedumbres que asistieron a festivales religiosos como Durga Puja o Dussehra y sobre todo el de Kumbh Mela en Haridwar, en el Estado de Uttarakhand (norte), que congreg&oacute; a 25 millones de peregrinos hind&uacute;es desde enero, y que dura hasta fines de abril.</li>
+</ul>
+<p><strong>No anticipar&nbsp;</strong></p>
+<ul>
+<li>Las autoridades no aprovecharon los momentos de reflujo para reforzar el sistema sanitario indio.</li>
+<li>Hubiera sido necesario entonces anticipar y "crear reservas de medicamentos antivirales, pero eso no ocurri&oacute;" estima Raman Gaikwad, especialista de enfermedades infecciosas en el hospital Sahyadri de Pune.</li>
+<li>Los expertos hab&iacute;an advertido desde hace tiempo que India, como muchos pa&iacute;ses pobres, carec&iacute;a de suficiente ox&iacute;geno m&eacute;dico, vital para tratar los casos graves de covid-19.&nbsp;</li>
+</ul>
+<p><strong>La diplomacia de las vacunas&nbsp;</strong></p>
+<ul>
+<li>Adem&aacute;s, en pleno reflujo del virus en el pa&iacute;s, y en un impulso de generosidad y de "diplomacia de las vacunas", India export&oacute; decenas de millones de dosis AstraZeneca fabricadas en su territorio.</li>
+</ul>
+<p><strong>La variante&nbsp;</strong></p>
+<ul>
+<li>Muchos atribuyen ahora a la "doble mutaci&oacute;n" del virus este rebrote exponencial, con 4 millones de nuevas contaminaciones registradas solamente en el mes de abril en India.</li>
+</ul>
+}
+title ¿A qué y a quién se debe la crisis del coronavirus en India?
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/23-a-que-y-a-quien-se-debe-la-crisis-del-coronavirus-en-india.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description India, azotada por una violenta ola de covid-19, no tiene suficientes camas de hospital para sus enfermos, necesita oxígeno y medicamentos, señales claras de que su sistema de salud es arcaico y no ha recibido la financiación suficiente.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>India<b>
+    text1 ¿A qué y a quién se debe la crisis del coronavirus en India?
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Costa Rica inaugur&oacute; este jueves un potente radar capaz de detectar objetos de hasta 2 cent&iacute;metros transitando en la &oacute;rbita baja de la Tierra y que son una amenaza para la seguridad de naves y sat&eacute;lites.</li>
+<li>El instrumento fue desarrollado por la firma de Sillicon Valley LeoLabs y su socia local Ad Astra. Est&aacute; localizado en el poblado de Filadelfia de Carrillo, provincia de Guanacaste, unos 200 km al noroeste de San Jos&eacute;. El monto de inversi&oacute;n no fue revelado.</li>
+<li>"A s&oacute;lo nueve meses del inicio de los trabajos en Costa Rica es muy gratificante anunciar el estado totalmente operacional del radar espacial comercial m&aacute;s avanzado de su clase en cualquier lugar del planeta", dijo a la prensa Dan Ceperley, cofundador y director ejecutivo de LeoLabs.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El Radar Espacial Costa Rica, como ha sido bautizado, tiene "la habilidad sin precedentes de dar seguimiento a objetos, incluidos sat&eacute;lites activos y deshechos orbitales de hasta 2 cent&iacute;metros, que representan la mayor&iacute;a de los riesgos" en la &oacute;rbita baja de la Tierra(LEO, por sus siglas en ingl&eacute;s), inform&oacute; el gobierno.</li>
+<li>"Estos riesgos son de vital importancia para toda la base de clientes de LeoLabs, incluyendo operadores de sat&eacute;lites, agencias reguladoras y del espacio, empresas aseguradoras y la comunidad cient&iacute;fica", se&ntilde;al&oacute; por su parte la firma en un comunicado.&nbsp;</li>
+<li>El exastronauta de la NASA y cofundador de LeoLabs, Edward Lu, explic&oacute; que cada servicio que proveen, "entre ellos la prevenci&oacute;n de colisiones o el seguimiento a lanzamientos tempranos, se beneficia de los datos adicionales que est&aacute;n fluyendo desde el Radar Espacial Costa Rica".</li>
+<li>El aparato permite cubrir la &oacute;rbita de la Tierra cerca de la l&iacute;nea ecuatorial, aprovechando la localizaci&oacute;n del pa&iacute;s.</li>
+<li>"En combinaci&oacute;n con nuestros otros radares, el Radar Espacial Costa Rica expande nuestra capacidad para suministrar un mapa en tiempo real de m&aacute;s objetos que se encuentran en la LEO (...) Esta es una contribuci&oacute;n importante a la sostenibilidad del espacio y a la seguridad de los vuelos", agreg&oacute; Lu.</li>
+<li>"Es exactamente el tipo de proyecto que facilitar&aacute; el desarrollo cient&iacute;fico, empoderar&aacute; a los j&oacute;venes y mejorar&aacute; la seguridad de los vuelos espaciales", dijo por su parte el astronauta costarricense Franklin Chang-D&iacute;az, l&iacute;der de Ad Astra, la otra firma participante en el proyecto.</li>
+</ul>
+}
+title Costa Rica se convierte en vigilante espacial con potente radar
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/23-costa-rica-se-convierte-en-vigilante-espacial-con-potente-radar.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Costa Rica inauguró este jueves un potente radar capaz de detectar objetos de hasta 2 centímetros transitando en la órbita baja de la Tierra y que son una amenaza para la seguridad de naves y satélites.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Costa Rica<b>
+    text1 Costa Rica se convierte en vigilante espacial con potente radar
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
