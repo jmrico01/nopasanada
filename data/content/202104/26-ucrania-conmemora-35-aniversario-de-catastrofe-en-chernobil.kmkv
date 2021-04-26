@@ -1,0 +1,57 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Ucrania conmemor&oacute; este lunes el peor accidente nuclear de la historia, ocurrido en Chern&oacute;bil hace 35 a&ntilde;os, que contamin&oacute; una buena parte de Europa, pero cuya planta atrae actualmente a turistas de todo el mundo y busca su inscripci&oacute;n en la Unesco.</li>
+<li>"La explosi&oacute;n en la central de Chern&oacute;bil y sus consecuencias transformaron el mundo", declar&oacute; el presidente ucraniano, Volodimir Zelenski, durante una visita a la zona de exclusi&oacute;n de la central, de un radio de 30 kil&oacute;metros.</li>
+<li>La tragedia "mostr&oacute; a la humanidad que hay desgracias que nos afectan a cada uno y a todos juntos", agreg&oacute; el mandatario, que llam&oacute; a la comunidad internacional a "reforzar la seguridad" para evitar "cat&aacute;strofes similares".</li>
+<li>El 26 de abril de 1986, a las 01H23, el reactor n&uacute;mero 4 de Chern&oacute;bil, situado a un centenar de kil&oacute;metros de Kiev, explot&oacute; durante una prueba de seguridad.</li>
+<li>Durante 10 d&iacute;as, el combustible nuclear ardi&oacute; y liber&oacute; a la atm&oacute;sfera elementos radioactivos que contaminaron, seg&uacute;n algunas estimaciones, hasta tres cuartas partes de Europa, sobre todo las entonces rep&uacute;blicas sovi&eacute;ticas de Ucrania, Bielorrusia y Rusia.</li>
+<li>Las autoridades de la URSS intentaron esconder este accidente. El l&iacute;der sovi&eacute;tico Mija&iacute;l Gorbachov no habl&oacute; p&uacute;blicamente hasta el 14 de mayo.</li>
+<li>Unas 116.000 personas fueron evacuadas en 1986 de los alrededores de la central, que siguen actualmente pr&aacute;cticamente inhabitados. En los a&ntilde;os posteriores, 230.000 siguieron sus pasos.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Durante cuatro a&ntilde;os, unas 600.000 personas se desplegaron en el lugar de la cat&aacute;strofe con escasa o ninguna protecci&oacute;n para sofocar el incendio, aislar el reactor con una cubierta de hormig&oacute;n y limpiar los alrededores.</li>
+<li>El balance de v&iacute;ctimas de la cat&aacute;strofe sigue siendo objeto de debate. El comit&eacute; cient&iacute;fico de la ONU (Unscear) solo reconoce oficialmente una treintena de muertos entre los operarios y los bomberos que fallecieron por la radiaci&oacute;n despu&eacute;s de la explosi&oacute;n.</li>
+<li>En 2006, la oeneg&eacute; Greenpeace estim&oacute; en unos 100.000 el n&uacute;mero de muertos provocados por los efectos radiactivos de la cat&aacute;strofe nuclear.</li>
+<li>La central de Chern&oacute;bil mantuvo su producci&oacute;n de electricidad hasta diciembre de 2000, cuando la presi&oacute;n de los occidentales logr&oacute; apagar su &uacute;ltimo reactor operativo.</li>
+<li>Tras a&ntilde;os de dilaci&oacute;n, en 2019 entr&oacute; en funcionamiento una gigantes b&oacute;veda de acero estanca, una estructura que cubri&oacute; el agrietado e inestable "sarc&oacute;fago" de hormig&oacute;n instalado sobre el reactor da&ntilde;ado y que debe garantizar su seguridad durante los pr&oacute;ximos 100 a&ntilde;os.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Aunque las autoridades estiman que los humanos no podr&aacute;n vivir all&iacute; de forma segura hasta dentro de 24.000 a&ntilde;os, el lugar atrae cada vez a m&aacute;s turistas &aacute;vidos de emociones y Kiev desea que se incluya en la lista del Patrimonio Mundial de la Unesco.</p>
+<p>La ausencia casi total de actividad humana en la zona permiti&oacute; que proliferaran la flora y la fauna. As&iacute;, se pueden encontrar linces, alces, pigargos de cola blanca e incluso osos, as&iacute; como decenas de lobos.</p>
+}
+title Ucrania conmemora 35º aniversario de Chernóbil
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/26-ucrania-conmemora-35-aniversario-de-catastrofe-en-chernobil.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Ucrania conmemoró este lunes el peor accidente nuclear de la historia, ocurrido en Chernóbil hace 35 años, que contaminó una buena parte de Europa, pero cuya planta atrae actualmente a turistas de todo el mundo y busca su inscripción en la Unesco.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Ucrania conmemora 35º aniversario de Chernóbil
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
