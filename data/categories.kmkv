@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202104/22-biden-aumenta-compromiso-de-eeuu-en-lucha-contra-cambio-climatico
+        featured{array} /content/202104/27-crisis-por-nuevo-retiro-de-fondos-de-pensiones-en-chile
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202104/22-india-bate-record-mundial-con-315000-casos-diarios
+        featured{array} /content/202104/27-pandemia-dispara-miseria-en-buenos-aires
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202104/22-protestas-a-favor-de-navalni-en-rusia-deja-1784-detenidos
+    featured{array} /content/202104/27-bueyes-aran-tierra-ante-sequia-de-diesel-en-venezuela
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202104/22-biden-aumenta-compromiso-de-eeuu-en-lucha-contra-cambio-climatico
+    featured{array} /content/202104/27-brasil-rechaza-importar-vacuna-rusa
 }
 other{kmkv} {
     name Other (Internal)
