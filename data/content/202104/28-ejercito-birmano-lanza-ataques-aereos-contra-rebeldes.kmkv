@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El ej&eacute;rcito de Birmania lanz&oacute; este mi&eacute;rcoles, por segunda jornada consecutiva, ataques a&eacute;reos en el sureste contra una de las principales facciones rebeldes, muy combativa contra la junta militar desde el golpe de Estado del 1 de febrero.</li>
+<li>"Dos aviones del Ej&eacute;rcito birmano realizaron ataques" en una zona controlada por la Uni&oacute;n Nacional Karen (KNU), indic&oacute; el gobernador de la provincia fronteriza tailandesa de Mae Hong Son, Sithichai Jindaluang, sin precisar si hubo v&iacute;ctimas.</li>
+<li>Decenas de birmanos huyeron de la violencia y cruzaron la frontera par refugiarse en el lado tailand&eacute;s.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El martes, la KNU, que condena la sangrienta represi&oacute;n de la junta militar contra quienes se oponen al golpe de Estado, destruy&oacute; una base militar ubicada en esa regi&oacute;n.</li>
+<li>A finales de marzo, esta facci&oacute;n rebelde ya se apoder&oacute; de una base militar y mat&oacute; a diez soldados.</li>
+<li>El ej&eacute;rcito respondi&oacute; entonces con ataques a&eacute;reos contra los bastiones de la facci&oacute;n, por primera vez en veinte a&ntilde;os en esta regi&oacute;n. Unos 24.000 civiles abandonaron sus hogares tras esos combates, seg&uacute;n oeneg&eacute;s locales.</li>
+<li>Tambi&eacute;n estallaron enfrentamientos este mi&eacute;rcoles entre los militares birmanos y otra facci&oacute;n &eacute;tnica, Ej&eacute;rcito Independentista de Kachin (KIA), inform&oacute; Naw Bu, portavoz de ese grupo, quien afirm&oacute; que hubo muertos en ambos bandos, sin precisar el n&uacute;mero.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Las tensiones entre los militares y algunos grupos armados se intensificaron desde que el ej&eacute;rcito derrocara el gobierno civil liderado por la premio Nobel de la Paz Aung San Suu Kyi.</p>
+<p>M&aacute;s de 750 civiles murieron por disparos de las fuerzas de seguridad durante los &uacute;ltimos meses, seg&uacute;n la Asociaci&oacute;n de Ayuda a los Presos Pol&iacute;ticos (AAPP).</p>
+<p>La junta militar, que considera a esta oeneg&eacute; como una organizaci&oacute;n ilegal, reporta un historial mucho m&aacute;s leve, calificando a sus oponentes como "alborotadores" involucrados en "actos de terrorismo".</p>
+}
+title Ejército birmano lanza ataques aéreos contra rebeldes
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/28-ejercito-birmano-lanza-ataques-aereos-contra-rebeldes.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El ejército de Birmania lanzó este miércoles, por segunda jornada consecutiva, ataques aéreos en el sureste contra una de las principales facciones rebeldes, muy combativa contra la junta militar desde el golpe de Estado del 1 de febrero.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Birmania<b>
+    text1 Ejército birmano lanza ataques aéreos contra rebeldes
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
