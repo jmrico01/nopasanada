@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Unas 400 toneladas de petr&oacute;leo se derramaron en el Mar Amarillo tras la colisi&oacute;n entre un petrolero y un carguero frente al puerto chino de Qingdao (este), anunciaron las autoridades mar&iacute;timas el jueves.&nbsp;</li>
+<li>El petrolero "A Symphony", con pabell&oacute;n liberiano, choc&oacute; el martes por la ma&ntilde;ana con el buque cisterna "Sea Justice", que navega bajo el pabell&oacute;n de Panam&aacute;, a unos 75 km frente a la costa de Qingdao, el primer puerto de hidrocarburos de China.</li>
+<li>Seg&uacute;n un comunicado de la administraci&oacute;n de seguridad mar&iacute;tima de la provincia de Shandong, de la que depende Qingdao, "la cantidad de petr&oacute;leo vertido en el mar es de unas 400 toneladas y las operaciones de limpieza de emergencia se llevan a cabo en buen orden".</li>
+<li>En el comunicado se indica que se enviaron 12 buques de limpieza.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Seg&uacute;n un responsable de la misma administraci&oacute;n citado por el diario chino Global Times, el petrolero transporta una "soluci&oacute;n bituminosa".&nbsp;</li>
+<li>"El impacto sobre el medio ambiente se reducir&aacute; al m&iacute;nimo", asegur&oacute; este responsable al peri&oacute;dico.</li>
+<li>La empresa de gesti&oacute;n del petr&oacute;leo Goodwood Ship Management inform&oacute; el martes que las operaciones de limpieza se complican por la falta de visibilidad en la zona y que cooperaba con las autoridades chinas en la investigaci&oacute;n de los or&iacute;genes del accidente.</li>
+<li>La colisi&oacute;n caus&oacute; una fuga en los dep&oacute;sitos del petrolero y en los tanques de lastre de agua que sirven para equilibrarlo, seg&uacute;n Goodwood, pero no hubo v&iacute;ctimas a bordo.</li>
+</ul>
+}
+title Cuatrocientas toneladas de petróleo derramadas frente a costas de China
+day 29
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202104/headers/29-cuatrocientas-toneladas-de-petroleo-derramadas-frente-a-costas-de-china.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Unas 400 toneladas de petróleo se derramaron en el Mar Amarillo tras la colisión entre un petrolero y un carguero frente al puerto chino de Qingdao (este), anunciaron las autoridades marítimas el jueves.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 Cuatrocientas toneladas de petróleo derramadas frente a costas de China
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
