@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202104/29-criticas-a-bolsonaro-en-debate-del-parlamento-europeo-sobre-pandemia
+        featured{array} /content/202104/30-cuatro-activistas-de-hong-kong-se-declaran-culpables-de-participar-en-vigilia-de-tiananmen
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202104/29-ambiciosa-campana-de-vacunacion-en-india-enfrenta-problemas
+        featured{array} /content/202104/30-ue-acusa-a-apple-de-competencia-desleal-en-distribucion-de-musica
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202104/29-desinformacion-sobre-posible-futura-canciller-en-alemania
+    featured{array} /content/202104/30-estampida-en-peregrinacion-judia-en-israel-deja-44-muertos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202104/29-criticas-a-bolsonaro-en-debate-del-parlamento-europeo-sobre-pandemia
+    featured{array} /content/202104/30-llega-a-india-primer-cargamento-de-ayuda-medica-de-eeuu
 }
 other{kmkv} {
     name Other (Internal)
