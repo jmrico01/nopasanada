@@ -1,0 +1,42 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>17 personas, 16 civiles y un polic&iacute;a han muerto y m&aacute;s de 800 quedaron heridas por los disturbios que siguieron a cinco d&iacute;as de masivas protestas en Colombia contra un proyecto de reforma tributaria promovido por el gobierno de Iv&aacute;n Duque, informaron autoridades este lunes.</li>
+<li>Presionado por las manifestaciones en las calles, el presidente Duque orden&oacute; el domingo retirar la propuesta que se debat&iacute;a con escepticismo en el Congreso, donde un sector amplio la rechazaba por castigar a la clase media y ser inoportuna en plena crisis desatada por la pandemia.</li>
+</ul>
+<p><span style="text-decoration: underline;"><em><strong>Historia en desarollo&nbsp;</strong></em></span></p>
+}
+title URGENTE: 17 personas, 16 civiles y un policía han muerto durante protestas en Colombia
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202105/headers/030521-protestas-colombia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description URGENTE: 17 personas, 16 civiles y un policía han muerto y más de 800 quedaron heridas por los disturbios que siguieron a cinco días de masivas protestas en Colombia | Lea más
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>URGENTE<b>
+    text1 Al menos 17 muertos y 800 heridos durante cinco días de disturbios en Colombia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle Protestas en Colombia dejan muertes y heridos
+month 05
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
