@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202104/30-cuatro-activistas-de-hong-kong-se-declaran-culpables-de-participar-en-vigilia-de-tiananmen
+        featured{array} /content/202105/4-kamala-harris-dice-que-eeuu-debe-responder-ante-destitucion-de-jueces-en-el-salvador
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202104/30-ue-acusa-a-apple-de-competencia-desleal-en-distribucion-de-musica
+        featured{array} /content/202105/5-conflicto-en-etiopia-separa-a-miles-de-ninos-de-sus-padres
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202104/30-estampida-en-peregrinacion-judia-en-israel-deja-44-muertos
+    featured{array} /content/202105/4-duque-saca-militares-a-calles-de-colombia-para-reprimir-protestas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202104/30-llega-a-india-primer-cargamento-de-ayuda-medica-de-eeuu
+    featured{array} /content/202105/4-caida-del-metro-en-ciudad-de-mexico-deja-23-muertos-y-70-heridos
 }
 other{kmkv} {
     name Other (Internal)
