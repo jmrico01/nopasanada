@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/4-kamala-harris-dice-que-eeuu-debe-responder-ante-destitucion-de-jueces-en-el-salvador
+        featured{array} /content/202105/6-escocia-londres-y-el-muro-rojo-laborista-en-juego-en-elecciones-britanicas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/5-conflicto-en-etiopia-separa-a-miles-de-ninos-de-sus-padres
+        featured{array} /content/202105/6-aumenta-presion-contra-duque-tras-una-semana-de-protestas-en-colombia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/4-duque-saca-militares-a-calles-de-colombia-para-reprimir-protestas
+    featured{array} /content/202105/6-presidente-de-filipinas-ordena-arrestar-a-quienes-usen-mal-la-mascarilla
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202105/4-caida-del-metro-en-ciudad-de-mexico-deja-23-muertos-y-70-heridos
+    featured{array} /content/202105/6-eeuu-apuesta-por-liberar-patentes-de-vacunas-anticovid
 }
 other{kmkv} {
     name Other (Internal)
