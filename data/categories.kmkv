@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/6-escocia-londres-y-el-muro-rojo-laborista-en-juego-en-elecciones-britanicas
+        featured{array} /content/202105/7-historica-victoria-de-conservadores-britanicos-bastion-laborista
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/6-aumenta-presion-contra-duque-tras-una-semana-de-protestas-en-colombia
+        featured{array} /content/202105/7-duque-llama-a-dialogo-nacional-por-protestas-en-colombia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/6-presidente-de-filipinas-ordena-arrestar-a-quienes-usen-mal-la-mascarilla
+    featured{array} /content/202105/7-covid-19-amenaza-temporada-de-ascension-al-everest
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202105/6-eeuu-apuesta-por-liberar-patentes-de-vacunas-anticovid
+    featured{array} /content/202105/7-china-dice-cohete-fuera-de-control-representa-bajo-riesgo
 }
 other{kmkv} {
     name Other (Internal)
