@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/7-historica-victoria-de-conservadores-britanicos-bastion-laborista
+        featured{array} /content/202105/10-boris-johnson-investigado-por-lujosas-vacaciones-en-el-caribe
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/7-duque-llama-a-dialogo-nacional-por-protestas-en-colombia
+        featured{array} /content/202105/10-nueve-indigenas-heridos-de-bala-durante-protesta-en-colombia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/7-covid-19-amenaza-temporada-de-ascension-al-everest
+    featured{array} /content/202105/10-nuevos-choques-en-jerusalen-dejan-mas-de-300-heridos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202105/7-china-dice-cohete-fuera-de-control-representa-bajo-riesgo
+    featured{array} /content/202105/10-iglesias-alemanas-bendicen-parejas-del-mismo-sexo-desafiando-al-vaticano
 }
 other{kmkv} {
     name Other (Internal)
