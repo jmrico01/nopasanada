@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/10-boris-johnson-investigado-por-lujosas-vacaciones-en-el-caribe
+        featured{array} /content/202105/11-rusia-prepara-ley-para-excluir-de-elecciones-a-partidarios-de-navalni
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/10-nueve-indigenas-heridos-de-bala-durante-protesta-en-colombia
+        featured{array} /content/202105/11-bombardeos-entre-gaza-e-israel-deja-26-palestinos-y-2-israelis-muertos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/10-nuevos-choques-en-jerusalen-dejan-mas-de-300-heridos
+    featured{array} /content/202105/11-inedita-eleccion-paritaria-de-constituyentes-en-chile
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202103/19-audio-vive-su-edad-de-oro-impulsado-por-el-podcast
+        featured{array} /content/202105/11-legado-de-bob-marley-vive-cuatro-decadas-despues-de-su-muerte
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202105/10-iglesias-alemanas-bendicen-parejas-del-mismo-sexo-desafiando-al-vaticano
+    featured{array} /content/202105/11-bombardeos-entre-gaza-e-israel-deja-26-palestinos-y-2-israelis-muertos
 }
 other{kmkv} {
     name Other (Internal)
