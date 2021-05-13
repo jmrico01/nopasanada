@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202011/23-concentracion-record-de-co2-en-atmosfera-pese-a-confinamientos
+        featured{array} /content/202105/13-diputados-brasilenos-aprueban-polemica-flexibilizacion-de-reglas-ambientales
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/12-enviado-de-eeuu-dice-que-el-salvador-debe-apegarse-a-la-constitucion
+        featured{array} /content/202105/13-manifestantes-exigen-cambio-extremo-de-la-policia-en-colombia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/12-enfrentamientos-entre-israel-y-palestinos-dejan-58-muertos
+        featured{array} /content/202105/13-israel-intensifica-bombardeos-en-gaza-y-aumentan-disturbios
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/12-india-supero-las-250000-muertes-por-covid-19-pero-se-duda-sobre-numero-oficial
+    featured{array} /content/202105/13-diputados-brasilenos-aprueban-polemica-flexibilizacion-de-reglas-ambientales
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/11-legado-de-bob-marley-vive-cuatro-decadas-despues-de-su-muerte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202105/12-enfrentamientos-entre-israel-y-palestinos-dejan-58-muertos
+    featured{array} /content/202105/13-israel-intensifica-bombardeos-en-gaza-y-aumentan-disturbios
 }
 other{kmkv} {
     name Other (Internal)
