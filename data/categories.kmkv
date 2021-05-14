@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/13-manifestantes-exigen-cambio-extremo-de-la-policia-en-colombia
+        featured{array} /content/202105/14-bolsonaro-bajo-presion-intenta-movilizar-ultraderecha-brasilena
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/13-israel-intensifica-bombardeos-en-gaza-y-aumentan-disturbios
+        featured{array} /content/202105/14-israel-sigue-bombardeando-gaza
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/13-diputados-brasilenos-aprueban-polemica-flexibilizacion-de-reglas-ambientales
+    featured{array} /content/202105/14-inglaterra-continua-con-desconfinamiento-pese-a-brotes-de-cepa-india
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/11-legado-de-bob-marley-vive-cuatro-decadas-despues-de-su-muerte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202105/13-israel-intensifica-bombardeos-en-gaza-y-aumentan-disturbios
+    featured{array} /content/202105/14-bolsonaro-bajo-presion-intenta-movilizar-ultraderecha-brasilena
 }
 other{kmkv} {
     name Other (Internal)
