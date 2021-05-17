@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/14-israel-sigue-bombardeando-gaza
+        featured{array} /content/202105/17-enfrentamientos-entre-israel-y-palestina
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/14-inglaterra-continua-con-desconfinamiento-pese-a-brotes-de-cepa-india
+    featured{array} /content/202105/17-crisis-en-libano-deja-muchos-ninos-sin-acceso-a-educacion
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/11-legado-de-bob-marley-vive-cuatro-decadas-despues-de-su-muerte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202105/14-bolsonaro-bajo-presion-intenta-movilizar-ultraderecha-brasilena
+    featured{array} /content/202105/17-colombia-en-crisis-rostros-jovenes-del-descontento
 }
 other{kmkv} {
     name Other (Internal)
