@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Egipto decidi&oacute; enviar ayuda humanitaria a la Franja de Gaza, donde m&aacute;s de 200 palestinos murieron en los bombardeos israel&iacute;es desde el 10 de mayo, y anunci&oacute; que consagrar&aacute; 500 millones de euros a la reconstrucci&oacute;n, informaron autoridades.</li>
+<li>"Egipto va a suministrar 500 millones de d&oacute;lares para la reconstrucci&oacute;n de la Franja de Gaza tras los acontecimientos recientes y empresas egipcias realizar&aacute;n las obras", dijo el portavoz de la presidencia en Facebook.</li>
+<li>Por su parte, la ministra de Salud, Hala Zayed, dijo que el env&iacute;o de ayuda de un valor de 14 millones de libras egipcias (730.000 euros, 891.000 d&oacute;lares) incluye 65 toneladas de "suministros quir&uacute;rgicos", incluidos "cilindros de ox&iacute;geno, jeringas, antibi&oacute;ticos y pomadas para quemaduras".</li>
+<li>El lunes se enviaron 26 camiones de ayuda alimentaria a este territorio palestino de dos millones de habitantes que viven bajo un estricto bloqueo israel&iacute; desde hace casi 15 a&ntilde;os, seg&uacute;n una fuente fronteriza.</li>
+<li>Adem&aacute;s se movilizaron 50 ambulancias para trasladar heridos, seg&uacute;n la misma fuente.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El lunes, los bombardeos israel&iacute;es destruyeron la &uacute;nica cl&iacute;nica que realizaba test de covid-19 en la Franja de Gaza y da&ntilde;aron las instalaciones de la Media Luna Roja de C&aacute;tar.</li>
+<li>Seg&uacute;n las autoridades locales de este enclave pobre y densamente poblado controlado por el movimiento islamista Ham&aacute;s, 213 personas han muerto, incluidos al menos 61 ni&ntilde;os, y m&aacute;s de 1.440 han resultado heridas desde el 10 de mayo.</li>
+<li>El conflicto amenaza con provocar una crisis humanitaria, ya que casi 40.000 palestinos fueron desplazados y 2.500 perdieron sus hogares en Gaza, seg&uacute;n la ONU.</li>
+<li>El puesto fronterizo de Rafah, en la frontera con Egipto, es el &uacute;nica salida de Gaza que no est&aacute; controlada por Israel. El presidente egipcio, Abdel Fatah al Sisi, orden&oacute; el domingo su apertura para poder trasladar heridos desde Gaza a los hospitales de Egipto.</li>
+<li>El ministerio de Salud egipcio agreg&oacute; que 11 hospitales, incluidos seis en El Cairo, con una capacidad de m&aacute;s de 900 camas y m&aacute;s de 3.600 m&eacute;dicos y enfermeras, van a tratar a los palestinos heridos.</li>
+</ul>
+}
+title Egipto envía ayuda a Franja de Gaza y promete financiar reconstrucción
+day 18
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202105/headers/18-egipto-envia-ayuda-a-franja-de-gaza-y-promete-financiar-reconstruccion.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Egipto decidió enviar ayuda humanitaria a la Franja de Gaza, donde más de 200 palestinos murieron en los bombardeos israelíes desde el 10 de mayo, y anunció que consagrará 500 millones de euros a la reconstrucción, informaron autoridades.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Egipto<b>
+    text1 Egipto envía ayuda a Franja de Gaza y promete financiar reconstrucción
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
