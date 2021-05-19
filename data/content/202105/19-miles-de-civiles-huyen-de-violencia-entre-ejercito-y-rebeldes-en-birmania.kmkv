@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Los habitantes de la regi&oacute;n de Mindat, en el oeste de Birmania denunciaron este mi&eacute;rcoles que est&aacute;n atrapados desde hace d&iacute;as en los combates entre ej&eacute;rcito y rebeldes que ya han dejado miles de desplazados en los &uacute;ltimos d&iacute;as, seg&uacute;n la ONU.</li>
+<li>Mindat, en las monta&ntilde;as del estado Chin, fronterizo con India y Banglad&eacute;s, fue escenario en estos d&iacute;as de enfrentamientos entre el ej&eacute;rcito y una milicia insurgente, llamada Chinland Defence Force (CDF).</li>
+<li>Los militares, para hacer huir a los insurgentes, atacaron la ciudad con artiller&iacute;a y cortaron el suministro de agua, seg&uacute;n un portavoz de la CDF.</li>
+<li>"Miles" de habitantes huyeron, seg&uacute;n la Oficina de Coordinaci&oacute;n para Asuntos Humanitarios de la ONU (OCHA, en ingl&eacute;s). Otros, en su mayor&iacute;a ni&ntilde;os y ancianos, se vieron obligados a quedarse y penan para encontrar comida y agua.</li>
+<li>"Dependemos del gobierno para el suministro de agua. Si queremos cocinar tenemos que dejar de lavarnos", dijo un habitante.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Manifestaciones, huelgas, aumento de tensi&oacute;n entre militares y grupos &eacute;tnicos azotan Birmania desde el golpe de Estado militar del 1 de febrero que depuso al gobierno de Aung San Suu Kyi.</li>
+<li>M&aacute;s de 800 civiles han muerto desde entonces en los enfrentamientos con las fuerzas de seguridad y los detractores de la junta han instaurado milicias locales precariamente armadas para proteger sus pueblos de los militares.</li>
+<li>Seg&uacute;n OCHA, hay "civiles muertos y heridos", pero el acceso del personal humanitario a los "civiles que huyen y a los que se han quedado en sus casas es dif&iacute;cil debido a la inseguridad".</li>
+<li>En el norte y este, decenas de miles de personas han tenido que huir debido a los enfrentamientos desde mediados de marzo.</li>
+<li>La junta tom&oacute; el poder argumentando irregularidades en las legislativas de noviembre de 2020, en las que gan&oacute; ampliamente el partido de Aung San Suu Kyi.</li>
+</ul>
+}
+title Miles de civiles huyen de violencia entre ejército y rebeldes en Birmania
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202105/headers/19-miles-de-civiles-huyen-de-violencia-entre-ejercito-y-rebeldes-en-birmania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los habitantes de la región de Mindat, en el oeste de Birmania denunciaron este miércoles que están atrapados desde hace días en los combates entre ejército y rebeldes que ya han dejado miles de desplazados en los últimos días, según la ONU.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Birmania<b>
+    text1 Miles de civiles huyen de violencia entre ejército y rebeldes en Birmania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
