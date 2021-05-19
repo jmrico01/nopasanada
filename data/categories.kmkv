@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/14-bolsonaro-bajo-presion-intenta-movilizar-ultraderecha-brasilena
+        featured{array} /content/202105/19-miles-de-civiles-huyen-de-violencia-entre-ejercito-y-rebeldes-en-birmania
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/17-enfrentamientos-entre-israel-y-palestina
+        featured{array} /content/202105/19-bielorrusos-atraviesan-bosque-para-huir-del-horror
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/17-crisis-en-libano-deja-muchos-ninos-sin-acceso-a-educacion
+    featured{array} /content/202105/19-ministro-de-medio-ambiente-de-brasil-sospechos-de-contrabando-de-madera
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/11-legado-de-bob-marley-vive-cuatro-decadas-despues-de-su-muerte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202105/17-colombia-en-crisis-rostros-jovenes-del-descontento
+    featured{array} /content/202105/19-israel-no-descarta-ir-hasta-el-final-contra-hamas
 }
 other{kmkv} {
     name Other (Internal)
