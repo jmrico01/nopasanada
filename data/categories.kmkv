@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202105/13-diputados-brasilenos-aprueban-polemica-flexibilizacion-de-reglas-ambientales
+        featured{array} /content/202105/20-iceberg-mas-grande-del-mundo-se-separo-de-antartida
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/19-miles-de-civiles-huyen-de-violencia-entre-ejercito-y-rebeldes-en-birmania
+        featured{array} /content/202105/20-candidatas-trans-luchan-contra-discriminacion-en-elecciones-mexicanas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/19-bielorrusos-atraviesan-bosque-para-huir-del-horror
+        featured{array} /content/202105/20-nuevas-protestas-anteceden-dialogos-para-superar-crisis-social-en-colombia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/19-ministro-de-medio-ambiente-de-brasil-sospechos-de-contrabando-de-madera
+    featured{array} /content/202105/20-ganaderos-de-argentina-en-huelga-contra-cese-de-exportaciones-de-carne
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/11-legado-de-bob-marley-vive-cuatro-decadas-despues-de-su-muerte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202105/19-israel-no-descarta-ir-hasta-el-final-contra-hamas
+    featured{array} /content/202105/20-iceberg-mas-grande-del-mundo-se-separo-de-antartida
 }
 other{kmkv} {
     name Other (Internal)
