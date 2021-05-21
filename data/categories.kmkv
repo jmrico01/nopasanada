@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/20-candidatas-trans-luchan-contra-discriminacion-en-elecciones-mexicanas
+        featured{array} /content/202105/21-once-dias-de-conflicto-entre-israel-y-hamas-en-cifras
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/20-nuevas-protestas-anteceden-dialogos-para-superar-crisis-social-en-colombia
+        featured{array} /content/202105/21-no-quiero-que-me-vendas-el-comercio-de-ninas-indigenas-en-mexico
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/20-ganaderos-de-argentina-en-huelga-contra-cese-de-exportaciones-de-carne
+    featured{array} /content/202105/21-sobremortalidad-causada-por-pandemia-es-mucho-mayor-a-muertes-por-covid-19
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/11-legado-de-bob-marley-vive-cuatro-decadas-despues-de-su-muerte

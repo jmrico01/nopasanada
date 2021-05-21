@@ -1,0 +1,59 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Los enfrentamientos entre Israel y el grupo islamista palestino Ham&aacute;s dejaron cientos de muertos en once d&iacute;as, obligaron a miles de personas a abandonar sus hogares y destruyeron numerosas infraestructuras clave.</li>
+<li>Estas son las principales cifras:</li>
+</ul>
+<p><strong>Gaza&nbsp;</strong></p>
+<p>243 palestinos, entre ellos 66 ni&ntilde;os, murieron en ataques a&eacute;reos israel&iacute;es en el enclave, asediado desde el 10 de mayo, seg&uacute;n el ministerio de Sanidad.</p>
+<p>Entre los fallecidos hay dos m&eacute;dicos, entre ellos el jefe de medicina interna del hospital Shifa, el m&aacute;s importante de la Franja de Gaza.</p>
+<p>M&aacute;s de 1.900 personas, entre ellas 560 ni&ntilde;os, resultaron heridas en ese mismo periodo, seg&uacute;n la misma fuente.&nbsp;</p>
+<p>91.000 personas se vieron obligadas a abandonar sus hogares, seg&uacute;n la agencia humanitaria de la ONU.&nbsp;</p>
+<p>1.447 viviendas (casas o pisos) resultaron afectadas y 205 bloques residenciales fueron destruidos, seg&uacute;n el grupo Ham&aacute;s que dirige el enclave.</p>
+<p>75 instalaciones gubernamentales y p&uacute;blicas resultaron da&ntilde;adas, as&iacute; como 14 kil&oacute;metros de tuber&iacute;as de agua, 50 pozos de agua y 17 kil&oacute;metros de alcantarillado, afirma Ham&aacute;s.&nbsp;</p>
+<p>31 subestaciones el&eacute;ctricas y 79 kil&oacute;metros de cables se vieron afectados, con nueve l&iacute;neas principales cortadas.</p>
+<p>454 coches o medios de transporte fueron destruidos o gravemente da&ntilde;ados, siempre seg&uacute;n la misma fuente.&nbsp;</p>
+<p>Tres mezquitas resultaron completamente destruidas, 40 mezquitas y una iglesia da&ntilde;adas, seg&uacute;n Ham&aacute;s.</p>
+<p><strong>Israel&nbsp;</strong></p>
+<p>12 personas murieron en Israel, entre ellas un ni&ntilde;o israel&iacute;, una adolescente &aacute;rabe israel&iacute; y su padre, as&iacute; como un indio y dos tailandeses, seg&uacute;n los m&eacute;dicos israel&iacute;es.&nbsp;</p>
+<p>357 personas resultaron heridas por cohetes.&nbsp;</p>
+<p>De los 4.070 cohetes disparados por grupos armados palestinos hacia Israel, el sistema de defensa a&eacute;rea israel&iacute; intercept&oacute; alrededor del 90%, seg&uacute;n el ej&eacute;rcito.</p>
+<p>2.061 reclamaciones fueron recibidas por viviendas alcanzadas por cohetes y 1.367 m&aacute;s por coches afectados en el sur y el centro de Israel, seg&uacute;n la autoridad fiscal de Israel, que se ocupa de las indemnizaciones.</p>
+<p><strong>Cisjordania&nbsp;</strong></p>
+<p>25 palestinos murieron a manos de las fuerzas israel&iacute;es desde el inicio de las hostilidades en los territorios ocupados, seg&uacute;n las autoridades sanitarias palestinas.&nbsp;</p>
+<p>El ej&eacute;rcito israel&iacute; dijo que al menos cinco de ellos hab&iacute;an intentado embestir o apu&ntilde;alar a las fuerzas israel&iacute;es en los puestos de control.</p>
+}
+title Once días de conflicto entre Israel y Hamás en cifras
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202105/headers/21-once-dias-de-conflicto-entre-israel-y-hamas-en-cifras.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los enfrentamientos entre Israel y el grupo islamista palestino Hamás dejaron cientos de muertos en once días, obligaron a miles de personas a abandonar sus hogares y destruyeron numerosas infraestructuras clave.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Israel<b>
+    text1 Once días de conflicto entre Israel y Hamás en cifras
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
