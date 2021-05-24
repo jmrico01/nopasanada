@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Las autoridades indias ordenaron la evacuaci&oacute;n de alrededor de medio mill&oacute;n de personas amenazadas por un cicl&oacute;n en la oriental costa del Golfo de Bengala, una semana despu&eacute;s de otra tormenta caus&oacute; un centenar y medio de muertes y graves da&ntilde;os en el occidente &nbsp;</li>
+<li>Estos desastres naturales se suman a la dram&aacute;tica segunda oleada epid&eacute;mica que devasta a India, que acumula al menos 300.000 muertes por coronavirus.&nbsp;</li>
+<li>El Departamento meteorol&oacute;gico indio se&ntilde;al&oacute; que el cicl&oacute;n "Yaas", que se form&oacute; en el Golfo de Bengala, podr&iacute;a azotar el mi&eacute;rcoles a los estados de Bengala Occidental y Odisha.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Por su parte, el vecino Banglad&eacute;s tambi&eacute;n se declar&oacute; en alerta m&aacute;xima.</li>
+<li>Al tocar la costa india, se prev&eacute; que "Yaas" tenga vientos de 185 km/h, seg&uacute;n la agencia meteorol&oacute;gica. Es probable que las olas alcancen los cuatro metros de altura y provoquen inundaciones.</li>
+<li>Hace una semana el cicl&oacute;n "Tauktae", primera gran tormenta &nbsp;de esta temporada, azot&oacute; al estado de Gujarat, provocando 155 muertes&nbsp;</li>
+</ul>
+}
+title Evacuaciones masivas en India por otro ciclón
+day 24
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202105/headers/24-evacuaciones-masivas-en-india-por-otro-ciclon.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Las autoridades indias ordenaron la evacuación de alrededor de medio millón de personas amenazadas por un ciclón en la oriental costa del Golfo de Bengala, una semana después de otra tormenta causó un centenar y medio de muertes y graves daños en el occidente.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>India<b>
+    text1 Evacuaciones masivas en India por otro ciclón
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
