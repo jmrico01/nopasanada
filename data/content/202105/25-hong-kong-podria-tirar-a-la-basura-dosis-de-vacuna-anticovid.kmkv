@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Hong Kong podr&iacute;a tirar a la basura dosis de vacunas contra el covid-19 porque se acerca su fecha de vencimiento y muy poca gente se ha inscrito para recibirlas, dada la desconfianza de la poblaci&oacute;n, advirti&oacute; este martes un autoridad local.</li>
+<li>La excolonia brit&aacute;nica es uno de los pocos lugares del mundo que pudo asegurar m&aacute;s que suficientes dosis para inocular a su poblaci&oacute;n de 7,5 millones de habitantes, pero la desconfianza en el gobierno, combinado con la desinformaci&oacute;n en las redes sociales y los escasos casos de contagio, han provocado un bajo nivel de vacunaci&oacute;n.</li>
+<li>Este martes, un miembro de la comisi&oacute;n del gobierno para las vacunas advirti&oacute; que los hongkoneses "solo tienen una ventana de tres meses" antes del vencimiento del primer lote de vacunas de Pfizer-BioNTech.</li>
+<li>"Estas vacunas tienen fecha de vencimiento", advirti&oacute; a la radio RTHK Thomas Tsang, excontralor del Centro de Protecci&oacute;n de la Salud.</li>
+<li>"No pueden ser usadas despu&eacute;s de la fecha de vencimiento y los centros comunitarios de vacunaci&oacute;n de BioNTech dejar&aacute;n de operar en setiembre, como estaba previsto", agreg&oacute;.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Hasta ahora solo 19% de la poblaci&oacute;n de la ciudad ha recibido una dosis de alguna vacuna, mientras 14% ha recibido las dos dosis.</li>
+<li>Incluso entre los trabajadores de la salud hay dudas para recibir las vacunas. La Autoridad de Hospitales de la ciudad revel&oacute; este mes que solo un tercio de su personal se ha vacunado.</li>
+<li>Hong Kong recibi&oacute; 3,26 millones de dosis de vacunas de Pfizer-BioNTech, pero solo se han inyectado 1,23 millones.</li>
+<li>"Lo que tenemos es probablemente todo lo que tendremos este a&ntilde;o", advirti&oacute; Tsang.</li>
+<li>Hong Kong recibi&oacute; unos dos millones de dosis de Sinovac, pero esta vacuna puede ser conservada un poco m&aacute;s de tiempo (un a&ntilde;o).</li>
+<li>La advertencia de las autoridades de Hong Kong se da en momentos que otras regiones del mundo, particularmente los pa&iacute;ses de menos ingresos, corren en busca de vacunas para combatir fuertes brotes de covid-19.</li>
+<li>Seis gobernantes de Am&eacute;rica Latina y el Caribe pidieron este lunes a la comunidad internacional acceso equitativo a las vacunas y que los pa&iacute;ses ricos compartan sus excedentes.</li>
+<li>Suscribieron el pedido Alberto Fern&aacute;ndez, presidente de Argentina; Carlos Alvarado, presidente de Costa Rica; Andr&eacute;s Manuel L&oacute;pez Obrador, presidente de M&eacute;xico; Andrew Michael Holness, primer ministro de Jamaica; Luis Alberto Arce Catacora, presidente de Bolivia; Guillermo Lasso Mendoza, presidente de Ecuador, y Luis Alberto Lacalle Pou, presidente de Uruguay.</li>
+</ul>
+}
+title Hong Kong podría tirar a la basura dosis de vacuna anticovid
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202105/headers/25-hong-kong-podria-tirar-a-la-basura-dosis-de-vacuna-anticovid.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Hong Kong podría tirar a la basura dosis de vacunas contra el covid-19 porque se acerca su fecha de vencimiento y muy poca gente se ha inscrito para recibirlas, dada la desconfianza de la población, advirtió este martes un autoridad local.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Hong Kong<b>
+    text1 Hong Kong podría tirar a la basura dosis de vacuna anticovid
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

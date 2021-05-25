@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/24-eleccion-presidencial-en-siria-para-confirmar-medio-siglo-de-poder-del-clan-asad
+        featured{array} /content/202105/25-evitar-espacio-aereo-bielorruso-es-un-problema-para-aerolineas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/24-suu-kyi-comparece-ante-tribunal-por-primera-vez-desde-golpe-en-birmania
+        featured{array} /content/202105/25-biden-recibe-familia-de-george-floyd-pero-sin-ley-contra-violencia-policial
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/24-evacuaciones-masivas-en-india-por-otro-ciclon
+    featured{array} /content/202105/25-hong-kong-podria-tirar-a-la-basura-dosis-de-vacuna-anticovid
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/11-legado-de-bob-marley-vive-cuatro-decadas-despues-de-su-muerte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202105/24-bielorrusia-rechaza-criticas-tras-forzar-aterrizaje-de-avion-para-arrestar-a-pasajero-opositor
+    featured{array} /content/202105/25-eeuu-insta-a-colombia-a-ubicar-a-desaparecidos-durante-protestas
 }
 other{kmkv} {
     name Other (Internal)
