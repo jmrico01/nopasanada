@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Una columna de llamas se elev&oacute; del palacio de justicia mientras encapuchados celebraban el incendio. La escena ocurri&oacute; el martes en el convulso municipio de Tulu&aacute;, en el suroeste de Colombia, tras una tarde de enfrentamientos entre manifestantes y polic&iacute;as.</li>
+<li>Seg&uacute;n el medio local La voz de los robles, la quema del edificio se dio luego de que polic&iacute;as antidisturbios trataran de "despejar los bloqueos" de manifestantes en la ciudad situada a casi 100 kil&oacute;metros de Cali, capital del Valle del Cauca.</li>
+<li>En respuesta, encapuchados incendiaron el edificio y bloquearon el paso de bomberos, seg&uacute;n se observa en diferentes videos difundidos en redes sociales.</li>
+<li>El ministro de Justicia, Wilson Ruiz, conden&oacute; en Twitter los "actos de terrorismo que buscan sembrar caos y miedo", mientras que el jefe de la cartera de Defensa, Diego Molano, denunci&oacute; en la misma red social a "los v&aacute;ndalos" que "quieren obstruir la justicia" con este ataque.</li>
+<li>La escena evoca funestos recuerdos en un pa&iacute;s donde la toma guerrilla del Palacio de Justicia por el M-19 en 1985, y su sangrienta retoma por parte del Ej&eacute;rcito, en medio de un gigantesco incendio registrado por la televisi&oacute;n, dejaron un centenar de muertos.</li>
+<li>Desde que se iniciaron las movilizaciones contra el gobierno de Iv&aacute;n Duque el 28 de abril, el departamento del Valle del Cauca ha sido epicentro de violentas protestas, duramente reprimidas por la fuerza p&uacute;blica.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La mayor&iacute;a de los 43 homicidios registrados a la fecha ocurrieron a manos de la polic&iacute;a en esa regi&oacute;n, donde convergen pobreza, racismo, narcotr&aacute;fico y el conflicto que repunta tras la firma de la paz con la guerrilla FARC, en 2016.</li>
+<li>En el municipio de Tulu&aacute;, un hombre fue atrapado el 21 de mayo por manifestantes luego de disparar contra un bloqueo. El agresor fue entregado a la justicia y su camioneta fue incinerada.</li>
+<li>Los cierres de v&iacute;as, que se multiplican en el oeste del pa&iacute;s y causan desabastecimiento, amenazan con restarle apoyo popular a las manifestaciones antigubernamentales.</li>
+<li>El presidente del pa&iacute;s, Iv&aacute;n Duque, exige su levantamiento como condici&oacute;n para negociar una salida a la crisis.</li>
+<li>El mandatario orden&oacute; a la fuerza p&uacute;blica desmontar esas "expresiones que son violentas", pese a la condena internacional de los excesos cometidos por la polic&iacute;a en la contenci&oacute;n de las manifestaciones.</li>
+<li>El estallido social, que reclama un pa&iacute;s m&aacute;s justo y solidario ante el deterioro econ&oacute;mico que agudiz&oacute; la pandemia, deja de momento m&aacute;s de 2.000 heridos, mientras persisten 84 cierres viales.</li>
+</ul>
+}
+title Manifestantes queman palacio de Justicia en Colombia tras enfrentamiento con policías
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202105/headers/26-queman-palacio-de-justicia-en-colombia-tras-enfrentamiento-de-manifestantes-y-policia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Una columna de llamas se elevó del palacio de justicia mientras encapuchados celebraban el incendio. La escena ocurrió el martes en el convulso municipio de Tuluá, en el suroeste de Colombia, tras una tarde de enfrentamientos entre manifestantes y policías.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Colombia<b>
+    text1 Manifestantes queman palacio de Justicia en Colombia tras enfrentamiento con policías
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

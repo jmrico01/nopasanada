@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Las autoridades chinas acusaron el mi&eacute;rcoles al gobierno estadounidense de expandir tesis "complotistas" sobre el origen de la pandemia de coronavirus en un momento en que la hip&oacute;tesis de un error de laboratorio que dej&oacute; escapar el virus recobra fuerza.</li>
+<li>Los primeros casos de covid-19 fueron identificados a finales de 2019 en la metr&oacute;polis china de Wuhan, antes de que el virus se extendiera por todo el mundo y provocara m&aacute;s de 3,5 millones de muertes.</li>
+<li>Las autoridades chinas siempre han negado la teor&iacute;a seg&uacute;n la cual el coronavirus surgi&oacute; en un laboratorio, concretamente en el Instituto de virolog&iacute;a de Wuhan, se&ntilde;alado directamente por el expresidente estadounidense Donald Trump.</li>
+<li>Esta semana, un articulo del diario estadounidense Wall Street Journal (WSJ) volvi&oacute; a avivar esta hip&oacute;tesis y las peticiones para que haya una investigaci&oacute;n profunda al respecto se multiplican, incluso entre la comunidad cient&iacute;fica.</li>
+<li>"Algunos en Estados Unidos difunden teor&iacute;as complotistas e informaciones falsas, como la hip&oacute;tesis de un error de laboratorio", dijo ante la prensa el portavoz de la diplomacia china Zhao Lijian.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Asegurando que se basaba en un informe in&eacute;dito de la inteligencia estadounidense, el diario afirm&oacute; que tres cient&iacute;ficos del laboratorio chino fueron ingresados en un hospital con "s&iacute;ntomas compatibles" con el covid-19 en noviembre de 2019, es decir, un mes antes de la aparici&oacute;n oficial de la enfermedad, seg&uacute;n Pek&iacute;n.</li>
+<li>Sin embargo, el diario admiti&oacute; que esos s&iacute;ntomas tambi&eacute;n pueden ser los de una infecci&oacute;n propia de la estaci&oacute;n del a&ntilde;o.</li>
+<li>"Si Estados Unidos quiere ser realmente transparente, deber&iacute;a, como hace China, invitar a los expertos de la Organizaci&oacute;n Mundial de la Salud (OMS) para investigar en la base militar de Fort Detrick, as&iacute; como en todos los laboratorios biol&oacute;gicos del mundo", dijo Zhao.</li>
+<li>El laboratorio de Fort Detrick, cerca de Washington, es un centro esencial en la lucha contra el bioterrorismo.</li>
+<li>Tras pasar cuatro semanas en Wuhan a principios de a&ntilde;o un estudio conjunto de expertos de la OMS y chinos consideraron "extremadamente improbable" que el origen del virus fuera un accidente en un laboratorio.</li>
+</ul>
+}
+title China acusa otra vez a EEUU de expandir tesis complotistas sobre origen de pandemia
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202105/headers/26-china-acusa-otra-vez-a-eeuu-de-expandir-tesis-complotistas-sobre-origen-de-pandemia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Las autoridades chinas acusaron el miércoles al gobierno estadounidense de expandir tesis "complotistas" sobre el origen de la pandemia de coronavirus en un momento en que la hipótesis de un error de laboratorio que dejó escapar el virus recobra fuerza.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 China acusa otra vez a EEUU de expandir tesis complotistas sobre origen de pandemia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
