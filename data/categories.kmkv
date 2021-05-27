@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/26-lukashenko-considera-legal-su-decision-de-desviar-avion-que-resulto-en-arresto-de-periodista
+        featured{array} /content/202105/27-que-le-espera-a-gaza-tras-una-semana-de-alto-el-fuego-y-de-intensa-diplomacia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/26-china-acusa-otra-vez-a-eeuu-de-expandir-tesis-complotistas-sobre-origen-de-pandemia
+        featured{array} /content/202105/27-colombia-guia-de-un-pais-en-crisis
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
+    featured{array} /content/202105/27-exodo-en-el-congo-para-huir-de-erupcion-de-un-volcan
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
