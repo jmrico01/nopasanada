@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Dos aguerridos monta&ntilde;eros islandeses lograron llegar a la cima del Everest, la monta&ntilde;a m&aacute;s alta del mundo, y descender, pese a tener coronavirus.</li>
+<li>Su haza&ntilde;a es una proeza, pero pone de nuevo en el punto de mira a las autoridades nepalesas, que siguen autorizando las ascensiones pese a que est&aacute; habiendo casos positivos de covid-19.</li>
+<li>Sigurdur Sveinsson y Heimir Hallgr&iacute;msson comenzaron a toser cuando estaban a 7.000 metros, seg&uacute;n un mensaje que ellos mismos publicaron el jueves, cuando contaron la dificultad de llegar de vuelta al campamento base.</li>
+<li>"En ese momento y en ese lugar hab&iacute;a cero posibilidades de someterse a un test", dijeron los monta&ntilde;eros en una publicaci&oacute;n en la p&aacute;gina web de Umhyggja, una organizaci&oacute;n de caridad que atiende a ni&ntilde;os enfermos y para la que est&aacute;n recolectando fondos.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Antes de iniciar la ascensi&oacute;n, ambos hab&iacute;an dado negativo en un test de diagn&oacute;stico.</li>
+<li>Tras 67 d&iacute;as de viaje, los dos alpinistas llegaron a la cima, a 8.849 metros, el lunes a las 04H30 locales (22H45 GMT del domingo).</li>
+<li>"En el descenso, comenzamos los dos a sentirnos muy cansados, a toser y a encontrarnos mal", dijeron.</li>
+<li>Pese a las dificultades respiratorias lograron bajar y llegaron al campamento base el mi&eacute;rcoles, donde una prueba confirm&oacute; que eran positivos.</li>
+<li>Varios casos de coronavirus se est&aacute;n registrando en las &uacute;ltimas semanas entre los alpinistas extranjeros y ya han sido necesarias varias evacuaciones.</li>
+<li>El gobierno de Nepal se niega a hablar de explosi&oacute;n de casos en el Everest y sigue permitiendo las ascensiones, a diferencia de lo ocurrido el a&ntilde;o pasado.</li>
+</ul>
+}
+title Dos islandeses llegan a cima del Everest pese a tener coronavirus
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202105/headers/28-dos-islandeses-llegan-a-cima-del-everest-pese-a-tener-coronavirus.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Dos aguerridos montañeros islandeses lograron llegar a la cima del Everest, la montaña más alta del mundo, y descender, pese a tener coronavirus.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Nepal<b>
+    text1 Dos islandeses llegan a cima del Everest pese a tener coronavirus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
