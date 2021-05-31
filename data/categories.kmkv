@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/27-que-le-espera-a-gaza-tras-una-semana-de-alto-el-fuego-y-de-intensa-diplomacia
+        featured{array} /content/202105/31-apoyo-popular-y-critica-internacional-los-dos-anos-de-bukele-en-el-salvador
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/27-colombia-guia-de-un-pais-en-crisis
+        featured{array} /content/202105/31-secuestran-ninos-en-escuela-privada-de-nigeria
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/27-exodo-en-el-congo-para-huir-de-erupcion-de-un-volcan
+    featured{array} /content/202105/31-en-cinco-anos-china-enterro-politica-de-hijos-unicos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202105/27-que-le-espera-a-gaza-tras-una-semana-de-alto-el-fuego-y-de-intensa-diplomacia
+    featured{array} /content/202105/31-secuestran-ninos-en-escuela-privada-de-nigeria
 }
 other{kmkv} {
     name Other (Internal)
