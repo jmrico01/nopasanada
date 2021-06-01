@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Miles de m&eacute;dicos en India portaban este martes brazaletes negros demandando la detenci&oacute;n de un popular gur&uacute;, quien afirma que el yoga puede prevenir el covid-19 y que la medicina convencional ha provocado la muerte de miles de pacientes con coronavirus.&nbsp;</li>
+<li>Baba Ramdev, fundador de un verdadero imperio de productos de medicina tradicional, declar&oacute; el mes pasado que la pandemia hab&iacute;a demostrado que los medicamentos modernos son una "ciencia est&uacute;pida y fracasada" y que centenares de miles de personas han "muerto a causa de la medicina alop&aacute;tica (convencional)".&nbsp;</li>
+<li>Este martes, "D&iacute;a Negro" de protesta, fotos en las redes sociales mostraban a los m&eacute;dicos levantando pancartas solicitando el arresto de "Quack Ramdev", o vistiendo monos protectores con la inscripci&oacute;n #StopRamdev en la espalda.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Ramdev, un partidario del primer ministro Narendra Modi, retir&oacute; sus comentarios tras una llamada del ministro de salud indio. Pero, ya hab&iacute;a creado un nuevo esc&aacute;ndalo al afirmar que &eacute;l no necesitaba la vacuna contra covid porque estaba protegido por el yoga y la medicina tradicional (ayurveda).</li>
+<li>Su grupo, Patanjali Ayurved, se estima que ha ingresado centenares de millones de d&oacute;lares y vende de todo, desde pasta dent&iacute;frica hasta jeans en sus tiendas, omnipresentes en todo el pa&iacute;s.</li>
+<li>Semanas atr&aacute;s, durante un acto al que asisti&oacute; el ministro de Salud, Ramdev, que tambi&eacute;n posee una cadena de televisi&oacute;n, lanz&oacute; un remedio con la marca Coronil que, seg&uacute;n el gur&uacute;, cura el covid-19.</li>
+<li>Su marca, 13&ordf; en el r&aacute;nking de popularidad en India, tambi&eacute;n afirma producir remedios contra el c&aacute;ncer.</li>
+</ul>
+}
+title Médicos indios protestan contra gurú que afirma que el yoga previene covid-19
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202106/headers/1-medicos-indios-protestan-contra-guru-que-afirma-que-yoga-previene-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Miles de médicos en India portaban este martes brazaletes negros demandando la detención de un popular gurú, quien afirma que el yoga puede prevenir el covid-19 y que la medicina convencional ha provocado la muerte de miles de pacientes con coronavirus.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>India<b>
+    text1 Médicos indios protestan contra gurú que afirma que el yoga previene covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

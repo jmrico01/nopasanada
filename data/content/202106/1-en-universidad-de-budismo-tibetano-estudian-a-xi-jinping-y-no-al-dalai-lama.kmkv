@@ -1,0 +1,56 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Los retratos del presidente chino ocupan lugares privilegiados. En la universidad de Budismo tibetano, los futuros monjes siguen cursos de pol&iacute;tica lejos del Dal&aacute;i Lama, cuya imagen permanece censurada en el techo del mundo.</li>
+<li>Juegan al f&uacute;tbol vistiendo sus largas t&uacute;nicas color rojo oscuro, aprenden chino e ingl&eacute;s y debaten en tibetano los preceptos religiosos, provocando muchos gestos y aplausos.</li>
+<li>Los alrededor de 900 estudiantes del establecimiento son pura sonrisa en el marco de una rara visita de prensa extranjera a Lhasa, capital regional, organizada por el gobierno chino.</li>
+<li>Pek&iacute;n celebr&oacute; el mes pasado el 70&ordf; aniversario de lo que denomina "la liberaci&oacute;n pac&iacute;fica" de T&iacute;bet, cuando el ej&eacute;rcito del r&eacute;gimen comunista ocup&oacute; el llamado techo del mundo tras el final de la guerra civil china.</li>
+<li>Desde 1951, los l&iacute;deres chinos se vanaglorian de haber erradicado el servilismo y aportado infraestructuras y desarrollo econ&oacute;mico a esta regi&oacute;n aut&oacute;noma.</li>
+<li>Pero, en 1959, el Dal&aacute;i Lama, l&iacute;der espiritual tibetano, huy&oacute; al exilio en India luego del fracaso de una revuelta en Lhasa contra la ocupaci&oacute;n china.</li>
+<li>Sus partidarios acusan a Pek&iacute;n de haber aplastado la religi&oacute;n y cultura tibetanas, destruyendo miles de templos y haber instalado masivamente a inmigrantes Han (grupo &eacute;tnico mayoritario en China).</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En respuesta a esto, las autoridades chinas califican al Dal&aacute;i Lama como "separatista" y su retrato, prohibido, no es visible en la universidad Budista.</li>
+<li>"El 14&ordm; Dal&aacute;i Lama huy&oacute; al extranjero (...) y no hizo nada bueno por el pueblo tibetano, hemos perdido la fe en &eacute;l", afirma el vicerrector de la universidad, Gesang Wangdui.</li>
+<li>En cambio, banderas rojas, fotos y frases del presidente Xi Jinping, son omnipresentes en el establecimiento, ubicado al pie de la cordillera del Himalaya, donde estudian hombres y mujeres de todas las edades.</li>
+<li>"No se puede no entender de pol&iacute;tica", asevera un joven con h&aacute;bito de monje. "Tenemos cursos todos los lunes por la tarde y hablamos mucho de ella durante todo el tiempo", a&ntilde;ade.</li>
+<li>Desde el exterior, los cr&iacute;ticos afirman que la libertad de expresi&oacute;n est&aacute; mucho m&aacute;s estrictamente controlada en T&iacute;bet que en otras partes de China.</li>
+<li>"El nivel de represi&oacute;n necesario para mantener esta tapadera sugiere que la situaci&oacute;n contin&uacute;a siendo tensa", se&ntilde;ala el profesor de Estudios Tibetanos Gray Tuttle, de la universidad de Columbia, Estados Unidos.</li>
+<li>Y el vicerrector de la universidad Tibetana confirma que no est&aacute; all&iacute; para la defensa de la religi&oacute;n: "Soy miembro del Partido. No soy budista. Soy comunista".</li>
+</ul>
+}
+title En universidad de Budismo tibetano estudian a Xi Jinping y no al Dalái Lama
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202106/headers/1-en-universidad-de-budismo-tibetano-estudian-a-xi-jinping-y-no-al-dalai-lama.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los retratos del presidente chino ocupan lugares privilegiados. En la universidad de Budismo tibetano, los futuros monjes siguen cursos de política lejos del Dalái Lama, cuya imagen permanece censurada en el techo del mundo.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Tíbet<b>
+    text1 En universidad de Budismo tibetano estudian a Xi Jinping y no al Dalái Lama
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
