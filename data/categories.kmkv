@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202105/31-apoyo-popular-y-critica-internacional-los-dos-anos-de-bukele-en-el-salvador
+        featured{array} /content/202106/2-blinken-urge-a-centroamerica-a-defender-democracia-para-aliviar-migracion
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202105/31-secuestran-ninos-en-escuela-privada-de-nigeria
+        featured{array} /content/202106/2-rusia-aprueba-ley-que-puede-excluir-a-opositores-de-elecciones
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202105/31-en-cinco-anos-china-enterro-politica-de-hijos-unicos
+    featured{array} /content/202106/2-pandemia-hunde-auyn-mas-en-pobreza-a-100-millones-de-trabajadores
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202105/31-secuestran-ninos-en-escuela-privada-de-nigeria
+    featured{array} /content/202106/2-blinken-urge-a-centroamerica-a-defender-democracia-para-aliviar-migracion
 }
 other{kmkv} {
     name Other (Internal)
