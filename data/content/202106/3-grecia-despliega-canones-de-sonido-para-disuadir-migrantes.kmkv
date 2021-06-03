@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>"Dos ca&ntilde;ones de sonidos fueron posicionados en el sur y el norte del Evros", el r&iacute;o que marca la frontera terrestre con Turqu&iacute;a para disuadir a migrantes de cruzarlo, indic&oacute; el jueves un responsable de la polic&iacute;a griega.</li>
+<li>Grecia compr&oacute; este material ultramoderno tras el flujo de migrantes que se produjo en febrero de 2020, cuando el presidente turco, Recep Tayyip Erdogan, anunci&oacute; que dejar&iacute;a pasar a los migrantes que quisieran entrar en la Uni&oacute;n Europea.</li>
+<li>Decenas de miles de refugiados se dirigieron entonces a Grecia, en el puesto fronterizo de Kastanies (Pazarkule, en turco), donde hubo incidentes durante varios d&iacute;as.</li>
+<li>"Estos ca&ntilde;ones no fueron utilizados hasta ahora, porque no ha habido tentativas de incursi&oacute;n masiva en el territorio griego como el a&ntilde;o pasado", a&ntilde;adi&oacute; el responsable, que requiri&oacute; el anonimato.</li>
+<li>Seg&uacute;n &eacute;l, "es una de las herramientas a nuestra disposici&oacute;n para impedir una posible entrada ilegal en masa de grupos de inmigrantes en territorio griego".</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Estos ca&ntilde;ones pueden emitir sonidos de hasta 162 decibelios, mientras una conversaci&oacute;n normal tiene una media de 60 decibelios y un jet unos 120, seg&uacute;n la cadena de televisi&oacute;n griega Skai.</li>
+<li>El gobierno griego ha construido a lo largo del r&iacute;o Evros un nuevo muro de 27 km de largo y ocho puntos de observaci&oacute;n. Tambi&eacute;n ha incrementado el n&uacute;mero de efectivos de la guardia fronteriza.</li>
+<li>Por su parte, el portavoz de la Comisi&oacute;n Europea, Adalbert Jahnz, declar&oacute; el jueves que estaba "en contacto con las autoridades griegas" para obtener "m&aacute;s informaci&oacute;n" sobre este dispositivo.</li>
+</ul>
+}
+title Grecia despliega cañones de sonido para disuadir migrantes
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202106/headers/3-grecia-despliega-canones-de-sonido-para-disuadir-migrantes.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description "Dos cañones de sonidos fueron posicionados en el sur y el norte del Evros", el río que marca la frontera terrestre con Turquía para disuadir a migrantes de cruzarlo, indicó el jueves un responsable de la policía griega.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Grecia<b>
+    text1 Grecia despliega cañones de sonido para disuadir migrantes
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
