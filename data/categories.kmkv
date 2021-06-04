@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202105/20-iceberg-mas-grande-del-mundo-se-separo-de-antartida
+        featured{array} /content/202106/4-deforestacion-en-amazonia-brasilena-alcanza-record-al-acanzar-41-en-mayo
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/2-blinken-urge-a-centroamerica-a-defender-democracia-para-aliviar-migracion
+        featured{array} /content/202106/4-hora-de-la-verdad-entre-fujimori-y-castillo-llega-al-convulsionado-peru
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/2-rusia-aprueba-ley-que-puede-excluir-a-opositores-de-elecciones
+        featured{array} /content/202106/4-cristiana-chamorro-desafia-continuidad-de-ortega-en-nicaragua
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/2-pandemia-hunde-auyn-mas-en-pobreza-a-100-millones-de-trabajadores
+    featured{array} /content/202106/4-deforestacion-en-amazonia-brasilena-alcanza-record-al-acanzar-41-en-mayo
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/2-blinken-urge-a-centroamerica-a-defender-democracia-para-aliviar-migracion
+    featured{array} /content/202106/4-expertos-escuchan-en-londres-relatos-de-tortura-a-minoria-uigur-en-china
 }
 other{kmkv} {
     name Other (Internal)
