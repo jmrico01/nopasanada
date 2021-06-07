@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/4-hora-de-la-verdad-entre-fujimori-y-castillo-llega-al-convulsionado-peru
+        featured{array} /content/202106/7-gasto-en-armas-nucleares-aumento-1400-millones-de-dolares-en-plena-pandemia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/4-cristiana-chamorro-desafia-continuidad-de-ortega-en-nicaragua
+        featured{array} /content/202106/7-jeff-bezos-dice-que-se-unira-a-primer-viaje-de-turismo-espacial
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/4-deforestacion-en-amazonia-brasilena-alcanza-record-al-acanzar-41-en-mayo
+    featured{array} /content/202106/7-voto-rural-reduce-al-minimo-ventaja-de-fujimori-sobre-castillo-en-peru
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/4-expertos-escuchan-en-londres-relatos-de-tortura-a-minoria-uigur-en-china
+    featured{array} /content/202106/7-gasto-en-armas-nucleares-aumento-1400-millones-de-dolares-en-plena-pandemia
 }
 other{kmkv} {
     name Other (Internal)
