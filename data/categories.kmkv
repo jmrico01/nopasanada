@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/7-gasto-en-armas-nucleares-aumento-1400-millones-de-dolares-en-plena-pandemia
+        featured{array} /content/202106/8-biden-putin-seis-meses-de-intercambios-conflictivos
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/7-jeff-bezos-dice-que-se-unira-a-primer-viaje-de-turismo-espacial
+        featured{array} /content/202106/8-crece-incertidumbre-electoral-en-peru-tras-denuncias-de-fraude-de-fujimori
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/7-voto-rural-reduce-al-minimo-ventaja-de-fujimori-sobre-castillo-en-peru
+    featured{array} /content/202106/8-hombre-cachetea-a-presidente-frances-emmanuel-macron
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/7-gasto-en-armas-nucleares-aumento-1400-millones-de-dolares-en-plena-pandemia
+    featured{array} /content/202106/8-mas-de-800-detenidos-en-operativo-mundial-contra-crimen-organizado
 }
 other{kmkv} {
     name Other (Internal)
