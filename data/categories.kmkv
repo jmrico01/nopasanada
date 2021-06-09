@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/8-biden-putin-seis-meses-de-intercambios-conflictivos
+        featured{array} /content/202106/9-castillo-incrementa-su-ventaja-sobre-keiko-en-elecciones-peruanas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/8-crece-incertidumbre-electoral-en-peru-tras-denuncias-de-fraude-de-fujimori
+        featured{array} /content/202106/9-congreso-aprueba-que-bitcoin-sea-moneda-de-curso-legal-en-el-salvador
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/8-hombre-cachetea-a-presidente-frances-emmanuel-macron
+    featured{array} /content/202106/9-norcoreanos-llamados-a-reforzar-su-lealtad-al-regimen-tras-crisis-pandemica
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
