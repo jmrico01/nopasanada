@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/8-mas-de-800-detenidos-en-operativo-mundial-contra-crimen-organizado
+    featured{array} /content/202106/9-congreso-aprueba-que-bitcoin-sea-moneda-de-curso-legal-en-el-salvador
 }
 other{kmkv} {
     name Other (Internal)
