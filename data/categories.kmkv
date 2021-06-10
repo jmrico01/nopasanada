@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/9-castillo-incrementa-su-ventaja-sobre-keiko-en-elecciones-peruanas
+        featured{array} /content/202106/10-fiscal-anticorrupcion-de-peru-pide-prision-preventiva-contra-keiko-fujimori
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/9-congreso-aprueba-que-bitcoin-sea-moneda-de-curso-legal-en-el-salvador
+        featured{array} /content/202106/10-multimillonarios-que-no-pagan-impuestos-son-una-ayuda-inesperada-para-biden
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/9-norcoreanos-llamados-a-reforzar-su-lealtad-al-regimen-tras-crisis-pandemica
+    featured{array} /content/202106/10-90-de-paises-africanos-quedaran-lejos-de-objetivos-mundiales-de-vacunacion
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/9-congreso-aprueba-que-bitcoin-sea-moneda-de-curso-legal-en-el-salvador
+    featured{array} /content/202106/10-multimillonarios-que-no-pagan-impuestos-son-una-ayuda-inesperada-para-biden
 }
 other{kmkv} {
     name Other (Internal)
