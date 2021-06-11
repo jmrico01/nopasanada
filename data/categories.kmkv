@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/10-fiscal-anticorrupcion-de-peru-pide-prision-preventiva-contra-keiko-fujimori
+        featured{array} /content/202106/11-cali-es-centro-de-la-ira-popular-en-colombia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/10-multimillonarios-que-no-pagan-impuestos-son-una-ayuda-inesperada-para-biden
+        featured{array} /content/202106/11-g7-inicia-en-inglaterra-con-el-clima-y-vacunas-como-prioridades
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/10-90-de-paises-africanos-quedaran-lejos-de-objetivos-mundiales-de-vacunacion
+    featured{array} /content/202106/11-gobierno-de-nicaragua-dice-que-solo-quienes-cometen-delitos-son-perseguidos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/10-multimillonarios-que-no-pagan-impuestos-son-una-ayuda-inesperada-para-biden
+    featured{array} /content/202106/11-unos-30000-podrian-morir-por-hambruna-en-region-etiope-de-tigre
 }
 other{kmkv} {
     name Other (Internal)
