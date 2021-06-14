@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/11-cali-es-centro-de-la-ira-popular-en-colombia
+        featured{array} /content/202106/14-salida-de-netanyahu-termina-uno-de-los-peores-periodos-del-conflicto
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/11-g7-inicia-en-inglaterra-con-el-clima-y-vacunas-como-prioridades
+        featured{array} /content/202106/14-empieza-juicio-contra-aung-san-suu-kyi-en-birmania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/11-gobierno-de-nicaragua-dice-que-solo-quienes-cometen-delitos-son-perseguidos
+    featured{array} /content/202106/14-peru-cumple-una-semana-sin-saber-quien-sera-su-nuevo-presidente
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/11-unos-30000-podrian-morir-por-hambruna-en-region-etiope-de-tigre
+    featured{array} /content/202106/14-muere-mujer-en-minneapolis-atropellada-por-hombre-que-embistio-una-protesta
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Una mujer muri&oacute; y otras tres personas resultaron heridas cuando un hombre lanz&oacute; su coche contra una multitud de personas que protestaban por la muerte de un afroestadounidense en Minneapolis a manos de alguaciles, dijo la polic&iacute;a el lunes.</li>
+<li>La polic&iacute;a dijo que el sujeto, que podr&iacute;a haber estado bajo los efectos de drogas o alcohol, embisti&oacute; con su veh&iacute;culo a un grupo de manifestantes poco antes de la medianoche del domingo.</li>
+<li>"Los manifestantes sacaron al sospechoso del veh&iacute;culo y, seg&uacute;n los informes de testigos, comenzaron a golpearlo", dijo la polic&iacute;a de Minneapolis en un comunicado. "Llegaron agentes y se llevaron detenido al conductor".</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Una mujer fue llevada al hospital en estado cr&iacute;tico y muri&oacute; a causa de las heridas, se&ntilde;al&oacute; la instituci&oacute;n. El conductor del veh&iacute;culo tambi&eacute;n fue hospitalizado.&nbsp;</li>
+<li>"La investigaci&oacute;n preliminar indica que el uso de drogas o alcohol por parte del conductor puede ser un factor que contribuya a este accidente", adelant&oacute; la polic&iacute;a.</li>
+<li>Los manifestantes protestaban por la muerte el 3 de junio de Winston Boogie Smith, asesinado a tiros por alguaciles estadounidenses que intentaban detenerlo por violaciones relacionadas con armas de fuego.</li>
+<li>La muerte de Smith se produjo poco m&aacute;s de un a&ntilde;o despu&eacute;s de la de George Floyd, un hombre negro de 46 a&ntilde;os asesinado por la polic&iacute;a mientras era arrestado en Minneapolis.</li>
+<li>Por ese hecho, que provoc&oacute; protestas contra la injusticia racial y la brutalidad policial en todo el mundo, fue declarado culpable en abril el exoficial de polic&iacute;a Derek Chauvin.</li>
+</ul>
+}
+title Muere una mujer en Minneapolis atropellada por un hombre que embistió una protesta
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202106/headers/14-muere-mujer-en-minneapolis-atropellada-por-hombre-que-embistio-una-protesta.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Una mujer murió y otras tres personas resultaron heridas cuando un hombre lanzó su coche contra una multitud de personas que protestaban por la muerte de un afroestadounidense en Minneapolis a manos de alguaciles, dijo la policía el lunes.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 Muere una mujer en Minneapolis atropellada por un hombre que embistió una protesta
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
