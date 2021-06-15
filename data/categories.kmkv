@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/14-salida-de-netanyahu-termina-uno-de-los-peores-periodos-del-conflicto
+        featured{array} /content/202106/15-colombia-garantiza-que-responsables-de-muertes-durante-protestas-iran-ante-la-justicia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/14-empieza-juicio-contra-aung-san-suu-kyi-en-birmania
+        featured{array} /content/202106/15-hungria-aprueba-ley-que-prohibe-promover-homosexualidad-entre-menores
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/14-peru-cumple-una-semana-sin-saber-quien-sera-su-nuevo-presidente
+    featured{array} /content/202106/15-hungria-aprueba-ley-que-prohibe-promover-homosexualidad-entre-menores
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
