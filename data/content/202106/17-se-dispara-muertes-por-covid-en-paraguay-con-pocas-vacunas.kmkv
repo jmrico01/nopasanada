@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Paraguay relaj&oacute; los controles sanitarios que mantuvo con &eacute;xito en la larga cuarentena de 2020 y los contagios se dispararon en forma alarmante en este primer semestre de muy alta mortalidad en el que adem&aacute;s escasean las vacunas, dijeron expertos.</li>
+<li>"Ten&iacute;amos proyecciones de unos 7.000 muertos para julio. Estamos en la primera quincena de junio y ya sobrepasamos los 11.000. Los n&uacute;meros son muy preocupantes", indic&oacute; Arturo Ojeda, director ejecutivo de la Cruz Roja.</li>
+<li>"La gente no cumpli&oacute; con las medidas sanitarias establecidas y adem&aacute;s el gobierno baj&oacute; la guardia en los controles", refiri&oacute;.</li>
+<li>Con 7,3 millones de habitantes, Paraguay super&oacute; los 400.000 contagios y las 11.000 muertes desde que se report&oacute; el primer caso de covid-19 en marzo de 2020. En las &uacute;ltimas dos semanas se ubica como el pa&iacute;s de mayor mortalidad en el mundo, con una tasa de 24,79 decesos por cada 100.000 habitantes, seg&uacute;n un conteo en base a estad&iacute;sticas oficiales.</li>
+<li>Los hospitales se encuentran desbordados y escasea el ox&iacute;geno, as&iacute; como algunos medicamentos.</li>
+<li>Seg&uacute;n Ojeda, la cuarentena estricta de marzo a septiembre de 2020 "funcion&oacute;", pero luego "la gente se relaj&oacute;, se cans&oacute; del aislamiento".</li>
+<li>El epidemi&oacute;logo Tom&aacute;s Mateo Balmelli indic&oacute; que "en enero, se estima que unos 35.000 paraguayos fueron a vacacionar a Brasil y muchos de ellos adquirieron las distintas variaciones del virus" m&aacute;s contagiosas.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Para Balmelli, el gobierno se equivoc&oacute; al "confiar ciegamente" en la compra de vacunas por el sistema Covax de la Organizaci&oacute;n Mundial de la Salud. Ante el atraso en las entregas, Paraguay ha usado donaciones de pa&iacute;ses de Am&eacute;rica, Europa y Asia.</li>
+<li>"La inmunizaci&oacute;n sigue siendo lenta por falta de vacunas. El gobierno debe sacar todo el stock que tiene hasta que se acaben y no enlentecer la vacunaci&oacute;n", consider&oacute; Balmelli.</li>
+<li>Hasta ahora Paraguay recibi&oacute; unas 450.000 dosis de la vacuna AstraZeneca, 250.000 de Sinopharm, 20.000 de Coronavac, 200.000 Covaxin, 100.000 de Moderna y 40.000 de Sputnik-V.</li>
+<li>"Es una vacunaci&oacute;n a cuenta gotas. Si seguimos a este ritmo, en tres a&ntilde;os vamos a alcanzar el 75% necesario para frenar el brote pand&eacute;mico", resumi&oacute; en tono cr&iacute;tico el epidemi&oacute;logo.</li>
+<li>Hasta la fecha, seg&uacute;n los n&uacute;meros oficiales, 6,7% de la poblaci&oacute;n recibi&oacute; la primera dosis y solo 1,2% las dos que aseguran la inmunizaci&oacute;n completa. La meta es llegar a 30% en diciembre y a 75% de los habitantes en 2023.</li>
+<li>"Nadie puede decir 'ya estoy vacunado' si solo recibi&oacute; la primera dosis", advirti&oacute; Balmelli.</li>
+</ul>
+}
+title Se disparan las muertes por covid en un Paraguay con pocas vacunas
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202106/headers/17-se-dispara-muertes-por-covid-en-paraguay-con-pocas-vacunas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Paraguay relajó los controles sanitarios que mantuvo con éxito en la larga cuarentena de 2020 y los contagios se dispararon en forma alarmante en este primer semestre de muy alta mortalidad en el que además escasean las vacunas, dijeron expertos.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Paraguay<b>
+    text1 Se disparan las muertes por covid en un Paraguay con pocas vacunas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El gobierno sueco present&oacute; este mi&eacute;rcoles un plan de acci&oacute;n para intentar frenar la violencia contra las mujeres, despu&eacute;s de una serie de feminicidios que provocaron la c&oacute;lera en este pa&iacute;s que se dice pionero en los derechos femeninos.</li>
+<li>El plan de 40 puntos prev&eacute; incrementar la prevenci&oacute;n y tambi&eacute;n contempla condenas m&aacute;s severas para los autores de los cr&iacute;menes.</li>
+<li>Tambi&eacute;n se estipulan sanciones m&aacute;s severas para quien viole &oacute;rdenes de alejamiento, cometa violaciones y delitos de violencia dom&eacute;stica.</li>
+<li>Adem&aacute;s, el gobierno quiere ampliar los alojamientos protegido y prev&eacute; aumentar las &oacute;rdenes que restrinjan los contactos, en caso de mujeres que hayan sufrido violencia machista.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Su publicaci&oacute;n coincide con los asesinatos de cinco mujeres en tres semanas, todas ellas muertas a menos de hombres, la mayor&iacute;a sus exparejas.</li>
+<li>"Si hay una sola mujer asesinada o maltratada, nuestra tarea no ha terminado", dijo ante la prensa la ministra para la Igualdad de sexos, Marta Stenevi.</li>
+<li>Olga Persson, presidenta de Unizon, una asociaci&oacute;n con m&aacute;s de 100 centros de acogida de mujeres en Suecia, asegur&oacute; que el plan era esperado desde hace a&ntilde;os.</li>
+<li>La responsable se felicit&oacute; por los nexos que este plan establece entre la violencia contra las mujeres y la prostituci&oacute;n y por la posibilidad de que algunos cr&iacute;menes violentos contra las mujeres se consideren cr&iacute;menes de odio.</li>
+<li>Sin embargo, al plan le faltan por ahora financiaci&oacute;n para las medidas previstas y estructuras de seguimiento, lament&oacute;.</li>
+</ul>
+}
+title Suecia presenta un plan para intentar frenar femicidios
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202106/headers/15-hungria-aprueba-ley-que-prohibe-promover-homosexualidad-entre-menores.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El gobierno sueco presentó este miércoles un plan de acción para intentar frenar la violencia contra las mujeres, después de una serie de feminicidios que provocaron la cólera en este país que se dice pionero en los derechos femeninos.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Suecia<b>
+    text1 Suecia presenta un plan para intentar frenar femicidios
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
