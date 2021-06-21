@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/15-colombia-garantiza-que-responsables-de-muertes-durante-protestas-iran-ante-la-justicia
+        featured{array} /content/202106/21-detenido-quinto-precandidato-a-presidencia-de-nicaragua
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/15-hungria-aprueba-ley-que-prohibe-promover-homosexualidad-entre-menores
+        featured{array} /content/202106/21-expertos-de-la-onu-llaman-al-papa-a-prevenir-abusos-sexuales-a-menores
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/15-hungria-aprueba-ley-que-prohibe-promover-homosexualidad-entre-menores
+    featured{array} /content/202106/21-bitcoin-presenta-oportunidades-y-riesgos-para-salvadorenos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/14-muere-mujer-en-minneapolis-atropellada-por-hombre-que-embistio-una-protesta
+    featured{array} /content/202106/18-lapa-roja-quiere-volver-a-reinar-en-honduras-y-repoblar-centroamerica
 }
 other{kmkv} {
     name Other (Internal)
