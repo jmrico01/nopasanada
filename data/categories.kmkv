@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202106/4-deforestacion-en-amazonia-brasilena-alcanza-record-al-acanzar-41-en-mayo
+        featured{array} /content/202106/23-efectos-devastadores-del-calentamiento-seran-una-realidad-en-los-proximos-anos
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/21-detenido-quinto-precandidato-a-presidencia-de-nicaragua
+        featured{array} /content/202106/22-gobierno-espanol-indulta-a-lideres-independentistas-catalanes-presos
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/21-expertos-de-la-onu-llaman-al-papa-a-prevenir-abusos-sexuales-a-menores
+        featured{array} /content/202106/23-diario-prodemocracia-allanado-en-hong-kong-dejara-de-publicarse-el-jueves
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/21-bitcoin-presenta-oportunidades-y-riesgos-para-salvadorenos
+    featured{array} /content/202106/23-alemania-se-engalana-con-arcoiris-mientras-llueven-criticas-a-uefa-y-hungria
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/18-lapa-roja-quiere-volver-a-reinar-en-honduras-y-repoblar-centroamerica
+    featured{array} /content/202106/23-efectos-devastadores-del-calentamiento-seran-una-realidad-en-los-proximos-anos
 }
 other{kmkv} {
     name Other (Internal)
