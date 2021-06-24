@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/22-gobierno-espanol-indulta-a-lideres-independentistas-catalanes-presos
+        featured{array} /content/202106/24-diario-hongkones-mas-popular-cierra-este-jueves-por-opresion-del-estado-chino
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/23-diario-prodemocracia-allanado-en-hong-kong-dejara-de-publicarse-el-jueves
+        featured{array} /content/202106/24-efectos-de-pandemia-en-consumo-de-drogas-seguiran-por-anos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/23-alemania-se-engalana-con-arcoiris-mientras-llueven-criticas-a-uefa-y-hungria
+    featured{array} /content/202106/24-conflicto-en-noreste-de-nigeria-deja-324000-ninos-muertos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/23-efectos-devastadores-del-calentamiento-seran-una-realidad-en-los-proximos-anos
+    featured{array} /content/202106/24-en-la-favela-dique-da-vila-gilda-el-covid-es-un-flagelo-mas
 }
 other{kmkv} {
     name Other (Internal)
