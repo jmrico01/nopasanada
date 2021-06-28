@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/24-diario-hongkones-mas-popular-cierra-este-jueves-por-opresion-del-estado-chino
+        featured{array} /content/202106/28-bolsonaro-enredado-en-caso-de-corrupcion-por-factura-millonaria-de-vacunas-indias
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/24-efectos-de-pandemia-en-consumo-de-drogas-seguiran-por-anos
+        featured{array} /content/202106/28-cinco-cosas-que-no-se-saben-sobre-el-partido-comunista-chino
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/24-conflicto-en-noreste-de-nigeria-deja-324000-ninos-muertos
+    featured{array} /content/202106/28-largo-intervalo-entre-dos-dosis-de-astrazeneca-mejora-su-eficacia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/24-en-la-favela-dique-da-vila-gilda-el-covid-es-un-flagelo-mas
+    featured{array} /content/202106/28-bolsonaro-enredado-en-caso-de-corrupcion-por-factura-millonaria-de-vacunas-indias
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Un intervalo de varios meses entre la primera y la segunda dosis de la vacuna contra el covid-19 desarrollada por AstraZeneca/Oxford mejora la inmunidad, seg&uacute;n un estudio publicado el lunes por la Universidad de Oxford.&nbsp;</li>
+<li>Los investigadores demostraron que, lejos de mermar la eficacia de la vacuna, un intervalo de hasta 45 semanas entre las dos dosis mejora la respuesta inmunitaria al virus.&nbsp;</li>
+<li>"Esto deber&iacute;a ser una noticia tranquilizadora para los pa&iacute;ses con menos suministros de vacunas, que pueden estar preocupados por los retrasos en la obtenci&oacute;n de segundas dosis para sus poblaciones", coment&oacute; el profesor Andrew Pollard, director del Oxford Vaccine Group, que desarroll&oacute; la vacuna con el grupo farmac&eacute;utico anglosueco AstraZeneca.&nbsp;</li>
+<li>"Hay una excelente respuesta a la segunda dosis incluso 10 meses despu&eacute;s de haber recibido la primera", subray&oacute;.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Otro estudio de la Universidad de Oxford publicado en febrero por la prestigiosa revista cient&iacute;fica en The Lancet ya indicaba que la eficacia de la vacuna era mayor con un intervalo de tres meses entre las dosis (81%) que con un intervalo de seis semanas (55%).</li>
+<li>A ra&iacute;z de este nuevo estudio, los investigadores tambi&eacute;n descubrieron que una tercera dosis inyectada m&aacute;s de seis meses despu&eacute;s de la segunda da lugar a un "aumento significativo" de los anticuerpos y provoca un "fuerte incremento" de la respuesta inmunitaria contra el covid-19, incluso contra las variantes conocidas del coronavirus.</li>
+<li>"No sabemos si se necesitar&aacute;n inyecciones de refuerzo debido a la disminuci&oacute;n de la inmunidad o para aumentar la inmunidad contra las variantes", destac&oacute; Teresa Lambe, autora principal de los estudios. Pero se&ntilde;al&oacute; que la investigaci&oacute;n muestra que una tercera dosis de la vacuna "se tolera bien y aumenta significativamente la respuesta al nivel de los anticuerpos".</li>
+<li>"Es una noticia muy alentadora si se constata que es necesaria una tercera dosis", agreg&oacute;.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Los investigadores aseguran asimismo que la vacuna provoc&oacute; "menos efectos secundarios tras la segunda y la tercera dosis que despu&eacute;s de la primera".&nbsp;</p>
+<p>La vacuna de AstraZeneca, que utiliza una tecnolog&iacute;a denominada de "vectores virales" (adenovirus), ha suscitado preocupaci&oacute;n despu&eacute;s de que se estableciera una relaci&oacute;n entre su administraci&oacute;n y la aparici&oacute;n de trombos raros pero a veces mortales.</p>
+<p>Como resultado, muchos pa&iacute;ses restringieron su uso a las personas m&aacute;s mayores y algunos dejaron de utilizarla.</p>
+}
+title Largo intervalo entre dos dosis de AstraZeneca mejora su eficacia
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202106/headers/28-largo-intervalo-entre-dos-dosis-de-astrazeneca-mejora-su-eficacia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un intervalo de varios meses entre la primera y la segunda dosis de la vacuna contra el covid-19 desarrollada por AstraZeneca/Oxford mejora la inmunidad, según un estudio publicado el lunes por la Universidad de Oxford.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Covid-19<b>
+    text1 Largo intervalo entre dos dosis de AstraZeneca mejora su eficacia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
