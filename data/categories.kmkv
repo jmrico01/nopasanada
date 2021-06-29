@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/28-bolsonaro-enredado-en-caso-de-corrupcion-por-factura-millonaria-de-vacunas-indias
+        featured{array} /content/202106/29-consejo-anticorrupcion-pide-eliminar-ciudades-modelo-en-honduras
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/28-cinco-cosas-que-no-se-saben-sobre-el-partido-comunista-chino
+        featured{array} /content/202106/29-vacunacion-se-acelera-frente-a-variante-delta-que-castiga-a-rusia-y-australia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/28-largo-intervalo-entre-dos-dosis-de-astrazeneca-mejora-su-eficacia
+    featured{array} /content/202106/29-consejo-anticorrupcion-pide-eliminar-ciudades-modelo-en-honduras
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/28-bolsonaro-enredado-en-caso-de-corrupcion-por-factura-millonaria-de-vacunas-indias
+    featured{array} /content/202106/29-espana-quiere-autorizar-autodeterminacion-de-genero-desde-los-16-anos
 }
 other{kmkv} {
     name Other (Internal)

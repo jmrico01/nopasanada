@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Manifestantes inconformes con el gobierno del conservador Iv&aacute;n Duque se tomaron las calles de Colombia este lunes para conmemorar el segundo mes de un estallido social que deja m&aacute;s de 60 muertos. Las protestas condujeron a choques con la fuerza p&uacute;blica en diversas ciudades.</li>
+<li>El escuadr&oacute;n antidisturbios intervino "en 20 ocasiones en varias ciudades", inform&oacute; en un audio enviado a medios el director general de la Polic&iacute;a, general Jorge Vargas.</li>
+<li>Tres instalaciones policiales en Bogot&aacute;, Medell&iacute;n (noroeste) y Pereira (oeste) fueron atacadas durante la jornada, mientras que una estatua de Crist&oacute;bal Col&oacute;n fue derribada por manifestantes en la ciudad de Barranquilla (norte).</li>
+<li>Una docena de veh&iacute;culos de transporte p&uacute;blico tambi&eacute;n fueron "vandalizados", seg&uacute;n Vargas.</li>
+<li>En la capital, decenas de personas dibujaron frente al tribunal de paz siluetas de civiles asesinados por militares en el conflicto de m&aacute;s de medio siglo que repunta, pese al acuerdo firmado en 2016 con la guerrilla FARC.</li>
+<li>Mientras que en Medell&iacute;n manifestantes de la llamada "primera l&iacute;nea" fueron duramente reprimidos por tanquetas lanzaguas y agentes del escuadr&oacute;n antidisturbios.</li>
+<li>Lo que comenz&oacute; el 28 de abril como una protesta contra un plan del gobierno para subir impuestos a la clase media se convirti&oacute; en una movilizaci&oacute;n sin precedentes.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los manifestantes exigen una reforma a la polic&iacute;a y un estado m&aacute;s solidario para lidiar con los estragos econ&oacute;micos de la pandemia, que elev&oacute; la pobreza del 37% al 42% de la poblaci&oacute;n.</li>
+<li>Aunque el frente m&aacute;s visible de las movilizaciones suspendi&oacute; las protestas hasta el 20 de julio, otros sectores inconformes mantienen activas sus marchas, concentraciones y bloqueos, que seg&uacute;n el gobierno han llevado la pandemia a niveles r&eacute;cord de muertes y contagios.</li>
+<li>M&aacute;s de 60 personas han muerto durante las protestas, seg&uacute;n autoridades civiles y la Defensor&iacute;a del Pueblo (ombudsman).</li>
+<li>La ONG Human Rights Watch acusa a la polic&iacute;a de estar implicada en al menos 20 homicidios, y asegura que 16 de las v&iacute;ctimas recibieron tiros disparados por agentes con intenci&oacute;n de "matar".</li>
+<li>Estados Unidos, la Uni&oacute;n Europea y la ONU han rechazado los abusos policiales.</li>
+<li>El gobierno asegura que grupos ilegales dedicados al narcotr&aacute;fico y el Ej&eacute;rcito de Liberaci&oacute;n Nacional (ELN), &uacute;ltima guerrilla reconocida del pa&iacute;s, se camuflan entre los manifestantes para generar caos.</li>
+</ul>
+}
+title Con manifestaciones conmemoran dos meses de estallido social en Colombia
+day 29
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202106/headers/29-con-manifestaciones-conmemoran-dos-meses-de-estallido-social-en-colombia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Manifestantes inconformes con el gobierno del conservador Iván Duque se tomaron las calles de Colombia este lunes para conmemorar el segundo mes de un estallido social que deja más de 60 muertos. Las protestas condujeron a choques con la fuerza pública en diversas ciudades.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Colombia<b>
+    text1 Con manifestaciones conmemoran dos meses de estallido social en Colombia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
