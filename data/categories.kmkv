@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/29-consejo-anticorrupcion-pide-eliminar-ciudades-modelo-en-honduras
+        featured{array} /content/202106/30-iran-asegura-que-ejecutar-a-menores-no-viola-derechos-humanos
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202106/29-vacunacion-se-acelera-frente-a-variante-delta-que-castiga-a-rusia-y-australia
+        featured{array} /content/202106/30-ola-de-calor-deja-decenas-de-muertes-repentinas-en-canada
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202106/29-consejo-anticorrupcion-pide-eliminar-ciudades-modelo-en-honduras
+    featured{array} /content/202106/30-panama-quiere-utilizar-mineria-como-motor-economico
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202106/29-espana-quiere-autorizar-autodeterminacion-de-genero-desde-los-16-anos
+    featured{array} /content/202106/30-tras-ardua-lucha-mexico-tendra-sus-primeras-diputadas-trans
 }
 other{kmkv} {
     name Other (Internal)
