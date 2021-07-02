@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El gobierno ruso descart&oacute; este viernes un confinamiento de la poblaci&oacute;n a pesar de haber reportado 679 muertes debido al covid-19 en las &uacute;ltimas 24 horas, un r&eacute;cord por cuarto d&iacute;a consecutivo en el pa&iacute;s, seriamente afectado por la variante Delta.&nbsp;</li>
+<li>Seg&uacute;n datos gubernamentales, Rusia registr&oacute; 23.218 nuevos casos en un d&iacute;a, la cifra m&aacute;s alta desde mediados de enero, cuando el pa&iacute;s sal&iacute;a de una segunda ola de coronavirus.</li>
+<li>Pese a ello, el Kremlin descart&oacute; este viernes, de momento, la idea de un confinamiento.</li>
+<li>"Nadie quiere confinamientos" y la idea de aplicarlo "no ha sido tratada. Para que ello no ocurra, debemos vacunarnos todos lo m&aacute;s r&aacute;pido posible" declar&oacute; a la prensa el portavoz de la presidencia rusa, Dmitri Peskov.</li>
+<li>El aumento de las contagios ya llev&oacute; al presidente Vladimir Putin a exhortar el mi&eacute;rcoles a los ciudadanos rusos a que se vacunen, en una intervenci&oacute;n televisada.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Pese a estos r&eacute;cords negativos, las autoridades rusas han mantenido la organizaci&oacute;n de eventos multitudinarios, como es el caso de la Eurocopa en San Petersburgo, la segunda mayor ciudad del pa&iacute;s, donde se disputa este viernes un cuarto de final entre Espa&ntilde;a y Suiza.</li>
+<li>San Petersburgo registr&oacute; el viernes 101 fallecimientos por el coronavirus, un poco menos que la cifra r&eacute;cord de 119 muertos diarios registrada esta semana.</li>
+<li>Por su lado, el alcalde de Mosc&uacute;, Sergu&eacute;i Sobianin, afirm&oacute; que la variante Delta, aparecida inicialmente en India, es responsable del 90% de los nuevos casos registrados en la capital rusa.</li>
+<li>Mosc&uacute;, principal foco de la enfermedad, registr&oacute; 112 muertos en las &uacute;ltimas 24 horas, niveles cercanos a los r&eacute;cords alcanzados esta semana.</li>
+<li>En el conjunto del pa&iacute;s, la pandemia ha causado &nbsp;desde su inicio m&aacute;s de 5,5 millones de contaminados y 136.565 muertos, seg&uacute;n cifras oficiales.</li>
+<li>La agencia de estad&iacute;stica Rosstat, que tiene una definici&oacute;n m&aacute;s amplia de los fallecimientos provocados por el coronavirus, contabilizaba 270.000 muertos a fines de abril.</li>
+</ul>
+}
+title Rusia descarta confinamiento a pesar de récord de muertes por cuarto día seguido
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202107/headers/2-rusia-descarta-confinamiento-a-pesar-de-record-de-muertes-por-cuarto-dia-seguido.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El gobierno ruso descartó este viernes un confinamiento de la población a pesar de haber reportado 679 muertes debido al covid-19 en las últimas 24 horas, un récord por cuarto día consecutivo en el país, seriamente afectado por la variante Delta.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Rusia descarta confinamiento a pesar de récord de muertes por cuarto día seguido
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
