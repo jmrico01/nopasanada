@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El gobierno de El Salvador recibi&oacute; la noche del domingo 1,5 millones de vacunas anticovid-19 de la farmac&eacute;utica Moderna donadas por Estados Unidos en el marco de la iniciativa COVAX, inform&oacute; el Ministerio de Salud.</li>
+<li>"Este es el lote n&uacute;mero 17 que llega al pa&iacute;s, el sexto a trav&eacute;s de la estrategia de adquisici&oacute;n global COVAX", declar&oacute; el ministro salvadore&ntilde;o de Salud, Francisco Alab&iacute;, al recibir la donaci&oacute;n en el aeropuerto &Oacute;scar Arnulfo Romero, 44 km al sureste de San Salvador.</li>
+<li>Con la donaci&oacute;n de Estados Unidos, El Salvador ha recibido "cerca de dos millones" de vacunas de la iniciativa COVAX patrocinada por la Organizaci&oacute;n Mundial de la Salud y otros pa&iacute;ses con el fin de garantizar el acceso al farm&aacute;co en todo el mundo, precis&oacute; Alab&iacute;.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La donaci&oacute;n del lote de Moderna forma parte del compromiso de la administraci&oacute;n del presidente Joe Biden de "compartir el suministro de vacunas de Estados Unidos con el mundo", precis&oacute; en un comunicado la embajada norteamericana en San Salvador.</li>
+<li>Desde febrero pasado, El Salvador recibi&oacute; 5.346.760 dosis de vacunas en 17 lotes, nueve fueron de compra directa a diferentes farmac&eacute;uticas, dos donaciones de China y M&eacute;xico, y el resto de COVAX.</li>
+<li>Con un plan de vacunaci&oacute;n que comenz&oacute; en febrero pasado, El Salvador a la fecha ha logrado inocular a 2,8 millones de personas. Su meta es vacunar a 4,5 de sus 6,7 millones de habitantes.</li>
+<li>Desde el inicio de la pandemia, El Salvador acumula 79.790 casos positivos, con 2.409 muertos.</li>
+</ul>
+}
+title El Salvador recibe 1,5 millones de vacunas anticovid-19 donadas por EEUU
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202107/headers/5-el-salvador-recibe-1-5-millones-de-vacunas-anticovid-donadas-por-eeuu.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El gobierno de El Salvador recibió la noche del domingo 1,5 millones de vacunas anticovid-19 de la farmacéutica Moderna donadas por Estados Unidos en el marco de la iniciativa COVAX, informó el Ministerio de Salud.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>El Salvador<b>
+    text1 El Salvador recibe 1,5 millones de vacunas anticovid-19 donadas por EEUU
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

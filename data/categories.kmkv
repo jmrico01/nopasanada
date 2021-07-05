@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202107/1-rusia-registra-record-de-muertos-por-covid-por-tercer-dia-consecutivo
+        featured{array} /content/202107/5-el-salvador-recibe-1-5-millones-de-vacunas-anticovid-donadas-por-eeuu
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/1-francia-abre-investigacion-contra-gigantes-del-textil-por-trabajos-forzados-de-uigures
+    featured{array} /content/202107/5-tormenta-elsa-gana-fuerza-en-cuba-camino-a-florida
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202107/1-padre-de-britney-spears-seguira-siendo-su-tutor
+    featured{array} /content/202107/5-hackers-reclaman-millones-de-dolares-para-solucionar-problemas-por-ciberataque
 }
 other{kmkv} {
     name Other (Internal)

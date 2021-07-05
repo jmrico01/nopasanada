@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Despu&eacute;s de castigar desde el mar la costa sur oriental y central de Cuba, la tormenta Elsa gan&oacute; en intensidad este lunes con vientos de 100 km/h antes de atravesar la isla rumbo a Florida.</li>
+<li>A las 09h00 locales (13h00 GMT), "Elsa mantiene el rumbo al noroeste, a unos 22 kil&oacute;metros por hora y posee vientos m&aacute;ximos sostenidos de 100 kil&oacute;metros por hora, con rachas superiores", dijo el Instituto de Meteorolog&iacute;a (Insmet).</li>
+<li>Poco antes, a las 07h30, se decidi&oacute; establecer la fase de alarma para las provincias de La Habana y Mayabeque, y fase de alerta para la provincia de Artemisa.</li>
+<li>"Es posible un ligero incremento en su intensidad antes de tocar tierra, despu&eacute;s del mediod&iacute;a de hoy, por la Ci&eacute;naga de Zapata, en la costa sur de Matanzas", indic&oacute; el Insmet. Se espera que la tormenta atraviese luego la isla de sur a norte.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>A su paso por La Espa&ntilde;ola, Elsa dej&oacute; dos muertos en Rep&uacute;blica Dominicana y medio centenar de viviendas afectadas. Un joven de 15 a&ntilde;os muri&oacute; en la regi&oacute;n de Bahoruco por la ca&iacute;da de un muro y una mujer de 75 a&ntilde;os falleci&oacute; tambi&eacute;n al colapsar su casa en Bani, seg&uacute;n el Centro de Operaciones de Emergencias (COE).</li>
+<li>Una tercera persona muri&oacute; en Soufriere, en la isla de Santa Luc&iacute;a -al sur de Martinica-, inform&oacute; la noche del s&aacute;bado la Agencia Caribe&ntilde;a de Manejo de Emergencias por Desastres (CDEMA) local.</li>
+<li>El canciller cubano Bruno Rodr&iacute;guez dijo el domingo en su cuenta Twitter que "Cuba mantiene el monitoreo y la disposici&oacute;n de ayuda (a otros pa&iacute;ses) ante el evento meteorol&oacute;gico".</li>
+<li>Tambi&eacute;n dispuso que sus embajadas y consulados en el Caribe est&eacute;n en comunicaci&oacute;n con los m&eacute;dicos y otros colaboradores cubanos en esos pa&iacute;ses "quienes se encuentran seguros", afirm&oacute;.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Elsa castig&oacute; desde el mar toda la costa sur cubana durante el domingo y madrugada del lunes, pero no se reportan da&ntilde;os de consideraci&oacute;n, pues con anterioridad, la Defensa Civil declar&oacute; la "alarma cicl&oacute;nica" en esos territorios, que tomaron medidas preventivas.</p>
+<p>El presidente Miguel D&iacute;az-Canel, al tanto de la situaci&oacute;n, escribi&oacute; el domingo en la noche en su cuenta de Twitter que "hasta ahora solo se reportan da&ntilde;os en la agricultura, sobre todo (en la provincia oriental) en Gramma".</p>
+<p>"Pido a nuestro pueblo mantenerse a buen resguardo para no lamentar p&eacute;rdidas de vida", a&ntilde;adi&oacute;.</p>
+<p>Tras abandonar Cuba al final de la tarde y adentrarse en el estrecho de Florida, Elsa "pasar&aacute; cerca de los Cayos de Florida temprano el martes. Luego, se pronostica que Elsa se mueva cerca o sobre porciones de la costa oeste de Florida el martes y mi&eacute;rcoles", dijo el Centro Nacional de Huracanes de Estados Unidos (NHC).</p>
+}
+title Tormenta Elsa gana fuerza a su paso por Cuba en camino a Florida
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202107/headers/5-tormenta-elsa-gana-fuerza-en-cuba-camino-a-florida.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Después de castigar desde el mar la costa sur oriental y central de Cuba, la tormenta Elsa ganó en intensidad este lunes con vientos de 100 km/h antes de atravesar la isla rumbo a Florida.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Cuba<b>
+    text1 Tormenta Elsa gana fuerza a su paso por Cuba en camino a Florida
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
