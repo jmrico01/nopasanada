@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El gobierno de M&eacute;xico dijo este martes que hay un repunte en los contagios por coronavirus en el pa&iacute;s, aunque detall&oacute; que la mortalidad no crece a la misma velocidad por el proceso de vacunaci&oacute;n.&nbsp;</li>
+<li>"Tenemos una situaci&oacute;n en donde hay un repunte, que es el tercer repunte que se presenta a lo largo del periodo de la epidemia", dijo en conferencia de prensa el subsecretario de Salud, Hugo L&oacute;pez-Gatell.&nbsp;</li>
+<li>"Afortunadamente y con una raz&oacute;n conocida, que es principalmente la vacunaci&oacute;n, no aumentan ni las defunciones ni las hospitalizaciones en esa velocidad", agreg&oacute;.&nbsp;</li>
+<li>El funcionario dijo que durante la primera mitad de junio se registr&oacute; un repunte de 22% en los casos estimados de la enfermedad.&nbsp;</li>
+<li>Sin embargo, detall&oacute; que la hospitalizaci&oacute;n crece m&aacute;s lentamente y que la ocupaci&oacute;n de camas se ha mantenido entre 15% y 20%.&nbsp;</li>
+<li>"Logramos reducir la mortalidad y los casos graves porque las vacunas disponibles tienen ese como su efecto principal", dijo.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>M&eacute;xico, de 126 millones de habitantes, registraba hasta el lunes 2.541.873 casos confirmados de coronavirus y 233.689 defunciones.&nbsp;</li>
+<li>Entre diciembre y enero pasados el pa&iacute;s tuvo un fuerte repunte de contagios y defunciones, lo que provoc&oacute; que se desbordaran hospitales, funerarias y cementerios.&nbsp;</li>
+<li>Sin embargo, la pandemia amain&oacute; en los meses siguientes.&nbsp;</li>
+<li>El pa&iacute;s latinoamericano inici&oacute; su plan de inmunizaci&oacute;n el 24 de diciembre pasado con el personal m&eacute;dico que atiende a enfermos de coronavirus.&nbsp;</li>
+<li>Hasta el momento, M&eacute;xico tiene 32,6 millones de personas vacunadas con al menos una dosis.&nbsp;</li>
+</ul>
+}
+title México reconoce repunte en casos de covid-19
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202107/headers/6-mexico-reconoce-repunte-en-casos-de-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El gobierno de México dijo este martes que hay un repunte en los contagios por coronavirus en el país, aunque detalló que la mortalidad no crece a la misma velocidad por el proceso de vacunación.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>México<b>
+    text1 México reconoce repunte en casos de covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

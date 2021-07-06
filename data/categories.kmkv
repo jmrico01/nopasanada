@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202107/5-el-salvador-recibe-1-5-millones-de-vacunas-anticovid-donadas-por-eeuu
+        featured{array} /content/202107/6-china-endurece-su-tono-respecto-a-criptomonedas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/5-tormenta-elsa-gana-fuerza-en-cuba-camino-a-florida
+    featured{array} /content/202107/6-mexico-reconoce-repunte-en-casos-de-covid-19
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202107/5-hackers-reclaman-millones-de-dolares-para-solucionar-problemas-por-ciberataque
+    featured{array} /content/202107/6-espana-busca-endurecer-legislacion-contra-la-violacion
 }
 other{kmkv} {
     name Other (Internal)

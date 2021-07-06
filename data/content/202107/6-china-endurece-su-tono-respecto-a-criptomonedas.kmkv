@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El Banco Central chino cerr&oacute; este martes una empresa de software, bajo sospecha de estar involucrada en transacciones con criptomonedas, y advirti&oacute; contra cualquier ayuda que le sea brindada a estas sociedades vinculadas a estas divisas virtuales.&nbsp;</li>
+<li>El comercio utilizando estas divisas inform&aacute;ticas est&aacute; prohibido en China y, en los &uacute;ltimos meses, las autoridades han endurecido a&uacute;n m&aacute;s su tono, cerrando 'minas' (sitios donde se generan las criptomonedas utilizando un potente software) y solicitando a los bancos que detengan todo intercambio relacionado con &eacute;stas.&nbsp;</li>
+<li>Este martes, una oficina del Banco Central orden&oacute; el cierre de la empresa de software Beijing Qudao Cultural Development, con el argumento de que proporcion&oacute; servicios de software para transacciones con moneda virtual.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La medida fue tomada "para controlar el riesgo de especulaciones en transacciones con moneda virtual y as&iacute; proteger la seguridad de los activos p&uacute;blicos", anunci&oacute; en un comunicado el organismo emisor de la divisa local.</li>
+<li>El Banco Central tambi&eacute;n inst&oacute; a no "proporcionar locales, trazabilidad comercial, publicidad (...) y otros servicios a actividades comerciales vinculadas a las criptomonedas".</li>
+<li>Las instituciones financieras y de pagos tambi&eacute;n han recibido instrucciones similares, y no brindar a sus clientes servicios relacionados con criptomonedas.</li>
+<li>La cotizaci&oacute;n de las monedas virtuales ha fluctuado mucho en estas &uacute;ltimas semanas, precisamente por el efecto de este tono m&aacute;s duro de las autoridades chinas en cuanto a la "miner&iacute;a" y comercializaci&oacute;n de estos activos digitales.</li>
+<li>El bitc&oacute;in cay&oacute; por debajo de los 30.000 d&oacute;lares el mes pasado.</li>
+</ul>
+}
+title China endurece su tono respecto a las criptomonedas
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202107/headers/6-china-endurece-su-tono-respecto-a-criptomonedas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El Banco Central chino cerró este martes una empresa de software, bajo sospecha de estar involucrada en transacciones con criptomonedas, y advirtió contra cualquier ayuda que le sea brindada a estas sociedades vinculadas a estas divisas virtuales.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 China endurece su tono respecto a las criptomonedas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
