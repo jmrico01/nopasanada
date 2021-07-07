@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202106/30-iran-asegura-que-ejecutar-a-menores-no-viola-derechos-humanos
+        featured{array} /content/202107/7-haiti-y-su-inestabilidad-politica-desde-1986
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202107/6-china-endurece-su-tono-respecto-a-criptomonedas
+        featured{array} /content/202107/7-aumenta-concesion-de-contratos-publicos-entre-amigos-en-reino-unido
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/6-mexico-reconoce-repunte-en-casos-de-covid-19
+    featured{array} /content/202107/7-ue-advierte-a-hungria-por-legislacion-que-afecta-comunidad-lgtb
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202107/6-espana-busca-endurecer-legislacion-contra-la-violacion
+    featured{array} /content/202107/7-haiti-y-su-inestabilidad-politica-desde-1986
 }
 other{kmkv} {
     name Other (Internal)
