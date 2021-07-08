@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202107/7-haiti-y-su-inestabilidad-politica-desde-1986
+        featured{array} /content/202107/8-cuatro-detenidos-en-espana-por-muerte-a-golpes-de-joven-homosexual
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202107/7-aumenta-concesion-de-contratos-publicos-entre-amigos-en-reino-unido
+        featured{array} /content/202107/8-no-habra-espectadores-en-juegos-de-tokio-por-aumento-en-casos-de-covid-19
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/7-ue-advierte-a-hungria-por-legislacion-que-afecta-comunidad-lgtb
+    featured{array} /content/202107/8-hija-de-ambientalista-hondurena-berta-caceres-va-tras-autores-intelectuales-del-asesinato
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202107/7-haiti-y-su-inestabilidad-politica-desde-1986
+    featured{array} /content/202107/8-no-habra-espectadores-en-juegos-de-tokio-por-aumento-en-casos-de-covid-19
 }
 other{kmkv} {
     name Other (Internal)
