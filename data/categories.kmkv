@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202107/8-cuatro-detenidos-en-espana-por-muerte-a-golpes-de-joven-homosexual
+        featured{array} /content/202107/9-ortega-se-jugara-la-vida-por-el-poder-en-nicaragua
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202107/8-no-habra-espectadores-en-juegos-de-tokio-por-aumento-en-casos-de-covid-19
+        featured{array} /content/202107/9-que-se-sabe-del-asesinato-del-presidente-de-haiti
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/8-hija-de-ambientalista-hondurena-berta-caceres-va-tras-autores-intelectuales-del-asesinato
+    featured{array} /content/202107/9-clara-sola-la-pelicula-costarricense-en-cannes-que-alienta-a-hablar-del-deseo-sexual-femenino
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202105/26-amazon-comprara-estudios-mgm-por-8450-millones-de-dolares
+        featured{array} /content/202107/9-clara-sola-la-pelicula-costarricense-en-cannes-que-alienta-a-hablar-del-deseo-sexual-femenino
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202107/8-no-habra-espectadores-en-juegos-de-tokio-por-aumento-en-casos-de-covid-19
+    featured{array} /content/202107/9-deforestacion-en-amazonia-brasilena-batio-nuevo-record-en-junio
 }
 other{kmkv} {
     name Other (Internal)
