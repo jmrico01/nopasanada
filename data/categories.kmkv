@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202106/23-efectos-devastadores-del-calentamiento-seran-una-realidad-en-los-proximos-anos
+        featured{array} /content/202107/12-nueva-ola-de-calor-e-incendios-golpean-a-eeuu-y-canada
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202107/9-ortega-se-jugara-la-vida-por-el-poder-en-nicaragua
+        featured{array} /content/202107/12-bolsonarismo-acelera-ofensiva-legislativa-sobre-tierras-indigenas-en-brasil
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202107/9-que-se-sabe-del-asesinato-del-presidente-de-haiti
+        featured{array} /content/202107/12-gobierno-cubano-enfrenta-protestas-sin-precedentes
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/9-clara-sola-la-pelicula-costarricense-en-cannes-que-alienta-a-hablar-del-deseo-sexual-femenino
+    featured{array} /content/202107/12-sudafrica-despliega-ejercito-durante-cuarto-dia-de-disturbios
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202107/9-clara-sola-la-pelicula-costarricense-en-cannes-que-alienta-a-hablar-del-deseo-sexual-femenino
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202107/9-deforestacion-en-amazonia-brasilena-batio-nuevo-record-en-junio
+    featured{array} /content/202107/12-gobierno-cubano-enfrenta-protestas-sin-precedentes
 }
 other{kmkv} {
     name Other (Internal)
