@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Rusia anunci&oacute; este martes 780 nuevos fallecimientos por covid-19 en las &uacute;ltimas 24 horas, el sexto r&eacute;cord desde principios de julio en el pa&iacute;s, afectado por la propagaci&oacute;n de la variante Delta.</li>
+<li>Este nuevo reporte supera los 752 fallecimientos registrados el pasado s&aacute;bado. Adem&aacute;s, el pa&iacute;s comunic&oacute; 24.702 nuevos casos de coronavirus.</li>
+<li>La epidemia en Rusia sigue haciendo estragos por la expansi&oacute;n de la variante Delta, considerada altamente contagiosa y que apareci&oacute; en la India.</li>
+<li>En estos momentos, los principales focos se encuentran en Mosc&uacute; y en la segunda ciudad del pa&iacute;s, San Petersburgo, donde las medidas de restricci&oacute;n han sido reforzadas estas &uacute;ltimas semanas.</li>
+<li>Las autoridades rechazan por el momento el confinamiento, como en la primavera de 2020, con el fin de preservar una econom&iacute;a ya de por s&iacute; fr&aacute;gil.</li>
+<li>Por su parte, el acalde de la capital, Sergu&eacute;i Sobianine, se&ntilde;al&oacute; que la situaci&oacute;n "se est&aacute; estabilizando."</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Desde el inicio de la pandemia, m&aacute;s de 5,8 millones de personas se han contagiado en Rusia y 144.492 han fallecido, seg&uacute;n cifras oficiales.</li>
+<li>La agencia de estad&iacute;sticas Rosstat, que cuenta con una definici&oacute;n m&aacute;s amplia de muertes ligadas al covid-19, registr&oacute; un acumulado de unos 290.000 fallecimientos, en un informe de finales de mayo.</li>
+<li>La lucha contra el virus en Rusia est&aacute; siendo complicada debido a la lenta campa&ntilde;a de vacunaci&oacute;n causada por la desconfianza de la poblaci&oacute;n.</li>
+<li>Para hacer frente, las autoridades adoptaron medidas como la instauraci&oacute;n de una pase sanitario para ir a un restaurante en Mosc&uacute; o la vacunaci&oacute;n obligatoria de determinadas categor&iacute;as de trabajadores.</li>
+<li>Seg&uacute;n el sitio web Gogov, que recopila los datos de las regiones y los medios a falta de estad&iacute;sticas oficiales, 29,4 millones de personas han recibido al menos una dosis de una de las vacunas rusas aprobadas, lo que equivale al 20,1% de la poblaci&oacute;n del pa&iacute;s.</li>
+</ul>
+}
+title Rusia bate récord de muertes diarias por covid-19 por sexta vez en julio
+day 13
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202107/headers/13-rusia-bate-record-de-muertes-diarias-por-covid-19-por-sexta-vez-en-julio.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Rusia anunció este martes 780 nuevos fallecimientos por covid-19 en las últimas 24 horas, el sexto récord desde principios de julio en el país, afectado por la propagación de la variante Delta.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Rusia bate récord de muertes diarias por covid-19 por sexta vez en julio
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
