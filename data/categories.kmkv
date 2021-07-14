@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202107/13-denuncian-centenar-de-detenidos-en-cuba-por-protestas
+        featured{array} /content/202107/14-bolsonaro-hospitalizado-para-examinar-su-hipo-persistente
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202107/13-ola-de-violencia-deja-45-muertos-en-sudafrica
+        featured{array} /content/202107/14-escasez-de-productos-amenaza-a-sudafrica-en-sexto-dia-de-violencia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/13-rusia-bate-record-de-muertes-diarias-por-covid-19-por-sexta-vez-en-julio
+    featured{array} /content/202107/14-retorno-al-oscurantismo-en-zonas-de-afganistan-bajo-control-taliban
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202107/9-clara-sola-la-pelicula-costarricense-en-cannes-que-alienta-a-hablar-del-deseo-sexual-femenino
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202107/13-una-ciudad-china-usa-reconocimiento-facial-contra-el-covid-19
+    featured{array} /content/202107/14-que-impacto-tendria-prohibir-vehiculos-diesel-y-gasolina
 }
 other{kmkv} {
     name Other (Internal)
