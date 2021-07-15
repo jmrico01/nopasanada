@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La libertad de prensa est&aacute; "en ruinas" en Hong Kong debido al fuerte control del poder central en la excolonia brit&aacute;nica, afirm&oacute; este mi&eacute;rcoles el principal sindicato de periodistas del territorio semiaut&oacute;nomo, que teme la imposici&oacute;n de una ley sobre la desinformaci&oacute;n.</li>
+<li>"El a&ntilde;o pasado sin duda ha sido el peor a&ntilde;o para la libertad de prensa", dijo el presidente de la Asociaci&oacute;n de Periodistas de Hong Kong (HKJA), Ronson Chan, en la presentaci&oacute;n del informe anual.</li>
+<li>El informe hace un balance de varios de los acontecimientos que impactaron en la prensa desde que Pek&iacute;n impuso hace un a&ntilde;o en Hong Kong una ley de seguridad nacional, que se ha convertido en el principal instrumento de represi&oacute;n contra los disidentes.</li>
+<li>Los autores del informe citan en particular el encarcelamiento del magnate de los medios Jimmy Lai, una de las figuras del campo prodemocracia, y la congelaci&oacute;n de los activos de su diario Apple Daily, que condujo al cierre de una de las publicaciones m&aacute;s cr&iacute;ticas con la pol&iacute;tica del gobierno central.</li>
+<li>Unos mil empleados perdieron su trabajo, entre ellos 700 periodistas.</li>
+<li>Lai y varios de los responsables del peri&oacute;dico se encuentran actualmente en la c&aacute;rcel, acusados de socavar la seguridad nacional china.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La HKJA acusa al gobierno de Hong Kong de haber transformado al radiodifusor p&uacute;blico RTHK en "aparato gubernamental de propaganda", despidiendo a las voces cr&iacute;ticas y suprimiendo algunos programas.</li>
+<li>"Las libertades han disminuido gravemente bajo la acci&oacute;n de un gobierno represivo", afirm&oacute; el informe.</li>
+<li>Ronson Chan dijo que estaba preocupado por el impacto de las leyes pendientes, en particular una sobre "noticias falsas" reclamada por parlamentarios oficialistas.</li>
+<li>Los cr&iacute;ticos de este proyecto lo ven como una iniciativa que, en &uacute;ltima instancia, apuntar&aacute; a contenidos que no agraden a las autoridades.</li>
+<li>En el ranking anual de libertad de prensa publicado por la oeneg&eacute; Reporteros sin Fronteras (RSF), Hong Kong se ha desplomado, pasando del puesto 18 en 2002 al 80 este a&ntilde;o.</li>
+<li>China continental ocupa el lugar 177 sobre 180 pa&iacute;ses.</li>
+<li>Solo Turkmenist&aacute;n, Corea del Norte y Eritrea ocupan lugares m&aacute;s bajos.</li>
+</ul>
+}
+title Periodistas hongkoneses denuncian ataques contra la libertad de prensa
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202107/headers/15-periodistas-hongkoneses-denuncian-ataques-contra-la-libertad-de-prensa.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La libertad de prensa está "en ruinas" en Hong Kong debido al fuerte control del poder central en la excolonia británica, afirmó este miércoles el principal sindicato de periodistas del territorio semiautónomo, que teme la imposición de una ley sobre la desinformación.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Hong Kong<b>
+    text1 Periodistas hongkoneses denuncian ataques contra la libertad de prensa
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
