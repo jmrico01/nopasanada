@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202107/16-loncon-aspira-a-que-constituyente-supere-diferencias-y-construya-un-chile-inclusivo
+        featured{array} /content/202107/disputas-por-reservas-de-oro-venezuela
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202107/16-bachelet-pide-liberacion-de-manifestantes-e-insta-al-dialogo-en-cuba
+        featured{array} /content/202107/-tregua-en-afganistan-termina-sin-avances
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/16-inundaciones-mortales-sacuden-campana-electoral-en-alemania
+    featured{array} /content/202107/-se-reanuda-juicio-contra-expresidente-zuma
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202107/9-clara-sola-la-pelicula-costarricense-en-cannes-que-alienta-a-hablar-del-deseo-sexual-femenino
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202107/16-un-simple-contacto-en-la-piel-puede-resultar-un-positivo-por-dopaje
+    featured{array} /content/202107/-se-reanuda-juicio-contra-expresidente-zuma
 }
 other{kmkv} {
     name Other (Internal)
