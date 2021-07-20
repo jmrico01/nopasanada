@@ -1,0 +1,59 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El n&uacute;mero real de muertes causadas por el covid-19 en India podr&iacute;a ser hasta diez veces superior a las casi 415.000 registradas en el balance oficial, indic&oacute; un grupo de investigaci&oacute;n estadounidense este martes.</li>
+<li>Los expertos en la situaci&oacute;n india advierten desde hace tiempo que el balance est&aacute; ampliamente subestimado en este pa&iacute;s de 1.300 millones de habitantes.</li>
+<li>Pero la cifra avanzada por el Centro para el Desarrollo Global es la m&aacute;s alta presentada hasta el momento, y toma en cuenta el dram&aacute;tico aumento de casos y muertes entre abril y mayo en India a ra&iacute;z de la muy contagiosa variante Delta del coronavirus, identificada all&iacute; por primera vez.</li>
+<li>El estudio estima que entre 3,4 y 4,7 millones de personas murieron por el covid-19 entre el inicio de la pandemia y junio de este a&ntilde;o.</li>
+<li>"Los decesos reales probablemente sean varios millones, no cientos de miles, lo que convertir&iacute;a esto en la mayor tragedia humanitaria de India desde la independencia", indicaron los investigadores.</li>
+<li>Oficialmente, el balance de muertos por coronavirus en India se sit&uacute;a en 414.000, convirti&eacute;ndolo en el tercer pa&iacute;s m&aacute;s enlutado despu&eacute;s de Estados Unidos (609.000) y Brasil (542.000).</li>
+<li>Los expertos ponen en duda estas cifras, atribuyendo los errores m&aacute;s al nivel de estr&eacute;s de unos servicios sanitarios saturados que a una manipulaci&oacute;n deliberada.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>El informe de este centro se bas&oacute; en estudiar "el exceso de mortalidad", el n&uacute;mero de muertes adicionales en comparaci&oacute;n al periodo previo a la crisis sanitaria.</p>
+<p>Sus autores -entre los que se encuentran Arvind Subramanian, exconsejero econ&oacute;mico en jefe del gobierno indio, as&iacute; como un experto de Harvard- reconocen que estimar la mortalidad con fiabilidad estad&iacute;stica es dif&iacute;cil.</p>
+<p>"Pero todas las estimaciones sugieren que el balance mortal de la pandemia es de una magnitud mucho mayor al recuento oficial", dijeron.</p>
+<p>Christophe Guilmoto, dem&oacute;grafo del Instituto de Investigaci&oacute;n para el Desarrollo, estim&oacute; recientemente en un estudio que el balance de muertos estaba m&aacute;s cerca de los 2,2 millones a finales de mayo.</p>
+<p>Guilmoto observ&oacute; que la tasa de mortalidad (por mill&oacute;n de habitantes) en India era un 50% inferior a la media mundial.</p>
+<p>"Una cifra tan baja est&aacute; en evidente contradicci&oacute;n con la gravedad de la crisis que afect&oacute; a la mayor&iacute;a de las familias indias en el pa&iacute;s, que se vio graficada en la dram&aacute;tica escasez de vacunas, test de covid-19, ambulancias, en el acceso a personal m&eacute;dico, a camas de hospital, ox&iacute;geno, medicamentos, y finalmente ata&uacute;des, madera, sacerdotes, lugares de cremaci&oacute;n o entierro, como ha sido ampliamente informado en los medios indios e internacionales", escribi&oacute;.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El mes pasado, el ministerio de Salud indio atac&oacute; a la revista The Economist por asegurar en un art&iacute;culo que el exceso de mortalidad era entre cinco y siete veces superior al balance oficial.</li>
+<li>El ministerio se&ntilde;al&oacute; que la pieza era "especulativa" y "desinformada".</li>
+<li>Un informe de la OMS en mayo se&ntilde;al&oacute; que hasta tres veces m&aacute;s personas murieron en el mundo durante la pandemia (por coronavirus u otras causas) de lo indicado en las estad&iacute;sticas oficiales.</li>
+</ul>
+}
+title Muertes por covid-19 en India serían hasta 10 veces más que las reconocidas
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202107/headers/-casos-de-covid-india.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El número real de muertes causadas por el covid-19 en India podría ser hasta diez veces superior a las casi 415.000 registradas en el balance oficial, indicó un grupo de investigación estadounidense este martes.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>India<b>
+    text1 Muertes por covid-19 en India serían hasta 10 veces más que las reconocidas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

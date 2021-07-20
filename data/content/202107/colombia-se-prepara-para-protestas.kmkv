@@ -1,0 +1,57 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El principal colectivo de manifestantes en Colombia convoc&oacute; este martes a una nueva jornada de protestas contra el presidente Iv&aacute;n Duque, luego de m&aacute;s de un mes de pausa y cuando el pa&iacute;s celebra su fiesta nacional.</li>
+<li>"La gente no va parar de movilizarse y de protestar contra este mal gobierno", dijo a W Radio Fabio Arias, dirigente de la Central Unitaria de Trabajadores.</li>
+<li>En la ma&ntilde;ana decenas de personas llegaban a los diferentes puntos de encuentro en Bogot&aacute;, uno de los principales focos de las manifestaciones contra el presidente conservador que estallaron en 28 de abril y se mantienen desde entonces con jornadas m&aacute;s intensas que otras.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El llamado Comit&eacute; Nacional del Paro -que re&uacute;ne a sindicatos, estudiantes, ind&iacute;genas y organizaciones sociales- cit&oacute; a marchas y concentraciones en las principales ciudades del pa&iacute;s luego de haberlas suspendido temporalmente el 15 de junio.</li>
+<li>La movilizaci&oacute;n transcurre en un ambiente enrarecido por denuncias del gobierno sobre infiltraci&oacute;n de grupos armados en las marchas, capturas de manifestantes y advertencias de las autoridades sobre un posible incremento de muertes y contagios por covid-19 cuando el pa&iacute;s sale de la peor ola de la pandemia.</li>
+<li>Casi una decena de ciudades impusieron toques de queda nocturnos para evitar disturbios. &nbsp;</li>
+<li>M&aacute;s de 60 personas han muerto y miles fueron heridas en casi tres meses de movilizaciones, seg&uacute;n la Defensor&iacute;a del Pueblo (ombudsman) y autoridades civiles.</li>
+</ul>
+<p><strong>En Profundidad&nbsp;</strong></p>
+<p>Lo que comenz&oacute; como una protesta contra un fallido plan del gobierno para elevar impuestos a la clase media fue avivado por la represi&oacute;n de la fuerza p&uacute;blica, denunciada por la comunidad internacional.</p>
+<p>Los manifestantes tienen reclamos variopintos, que incluyen una reforma policial y un Estado m&aacute;s solidario para lidiar con los estragos econ&oacute;micos de la pandemia, que elev&oacute; la pobreza del 37% al 42% de la poblaci&oacute;n de 50 millones de habitantes.&nbsp;</p>
+<p>El Comit&eacute; Nacional del Paro surgido en 2019 y que dio origen al in&eacute;dito movimiento de protestas contra Duque no representa a todos los sectores inconformes.</p>
+<p>La nueva jornada de protestas coincide con el D&iacute;a de la Independencia de Colombia y el comienzo de una nueva legislatura en el Congreso, adonde los manifestantes esperan llevar sus reclamos.&nbsp;</p>
+<p>El gobierno presentar&aacute; tambi&eacute;n una nueva propuesta de reforma tributaria ante el Congreso.&nbsp;</p>
+<p>De acuerdo a la polic&iacute;a, unos 65.000 hombres custodiar&aacute;n las manifestaciones.</p>
+<p>Las protestas han sido en su mayor&iacute;a pac&iacute;ficas, aunque se han presentado cortes de rutas, disturbios y choques entre civiles y la fuerza p&uacute;blica.</p>
+}
+title Colombia se prepara para nuevas protestas contra el gobierno
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202107/headers/colombia-se-prepara-para-protestas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El principal colectivo de manifestantes en Colombia convocó este martes a una nueva jornada de protestas contra el presidente Iván Duque, luego de más de un mes de pausa y cuando el país celebra su fiesta nacional.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Colombia<b>
+    text1 Colombia se prepara para nuevas protestas contra el gobierno
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

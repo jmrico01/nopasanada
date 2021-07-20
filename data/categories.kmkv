@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202107/disputas-por-reservas-de-oro-venezuela
+        featured{array} /content/202107/colombia-se-prepara-para-protestas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202107/-tregua-en-afganistan-termina-sin-avances
+        featured{array} /content/202107/-pedro-castillo-presidente-peru
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/-se-reanuda-juicio-contra-expresidente-zuma
+    featured{array} /content/202107/-casos-de-covid-india
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202107/9-clara-sola-la-pelicula-costarricense-en-cannes-que-alienta-a-hablar-del-deseo-sexual-femenino
