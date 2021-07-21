@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202107/21-aumento-alarmante-de-desapariciones-de-mujeres-en-peru
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/-casos-de-covid-india
+    featured{array} /content/202107/21-primer-ministro-hungaro-convoca-referendum-sobre-ley-que-afecta-a-comunidad-lgtb
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202107/9-clara-sola-la-pelicula-costarricense-en-cannes-que-alienta-a-hablar-del-deseo-sexual-femenino
