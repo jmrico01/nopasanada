@@ -1,0 +1,59 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Al menos 25 personas murieron en China, varios en el tren subterr&aacute;neo de la ciudad de Zhengzhou, seg&uacute;n un balance divulgado el mi&eacute;rcoles a ra&iacute;z de inundaciones que generado una situaci&oacute;n "extremadamente grave", seg&uacute;n las calific&oacute; el presidente Xi Jinping.</li>
+<li>Cerca de 200.000 personas fueron evacuadas en Zhengzhou, ciudad de 10 millones de habitantes, situada a 700 km al sur de Pek&iacute;n.</li>
+<li>Im&aacute;genes difundidas en las redes sociales mostraban a los pasajeros del metro con el agua hasta el cuello en un vag&oacute;n, aferrados a las asas.</li>
+<li>Un pasajero cont&oacute; en la red Weibo que los socorristas abrieron el techo de su vag&oacute;n para sacar, uno por uno, a los pasajeros. Otras im&aacute;genes muestran a un pasajero sentado en el techo de su vag&oacute;n medio sumergido por el agua en un t&uacute;nel.</li>
+<li>El ej&eacute;rcito fue llamado para reforzar las labores de socorro en la capital de la populosa provincia de Henan, que ha recibido en tres d&iacute;as el equivalente a un a&ntilde;o de lluvia.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>La ciudad "registr&oacute; una serie de tormentas raras y violentas, provocando una acumulaci&oacute;n de agua en el metro de Zhengzhou", explicaron las autoridades de la ciudad en un mensaje en la red social Weibo.</p>
+<p>Las autoridades decretaron el martes Zhengzhou en alerta roja.</p>
+<p>Los servicios de emergencia decretaron alerta de nivel 2 en el conjunto del pa&iacute;s por las inundaciones.</p>
+<p>La televisi&oacute;n nacional CCTV mostr&oacute; calles de la ciudad anegadas por el agua, mientras los habitantes empujaban sus veh&iacute;culos en las arterias inundadas.</p>
+<p>Seg&uacute;n las autoridades locales, m&aacute;s de 36.000 residentes de la ciudad estaban afectados por el desastre.</p>
+<p>Los servicios meteorol&oacute;gicos de Zhengzhou anunciaron que se trata de las mayores precipitaciones desde que se empezaron a recopilar datos hace 60 a&ntilde;os.</p>
+<p>El presidente Xi inst&oacute; a la movilizaci&oacute;n ante la inclemencia del tiempo. "Han cedido represas, provocando graves heridas, muertes y da&ntilde;os. La situaci&oacute;n por las inundaciones es sumamente grave", declar&oacute;, seg&uacute;n informa la televisi&oacute;n nacional.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La mirada est&aacute; puesta tambi&eacute;n en la brecha de 20 metros abierta en el muro de la represa de Yihetan, cerca de Luoyang, una ciudad de 7 millones de habitantes, y que "puede romperse en cualquier momento", advirti&oacute; el ej&eacute;rcito.</li>
+<li>Los militares ten&iacute;an previsto realizar una operaci&oacute;n de urgencia para tratar de desviar las crecidas y evitar una cat&aacute;strofe.</li>
+<li>Las lluvias estacionales provocan cada a&ntilde;o inundaciones en China. Pero la amenaza ha crecido en los &uacute;ltimos a&ntilde;os, debido a la construcci&oacute;n de represas o desviaciones del cauce de los r&iacute;os que a menudo han cortado las conexiones existentes entre los r&iacute;os y los lagos adyacentes.</li>
+<li>El a&ntilde;o pasado, las inundaciones sin precedente en el suroeste da&ntilde;aron carreteras y provocaron la evacuaci&oacute;n de decenas de miles de habitantes.</li>
+</ul>
+}
+title Veinticinco muertos por lluvias torrenciales en China
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202107/headers/21-veinticinco-muertos-por-lluvias-torrenciales-en-china.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Al menos 25 personas murieron en China, varios en el tren subterráneo de la ciudad de Zhengzhou, según un balance divulgado el miércoles a raíz de inundaciones que generado una situación "extremadamente grave", según las calificó el presidente Xi Jinping.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 Veinticinco muertos por lluvias torrenciales en China
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
