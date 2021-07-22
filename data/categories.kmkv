@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202107/colombia-se-prepara-para-protestas
+        featured{array} /content/202107/22-eeuu-designo-emisario-para-facilitar-elecciones-libres-en-haiti
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202107/21-aumento-alarmante-de-desapariciones-de-mujeres-en-peru
+        featured{array} /content/202107/22-bolsonaro-lleva-al-limite-su-campana-contra-urna-electronica-en-brasil
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/21-primer-ministro-hungaro-convoca-referendum-sobre-ley-que-afecta-a-comunidad-lgtb
+    featured{array} /content/202107/22-solo-es-racismo-violencia-en-sudafrica-alimenta-viejos-conflictos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202107/9-clara-sola-la-pelicula-costarricense-en-cannes-que-alienta-a-hablar-del-deseo-sexual-femenino
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202107/21-variante-delta-del-covid-19-sera-dominante-en-proximos-meses
+    featured{array} /content/202107/22-argentina-reclama-a-rusia-atrasos-en-entregas-de-vacuna-sputnik-v
 }
 other{kmkv} {
     name Other (Internal)
