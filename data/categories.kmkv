@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202107/22-eeuu-designo-emisario-para-facilitar-elecciones-libres-en-haiti
+        featured{array} /content/202107/28-castillo-el-primer-presidente-pobre-de-peru
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202107/22-bolsonaro-lleva-al-limite-su-campana-contra-urna-electronica-en-brasil
+        featured{array} /content/202107/28-condenan-a-18-anos-de-prision-en-china-a-empresario-multimillonario-critico-del-gobierno
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/22-solo-es-racismo-violencia-en-sudafrica-alimenta-viejos-conflictos
+    featured{array} /content/202107/28-volcan-sinabung-de-indonesia-en-erupcion
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202107/9-clara-sola-la-pelicula-costarricense-en-cannes-que-alienta-a-hablar-del-deseo-sexual-femenino

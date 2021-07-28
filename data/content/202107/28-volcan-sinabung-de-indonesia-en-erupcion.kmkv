@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El volc&aacute;n Sinabung de Indonesia entr&oacute; en erupci&oacute;n este mi&eacute;rcoles despidiendo una larga columna de humo y cenizas.</li>
+<li>La erupci&oacute;n del volc&aacute;n ubicado en el norte de la isla de Sumatra dur&oacute; 12 minutos, seg&uacute;n la agencia geol&oacute;gica local.</li>
+<li>"El material volc&aacute;nico alcanz&oacute; los 4.500 metros" (de altura), se&ntilde;al&oacute; el director del puesto de monitoreo de Sinabung, Armen Putra.</li>
+<li>En una imagen compartida por esa oficina puede verse una espesa columna de humo negro saliendo del cr&aacute;ter.</li>
+<li>Las nubes de ceniza y humo llegaron hasta una distancia de m&aacute;s de 1.000 metros de la cima, agreg&oacute; esa fuente.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las autoridades no emitieron orden de evacuaci&oacute;n porque los materiales volc&aacute;nicos no alcanzaron los pueblos m&aacute;s cercanos y no hubo inconvenientes para los vuelos en la zona.</li>
+<li>Pero ordenaron a la poblaci&oacute;n que evite acercarse a menos de cinco kil&oacute;metros del cr&aacute;ter, un radio en el que de todos modos no vive nadie porque la actividad volc&aacute;nica ha aumentado en los &uacute;ltimos a&ntilde;os.</li>
+<li>Sinabung, un volc&aacute;n de 2.460 metros de altura, estuvo dormido durante siglos hasta que despert&oacute; en 2010 con una erupci&oacute;n que mat&oacute; a dos personas.</li>
+<li>Volvi&oacute; a entrar en erupci&oacute;n 2013 y desde entonces se mantiene muy activo.</li>
+<li>La siguiente erupci&oacute;n fue en 2014 y dej&oacute; 16 muertos. En 2016 se registr&oacute; otra que mat&oacute; a siete personas.</li>
+<li>Indonesia -un archipi&eacute;lago de m&aacute;s de 17.000 islas- tiene unos 130 volcanes activos.</li>
+<li>El pa&iacute;s se encuentra en el "Cintur&oacute;n de Fuego" del Pac&iacute;fico, una zona con frecuente actividad s&iacute;smica en la que chocan placas tect&oacute;nicas.</li>
+</ul>
+}
+title Volcán Sinabung de Indonesia entra en erupción
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202107/headers/28-volcan-sinabung-de-indonesia-en-erupcion.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El volcán Sinabung de Indonesia entró en erupción este miércoles despidiendo una larga columna de humo y cenizas.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Indonesia<b>
+    text1 Volcán Sinabung de Indonesia entra en erupción
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
