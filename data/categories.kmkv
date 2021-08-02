@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202107/30-estadounidenses-vacunados-contra-covid-19-culpan-a-no-inmunizados-de-alargar-pandemia
+        featured{array} /content/202108/2-ue-sanciona-a-esposa-e-hijo-de-ortega-por-represion-en-nicaragua
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202107/30-nueve-anos-de-carcel-para-primer-hongkones
+        featured{array} /content/202108/2-millones-de-confinados-en-china-para-luchar-contra-variante-delta-del-coronavirus
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202107/30-bolsonaro-tambien-esta-desgastado-entre-fieles-evangelicos
+    featured{array} /content/202108/2-laurel-hubbard-primera-olimpica-transgenero-eliminada-sin-levantar-una-barra
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202107/9-clara-sola-la-pelicula-costarricense-en-cannes-que-alienta-a-hablar-del-deseo-sexual-femenino
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202107/30-estadounidenses-vacunados-contra-covid-19-culpan-a-no-inmunizados-de-alargar-pandemia
+    featured{array} /content/202108/2-polonia-otorga-visado-a-atleta-olimpica-bielorussa-amenazada-de-repatriacion
 }
 other{kmkv} {
     name Other (Internal)
