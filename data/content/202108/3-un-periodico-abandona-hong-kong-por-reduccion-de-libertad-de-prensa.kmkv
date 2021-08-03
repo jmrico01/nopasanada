@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El medio de comunicaci&oacute;n de Hong Kong Initium anunci&oacute; el martes su traslado a Singapur, alegando que la libertad de prensa est&aacute; disminuyendo en la ciudad.&nbsp;</li>
+<li>Initium es el primer medio de comunicaci&oacute;n de Hong Kong que abandona el centro financiero debido a la represi&oacute;n de la disidencia por parte de las autoridades.</li>
+<li>La noticia llega el d&iacute;a en que el presentador Steve Vines y uno de los artistas m&aacute;s famosos de Hong Kong, Kacey Wong, confirmaron por separado que tambi&eacute;n hab&iacute;an abandonado Hong Kong, alegando un retroceso de las libertades.</li>
+<li>"En los &uacute;ltimos seis a&ntilde;os, el camino hacia la libertad se ha vuelto m&aacute;s dif&iacute;cil y peligroso, el mundo est&aacute; cada vez m&aacute;s polarizado y antagonista", escribi&oacute; Susie Wu, editora en jefe de Initium, en un art&iacute;culo con motivo de su sexto aniversario.</li>
+<li>Ella mencion&oacute; el descenso constante de Hong Kong en las clasificaciones anuales de la libertad de prensa y el ascenso de los nacionalistas que expresan su ira en l&iacute;nea en China continental.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Initium es un peri&oacute;dico en lengua china, relativamente peque&ntilde;o, que cuenta con unos 60.000 suscriptores de pago.</li>
+<li>Esta partida de Hong Kong ilustra la preocupaci&oacute;n de algunos medios de comunicaci&oacute;n por su futuro en la ciudad financiera, anteriormente consideraba como un lugar privilegiado de expresi&oacute;n y libertad.</li>
+<li>Hong Kong es actualmente objeto de una recuperaci&oacute;n en manos del poder central chino, dos a&ntilde;os despu&eacute;s del inmenso movimiento de protesta de 2019.</li>
+<li>La draconiana Ley de Seguridad Nacional impuesta por Pek&iacute;n el a&ntilde;o pasado transform&oacute; en crimen toda disidencia en la antigua colonia brit&aacute;nica.</li>
+<li>La mayor&iacute;a de las figuras del movimiento prodemocracia han sido detenidas, encarceladas o han huido al extranjero.</li>
+<li>El martes, la cadena p&uacute;blica RTHK confirm&oacute; que el presentador Steve Vines hab&iacute;a partido hacia el Reino Unido debido a lo que &eacute;l llam&oacute; "terror blanco que azota a Hong Kong".</li>
+<li>"Las instituciones que garantizan la libertad de los habitantes de Hong Kong est&aacute;n siendo desmanteladas por personas que se preocupan tan poco por su suerte que ni siquiera se quejan cuando resulta evidente que la esencia misma del lugar est&aacute; siendo destruida", escribi&oacute; Vines en un correo electr&oacute;nico dirigido a sus colegas, seg&uacute;n RTHK.</li>
+<li>En una entrevista concedida al sitio web Hong Kong Free Press, el artista disidente Kacey Wong tambi&eacute;n confirm&oacute; que hab&iacute;a huido de la ciudad por razones pol&iacute;ticas.</li>
+</ul>
+}
+title Un periódico abandona Hong Kong por reducción de libertad de prensa
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/3-un-periodico-abandona-hong-kong-por-reduccion-de-libertad-de-prensa.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El medio de comunicación de Hong Kong Initium anunció el martes su traslado a Singapur, alegando que la libertad de prensa está disminuyendo en la ciudad.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Hong Kong<b>
+    text1 Un periódico abandona Hong Kong por reducción de libertad de prensa
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
