@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/2-millones-de-confinados-en-china-para-luchar-contra-variante-delta-del-coronavirus
+        featured{array} /content/202108/4-criaderos-de-cerdo-amenazados-por-peste-porcina-africana-de-america-a-asia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/2-laurel-hubbard-primera-olimpica-transgenero-eliminada-sin-levantar-una-barra
+    featured{array} /content/202108/4-criaderos-de-cerdo-amenazados-por-peste-porcina-africana-de-america-a-asia
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202107/9-clara-sola-la-pelicula-costarricense-en-cannes-que-alienta-a-hablar-del-deseo-sexual-femenino
+        featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/2-polonia-otorga-visado-a-atleta-olimpica-bielorussa-amenazada-de-repatriacion
+    featured{array} /content/202108/4-la-noche-fue-un-infierno-griegos-se-enfrentan-a-incendios
 }
 other{kmkv} {
     name Other (Internal)
