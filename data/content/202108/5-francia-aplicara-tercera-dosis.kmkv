@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Francia administrar&aacute; una tercera dosis de vacuna anticovid para las "personas mayores y m&aacute;s vulnerables" a partir de septiembre, anunci&oacute; este jueves el presidente Emmanuel Macron.</li>
+<li>"S&iacute;, probablemente se necesitar&aacute; una tercera dosis, no para todos de inmediato, pero al menos para las personas mayores y m&aacute;s vulnerables", dijo Macron en un video publicado en las redes sociales.</li>
+<li>El ministerio de Salud se&ntilde;al&oacute; que la lista exacta de las personas que podr&aacute;n recibir la vacuna de refuerzo se decidir&aacute; la pr&oacute;xima semana.</li>
+<li>Actualmente en Francia se recomienda una tercera dosis &uacute;nicamente a las personas inmunodeprimidas, como por ejemplo aquellas que recibieron un trasplante.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Otros pa&iacute;ses europeos, como Alemania, ya anunciaron que administrar&aacute;n una vacuna de refuerzo anticovid a las personas mayores y vulnerables a partir de septiembre, as&iacute; como a quienes no hayan recibido el inmunizante con &nbsp;tecnolog&iacute;a de ARN mensajero, considerada m&aacute;s eficaz.</li>
+<li>Israel, uno de los pa&iacute;ses m&aacute;s avanzados en la campa&ntilde;a de vacunaci&oacute;n, comenz&oacute; ya a administrar este viernes una tercera inyecci&oacute;n a las personas mayores de 60 a&ntilde;os.</li>
+<li>La administraci&oacute;n de tres dosis de la vacuna anticovid refuerza la protecci&oacute;n ante la contagiosa variante delta, seg&uacute;n el laboratorio Pfizer, pero no ha sido aprobada por las autoridades sanitarias de Estados Unidos o la Uni&oacute;n Europea.</li>
+<li>Francia enfrenta actualmente una cuarta ola de coronavirus, debido principalmente a esta variante identificada por primera vez en India.</li>
+<li>Con el objetivo de incitar a la poblaci&oacute;n a vacunarse, las autoridades impusieron desde el 21 de julio un certificado sanitario para poder ingresar a cualquier lugar de ocio o deportivo donde se concentren m&aacute;s de 50 personas.</li>
+<li>Este certificado que acredita la vacunaci&oacute;n completa o un resultado negativo en una prueba realizada en las 48 horas anteriores, entrar&aacute; en vigor este mes en restaurantes y caf&eacute;s.</li>
+<li>M&aacute;s de 112.000 personas han muerto en Francia desde el inicio de la pandemia.</li>
+</ul>
+}
+title Francia aplicará tercera dosis de vacuna anticovid a personas mayores
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/5-francia-aplicara-tercera-dosis.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Francia administrará una tercera dosis de vacuna anticovid para las "personas mayores y más vulnerables" a partir de septiembre, anunció este jueves el presidente Emmanuel Macron.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Francia<b>
+    text1 Francia aplicará tercera dosis de vacuna anticovid a personas mayores
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

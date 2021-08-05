@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202108/2-ue-sanciona-a-esposa-e-hijo-de-ortega-por-represion-en-nicaragua
+        featured{array} /content/202108/5-venezuela-eliminara-seis-ceros-a-su-moneda
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/4-criaderos-de-cerdo-amenazados-por-peste-porcina-africana-de-america-a-asia
+        featured{array} /content/202108/5-record-diario-de-migrantes-que-cruzan-el-canal-de-la-mancha
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/4-criaderos-de-cerdo-amenazados-por-peste-porcina-africana-de-america-a-asia
+    featured{array} /content/202108/5-francia-aplicara-tercera-dosis
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/4-la-noche-fue-un-infierno-griegos-se-enfrentan-a-incendios
+    featured{array} /content/202108/5-incendio-arrasa-con-pueblo-en-california
 }
 other{kmkv} {
     name Other (Internal)

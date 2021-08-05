@@ -1,0 +1,58 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Un enorme incendio arras&oacute; un peque&ntilde;o pueblo del norte de California, horas despu&eacute;s de que las autoridades exhortaron a los residentes a evacuar inmediatamente sus hogares.</li>
+<li>El centro de Greenville, una comunidad en el norte del estado, fue asolado por las llamas luego de que los fuertes vientos empujaran el incendio Dixie en esa direcci&oacute;n.</li>
+<li>"Dir&iacute;a que la mayor&iacute;a del centro de Greenville est&aacute; completamente destruido", tuite&oacute; el fot&oacute;grafo Stuart Palley, mostrando im&aacute;genes de la devastaci&oacute;n.</li>
+<li>"Mi coraz&oacute;n est&aacute; roto por este precioso pueblo".</li>
+<li>Las autoridades hab&iacute;an previamente emitido alertas a los residentes de Greenville y la cercana Chester, donde los vientos de hasta 56 km/h avivaron las llamas de Dixie, el mayor incendio del estado.</li>
+<li>"Bomberos est&aacute;n luchando por el pueblo de Greenville", dijo un portavoz del servicio forestal estadounidense al diario San Francisco Chronicle, la noche del mi&eacute;rcoles, pero no dio m&aacute;s detalles.</li>
+<li>Im&aacute;genes de mostraban c&oacute;mo el calor del incendio hab&iacute;a doblado postes el&eacute;ctricos, y solo algunas estructuras quedaban a&uacute;n de pie.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las llamas alcanzaron el pueblo de unos 800 habitantes cerca de las 16H00 (20H00 GMT), seg&uacute;n Jake Cagle, del servicio forestal.</li>
+<li>"El comportamiento del incendio es intenso. No es a lo que estamos acostumbrados", dijo en un video la noche del mi&eacute;rcoles.</li>
+<li>Previamente, la oficina del alguacil del condado de Plumas hab&iacute;a emitido una orden de evacuaci&oacute;n para que los cerca de 2.000 residentes de Chester abandonaran la zona.</li>
+<li>"Si te quedaste debes evacuar hacia el ESTE &iexcl;INMEDIATAMENTE!", escribi&oacute; la oficina en Facebook.</li>
+<li>"Si no puedes evacuar y te ves amenazado por el fuego y puedes llegar a salvo, &iexcl;ref&uacute;giate en el campo de b&eacute;isbol del instituto de Chester!".</li>
+<li>En una segunda advertencia en las redes sociales, la oficina a&ntilde;adi&oacute;: "&iexcl;Si todav&iacute;a est&aacute;s en el &aacute;rea de Greenville, est&aacute;s en peligro inminente y DEBES irte ahora!!!".</li>
+<li>"Si te quedas, es posible que los socorristas no puedan asistirte".</li>
+<li>El incendio Dixie calcina los bosques del norte de California desde mediados de julio, un efecto m&aacute;s de la crisis clim&aacute;tica que ha provocado un calor sofocante y una alarmante sequ&iacute;a.</li>
+<li>Para mediados de julio, el &aacute;rea incendiada en California era m&aacute;s de 250% respecto a 2020, que a su vez fue el peor a&ntilde;o en la historia moderna del estado.</li>
+</ul>
+}
+title Incendio arrasa con pueblo en California
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/5-incendio-arrasa-con-pueblo-en-california.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un enorme incendio arrasó un pequeño pueblo del norte de California, horas después de que las autoridades exhortaron a los residentes a evacuar inmediatamente sus hogares.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Estados Unidos<b>
+    text1 Incendio arrasa con pueblo en California
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

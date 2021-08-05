@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Venezuela eliminar&aacute; a partir de octubre seis ceros al bol&iacute;var, moneda local golpeada por una alta inflaci&oacute;n y cuyo valor se ha desplomado dando paso al uso del d&oacute;lar, e inaugurar&aacute; un nuevo cono monetario, anunci&oacute; este jueves el Banco Central (BCV).</li>
+<li>"A partir del 1 de octubre de 2021 entrar&aacute; en vigencia el Bol&iacute;var Digital, al aplicar una escala monetaria que suprime seis (6) ceros a la moneda nacional. Es decir, todo importe monetario y todo aquello expresado en moneda nacional, se dividir&aacute; entre un mill&oacute;n (1.000.000)", inform&oacute; el ente bancario en un comunicado.</li>
+<li>La decisi&oacute;n, que constituye la tercera reconversi&oacute;n monetaria en 13 a&ntilde;os, busca "facilitar" el uso del bol&iacute;var, golpeado por una inflaci&oacute;n acumulada de 264,8% entre enero y mayo seg&uacute;n el BVC, llev&aacute;ndolo a "una escala monetaria m&aacute;s sencilla", continu&oacute; el texto.</li>
+<li>Un nuevo cono monetario con cinco nuevos billetes de 5, 10, 20, 50 y 100 bol&iacute;vares y una moneda de 1 entrar&aacute;n en vigencia en esa fecha, inform&oacute; el ministro de Comunicaci&oacute;n e Informaci&oacute;n, Freddy &Ntilde;&aacute;&ntilde;ez, por Twitter.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La medida era esperada por expertos en medio de una espiral inflacionaria que cerr&oacute; en 2020 con 2.959,8% de inflaci&oacute;n acumulada y en 2019 con 9.585,5%, seg&uacute;n datos del BCV. En las calles, es com&uacute;n escuchar a las personas hablar de "miles" en lugar de "millones" al momento de comprar bienes.</li>
+<li>En Venezuela, el efectivo en bol&iacute;vares escasea y es usual ver largas filas en los bancos. El bol&iacute;var termin&oacute; siendo sustituido por el d&oacute;lar, que se ha convertido en la moneda de facto en el pa&iacute;s.</li>
+<li>Cada vez es m&aacute;s com&uacute;n que los precios en cualquier comercio est&eacute;n reflejados en d&oacute;lares y los pagos se hagan en divisas. Para pagar en moneda local se hace normalmente a trav&eacute;s de tarjeta de d&eacute;bito o transferencia bancaria.</li>
+<li>En agosto de 2018 entr&oacute; en vigencia el cono monetario actual despu&eacute;s de que el presidente Nicol&aacute;s Maduro anunciara el mes anterior la eliminaci&oacute;n de cinco ceros a la moneda local para "facilitar transacciones". Ese cono monetario se ampli&oacute; por &uacute;ltima vez en marzo pasado.</li>
+<li>Una d&eacute;cada antes, en 2008, durante el gobierno del fallecido presidente Hugo Ch&aacute;vez (1999-2013) se hab&iacute;an eliminado tres ceros al bol&iacute;var.</li>
+</ul>
+}
+title Venezuela eliminará seis ceros a su moneda y anuncia nuevos billetes
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/5-venezuela-eliminara-seis-ceros-a-su-moneda.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Venezuela eliminará a partir de octubre seis ceros al bolívar, moneda local golpeada por una alta inflación y cuyo valor se ha desplomado dando paso al uso del dólar, e inaugurará un nuevo cono monetario, anunció este jueves el Banco Central (BCV).
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Venezuela<b>
+    text1 Venezuela eliminará seis ceros a su moneda y anuncia nuevos billetes
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
