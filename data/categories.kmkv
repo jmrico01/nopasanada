@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202108/5-venezuela-eliminara-seis-ceros-a-su-moneda
+        featured{array} /content/202108/6-hermano-del-opositor-navalni-condenado-a-un-ano-de-prision-en-suspenso
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/5-record-diario-de-migrantes-que-cruzan-el-canal-de-la-mancha
+        featured{array} /content/202108/6-grecia-enfrenta-situacion-critica-por-incendios
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/5-francia-aplicara-tercera-dosis
+    featured{array} /content/202108/6-panama-y-colombia-buscan-acuerdo-para-evitar-crisis-migratoria
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/5-incendio-arrasa-con-pueblo-en-california
+    featured{array} /content/202108/6-panama-y-colombia-buscan-acuerdo-para-evitar-crisis-migratoria
 }
 other{kmkv} {
     name Other (Internal)

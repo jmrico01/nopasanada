@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Panam&aacute; y Colombia tratar&aacute;n este viernes de llegar a un acuerdo para agilizar de forma segura el paso de miles de migrantes irregulares, principalmente haitianos y cubanos, que permanecen varados y desesperados en el lado colombiano de la frontera en su ruta hacia Estados Unidos.</li>
+<li>La situaci&oacute;n amenaza con desbordar los ya sobrepoblados centros de atenci&oacute;n migratoria que las autoridades paname&ntilde;as han instalado para brindar atenci&oacute;n a los migrantes tras su paso por la inh&oacute;spita y peligrosa selva del Dari&eacute;n, convertida en un aut&eacute;ntico corredor para la migraci&oacute;n irregular.</li>
+<li>Para tratar de alcanzar un acuerdo, sendas delegaciones de Colombia, encabezada por la vicepresidenta y canciller, Marta Luc&iacute;a Ram&iacute;rez, y Panam&aacute;, dirigida por la ministra de Relaciones Exteriores, &Eacute;rika Mouynes, se reunir&aacute;n este viernes en la localidad paname&ntilde;a de Nicanor, en la provincia selv&aacute;tica de Dari&eacute;n.</li>
+<li>La reuni&oacute;n "es un ejercicio importante que est&aacute; haciendo el gobierno desde hace meses para visibilizar [el problema] y anticiparnos a lo que podr&iacute;a ser una crisis migratoria", se&ntilde;al&oacute; Mouynes minutos antes de partir al encuentro con su hom&oacute;loga colombiana.</li>
+<li>"Hay dos puntos muy importantes que estamos tratando de abordar: el n&uacute;mero de migrantes que nos llegan y el intercambio de informaci&oacute;n. Para nosotros son imprescindibles tener estos dos elementos para poder mantener un flujo controlado", agreg&oacute; la funcionaria paname&ntilde;a.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Desde hace varias semanas, miles de migrantes, entre ellos menores de edad y mujeres embarazadas, aguardan en el puerto colombiano de Necocl&iacute; embarcaciones que los lleven hasta la frontera con Panam&aacute; para atravesar el Dari&eacute;n.</li>
+<li>Este corredor selv&aacute;tico de 266 km entre Colombia y Panam&aacute; se ha convertido en paso obligado para la inmigraci&oacute;n irregular que desde Sudam&eacute;rica trata de llegar hasta M&eacute;xico, Estados Unidos y Canad&aacute;.</li>
+<li>Los migrantes cruzan la jungla, de 575.000 hect&aacute;reas, pese a que no hay v&iacute;as de comunicaci&oacute;n terrestres y deben enfrentar grupos criminales, r&iacute;os caudalosos y animales salvajes, como serpientes venenosas, jaguares, alacranes y lagartos.</li>
+<li>Panam&aacute; pretende alcanzar con Colombia un acuerdo similar al que tiene con Costa Rica, mediante el cual, un n&uacute;mero determinado de migrantes son trasladados diariamente de manera controlada hacia la frontera costarricense con el permiso de San Jos&eacute; para que puedan continuar su periplo.</li>
+<li>Seg&uacute;n datos oficiales, desde hace una d&eacute;cada m&aacute;s de 140.000 migrantes irregulares cruzaron el Dari&eacute;n.</li>
+<li>Aunque la pandemia del covid-19 redujo al m&iacute;nimo el tr&aacute;nsito por esta ruta, en 2021 se ha vuelto a disparar de manera progresiva.</li>
+<li>En lo que va de a&ntilde;o la han cruzado unas 49.000 personas, en su gran mayor&iacute;a haitianos y cubanos, aunque tambi&eacute;n hay asi&aacute;ticos y africanos.</li>
+</ul>
+}
+title Panamá y Colombia buscan acuerdo para evitar crisis migratoria
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/6-panama-y-colombia-buscan-acuerdo-para-evitar-crisis-migratoria.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Panamá y Colombia tratarán este viernes de llegar a un acuerdo para agilizar de forma segura el paso de miles de migrantes irregulares, principalmente haitianos y cubanos, que permanecen varados y desesperados en el lado colombiano de la frontera en su ruta hacia Estados Unidos.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Panamá y Colombia<b>
+    text1 Panamá y Colombia buscan acuerdo para evitar crisis migratoria
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
