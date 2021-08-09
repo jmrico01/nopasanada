@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/6-grecia-enfrenta-situacion-critica-por-incendios
+        featured{array} /content/202108/9-beneficios-millonarios-de-productores-de-vacunas-contra-covid-19
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/6-panama-y-colombia-buscan-acuerdo-para-evitar-crisis-migratoria
+    featured{array} /content/202108/9-talibanes-se-apoderan-de-una-sexta-capital-provincial-en-afganistan
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/6-panama-y-colombia-buscan-acuerdo-para-evitar-crisis-migratoria
+    featured{array} /content/202108/9-incendio-en-california-es-el-segundo-peor-en-su-historia
 }
 other{kmkv} {
     name Other (Internal)
