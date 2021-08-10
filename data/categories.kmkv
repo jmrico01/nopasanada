@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202107/12-nueva-ola-de-calor-e-incendios-golpean-a-eeuu-y-canada
+        featured{array} /content/202108/9-calentamiento-global-acelera-con-consecuencias-sin-precedentes
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202108/6-hermano-del-opositor-navalni-condenado-a-un-ano-de-prision-en-suspenso
+        featured{array} /content/202108/10-bolsonaro-participa-en-atipico-desfile-de-tanques-militares-en-brasilia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/9-beneficios-millonarios-de-productores-de-vacunas-contra-covid-19
+        featured{array} /content/202108/10-hong-kong-aplicara-ley-china-contra-sanciones-extranjeras
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/9-talibanes-se-apoderan-de-una-sexta-capital-provincial-en-afganistan
+    featured{array} /content/202108/10-demandan-al-principe-andres-por-abusos-sexuales-en-caso-epstein
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/9-incendio-en-california-es-el-segundo-peor-en-su-historia
+    featured{array} /content/202108/10-bomberos-cuerpo-a-cuerpo-contra-devastador-incendio-en-isla-griega
 }
 other{kmkv} {
     name Other (Internal)
