@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202108/10-bolsonaro-participa-en-atipico-desfile-de-tanques-militares-en-brasilia
+        featured{array} /content/202108/11-chavismo-y-oposicion-retoman-dialogo-en-mexico
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/10-hong-kong-aplicara-ley-china-contra-sanciones-extranjeras
+        featured{array} /content/202108/11-china-prohibira-canciones-de-karaokes-que-amenacen-la-seguridad-nacional
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/10-demandan-al-principe-andres-por-abusos-sexuales-en-caso-epstein
+    featured{array} /content/202108/11-china-prohibira-canciones-de-karaokes-que-amenacen-la-seguridad-nacional
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/10-bomberos-cuerpo-a-cuerpo-contra-devastador-incendio-en-isla-griega
+    featured{array} /content/202108/11-preisdente-afgano-visita-ciudad-asediada-por-talibanes
 }
 other{kmkv} {
     name Other (Internal)

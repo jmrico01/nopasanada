@@ -1,0 +1,51 @@
+text {
+<p style="text-align: left;">Foto de: <a href="https://www.facebook.com/PalermoVigilidelfuoco/photos/a.1698066196870819/4585518998125510/?type=3">Vigili del Fuoco Palermo</a></p>
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El sur de Italia sufr&iacute;a esta semana un pico de calor acompa&ntilde;ado de incendios, especialmente en Sicilia y Calabria, donde un parque natural inscrito en la lista de la Unesco est&aacute; amenazado.</li>
+<li>La pen&iacute;nsula se enfrenta actualmente a su semana m&aacute;s calurosa del verano, con temperaturas que superan los 47 grados en Sicilia, cerca de Siracusa. El Servicio meteorol&oacute;gico nacional espera que el mi&eacute;rcoles se rompa el r&eacute;cord de la temperatura m&aacute;s alta jam&aacute;s registrada en Italia (48,5 grados en 1999 en Sicilia).</li>
+<li>El term&oacute;metro podr&iacute;a subir a 49-50 grados el mi&eacute;rcoles en el sureste de Sicilia y a 39-42 grados en Calabria (la punta de la bota italiana), Puglia (el tal&oacute;n de la bota) y en Campania (regi&oacute;n de N&aacute;poles).</li>
+<li>En Calabria y Sicilia, los bomberos han realizado 300 intervenciones en las &uacute;ltimas 12 horas, y siete Canadair se han movilizado desde la madrugada, anunciaron los bomberos.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Durante varios d&iacute;as, las llamas alimentadas por el viento y el calor, han asediado a La Madonia, una zona monta&ntilde;osa cercana a Palermo, la capital siciliana, y han destruido cultivos, viviendas y edificios industriales.</li>
+<li>El gobernador de Sicilia, Nello Musumeci, pidi&oacute; que se declare el estado de emergencia nacional en La Madonia.</li>
+<li>En Calabria, las llamas amenazan el geoparque de Aspromonte, reconocido por la Unesco, un conjunto de monta&ntilde;as, cordilleras y mesetas de casi 2.000 metros de altura que se alternan con profundos valles que se elevan sobre un fragmento peninsular de la cordillera de los Apeninos, ofreciendo un panorama espectacular del Estrecho de Messina, Etna y las Islas Eolias.</li>
+<li>En los pr&oacute;ximos d&iacute;as, se espera que el anticicl&oacute;n responsable de la ola de calor que abruma a Italia, acertadamente llamado Lucifer, se mueva hacia el norte, donde se espera que las temperaturas alcancen los 39-40 grados en Toscana (centro) durante el fin de semana del 15 de agosto y en Lazio (regi&oacute;n de Roma).</li>
+</ul>
+}
+title Pico de calor en Italia afectada también por incendios
+day 11
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/11-pico-de-calor-en-italia-afectada-tambien-por-incendios.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El sur de Italia sufría esta semana un pico de calor acompañado de incendios, especialmente en Sicilia y Calabria, donde un parque natural inscrito en la lista de la Unesco está amenazado.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Italia<b>
+    text1 Pico de calor en Italia afectada también por incendios
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
