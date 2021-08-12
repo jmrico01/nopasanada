@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/11-china-prohibira-canciones-de-karaokes-que-amenacen-la-seguridad-nacional
+        featured{array} /content/202108/12-mas-de-100000-hectareas-quemadas-en-dos-semanas-de-incendios-en-grecia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/11-china-prohibira-canciones-de-karaokes-que-amenacen-la-seguridad-nacional
+    featured{array} /content/202108/12-seguidor-de-qanon-mato-a-sus-dos-hijos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/11-preisdente-afgano-visita-ciudad-asediada-por-talibanes
+    featured{array} /content/202108/12-mas-de-100000-hectareas-quemadas-en-dos-semanas-de-incendios-en-grecia
 }
 other{kmkv} {
     name Other (Internal)

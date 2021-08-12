@@ -1,0 +1,57 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Bomberos y voluntarios locales, con ayuda internacional, siguen luchando este jueves sin descanso contra las llamas que arrasan el norte de Argelia, durante el primero de los tres d&iacute;as de luto nacional decretados en honor de los 69 fallecidos durante estos incendios agravados por una ola de calor.&nbsp;</li>
+<li>El &uacute;ltimo balance oficial de v&iacute;ctimas, publicado el mi&eacute;rcoles, arroj&oacute; un total de 41 civiles y 28 militares fallecidos en este pa&iacute;s del norte de &Aacute;frica.&nbsp;</li>
+<li>En la prefectura de Tizi Uzu (al este de la capital, Argel), la zona donde se produjeron m&aacute;s muertes, las im&aacute;genes tomadas por un fot&oacute;grafo de la AFP muestran zonas enteras de bosque completamente calcinadas.&nbsp;</li>
+<li>Los vecinos evacuados de la zona constatan, al volver a sus casas, la magnitud de la devastaci&oacute;n: "No me queda nada. Mi taller, mi coche, mi departamento. Hasta las baldosas est&aacute;n destruidas", cuenta uno de ellos a la AFP.&nbsp;</li>
+<li>Sin embargo, este hombre se consuela al pensar que consigui&oacute; salvar a su familia, ya que "algunos vecinos murieron o perdieron a familiares".</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Las banderas ondeaban a media asta este jueves despu&eacute;s de que entraran en vigor los tres d&iacute;as de duelo nacional decretados el mi&eacute;rcoles por el presidente argelino, Abdelmadjid Tebboune.&nbsp;</p>
+<p>La ayuda internacional comenz&oacute; a llegar, como los dos aviones alquilados a la Uni&oacute;n Europea que aterrizaron este jueves en el aeropuerto de la capital, inform&oacute; la agencia APS.&nbsp;</p>
+<p>Francia anunci&oacute; el mi&eacute;rcoles que enviar&iacute;a dos aviones contraincendios y un avi&oacute;n de mando. Marruecos, el pa&iacute;s vecino con el que Argelia tiene relaciones complicadas, afirma estar listo para poner a su disposici&oacute;n dos aparatos.&nbsp;</p>
+<p>En Argelia, el trauma por los incendios es inmenso, "particulares y asociaciones se movilizan sin descanso para organizar recogidas de ropa, alimentos, medicamentos y productos de higiene", seg&uacute;n la web de informaci&oacute;n TSA, que titula su art&iacute;culo "la incre&iacute;ble ola de solidaridad".&nbsp;</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los incendios forestales son habituales en el norte de Argelia. En 2020, cerca de 44.000 hect&aacute;reas de monte bajo ardieron.</li>
+<li>Las autoridades argelinas investigan un posible origen provocado de los incendios. Cuatro "pir&oacute;manos" fueron detenidos sin que se conozcan m&aacute;s detalles por ahora.</li>
+<li>El calor extremo complica, adem&aacute;s, las tareas de extinci&oacute;n.</li>
+<li>La zona del Magreb se enfrenta a una ola de calor extremo, con temperaturas cercanas a los 50 grados, que podr&iacute;a extenderse hasta el fin de semana, seg&uacute;n diferentes servicios meteorol&oacute;gicos.</li>
+<li>T&uacute;nez, vecino del este de Argelia, registr&oacute; el mi&eacute;rcoles el r&eacute;cord absoluto de temperatura en el pa&iacute;s, 50,3 &ordm;C en Kairu&aacute;n, en el centro.&nbsp;</li>
+</ul>
+}
+title Argelia en duelo sigue luchando contra incendios
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/12-argelia-sigue-luchando-contra-incendios.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Bomberos y voluntarios locales, con ayuda internacional, siguen luchando este jueves sin descanso contra las llamas que arrasan el norte de Argelia, durante el primero de los tres días de luto nacional decretados en honor de los 69 fallecidos durante estos incendios agravados por una ola de calor.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Argelia<b>
+    text1 Argelia en duelo sigue luchando contra incendios
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Rusia registr&oacute; este jueves 808 muertos por covid-19 en 24 horas, un r&eacute;cord desde que empez&oacute; la pandemia, que se debe sobre todo a la presencia de la variante delta del virus y a la lenta campa&ntilde;a de vacunaci&oacute;n.</li>
+<li>El pa&iacute;s, donde la epidemia ha recobrado fuerza desde principios de verano, registr&oacute; adem&aacute;s 21.932 nuevas infecciones, seg&uacute;n el balance diario publicado por el centro de crisis del gobierno ruso.</li>
+<li>En total, el gobierno contabiliza 168.049 muertos por covid-19 desde el inicio de la pandemia.</li>
+<li>Esta cifra es, sin embargo, parcial ya que solo toma en cuenta a los fallecidos a los que se les ha practicado una autopsia que ha determinado que el coronavirus es la causa principal de su deceso.</li>
+<li>La agencia rusa de estad&iacute;sticas Rosstat calcul&oacute; que los muertos por covid-19 superaban los 300.000 a finales de junio.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La ola de la pandemia provocada en Rusia por la variante delta del virus ha provocado 21.000 muertes en junio en el pa&iacute;s, seg&uacute;n Rosstat, pero no por ello los rusos se est&aacute;n vacunando m&aacute;s. La poblaci&oacute;n sigue mostrando una gran desconfianza ante las vacunas rusas, comenzando por Sputnik V.</li>
+<li>En este momento, solo un 30% de la poblaci&oacute;n ha recibido al menos una inyecci&oacute;n del f&aacute;rmaco. Ninguna de las vacunas homologadas en los pa&iacute;ses occidentales ha recibido aprobaci&oacute;n en Rusia.</li>
+<li>Pese a la complicada situaci&oacute;n, las restricciones se han levantado, sobre todo en Mosc&uacute;, epicentro de la pandemia, por razones econ&oacute;micas. Una especie de pasaporte sanitario entr&oacute; en vigor en julio y era indispensable para ir a restaurantes de la capital, pero fue r&aacute;pidamente eliminado.</li>
+<li>La mascarilla de protecci&oacute;n es te&oacute;ricamente obligatoria en lugares cerrados, como los transportes, pero muchas personas no la utilizan.</li>
+</ul>
+}
+title Rusia registra récord de 808 muertos por coronavirus en 24 horas
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/12-rusia-registra-808-muertos-por-coronavirus-en-24-horas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Rusia registró este jueves 808 muertos por covid-19 en 24 horas, un récord desde que empezó la pandemia, que se debe sobre todo a la presencia de la variante delta del virus y a la lenta campaña de vacunación.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Rusia registra récord de 808 muertos por coronavirus en 24 horas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
