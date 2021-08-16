@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La depresi&oacute;n tropical Grace se dirige a Hait&iacute;, v&iacute;ctima de un terremoto de magnitud 7,2 el s&aacute;bado, donde podr&iacute;a dejar fuertes lluvias en las pr&oacute;ximas horas, inform&oacute; este lunes el Centro Nacional de Huracanes (NHC) de Estados Unidos en su &uacute;ltimo informe.</li>
+<li>Grace se sit&uacute;a a unos 200 km al este de Puerto Pr&iacute;ncipe, la capital de Hait&iacute;, y avanza hacia el oeste a cerca de 24 km/h, con vientos m&aacute;ximos sostenidos de 55 km/h y r&aacute;fagas m&aacute;s fuertes, precis&oacute; el organismo.</li>
+<li>El centro del cicl&oacute;n "pasar&aacute; cerca del sur de la costa de La Espa&ntilde;ola -la isla que comparten Hait&iacute; y Rep&uacute;blica Dominicana- hoy y esta noche", indic&oacute; el NHC, con sede en Miami, en el sureste de Estados Unidos.&nbsp;</li>
+<li>Se esperan precipitaciones de entre 127 y 254 mm en el sur de Hait&iacute; y Rep&uacute;blica Dominicana, con totales m&aacute;ximos aislados de 381 mm, seg&uacute;n la misma fuente.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>"Estas fuertes lluvias pueden producir inundaciones repentinas y urbanas y posibles deslizamientos de tierra", advirti&oacute; el centro meteorol&oacute;gico.</li>
+<li>Al menos 1.300 personas murieron y 5.700 resultaron heridas en el se&iacute;smo que sacudi&oacute; el s&aacute;bado el suroeste de Hait&iacute;, donde miles de habitantes quedaron sin hogar.&nbsp;</li>
+<li>Grace pasar&aacute; entre Jamaica, Cuba y las Islas Caim&aacute;n entre el martes y el mi&eacute;rcoles, seg&uacute;n la trayectoria prevista por el NHC.&nbsp;</li>
+</ul>
+}
+title Ciclón tropical Grace se dirige a Haití tras devastador sismo
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/16-ciclon-tropical-grace-se-dirige-a-haiti-tras-devastador-sismo.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La depresión tropical Grace se dirige a Haití, víctima de un terremoto de magnitud 7,2 el sábado, donde podría dejar fuertes lluvias en las próximas horas, informó este lunes el Centro Nacional de Huracanes (NHC) de Estados Unidos en su último informe.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Haití<b>
+    text1 Ciclón tropical Grace se dirige a Haití tras devastador sismo
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
