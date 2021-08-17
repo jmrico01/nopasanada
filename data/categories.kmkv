@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/16-panico-en-kabul-tras-toma-del-poder-de-los-talibanes-en-afganistan
+        featured{array} /content/202108/17-huertas-emergen-en-caracas-para-completar-dieta
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/16-uruguay-comienza-a-aplicar-tercera-dosis
+    featured{array} /content/202108/17-kabul-vuelve-a-la-vida-entre-miedo-y-desconfianza-al-nuevo-regimen-taliban
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca

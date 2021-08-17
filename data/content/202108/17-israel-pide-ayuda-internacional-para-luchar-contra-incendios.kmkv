@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Los bomberos israel&iacute;es combat&iacute;an el fuego este martes por segundo d&iacute;a en las colinas al oeste de Jerusal&eacute;n, que oblig&oacute; a la evacuaci&oacute;n de cinco comunidades e impuls&oacute; al gobierno a pedir ayuda internacional.</li>
+<li>"El ministro griego de Exteriores ya ha indicado que ayudar&aacute; en toda la medida de lo posible" asegur&oacute; en Twitter el ministro de Exteriores israel&iacute;, Yair Lapid.</li>
+<li>El portavoz del ministerio de Exteriores, Lior Haiat, afirm&oacute; que Grecia y Chipre han acordado enviar aviones contra incendios a Israel.</li>
+<li>Tambi&eacute;n se ha solicitado apoyo a Italia, Francia y otros pa&iacute;ses, seg&uacute;n dijo.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Cerca de 2.000 hect&aacute;reas se han quemado en dos d&iacute;as, seg&uacute;n el responsable nacional de Fuego y Rescate, Dedi Simchi.</li>
+<li>Una docena de aviones contra incendios participan en las labores para luchar contra los incendios.</li>
+<li>Los incendios se originaron el domingo en las boscosas colinas al oeste de Jerusal&eacute;n, causando importantes humaredas que alcanzaron el centro de la ciudad, que qued&oacute; adem&aacute;s envuelta en un denso olor acre.</li>
+<li>Israel y otros pa&iacute;ses mediterr&aacute;neos se han visto afectados por letales incendios, que han asolado Grecia, Turqu&iacute;a, Chipre y Argelia.</li>
+<li>Israel envi&oacute; aviones contra incendios a Grecia para ayudar a contener los devastadores incendios que se produjeron en este pa&iacute;s desde finales de julio.</li>
+</ul>
+}
+title Israel pide ayuda internacional para luchar contra incendios
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/17-israel-pide-ayuda-internacional-para-luchar-contra-incendios.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los bomberos israelíes combatían el fuego este martes por segundo día en las colinas al oeste de Jerusalén, que obligó a la evacuación de cinco comunidades e impulsó al gobierno a pedir ayuda internacional.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Israel<b>
+    text1 Israel pide ayuda internacional para luchar contra incendios
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
