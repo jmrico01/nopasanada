@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202108/11-chavismo-y-oposicion-retoman-dialogo-en-mexico
+        featured{array} /content/202108/18-bukele-busca-alejar-desconfianza-de-su-reforma-constitucional
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/17-huertas-emergen-en-caracas-para-completar-dieta
+        featured{array} /content/202108/18-variante-delta-desborda-hospitales-de-luisiana
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/17-kabul-vuelve-a-la-vida-entre-miedo-y-desconfianza-al-nuevo-regimen-taliban
+    featured{array} /content/202108/18-ninas-afganas-regresan-a-la-escuela-en-herat-tras-toma-del-poder-de-talibanes
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/16-panico-en-kabul-tras-toma-del-poder-de-los-talibanes-en-afganistan
+    featured{array} /content/202108/18-ninas-afganas-regresan-a-la-escuela-en-herat-tras-toma-del-poder-de-talibanes
 }
 other{kmkv} {
     name Other (Internal)
