@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La primera ministra de Nueva Zelanda, Jacinda Ardern, indic&oacute; este jueves que el rastreo tras la aparici&oacute;n de un caso de covid-19 avanza y permitir&aacute; "eliminar" el foco de su origen, en tanto rige un confinamiento de corta duraci&oacute;n desde el martes.</li>
+<li>Las autoridades sanitarias neozelandesas intentaban determinar c&oacute;mo un hombre, habitante de Auckland, contrajo covid-19 en esta semana, siendo el primer caso de origen local en seis meses.</li>
+<li>Las pruebas demostraron que el individuo era portador de la variante Delta, y Ardern se&ntilde;al&oacute; que la investigaci&oacute;n se intensifica en torno a un viajero llegado desde S&iacute;dney el 7 de agosto.</li>
+<li>De acuerdo a la primera ministra, &eacute;ste fue puesto bajo cuarentena y despu&eacute;s hospitalizado a su llegada, lo que revela que el virus no circul&oacute; tanto tiempo como se tem&iacute;a en un principio.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>"Hemos encontrado la pieza del rompecabezas que busc&aacute;bamos", declar&oacute; Ardern ante periodistas.</li>
+<li>A&ntilde;adiendo que este rastreo permitir&aacute; "acotar al virus, bloquearlo y eliminarlo".</li>
+<li>El pa&iacute;s ha registrado 11 nuevos contagios en 24 horas, con un total de 21 casos, se&ntilde;al&oacute;.</li>
+<li>El confinamiento decretado el martes, el primero en 15 meses a nivel nacional, durar&aacute; s&oacute;lo tres d&iacute;as. En Auckland ser&aacute; de una semana. Este plazo podr&iacute;a ampliarse el viernes.</li>
+<li>El archipi&eacute;lago ha sido muy elogiado por su &nbsp;gesti&oacute;n de la pandemia y hasta ahora solo contabiliza 26 muertes sobre una poblaci&oacute;n de cinco millones.</li>
+</ul>
+}
+title Nueva Zelanda sigue la pista del primer caso local de covid en seis meses
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/19-nueva-zelanda-sigue-la-pista-del-primer-caso-local-de-covid-en-seis-meses.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La primera ministra de Nueva Zelanda, Jacinda Ardern, indicó este jueves que el rastreo tras la aparición de un caso de covid-19 avanza y permitirá "eliminar" el foco de su origen, en tanto rige un confinamiento de corta duración desde el martes.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Nueva Zelanda<b>
+    text1 Nueva Zelanda sigue la pista del primer caso local de covid en seis meses
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

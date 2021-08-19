@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202108/18-bukele-busca-alejar-desconfianza-de-su-reforma-constitucional
+        featured{array} /content/202108/19-miles-de-afganos-siguen-atrapados-en-kabul-mientras-resistencia-se-organiza-en-el-norte
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/18-variante-delta-desborda-hospitales-de-luisiana
+        featured{array} /content/202108/19-eeuu-anuncia-campana-de-refuerzo-de-vacuna-anticovid-en-setiembre
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/18-ninas-afganas-regresan-a-la-escuela-en-herat-tras-toma-del-poder-de-talibanes
+    featured{array} /content/202108/19-huracan-grace-toca-tierra-en-caribe-mexicano-y-desata-lluvias
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/18-ninas-afganas-regresan-a-la-escuela-en-herat-tras-toma-del-poder-de-talibanes
+    featured{array} /content/202108/19-miles-de-afganos-siguen-atrapados-en-kabul-mientras-resistencia-se-organiza-en-el-norte
 }
 other{kmkv} {
     name Other (Internal)
