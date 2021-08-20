@@ -61,7 +61,7 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/19-eeuu-anuncia-campana-de-refuerzo-de-vacuna-anticovid-en-setiembre
+        featured{array} /content/202108/20-miedo-a-la-venganza-de-los-talibanes-aumenta-en-afganistan
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202108/20-piratas-informaticos-roban-97-millones-de-dolares-en-criptomonedas
