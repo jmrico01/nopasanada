@@ -1,0 +1,47 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El meteoro Grace retom&oacute; fuerza en el Golfo de M&eacute;xico convirti&eacute;ndose nuevamente en hurac&aacute;n y en las pr&oacute;ximas horas podr&iacute;an acelerarse sus vientos antes de tocar tierra en el mexicano estado de Veracruz (este), report&oacute; este viernes el Centro Nacional de Huracanes de Estados Unidos (NHC).</li>
+<li>"Grace se ha fortalecido a hurac&aacute;n" categor&iacute;a 1 en la escala Saffir-Simpson (de 5), indic&oacute; en su &uacute;ltimo reporte el NHC.</li>
+<li>Grace ya hab&iacute;a tocado tierra el jueves en la mexicana pen&iacute;nsula de Yucat&aacute;n (este), donde dej&oacute; da&ntilde;os materiales menores y el desalojo de unos 6.000 pobladores y turistas. En su desplazamiento terrestre se degrad&oacute; a tormenta tropical.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<p>A las 12H00 GMT del viernes, Grace se ubicaba a 300 km al este de Tuxpan, Veracruz, y se desplazaba al oeste a 24km/h, con vientos sostenidos de 140 km/h, detall&oacute; el NHC.</p>
+<p>"Se pronostica que el centro de Grace se mueva a trav&eacute;s del suroeste del Golfo de M&eacute;xico hoy (viernes) y luego toque tierra a lo largo de la costa del territorio continental de M&eacute;xico", a&ntilde;adi&oacute;.</p>
+<p>Un "fortalecimiento adicional es probable hasta que Grace toque tierra", advirti&oacute; el NHC en su &uacute;ltimo reporte.</p>
+<p>Elementos de las fuerzas armadas de M&eacute;xico se encuentran listas para resguardar a pobladores de Veracruz, indic&oacute; Laura Vel&aacute;zquez, coordinadora nacional de Protecci&oacute;n Civil.</p>
+}
+title Grace vuelve a tomar fuerza de huracán en Golfo de México
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/20-grace-vuelve-a-tomar-fuerza.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El meteoro Grace retomó fuerza en el Golfo de México convirtiéndose nuevamente en huracán y en las próximas horas podrían acelerarse sus vientos antes de tocar tierra en el mexicano estado de Veracruz (este), reportó este viernes el Centro Nacional de Huracanes de Estados Unidos (NHC).
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Grace del huracáno<b>
+    text1 Grace vuelve a tomar fuerza de huracán en Golfo de México
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
