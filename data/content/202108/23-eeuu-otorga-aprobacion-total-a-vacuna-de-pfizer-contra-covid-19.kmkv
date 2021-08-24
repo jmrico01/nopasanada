@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Estados Unidos otorg&oacute; el lunes aprobaci&oacute;n total a la vacuna anticovid de Pfizer/BioNTech para mayores de 16 a&ntilde;os, anunci&oacute; la autoridad reguladora, una medida que se espera refuerce la estrategia de vacunaci&oacute;n contra el coronavirus en el pa&iacute;s.</li>
+<li>La Agencia de Medicamentos de Estados Unidos (FDA) se&ntilde;al&oacute; en un comunicado que "aprob&oacute; la primera vacuna contra covid-19" en el pa&iacute;s.</li>
+<li>"Aunque millones de personas ya han recibido con seguridad la vacuna contra el covid-19, reconocemos que, para algunos, la aprobaci&oacute;n de la vacuna por parte de la FDA puede infundir una confianza adicional para vacunarse", dijo la comisaria interina de la FDA, Janet Woodcock, citada en el texto.</li>
+<li>La vacuna anticovid, que ahora podr&aacute; comercializarse bajo la marca Comirnaty, es la primera en recibir la aprobaci&oacute;n completa.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Ya se han administrado decenas de millones de vacunas en virtud de una autorizaci&oacute;n de uso de emergencia (EUA, en ingl&eacute;s) que se concedi&oacute; el 11 de diciembre de 2020.</li>
+<li>La decisi&oacute;n de concederle la aprobaci&oacute;n se bas&oacute; en los datos actualizados del ensayo cl&iacute;nico del f&aacute;rmaco, que incluyen una mayor duraci&oacute;n del seguimiento, con una seguridad y eficacia evaluadas entre m&aacute;s de 40.000 personas.</li>
+<li>El ej&eacute;rcito de Estados Unidos anunci&oacute; previamente que exigir&aacute; la vacuna a sus soldados tan pronto como reciba la aprobaci&oacute;n completa, y se espera que una serie de empresas privadas y universidades le sigan los pasos.</li>
+<li>La vacuna sigue estando disponible bajo autorizaci&oacute;n de uso de emergencia para ni&ntilde;os de 12 a 15 a&ntilde;os, pero como ya ha sido plenamente aprobada, los m&eacute;dicos pueden prescribirla a ni&ntilde;os menores de 12 a&ntilde;os si creen que ser&aacute; beneficiosa.</li>
+</ul>
+}
+title EEUU otorga total aprobación a vacuna anticovid de Pfizer
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/23-eeuu-otorga-aprobacion-total-a-vacuna-de-pfizer-contra-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Estados Unidos otorgó el lunes aprobación total a la vacuna anticovid de Pfizer/BioNTech para mayores de 16 años, anunció la autoridad reguladora, una medida que se espera refuerce la estrategia de vacunación contra el coronavirus en el país.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 EEUU otorga total aprobación a vacuna anticovid de Pfizer
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
