@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202108/20-greta-thunberg-cambia-de-opinion-e-ira-a-cop26
+        featured{array} /content/202108/24-incendios-provocados-devastan-reservas-ecologicas-en-bolivia
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202108/19-miles-de-afganos-siguen-atrapados-en-kabul-mientras-resistencia-se-organiza-en-el-norte
+        featured{array} /content/202108/24-alumnos-vuelven-a-clases-en-miami-en-plena-polemica-por-uso-de-mascarillas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/20-miedo-a-la-venganza-de-los-talibanes-aumenta-en-afganistan
+        featured{array} /content/202108/24-director-de-la-cia-se-reune-en-secreto-con-lider-taliban-en-kabul
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/20-piratas-informaticos-roban-97-millones-de-dolares-en-criptomonedas
+    featured{array} /content/202108/24-alumnos-vuelven-a-clases-en-miami-en-plena-polemica-por-uso-de-mascarillas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/20-greta-thunberg-cambia-de-opinion-e-ira-a-cop26
+    featured{array} /content/202108/24-inteligencia-artificial-acompana-y-consuela-a-millones-de-chinos-solitarios
 }
 other{kmkv} {
     name Other (Internal)
