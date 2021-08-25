@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Centenares de ni&ntilde;os desafiaron el mi&eacute;rcoles la prohibici&oacute;n de manifestarse en los campos de refugiados rohinyas en Banglad&eacute;s para conmemorar el cuarto aniversario de la violenta represi&oacute;n contra esta minor&iacute;a en Birmania, que gener&oacute; un masivo &eacute;xodo.</li>
+<li>Miles de polic&iacute;as y soldados armados patrullaron los campos del distrito de Cox's Bazar, aunque no intervinieron.</li>
+<li>Unos 750.000 rohiny&aacute;s huyeron del estado birmano de Rak&aacute;in (oeste) en agosto de 2017, tras una operaci&oacute;n de represi&oacute;n del ej&eacute;rcito en ese pa&iacute;s de mayor&iacute;a budista, denunciado por asesinatos y violaciones contra esa minor&iacute;a.</li>
+<li>Familias enteras se sumaron en condiciones muy dif&iacute;ciles a los 200.000 refugiados v&iacute;ctimas de persecuciones y ya instalados en campos del otro lado de la frontera, en Banglad&eacute;s.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Este mi&eacute;rcoles ni&ntilde;os, algunos de solamente cinco a&ntilde;os, participaron en una marcha-sorpresa de 15 minutos en el campo de Kutupalong, el mayor campo de refugiados del mundo, para pedir justicia por los rohiny&aacute;s muertos durante la represi&oacute;n, cuya cifra es de varios miles, seg&uacute;n las ONG.</li>
+<li>Entre 3.000 y 4.000 ni&ntilde;os participaron, gritando "&iexcl;queremos justicia!", y p&igrave;diendo una repatriaci&oacute;n "justa", seg&uacute;n el responsable comunitario Mohamad Osman. Seg&uacute;n la polic&iacute;a, solo algunas decenas de ni&ntilde;os habr&iacute;an participado.</li>
+<li>Las autoridades de Banglad&eacute;s han prohibido las manifestaciones en los campos de refugiados afirmando que podr&iacute;an propagar el covid-19. La pandemia &nbsp;ha causado la muerte de al menos 30 rohiny&aacute;s y contaminado a miles m&aacute;s.</li>
+</ul>
+}
+title Niños rohinyas protestan en aniversario de genocidio en campo de refugiados
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/25-ninos-rohinyas-se-manifiestan-en-aniversario-de-genocidio-en-campo-de-refugiados-en-banglades.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Centenares de niños desafiaron el miércoles la prohibición de manifestarse en los campos de refugiados rohinyas en Bangladés para conmemorar el cuarto aniversario de la violenta represión contra esta minoría en Birmania, que generó un masivo éxodo.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Bangladés<b>
+    text1 Niños rohinyas protestan en aniversario de genocidio en campo de refugiados
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
