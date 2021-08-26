@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202108/24-alumnos-vuelven-a-clases-en-miami-en-plena-polemica-por-uso-de-mascarillas
+        featured{array} /content/202108/26-guaido-reta-a-maduro-a-adelantar-presidenciales-en-venezuela
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/24-director-de-la-cia-se-reune-en-secreto-con-lider-taliban-en-kabul
+        featured{array} /content/202108/26-cual-es-la-amenaza-del-estado-islamico-en-afganistan
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/24-alumnos-vuelven-a-clases-en-miami-en-plena-polemica-por-uso-de-mascarillas
+    featured{array} /content/202108/26-rusia-registra-record-de-muertes-por-covid-en-24-de-nuevo
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/24-inteligencia-artificial-acompana-y-consuela-a-millones-de-chinos-solitarios
+    featured{array} /content/202108/26-cual-es-la-amenaza-del-estado-islamico-en-afganistan
 }
 other{kmkv} {
     name Other (Internal)
