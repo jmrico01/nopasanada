@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202108/26-guaido-reta-a-maduro-a-adelantar-presidenciales-en-venezuela
+        featured{array} /content/202108/27-congreso-peruano-define-si-da-voto-de-confianza-a-gabinete-de-castillo
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/26-cual-es-la-amenaza-del-estado-islamico-en-afganistan
+        featured{array} /content/202108/27-se-reanudan-ultimas-evacuaciones-desde-kabul-tras-atentado
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/26-rusia-registra-record-de-muertes-por-covid-en-24-de-nuevo
+    featured{array} /content/202108/27-empresas-estadounidenses-recurren-a-incentivos-o-amenazas-para-fomentar-vacunacion
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/26-cual-es-la-amenaza-del-estado-islamico-en-afganistan
+    featured{array} /content/202108/27-empresas-estadounidenses-recurren-a-incentivos-o-amenazas-para-fomentar-vacunacion
 }
 other{kmkv} {
     name Other (Internal)
