@@ -1,0 +1,57 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Corea del Norte parece haber reactivado el reactor nuclear de Yongbyon, dijo este lunes el organismo de energ&iacute;a at&oacute;mica de Naciones Unidas, alertando de un hecho "profundamente preocupante" que puede indicar una expansi&oacute;n del prohibido programa armament&iacute;stico del r&eacute;gimen comunista.</li>
+<li>"Desde principios de julio hay indicadores, incluida la descarga de agua de refrigeraci&oacute;n, consistentes con la operatividad del reactor", indic&oacute; el Organismo Internacional de Energ&iacute;a At&oacute;mica en su informe anual.</li>
+<li>El l&iacute;der norcoreano, Kim Jong Un, propuso en 2019 desmantelar parte del complejo de Yongbyon, la principal instalaci&oacute;n nuclear del pa&iacute;s, en su segunda cumbre con el entonces presidentes estadounidense Donald Trump a cambio de una reducci&oacute;n de las sanciones internacionales, pero la oferta fue rechazada.</li>
+<li>Desde diciembre de 2018, el reactor parec&iacute;a haber estado inactivo, indic&oacute; el informe de la OIEA, fechado el viernes.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los inspectores de este organismo de la ONU fueron expulsados de Corea del Norte en 2009 y, desde entonces, deben vigilar la actividad nuclear norcoreana desde el exterior.</li>
+<li>La posible reactivaci&oacute;n del reactor se suma a se&ntilde;ales recientes de que Pyongyang est&aacute; usando un laboratorio radioqu&iacute;mico cercano para separar plutonio de combustible usado retirado previamente del reactor.</li>
+<li>Ambos hechos son "profundamente preocupantes" y supondr&iacute;an una "clara violaci&oacute;n" de las resoluciones de la ONU, indic&oacute; el OIEA.</li>
+<li>Un alto cargo de la diplomacia estadounidense indic&oacute; que Washington conoc&iacute;a el informe y estaba coordinando su acci&oacute;n con otros pa&iacute;ses asociados.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>"Este informe subraya la urgente necesidad de di&aacute;logo y diplomacia para que podamos conseguir la completa desnuclearizaci&oacute;n de la pen&iacute;nsula de Corea", dijo&nbsp; esta fuente del departamento de Estado.</p>
+<p>"Seguimos buscando di&aacute;logo con Corea del Norte para solucionar esta supuesta actividad", a&ntilde;adi&oacute;.&nbsp;</p>
+<p>Ubicado a 100 kil&oacute;metros al norte de la capital, Yongbyon acoge el primer reactor nuclear del pa&iacute;s y es la &uacute;nica fuente conocida de plutonio para su programa armament&iacute;stico.</p>
+<p>De todos modos, se sospecha que no es la &uacute;nica instalaci&oacute;n de enriquecimiento de uranio de Corea del Norte.</p>
+<p>Sometida a numerosas sanciones internacionales, Corea del Norte suspendi&oacute; las pruebas nucleares y de misiles en 2018 durante el acercamiento diplom&aacute;tico con Estados Unidos, que ahora est&aacute; estancado.</p>
+<p>En enero de 2020, el r&eacute;gimen comunista anunci&oacute; el fin de su autoimpuesta moratoria y ha realizado desde entonces series de lanzamientos de mis&iacute;les de corto alcance. Aun as&iacute;, no ha llevado a cabo un ensayo nuclear desde 2017.</p>
+}
+title Corea del Norte parece haber reactivado reactor nuclear
+day 30
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202108/headers/30-corea-del-norte-parece-haber-reactivado-reactor-nuclear.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Corea del Norte parece haber reactivado el reactor nuclear de Yongbyon, dijo este lunes el organismo de energía atómica de Naciones Unidas, alertando de un hecho "profundamente preocupante" que puede indicar una expansión del prohibido programa armamentístico del régimen comunista.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Corea del Norte<b>
+    text1 Corea del Norte parece haber reactivado reactor nuclear
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
