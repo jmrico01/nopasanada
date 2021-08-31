@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202108/30-corea-del-norte-parece-haber-reactivado-reactor-nuclear
+        featured{array} /content/202108/31-fracaso-de-eeuu-en-afganistan-pone-entredicho-intervencionismo-occidental
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/30-cohetes-contra-aeropuerto-de-kabul-en-penultimo-dia-de-eeuu-en-afganistan
+        featured{array} /content/202108/31-union-europea-busca-evitar-crisis-migratoria-con-origen-en-afganistan
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/30-mexico-pone-trafico-de-armas-en-dialogo-con-demanda-en-eeuu
+    featured{array} /content/202108/31-energia-barata-se-convierte-en-criptomonedas-en-venezuela
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/30-oms-tene-236000-muertos-mas-por-covid-en-europa
+    featured{array} /content/202108/31-fracaso-de-eeuu-en-afganistan-pone-entredicho-intervencionismo-occidental
 }
 other{kmkv} {
     name Other (Internal)
