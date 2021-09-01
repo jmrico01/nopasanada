@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202108/24-incendios-provocados-devastan-reservas-ecologicas-en-bolivia
+        featured{array} /content/202109/1-desastres-climaticos-se-multiplicaron-por-cinco-en-ultimos-50-anos
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202108/31-fracaso-de-eeuu-en-afganistan-pone-entredicho-intervencionismo-occidental
+        featured{array} /content/202109/1-entra-en-vigor-restrictiva-ley-de-aborto-en-texas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202108/31-union-europea-busca-evitar-crisis-migratoria-con-origen-en-afganistan
+        featured{array} /content/202109/1-la-peor-sequia-en-casi-unsiglo-profundiza-crisis-energetica-en-brasil
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202108/31-energia-barata-se-convierte-en-criptomonedas-en-venezuela
+    featured{array} /content/202109/1-nueva-orleans-en-toque-de-queda-luego-de-que-huracan-ida-azotara-la-zona
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202108/31-fracaso-de-eeuu-en-afganistan-pone-entredicho-intervencionismo-occidental
+    featured{array} /content/202109/1-entra-en-vigor-restrictiva-ley-de-aborto-en-texas
 }
 other{kmkv} {
     name Other (Internal)
