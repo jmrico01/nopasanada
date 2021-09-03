@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202109/1-entra-en-vigor-restrictiva-ley-de-aborto-en-texas
+        featured{array} /content/202109/3-formacion-de-nuevo-gobierno-en-afganistan-se-hace-esperar
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/1-la-peor-sequia-en-casi-unsiglo-profundiza-crisis-energetica-en-brasil
+        featured{array} /content/202109/3-nicaragua-abre-juicio-contra-candidata-presidencial-opositora-cristiana-chamorro
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/1-nueva-orleans-en-toque-de-queda-luego-de-que-huracan-ida-azotara-la-zona
+    featured{array} /content/202109/3-congreso-mundial-de-naturaleza-abre-sus-puertas-bajo-predicciones-sombrias
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202108/4-una-barbie-en-homenaje-a-cocreadora-de-vacuna-astrazeneca
+        featured{array} /content/202109/3-cuadro-de-banksy-parcialmente-autodestruido-vuelve-a-ser-subastado
     }
     video{kmkv} {
         name Video
