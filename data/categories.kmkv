@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202109/3-formacion-de-nuevo-gobierno-en-afganistan-se-hace-esperar
+        featured{array} /content/202109/7-decenas-de-miles-de-bolsonaristas-se-manifiestan-en-brasil
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/3-nicaragua-abre-juicio-contra-candidata-presidencial-opositora-cristiana-chamorro
+        featured{array} /content/202109/7-quienes-son-los-acusados-por-los-atentados-del-9-11
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/3-congreso-mundial-de-naturaleza-abre-sus-puertas-bajo-predicciones-sombrias
+    featured{array} /content/202109/7-israel-sigue-buscando-a-sesis-palestinos-huidos-de-prision
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202109/3-cuadro-de-banksy-parcialmente-autodestruido-vuelve-a-ser-subastado
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/1-entra-en-vigor-restrictiva-ley-de-aborto-en-texas
+    featured{array} /content/202109/7-escala-edificio-en-francia-para-protestar-contra-pasaporte-sanitario
 }
 other{kmkv} {
     name Other (Internal)
