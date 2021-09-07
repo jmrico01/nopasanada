@@ -39,7 +39,7 @@ text4
 customTop 
 media{kmkv} {
     kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
-    header /images/202109/headers/3-congreso-mundial-de-naturaleza-abre-sus-puertas-bajo-predicciones-sombrias.jpg
+    header /images/202109/headers/6-el-salvador-adoptara-bitcoin-como-moneda.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
     banksy /images/202006/10-banksy/banksy.jpg
@@ -58,7 +58,7 @@ featured{kmkv} {
 type article
 subtitle 
 month 09
-tags{array} noticias-loimportante,mas-ambiente
+tags{array} noticias-loimportante
 videoID 
 titlePoster 
 color #FBFF09
