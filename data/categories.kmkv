@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202109/7-decenas-de-miles-de-bolsonaristas-se-manifiestan-en-brasil
+        featured{array} /content/202109/8-presidente-mexicano-pide-respetar-decision-de-suprema-corte-sobre-aborto
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/7-quienes-son-los-acusados-por-los-atentados-del-9-11
+        featured{array} /content/202109/8-que-esta-en-juego-en-el-juicio-del-siglo-sobre-las-tierras-indigenas-en-brasil
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/7-israel-sigue-buscando-a-sesis-palestinos-huidos-de-prision
+    featured{array} /content/202109/8-eeuu-busca-una-respuesta-internacional-coordinada-ante-nuevo-gobierno-taliban
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202109/3-cuadro-de-banksy-parcialmente-autodestruido-vuelve-a-ser-subastado
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/7-escala-edificio-en-francia-para-protestar-contra-pasaporte-sanitario
+    featured{array} /content/202109/8-covax-preve-vacunar-contra-covid-al-20-de-la-poblacion
 }
 other{kmkv} {
     name Other (Internal)
