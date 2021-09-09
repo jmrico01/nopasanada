@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202109/8-presidente-mexicano-pide-respetar-decision-de-suprema-corte-sobre-aborto
+        featured{array} /content/202109/9-camioneros-bolsonaristas-siguen-bloquendo-calles-en-brasil
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/8-que-esta-en-juego-en-el-juicio-del-siglo-sobre-las-tierras-indigenas-en-brasil
+        featured{array} /content/202109/9-anticonceptivos-seran-gratuitos-para-menores-de-25-anos-en-francia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/8-eeuu-busca-una-respuesta-internacional-coordinada-ante-nuevo-gobierno-taliban
+    featured{array} /content/202109/9-unos-434-millones-de-ninos-en-asia-privados-de-escuelas-por-covid
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202109/3-cuadro-de-banksy-parcialmente-autodestruido-vuelve-a-ser-subastado
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/8-covax-preve-vacunar-contra-covid-al-20-de-la-poblacion
+    featured{array} /content/202109/9-a-dos-meses-de-protestas-en-cuba-cientos-siguen-detenidos
 }
 other{kmkv} {
     name Other (Internal)
