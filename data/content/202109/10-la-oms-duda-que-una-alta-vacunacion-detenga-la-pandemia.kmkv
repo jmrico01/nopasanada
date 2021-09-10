@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El director de la OMS en Europa se mostr&oacute; este viernes m&aacute;s pesimista sobre el hecho de que un alto &iacute;ndice de vacunaci&oacute;n vaya a detener por s&iacute; solo la pandemia de covid-19, debido a que las variantes han reducido la perspectiva de una inmunidad colectiva.</li>
+<li>La probabilidad de que la enfermedad siga siendo end&eacute;mica es cada vez mayor. Por eso Hans Kluge exhort&oacute; en rueda de prensa a "prever para adaptar nuestras estrategias de vacunaci&oacute;n", sobre todo en lo relativo a las dosis adicionales.</li>
+<li>En mayo Kluge dijo que "la pandemia terminar&aacute; cuando hayamos alcanzado una cobertura m&iacute;nima de vacunaci&oacute;n del 70%" de la poblaci&oacute;n mundial.</li>
+<li>A la pregunta de si manten&iacute;a lo dicho, Kluge respondi&oacute; que las nuevas variantes, m&aacute;s contagiosas, principalmente la delta, han cambiado la situaci&oacute;n.</li>
+<li>Antes, aunque esta variante inicialmente detectada en India ya exist&iacute;a, "no hab&iacute;a semejante emergencia de variantes m&aacute;s transmisibles y m&aacute;s virales", explic&oacute;.</li>
+<li>"Esto nos lleva al punto de que el objetivo esencial de la vacunaci&oacute;n es sobre todo evitar las formas graves de la enfermedad y la mortalidad ", recalc&oacute;.</li>
+<li>"Si consideramos que el covid seguir&aacute; mutando y continuar&aacute; entre nosotros, como la gripe, entonces debemos prever c&oacute;mo adaptar progresivamente nuestra estrategia de vacunaci&oacute;n ante la transmisi&oacute;n end&eacute;mica, y adquirir conocimientos muy valiosos sobre el impacto de las dosis adicionales", agreg&oacute;.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Seg&uacute;n los epidemi&oacute;logos, parece poco realista alcanzar la inmunidad colectiva solo con las vacunas, pero estas son vitales para frenar la pandemia.</li>
+<li>La vacunaci&oacute;n tambi&eacute;n sigue siendo esencial "para reducir la presi&oacute;n sobre nuestros sistemas de salud que necesitan desesperadamente tratar otras enfermedades adem&aacute;s del covid", insisti&oacute; Kluge.</li>
+<li>Se estima que la variante delta, actualmente dominante, es un 60% m&aacute;s contagiosa que la anterior (alfa) y el doble que el virus hist&oacute;rico. Y cuanto m&aacute;s contagioso es un virus, m&aacute;s sube el &iacute;ndice de las personas que tienen que estar inmunizadas para alcanzar la inmunidad colectiva y detener la epidemia. La inmunidad se consigue mediante las vacunas o contrayendo el virus.</li>
+</ul>
+}
+title La OMS duda que una alta vacunación detenga la pandemia
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202109/headers/10-la-oms-duda-que-una-alta-vacunacion-detenga-la-pandemia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El director de la OMS en Europa se mostró este viernes más pesimista sobre el hecho de que un alto índice de vacunación vaya a detener por sí solo la pandemia de covid-19, debido a que las variantes han reducido la perspectiva de una inmunidad colectiva.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Pandemia<b>
+    text1 La OMS duda que una alta vacunación detenga la pandemia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

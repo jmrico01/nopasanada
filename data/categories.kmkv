@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202109/9-camioneros-bolsonaristas-siguen-bloquendo-calles-en-brasil
+        featured{array} /content/202109/10-gobierno-de-el-salvador-defiende-derecho-de-bukele-a-reeleccion
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/9-anticonceptivos-seran-gratuitos-para-menores-de-25-anos-en-francia
+        featured{array} /content/202109/10-condenan-a-miembro-de-pussy-riot-a-un-ano-de-casa-por-carcel
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/9-unos-434-millones-de-ninos-en-asia-privados-de-escuelas-por-covid
+    featured{array} /content/202109/10-dinamarca-vuelve-a-su-cotidianidad-antes-de-la-pandemia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202109/3-cuadro-de-banksy-parcialmente-autodestruido-vuelve-a-ser-subastado
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/9-a-dos-meses-de-protestas-en-cuba-cientos-siguen-detenidos
+    featured{array} /content/202109/10-la-oms-duda-que-una-alta-vacunacion-detenga-la-pandemia
 }
 other{kmkv} {
     name Other (Internal)
