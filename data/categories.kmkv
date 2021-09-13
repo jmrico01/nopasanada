@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202109/10-gobierno-de-el-salvador-defiende-derecho-de-bukele-a-reeleccion
+        featured{array} /content/202109/13-rusos-acuden-a-las-urnas-tras-la-eliminacion-de-la-oposicion
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/10-condenan-a-miembro-de-pussy-riot-a-un-ano-de-casa-por-carcel
+        featured{array} /content/202109/13-onu-alerta-la-triple-amenaza-medioambiental-para-derechos-humanos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/10-dinamarca-vuelve-a-su-cotidianidad-antes-de-la-pandemia
+    featured{array} /content/202109/13-despega-de-kabul-primer-vuelo-comercial-desde-regreso-de-talibanes-al-poder
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202109/3-cuadro-de-banksy-parcialmente-autodestruido-vuelve-a-ser-subastado
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/10-la-oms-duda-que-una-alta-vacunacion-detenga-la-pandemia
+    featured{array} /content/202109/13-space-x-lanzara-tripulacion-civil-a-orbita-terrestre
 }
 other{kmkv} {
     name Other (Internal)
