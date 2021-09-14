@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202109/13-rusos-acuden-a-las-urnas-tras-la-eliminacion-de-la-oposicion
+        featured{array} /content/202109/14-manifestacion-proderecho-al-aborto-ante-casa-de-juez-conservador-de-eeuu
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/13-onu-alerta-la-triple-amenaza-medioambiental-para-derechos-humanos
+        featured{array} /content/202109/14-reino-unido-admninistrara-tercera-dosis-de-vacuna-anticovid
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/13-despega-de-kabul-primer-vuelo-comercial-desde-regreso-de-talibanes-al-poder
+    featured{array} /content/202109/14-suenos-de-evergrande-se-convierten-en-pesadillas-para-compradores-chinos
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202109/3-cuadro-de-banksy-parcialmente-autodestruido-vuelve-a-ser-subastado
+        featured{array} /content/202109/14-vuelve-extravagante-gala-del-met-en-ny-tras-dos-anos-de-ausencia
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/13-space-x-lanzara-tripulacion-civil-a-orbita-terrestre
+    featured{array} /content/202109/14-vuelve-extravagante-gala-del-met-en-ny-tras-dos-anos-de-ausencia
 }
 other{kmkv} {
     name Other (Internal)

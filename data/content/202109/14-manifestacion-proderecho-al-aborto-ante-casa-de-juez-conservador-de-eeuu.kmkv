@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Decenas de personas favorables al derecho al aborto se manifestaron el lunes por la noche ante la casa del juez conservador Brett Kavanaugh de la Corte Suprema de Estados Unidos, tras la decisi&oacute;n del &oacute;rgano de bloquear una controvertida ley que proh&iacute;be de facto el aborto en Texas.</li>
+<li>Unas 60 personas cantaron "Mi cuerpo, mi voto" al dirigirse, en un acomodado barrio de Washington, hacia el domicilio del magistrado, vigilado de cerca por la polic&iacute;a.</li>
+<li>"La Corte Suprema socava nuestros derechos y Brett Kavanaugh tiene un importante papel en todo ello", afirm&oacute; Sophia Geiger, una manifestante de 18 a&ntilde;os.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La alta jurisdicci&oacute;n rehus&oacute; bloquear una ley de Texas que proh&iacute;be, desde el 1 de septiembre en este estado, el aborto despu&eacute;s de las seis semanas de embarazo --una vez que son detectados los latidos del coraz&oacute;n del embri&oacute;n--, cuando muchas mujeres ignoran a&uacute;n su estado.</li>
+<li>Originalmente, la Corte Suprema hab&iacute;a consagrado el derecho al aborto tras una hist&oacute;rica jurisprudencia en 1973 en el caso conocido como Roe vs. Wade.</li>
+<li>Sin embargo, los estados gobernados por republicanos han intentado limitar ese derecho y la propia Corte Suprema ha dado un giro hacia posiciones m&aacute;s conservadoras gracias a nombramientos de magistrados efectuados durante la presidencia de Donald Trump.</li>
+<li>El juez Kavanaugh fue uno de los tres jueces conservadores nombrados por Trump en la Corte Suprema, que cuenta con nueve en total.</li>
+</ul>
+}
+title Manifestación proderecho al aborto ante casa de juez conservador de EEUU
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202109/headers/14-manifestacion-proderecho-al-aborto-ante-casa-de-juez-conservador-de-eeuu.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Decenas de personas favorables al derecho al aborto se manifestaron el lunes por la noche ante la casa del juez conservador Brett Kavanaugh de la Corte Suprema de Estados Unidos, tras la decisión del órgano de bloquear una controvertida ley que prohíbe de facto el aborto en Texas.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Estados Unidos<b>
+    text1 Manifestación proderecho al aborto ante casa de juez conservador de EEUU
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
