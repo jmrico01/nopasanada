@@ -1,0 +1,61 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>SpaceX lanza este mi&eacute;rcoles una misi&oacute;n de turismo espacial de tres d&iacute;as en la que por primera vez la tripulaci&oacute;n est&aacute; exclusivamente formada por civiles.</li>
+<li>A continuaci&oacute;n algunas claves de la misi&oacute;n Inspiration4.</li>
+</ul>
+<p><strong>La nave</strong></p>
+<p>La c&aacute;psula Dragon que transportar&aacute; a los tripulantes estar&aacute; al tope de un cohete Falcon 9, de una altura de 70 metros.&nbsp;</p>
+<p>La nave ya ha enviado 10 astronautas a la Estaci&oacute;n Espacial Internacional (ISS) en tres misiones diferentes.</p>
+<p>Dragon, de 8 metros de alto y 4 de ancho fue modificada para este vuelo en el que orbitar&aacute; la Tierra. Un gran domo de vidrio fue instalado para ofrecer a los cuatro pasajeros una visi&oacute;n de 360 grados del espacio.</p>
+<p><strong>El plan de vuelo </strong></p>
+<p>El despegue est&aacute; programado para las 20H00 locales (02H00 GMT del jueves) desde el Centro Espacial Kennedy de la Nasa, en Florida. La ventana de lanzamiento es de cinco horas.</p>
+<p>A los 2,4 minutos del despegue y a unos 80 km de altura, la primera etapa del cohete se separar&aacute; y volver&aacute; a Tierra para ser reutilizada en otros vuelos. Unos 12 minutos m&aacute;s tarde, se desprender&aacute; la segunda etapa del Falcon la cual quedar&aacute; inutilizable.</p>
+<p>Dragon orbitar&aacute; la Tierra durante tres d&iacute;as a un altura superior a la de la ISS.</p>
+<p>Luego, regresar&aacute; al planeta para aterrizar frente a las costas de Florida mediante un gigantesco paraca&iacute;das.</p>
+<p><strong>La tripulaci&oacute;n </strong></p>
+<p>La organizaci&oacute;n y financiamiento de la misi&oacute;n est&aacute; a cargo del multimillonario estadounidense Jared Isaacman, quien viajar&aacute; junto a tres personas, sus invitadas, &nbsp;mediante un singular proceso de selecci&oacute;n.</p>
+<p>Hayley Arceneaux, de 29 a&ntilde;os, es una enfermera que sobrevivi&oacute; a un c&aacute;ncer infantil.</p>
+<p>Chris Sembroski, de 42, es un veterano de la Fuerza A&eacute;rea de Estados Unidos que ahora trabaja para la industria de la aviaci&oacute;n.</p>
+<p>Y la profesora de geolog&iacute;a Sian Proctor fue finalista en el proceso de formaci&oacute;n de astronautas de la NASA hace m&aacute;s de una d&eacute;cada.</p>
+<p><strong>El entrenamiento </strong></p>
+<p>La tripulaci&oacute;n se adiestr&oacute; durante seis meses, un tiempo mucho menor a los a&ntilde;os de preparaci&oacute;n requeridos a los astronautas profesionales.</p>
+<p>Aprendieron a soportar la fuerza G (de aceleraci&oacute;n) en un aparato centrifugador y experimentaron la falta de gravedad.</p>
+<p>Aunque el vuelo deber&iacute;a ser totalmente automatizado, el equipo fue entrenado por SpaceX a tomar el control de la nave en caso de emergencia.</p>
+<p><strong>El estudio&nbsp;</strong></p>
+<p>Durante la misi&oacute;n se analizar&aacute;n el sue&ntilde;o, ritmo card&iacute;aco, la sangre y las funciones cognitivas de la tripulaci&oacute;n a fin estudiar c&oacute;mo reaccionan los novatos en el espacio.</p>
+}
+title Cinco factores sobre misión de turismo espacial de Space X
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202109/headers/15-primeros-turistas-espaciales-de-space-x-listos-para-lanzamiento-este-miercoles.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description SpaceX lanza este miércoles una misión de turismo espacial de tres días en la que por primera vez la tripulación está exclusivamente formada por civiles.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 Cinco factores sobre misión de turismo espacial de Space X
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

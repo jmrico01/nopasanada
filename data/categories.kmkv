@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202109/14-manifestacion-proderecho-al-aborto-ante-casa-de-juez-conservador-de-eeuu
+        featured{array} /content/202109/15-bolsonaro-amenaza-sistema-democratico-de-brasil
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/14-reino-unido-admninistrara-tercera-dosis-de-vacuna-anticovid
+        featured{array} /content/202109/15-eeuu-denuncia-autoritarismo-en-nicaragua-y-alerta-a-centroamerica
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/14-suenos-de-evergrande-se-convierten-en-pesadillas-para-compradores-chinos
+    featured{array} /content/202109/15-primeros-turistas-espaciales-de-space-x-listos-para-lanzamiento-este-miercoles
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202109/14-vuelve-extravagante-gala-del-met-en-ny-tras-dos-anos-de-ausencia
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/14-vuelve-extravagante-gala-del-met-en-ny-tras-dos-anos-de-ausencia
+    featured{array} /content/202109/15-por-que-celebramos-200-anos-de-independencia-el-15-de-setiembre
 }
 other{kmkv} {
     name Other (Internal)
