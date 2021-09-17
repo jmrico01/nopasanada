@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202109/16-organizaciones-sociales-protestan-en-argentina-en-plena-crisis-de-gobierno
+        featured{array} /content/202109/17-un-mes-despues-de-su-victoria-los-talibanes-enfrentan-duro-desafio-en-afganistan
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/16-simone-biles-victima-de-abuso-sexual-por-entrenador-critica-rol-del-fbi-y-autoridades-deportivas
+        featured{array} /content/202109/17-rivalidad-entre-eeuu-y-china-impulsa-carrera-armamentistica-en-el-pacifico
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/16-brasil-finalmente-se-pone-las-pilas-con-la-vacunacion-anticovid
+    featured{array} /content/202109/17-costa-rica-entre-finalistas-a-premio-medioambiental
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202109/14-vuelve-extravagante-gala-del-met-en-ny-tras-dos-anos-de-ausencia
+        featured{array} /content/202109/17-una-leyenda-sovietica-del-ajedrez-demanda-a-netflix
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/16-se-manifiestan-en-el-salvador-contra-gestion-de-bukele-y-el-bitcoin
+    featured{array} /content/202109/17-costa-rica-entre-finalistas-a-premio-medioambiental
 }
 other{kmkv} {
     name Other (Internal)
