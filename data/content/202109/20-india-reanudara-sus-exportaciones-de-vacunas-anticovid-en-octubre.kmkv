@@ -1,0 +1,47 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>India reanudar&aacute; sus exportaciones de vacunas contra el covid-19 a partir de octubre, cinco meses despu&eacute;s de haberlas suspendido debido a una mortal ola de infecciones en el pa&iacute;s, anunci&oacute; este lunes el ministerio de Salud.</li>
+<li>El ministro de Salud, Mansukh Mandaviya, dijo que m&aacute;s de 300 millones de dosis de vacunas ser&aacute;n producidas en octubre y cerca de mil millones en los &uacute;ltimos tres meses del a&ntilde;o.</li>
+<li>"India reanudar&aacute; la exportaci&oacute;n de vacunas (...) para mantener los compromisos del pa&iacute;s con Covax" dijo Mandaviya, citado en un comunicado.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>El gigante asi&aacute;tico, llamado la "farmacia del mundo", fue un suministrador esencial en el programa Covax destinado a facilitar la inmunizaci&oacute;n en los pa&iacute;ses m&aacute;s pobres.</p>
+<p>Las exportaciones se detuvieron en abril, cuando el virus devast&oacute; en India poniendo el sistema de salud nacional al borde la ruptura, y con una enorme demanda de vacunas.</p>
+<p>La vacunacion en India, lanzada en enero, ha tardado en despegar debido a la falta de dosis y al recelo de parte de la poblaci&oacute;n.</p>
+<p>Sin embargo la campa&ntilde;a se ha acelerado en las &uacute;ltimas semanas, con la administraci&oacute;n de cinco a ocho millones de dosis por d&iacute;a. El viernes se bati&oacute; un r&eacute;cord con 22 millones de vacunas administradas.</p>
+}
+title India reanudará sus exportaciones de vacunas anticovid en octubre
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202109/headers/20-india-reanudara-sus-exportaciones-de-vacunas-anticovid-en-octubre.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description India reanudará sus exportaciones de vacunas contra el covid-19 a partir de octubre, cinco meses después de haberlas suspendido debido a una mortal ola de infecciones en el país, anunció este lunes el ministerio de Salud.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>India<b>
+    text1 India reanudará sus exportaciones de vacunas anticovid en octubre
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
