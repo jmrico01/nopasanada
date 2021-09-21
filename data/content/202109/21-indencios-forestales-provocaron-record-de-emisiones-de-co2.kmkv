@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Los incendios forestales en el verano del hemisferio norte provocaron un r&eacute;cord de emisiones de CO2 en julio y agosto de 2021, seg&uacute;n un informe del Servicio de Monitoreo de la Atm&oacute;sfera europeo Copernicus, unos fuegos agravados por el calentamiento global.</li>
+<li>Copernicus, financiado por la UE, afirma que en el mes de julio se bati&oacute; un primer r&eacute;cord de 1.258,8 megatoneladas de CO2 liberadas a la atm&oacute;sfera por los incendios en el planeta (la mitad procedentes de Am&eacute;rica del Norte y Siberia). En agosto, se volvi&oacute; a batir el r&eacute;cord con 1.384,6 megatoneladas.</li>
+<li>La temporada de incendios en el hemisferio boreal va de mayo a octubre con sus picos en julio y agosto. Las regiones m&aacute;s afectadas fueron la cuenca mediterr&aacute;nea, bajo importantes olas de calor, Siberia y Norteam&eacute;rica, donde el incendio denominado Dixie, en el estado de California, fue uno de los m&aacute;s graves.</li>
+<li>Para el cient&iacute;fico Mark Parrington, de Copernicus, es alarmante "el n&uacute;mero de incendios, el &aacute;rea quemada, su intensidad y su persistencia".&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Se trata de un fen&oacute;meno agravado por condiciones clim&aacute;ticas m&aacute;s secas y c&aacute;lidas, "a consecuencia del calentamiento global", a&ntilde;ade, y pone como ejemplo los incendios del noreste de Siberia, que se extendieron de junio a agosto.</li>
+<li>"El cambio clim&aacute;tico est&aacute; creando entornos ideales para los incendios forestales", con fuegos m&aacute;s intensos y que se desarrollan m&aacute;s r&aacute;pido, resalta Parrington.</li>
+<li>En el caso de Siberia, el aumento de las temperaturas y la sequedad del suelo est&aacute;n detr&aacute;s del r&eacute;cord de emisiones de CO2 entre junio y agosto, el doble que en 2020, con un pico registrado el 3 de agosto.</li>
+<li>En el &Aacute;rtico, las llamas provocaron 66 megatoneladas de emisiones de CO2 entre junio y agosto de 2021.&nbsp;</li>
+<li>Los cient&iacute;ficos del Servicio de Monitoreo de la Atm&oacute;sfera de Copernicus siguen casi en directo la evoluci&oacute;n de la atm&oacute;sfera gracias a sat&eacute;lites, y pueden as&iacute; estimar el impacto de las emisiones en la contaminaci&oacute;n del aire.</li>
+<li>En este sentido, sus observaciones registraron una columna de humo procedente de los incendios en Siberia y Norteam&eacute;rica que cruz&oacute; el Atl&aacute;ntico y lleg&oacute; hasta la costa oeste de las islas brit&aacute;nicas.&nbsp;</li>
+</ul>
+}
+title Incendios forestales provocaron récord de emisiones de CO2
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202109/headers/21-indencios-forestales-provocaron-record-de-emisiones-de-co2.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los incendios forestales en el verano del hemisferio norte provocaron un récord de emisiones de CO2 en julio y agosto de 2021, según un informe del Servicio de Monitoreo de la Atmósfera europeo Copernicus, unos fuegos agravados por el calentamiento global.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Cambio climático<b>
+    text1 Incendios forestales provocaron récord de emisiones de CO2
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

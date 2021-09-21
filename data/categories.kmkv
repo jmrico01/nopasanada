@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202109/1-desastres-climaticos-se-multiplicaron-por-cinco-en-ultimos-50-anos
+        featured{array} /content/202109/21-indencios-forestales-provocaron-record-de-emisiones-de-co2
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202109/20-putin-gana-mayoria-en-elecciones-legislativas-y-oposicion-denuncia-fraude
+        featured{array} /content/202109/21-rusia-senalada-de-nuevo-por-evenenamientos
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/20-india-reanudara-sus-exportaciones-de-vacunas-anticovid-en-octubre
+        featured{array} /content/202109/21-biden-y-xi-jinping-se-enfrentan-en-la-onu-por-crisis-transatlantica
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/20-inician-las-votaciones-en-canada
+    featured{array} /content/202109/21-indencios-forestales-provocaron-record-de-emisiones-de-co2
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202109/20-netflix-arrasa-en-los-emmys
+        featured{array} /content/202109/21-paises-latinoamericanos-piden-que-se-suspenda-subasta-de-piezas-precolombinas-en-alemania
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/20-netflix-arrasa-en-los-emmys
+    featured{array} /content/202109/21-paises-latinoamericanos-piden-que-se-suspenda-subasta-de-piezas-precolombinas-en-alemania
 }
 other{kmkv} {
     name Other (Internal)
