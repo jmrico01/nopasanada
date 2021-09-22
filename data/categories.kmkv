@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/21-biden-y-xi-jinping-se-enfrentan-en-la-onu-por-crisis-transatlantica
+        featured{array} /content/202109/22-onu-preocupada-por-deportaciones-de-inmigrantes-haitianos-en-eeuu
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/21-indencios-forestales-provocaron-record-de-emisiones-de-co2
+    featured{array} /content/202109/22-lava-del-volcan-de-canarias-pierde-velocidad-pero-sigue-destruyendo
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202109/21-paises-latinoamericanos-piden-que-se-suspenda-subasta-de-piezas-precolombinas-en-alemania
+        featured{array} /content/202109/22-costarricense-paz-fabrega-presenta-mirada-sobre-maternidad
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/21-paises-latinoamericanos-piden-que-se-suspenda-subasta-de-piezas-precolombinas-en-alemania
+    featured{array} /content/202109/22-lava-del-volcan-de-canarias-pierde-velocidad-pero-sigue-destruyendo
 }
 other{kmkv} {
     name Other (Internal)
