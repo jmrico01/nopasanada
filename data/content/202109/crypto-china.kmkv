@@ -10,14 +10,12 @@ text {
 <p><strong>En profundidad:</strong></p>
 <ul>
 <li>La cotizaci&oacute;n de las criptomonedas, incluyendo bitc&oacute;in, ha sufrido bruscos cambios en el &uacute;ltimo a&ntilde;o, en parte debido a las regulaciones chinas, que buscan prevenir la especulaci&oacute;n financiera y el lavado de dinero.</li>
-<li>En su comunicado del viernes, la instituci&oacute;n bancaria advierte que quienes no respeten la reglamentaci&oacute;n ser&aacute;n "investigados por responsabilidad penal de acuerdo con la ley".
-<p>&nbsp;</p>
-</li>
+<li>En su comunicado del viernes, la instituci&oacute;n bancaria advierte que quienes no respeten la reglamentaci&oacute;n ser&aacute;n "investigados por responsabilidad penal de acuerdo con la ley".</li>
 <li>El Banco Central de China dijo que en los &uacute;ltimos a&ntilde;os que "el comercio y la especulaci&oacute;n con bitc&oacute;in y otras monedas virtuales se ha extendido, alterando el orden econ&oacute;mico y financiero, aumentando el lavado de dinero, la recaudaci&oacute;n de fondo ilegal, los esquemas de pir&aacute;mides y otras actividades criminales e ilegales".</li>
 <li>Responsables chinos indicaron en junio que m&aacute;s de 1.000 personas fueron detenidas por sacar beneficio mediante actividades criminales para comprar</li>
 </ul>
 }
-title Renuncia representante de EEUU en Haití y denuncia deportaciones inhumanas
+title China declara ilegales las transacciones con criptomonedas y Bitcoin se desploma.
 day 24
 text1 
 text2 
@@ -32,16 +30,12 @@ media{kmkv} {
     banksy /images/202006/10-banksy/banksy.jpg
     ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
 }
-description {
-El Banco Central de China resolvió este viernes que todas las transacciones financieras con criptomonedas son ilegales. La cotización de las criptomonedas, incluyendo bitcóin, ha sufrido bruscos cambios en el último año, en parte debido a las regulaciones chinas, que buscan prevenir la especulación financiera y el lavado de dinero.
-
-
-}
+description El Banco Central de China resolvió este viernes que todas las transacciones financieras con criptomonedas son ilegales. La cotización de las criptomonedas, incluyendo bitcóin, ha sufrido bruscos cambios en el último año, en parte debido a las regulaciones chinas, que buscan prevenir la especulación financiera y el lavado de dinero.
 year 2021
 author AFP | NPN Noticias
 featured{kmkv} {
     title <b>CHINA v/s Crypto<b>
-    text1 China declara ilegales las transacciones con criptomonedas y Bitcoin se desploma. 
+    text1 China declara ilegales las transacciones con criptomonedas y Bitcoin se desploma.
     text2 Por AFP Y NPN NOTICIAS
     pretitle LO IMPORTANTE:
     highlightColor #FBFF09
