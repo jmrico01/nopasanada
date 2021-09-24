@@ -23,16 +23,13 @@ text4
 customTop 
 media{kmkv} {
     kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
-    header /images/202109/headers/23-renuncia-representante-de-eeuu-en-haiti-y-denuncia-deportaciones-inhumanas.jpg
+    header /images/202109/headers/fin-restricciones.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
     banksy /images/202006/10-banksy/banksy.jpg
     ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
 }
-description {
-Noruega levantará el sábado casi todas las restricciones impuestas en marzo de 2020 para luchar contra la epidemia de covid-19, debido al avance de la vacunación, anunció el viernes el gobierno.
-
-}
+description Noruega levantará el sábado casi todas las restricciones impuestas en marzo de 2020 para luchar contra la epidemia de covid-19, debido al avance de la vacunación, anunció el viernes el gobierno.
 year 2021
 author AFP | NPN Noticias
 featured{kmkv} {
