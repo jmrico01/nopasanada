@@ -1,0 +1,48 @@
+text {
+<p style="text-align: left;">Aut&oacute;ctono es una docuserie original de NO PASA NADA que fue posible gracias salsas Lizano, &nbsp;en la que recorremos las 7 provincias del pa&iacute;s descubriendo porqu&eacute; Costa Rica todav&iacute;a no es un destino gastronomico ante el mundo.&nbsp;</p>
+<p style="text-align: left;">El segundo episodio se estrena ma&ntilde;ana, s&aacute;bado 25, a las 6:09 pm en Canal 7.</p>
+<p style="text-align: left;">Si no lograron ver el primer o este segundo episodio o, quieren volver a verlos, los van a poder encontrar en <a href="https://youtu.be/qKxACMN2_Tc">el perfil oficial de Lizano en youtube</a>.&nbsp;</p>
+<p style="text-align: center;"><strong>&iexcl;Y recuerden que tenemos una trivia con un GIVEAWAY!</strong><br />__<br /><strong>Trivia de Aut&oacute;ctono</strong></p>
+<p style="text-align: left;">&iexcl;Para participar tienen que ver los dos primeros episodios de Aut&oacute;ctono en Canal 7 y responder los dos cuestionarios breves de cada uno! &iexcl;Si participan, van a tener la oportunidad de ganar un premio NPN!</p>
+<p style="text-align: left;">El premio incluye un Amazon Alexa Dot, una camiseta y stickers de NPN.</p>
+<p style="text-align: center;">__</p>
+<p style="text-align: center;"><strong><a href="https://youtu.be/qKxACMN2_Tc">Vea el episodio 1, "Lo Tico"</a></strong></p>
+<p style="text-align: center;">El episodio 2, "La Escena" se estrena el 25 de septiembre a las 6:09 PM (CR) en Canal 7.</p>
+<p style="text-align: center;"><a href="https://forms.gle/sfacdGMMgsS3nbGD9"><strong>Trivia de episodios</strong></a></p>
+<p style="text-align: center;"><strong>__</strong></p>
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">*El &uacute;ltimo d&iacute;a para participar de la trivia es el pr&oacute;ximo jueves 30 de septiembre y el ganador se estar&iacute;a anunciando el viernes 1 de octubre</p>
+}
+title Trivia de Autótono
+day 24
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202109/headers/autoctono.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un viaje gastronómico por Costa Rica
+year 2021
+author 
+featured{kmkv} {
+    title AUTÓCTONO
+    text1 Un viaje gastronómico por Costa Rica
+    text2 Presentado por Lizano
+    pretitle DOCUSERIE
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} home
+videoID 
+titlePoster 
+color #FBFF09
