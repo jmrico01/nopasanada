@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202109/23-robots-repartidores-se-multiplican-en-reino-unido-con-la-pandemia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/23-suiza-se-prepara-para-votar-si-aprueba-matrimonio-igualitario
+    featured{array} /content/202109/27-tratamientos-del-covid-19-lo-que-funciona
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202109/22-costarricense-paz-fabrega-presenta-mirada-sobre-maternidad
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/23-renuncia-representante-de-eeuu-en-haiti-y-denuncia-deportaciones-inhumanas
+    featured{array} /content/202109/27-regresa-el-poder-al-centroizquierda-en-alemania
 }
 other{kmkv} {
     name Other (Internal)
