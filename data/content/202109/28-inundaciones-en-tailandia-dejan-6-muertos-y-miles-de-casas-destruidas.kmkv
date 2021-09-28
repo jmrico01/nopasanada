@@ -1,0 +1,58 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Las autoridades de Tailandia luchaban este martes para proteger partes de Bangkok de una inundaci&oacute;n que dej&oacute; seis muertos y 70.000 casas anegadas en el norte y centro del pa&iacute;s.</li>
+<li>La tormenta tropical Dianmu caus&oacute; inundaciones en 30 provincias del pa&iacute;s, especialmente en el centro, inform&oacute; el Departamento tailand&eacute;s de Prevenci&oacute;n y Mitigaci&oacute;n de Desastres.</li>
+<li>El nivel del r&iacute;o Chao Phraya, que serpentea por Bangkok, subi&oacute; lentamente conforme las autoridades liberaron agua de las represas ubicadas corriente arriba.</li>
+<li>El martes, el ej&eacute;rcito levant&oacute; barreras y coloc&oacute; sacos de arena para proteger ruinas arqueol&oacute;gicas y barrios en la antigua capital real de Autthaya, a 60 km al norte de Bangkok.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las autoridades quieren evitar que se repita la situaci&oacute;n de 2011, cuando el agua aneg&oacute; una quinta parte de la capital y mat&oacute; a medio millar de personas, en las peores inundaciones por el monz&oacute;n en d&eacute;cadas.</li>
+<li>La administraci&oacute;n metropolitana de Bangkok dijo que sigue de cerca el nivel del Chao Phraya y alist&oacute; bombas de agua y sacos de arena en caso de necesitarlos.</li>
+<li>"Daremos aviso a la gente si hay se&ntilde;ales de aumento en el nivel del agua y si hay riesgo de inundaciones rel&aacute;mpago", asegur&oacute; el gobernador de Bangkok, Aswin Kwanmuang.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Funcionarios de la ciudad comenzaron a apilar sacos de arena frente a los bancos y comercios cerca de un canal en el distrito comercial y residencial de Thonglor.</p>
+<p>Conocida como la "Venecia del Este", la capital tailandesa fue construida sobre un antiguo pantano y est&aacute; situada 1,5 metros sobre el nivel del mar.</p>
+<p>Antiguamente, las &aacute;reas agr&iacute;colas absorb&iacute;an el agua de las inundaciones, pero con la expansi&oacute;n de la ciudad, muchas de esas &aacute;reas fueron urbanizadas.</p>
+<p>Durante el fin de semana, los socorristas organizaron unos rescates espectaculares, evacuando a personas que se hab&iacute;an quedado bloqueadas en los tejados en algunas partes de la provincia de Chaiyaphum (noreste).</p>
+}
+title Inundaciones dejan 6 muertos y miles de casas destruidas en Tailandia
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202109/headers/28-inundaciones-en-tailandia-dejan-6-muertos-y-miles-de-casas-destruidas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    one /images/202109/mexico-no-esta-de-moda/one.jpg
+    fpur /images/202109/mexico-no-esta-de-moda/fpur.jpg
+    poster /images/202109/posters/mexico-no-esta-de-moda.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+    two /images/202109/mexico-no-esta-de-moda/two.jpg
+}
+description Las autoridades de Tailandia luchaban este martes para proteger partes de Bangkok de una inundación que dejó seis muertos y 70.000 casas anegadas en el norte y centro del país.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Tailandia<b>
+    text1 Inundaciones dejan 6 muertos y miles de casas destruidas en Tailandia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle Las autoridades de Tailandia luchaban este martes para proteger partes de Bangkok de una inundación que dejó seis muertos y 70.000 casas anegadas en el norte y centro del país.
+month 09
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
