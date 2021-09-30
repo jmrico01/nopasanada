@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202109/29-corea-del-norte-asegura-haber-probado-misil-hipersonico
+        featured{array} /content/202109/30-cuenta-regresiva-en-el-congreso-de-eeuu-para-evitar-un-shutdown-del-gobierno-federal
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/29-corea-del-norte-asegura-haber-probado-misil-hipersonico
+        featured{array} /content/202109/30-talibanes-dispersan-con-disparos-al-aire-protesta-de-mujeres-en-kabul
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/29-manny-pacquiao-anuncia-su-retirada-del-boxeo
+    featured{array} /content/202109/30-exsecretaria-de-campo-de-concentracion-de-96-anos-se-fuga-antes-de-su-juicio
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202109/29-artista-danes-debia-exponer-70-mil-euros-pero-se-dejo-el-dinero
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/29-abogados-de-britney-presionan-contra-tutela-de-su-padre
+    featured{array} /content/202109/30-exsecretaria-de-campo-de-concentracion-de-96-anos-se-fuga-antes-de-su-juicio
 }
 other{kmkv} {
     name Other (Internal)
