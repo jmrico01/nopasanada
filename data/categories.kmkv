@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202109/30-cuenta-regresiva-en-el-congreso-de-eeuu-para-evitar-un-shutdown-del-gobierno-federal
+        featured{array} /content/202110/1-policia-londinense-criticada-tras-condena-de-agente-por-violacion-y-asesinato
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202109/30-talibanes-dispersan-con-disparos-al-aire-protesta-de-mujeres-en-kabul
+        featured{array} /content/202110/1-grafeno-promisorio-material-que-alimenta-desinformacion-antivacunas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202109/30-exsecretaria-de-campo-de-concentracion-de-96-anos-se-fuga-antes-de-su-juicio
+    featured{array} /content/202110/1-venezuela-elimina-seis-ceros-a-su-moneda
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202109/29-artista-danes-debia-exponer-70-mil-euros-pero-se-dejo-el-dinero
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202109/30-exsecretaria-de-campo-de-concentracion-de-96-anos-se-fuga-antes-de-su-juicio
+    featured{array} /content/202110/1-cientos-de-jovenes-de-todo-el-mundo-protestan-en-milan-contra-el-cambio-climatico
 }
 other{kmkv} {
     name Other (Internal)
