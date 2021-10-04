@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202109/21-indencios-forestales-provocaron-record-de-emisiones-de-co2
+        featured{array} /content/202110/4-medio-grado-de-calentamiento-global-provoca-consecuencias-en-cascada
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202110/1-policia-londinense-criticada-tras-condena-de-agente-por-violacion-y-asesinato
+        featured{array} /content/202110/4-presidentes-de-chile-ecuador-y-republica-dominicana-senalados-en-papeles-de-pandora
     }
     loimportante{kmkv} {
         name Lo Importante
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202110/1-cientos-de-jovenes-de-todo-el-mundo-protestan-en-milan-contra-el-cambio-climatico
+    featured{array} /content/202110/4-presidentes-de-chile-ecuador-y-republica-dominicana-senalados-en-papeles-de-pandora
 }
 other{kmkv} {
     name Other (Internal)
