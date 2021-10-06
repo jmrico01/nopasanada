@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202110/1-grafeno-promisorio-material-que-alimenta-desinformacion-antivacunas
+        featured{array} /content/202110/6-absuelven-a-curas-por-presuntas-violaciones-en-residencia-vaticana
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202110/1-venezuela-elimina-seis-ceros-a-su-moneda
+    featured{array} /content/202110/6-futbolistas-desde-estados-unidos-hasta-venezuela-denuncian-violencia-sexual
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202109/29-artista-danes-debia-exponer-70-mil-euros-pero-se-dejo-el-dinero
+        featured{array} /content/202110/6-christies-subastara-obra-de-picasso-en-manos-privadas-durante-casi-60-anos
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202110/4-presidentes-de-chile-ecuador-y-republica-dominicana-senalados-en-papeles-de-pandora
+    featured{array} /content/202110/6-absuelven-a-curas-por-presuntas-violaciones-en-residencia-vaticana
 }
 other{kmkv} {
     name Other (Internal)
