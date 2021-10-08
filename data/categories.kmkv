@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202110/7-nieta-de-mussolini-obtiene-mayoria-de-votos-en-las-municipales-de-roma
+        featured{array} /content/202110/8-el-primer-ministro-checo-investigado-por-los-pandora-papers-busca-la-reeleccion
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202110/7-anciano-de-100-anos-juzgado-en-alemania-por-crimenes-nazis
+        featured{array} /content/202110/8-el-primer-ministro-checo-investigado-por-los-pandora-papers-busca-la-reeleccion
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202110/7-francia-pide-explicaciones-a-la-iglesia-por-defensa-del-secreto-de-confesion
+    featured{array} /content/202110/8-dialogo-entre-iran-y-arabia-sudita-va-por-buen-camino-segun-ministro-irani
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202110/6-christies-subastara-obra-de-picasso-en-manos-privadas-durante-casi-60-anos
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202110/7-nieta-de-mussolini-obtiene-mayoria-de-votos-en-las-municipales-de-roma
+    featured{array} /content/202110/8-mexico-y-eeuu-buscan-dar-nuevo-aire-a-lucha-antidrogas
 }
 other{kmkv} {
     name Other (Internal)
