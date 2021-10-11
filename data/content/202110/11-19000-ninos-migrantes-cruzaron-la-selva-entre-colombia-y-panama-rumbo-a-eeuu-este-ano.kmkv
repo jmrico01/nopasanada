@@ -1,0 +1,47 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Cerca de 19.000 ni&ntilde;os migrantes han atravesado este a&ntilde;o la inh&oacute;spita y peligrosa selva del Dari&eacute;n, entre Colombia y Panam&aacute;, en ruta hacia Estados Unidos.</li>
+<li>"El n&uacute;mero de ni&ntilde;os migrantes que cruzaron el Tap&oacute;n del Dari&eacute;n a pie ha alcanzado su m&aacute;ximo hist&oacute;rico", pese a ser "uno de los lugares m&aacute;s peligrosos para los migrantes que intentan llegar a Norteam&eacute;rica", se&ntilde;al&oacute; un informe de Unicef.</li>
+<li>El flujo de ni&ntilde;os registrado "en lo que va de a&ntilde;o" es casi tres veces m&aacute;s que el n&uacute;mero registrado en los cinco a&ntilde;os anteriores juntos", agreg&oacute; Unicef.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>El Tap&oacute;n del Dari&eacute;n, una zona selv&aacute;tica de 266 km, se ha convertido en un corredor para los migrantes irregulares que, desde Sudam&eacute;rica, tratan de cruzar Am&eacute;rica Central y M&eacute;xico en su camino hacia a Estados Unidos.</p>
+<p>Por esa selva virgen, de 575.000 hect&aacute;reas, han pasado en 2021 m&aacute;s de 91.000 migrantes, seg&uacute;n el registro actualizado a octubre del Sistema Nacional de Migraci&oacute;n de Panam&aacute;, una cifra equivalente al total de los cinco a&ntilde;os anteriores.</p>
+<p>En su mayor&iacute;a son haitianos y cubanos, aunque tambi&eacute;n hay de diversos pa&iacute;ses de Asia y &Aacute;frica.&nbsp;</p>
+<p>Seg&uacute;n Unicef, uno de cada cinco de estos migrantes son ni&ntilde;os, principalmente de Hait&iacute; o de padres haitianos que los tuvieron durante su estancia en Chile o Brasil. La mitad de los 19.000 son menores de cinco a&ntilde;os.</p>
+}
+title 19.000 niños migrantes cruzaron la selva entre Colombia y Panamá rumbo a EEUU este año
+day 11
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202110/headers/11-19000-ninos-migrantes-cruzaron-la-selva-entre-colombia-y-panama-rumbo-a-eeuu-este-ano.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Cerca de 19.000 niños migrantes han atravesado este año la inhóspita y peligrosa selva del Darién, entre Colombia y Panamá, en ruta hacia Estados Unidos.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Panamá<b>
+    text1 19.000 niños migrantes cruzaron la selva entre Colombia y Panamá rumbo a EEUU este año
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

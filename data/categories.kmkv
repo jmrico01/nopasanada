@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202110/8-el-primer-ministro-checo-investigado-por-los-pandora-papers-busca-la-reeleccion
+        featured{array} /content/202110/11-19000-ninos-migrantes-cruzaron-la-selva-entre-colombia-y-panama-rumbo-a-eeuu-este-ano
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202110/8-el-primer-ministro-checo-investigado-por-los-pandora-papers-busca-la-reeleccion
+        featured{array} /content/202110/11-greenpease-protesta-frente-a-downing-street-contra-campo-petrolero-en-escocia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202110/8-dialogo-entre-iran-y-arabia-sudita-va-por-buen-camino-segun-ministro-irani
+    featured{array} /content/202110/11-perros-y-amos-podrian-haber-habitado-costa-rica-desde-hace-12000-anos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202110/6-christies-subastara-obra-de-picasso-en-manos-privadas-durante-casi-60-anos
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202110/8-mexico-y-eeuu-buscan-dar-nuevo-aire-a-lucha-antidrogas
+    featured{array} /content/202110/11-el-estado-islamico-khorasan-busca-desestabilizar-al-taliba
 }
 other{kmkv} {
     name Other (Internal)
