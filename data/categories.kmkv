@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202110/13-paraguay-violo-derecho-de-pueblos-indigenas-a-sus-tierras-al-no-prevenir-contaminacion
+        featured{array} /content/202110/14-tres-muertos-y-20-heridos-en-manifestacion-en-libano
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202110/13-oposicion-chilena-intenta-destituir-a-pinera-por-papeles-de-pandora
+    featured{array} /content/202110/14-dos-anos-de-carcel-para-mujer-transgenero-por-imitar-al-sexo-contrario-en-kuwait
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202110/6-christies-subastara-obra-de-picasso-en-manos-privadas-durante-casi-60-anos
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202110/13-la-transicion-hacia-energias-limpias-es-demasiado-lenta-advierte-la-aie
+    featured{array} /content/202110/14-entre-gritos-sirenas-y-helicopteros-testigos-del-ataque-cuentan-el-horror-vivido-en-noruega
 }
 other{kmkv} {
     name Other (Internal)

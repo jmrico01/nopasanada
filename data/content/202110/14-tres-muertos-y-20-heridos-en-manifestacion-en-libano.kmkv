@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Al menos tres personas murieron y una veintena resultaron heridas el jueves durante tiroteos registrados en una manifestaci&oacute;n en Beirut de los movimientos chiitas Hezbol&aacute; y Amal, informaron fuentes m&eacute;dicas.</li>
+<li>Un hombre muri&oacute; de un disparo en la cabeza, otro recibi&oacute; una bala en el pecho, dijo Mariam Hassan, del hospital Sahel, a las afueras de Beirut.</li>
+<li>La agencia nacional de informaci&oacute;n (ANI) anunci&oacute; que hab&iacute;a un tercer fallecido en el hospital Rassoul Al Aazam, en los vecindarios chiitas del sur de Beirut.</li>
+<li>Veinte personas resultaron heridas, seg&uacute;n la Cruz Roja libanesa, y fueron socorridas por ambulancias cerca del Palacio de Justicia, donde los manifestantes exig&iacute;an la destituci&oacute;n del juez encargado de la investigaci&oacute;n de la explosi&oacute;n en el puerto de la ciudad, ocurrida el 4 de agosto de 2020. En este inicidente murieron al menos 214 personas, hubo m&aacute;s de 6.000 heridos y numerosos edificios de la capital libanesa acabaron devastados.</li>
+<li>Hezbol&aacute; y sus aliados creen que el juez est&aacute; politizando la investigaci&oacute;n.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las televisiones locales mostraron a manifestantes armados y el ej&eacute;rcito dijo que hab&iacute;a registrado disparos en varias zonas y que hab&iacute;a acordonado los lugares para "buscar a las personas que hab&iacute;an disparado y detenerlas".</li>
+<li>El primer ministro Nagib Mikati inst&oacute; a mantener la calma y critic&oacute; los intentos de hundir al pa&iacute;s en un ciclo de violencia.</li>
+<li>El martes, el juez a cargo de la investigaci&oacute;n de la explosi&oacute;n en el puerto de Beirut, Tareq Bitar, lanz&oacute; una orden de arresto contra el diputado y exministro de Finanzas, Ali Hassan Khalil, miembro de Amal y aliado de Hezbol&aacute;.</li>
+<li>Acto seguido se vio obligado a suspender la investigaci&oacute;n ya que dos exministros pusieron una denuncia contra &eacute;l en la justicia, que fue desestimada este jueves, por lo que el magistrado podr&aacute; seguir adelante con su trabajo.</li>
+<li>Este asunto est&aacute; a punto de provocar una implosi&oacute;n del reci&eacute;n formado gobierno liban&eacute;s, despu&eacute;s de un a&ntilde;o de bloqueo pol&iacute;tico.</li>
+</ul>
+}
+title Tres muertos y 20 heridos durante manifestación en Líbano
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202110/headers/14-tres-muertos-y-20-heridos-en-manifestacion-en-libano.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Al menos tres personas murieron y una veintena resultaron heridas el jueves durante tiroteos registrados en una manifestación en Beirut de los movimientos chiitas Hezbolá y Amal, informaron fuentes médicas.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Líbano<b>
+    text1 Tres muertos y 20 heridos durante manifestación en Líbano
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
