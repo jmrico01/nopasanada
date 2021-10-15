@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Estados Unidos anunci&oacute; el viernes que permitir&aacute; el ingreso al pa&iacute;s a visitantes extranjeros que est&eacute;n completamente vacunados contra el covid-19 a partir del 8 de noviembre.</li>
+<li>"La nueva pol&iacute;tica de viajes estadounidense, que exige la vacunaci&oacute;n de los viajeros extranjeros a Estados Unidos, entrar&aacute; en vigor el 8 de noviembre", anunci&oacute; en Twitter Kevin Mu&ntilde;oz, subsecretario de prensa de la Casa Blanca, especificando la fecha de una iniciativa ya adelantada el mes pasado.</li>
+<li>"Este anuncio y fecha se aplica tanto a los viajes a&eacute;reos internacionales como a los terrestres", precis&oacute;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En marzo de 2020, para frenar la propagaci&oacute;n del coronavirus, Estados Unidos cerr&oacute; sus fronteras a los viajeros procedentes de la Uni&oacute;n Europea, Reino Unido y China, y m&aacute;s tarde sum&oacute; a la lista a los procedentes de India y Brasil. Tambi&eacute;n prohibi&oacute; el ingreso por tierra desde M&eacute;xico y Canad&aacute;.&nbsp;</li>
+<li>Estas restricciones generaron trastornos a nivel personal y econ&oacute;mico.&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Para los viajeros que lleguen por aire, Estados Unidos solicitar&aacute; a las aerol&iacute;neas que establezcan un sistema de rastreo de contactos y exigir&aacute; una prueba de detecci&oacute;n del virus dentro de los tres d&iacute;as antes de la salida.&nbsp;</p>
+<p>Para el ingreso terrestre, la Casa Blanca anunci&oacute; esta semana que el levantamiento de las restricciones se har&iacute;a en dos etapas.&nbsp;</p>
+<p>A partir del 8 de noviembre, podr&aacute;n cruzar la frontera de Canad&aacute; o M&eacute;xico las personas que vengan por motivos considerados "no esenciales", por ejemplo familiares o tur&iacute;sticos, a condici&oacute;n de estar vacunados.&nbsp;</p>
+<p>Las personas que vengan por razones "esenciales", por ejemplo, los conductores de camiones, estar&aacute;n exentas.&nbsp;</p>
+<p>Pero a partir de enero, la obligaci&oacute;n de la vacuna anticovid se aplicar&aacute; a todos los visitantes que crucen las fronteras terrestres, independientemente del motivo de su entrada a Estados Unidos.</p>
+}
+title EEUU permitirá ingreso a extranjeros completamente vacunados desde el 8 de noviembre
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202110/headers/15-eeuu-permitira-ingreso-a-extranjeros-completamente-vacunados-desde-el-8-de-noviembre.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Estados Unidos anunció el viernes que permitirá el ingreso al país a visitantes extranjeros que estén completamente vacunados contra el covid-19 a partir del 8 de noviembre.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Estados Unidos<b>
+    text1 EEUU permitirá ingreso a extranjeros completamente vacunados desde el 8 de noviembre
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

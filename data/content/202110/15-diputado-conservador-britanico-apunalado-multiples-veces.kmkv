@@ -3,7 +3,7 @@ text {
 <hr />
 <p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
 <ul>
-<li>Un diputado conservador brit&aacute;nico, David Amess, fue apu&ntilde;alado "m&uacute;ltiples veces" el viernes durante un evento en su circunscripci&oacute;n en el sureste de Inglaterra, conmocionando a un pa&iacute;s a&uacute;n marcado por el asesinato en 2016 de la diputada laborista Jo Cox.</li>
+<li>El diputado conservador brit&aacute;nico David Amess muri&oacute; el viernes tras ser apu&ntilde;alado en un acto con electores en su circunscripci&oacute;n del sureste de Inglaterra, informan este viernes la polic&iacute;a y medios brit&aacute;nicos.&nbsp;</li>
 <li>La polic&iacute;a local no mencion&oacute; el nombre de Amess, pero confirm&oacute; que los agentes "fueron llamados debido a un apu&ntilde;alamiento" poco despu&eacute;s de las 12h05 (11h05 GMT). "Un hombre fue detenido (...) y no buscamos a nadie m&aacute;s", inform&oacute; en Twitter.</li>
 <li>Los canales Sky News y BBC identificaron a la v&iacute;ctima, apu&ntilde;alada "m&uacute;ltiples veces", como el pol&iacute;tico de 69 a&ntilde;os, miembro del partido del primer ministro Boris Johnson, que recib&iacute;a a sus electores en una iglesia de su circunscripci&oacute;n en Leigh-on-Sea.</li>
 <li>Se desconoc&iacute;a de momento el estado de Amess y el m&oacute;vil del atacante.</li>
@@ -23,7 +23,7 @@ text {
 <li>Y diez a&ntilde;os antes, el asistente del diputado liberaldem&oacute;crata Nigel Jones muri&oacute; durante un ataque con sable en un encuentro con electores locales cuyo objetivo era el legislador.</li>
 </ul>
 }
-title Diputado conservador británico apuñalado múltiples veces
+title Muere diputado conservador británico tras ser apuñalado múltiples veces
 day 15
 text1 
 text2 
@@ -32,18 +32,18 @@ text4
 customTop 
 media{kmkv} {
     kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
-    header /images/202110/headers/14-dos-anos-de-carcel-para-mujer-transgenero-por-imitar-al-sexo-contrario-en-kuwait.jpg
+    header /images/202110/headers/15-diputado-conservador-britanico-apunalado-multiples-veces.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
     banksy /images/202006/10-banksy/banksy.jpg
     ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
 }
-description Un diputado conservador británico, David Amess, fue apuñalado "múltiples veces" el viernes durante un evento en su circunscripción en el sureste de Inglaterra, conmocionando a un país aún marcado por el asesinato en 2016 de la diputada laborista Jo Cox.
+description El diputado conservador británico David Amess murió el viernes tras ser apuñalado en un acto con electores en su circunscripción del sureste de Inglaterra, informan este viernes la policía y medios británicos.
 year 2021
 author AFP | NPN Noticias
 featured{kmkv} {
     title <b>Inglaterra<b>
-    text1 Diputado conservador británico apuñalado múltiples veces
+    text1 Muere diputado conservador británico tras ser apuñalado múltiples veces
     text2 Por AFP Y NPN NOTICIAS
     pretitle LO IMPORTANTE:
     highlightColor #FBFF09
