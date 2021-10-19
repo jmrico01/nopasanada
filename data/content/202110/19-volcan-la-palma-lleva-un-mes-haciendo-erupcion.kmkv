@@ -1,0 +1,59 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El volc&aacute;n Cumbre Vieja segu&iacute;a este martes lanzando lava y cenizas sobre la isla espa&ntilde;ola de la Palma, en el archipi&eacute;lago de Canarias, donde ya ha destruido centenares de viviendas y obligado a evacuar a casi 7.000 vecinos desde que comenz&oacute; su erupci&oacute;n hace un mes.</li>
+<li>El Cumbre Vieja entr&oacute; en fase eruptiva el 19 de septiembre, cuando emiti&oacute; espectaculares r&iacute;os de lava que iniciaron un lento descenso hasta alcanzar finalmente el mar, diez d&iacute;as despu&eacute;s. Pese a que la erupci&oacute;n no ha dejado ninguna v&iacute;ctima, las ardientes coladas de magma -grises y naranjas- han ido destruyendo todo a su paso, y cubren ya 763 hect&aacute;reas.</li>
+<li>La lava ha arrasado 1.956 edificios, incluidas centenares de casas, de acuerdo con las &uacute;ltimas cifras del gobierno espa&ntilde;ol. Las nubes de ceniza que emite sin descanso el volc&aacute;n, y que ti&ntilde;en de gris parte de la isla, tambi&eacute;n perturban regularmente las conexiones a&eacute;reas con La Palma.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>A un mes del inicio de la erupci&oacute;n, acompa&ntilde;ada tambi&eacute;n de recurrentes sismos menores, los ge&oacute;logos no saben pronosticar cu&aacute;nto tiempo puede extenderse su actividad.&nbsp;</li>
+<li>El Cumbre Vieja expulsa 10.000 toneladas de di&oacute;xido de azufre por d&iacute;a y, para considerar que empieza a apagarse deber&iacute;a descender a 400 toneladas, seg&uacute;n explic&oacute; a la prensa David Calvo, portavoz del Instituto Volcanol&oacute;gico de Canarias (Involcan).</li>
+<li>"Nadie es capaz de afirmar que esta es su finalizaci&oacute;n", afirm&oacute; de su lado el jefe del gobierno regional de Canarias, &Aacute;ngel V&iacute;ctor Torres.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Una segunda colada de lava se encuentra ahora a unos 30 metros de la costa, al oeste de la isla, y su contacto con el oc&eacute;ano podr&iacute;a provocar emisiones t&oacute;xicas.&nbsp;</p>
+<p>Seg&uacute;n David Calvo, este nuevo flujo, cuya temperatura supera los 1.100 grados, avanza muy lentamente y podr&iacute;a llegar el martes al mar, obligando probablemente a confinar a los vecinos de las zonas m&aacute;s cercanas.</p>
+<p>La primera colada de lava toc&oacute; el oc&eacute;ano a finales de septiembre. Al solidificarse tras el contacto con el agua gener&oacute; una nueva pen&iacute;nsula que suma ya 40 hect&aacute;reas.</p>
+<p>Desde el inicio de la erupci&oacute;n, casi 7.000 vecinos de esta peque&ntilde;a isla atl&aacute;ntica de 85.000 habitantes han tenido que dejar sus casas.&nbsp;</p>
+<p>Esta es la tercera erupci&oacute;n de un volc&aacute;n en La Palma en el &uacute;ltimo siglo, luego de la del San Juan en 1949 y la del Tenegu&iacute;a en 1971.&nbsp;</p>
+<p>Ambas dejaron en total tres muertos, dos de ellos por inhalaci&oacute;n de gases t&oacute;xicos, aunque causaron menos da&ntilde;os que la del Cumbre Vieja, ya que en esas d&eacute;cadas la isla estaba menos poblada.</p>
+}
+title Volcán de La Palma lleva un mes haciendo erupción
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202110/headers/19-volcan-la-palma-lleva-un-mes-haciendo-erupcion.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    one /images/202109/mexico-no-esta-de-moda/one.jpg
+    fpur /images/202109/mexico-no-esta-de-moda/fpur.jpg
+    poster /images/202109/posters/mexico-no-esta-de-moda.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+    two /images/202109/mexico-no-esta-de-moda/two.jpg
+}
+description El volcán Cumbre Vieja seguía este martes lanzando lava y cenizas sobre la isla española de la Palma, en el archipiélago de Canarias, donde ya ha destruido centenares de viviendas y obligado a evacuar a casi 7.000 vecinos desde que comenzó su erupción hace un mes.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>España<b>
+    text1 Volcán de La Palma lleva un mes haciendo erupción
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
