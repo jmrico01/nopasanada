@@ -1,0 +1,58 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Al menos 14 personas murieron el mi&eacute;rcoles en un atentado contra un autob&uacute;s militar en Damasco.</li>
+<li>De momento, el atentado no fue reivindicado pero las fuerzas gubernamentales bombardearon una hora despu&eacute;s la provincia de Idlib, &uacute;ltimo gran basti&oacute;n yihadista y rebelde, en el noroeste del pa&iacute;s, causando al menos 13 muertos, civiles en su mayor&iacute;a y 26 heridos.</li>
+<li>Sobre las 06H45 (03H45 GMT), un autob&uacute;s militar que circulaba cerca de un puente estrat&eacute;gico de la capital "fue blanco de un ataque terrorista con dos aparatos explosivos pegados al bus, causando la muerte de 14 personas y dejando varios heridos", indic&oacute; SANA, citando a una fuente militar.</li>
+<li>Seg&uacute;n esta misma fuente, el veh&iacute;culo llevaba dos artefactos explosivos enganchados y que un tercer artefacto "cay&oacute; del autob&uacute;s despu&eacute;s de la explosi&oacute;n" y que "fue desmantelado".</li>
+<li>Seg&uacute;n el Observatorio Sirio de Derechos Humanos (OSDH), que cuenta con una amplia red de fuentes en Siria, todos los muertos son militares.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La guerra en Siria, que empez&oacute; en 2011 a ra&iacute;z de la sangrienta represi&oacute;n de manifestaciones prodemocracia, perdi&oacute; intensidad en los &uacute;ltimos a&ntilde;os y los ataques de este tipo son cada vez m&aacute;s inusuales, sobre todo en Damasco.</li>
+<li>"Hac&iacute;a tiempo que no hab&iacute;amos visto incidentes as&iacute;, pens&aacute;bamos que esto se hab&iacute;a terminado", dijo Salam, empleado de una verduler&iacute;a del barrio.</li>
+<li>Se trata del ataque m&aacute;s mort&iacute;fero perpetrado en Damasco desde un atentado reivindicado por el grupo yihadista Estado Isl&aacute;mico (EI) contra el Palacio de Justicia en marzo de 2017, que dej&oacute; unas 30 v&iacute;ctimas mortales.</li>
+<li>Durante el conflicto, Damasco no ha resultado tan golpeada como otras zonas del pa&iacute;s, sobre todo desde que militares y milicias aliadas conquistaron el &uacute;ltimo basti&oacute;n rebelde cerca de la capital, en 2018.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Estos ataques ponen en entredicho los mensajes del gobierno conforme los diez a&ntilde;os de guerra han quedado atr&aacute;s y la estabilidad est&aacute; garantizada para iniciar cuanto antes los proyectos de reconstrucci&oacute;n e inversi&oacute;n.</p>
+<p>El r&eacute;gimen del presidente Bashar al Asad se esfuerza en salir del aislamiento internacional y hab&iacute;a logrado algunos progresos recientemente.</p>
+<p>Apoyado tambi&eacute;n por Ir&aacute;n y milicias aliadas, el ej&eacute;rcito ha recuperado casi todas las ciudades principales de Siria.</p>
+<p>Pero el pa&iacute;s contin&uacute;a estando fragmentado. Los kurdos, apoyados por Estados Unidos, controlan el noreste del pa&iacute;s, mientras que otras zonas del norte siguen bajo control de los yihdiastas y de los rebeldes, o de fuerzas turcas de sus apoyos sirios.</p>
+<p>Por su parte, el "califato" autoproclamado por el grupo Estado Isl&aacute;mico (EI) en Irak y en Siria se acab&oacute; derrumbando. Ambos pa&iacute;ses anunciaron su victoria contra los yihadistas a finales de 2017 y en 2019, respectivamente.</p>
+<p>La guerra en Siria ha causado casi medio mill&oacute;n de muertos, seg&uacute;n el OSDH, y obligado a la mitad de la poblaci&oacute;n de antes de la guerra a abandonar sus hogares.</p>
+}
+title Ataque deja al menos 14 muertos en Damasco
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202110/headers/20-ataque-deja-al-menos-14-muertos-en-damasco.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Al menos 14 personas murieron el miércoles en un atentado contra un autobús militar en Damasco.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Damasco<b>
+    text1 Ataque deja al menos 14 muertos en Damasco
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
