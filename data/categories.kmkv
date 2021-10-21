@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202110/20-comision-acusa-a-bolsonaro-por-crimenes-engestion-de-la-pandemia
+    featured{array} /content/202110/21-tercera-dosis-de-pfizer-biontech-tiene-eficacia-del-95-6
 }
 other{kmkv} {
     name Other (Internal)
