@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La defensora de la justicia social Cindy Kiro jur&oacute; este jueves como nueva gobernadora general de Nueva Zelanda, convirti&eacute;ndose en la primera mujer maor&iacute; en detentar ese cargo, eminentemente simb&oacute;lico.</li>
+<li>Como gobernadora general, actuar&aacute; como representante de Nueva Zelanda ante la jefa del Estado, la reina Isabel II.</li>
+<li>Kiro, una acad&eacute;mica con una larga experiencia en la defensa de los derechos de los ni&ntilde;os y las comunidades ind&iacute;genas, prometi&oacute; establecer contacto con los colectivos m&aacute;s afectados por la pandemia de covid-19.</li>
+<li>"Estamos viviendo un periodo de inmensa incertidumbre y ansiedad", declar&oacute; durante una ceremonia en el Parlamento.</li>
+<li>"Contactar&eacute; con las comunidades marginadas de nuestra sociedad, ya sea por su discapacidad, por no tener hogar, por ser discriminadas a causa de su adicci&oacute;n o por sus enfermedades mentales".</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Kiro afirm&oacute; que tambi&eacute;n prev&eacute; llegar hasta los migrantes, los refugiados y "h&eacute;roes no reconocidos de nuestra comunidad".</li>
+<li>Kiro, de 63 a&ntilde;os, es hija de una maor&iacute; y de un ingl&eacute;s, y dijo que estaba orgullosa de llevar su doble legado al puesto de gobernadora general.</li>
+<li>El papel de gobernador general es en gran parte ceremonial, y comporta investir a los diputados, otorgar honores y recibir a dignatarios extranjeros</li>
+</ul>
+}
+title Investida la primera mujer maorí como gobernadora general de Nueva Zelanda
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202110/headers/21-investida-la-primera-mujer-maori-como-gobernadora-general-de-nueva-zelanda.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La defensora de la justicia social Cindy Kiro juró este jueves como nueva gobernadora general de Nueva Zelanda, convirtiéndose en la primera mujer maorí en detentar ese cargo, eminentemente simbólico.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Nueva Zelanda<b>
+    text1 Investida la primera mujer maorí como gobernadora general de Nueva Zelanda
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
