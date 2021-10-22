@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202110/21-tercera-dosis-de-pfizer-biontech-tiene-eficacia-del-95-6
+    featured{array} /content/202110/22-estados-unidos-inicia-campana-contra-stealthing
 }
 other{kmkv} {
     name Other (Internal)
