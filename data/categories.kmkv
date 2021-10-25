@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202110/22-estados-unidos-inicia-campana-contra-stealthing
+    featured{array} /content/202110/25-concentracion-de-gases-de-efecto-invernadero-alcanzo-nuevo-record
 }
 other{kmkv} {
     name Other (Internal)

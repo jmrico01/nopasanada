@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La Agencia Europea del Medicamento (EMA, en su siglas en ingl&eacute;s) anunci&oacute; este lunes que ha lanzado la revisi&oacute;n acelerada de la p&iacute;ldora antiviral contra el covid-19 de la farmac&eacute;utica estadounidense Merck, un f&aacute;rmaco f&aacute;cil de administrar crucial en la lucha contra la pandemia.</li>
+<li>"El Comit&eacute; de Medicamentos de Uso Humano (CHMP) de la EMA lanz&oacute; una revisi&oacute;n contin&uacute;a del medicamento antiviral oral molnupiravir (...) desarrollado por Merck (...) para el tratamiento de Covid-19 en adultos", se&ntilde;al&oacute; el regulador europeo con sede en &Aacute;msterdam en un comunicado.</li>
+<li>Los resultados preliminares de los estudios de laboratorio y cl&iacute;nicos "sugieren que el f&aacute;rmaco puede reducir la capacidad del SARS-CoV-2 (el virus que causa el covid-19) para multiplicarse en el cuerpo, previniendo as&iacute; la hospitalizaci&oacute;n o la muerte de los pacientes", indic&oacute; el EMA.</li>
+<li>Si se aprueba, este medicamento llamado molnupiravir representar&iacute;a un gran avance al disminuir con bastante facilidad las formas graves de la enfermedad.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los antivirales como el molnupiravir act&uacute;an de manera que reduce la capacidad de replicarse del virus y, por tanto, frenar&iacute;a la enfermedad.</li>
+<li>Administrado a pacientes inmediatamente despu&eacute;s de dar positivo, el tratamiento disminuy&oacute; a la mitad el riesgo de hospitalizaci&oacute;n y fallecimiento, seg&uacute;n el ensayo cl&iacute;nico realizado por Merck, tambi&eacute;n llamado MSD fuera de los Estados Unidos.</li>
+<li>El EMA analizar&aacute; la conformidad de molnupiravir con las normas europea en materia de eficacia, seguridad y calidad.</li>
+</ul>
+}
+title Agencia Europea del Medicamento inicia revisión acelerada de la píldora anticovid-19 de Merck
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202110/headers/25-agencia-europea-del-medicamento-inicia-revision-acelerada-de-la-pildora-anticovid-19-de-merck.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Una tercera dosis de la vacuna contra el covid-19 de Pfizer/BioNTech tiene una eficacia de 95,6% contra las formas sintomáticas de la enfermedad, según un estudio elaborado por los dos laboratorios y publicado este jueves.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Mundial<b>
+    text1 Agencia Europea del Medicamento inicia revisión acelerada de la píldora anticovid-19 de Merck
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
