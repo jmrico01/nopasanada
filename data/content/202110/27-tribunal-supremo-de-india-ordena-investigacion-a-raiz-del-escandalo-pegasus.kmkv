@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El Tribunal Supremo de India orden&oacute; el mi&eacute;rcoles una investigaci&oacute;n independiente sobre el presunto uso del programa de espionaje Pegasus por parte del gobierno contra periodistas, opositores pol&iacute;ticos y activistas.</li>
+<li>India es uno de los pa&iacute;ses en los que decenas de miles de n&uacute;meros de tel&eacute;fono fueron pinchados por este programa, comercializado por la empresa israel&iacute; NSO, seg&uacute;n una investigaci&oacute;n publicada en julio por un consorcio de 17 medios internacionales y realizada en el marco de la plataforma colaborativa Forbidden Stories, con el apoyo t&eacute;cnico del Security Lab de la oeneg&eacute; Amnist&iacute;a Internacional.</li>
+<li>La orden sigue a peticiones de particulares que, seg&uacute;n el presidente del Tribunal Supremo, N.V. Ramana, "suscitan preocupaciones orwellianas".</li>
+<li>El Estado no puede aprovecharse de un "salvoconducto cada vez que el fantasma de la seguridad nacional sale a colaci&oacute;n", declar&oacute; el tribunal, que encarg&oacute; a expertos en cibertecnolog&iacute;a e inform&aacute;tica que examinen las denuncias.&nbsp;</li>
+<li>El tribunal acept&oacute; las peticiones porque el gobierno no hab&iacute;a emitido "ning&uacute;n desmentido espec&iacute;fico".</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>M&aacute;s de los 1.000 n&uacute;meros de objetivos potenciales recabados por el programa eran indios, incluyendo los del l&iacute;der opositor Rahul Gandhi y los de periodistas, activistas y exjueces.&nbsp;</li>
+<li>Pegasus permite, cuando est&aacute; instalado en el celular, acceder a los servicios de mensajer&iacute;a, los datos del usuario o activar el dispositivo a distancia para captar sonido o imagen.&nbsp;</li>
+</ul>
+}
+title Tribunal Supremo de India ordena investigación a raíz del escándalo Pegasus
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202110/headers/27-tribunal-supremo-de-india-ordena-investigacion-a-raiz-del-escandalo-pegasus.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El Tribunal Supremo de India ordenó el miércoles una investigación independiente sobre el presunto uso del programa de espionaje Pegasus por parte del gobierno contra periodistas, opositores políticos y activistas.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>India<b>
+    text1 Tribunal Supremo de India ordena investigación a raíz del escándalo Pegasus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

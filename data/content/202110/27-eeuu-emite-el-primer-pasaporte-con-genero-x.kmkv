@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Estados Unidos anunci&oacute; el mi&eacute;rcoles la emisi&oacute;n del primer pasaporte con una "X" en la categor&iacute;a de g&eacute;nero, un paso hist&oacute;rico para las personas que luchan contra la calificaci&oacute;n binaria de hombre o mujer.&nbsp;</li>
+<li>El Departamento de Estado anunci&oacute; que esta opci&oacute;n estar&aacute; disponible a nivel general a principios de 2022 tanto para los pasaportes como para los certificados de nacimiento de los estadounidenses en el extranjero.&nbsp;</li>
+<li>"Quiero reiterar, con motivo de esta emisi&oacute;n de pasaportes, el compromiso del Departamento de Estado con la promoci&oacute;n de la libertad, la dignidad y la igualdad de todas las personas, incluidas las personas LGBTQI+", dijo el portavoz del Departamento de Estado, Ned Price, en un comunicado.&nbsp;</li>
+<li>El Secretario de Estado, Antony Blinken, hab&iacute;a prometido tratar este tema en junio, una vez que se resolvieran algunos obst&aacute;culos tecnol&oacute;gicos.</li>
+<li>Tambi&eacute;n bajo el mandato de Blinken, el Departamento de Estado permiti&oacute; a los titulares de pasaportes estadounidenses seleccionar en ellos su sexo.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Hasta esta reforma, los estadounidenses necesitaban un certificado m&eacute;dico si quer&iacute;an marcar en sus pasaportes un g&eacute;nero diferente al que aparec&iacute;a en sus certificados de nacimiento u otros documentos.</li>
+<li>Al menos otros 11 pa&iacute;ses ya disponen de la opci&oacute;n "X" u "otro" en los pasaportes, seg&uacute;n la Red de Empleadores por la Igualdad y la Inclusi&oacute;n, un grupo de defensa con sede en Londres.&nbsp;</li>
+<li>Entre estos pa&iacute;ses figuran Canad&aacute;, Alemania y Argentina, as&iacute; como India, Nepal y Pakist&aacute;n, legado del concepto hist&oacute;rico del sur de Asia "hijra", que hace referencia a un tercer g&eacute;nero.&nbsp;</li>
+</ul>
+}
+title EEUU emite el primer pasaporte con género "X"
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202110/headers/27-eeuu-emite-el-primer-pasaporte-con-genero-x.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Estados Unidos anunció el miércoles la emisión del primer pasaporte con una "X" en la categoría de género, un paso histórico para las personas que luchan contra la calificación binaria de hombre o mujer.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 EEUU emite el primer pasaporte con género "X"
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
