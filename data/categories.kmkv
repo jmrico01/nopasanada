@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202110/29-de-sequia-a-inundacion-extremos-climaticos-en-california
+    featured{array} /content/202111/1-el-deshielo-de-los-ultimos-diez-anos-en-groenlandia-aumento-un-centimetro-el-nivel-del-mar
 }
 other{kmkv} {
     name Other (Internal)

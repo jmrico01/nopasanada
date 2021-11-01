@@ -1,0 +1,57 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Un delicado proceso comienza este lunes en Estados Unidos, en el que un joven blanco deber&aacute; responder por una acusaci&oacute;n de asesinato por la muerte de dos personas a las que dispar&oacute; en el marco de las grandes manifestaciones antirracistas del verano boreal de 2020.</li>
+<li>Entonces de 17 a&ntilde;os, Kyle Rittenhouse se uni&oacute; a hombres armados que se autodenominaban "grupos de autodefensa" y estaban deseosos de proteger la ciudad de Kenosha, en el norte de Estados Unidos, sacudida por manifestaciones contra el racismo tras un tiroteo policial que dej&oacute; a un hombre negro paral&iacute;tico.</li>
+<li>Equipado con un fusil semiautom&aacute;tico, abri&oacute; fuego en confusas circunstancias, matando a dos hombres y dejando herido a un tercero. Todas las v&iacute;ctimas son tambi&eacute;n blancas.</li>
+<li>El joven fue arrestado poco despu&eacute;s e inculpado por las muertes, pero luego puesto en libertad a cambio de una fianza de dos millones de d&oacute;lares. Se enfrenta a la posibilidad de una condena a cadena perpetua.</li>
+<li>Su juicio, que refleja la divisi&oacute;n en la sociedad estadounidense respecto a las armas de fuego y el movimiento Black Lives Matter (las vidas negras importan), comenzar&aacute; con la selecci&oacute;n de jurados.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>Los fiscales seguramente lo presentar&aacute;n como un extremista de derecha llegado a Kenosha para enfrentarse a los manifestantes antirracistas.</p>
+<p>Mientras que sus abogados enarbolar&aacute;n el derecho a la autodefensa, asegurando que dispar&oacute; para protegerse de alborotadores que lo persegu&iacute;an.</p>
+<p>El 23 de agosto de 2020, Kenosha se alz&oacute; en protesta porque polic&iacute;as blancos hirieron gravemente a un joven negro, Jacob Blake, a quien dispararon por la espalda durante un intento de arresto.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En la tercera noche de manifestaciones, Rittenhouse, quien hab&iacute;a publicado en internet varios mensajes de apoyo a la polic&iacute;a, se desplaz&oacute; una treintena de kil&oacute;metros para "patrullar" la ciudad. Varios videos muestran sus movimientos.</li>
+<li>En uno de ellos, parece que el joven huye justo antes de que otro hombre caiga al suelo con una herida de bala en su cabeza.</li>
+<li>En otro, se lo ve siendo perseguido por un peque&ntilde;o grupo de manifestantes. Entonces se cae y les apunta con su arma. Y se escucha claramente el sonido de disparos.</li>
+<li>"Supongo que estaba en grandes problemas" luego de que los manifestantes "lo atacaran violentamente", dijo el entonces presidente Donald Trump durante una visita a Kenosha en septiembre del a&ntilde;o pasado. "Probablemente lo habr&iacute;an matado".</li>
+<li>El juez a cargo del proceso, Bruce Schroeder, prometi&oacute; mantener la pol&iacute;tica fuera del tribunal.</li>
+<li>Pero ha despertado cr&iacute;ticas al negarse a permitir a los fiscales referirse a los muertos o heridos por Rittenhouse como "v&iacute;ctimas", a la vez que autoriz&oacute; a los abogados del acusado a referirse a ellos como "alborotadores", "saqueadores" o "incendiarios" si pueden probar que estuvieron involucrados en ese tipo de actos.</li>
+</ul>
+}
+title Inicia en EEUU juicio por muerte de dos manifestantes antirracistas en Kenosha
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202111/headers/1-inicia-en-eeuu-juicio-por-muerte-de-dos-manifestantes-antirracistas-en-kenosha.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un delicado proceso comienza este lunes en Estados Unidos, en el que un joven blanco deberá responder por una acusación de asesinato por la muerte de dos personas a las que disparó en el marco de las grandes manifestaciones antirracistas del verano boreal de 2020.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 Inicia en EEUU juicio por muerte de dos manifestantes antirracistas en Kenosha
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
