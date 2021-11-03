@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202111/2-decenas-de-paises-se-comprometen-a-reducir-emisiones-de-metano-y-salvar-los-bosques
+    featured{array} /content/202111/3-realidad-aumentada-un-anticipo-del-metaverso
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,46 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Netflix lanz&oacute; el martes juegos para tel&eacute;fonos m&oacute;viles a los que los suscriptores de todo el mundo del servicio de streaming pueden acceder de forma gratuita.</li>
+<li>Dos de los juegos se basan en "Stranger Things", la exitosa serie de terror de Netflix, y los otros tres son juegos b&aacute;sicos de cartas o de habilidad, seg&uacute;n la compa&ntilde;&iacute;a con sede en Silicon Valley.</li>
+<li>"Estamos emocionados de dar nuestro primer paso en el lanzamiento de juegos de Netflix en dispositivos m&oacute;viles para el mundo", dijo la compa&ntilde;&iacute;a estadounidense en un comunicado. "Queremos comenzar a construir una biblioteca de juegos que ofrezca algo para todos".</li>
+<li>Los juegos disponibles globalmente este martes ya pod&iacute;an usarse en Italia, Polonia y Espa&ntilde;a.</li>
+<li>Todos los t&iacute;tulos est&aacute;n dise&ntilde;ados para tel&eacute;fonos inteligentes o tabletas con sistema Android y se puede acceder a ellos a trav&eacute;s de las cuentas de Netflix.</li>
+<li>La plataforma de streaming no revel&oacute; cu&aacute;ndo habr&aacute; versiones disponibles para iPhones o iPads, que se ejecutan en el software de Apple.</li>
+<li>Netflix adquiri&oacute; recientemente su primer estudio de videojuegos, en su intento por &nbsp;expandir su imperio de entretenimiento al lucrativo sector de los juegos.</li>
+</ul>
+}
+title Netflix lanza juegos móviles para sus miembros en todo el mundo
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202111/headers/3-netflix-lanza-juegos-moviles-para-sus-miembros-en-todo-el-mundo.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Netflix lanzó el martes juegos para teléfonos móviles a los que los suscriptores de todo el mundo del servicio de streaming pueden acceder de forma gratuita.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Mundial<b>
+    text1 Netflix lanza juegos móviles para sus miembros en todo el mundo
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
