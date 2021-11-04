@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El Reino Unido anunci&oacute; este jueves que es el primer pa&iacute;s del mundo en autorizar el molnupiravir, el tratamiento en comprimidos contra el covid-19 elaborado por el laboratorio estadounidense Merck.</li>
+<li>"Hoy es un d&iacute;a hist&oacute;rico para nuestro pa&iacute;s, porque el Reino Unido es ahora el primer pa&iacute;s del mundo en aprobar un antiviral contra el covid-19 que puede tomarse en casa", declar&oacute; el ministro de Salud Sajid Javid en un comunicado.</li>
+<li>"Esto cambiar&aacute; la situaci&oacute;n para los m&aacute;s vulnerables y los inmunodeprimidos, que pronto podr&aacute;n recibir el revolucionario tratamiento", agreg&oacute;.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El molnupiravir fue autorizado por el regulador brit&aacute;nico, la MHRA, para las personas que sufren un coronavirus ligero o moderado y presentan al menos un factor de riesgo de desarrollar la enfermedad de manera grave (obesidad, edad superior a 60 a&ntilde;os, diabetes o enfermedades cardiacas).</li>
+<li>Los antivirales, como el molnupiravir, act&uacute;an reduciendo la capacidad de reproducci&oacute;n del virus, frenando as&iacute; la enfermedad.&nbsp;</li>
+<li>El uso de este f&aacute;rmaco puede ser doble: tanto para evitar que los infectados sufran s&iacute;ntomas graves, como para evitar que los que han estado en contacto estrecho desarrollen la enfermedad.&nbsp;</li>
+<li>Si se administra a pacientes en los d&iacute;as posteriores a un test de diagn&oacute;stico positivo reduce en un 50% las posibilidades de hospitalizaci&oacute;n, seg&uacute;n un ensayo cl&iacute;nico realizado por Merck.</li>
+<li>El gobierno brit&aacute;nico registra uno de los balances m&aacute;s graves del mundo en contagios por covid-19 y anunci&oacute; en octubre que hab&iacute;a encargado 480.000 tratamientos de molnupiravir.</li>
+<li>El Reino Unido contabiliza m&aacute;s de 140.000 fallecidos por coronavirus y registra actualmente un aumento de los casos, con unas 1.000 hospitalizaciones al d&iacute;a. Aunque estas cifras son menores a las contabilizadas en los momentos m&aacute;s &aacute;lgidos de la pandemia, las autoridades temen que la situaci&oacute;n sanitaria empeore con la llegada del invierno.</li>
+</ul>
+}
+title Reino Unido aprueba píldora anticovid-19 de Merck
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202111/headers/4-reino-unido-aprueba-pildora-anticovid-de-merck.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El Reino Unido anunció este jueves que es el primer país del mundo en autorizar el molnupiravir, el tratamiento en comprimidos contra el covid-19 elaborado por el laboratorio estadounidense Merck.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Reino Unido<b>
+    text1 Reino Unido aprueba píldora anticovid-19 de Merck
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

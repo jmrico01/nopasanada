@@ -1,0 +1,44 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Los precios de los alimentos en el mundo progresaron con fuerza en octubre hasta alcanzar su nivel m&aacute;s alto desde julio de 2011, anunci&oacute; este jueves la Organizaci&oacute;n de la ONU para la Agricultura y Alimentaci&oacute;n (FAO).</li>
+<li>El &iacute;ndice FAO de los precios de los alimentos aument&oacute; un 3% respecto a septiembre, hasta los 133,2 puntos. En t&eacute;rminos interanuales, el alza es del 31,3%, precis&oacute; la organizaci&oacute;n en un comunicado.</li>
+<li>El indicador, que mide la variaci&oacute;n mensual de las cotizaciones internacionales de un grupo de productos b&aacute;sicos, sigue acerc&aacute;ndose a su r&eacute;cord registrado en febrero de 2011: 137,6 puntos.</li>
+<li>El precio del trigo aument&oacute; en octubre por quinto mes consecutivo --un 5% en un mes y un 38,3% en un a&ntilde;o-- hasta su mayor nivel desde noviembre de 2012 por "cosechas reducidas" en los principales pa&iacute;ses productores como Canad&aacute;, Rusia y Estados Unidos, seg&uacute;n la FAO.</li>
+<li>El precio de los aceites vegetales progres&oacute; por su parte un 9,6% en un mes hasta su nivel hist&oacute;rico m&aacute;s alto. En cambio, el precio de la carne cay&oacute; un 0,7% respecto a septiembre, seg&uacute;n este &iacute;ndice.</li>
+</ul>
+}
+title Precios de los alimentos en el mundo alcanzan su mayor nivel desde 2011
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202111/headers/4-precios-de-los-alimentos-en-el-mundo-alcanzan-su-mayor-nivel-desde-2011.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los precios de los alimentos en el mundo progresaron con fuerza en octubre hasta alcanzar su nivel más alto desde julio de 2011, anunció este jueves la Organización de la ONU para la Agricultura y Alimentación (FAO).
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Mundial<b>
+    text1 Precios de los alimentos en el mundo alcanzan su mayor nivel desde 2011
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
