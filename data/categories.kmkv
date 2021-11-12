@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202111/11-elon-musk-vende-5000-millones-de-dolares-de-acciones-de-tesla-tras-encuesta-en-twitter
+    featured{array} /content/202111/12-alemania-en-plena-cuarta-ola-de-covid-19-vivira-meses-dificiles
 }
 other{kmkv} {
     name Other (Internal)
