@@ -1,0 +1,61 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La empresa Epic Games tir&oacute; la toalla el lunes con la versi&oacute;n china de su popular videojuego Fortnite, luego de tres a&ntilde;os de intentar establecerse en el mayor mercado mundial de los juegos en l&iacute;nea, debido a las medidas adoptadas por el gobierno para combatir la adicci&oacute;n de los j&oacute;venes al entretenimiento digital.</li>
+<li>La compa&ntilde;&iacute;a hab&iacute;a anunciado dos semanas atr&aacute;s que el 15 de noviembre iba a cerrar la versi&oacute;n china del juego, se&ntilde;alando que "la prueba Beta de Fornite China lleg&oacute; a su fin", y desconectar los servidores.</li>
+<li>Usuarios en China dijeron el lunes que ya no pod&iacute;an acceder al juego, y publicaron despedidas en la red social Weibo.</li>
+<li>La decisi&oacute;n pone fin al extenso per&iacute;odo de prueba de Fortnite creado para China, donde hay una estricta vigilancia de los contenidos violentos.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El videojuego de acci&oacute;n, con tiroteos y construcci&oacute;n de mundos, es uno de los m&aacute;s populares del mundo con m&aacute;s de 350 millones de usuarios, superior a la poblaci&oacute;n de Estados Unidos.</li>
+<li>El videojuego comenz&oacute; en China en 2018 a modo de prueba, pero nunca recibi&oacute; una autorizaci&oacute;n definitiva del gobierno para su lanzamiento y comercializaci&oacute;n.</li>
+<li>La decisi&oacute;n de suspender el juego se da en momentos que China endurece las reglas para el sector digital.</li>
+<li>Los juegos de video representan en China una importante fuente de ingresos, pero son criticados por ser adictivos para los j&oacute;venes.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>En agosto, las autoridades impusieron un dr&aacute;stico l&iacute;mite de tres horas de juegos de video por semana a los menores de 18 a&ntilde;os, cuando algunos pod&iacute;an pasar d&iacute;as enteros pegados a la pantalla.</p>
+<p>Fortnite se baja gratis pero genera miles de millones de d&oacute;lares en ingresos por la venta de elementos adicionales para los personajes, en particular los trajes.</p>
+<p>El juego se convirti&oacute; r&aacute;pidamente en fen&oacute;meno mundial, al punto que algunas partidas son seguidas en directo por millones de espectadores.</p>
+<p>En septiembre, cientos de productores chinos de videojuegos, incluyendo Tencent, se comprometieron a vigilar mejor sus productos para evitar contenidos "pol&iacute;ticamente da&ntilde;inos" y restringir la edad de los jugadores para acatar las disposiciones del gobierno.</p>
+<p>Ni Epic ni Tencent, el gigante chino de los juegos y la mensajer&iacute;a, respondieron inicialmente las consultas de AFP sobre Fortnite.</p>
+<p>Los intentos de Pek&iacute;n por estrechar el control sobre la econom&iacute;a golpe&oacute; a varias industrias, en particular las firmas tecnol&oacute;gicas.</p>
+<p>Ante ello, Microsoft anunci&oacute; en octubre que cerrar&iacute;a la versi&oacute;n china de su red social dirigida a profesionales LinkedIn, mientras Yahoo decidi&oacute; semanas atr&aacute;s retirarse del pa&iacute;s.</p>
+<p>Ambas empresas citaron los crecientes obst&aacute;culos para hacer negocios en China.</p>
+<p>Empresas tecnol&oacute;gicas extranjeras han tenido que equilibrarse para cumplir con las estrictas leyes locales y la censura gubernamental de contenidos.</p>
+<p>Google cerr&oacute; en 2010 su motor de b&uacute;squeda en China tras negarse a cumplir los requerimientos de Pek&iacute;n de censurar los resultados de b&uacute;squedas.</p>
+}
+title Fortnite abandonará de manera definitiva China
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202111/headers/15-fortnite-abandonara-de-manera-definitiva-china.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La empresa Epic Games tiró la toalla el lunes con la versión china de su popular videojuego Fortnite, luego de tres años de intentar establecerse en el mayor mercado mundial de los juegos en línea, debido a las medidas adoptadas por el gobierno para combatir la adicción de los jóvenes al entretenimiento digital.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 Fortnite abandonará de manera definitiva China
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
