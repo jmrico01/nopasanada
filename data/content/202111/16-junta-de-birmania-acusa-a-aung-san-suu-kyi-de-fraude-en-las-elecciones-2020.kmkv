@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La junta militar de Birmania procesar&aacute; a la l&iacute;der depuesta Aung San Suu Kyi por supuesto fraude electoral en los comicios de 2020, ganados holgadamente por su partido, inform&oacute; el martes la prensa estatal.</li>
+<li>La l&iacute;der derrocada en el golpe militar de febrero, enfrentada ya a numerosas acusaciones, ser&aacute; juzgada por "fraude electoral y acciones ilegales", se&ntilde;al&oacute; el peri&oacute;dico controlado por el Estado Global New Light of Myanmar, sin dar detalles sobre cu&aacute;ndo empezar&aacute; el proceso.</li>
+<li>Otras 15 personas, incluido el ex jefe de Estado Win Myint y el presidente de la comisi&oacute;n electoral, enfrentan los mismos cargos, seg&uacute;n la publicaci&oacute;n.</li>
+<li>"La junta utiliza acusaciones falsas de fraude electoral como la justificaci&oacute;n clave para el golpe", coment&oacute; a AFP Richard Horsey, responsable de Birmania en el International Crisis Group.</li>
+<li>Asegur&oacute; que los militares no lograron identificar m&aacute;s que un pu&ntilde;ado de personas que habr&iacute;an votado dos veces, y ahora persiguen a los dirigentes del partido, la Liga Nacional por la Democracia (LND), de Suu Kyi.</li>
+<li>"Pero Aung San Suu Kyi y el LND tuvieron un apoyo abrumador de los votantes, as&iacute; que una declaratoria de culpa no convencer&aacute; a nadie", agreg&oacute; Horsey.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Birmania est&aacute; inmersa en la turbulencia desde el golpe de febrero, que desat&oacute; protestas en todo el pa&iacute;s y una mortal represi&oacute;n a los disidentes.</li>
+<li>Detenida desde el golpe, Suu Kyi de 76 a&ntilde;os, enfrenta una ola de acusaciones que incluyen la importaci&oacute;n de radiocomunicadores, sedici&oacute;n y corrupci&oacute;n, y se expone a d&eacute;cadas de prisi&oacute;n de ser condenada.</li>
+<li>Tambi&eacute;n enfrent&oacute; un juicio por violar las restricciones por el coronavirus cuando hac&iacute;a campa&ntilde;a para las elecciones de 2020, en las que el LND derrot&oacute; a un partido af&iacute;n a los militares.</li>
+<li>Observadores internacionales se&ntilde;alaron que las elecciones fueron en general libres y justas.&nbsp;</li>
+<li>M&aacute;s de 1.250 personas han sido asesinadas por las fuerzas de seguridad de la junta desde el golpe y m&aacute;s de 10.000 han sido detenidas, seg&uacute;n un grupo local de monitoreo.</li>
+</ul>
+}
+title Junta de Birmania acusa a Aung San Suu Kyi de fraude en las elecciones de 2020
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202111/headers/16-junta-de-birmania-acusa-a-aung-san-suu-kyi-de-fraude-en-las-elecciones-2020.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La junta militar de Birmania procesará a la líder depuesta Aung San Suu Kyi por supuesto fraude electoral en los comicios de 2020, ganados holgadamente por su partido, informó el martes la prensa estatal.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Birmania<b>
+    text1 Junta de Birmania acusa a Aung San Suu Kyi de fraude en las elecciones de 2020
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
