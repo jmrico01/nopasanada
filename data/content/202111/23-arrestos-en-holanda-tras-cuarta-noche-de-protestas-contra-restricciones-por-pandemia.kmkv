@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Al menos 21 personas fueron arrestadas en Holanda tras una cuarta noche de protestas contra las restricciones impuestas en el pa&iacute;s para frenar la pandemia de coronavirus, inform&oacute; la polic&iacute;a.</li>
+<li>En las ciudades de Zwolle, Groninga (norte) y Roosendaal (sur), peque&ntilde;os grupos de manifestantes provocaron disturbios, pero de menor envergadura que los registrados durante el fin de semana en R&oacute;terdam y La Haya, que fueron calificados de "violencia pura" por parte de "idiotas" por el primer ministro Mark Rutte.</li>
+<li>Su gobierno prev&eacute; tomar medidas que podr&iacute;an llegar al confinamiento si los casos no ceden.</li>
+<li>En Zwolle, se declar&oacute; el estado de emergencia y 13 personas fueron detenidas, indic&oacute; en Twitter la polic&iacute;a local. Seg&uacute;n la cadena RTL, los sospechosos fueron detenidos por posesi&oacute;n de fuegos artificiales, desacato o por no tener su documento de identidad.</li>
+<li>En Roosendaal, ocho personas fueron detenidas por provocar incendios.</li>
+<li>En total, m&aacute;s de 150 personas han sido detenidas en relaci&oacute;n con estas manifestaciones, organizadas tras la reinstauraci&oacute;n de restricciones sanitarias el 13 de noviembre.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Bares, restaurantes y tiendas consideradas esenciales cierran a las 20H00 locales (19H00 GMT) y el resto de comercios a las 18H00 en Holanda en estos momentos.</li>
+<li>Tambi&eacute;n se insta a los ciudadanos a teletrabajar y a no recibir a m&aacute;s de cuatro personas en casa. Las manifestaciones quedan prohibidas y los partidos de f&uacute;tbol se juegan a puerta cerrada.</li>
+<li>El gobierno tambi&eacute;n tiene un proyecto de ley para implantar el pasaporte sanitario de personas vacunadas y recuperadas de la enfermedad en bares, restaurantes y otros lugares p&uacute;blicos.</li>
+<li>El viernes por la noche, una manifestaci&oacute;n en R&oacute;terdam degener&oacute; en enfrentamientos y cuatro personas resultaron heridas despu&eacute;s de que la polic&iacute;a abriera fuego. Un d&iacute;a despu&eacute;s, cinco polic&iacute;as resultaron heridos en La Haya en una manifestaci&oacute;n similar.</li>
+</ul>
+}
+title Arrestos en Holanda tras cuarta noche de protestas contra restricciones por pandemia
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202111/headers/22-chile-va-a-segunda-vuelta-entre-dos-polos-opuestos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Al menos 21 personas fueron arrestadas en Holanda tras una cuarta noche de protestas contra las restricciones impuestas en el país para frenar la pandemia de coronavirus, informó la policía.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Holanda<b>
+    text1 Arrestos en Holanda tras cuarta noche de protestas contra restricciones por pandemia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
