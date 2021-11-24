@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202111/22-chile-va-a-segunda-vuelta-entre-dos-polos-opuestos
+    featured{array} /content/202111/24-putin-insta-a-la-vacunacion-anticovid-pero-se-opone-a-que-sea-obligatoria
 }
 other{kmkv} {
     name Other (Internal)
