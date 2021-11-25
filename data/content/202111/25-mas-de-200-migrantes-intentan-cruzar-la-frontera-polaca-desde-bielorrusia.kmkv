@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>M&aacute;s de 230 migrantes intentaron entrar por la fuerza en Polonia desde Bielorrusia este jueves, indicaron los guardias fronterizos polacos.</li>
+<li>El mi&eacute;rcoles por la noche, "un grupo agresivo de extranjeros atac&oacute; nuestra frontera, lanzando piedras y ramas contra los servicios de seguridad polacos", explic&oacute; un comunicado de los guardias fronterizos.</li>
+<li>Los migrantes lograron destruir una parte de la alambrada que separa los dos pa&iacute;ses.</li>
+<li>"Todo ocurri&oacute; con la participaci&oacute;n activa de los soldados bielorrusos, que cegaron a los guardias fronterizos, polic&iacute;as y militares con linternas, luces de l&aacute;ser verdes y rojas intensas", indicaron estas fuentes.</li>
+<li>Seg&uacute;n la portavoz de los guardias fronterizos, Anna Michalska "cinco migrantes fueron hospitalizados. Est&aacute;n extenuados, pero seg&uacute;n los m&eacute;dicos podr&aacute;n salir del hospital". Otros migrantes fueron expulsados de nuevo al lado bielorruso.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El mi&eacute;rcoles, y seg&uacute;n fuentes polacas, se registraron 375 intentos de cruzar la frontera ilegalmente desde Bielorrusia.</li>
+<li>La Uni&oacute;n Europea y Estados Unidos acusan a Bielorrusia de orquestar esta crisis en represalia a las sanciones europeas contra el presidente bielorruso Alexander Lukashenko, cuya reelecci&oacute;n en 2020 provoc&oacute; multitudinarias manifestaciones en las calles que fueron violentamente reprimidas.</li>
+<li>La prensa polaca estima que una docena de personas muri&oacute; al intentar cruzar la frontera desde que comenz&oacute; la crisis este verano boreal.</li>
+</ul>
+}
+title Más de 200 migrantes intentan cruzar la frontera polaca desde Bielorrusia
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202111/headers/25-mas-de-200-migrantes-intentan-cruzar-la-frontera-polaca-desde-bielorrusia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Más de 230 migrantes intentaron entrar por la fuerza en Polonia desde Bielorrusia este jueves, indicaron los guardias fronterizos polacos.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Bielorrusia<b>
+    text1 Más de 200 migrantes intentan cruzar la frontera polaca desde Bielorrusia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
