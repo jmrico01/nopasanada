@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Las capacidades el&eacute;ctricas renovables en el mundo, desde la energ&iacute;a e&oacute;lica mar&iacute;tima y terrestre hasta la solar, han aumentado hasta niveles sin precedentes, pero a un ritmo insuficiente para que el planeta alcance la neutralidad de carbono, seg&uacute;n la Agencia Internacional de la Energ&iacute;a (AIE).</li>
+<li>Este a&ntilde;o superar&aacute; el r&eacute;cord del a&ntilde;o pasado, con 290 gigavatios (GW) de nuevas capacidades instaladas, a pesar del aumento de los precios de algunos componentes y del transporte, se&ntilde;ala el informe "Renovables" del organismo, publicado el mi&eacute;rcoles.</li>
+<li>Seg&uacute;n la AIE, que revis&oacute; a la alza sus proyecciones, 4.800 GW de instalaciones estar&aacute;n disponibles de aqu&iacute; a 2026, es decir un 60% m&aacute;s respecto a 2020 y el equivalente de la capacidad el&eacute;ctrica actual de origen nuclear y de energ&iacute;as f&oacute;siles juntas. La energ&iacute;a fotovoltaica supondr&aacute; m&aacute;s de 50% de este aumento, y la e&oacute;lica mar&iacute;tima triplicar&aacute; sus capacidades.</li>
+<li>Este crecimiento ata&ntilde;e a todas las regiones, con China a la cabeza: 1.200 GW de capacidades e&oacute;licas y solares est&aacute;n previstas en 2026, es decir cuatro a&ntilde;os antes que el objetivo oficial, estima la AIE.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>No obstante, si los precios de los componentes y los materiales siguen tan elevados hasta finales de 2022, el coste de las inversiones ser&aacute; tan alto que las capacidades el&eacute;ctricas renovables quedar&aacute;n limitadas.</li>
+<li>"Los precios elevados actuales de los materiales plantean nuevos retos para el sector de las renovables, pero los precios elevados de las energ&iacute;as f&oacute;siles hacen que las renovables sean todav&iacute;a m&aacute;s competitivas", destaca el director de la AIE, Fatih Birol.</li>
+<li>Pero este crecimiento de las energ&iacute;as renovables no bastar&aacute; para que el planeta alcance la neutralidad de carbono en 2050, una etapa necesaria para limitar el aumento de la temperatura media a +1,5 &ordm;C en relaci&oacute;n al periodo preindustrial.</li>
+<li>Para ello, el ritmo de las capacidades renovables nuevas instaladas de aqu&iacute; a 2026 tendr&iacute;a que duplicarse respecto a las previsiones de la AIE, y que la demanda de los biocarburantes fuera cuatro veces superior.</li>
+</ul>
+}
+title 2021 rompe récord de energías renovables pero no es suficiente
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/1-2021-rompe-record-de-energias-renovables-pero-no-es-suficiente.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Las capacidades eléctricas renovables en el mundo, desde la energía eólica marítima y terrestre hasta la solar, han aumentado hasta niveles sin precedentes, pero a un ritmo insuficiente para que el planeta alcance la neutralidad de carbono, según la Agencia Internacional de la Energía (AIE).
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Mundial<b>
+    text1 2021 rompe récord de energías renovables pero no es suficiente
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
