@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La Organizaci&oacute;n Mundial de la Salud (OMS) no tiene constancia por ahora de ninguna muerte vinculada a la variante &oacute;micron del coronavirus, indic&oacute; este viernes uno de sus portavoces en Ginebra.</li>
+<li>"No he visto ninguna informaci&oacute;n sobre muertes vinculadas con &oacute;micron", dijo Christian Lindmeier, en una rueda de prensa en Ginebra.</li>
+<li>Pero teniendo en cuenta que muchos pa&iacute;ses incrementan sus test para intentar detectar la nueva variante "tendremos seguro m&aacute;s casos, m&aacute;s informaciones y, ojal&aacute; que no, posiblemente fallecidos", dijo.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>La nueva variante, considerada preocupante por la OMS, fue detectada primero en el sur de &Aacute;frica pero desde que las autoridades sudafricanas alertaron al mundo de su descubrimiento, el 24 de noviembre, se han registrado casos de covid debidos a &oacute;micron en unos 30 pa&iacute;ses en todos los continentes.</p>
+<p>Entre ellos hay contagios vinculados con viajes al sur de &Aacute;frica, pero tambi&eacute;n casos de transmisi&oacute;n local.</p>
+<p>La OMS considera que la probabilidad de que &oacute;micron se extienda por todo el mundo es "elevada" aunque hay muchas inc&oacute;gnitas sobre la peligrosidad y la transmisibilidad reales de esta variante.</p>
+<p>El portavoz subray&oacute; que la inmensa mayor&iacute;a de los nuevos casos de covid est&aacute;n provocados actualmente por la variante delta.</p>
+<p>"Las restricciones instauradas en numerosos pa&iacute;ses hace dos semanas se deben a un aumento de casos vinculados a la variante delta. No hay que olvidarlo", insisti&oacute;.</p>
+<p>La OMS estima que las vacunas siguen siendo eficaces para proteger contra los casos m&aacute;s graves, pero har&aacute;n falta semanas para tener una imagen m&aacute;s clara del impacto que representar&aacute; &oacute;micron.</p>
+<p>"Los datos preliminares parecen mostrar que es m&aacute;s contagiosa, pero es b&aacute;sicamente lo &uacute;nico que sabemos por ahora", explic&oacute; Lindmeier.</p>
+}
+title Aún no hay muertes asociadas con la variante Omicron, dice la OMS
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/3-aun-no-hay-muertes-asociadas-con-la-variante-omicron-dice-la-oms.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La Organización Mundial de la Salud (OMS) no tiene constancia por ahora de ninguna muerte vinculada a la variante ómicron del coronavirus, indicó este viernes uno de sus portavoces en Ginebra.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Covid<b>
+    text1 Aún no hay muertes asociadas con la variante Omicron, dice la OMS
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

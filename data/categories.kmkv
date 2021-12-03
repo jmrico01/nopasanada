@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202112/2-twitter-suprime-unas-3500-cuentas-de-propaganda-gubernamental-y-desinformacion
+    featured{array} /content/202112/3-covid-pone-a-prueba-confianza-entre-ciudadanos-y-autoridades-en-holanda
 }
 other{kmkv} {
     name Other (Internal)
