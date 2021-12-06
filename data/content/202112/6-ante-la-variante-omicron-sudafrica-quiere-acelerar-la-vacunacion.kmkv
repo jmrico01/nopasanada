@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Ante el aumento de contagios por covid-19 debido a la variante &oacute;micron, el presidente sudafricano, Cyril Ramaphosa, llam&oacute; este lunes a la poblaci&oacute;n a vacunarse lo m&aacute;s pronto posible.&nbsp;</li>
+<li>Sud&aacute;frica, oficialmente el pa&iacute;s m&aacute;s afectado del continente, super&oacute; los tres millones de casos la semana pasada, con una tasa de positivos del 25%, frente al 2% de hace quince d&iacute;as.&nbsp;</li>
+<li>La variante &oacute;micron fue detectada por primera vez en Sud&aacute;frica a finales de noviembre.</li>
+<li>"Enfrentamos una tasa de contagio sin precedente desde el inicio de la pandemia", asegur&oacute; el presidente Ramaphosa en su carta de informaci&oacute;n semanal.</li>
+<li>"Llamo a todos los sudafricanos a ir a vacunarse sin esperar", agreg&oacute;, subrayando que esta nueva forma del virus es el principal responsable de la nueva ola.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Desde que fue detectada la nueva variante, el gobierno se interroga sobre la necesidad de tornar la vacunaci&oacute;n obligatoria. Algunas empresas privadas ya han tomado la delantera y han impuesto la vacuna a su personal.</li>
+<li>Unos 14,8 millones de sudafricanos est&aacute;n totalmente vacunados, alrededor del 25% de la poblaci&oacute;n, mientras que las autoridades se han fijado como objetivo la vacunaci&oacute;n del 70% de la poblaci&oacute;n para finales de a&ntilde;o.</li>
+<li>Desde el fin de semana, se han abierto centros de vacunaci&oacute;n en todas partes: centros comerciales, paradas de autob&uacute;s, iglesias, aeropuertos, centros deportivos, etc.&nbsp;</li>
+</ul>
+}
+title Ante la variante ómicron, Sudáfrica quiere acelerar la vacunación
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/6-ante-la-variante-omicron-sudafrica-quiere-acelerar-la-vacunacion.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Ante el aumento de contagios por covid-19 debido a la variante ómicron, el presidente sudafricano, Cyril Ramaphosa, llamó este lunes a la población a vacunarse lo más pronto posible.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>COVID-19<b>
+    text1 Ante la variante ómicron, Sudáfrica quiere acelerar la vacunación
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
