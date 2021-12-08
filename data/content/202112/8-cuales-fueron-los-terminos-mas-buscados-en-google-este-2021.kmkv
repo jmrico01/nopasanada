@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La gigante tecnol&oacute;gica estadounidense Google dio a conocer el mi&eacute;rcoles las b&uacute;squedas m&aacute;s populares en su plataforma en 2021, una lista que incluye la serie "Squid Game" (Juego del Calamar), al actor estadounidense Alec Baldwin y a la criptomoneda Dogecoin &iquest;Cu&aacute;les fueron los t&eacute;rminos m&aacute;s buscados?</li>
+</ul>
+<p><strong>- Los m&aacute;s buscados -</strong></p>
+<p>Hubo mucho inter&eacute;s en el deporte: los ocho t&eacute;rminos m&aacute;s buscados en el mundo este a&ntilde;o son cricket, la Liga de Baloncesto Profesional de Am&eacute;rica del Norte (NBA) y dos competiciones internacionales de f&uacute;tbol: la Euro 2021 y la Copa Am&eacute;rica sudamericana.</p>
+<p>La serie dram&aacute;tica dist&oacute;pica "Squid Game", transmitida por la plataforma Netflix, ocupa la novena posici&oacute;n.</p>
+<p>De su lado, el actor estadounidense Alec Baldwin, que qued&oacute; involucrado en la muerte accidental de una directora de fotograf&iacute;a de cine en octubre en el plat&oacute; de filmaci&oacute;n de un western, es la personalidad que gener&oacute; m&aacute;s b&uacute;squedas en Google.</p>
+<p>Le sigue Kyle Rittenhouse, un joven estadounidense que fue absuelto recientemente tras matar a disparos a dos personas durante una protesta contra el racismo y la violencia policial en Wisconsin en 2020.</p>
+<p>En la categor&iacute;a "Noticias", Afganist&aacute;n, donde los talibanes tomaron el poder en agosto, y las vacunas contra el covid-19 se encuentran entre los t&eacute;rminos m&aacute;s populares.</p>
+<p>Pero las personas tambi&eacute;n estuvieron muy interesados en determinadas acciones de la Bolsa que son objeto de una fiebre especulativa, como las de las tiendas de videojuegos GameStop o la cadena de cines AMC, as&iacute; como en criptomonedas como Dogecoin o Ether .</p>
+<p>En la secci&oacute;n "Desapariciones", la muerte del rapero DMX, de la viajera estadounidense Gabby Petito, misteriosamente asesinada, y el pr&iacute;ncipe Felipe, esposo de la reina Isabel II, encabezan la clasificaci&oacute;n.</p>
+<p>Al igual que en 2020, las preguntas relacionadas con la pandemia han representado una parte importante del tr&aacute;fico de Google, pero las b&uacute;squedas de vacunas han superado oficialmente a las de las pruebas de positividad del virus este a&ntilde;o, dijo la compa&ntilde;&iacute;a.</p>
+}
+title ¿Cuáles fueron los términos más buscados en Google este 2021?
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/8-cuales-fueron-los-terminos-mas-buscados-en-google-este-2021.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La gigante tecnológica estadounidense Google dio a conocer el miércoles las búsquedas más populares en su plataforma en 2021, una lista que incluye la serie "Squid Game" (Juego del Calamar), al actor estadounidense Alec Baldwin y a la criptomoneda Dogecoin.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Internet<b>
+    text1 ¿Cuáles fueron los términos más buscados en Google este 2021?
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
