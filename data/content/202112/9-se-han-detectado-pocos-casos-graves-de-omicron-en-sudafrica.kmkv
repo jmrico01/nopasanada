@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Los casos de covid-19 aumentaron un 93% en Africa en una semana, inform&oacute; la regional de la OMS, que tambi&eacute;n dio cuenta que pocos de los casos de la variente omicron detectados en Sud&aacute;frica han sido graves.</li>
+<li>En su reuni&oacute;n informativa semanal, la &nbsp;Oficina Regional para &Aacute;frica de la Organizaci&oacute;n Mundial de la Salud, destac&oacute; la necesidad de mejorar la cobertura de vacunaci&oacute;n en el continente, que en promedio sigue siendo muy baja.</li>
+<li>En &Aacute;frica se registraron m&aacute;s de 107.000 casos de covid-19 durante la semana que termin&oacute; el 5 de diciembre (en comparaci&oacute;n con 55.000 la semana anterior), y la parte de la variante omicr&oacute;n a&uacute;n no fue determinada.</li>
+<li>&Aacute;frica meridional registr&oacute; el mayor aumento, con una media del 140%.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los primeros datos procedentes de Sud&aacute;frica indican que la variante "omicr&oacute;n podr&iacute;a causar formas menos severas de la enfermedad", precisa OMS-&Aacute;frica en un comunicado difundido en paralelo a la reuni&oacute;n.</li>
+<li>Entre el 14 de noviembre y el 4 de diciembre, la tasa de ocupaci&oacute;n de las camas de hospital en cuidados intensivos era de s&oacute;lo 6,3%. Seg&uacute;n la misma fuente, "&Aacute;frica representa actualmente 46% de los cerca de 1.000 casos de omicr&oacute;n notificados por 57 pa&iacute;ses en todo el mundo".</li>
+<li>Hasta la fecha, diez pa&iacute;ses africanos han informado de casos de este tipo.</li>
+<li>La oficina regional de la OMS destac&oacute; que s&oacute;lo 7,8% de los africanos estaban totalmente vacunados contra el covid-19.</li>
+<li>Richard Mihigo, coordinador del programa de vacunaci&oacute;n de la OMS en &Aacute;frica, insiti&oacute; en que la situaci&oacute;n "es peligrosa y no puede continuar".</li>
+<li>Tambi&eacute;n se&ntilde;al&oacute; que el suministro de vacunas en el continente sigue mejorando y que hay que avanzar en el "despliegue" y en la administraci&oacute;n de las dosis, en particular a las personas m&aacute;s vulnerables.</li>
+</ul>
+}
+title Se han detectado pocos casos graves de ómicron en Sudáfrica
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/9-se-han-detectado-pocos-casos-graves-de-omicron-en-sudafrica.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los casos de covid-19 aumentaron un 93% en Africa en una semana, informó la regional de la OMS, que también dio cuenta que pocos de los casos de la variente omicron detectados en Sudáfrica han sido graves.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Covid-19<b>
+    text1 Se han detectado pocos casos graves de ómicron en Sudáfrica
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

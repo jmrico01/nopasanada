@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La Organizaci&oacute;n de las Naciones Unidas para la Agricultura y la Alimentaci&oacute;n advirti&oacute; el jueves que los recursos del suelo y agua se est&aacute;n deteriorando debido a las actividades humanas, y algunos sistemas est&aacute;n "al borde de la ruptura".</li>
+<li>En un informe sobre "El estado de los recursos del suelo y el agua para la alimentaci&oacute;n y la agricultura en el mundo", la FAO constat&oacute; que desde el primer informe hace diez a&ntilde;os la "situaci&oacute;n se ha deteriorado mucho", afirma el director general de la FAO, Qu Dongyu, en el prefacio.</li>
+<li>En el estudio ya se consideraba que "muchos de los ecosistemas productivos terrestres y acu&aacute;ticos estaban en peligro".&nbsp;</li>
+<li>"Desde entonces, las presiones sobre estos ecosistemas se han intensificado mucho y varios de ellos est&aacute;n sometidos a un nivel de estr&eacute;s cr&iacute;tico", subraya Qu Dongyu.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Debido a la r&aacute;pida urbanizaci&oacute;n y al aumento de la poblaci&oacute;n mundial, la demanda de alimentos ha aumentado, tendencia que se prev&eacute; que contin&uacute;e en los pr&oacute;ximos decenios.</li>
+<li>La FAO estima que para 2050 tendr&aacute; que aumentar en casi 50% el nivel de producci&oacute;n de alimentos, fibras y agrocombustibles en comparaci&oacute;n con 2012, para satisfacer la demanda mundial, para permanecer "en la senda" del objetivo "cero hambre" de las Naciones Unidas para 2030.</li>
+<li>El n&uacute;mero de personas desnutridas ha vuelto a aumentar, de 604 millones en 2014 a 768 millones en 2020.</li>
+<li>A escala mundial, "satisfacer las necesidades nutricionales de 9.700 millones de personas para 2050 es una tarea posible", estima la FAO. "Sin embargo, a nivel local existe el temor de que los problemas que plantean las pautas de producci&oacute;n y consumo empeoren, provocando niveles crecientes de desnutrici&oacute;n y obesidad".</li>
+<li>Para responder a estos grandes desaf&iacute;os, la FAO preconiza "desarrollar a gran escala una producci&oacute;n m&aacute;s responsable desde el punto de vista medioambiental y m&aacute;s inteligente frente al clima". Seg&uacute;n ella, "es esencial aumentar la productividad de la tierra y del agua".</li>
+</ul>
+}
+title FAO alerta sobre degradación de suelos y agua
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/9-fao-alerta-sobre-degradacion-de-suelos-y-agua.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La Organización de las Naciones Unidas para la Agricultura y la Alimentación advirtió el jueves que los recursos del suelo y agua se están deteriorando debido a las actividades humanas, y algunos sistemas están "al borde de la ruptura".
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Mundial<b>
+    text1 FAO alerta sobre degradación de suelos y agua
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
