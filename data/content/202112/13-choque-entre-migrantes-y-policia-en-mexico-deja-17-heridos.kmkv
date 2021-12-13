@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Un choque entre polic&iacute;as y un grupo de migrantes que avanza en caravana hacia Ciudad de M&eacute;xico dej&oacute; este domingo 17 heridos, entre ellos 13 agentes policiales, inform&oacute; el gobierno de la capital.</li>
+<li>Los enfrentamientos se produjeron en una de las entradas a la ciudad, en donde los indocumentados planean una protesta para exigir que se regularice su situaci&oacute;n migratoria.</li>
+<li>El episodio se registra tres d&iacute;as despu&eacute;s de que 55 migrantes murieron al volcar el trailer que los transportaba en Chiapas (sureste), frontera con Guatemala, por la que se internan en este pa&iacute;s los extranjeros indocumentados que, en su mayor&iacute;a, aspiran a llegar a Estados Unidos, huyendo de la violencia y pobreza de sus pa&iacute;ses.</li>
+<li>"Param&eacute;dicos del Escuadr&oacute;n de Rescate y Urgencias M&eacute;dicas (ERUM) atendieron a 13 polic&iacute;as lesionados, mientras que personal de Caminos y Puentes Federales (CAPUFE) asisti&oacute; a cuatro personas que requirieron atenci&oacute;n m&eacute;dica", inform&oacute; en un comunicado el gobierno de la Ciudad de M&eacute;xico, sin especificar datos sobre &eacute;stos &uacute;ltimos.</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>El choque se produjo, se a&ntilde;adi&oacute; en el comunicado, en el Puente de la Concordia, en la lateral de Calzada Ignacio Zaragoza, donde estaban m&aacute;s de 300 polic&iacute;as, quienes "&uacute;nicamente repelieron con su equipo de protecci&oacute;n las agresiones hacia ellos, iniciadas por algunos integrantes de este grupo".</p>
+<p>"Luego de reiniciar las negociaciones con la caravana migrante", funcionarios de la Ciudad de M&eacute;xico "acordaron con el grupo movilizar a sus integrantes en seis camiones para su arribo a la Bas&iacute;lica de Guadalupe", apunt&oacute; el comunicado.</p>
+<p>Este domingo cientos de miles de peregrinos asistieron, seg&uacute;n cifras oficiales, llegaron a la Bas&iacute;lica de Guadalupe de la Ciudad de M&eacute;xico para homenajear a su patrona, una de las peregrinaciones m&aacute;s grandes del mundo, despu&eacute;s de que el templo estuvo cerrado el 12 de diciembre de 2020 por la pandemia del covid.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El choque entre migrantes y agentes se suma a varios que han tenido extranjeros y sobre todo agentes del Instituto de Migraci&oacute;n con integrantes de varias caravanas de migrantes en los &uacute;ltimos meses en varios puntos del sur y sureste de M&eacute;xico.</li>
+<li>La tragedia del 9 de diciembre se produjo despu&eacute;s de que se reactivara un criticado programa de Estados Unidos que obliga a los migrantes a esperar en M&eacute;xico la respuesta a sus solicitudes de asilo.</li>
+<li>M&aacute;s de 190.000 han sido detectados en M&eacute;xico entre enero y septiembre, el triple que en 2020. Unos 74.300 han sido deportados.</li>
+</ul>
+}
+title Choque entre migrantes y policías en México deja 17 heridos
+day 13
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/13-choque-entre-migrantes-y-policia-en-mexico-deja-17-heridos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un choque entre policías y un grupo de migrantes que avanza en caravana hacia Ciudad de México dejó este domingo 17 heridos, entre ellos 13 agentes policiales, informó el gobierno de la capital.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>México<b>
+    text1 Choque entre migrantes y policías en México deja 17 heridos
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
