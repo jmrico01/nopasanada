@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Vacuna del laboratorio estadounidense Pfizer es globalmente menos eficaz contra &oacute;micron pero protege al 70% en los casos graves, seg&uacute;n un estudio presentado el martes y realizado en Sud&aacute;frica, donde se detect&oacute; la nueva variante del coronavirus en noviembre.</li>
+<li>Esta nueva variante del covid-19 plantea muchos interrogantes. Seg&uacute;n las primeras observaciones de los cient&iacute;ficos, aunque es m&aacute;s contagiosa, su elevado n&uacute;mero de mutaciones plantea dudas sobre su resistencia a las vacunas.</li>
+<li>El estudio, elaborado por la mayor agencia de seguros de salud privados del pa&iacute;s, Discovery, junto a cient&iacute;ficos del Consejo Sudafricano de Investigaci&oacute;n M&eacute;dica (SAMRC, en ingl&eacute;s), se basa en los resultados de 78.000 test PCR obtenidos entre el 15 de noviembre y el 7 de diciembre.</li>
+<li>"La segunda dosis de la vacuna Pfizer muestra una eficacia del 70% en la reducci&oacute;n de las hospitalizaciones", declar&oacute; durante una rueda de prensa por internet el presidente de Discovery, Ryan Noach. Esta vacuna ten&iacute;a hasta ahora un 93% de eficacia en los casos graves.</li>
+<li>De manera general, "la eficacia de la vacuna es sensiblemente menor cuando hay un n&uacute;mero elevado de contagios breves entre las personas vacunadas", a&ntilde;adi&oacute; Noach. Este estudio muestra una eficacia del 33% contra el riesgo de contagio, cuando hay muchas reinfecciones, por un 80% frente a la variante delta.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>"La gravedad de los casos es un 25% inferior a los de la primera ola" de la pandemia, se&ntilde;al&oacute; el doctor Cheryl Cohen, del Instituto Nacional de Enfermedades Transmisibles (NICD), que particip&oacute; en el estudio.</li>
+<li>La presidenta de la SAMRC (una organizaci&oacute;n p&uacute;blica de investigaci&oacute;n m&eacute;dica), Glenda Gray, considera los resultados "extremadamente alentadores", ya que "la vacuna se desarroll&oacute; para proteger contra las hospitalizaciones y los decesos".</li>
+<li>"A pesar de que hay casos menos graves, los sistemas de salud podr&iacute;an estar desbordados por el volumen de contagios, dada la r&aacute;pida expansi&oacute;n de &oacute;micron", alert&oacute; Noach.</li>
+<li>Sud&aacute;frica conoce un aumento exponencial de los casos desde que apareci&oacute; &oacute;micron. Ser&iacute;an el 90% de los positivos. Este pa&iacute;s es el m&aacute;s golpeado por la epidemia, con 3,1 millones de casos y m&aacute;s de 90.000 muertos.</li>
+<li>Algo m&aacute;s de un cuarto de los 59 millones de sudafricanos est&aacute;n totalmente vacunados, muchos m&aacute;s que en el resto del continente, pero lejos del resto del mundo.</li>
+<li>Sud&aacute;frica administra las vacunas de Johnson &amp; Johnson y de Pfizer (20 millones de dosis fueron inyectadas de esta &uacute;ltima). Adem&aacute;s, el gobierno anunci&oacute; que se dar&iacute;a una tercera dosis a partir de enero.&nbsp;</li>
+</ul>
+}
+title Vacuna Pfizer protege al 70% de casos graves de ómicron
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/14-vacuna-pfizer-protege-70-de-casos-graves-de-omicron.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Vacuna del laboratorio estadounidense Pfizer es globalmente menos eficaz contra ómicron pero protege al 70% en los casos graves, según un estudio presentado el martes y realizado en Sudáfrica, donde se detectó la nueva variante del coronavirus en noviembre.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Sudáfrica<b>
+    text1 Vacuna Pfizer protege al 70% de casos graves de ómicron
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
