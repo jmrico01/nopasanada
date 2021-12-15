@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El Alto Comisionado de los Derechos Humanos de las Naciones Unidas denunci&oacute; el mi&eacute;rcoles violaciones de Derechos Humanos en todo el territorio de Ucrania, pero los pa&iacute;ses occidentales aprovecharon el debate para alertar por la presi&oacute;n de Rusia en la frontera.</li>
+<li>"Nos preocupan las restricciones a la libertad de expresi&oacute;n de opiniones cr&iacute;ticas y a la participaci&oacute;n en concentraciones pac&iacute;ficas sobre temas sensibles, as&iacute; como la seguridad de los defensores de Derechos Humanos" en el territorio ucraniano, declar&oacute; la Alta Comisionada Adjunta, Nada al Nashif, durante la presentaci&oacute;n de un informe sobre Ucrania que cubre el periodo del primero de noviembre de 2019 al 31 de octubre de 2021.</li>
+<li>Los servicios del Alto Comisionado denunciaron incidentes con profesionales de los medios y personas cr&iacute;ticas al gobierno. Tambi&eacute;n detallaron ataques, amenazas e intimidaciones contra defensores de los Derechos Humanos, de la mujer, de la igualdad de g&eacute;nero y de la comunidad LGTB+.</li>
+<li>Estas personas fueron objetivos de grupos que promueven la violencia "generalmente, con total impunidad".</li>
+<li>En su respuesta, Ucrania destac&oacute; que el presidente hab&iacute;a aprobado un decreto en septiembre a favor del desarrollo de la sociedad civil.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En las regiones separatistas prorrusas del este, esta instancia de la ONU denuncia "restricciones" a las libertades fundamentales, dirigidas en particular contra los partidarios de Kiev.</li>
+<li>Respecto al territorio de Crimea, anexionado por Rusia, el Alto Comisionado "sigue constatando violaciones de los Derechos Humanos y del derecho humanitario internacional".</li>
+<li>La Uni&oacute;n Europea afirm&oacute; estar "extremadamente preocupada" por la situaci&oacute;n de los Derechos Humanos en el este de Ucrania y en Crimea, pero tambi&eacute;n se&ntilde;al&oacute; la actitud del gobierno ucraniano, aunque "reiter&oacute; su apoyo total a Ucrania frente a cualquier violaci&oacute;n de su independencia, integridad territorial o soberan&iacute;a".</li>
+<li>Rusia rechaza todas las acusaciones de Occidente de preparar una nueva invasi&oacute;n de Ucrania.</li>
+</ul>
+}
+title ONU denuncia violaciones de Derechos Humanos en Ucrania
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/15-onu-denuncia-violaciones-de-derechos-humanos-en-ucrania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El Alto Comisionado de los Derechos Humanos de las Naciones Unidas denunció el miércoles violaciones de Derechos Humanos en todo el territorio de Ucrania, pero los países occidentales aprovecharon el debate para alertar por la presión de Rusia en la frontera.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 ONU denuncia violaciones de Derechos Humanos en Ucrania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
