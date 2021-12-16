@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Decenas de mujeres protestaron el jueves en la capital de Afganist&aacute;n, exigiendo al gobierno talib&aacute;n el derecho a la educaci&oacute;n, el empleo y la representaci&oacute;n pol&iacute;tica. &nbsp;</li>
+<li>Aunque las protestas p&uacute;blicas est&aacute;n prohibidas por los nuevos gobernantes afganos, las autoridades dieron permiso para la marcha, que se celebr&oacute; bajo una ola de fr&iacute;o tras la primera nevada de esta temporada en Kabul.</li>
+<li>"Comida, carreras y libertad", coreaban los participantes, mientras otras sosten&iacute;an carteles exigiendo que las mujeres obtuvieran puestos pol&iacute;ticos.&nbsp;</li>
+<li>Algunas manifestantes llevaban pancartas en las que se hac&iacute;an eco de las quejas de los talibanes por la congelaci&oacute;n de miles de millones de d&oacute;lares en ayudas y activos por parte de la comunidad internacional.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los talibanes prometieron un gobierno m&aacute;s suave, en comparaci&oacute;n con su primera etapa en el poder en la d&eacute;cada de 1990, pero las mujeres siguen estando excluidas del empleo gubernamental y de la educaci&oacute;n secundaria.</li>
+<li>A pesar de que se les permiti&oacute; protestar, las participantes dijeron que segu&iacute;an temiendo a los nuevos gobernantes del pa&iacute;s. En una intersecci&oacute;n, los combatientes talibanes levantaron sus armas se permiti&oacute; que la marcha continuara.</li>
+<li>"El miedo siempre est&aacute; ah&iacute;, pero no podemos vivir con miedo. Tenemos que luchar contra nuestro miedo", dijo Shahera Kohistan, de 28 a&ntilde;os.&nbsp;</li>
+</ul>
+}
+title Mujeres afganas salen a protestar con permiso de los talibanes
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/16-muejeres-salen-a-protestar-en-afaganistan-con-permiso-del-taliban.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Decenas de mujeres protestaron el jueves en la capital de Afganistán, exigiendo al gobierno talibán el derecho a la educación, el empleo y la representación política.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Afganistán<b>
+    text1 Mujeres afganas salen a protestar con permiso de los talibanes
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

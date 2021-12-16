@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El cantante Bruce Springsteen vendi&oacute; los derechos de su cat&aacute;logo musical a Sony por un acuerdo estimado en 500 millones de d&oacute;lares, seg&uacute;n indicaron el mi&eacute;rcoles la publicaci&oacute;n de entretenimiento estadounidense Billboard y el diario The New York Times.</li>
+<li>La venta incluye el cat&aacute;logo musical grabado del artista as&iacute; como sus creaciones como compositor, incluyendo &eacute;xitos como "Born in the U.S.A." o "Streets of Philadelphia", indicaron fuentes conocedoras del acuerdo a estos medios.</li>
+<li>La transacci&oacute;n no se ha anunciado p&uacute;blicamente. Una portavoz de Sony Group declin&oacute; hacer ning&uacute;n comentario sobre la cuesti&oacute;n y la filial Sony Music no contest&oacute; inmediatamente la solicitud.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El roquero de Nueva Jersey es una de las &uacute;ltimas estrellas musicales en vender su cat&aacute;logo, siguiendo los pasos de Bob Dylan, Tina Turner o Neil Young, que lo hizo solo para una parte de su obra.</li>
+<li>Las adquisiciones de derechos musicales experimentan un boom por el inter&eacute;s de los mercados financieros en las lucrativas carteras de este tipo de activos.</li>
+<li>El a&ntilde;o pasado, Dylan vendi&oacute; su cat&aacute;logo publicado a Universal Music por 300 millones de d&oacute;lares, mientras que Stevie Nicks de la banda de rock Fleetwood Mac hizo lo mismo con una parte mayoritaria del suyo por 100 millones de d&oacute;lares.</li>
+<li>Sprignsteen, de 72 a&ntilde;os, ha estado con la discogr&aacute;fica Columbia Records de Sony durante todos sus 50 a&ntilde;os de carrera, en los que ha vendido m&aacute;s de 150 millones de copias.</li>
+</ul>
+}
+title Bruce Springsteen vende su catálogo musical por 500 millones de dólares
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/16-bruce-springsteen-vende-su-catalogo-musical-por-500-millones-de-dolares.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El cantante Bruce Springsteen vendió los derechos de su catálogo musical a Sony por un acuerdo estimado en 500 millones de dólares, según indicaron el miércoles la publicación de entretenimiento estadounidense Billboard y el diario The New York Times.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 Bruce Springsteen vende su catálogo musical por 500 millones de dólares
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
