@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Veinte de los 23 estados de Venezuela quedaron este viernes sin luz, seg&uacute;n medios locales, mientras el gobierno atribuy&oacute; el apag&oacute;n a un "vil y criminal ataque" al sistema de generaci&oacute;n.</li>
+<li>"Hemos recibido un nuevo ataque al sistema el&eacute;ctrico nacional, espec&iacute;ficamente en el Guri", la central hidroel&eacute;ctrica que es fuente del 80% de la energ&iacute;a que consumen los venezolanos, inform&oacute; el ministro de Energ&iacute;a El&eacute;ctrica, N&eacute;stor Reverol, en un contacto telef&oacute;nico con el canal estatal VTV.</li>
+<li>Reverol asegur&oacute; estar "al frente de todas las maniobras para la recuperaci&oacute;n del servicio", sin ofrecer detalles sobre la magnitud del apag&oacute;n.</li>
+<li>Medios locales informaron de apagones en al menos 20 estados del pa&iacute;s, que persist&iacute;an a primeras horas de la ma&ntilde;ana. En Caracas hubo tambi&eacute;n interrupciones pero el servicio fue restituido de madrugada.</li>
+<li>"Nuevamente, quienes se ensa&ntilde;aron en 2019 arremeten contra nuestro pueblo", dijo Reverol en referencia a la serie de apagones que sufri&oacute; el pa&iacute;s en ese a&ntilde;o, incluido uno en marzo cuando una gigantesca falla paraliz&oacute; el pa&iacute;s durante una semana.</li>
+<li>"Pedimos apoyo al pueblo de Venezuela con conciencia y en paz para superar este vil y criminal ataque".</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El gobierno del presidente Nicol&aacute;s Maduro normalmente atribuye estas fallas a planes orquestados por Estados Unidos y la oposici&oacute;n para derrocarlo.</li>
+<li>Aunque dirigentes opositores y especialistas, contrarios a la tesis de los sabotajes, responsabilizan al gobierno por falta de inversi&oacute;n, impericia y corrupci&oacute;n en medio de la mayor crisis econ&oacute;mica de este pa&iacute;s en su historia moderna, con ocho a&ntilde;os de recesi&oacute;n y cuatro de hiperinflaci&oacute;n.</li>
+<li>De hecho, los cortes de energ&iacute;a son habituales en este pa&iacute;s con la mayor reserva petrolera desde hace varios a&ntilde;os, sobre todo en la provincia.</li>
+<li>"El ataque que ha sufrido el sistema el&eacute;ctrico no son las excusas repetidas y descaradas de la dictadura, sino su corrupci&oacute;n, incapacidad, indolencia y secuestro del Estado", escribi&oacute; el l&iacute;der opositor, Juan Guaid&oacute;. "No podemos normalizar la tragedia".</li>
+<li>El canal VTV recientemente difundi&oacute; un dibujo animado de propaganda sobre el presidente Maduro convertido en un superh&eacute;roe llamado "Superbigote", en el que precisamente rescata con "su pu&ntilde;o de hierro" el sistema el&eacute;ctrico del pa&iacute;s de un apag&oacute;n causado por un ataque con dron orquestado por Washington y la oposici&oacute;n, siguiendo la tesis oficial.</li>
+</ul>
+}
+title Apagón deja a 20 estados de Venezuela sin electricidad
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/17-apagon-deja-a-20-estados-de-venezuela-sin-electricidad.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Veinte de los 23 estados de Venezuela quedaron este viernes sin luz, según medios locales, mientras el gobierno atribuyó el apagón a un "vil y criminal ataque" al sistema de generación.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Venezuela<b>
+    text1 Apagón deja a 20 estados de Venezuela sin electricidad
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

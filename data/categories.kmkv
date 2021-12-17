@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202112/16-volcan-semeru-hace-erupcion-nuevamente
+    featured{array} /content/202112/17-apagon-deja-a-20-estados-de-venezuela-sin-electricidad
 }
 other{kmkv} {
     name Other (Internal)

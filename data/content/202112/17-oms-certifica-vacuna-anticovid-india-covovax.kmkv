@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La Organizaci&oacute;n Mundial de la Salud (OMS) anunci&oacute; este viernes que certific&oacute; la vacuna anticovid india Covovax.</li>
+<li>Esta vacuna "es producida por el Serum Institute of India bajo licencia de Novovax y forma parte de la cartera de Covax (sistema internacional de distribuci&oacute;n de vacunas contra el covid-19), lo que impulsar&aacute; los esfuerzos para vacunar a m&aacute;s personas en los pa&iacute;ses de bajos ingresos", destac&oacute; la OMS.</li>
+<li>"Las vacunas contin&uacute;an siendo uno de los m&eacute;todos m&aacute;s eficaces de protecci&oacute;n contra formas graves y la muerte provocada por el SARS-COV-2, pese a la aparici&oacute;n de nuevas variantes", subray&oacute; la doctora Mariangela Simao, encargada del acceso a los medicamentos de la OMS.</li>
+<li>Esta aprobaci&oacute;n "deber&iacute;a facilitar el acceso a las vacunas a los pa&iacute;ses pobres, 41 de los cuales a&uacute;n no han podido vacunar al 10% de su poblaci&oacute;n, mientras que el 98% de los pa&iacute;ses a&uacute;n no han alcanzado el 40%", subray&oacute;.</li>
+<li>La OMS se hab&iacute;a fijado el objetivo de vacunar al 40% de la poblaci&oacute;n de todos los pa&iacute;ses antes de finales de a&ntilde;o.&nbsp;</li>
+<li>Esta vacuna requiere dos dosis y puede ser conservada a temperaturas de 2 a 8&deg;, como la tienen los refrigeradores comerciales.&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>
+</ul>
+}
+title OMS certifica vacuna anticovid india Covovax
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/17-oms-certifica-vacuna-anticovid-india-covovax.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La Organización Mundial de la Salud (OMS) anunció este viernes que certificó la vacuna anticovid india Covovax.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Covid-19<b>
+    text1 OMS certifica vacuna anticovid india Covovax
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

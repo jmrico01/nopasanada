@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Dinamarca ordenar&aacute; el cierre de cines, teatros y salas de concierto para intentar frenar el aumento r&eacute;cord de casos de covid-19 a ra&iacute;z de la nueva variante &oacute;micron, anunci&oacute; el viernes su primera ministra.</li>
+<li>El pa&iacute;s escandinavo registr&oacute; un r&eacute;cord de m&aacute;s de 11.000 casos en las &uacute;ltimas 24 horas, con un nuevo pico de m&aacute;s de 2.500 de la variante &oacute;micron, inform&oacute; el gobierno.</li>
+<li>"Los teatros, los cines, las salas de concierto tendr&aacute;n que cerrar", declar&oacute; la primera ministra Mette Frederiksen durante una conferencia de prensa. "Tenemos que limitar nuestra actividad. Tenemos que limitar todos nuestros contactos sociales", a&ntilde;adi&oacute;.</li>
+<li>Dinamarca, muy avanzado en materia de secuenciaci&oacute;n, es uno de los pa&iacute;ses del mundo con m&aacute;s casos de variante &oacute;micron detectados. Las autoridades prev&eacute;n que &oacute;micron se convierta en la variante mayoritaria en los pr&oacute;ximos d&iacute;as.</li>
+<li>Las medidas anunciadas este viernes tienen que ser aprobadas por el Parlamento.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>"Nuestro objetivo sigue siendo mantener la sociedad lo m&aacute;s abierta posible", dijo Frederiksen, descartando confinamientos como el de la primavera de 2020 "porque tenemos vacunas".</li>
+<li>El gobierno tambi&eacute;n pedir&aacute; el cierre de otros lugares que re&uacute;nen a mucha gente, como los parques de atracci&oacute;n, los centros de congresos o los museos.</li>
+<li>Aunque las vacaciones de Navidad ya se han extendido para hacer frente al aumento de casos, el ejecutivo sigue planeando la vuelta al colegio el 5 de enero.</li>
+<li>En cuanto a la vida nocturna, los bares y restaurantes cerrar&aacute;n a las 23h00 locales y no se podr&aacute; servir alcohol despu&eacute;s de las 22h00.</li>
+<li>Casi un mes despu&eacute;s de su identificaci&oacute;n, la variante &oacute;micron parece ser altamente contagiosa y resistente a la vacuna, pero a&uacute;n se desconoce la gravedad de las infecciones.</li>
+</ul>
+}
+title Dinamarca cerrará cines y teatros por récord de casos de covid
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/17-dinamarca-cerrara-cines-y-teatros-frente-record-de-casos-de-covid.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Dinamarca ordenará el cierre de cines, teatros y salas de concierto para intentar frenar el aumento récord de casos de covid-19 a raíz de la nueva variante ómicron, anunció el viernes su primera ministra.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Dinamarca<b>
+    text1 Dinamarca cerrará cines y teatros por récord de casos de covid
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
