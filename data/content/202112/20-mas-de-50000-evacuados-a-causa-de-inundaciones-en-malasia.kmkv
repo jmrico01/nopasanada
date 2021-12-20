@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>M&aacute;s de 50.000 personas tuvieron que ser evacuadas en Malasia, y al menos siete perdieron la vida, a causa de las peores inundaciones registradas en varios a&ntilde;os en este pa&iacute;s del sureste asi&aacute;tico, indicaron este lunes las autoridades.</li>
+<li>Las lluvias torrenciales ca&iacute;das durante el fin de semana provocaron inundaciones en varios poblados y aldeas, cortando importantes v&iacute;as de tr&aacute;fico, dejando atrapados a los pasajeros en sus veh&iacute;culos durante varias horas.</li>
+<li>Los evacuados superaban los 51.000 este lunes, de acuerdo a un balance oficial, de los cuales unos 32.000 en el estado de Pahang, ubicado en el este de Malasia.</li>
+<li>El estado m&aacute;s rico y poblado, Selangor, donde se encuentra la capital Kuala Lumpur, tambi&eacute;n se vio muy afectado, en tanto que por lo general sufre menos que otras regiones los peores efectos del Monz&oacute;n.</li>
+<li>Siete personas murieron, seg&uacute;n inform&oacute; el diario The Star, pero el n&uacute;mero de v&iacute;ctimas podr&iacute;a ser a&uacute;n mayor.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El primer ministro, Ismail Sabri Yakob, explic&oacute; que el estado de Selangor registr&oacute; en un solo d&iacute;a el equivalente a un mes de lluvias normales. Varias decenas de miles de militares y socorristas han sido desplegados por todas partes, precis&oacute;.</li>
+<li>Eyilavarasi Magesuaran, una joven estudiante, se&ntilde;al&oacute; que temi&oacute; por su vida cuando su casa en Sh&aacute; Alam, ciudad en el estado de Selangor, se inund&oacute; brutalmente el domingo de ma&ntilde;ana.</li>
+<li>"El agua entr&oacute; a nuestra casa por detr&aacute;s, atrap&aacute;ndonos en su interior", indic&oacute; la mujer de 21 a&ntilde;os, a&ntilde;adiendo que fue alertada por los ladridos de su perro.</li>
+<li>"Ten&iacute;a mucho miedo de que nos ahog&aacute;ramos. Mi familia vive aqu&iacute; desde 1995 y nunca hab&iacute;amos sufrido una inundaci&oacute;n as&iacute;", confi&oacute;.</li>
+<li>Fue salvada por un pariente equipado con un cami&oacute;n.</li>
+<li>Las lluvias cesaron este lunes, lo que permiti&oacute; a los habitantes regresar a sus hogares, algunos devastados, para recuperar sus pertenencias.</li>
+<li>Este pa&iacute;s del sureste de Asia sufre inundaciones durante la temporada de lluvias todos los a&ntilde;os, pero los da&ntilde;os provocados fueron particularmente duros en &eacute;ste.</li>
+<li>Se ha se&ntilde;alado la influencia del calentamiento global en este empeoramiento de las inundaciones.</li>
+</ul>
+}
+title Más de 50.000 evacuados a causa de inundaciones fuera de lo común en Malasia
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/20-mas-de-50000-evacuados-a-causa-de-inundaciones-en-malasia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Más de 50.000 personas tuvieron que ser evacuadas en Malasia, y al menos siete perdieron la vida, a causa de las peores inundaciones registradas en varios años en este país del sureste asiático, indicaron este lunes las autoridades.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Malasia<b>
+    text1 Más de 50.000 evacuados a causa de inundaciones fuera de lo común en Malasia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
