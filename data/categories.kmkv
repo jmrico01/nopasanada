@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202112/20-polonia-y-bielorrusia-prohiben-ingreso-de-onu-a-frontera
+    featured{array} /content/202112/22-telescopio-james-webb-esta-listo-para-explorar-el-universo
 }
 other{kmkv} {
     name Other (Internal)
