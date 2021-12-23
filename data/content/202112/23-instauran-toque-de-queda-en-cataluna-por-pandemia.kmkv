@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Un tribunal autoriz&oacute; este jueves la instauraci&oacute;n de un toque de queda en una amplia zona de la regi&oacute;n espa&ntilde;ola de Catalu&ntilde;a, para frenar la escalada de contagios de covid-19.</li>
+<li>El Tribunal Superior de Catalu&ntilde;a anunci&oacute; que "ratifica las medidas de protecci&oacute;n de covid-19 solicitadas" por el gobierno regional catal&aacute;n, que tambi&eacute;n incluyen el cierre de las discotecas y la limitaci&oacute;n de las reuniones privadas a un m&aacute;ximo de diez personas.</li>
+<li>El ejecutivo catal&aacute;n hab&iacute;a pedido autorizaci&oacute;n judicial para aplicar el toque de queda, de 01:00 a 06:00 en aquellas localidades donde la incidencia sobrepase los 250 casos por 100.000 habitantes en siete d&iacute;as, lo que actualmente abarca buena parte de la regi&oacute;n nororiental espa&ntilde;ola de 7,8 millones de habitantes.</li>
+<li>Las restricciones, que por afectar libertades fundamentales necesitaban autorizaci&oacute;n judicial, entrar&aacute;n en vigor a partir de la medianoche del jueves al viernes, la v&iacute;spera de Nochebuena, y tendr&aacute;n una duraci&oacute;n inicial de quince d&iacute;as en esta tur&iacute;stica regi&oacute;n.</li>
+<li>Catalu&ntilde;a ser&aacute; la &uacute;nica regi&oacute;n espa&ntilde;ola con toque de queda.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las medidas entrar&aacute;n en vigor luego de que el gobierno central adoptara este jueves un decreto para volver a instaurar la obligatoriedad de portar mascarilla en exteriores en todo el pa&iacute;s, que el mi&eacute;rcoles registr&oacute; un nuevo r&eacute;cord diario de contagios, con 60.041 casos en 24 horas.</li>
+<li>La medida sobre la mascarilla, que entra en vigor el viernes y que el gobierno del socialista Pedro S&aacute;nchez espera que sea "temporal", tiene ciertas excepciones, como para personas que practiquen deporte o se encuentren "en un espacio natural" como el campo o la playa y se pueda mantener la distancia, detall&oacute; el jueves la ministra de Sanidad, Carolina Darias, en rueda de prensa.</li>
+<li>El regreso de la mascarilla en exteriores fue la medida m&aacute;s concreta anunciada la noche del mi&eacute;rcoles al cierre de una reuni&oacute;n extraordinaria entre el gobierno central y los ejecutivos regionales, competentes en Espa&ntilde;a en materia de salud p&uacute;blica.</li>
+</ul>
+<p><strong>- Duro golpe -</strong></p>
+<p>Espa&ntilde;a, uno de los l&iacute;deres en vacunaci&oacute;n con un 80% de su poblaci&oacute;n vacunada, enfrenta como muchos otros pa&iacute;ses una nueva ola de covid-19 en medio de la propagaci&oacute;n de la variante &oacute;micron, m&aacute;s contagiosa.</p>
+<p>La incidencia en Espa&ntilde;a es de 784 casos por 100.000 habitantes en catorce d&iacute;as, una cifra cuatro veces superior a la que ten&iacute;a el 1 de diciembre.</p>
+<p>De todas maneras, esta nueva ola ha sido menos grave que otras anteriores: 15,7% de las unidades de cuidados intensivos est&aacute;n ocupadas por pacientes covid, frente a un 30% a mediados de enero de 2021, seg&uacute;n cifras del Ministerio de Sanidad.</p>
+}
+title Instauran toque de queda en Cataluña por la pandemia
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/23-instauran-toque-de-queda-en-cataluna-por-pandemia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un tribunal autorizó este jueves la instauración de un toque de queda en una amplia zona de la región española de Cataluña, para frenar la escalada de contagios de covid-19.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Covid-19<b>
+    text1 Instauran toque de queda en Cataluña por la pandemia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

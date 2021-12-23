@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Vladimir Putin agradeci&oacute; este jueves a "Ded Moroz" (el Abuelo Fr&iacute;o), el Pap&aacute; Noel ruso, por ayudarlo a convertirse en presidente, casi 22 a&ntilde;os despu&eacute;s de su llegada al frente del Kremlin, el 31 de diciembre de 1999.</li>
+<li>"Mis relaciones con el Abuelo Fr&iacute;o siempre han sido buenas. Le estoy agradecido por poder hablar con ustedes en mi calidad (de presidente), pero estoy a&uacute;n m&aacute;s agradecido al pueblo ruso que ha confiado en m&iacute; para esta funci&oacute;n", indic&oacute; cuando se le pregunt&oacute; respecto a su relaci&oacute;n con este personaje tradicional.</li>
+<li>Putin se convirti&oacute; en presidente interino de Rusia tras la renuncia de Boris Yeltsin, el 31 de diciembre de 1999, y desde entonces ha gobernado los destinos del pa&iacute;s. Precisamente, en Rusia "Ded Moroz" distribuye sus regalos en Nochevieja.</li>
+<li>"Espero que no solamente nos traiga regalos, sino que tambi&eacute;n concrete los proyectos del pa&iacute;s y de cada uno de sus ciudadanos", a&ntilde;adi&oacute; en el marco de su conferencia de prensa anual.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Un periodista de Veliki Ustiug, la localidad donde reside el Pap&aacute; Noel ruso, de acuerdo a la leyenda, le pidi&oacute; su opini&oacute;n sobre un ciudadano que present&oacute; una denuncia contra "Ded Moroz", acus&aacute;ndolo de no haber cumplido con sus deseos durante 23 a&ntilde;os.</li>
+<li>"Puedo convertirme en el abogado de 'Ded Moroz' y recordarle al denunciante que s&oacute;lo cumple los deseos de aquellos ni&ntilde;os y ni&ntilde;as que han sido buenos (durante el a&ntilde;o). Dejemos que (el denunciante) analice su propio comportamiento", respondi&oacute; Putin.</li>
+<li>"Ded Moroz", un anciano barbudo y muy parecido a Pap&aacute; Noel, reparte regalos a los ni&ntilde;os en Nochevieja en toda la ex-URSS. Lo ayuda su nieta, Sneg&uacute;rochka, la Ni&ntilde;a de la Nieve.</li>
+</ul>
+}
+title Putin agradece a Papá Noel por haberlo hecho presidente
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202112/headers/23-putin-agradece-a-papa-noel-por-haberlo-hecho-presidente.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Vladimir Putin agradeció este jueves a "Ded Moroz" (el Abuelo Frío), el Papá Noel ruso, por ayudarlo a convertirse en presidente, casi 22 años después de su llegada al frente del Kremlin, el 31 de diciembre de 1999.
+year 2021
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Putin agradece a Papá Noel por haberlo hecho presidente
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
