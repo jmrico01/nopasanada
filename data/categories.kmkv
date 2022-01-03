@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202112/23-instauran-toque-de-queda-en-cataluna-por-pandemia
+    featured{array} /content/202201/3-iran-admite-que-aun-no-esta-listo-para-reconocer-al-regimen-de-los-talibanes-afganos
 }
 other{kmkv} {
     name Other (Internal)
