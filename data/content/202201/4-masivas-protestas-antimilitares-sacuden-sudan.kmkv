@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Miles de sudaneses protestaron este martes contra los militares en Jartum, donde las fuerzas de seguridad lanzaron gases lacrim&oacute;genos para dispersarlos, y en otras ciudades del pa&iacute;s africano, dos d&iacute;as despu&eacute;s de la renuncia del primer ministro civil.&nbsp;</li>
+<li>Polic&iacute;as, soldados y paramilitares lanzaron gases lacrim&oacute;genos contra los civiles concentrados ante el palacio presidencial, informaron de acuerdo a testigos en el lugar.</li>
+<li>Los manifestantes coreaban "&iexcl;No, no al gobierno militar!" y ped&iacute;an la ca&iacute;da del Consejo de gobierno liderado por el general Abdel Fatah al Burhan, quien encabez&oacute; el golpe del 25 de octubre pasado.</li>
+<li>Las calles que conducen hacia el cuartel general del ej&eacute;rcito, ubicado en el centro de la capital, hab&iacute;an sido cerradas, en medio de un imponente dispositivo de seguridad, a&ntilde;adieron los testigos.</li>
+<li>Decenas de manifestantes tambi&eacute;n se concentraron en la ciudad vecina de Omdurm&aacute;n y bloquearon las calles con adoquines y ladrillos.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los activistas prodemocracia han intensificado las convocatorias a manifestaciones despu&eacute;s del golpe de octubre, tras el cual el entonces primer ministro, Abdal&aacute; Hamdok, y ministros de su gabinete fueron detenidos.&nbsp;</li>
+<li>Este golpe ha provocado manifestaciones masivas y una violenta represi&oacute;n que hasta ahora ha dejado al menos 57 muertos y centenares de heridos, indic&oacute; el sindicato independiente de m&eacute;dicos.&nbsp;</li>
+<li>Por lo menos 13 mujeres han denunciado violaciones durante los disturbios, de acuerdo a informes de la ONU.&nbsp;</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>El 21 de noviembre, Burhan hab&iacute;a reinstalado a Hamdok en el poder tras alcanzar un acuerdo en el cual se compromet&iacute;an a convocar elecciones a mediados de 2023. Pero el movimiento de protesta lo consider&oacute; una "traici&oacute;n", y ha mantenido la presi&oacute;n callejera.</p>
+<p>A pesar de una represi&oacute;n mort&iacute;fera, la presi&oacute;n popular, punta de lanza de la revuelta contra el general Omar al Bashir, depuesto en 2019 por el ej&eacute;rcito, se volvi&oacute; contra los propios militares despu&eacute;s del golpe de octubre pasado.</p>
+<p>Los activistas instaron este martes a los manifestantes a salir a las calles y dirigirse hacia el palacio presidencial "hasta obtener la victoria". &nbsp;</p>
+<p>Los renuncia de Hamdok hace temer un retorno a la dictadura.</p>
+}
+title Masivas protestas antimilitares sacuden Sudán
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202201/headers/4-masivas-protestas-antimilitares-sacuden-sudan.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Miles de sudaneses protestaron este martes contra los militares en Jartum, donde las fuerzas de seguridad lanzaron gases lacrimógenos para dispersarlos, y en otras ciudades del país africano, dos días después de la renuncia del primer ministro civil.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Sudán<b>
+    text1 Masivas protestas antimilitares sacuden Sudán
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

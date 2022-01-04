@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Estados Unidos registr&oacute; el lunes m&aacute;s de un mill&oacute;n de casos de coronavirus, una cifra diaria que no se hab&iacute;a reportado en ning&uacute;n lugar del mundo durante esta pandemia, seg&uacute;n un balance de la Universidad Johns Hopkins.</li>
+<li>Concretamente, el pa&iacute;s registr&oacute; 1.080.211 nuevos casos el 3 de enero.</li>
+<li>En un momento en que la variante &oacute;micron golpea con fuerza al pa&iacute;s, la universidad registr&oacute; adem&aacute;s 1.688 muertes en 24 horas, un d&iacute;a despu&eacute;s de que Anthony Fauci, principal consejero del gobierno en esta pandemia, declarara que el aumento de casos de covid-19 en Estados Unidos era "casi vertical".</li>
+<li>La variante &oacute;micron, la m&aacute;s contagiosa hasta la fecha, represent&oacute; alrededor del 59% de los positivos registrados en Estados Unidos en la semana que termin&oacute; el 25 de diciembre, seg&uacute;n datos del gobierno.</li>
+<li>Fauci dijo que el caso de Sud&aacute;frica, donde esta variante se detect&oacute; por primera vez a finales de noviembre y los casos se dispararon al mismo ritmo que decayeron en cuesti&oacute;n de semanas, daba cierta esperanza.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las tasas de mortalidad y hospitalizaciones en Estados Unidos han sido mucho m&aacute;s bajas en esta ola que en las anteriores.</li>
+<li>El pa&iacute;s registr&oacute; 9.382 muertes de covid-19 en los &uacute;ltimos siete d&iacute;as, un 10% menos que la semana anterior.</li>
+<li>En los &uacute;ltimos siete d&iacute;as, el pa&iacute;s ha registrado 3,4 millones de casos, una media de 486.000 por d&iacute;a, seg&uacute;n datos de la Universidad Johns Hopkins.</li>
+<li>El anterior r&eacute;cord de casos diarios en Estados Unidos era de 258.000, alcanzado en la semana del 5 al 11 de enero de 2021.</li>
+</ul>
+}
+title EEUU registra récord mundial de más de un millón de casos de covid-19 en un día
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202201/headers/4-eeuu-registra-mas-de-un-millon-de-casos-de-covid-19-en-un-dia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Estados Unidos registró el lunes más de un millón de casos de coronavirus, una cifra diaria que no se había reportado en ningún lugar del mundo durante esta pandemia, según un balance de la Universidad Johns Hopkins.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 EEUU registra récord mundial de más de un millón de casos de covid-19 en un día
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

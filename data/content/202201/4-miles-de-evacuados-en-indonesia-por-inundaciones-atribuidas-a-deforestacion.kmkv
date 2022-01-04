@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Las fuertes inundaciones en la isla de Sumatra, en Indonesia, provocaron la evacuaci&oacute;n de unas 24.000 personas y la muerte de dos ni&ntilde;os, informaron el martes las autoridades.</li>
+<li>Ambientalistas se&ntilde;alaron que la tragedia es consecuencia de la deforestaci&oacute;n en la zona.</li>
+<li>Las lluvias torrenciales azotan el norte de la isla desde el 31 de diciembre y causaron el desborde de r&iacute;os y llevaron el nivel de agua a tres metros en zonas residenciales, seg&uacute;n la agencia local de gesti&oacute;n de desastres.</li>
+<li>"Nosotros sufrimos inundaciones al menos cinco a ocho veces por a&ntilde;o en Pirak Timur", asegur&oacute; Muzakkir, un hombre de 33 a&ntilde;os de esta localidad en la provincia de Aceh, quien se identifica con un solo nombre al igual que muchos indonesios.</li>
+<li>"Pero las inundaciones de hoy son de las peores", asegur&oacute;.</li>
+<li>Syarifuddin, poblador de Lhok Sukon, en la misma provincia, declar&oacute; que "el agua contin&uacute;a subiendo en la casa, me llega al pecho" y "la mayor parte de las casas en la regi&oacute;n est&aacute;n inundadas".</li>
+<li>Las autoridades de la provincia de Aceh declararon estado de emergencia por las inundaciones, que destruyeron edificios p&uacute;blicos, infraestructuras y zonas agr&iacute;colas.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En la provincia agr&iacute;cola de Jambi, en el centro de Sumatra, 24.000 personas fueron afectadas por las inundaciones, que no dejaron v&iacute;ctimas.</li>
+<li>Para la organizaci&oacute;n ambientalista Walhi, el fen&oacute;meno est&aacute; estrechamente ligado a la deforestaci&oacute;n de zonas para abrir espacio a las plantaciones de palma aceitera.</li>
+<li>"Si se destruye el medio ambiente r&iacute;o arriba, pero las autoridades solo se interesan de la situaci&oacute;n r&iacute;o abajo, no se resuelve el problema" y las inundaciones continuar&aacute;n cada a&ntilde;o, declar&oacute; Ahmad Shalihin, director ejecutivo de Walhi en Aceh.</li>
+<li>Zulkifli, jefe de la localidad de Meunasah Jok, explic&oacute; que "como los bosques son cortados en la parte alta, las zonas bajas sufren un impacto muy importante" con las inundaciones.</li>
+</ul>
+}
+title Miles de evacuados en Indonesia por inundaciones atribuidas a deforestación
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202201/headers/4-miles-de-evacuados-en-indonesia-por-inundaciones-atribuidas-a-deforestacion.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Las fuertes inundaciones en la isla de Sumatra, en Indonesia, provocaron la evacuación de unas 24.000 personas y la muerte de dos niños, informaron el martes las autoridades.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Indonesia<b>
+    text1 Miles de evacuados en Indonesia por inundaciones atribuidas a deforestación
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
