@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Al menos seis personas murieron este viernes tras una explosi&oacute;n en un comedor, que provoc&oacute; el derrumbe de un edificio en la ciudad de Chongqing (suroeste de China), dejando atrapadas a numerosas personas que estaban almorzando en el lugar.</li>
+<li>La explosi&oacute;n se produjo en la cantina de una administraci&oacute;n local hacia las 12H10 locales (04H10 GMT), "probablemente debido a un escape de gas", subray&oacute; la televisi&oacute;n p&uacute;blica CCTV.</li>
+<li>M&aacute;s de 20 personas quedaron atrapadas en el derrumbe, seg&uacute;n la agencia estatal Xinhua.</li>
+<li>Hacia las 19H00 locales, 15 personas hab&iacute;an sido rescatadas de entre los escombros, tres de ellas muertas. Los rescatistas trataban de liberar a otras 11 personas que segu&iacute;an atrapadas, seg&uacute;n Xinhua.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Las personas estaban almorzando en el momento en que se produjo la explosi&oacute;n.</p>
+<p>Las primeras im&aacute;genes difundidas por los medios chinos en las redes sociales mostraban a los bomberos, abri&eacute;ndose paso entre paredes derrumbadas, ayudados por una gr&uacute;a.</p>
+<p>Otros videos mostraron una densa nube de humo gris sobre una monta&ntilde;a de ruinas y civiles siendo evacuados.</p>
+<p>El n&uacute;mero de heridos se desconoce por el momento. M&aacute;s de 150 miembros del cuerpo de bomberos participan en las tareas de rescate, seg&uacute;n CCTV. Tambi&eacute;n se ha enviado material pesado para excavar.</p>
+<p>Algunos de los heridos fueron trasladados al hospital, afirm&oacute; Xinhua, aunque sin dar m&aacute;s detalles sobre su n&uacute;mero o su estado.</p>
+<p>Las autoridades locales han puesto en marcha un centro de emergencia para dirigir las labores de rescate y proveer asistencia m&eacute;dica, seg&uacute;n la prensa estatal.</p>
+<p>Un testigo relat&oacute; a una televisi&oacute;n p&uacute;blica que la explosi&oacute;n "fue terrible" y que "todas las ventanas estallaron".</p>
+<p>Las explosiones accidentales son corrientes en China, debido al escaso respeto a las normas de seguridad.</p>
+<p>En octubre de 2021, una explosi&oacute;n de gas en un restaurante devast&oacute; una calle muy concurrida de la gran ciudad de Shenyang (noreste). Al menos cuatro personas murieron y hubo medio centenar de heridos.</p>
+<p>En junio de 2021, la explosi&oacute;n de un conducto de gas dej&oacute; 25 muertos en la provincia de Hubei (centro). Ocho personas fueron detenidas por negligencia, entre ellas el jefe de la sociedad que administraba el conducto de gas.</p>
+}
+title Al menos seis muertos en China tras la explosión en un comedor
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202201/headers/7-al-menos-seis-muertos-en-china-tras-la-explosion-en-un-comedor.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Al menos seis personas murieron este viernes tras una explosión en un comedor, que provocó el derrumbe de un edificio en la ciudad de Chongqing (suroeste de China), dejando atrapadas a numerosas personas que estaban almorzando en el lugar.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 Al menos seis muertos en China tras la explosión en un comedor
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
