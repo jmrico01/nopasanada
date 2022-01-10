@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Ecuador, uno de los pa&iacute;ses latinoamericanos m&aacute;s afectados por la pandemia, registr&oacute; un nuevo r&eacute;cord de contagios de covid-19 durante la &uacute;ltima semana, seg&uacute;n datos divulgados este lunes.</li>
+<li>Los casos sumaron 15.008 entre el domingo 2 y el s&aacute;bado 8 de enero, de acuerdo con los reportes diarios del ministerio de Salud.</li>
+<li>El r&eacute;cord semanal de contagios era de 13.037, registrado del 25 de abril al 1 de mayo de 2021, seg&uacute;n la estadounidense Universidad Johns Hopkins.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Ecuador, con 17,7 millones de habitantes y de los primeros focos de la pandemia en la regi&oacute;n en 2020, reporta 567.332 casos (3.205 por cada 100.000 personas) y 33.709 muertos.</li>
+<li>La naci&oacute;n es la s&eacute;ptima de Latinoam&eacute;rica con m&aacute;s fallecidos por la pandemia, de acuerdo con un conteo de la AFP.</li>
+<li>La ministra ecuatoriana de Salud, Ximena Garz&oacute;n, alert&oacute; el viernes que su pa&iacute;s afronta "una condici&oacute;n epidemiol&oacute;gica muy similar" a la que vivi&oacute; en "los peores brotes de la pandemia".</li>
+<li>Para enfrentar la oleada de contagios debido a la transmisi&oacute;n comunitaria de la variante &oacute;micron, Ecuador suspendi&oacute; esta semana las clases presenciales y redujo a 50% el aforo de las instituciones p&uacute;blicas, lo que se extender&aacute; hasta el 23 de enero.</li>
+<li>La naci&oacute;n impuso hace dos semanas la vacunaci&oacute;n anticovid obligatoria desde los cinco a&ntilde;os de edad, completando el esquema de inmunizaci&oacute;n para un 80% de esa poblaci&oacute;n.</li>
+</ul>
+}
+title Ecuador registra nuevo récord semanal de casos de covid-19
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202201/headers/10-ecuador-registra-nuevo-record-semanal-de-casos-de-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Ecuador, uno de los países latinoamericanos más afectados por la pandemia, registró un nuevo récord de contagios de covid-19 durante la última semana, según datos divulgados este lunes.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ecuador<b>
+    text1 Ecuador registra nuevo récord semanal de casos de covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

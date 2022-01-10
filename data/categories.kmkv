@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202201/7-al-menos-seis-muertos-en-china-tras-la-explosion-en-un-comedor
+    featured{array} /content/202201/10-ecuador-registra-nuevo-record-semanal-de-casos-de-covid-19
 }
 other{kmkv} {
     name Other (Internal)
