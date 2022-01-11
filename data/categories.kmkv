@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202201/10-ecuador-registra-nuevo-record-semanal-de-casos-de-covid-19
+    featured{array} /content/202201/11-se-reanuda-juicio-por-los-atentados-de-paris
 }
 other{kmkv} {
     name Other (Internal)
