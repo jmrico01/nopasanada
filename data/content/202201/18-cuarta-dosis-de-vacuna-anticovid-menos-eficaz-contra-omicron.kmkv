@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La administraci&oacute;n de una cuarta dosis de las vacunas anticovid de Pfizer o Moderna permite aumentar anticuerpos pero resulta "menos" eficaz para luchar contra la variante &oacute;micron del coronavirus, indic&oacute; el lunes un hospital israel&iacute; que realiz&oacute; ensayos cl&iacute;nicos sobre el tema.</li>
+<li>Un equipo del hospital Sheba, cerca de Tel Aviv, inici&oacute; a finales de diciembre un ensayo cl&iacute;nico, vacunando a 154 trabajadores sanitarios con una cuarta dosis de Pfizer y a otros 120 voluntarios con una cuarta dosis de Moderna.</li>
+<li>Una semana despu&eacute;s de que empezara el ensayo, que debe prolongarse seis meses, "los anticuerpos [de los participantes] se multiplicaron por cinco, lo que indica que la vacuna funciona y ofrece protecci&oacute;n contra complicaciones graves", dijo el hospital a la prensa.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Pero el lunes, sin embargo, tres semanas despu&eacute;s de que empezaran los ensayos, la profesora Gili Regev-Yochay, que dirige el estudio, precis&oacute; que aunque la administraci&oacute;n de esas cuartas dosis permita "aumentar el nivel de anticuerpos [...], solo ofrece una defensa parcial contra el virus".</li>
+<li>"Las vacunas de Pfizer y Moderna, que eran m&aacute;s eficaces contra las otras variantes, ofrecen menos protecci&oacute;n contra &oacute;micron", subray&oacute; la especialista en enfermedades infecciosas en un comunicado, publicado por el hospital Sheba.</li>
+<li>El gobierno israel&iacute; autoriz&oacute; hace poco la administraci&oacute;n de una cuarta dosis de la vacuna para personas ancianas o consideradas de riesgo.</li>
+<li>M&aacute;s de 537.000 israel&iacute;es la han recibido, seg&uacute;n los &uacute;ltimos datos del Ministerio de Salud.</li>
+</ul>
+}
+title Cuarta dosis de vacuna anticovid menos eficaz contra ómicron
+day 18
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202201/headers/18-cuarta-dosis-de-vacuna-anticovid-menos-eficaz-contra-omicron.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La administración de una cuarta dosis de las vacunas anticovid de Pfizer o Moderna permite aumentar anticuerpos pero resulta "menos" eficaz para luchar contra la variante ómicron del coronavirus, indicó el lunes un hospital israelí que realizó ensayos clínicos sobre el tema.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Israel<b>
+    text1 Cuarta dosis de vacuna anticovid menos eficaz contra ómicron
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
