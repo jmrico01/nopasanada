@@ -1,0 +1,57 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Senadores estadounidenses asestaron un golpe mortal el mi&eacute;rcoles al proyecto de reforma electoral impulsado por el presidente Joe Biden para defender el derecho al sufragio de las minor&iacute;as.</li>
+<li>Los senadores se negaron a iniciar el &uacute;nico procedimiento que podr&iacute;a haber permitido a los dem&oacute;cratas someter a votaci&oacute;n este proyecto sin los votos de los republicanos, que se oponen en&eacute;rgicamente a este texto.</li>
+<li>"Estoy profundamente decepcionado de que el Senado no haya defendido nuestra democracia. Estoy decepcionado, pero no disuadido", dijo Biden en Twitter, despu&eacute;s de una votaci&oacute;n en la c&aacute;mara alta.</li>
+<li>"Seguiremos avanzando hacia la legislaci&oacute;n necesaria y presionando para que se realicen cambios en los procedimientos del Senado que proteger&aacute;n el derecho fundamental al voto", a&ntilde;adi&oacute;.</li>
+<li>Los dem&oacute;cratas y los activistas por el derecho al sufragio defendieron el proyecto como una respuesta necesaria a los esfuerzos republicanos por restringir el voto, especialmente entre los negros y latinoamericanos.</li>
+<li>"S&eacute; que esto no es 1965. Eso es lo que me indigna tanto. Es 2022 y est&aacute;n eliminando descaradamente m&aacute;s lugares de votaci&oacute;n de los condados donde los negros y los latinos est&aacute;n sobrerrepresentados", reclam&oacute; el dem&oacute;crata de Nueva Jersey Cory Booker en el Senado.</li>
+<li>"No lo estoy inventando. Es un hecho", remarc&oacute;.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Estados gobernados por conservadores que pasaron el &uacute;ltimo a&ntilde;o aprovechando las infundadas afirmaciones del expresidente Donald Trump sobre el fraude electoral en las elecciones de 2020 para introducir una serie de regulaciones que complican el ejercicio del sufragio.</li>
+<li>El proyecto impulsado por Biden habr&iacute;a garantizado el derecho a la votaci&oacute;n por correo, las urnas y al menos dos semanas de votaci&oacute;n anticipada, adem&aacute;s de convertir el d&iacute;a de las elecciones en feriado nacional.</li>
+<li>Tambi&eacute;n procuraba impedir la pr&aacute;ctica de redise&ntilde;ar los distritos en favor del partido gobernante y habr&iacute;a requerido que los estados con historial de discriminaci&oacute;n obtuvieran autorizaci&oacute;n federal para cambiar normas electorales.</li>
+<li>Pero los 50 senadores republicanos votaron en contra de las reformas, argumentando que restricciones como limitar la votaci&oacute;n por correo e insistir en la identificaci&oacute;n de los votantes eran simplemente cosas de sentido com&uacute;n.</li>
+<li>"La preocupaci&oacute;n est&aacute; fuera de lugar. Si miran las estad&iacute;sticas, los votantes afroamericanos est&aacute;n votando en un porcentaje tan alto como el de Estados Unidos", dijo el l&iacute;der republicano del Senado, Mitch McConnell, a &nbsp;periodistas antes de la votaci&oacute;n.</li>
+<li>"En una encuesta reciente, el 94% de los estadounidenses consider&oacute; que es f&aacute;cil votar. Esto no es un problema. La participaci&oacute;n ha aumentado. Es la mayor participaci&oacute;n desde 1900", dijo.</li>
+<li>El Senado est&aacute; dividido en partes iguales con 50 republicanos y 50 dem&oacute;cratas y en caso de empate decide la vicepreseidenta Kamala Harris.</li>
+<li>Sin que senadores republicanos rompieran filas, los dem&oacute;cratas no pudieron superar el umbral de 60 votos requerido para someter el proyecto a votaci&oacute;n.</li>
+</ul>
+}
+title Senado de EEUU sepulta reforma electoral de Biden
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202201/headers/20-senado-de-eeuu-sepulta-reforma-electoral-de-biden.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Senadores estadounidenses asestaron un golpe mortal el miércoles al proyecto de reforma electoral impulsado por el presidente Joe Biden para defender el derecho al sufragio de las minorías.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 Senado de EEUU sepulta reforma electoral de Biden
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
