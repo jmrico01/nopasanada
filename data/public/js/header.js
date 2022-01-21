@@ -33,6 +33,7 @@ function GenerateHeader(categories)
         }
         headerHtml += "</div>";
     }
+    headerHtml += "<div class=\"headerCategory\"><a href=\"https://apolitico.cr/\"><h2>APOLÍTICO</h2></a></div>";
     headerHtml += "</div>";
 
     $("#header").html(headerHtml);
