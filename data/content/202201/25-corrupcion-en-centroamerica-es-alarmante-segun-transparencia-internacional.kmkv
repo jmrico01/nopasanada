@@ -37,16 +37,13 @@ text4
 customTop 
 media{kmkv} {
     kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
-    header /images/202201/headers/24-catolicos-alemanes-homosexuales-salen-del-closet-para-protestar.jpg
+    header /images/202201/headers/25-corrupcion-en-centroamerica-es-alarmante-segun-transparencia-internacional.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
     banksy /images/202006/10-banksy/banksy.jpg
     ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
 }
-description {
-América Latina lleva 10 años "totalmente estancada" en su lucha contra la corrupción, lo que socava la democracia y los derechos humanos, y hay retrocesos alarmantes en Venezuela y países de América Central, alertó el martes Transparencia Internacional (TI) en su informe anual.
-
-}
+description América Latina lleva 10 años "totalmente estancada" en su lucha contra la corrupción, lo que socava la democracia y los derechos humanos, y hay retrocesos alarmantes en Venezuela y países de América Central, alertó el martes Transparencia Internacional (TI) en su informe anual.
 year 2022
 author AFP | NPN Noticias
 featured{kmkv} {
