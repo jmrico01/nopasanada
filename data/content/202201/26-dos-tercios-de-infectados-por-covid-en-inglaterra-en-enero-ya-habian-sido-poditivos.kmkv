@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Casi dos tercios de las personas que dieron positivo al covid-19 en enero en Inglaterra afirmaron que ya hab&iacute;an sido infectadas con el coronavirus, seg&uacute;n un estudio del Imperial College de Londres publicado el mi&eacute;rcoles.</li>
+<li>En el marco del programa REACT, un gran estudio que mide la evoluci&oacute;n de la transmisi&oacute;n del virus en la poblaci&oacute;n brit&aacute;nica, se enviaron 100.000 pruebas de PCR entre el 5 y el 20 de enero de 2022 a los hogares de voluntarios en Inglaterra.</li>
+<li>De las 3.582 personas que dieron positivo, casi dos tercios (64,6%) aseguraron que ya hab&iacute;an estado enfermas anteriormente.&nbsp;&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Seg&uacute;n Paul Elliott, profesor de epidemiolog&iacute;a y medicina de salud p&uacute;blica del Imperial College de Londres y director del programa REACT, estos casos no pueden llamarse t&eacute;cnicamente reinfecciones porque una persona puede dar positivo dos veces por la misma infecci&oacute;n.&nbsp;</li>
+<li>"No sabemos cu&aacute;ndo lo tuvieron, pudo ser en mayo de 2020 o la semana pasada", precis&oacute;.</li>
+<li>La agencia brit&aacute;nica de seguridad sanitaria UKHSA anunci&oacute; que a partir de finales de enero empezar&aacute; a incluir datos sobre posibles reinfecciones en sus estad&iacute;sticas sobre el covid-19.&nbsp;</li>
+<li>Las personas que den positivo 90 d&iacute;as o m&aacute;s despu&eacute;s de una infecci&oacute;n anterior se considerar&aacute;n reinfectadas.</li>
+</ul>
+}
+title Dos tercios de infectados por covid en Inglaterra en enero ya habían sido positivos
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202201/headers/26-dos-tercios-de-infectados-por-covid-en-inglaterra-en-enero-ya-habian-sido-poditivos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Casi dos tercios de las personas que dieron positivo al covid-19 en enero en Inglaterra afirmaron que ya habían sido infectadas con el coronavirus, según un estudio del Imperial College de Londres publicado el miércoles.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Reino Unido<b>
+    text1 Dos tercios de infectados por covid en Inglaterra en enero ya habían sido positivos
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
