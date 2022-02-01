@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Al menos tres personas murieron y una est&aacute; desaparecida en Hait&iacute; por las inundaciones provocadas por las fuertes lluvias en gran parte del pa&iacute;s, inform&oacute; el martes Protecci&oacute;n Civil.&nbsp;</li>
+<li>El director de Protecci&oacute;n Civil, Jerry Chandler, dijo a la AFP que las v&iacute;ctimas fueron reportadas en el departamento del Noroeste, pero al menos 20 municipios se han visto afectados por las lluvias.&nbsp;</li>
+<li>Las autoridades dijeron que hay m&aacute;s de 2.500 viviendas inundadas y tres totalmente destruidas.&nbsp;</li>
+<li>En el norte, Cabo Haitiano, la segunda ciudad del pa&iacute;s y donde residen 300.000 personas, ha sufrido particularmente las consecuencias de las precipitaciones.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las dificultades de desplazamiento "a&uacute;n no han permitido establecer una valoraci&oacute;n de los da&ntilde;os", dijo Protecci&oacute;n Civil en su &uacute;ltimo informe sobre la situaci&oacute;n.&nbsp;</li>
+<li>Un puente que conecta una peque&ntilde;a localidad en el Noreste result&oacute; da&ntilde;ado y las precipitaciones inundaron un parque industrial en ese departamento, fronterizo con Rep&uacute;blica Dominicana.&nbsp;</li>
+<li>Amplias zonas de las principales ciudades de Hait&iacute; carecen de infraestructura para el drenaje de las aguas y de un sistema eficiente de recolecci&oacute;n de basura, que generan condiciones propicias para las inundaciones en las temporadas lluviosas.</li>
+</ul>
+}
+title Al menos tres muertos y un desaparecido en Haití por inundaciones
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/1-al-menos-tres-muertos-y-un-desaparecido-en-haiti-por-inundaciones.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Al menos tres personas murieron y una está desaparecida en Haití por las inundaciones provocadas por las fuertes lluvias en gran parte del país, informó el martes Protección Civil.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Haití<b>
+    text1 Al menos tres muertos y un desaparecido en Haití por inundaciones
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,47 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La enorme capa de hielo de Groenlandia perdi&oacute; 4,7 billones de toneladas en 20 a&ntilde;os, lo que por s&iacute; solo contribuy&oacute; a un aumento de 1,2 cent&iacute;metros en el nivel de los oc&eacute;anos, seg&uacute;n estudios daneses publicados esta semana.</li>
+<li>Esta masa de hielo derretido se concentra en especial en las costas del territorio aut&oacute;nomo dan&eacute;s, seg&uacute;n este estudio basado en observaciones satelitales del programa "Grace".&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El Polar Portal, que agrupa a los institutos daneses del &Aacute;rtico, precis&oacute; que ese "derretimiento contribuy&oacute; a elevar el nivel del mar en 1,2 cent&iacute;metros".</li>
+<li>El calentamiento global es especialmente alarmante en el &Aacute;rtico donde, en las &uacute;ltimas d&eacute;cadas, se ha producido a un ritmo tres o cuatro veces superior al del resto del planeta, seg&uacute;n los &uacute;ltimos estudios cient&iacute;ficos.</li>
+<li>El deshielo acelerado cerca de la costa se explica por el calentamiento de las aguas del Oc&eacute;ano &Aacute;rtico, que contribuyen "al menos tanto como el aire en la superficie" al declive de la capa de hielo de Groenlandia, afirma un estudio publicado a finales de enero por la NASA en Estados Unidos.</li>
+</ul>
+}
+title Capa de hielo de Groenlandia perdió 4,7 billones de toneladas en 20 años
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/1-capa-de-hielo-de-groenlandia-perdio-4-7-billones-de-toneladas-en-20-anos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La enorme capa de hielo de Groenlandia perdió 4,7 billones de toneladas en 20 años, lo que por sí solo contribuyó a un aumento de 1,2 centímetros en el nivel de los océanos, según estudios daneses publicados esta semana.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Groenlandia<b>
+    text1 Capa de hielo de Groenlandia perdió 4,7 billones de toneladas en 20 años
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
