@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202110/13-oposicion-chilena-intenta-destituir-a-pinera-por-papeles-de-pandora
+        featured{array} /content/202202/2-eeuu-desplegara-3000-militares-para-apoyar-a-la-otan-en-europa-del-este
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/1-dinamarca-levanto-todas-sus-restricciones-sanitarias-este-martes
+        featured{array} /content/202202/2-eeuu-desplegara-3000-militares-para-apoyar-a-la-otan-en-europa-del-este
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/1-capa-de-hielo-de-groenlandia-perdio-4-7-billones-de-toneladas-en-20-anos
+    featured{array} /content/202202/2-por-que-taiwan-no-es-llamado-asi-en-juegos-olimpicos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202110/6-christies-subastara-obra-de-picasso-en-manos-privadas-durante-casi-60-anos
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/1-al-menos-tres-muertos-y-un-desaparecido-en-haiti-por-inundaciones
+    featured{array} /content/202202/2-por-que-taiwan-no-es-llamado-asi-en-juegos-olimpicos
 }
 other{kmkv} {
     name Other (Internal)

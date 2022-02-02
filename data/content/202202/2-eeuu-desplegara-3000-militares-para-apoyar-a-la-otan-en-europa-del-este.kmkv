@@ -1,0 +1,42 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Estados Unidos desplegar&aacute; 3.000 militares en apoyo de las fuerzas de la OTAN en varios pa&iacute;ses de Europa del Este, informaron este mi&eacute;rcoles medios de comunicaci&oacute;n estadounidenses citando a funcionarios de la administraci&oacute;n que no identifican.&nbsp;</li>
+<li>De ellos, unos 1.000 ser&aacute;n trasladados de Alemania a Rumania, y otros 2.000 partir&aacute;n de la gran base estadounidense de Fort Bragg, en Carolina del Norte, a Alemania y Polonia, precisaron las fuentes.</li>
+</ul>
+<p><em>Noticia en desarrollo...</em></p>
+}
+title EEUU desplegará 3.000 militares para apoyar a la OTAN en Europa del Este
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/2-eeuu-desplegara-3000-militares-para-apoyar-a-la-otan-en-europa-del-este.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Estados Unidos desplegará 3.000 militares en apoyo de las fuerzas de la OTAN en varios países de Europa del Este, informaron este miércoles medios de comunicación estadounidenses citando a funcionarios de la administración que no identifican.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 EEUU desplegará 3.000 militares para apoyar a la OTAN en Europa del Este
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
