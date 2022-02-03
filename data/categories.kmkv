@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202202/2-eeuu-desplegara-3000-militares-para-apoyar-a-la-otan-en-europa-del-este
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/2-por-que-taiwan-no-es-llamado-asi-en-juegos-olimpicos
+    featured{array} /content/202202/3-ataque-cibernetico-contra-tres-terminales-petroleras-europeas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202110/6-christies-subastara-obra-de-picasso-en-manos-privadas-durante-casi-60-anos
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/2-por-que-taiwan-no-es-llamado-asi-en-juegos-olimpicos
+    featured{array} /content/202202/3-jefe-del-ei-murio-en-durante-una-incursion-de-eeuu
 }
 other{kmkv} {
     name Other (Internal)
