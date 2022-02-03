@@ -61,7 +61,7 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/2-eeuu-desplegara-3000-militares-para-apoyar-a-la-otan-en-europa-del-este
+        featured{array} /content/202202/3-europa-empieza-a-levantar-restricciones-por-posible-fin-de-la-pandemia
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202202/3-ataque-cibernetico-contra-tres-terminales-petroleras-europeas
