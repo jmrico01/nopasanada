@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/3-europa-empieza-a-levantar-restricciones-por-posible-fin-de-la-pandemia
+        featured{array} /content/202202/4-putin-obtiene-apoyo-de-china-en-medio-de-crisis-de-ucrania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/3-ataque-cibernetico-contra-tres-terminales-petroleras-europeas
+    featured{array} /content/202202/4-humanos-e-hipopotamos-aprenden-a-convivir-en-republica-democratica-de-congo
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202110/6-christies-subastara-obra-de-picasso-en-manos-privadas-durante-casi-60-anos
+        featured{array} /content/202202/4-nike-demanda-a-plataforma-stockx-por-subasta-de-nft-de-su-marca
     }
     video{kmkv} {
         name Video
