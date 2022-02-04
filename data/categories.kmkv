@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/2-eeuu-desplegara-3000-militares-para-apoyar-a-la-otan-en-europa-del-este
+        featured{array} /content/202202/4-senador-de-eeuu-pide-sancionar-a-expresidente-de-honduras-como-capo-de-narcotrafico
     }
     loimportante{kmkv} {
         name Lo Importante
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/3-jefe-del-ei-murio-en-durante-una-incursion-de-eeuu
+    featured{array} /content/202202/4-putin-obtiene-apoyo-de-china-en-medio-de-crisis-de-ucrania
 }
 other{kmkv} {
     name Other (Internal)
