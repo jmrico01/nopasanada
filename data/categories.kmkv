@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/4-senador-de-eeuu-pide-sancionar-a-expresidente-de-honduras-como-capo-de-narcotrafico
+        featured{array} /content/202202/7-segunda-ronda-electoral-en-costa-rica-entre-un-expresidente-cuestionado-y-un-exministro-investigado-por-acoso-sexual
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/4-putin-obtiene-apoyo-de-china-en-medio-de-crisis-de-ucrania
+        featured{array} /content/202202/7-alemania-reforzara-contingente-militar-en-lituania-debido-a-crisis-en-ucrania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/4-humanos-e-hipopotamos-aprenden-a-convivir-en-republica-democratica-de-congo
+    featured{array} /content/202202/7-fuerzas-de-seguridad-sudanesas-lanzan-gases-lacrimogenos-contra-manifestantes
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202202/4-nike-demanda-a-plataforma-stockx-por-subasta-de-nft-de-su-marca
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/4-putin-obtiene-apoyo-de-china-en-medio-de-crisis-de-ucrania
+    featured{array} /content/202202/7-segunda-ronda-electoral-en-costa-rica-entre-un-expresidente-cuestionado-y-un-exministro-investigado-por-acoso-sexual
 }
 other{kmkv} {
     name Other (Internal)
