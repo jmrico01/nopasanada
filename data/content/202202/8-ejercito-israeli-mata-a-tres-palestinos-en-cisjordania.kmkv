@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El ej&eacute;rcito israel&iacute; mat&oacute; este martes a tres palestinos en la ciudad de Naplusa, al norte de Cisjordania, territorio ocupado por Israel, indic&oacute; el Ministerio de Salud palestino y confirm&oacute; el Estado hebreo.</li>
+<li>"Tres ciudadanos" murieron cuando el ej&eacute;rcito israel&iacute; "les dispar&oacute;", dijo el ministerio en un comunicado, sin dar m&aacute;s detalles sobre lo ocurrido.</li>
+<li>La polic&iacute;a de fronteras israel&iacute; afirm&oacute; que una "c&eacute;lula terrorista" fue "neutralizada" en Naplusa durante una operaci&oacute;n conjunta de varias unidades de esa fuerza y del ej&eacute;rcito, confirmando que tres personas "armadas" a bordo de un veh&iacute;culo resultaron muertas. Dos armas fueron incautadas, agreg&oacute; la polic&iacute;a de fronteras.</li>
+<li>"Esta c&eacute;lula era responsable de una serie de ataques a mano armada en el sector contra el ej&eacute;rcito y contra civiles israel&iacute;es en las &uacute;ltimas semanas", indic&oacute; la polic&iacute;a en un comunicado.</li>
+<li>Ning&uacute;n miembro de las fuerzas israel&iacute;es result&oacute; herido, precis&oacute; esta fuente.</li>
+<li>La Autoridad palestina denunci&oacute; un "crimen brutal y odioso" que "refleja la brutalidad y el racismo" de Israel.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Seg&uacute;n fuentes del partido palestino Fatah, los tres hombres eran parte de su rama armada, las brigadas de los m&aacute;rtires de Al-Aqsa.&nbsp;</li>
+<li>Tras ser trasladados al hospital Rafidia de Naplusa, los restos de los tres hombres fueron llevados al exterior del edificio, donde una multitud en luto los carg&oacute;, constataron reporteros de la AFP.</li>
+<li>Habitualmente se producen enfrentamientos con el ej&eacute;rcito israel&iacute; en Cisjordania, durante manifestaciones contra la colonizaci&oacute;n israel&iacute; o detenciones en localidades palestinas por parte de las fuerzas de seguridad israel&iacute;es.</li>
+</ul>
+}
+title Ejército israelí mata a tres palestinos en Cisjordania
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/8-ejercito-israeli-mata-a-tres-palestinos-en-cisjordania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El ejército israelí mató este martes a tres palestinos en la ciudad de Naplusa, al norte de Cisjordania, territorio ocupado por Israel, indicó el Ministerio de Salud palestino y confirmó el Estado hebreo.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Cisjordania<b>
+    text1 Ejército israelí mata a tres palestinos en Cisjordania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202110/4-medio-grado-de-calentamiento-global-provoca-consecuencias-en-cascada
+        featured{array} /content/202202/8-se-reanuda-caza-furtiva-de-rinocerontes-en-sudafrica
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,11 +57,11 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/7-segunda-ronda-electoral-en-costa-rica-entre-un-expresidente-cuestionado-y-un-exministro-investigado-por-acoso-sexual
+        featured{array} /content/202202/8-indignacion-en-iran-tras-decapitcion-de-una-joven-por-su-esposo
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/7-alemania-reforzara-contingente-militar-en-lituania-debido-a-crisis-en-ucrania
+        featured{array} /content/202202/8-benedicto-xvi-pide-perdon-a-victimas-de-abusos-pero-niega-haber-encubierto-a-sacerdotes
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202202/7-fuerzas-de-seguridad-sudanesas-lanzan-gases-lacrimogenos-contra-manifestantes
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/7-segunda-ronda-electoral-en-costa-rica-entre-un-expresidente-cuestionado-y-un-exministro-investigado-por-acoso-sexual
+    featured{array} /content/202202/8-benedicto-xvi-pide-perdon-a-victimas-de-abusos-pero-niega-haber-encubierto-a-sacerdotes
 }
 other{kmkv} {
     name Other (Internal)
