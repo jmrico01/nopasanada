@@ -57,11 +57,11 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/8-indignacion-en-iran-tras-decapitcion-de-una-joven-por-su-esposo
+        featured{array} /content/202202/9-antivacunas-siguen-protestando-frente-al-parlamento-en-nueva-zelanda
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/8-benedicto-xvi-pide-perdon-a-victimas-de-abusos-pero-niega-haber-encubierto-a-sacerdotes
+        featured{array} /content/202202/9-surgen-esperanzas-de-una-desescalada-en-ucrania-de-cara-a-nuevos-esfuerzos-diplomaticos
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202202/7-fuerzas-de-seguridad-sudanesas-lanzan-gases-lacrimogenos-contra-manifestantes
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/8-benedicto-xvi-pide-perdon-a-victimas-de-abusos-pero-niega-haber-encubierto-a-sacerdotes
+    featured{array} /content/202202/9-protestas-en-canada-inspiran-una-movilizacion-internacional
 }
 other{kmkv} {
     name Other (Internal)
