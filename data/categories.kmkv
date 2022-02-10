@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/9-antivacunas-siguen-protestando-frente-al-parlamento-en-nueva-zelanda
+        featured{array} /content/202202/10-rusia-inicia-maniobras-militares-en-bielorrusia-en-plena-crisis-con-ucrania
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/9-surgen-esperanzas-de-una-desescalada-en-ucrania-de-cara-a-nuevos-esfuerzos-diplomaticos
+        featured{array} /content/202202/10-california-acusa-a-tesla-de-segregacion-racial
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/7-fuerzas-de-seguridad-sudanesas-lanzan-gases-lacrimogenos-contra-manifestantes
+    featured{array} /content/202202/10-california-acusa-a-tesla-de-segregacion-racial
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202202/4-nike-demanda-a-plataforma-stockx-por-subasta-de-nft-de-su-marca
+        featured{array} /content/202202/10-encarcelan-a-un-joven-por-entrenamiento-terrorista-en-minecraft
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/9-protestas-en-canada-inspiran-una-movilizacion-internacional
+    featured{array} /content/202202/10-rusia-inicia-maniobras-militares-en-bielorrusia-en-plena-crisis-con-ucrania
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,43 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El pr&iacute;ncipe Carlos, heredero del trono brit&aacute;nico de 73 a&ntilde;os, contrajo el coronavirus y se puso en cuarentena, anunci&oacute; el jueves la casa real.&nbsp;</li>
+<li>Es la segunda vez que el pr&iacute;ncipe de Gales da positivo al covid-19. Ya se hab&iacute;a contagiado en marzo de 2020, pero el palacio inform&oacute; de que tuvo s&iacute;ntomas leves y se recuper&oacute; r&aacute;pidamente.&nbsp;</li>
+<li>Su residencia oficial, Clarence House, no precis&oacute; cu&aacute;ndo estuvo en contacto por &uacute;ltima vez con su madre, la reina Isabel II, de 95 a&ntilde;os, que &uacute;ltimamente vio su salud debilitada.</li>
+<li>El mi&eacute;rcoles por la noche, Carlos asisti&oacute; a una recepci&oacute;n en el Museo Brit&aacute;nico de Londres con su esposa Camila y otras personalidades, incluidos miembros del gobierno.&nbsp;</li>
+</ul>
+}
+title El príncipe Carlos da positivo al covid-19 por segunda vez
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/10-el-principe-carlos-da-positivo-al-covid-19-por-segunda-vez.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El príncipe Carlos, heredero del trono británico de 73 años, contrajo el coronavirus y se puso en cuarentena, anunció el jueves la casa real.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Reino Unido<b>
+    text1 El príncipe Carlos da positivo al covid-19 por segunda vez
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
