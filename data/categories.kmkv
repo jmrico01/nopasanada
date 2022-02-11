@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202012/1-origen-del-covid-19-sigue-envuelto-en-misterio
+        featured{array} /content/202202/11-agencia-espacial-europea-selecciona-una-decena-de-satelites-para-el-primer-vuelo-de-ariane-6
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/10-california-acusa-a-tesla-de-segregacion-racial
+        featured{array} /content/202202/11-grandes-beneficios-a-petroleras-sucitan-criticas-de-ecologistas
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202202/10-california-acusa-a-tesla-de-segregacion-racial
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202202/10-encarcelan-a-un-joven-por-entrenamiento-terrorista-en-minecraft
+        featured{array} /content/202202/11-que-se-sabe-sobre-el-caso-de-dopaje-de-la-patinadora-rusa-valieva
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/10-rusia-inicia-maniobras-militares-en-bielorrusia-en-plena-crisis-con-ucrania
+    featured{array} /content/202202/11-agencia-espacial-europea-selecciona-una-decena-de-satelites-para-el-primer-vuelo-de-ariane-6
 }
 other{kmkv} {
     name Other (Internal)
