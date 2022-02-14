@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>Los mercados burs&aacute;tiles mundiales caen con fuerza este lunes, debido a la preocupaci&oacute;n por una posible e inminente invasi&oacute;n rusa de Ucrania.</li>
+<li>Los retrocesos eran contundentes en Europa en los primeros intercambios, con p&eacute;rdidas de 3,68% en Mil&aacute;n, de 3,51% en Par&iacute;s, de 3,28% en Fr&aacute;ncfort, 2,7% en Madrid y de 1,91% en Londres. En Rusia el &iacute;ndice RTS se hund&iacute;a un 4,29%.</li>
+<li>Los mercados asi&aacute;ticos ya marcaron previamente la tendencia con Tokio, que cerr&oacute; en baja de 2,23%, mientras que las bolsas chinas retrocedieron de forma m&aacute;s moderada (Hong Kong -1,41%, Shanghai -0,98%).</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Ya desde el viernes las preocupaciones geopol&iacute;ticas hicieron caer en n&uacute;meros rojos a Wall Street.</li>
+<li>El domingo, Estados Unidos reafirm&oacute; que los rusos pueden atacar Ucrania "en cualquier momento". Este fin de semana fueron intensos los contactos diplom&aacute;ticos entre dirigentes occidentales y rusos para reducir tensiones.</li>
+<li>"El mercado integra en las cotizaciones el peligro de una guerra" observa Jochen Stanzl, analista de CMC Markets. "(...) Muchos inversores se sienten obligados a vender sus acciones debido a un alza de los riesgos geopol&iacute;ticos", agreg&oacute;.</li>
+</ul>
+}
+title Caen bolsas mundiales por posible invasión rusa de Ucrania
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/14-caen-bolsas-mundiales-por-inminente-invasion-rusa-a-ucrania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los mercados bursátiles mundiales caen con fuerza este lunes, debido a la preocupación por una posible e inminente invasión rusa de Ucrania.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Caen bolsas mundiales por posible invasión rusa de Ucrania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

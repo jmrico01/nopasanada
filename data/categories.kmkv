@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/10-rusia-inicia-maniobras-militares-en-bielorrusia-en-plena-crisis-con-ucrania
+        featured{array} /content/202202/14-caen-bolsas-mundiales-por-inminente-invasion-rusa-a-ucrania
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/11-grandes-beneficios-a-petroleras-sucitan-criticas-de-ecologistas
+        featured{array} /content/202202/14-kamila-valieva-autorizada-a-continuar-en-olimpiadas-en-pekin
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/10-california-acusa-a-tesla-de-segregacion-racial
+    featured{array} /content/202202/14-los-rams-ganan-el-super-bowl-en-un-epico-final-contra-los-bengals
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202202/11-que-se-sabe-sobre-el-caso-de-dopaje-de-la-patinadora-rusa-valieva
+        featured{array} /content/202202/14-arqueologos-hallan-momias-de-seis-ninos-victimas-de-sacrificios-en-peru
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/11-agencia-espacial-europea-selecciona-una-decena-de-satelites-para-el-primer-vuelo-de-ariane-6
+    featured{array} /content/202202/14-arqueologos-hallan-momias-de-seis-ninos-victimas-de-sacrificios-en-peru
 }
 other{kmkv} {
     name Other (Internal)
