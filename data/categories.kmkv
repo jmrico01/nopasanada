@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/14-caen-bolsas-mundiales-por-inminente-invasion-rusa-a-ucrania
+        featured{array} /content/202202/15-el-opositor-ruso-navalni-enfrenta-nuevo-proceso-con-una-pena-de-hasta-diez-anos
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/14-kamila-valieva-autorizada-a-continuar-en-olimpiadas-en-pekin
+        featured{array} /content/202202/15-juez-decidira-si-extradita-al-expresidente-hondureno-hernandez-a-eeuu-por-narcotrafico
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/14-los-rams-ganan-el-super-bowl-en-un-epico-final-contra-los-bengals
+    featured{array} /content/202202/15-el-opositor-ruso-navalni-enfrenta-nuevo-proceso-con-una-pena-de-hasta-diez-anos
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202202/14-arqueologos-hallan-momias-de-seis-ninos-victimas-de-sacrificios-en-peru
+        featured{array} /content/202202/15-francia-devolvera-15-obras-expoliadas-por-los-nazis-a-familias-judias
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/14-arqueologos-hallan-momias-de-seis-ninos-victimas-de-sacrificios-en-peru
+    featured{array} /content/202202/15-francia-devolvera-15-obras-expoliadas-por-los-nazis-a-familias-judias
 }
 other{kmkv} {
     name Other (Internal)
