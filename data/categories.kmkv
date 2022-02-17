@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202009/muere-quinio-mafalda
+        featured{array} /content/202202/17-aqui-perreamos-solas-un-concierto-exclusivo-para-mujeres
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202202/17-hospitales-de-hong-kong-en-modo-guerra-por-ola-de-omicron
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202202/15-francia-devolvera-15-obras-expoliadas-por-los-nazis-a-familias-judias
+        featured{array} /content/202202/17-aqui-perreamos-solas-un-concierto-exclusivo-para-mujeres
     }
     video{kmkv} {
         name Video
