@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202202/11-agencia-espacial-europea-selecciona-una-decena-de-satelites-para-el-primer-vuelo-de-ariane-6
+        featured{array} /content/202202/17-la-nanomedicina-o-como-usar-lo-diminuto-para-curar-grandes-males
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/16-refuerzos-estadounidenses-llegan-cerca-de-la-frontera-con-ucrania
+        featured{array} /content/202202/17-parlamento-europeo-abre-investigacion-sobre-saludo-nazi-en-el-plenario
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/16-google-limitara-el-intercambio-de-datos-con-terceros-en-dispositivos-android
+        featured{array} /content/202202/17-la-nanomedicina-o-como-usar-lo-diminuto-para-curar-grandes-males
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/16-intensas-lluvias-dejan-al-menos-38-muertos-en-brasil
+    featured{array} /content/202202/17-hospitales-de-hong-kong-en-modo-guerra-por-ola-de-omicron
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202202/15-francia-devolvera-15-obras-expoliadas-por-los-nazis-a-familias-judias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/16-refuerzos-estadounidenses-llegan-cerca-de-la-frontera-con-ucrania
+    featured{array} /content/202202/17-rusia-anuncia-retirada-de-mas-tropas-de-frontera-con-ucrania
 }
 other{kmkv} {
     name Other (Internal)
