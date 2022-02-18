@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/17-parlamento-europeo-abre-investigacion-sobre-saludo-nazi-en-el-plenario
+        featured{array} /content/202202/17-eeuu-aprueba-la-potencial-venta-de-6000-millones-en-armas-a-polonia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/17-la-nanomedicina-o-como-usar-lo-diminuto-para-curar-grandes-males
+        featured{array} /content/202202/17-un-tribunal-ruso-ordena-el-encarcelamiento-del-hermano-del-opositor-navalni
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/17-hospitales-de-hong-kong-en-modo-guerra-por-ola-de-omicron
+    featured{array} /content/202202/18-ciberacoso-en-corea-del-sur-empuja-a-las-victimas-al-suicidio
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202202/17-aqui-perreamos-solas-un-concierto-exclusivo-para-mujeres
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/17-rusia-anuncia-retirada-de-mas-tropas-de-frontera-con-ucrania
+    featured{array} /content/202202/18-neuvos-bombardeos-en-ucrania-aumentan-temor-de-invasion-rusa
 }
 other{kmkv} {
     name Other (Internal)
