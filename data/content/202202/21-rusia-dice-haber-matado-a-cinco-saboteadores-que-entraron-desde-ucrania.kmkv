@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?&nbsp;</strong></p>
+<ul>
+<li>El ej&eacute;rcito ruso inform&oacute; el lunes que abati&oacute; a cinco saboteadores que entraron en su territorio desde Ucrania, la &uacute;ltima de una serie de denuncias que atizan la tensi&oacute;n entre Rusia y Ucrania.</li>
+<li>"En los combates, fueron abatidos cinco personas que pertenec&iacute;an a un grupo de saboteadores que violaron la frontera de Rusia", indicaron los militares en un comunicado en el que precisaron que el incidente se produjo cerca de la localidad de Mityakinskaya en la regi&oacute;n de Rostov a las 06H00 (03H00 GMT).</li>
+<li>En la ma&ntilde;ana, Rusia acus&oacute; a las fuerzas ucranianas de haber bombardeado un puesto fronterizo ruso en la regi&oacute;n de Rostov, una imputaci&oacute;n desmentida por Kiev.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los pa&iacute;ses occidentales y Ucrania denuncian hace semanas que un incidente, ya sea concreto o fruto de una escenificaci&oacute;n, de un pretexto a Rusia para lanzar una ofensiva contra su vecino.</li>
+<li>Adem&aacute;s acusan a Rusia de tener desplegados cerca de 150.000 efectivos listos para una invasi&oacute;n.</li>
+<li>Desde hace tres d&iacute;as los combates entre las tropas de Ucrania y los rebeldes prorrusos han aumentado en el este de Ucrania, en la frontera con Rusia.</li>
+</ul>
+}
+title Rusia dice haber matado a cinco "saboteadores" que entraron desde Ucrania
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/21-rusia-dice-haber-matado-a-cinco-saboteadores-que-entraron-desde-ucrania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El ejército ruso informó el lunes que abatió a cinco saboteadores que entraron en su territorio desde Ucrania, la última de una serie de denuncias que atizan la tensión entre Rusia y Ucrania.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Rusia dice haber matado a cinco "saboteadores" que entraron desde Ucrania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

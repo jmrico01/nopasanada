@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202202/17-aqui-perreamos-solas-un-concierto-exclusivo-para-mujeres
+        featured{array} /content/202202/21-richard-clayderman-maestro-de-musica-de-ascensor-saca-nuevo-disco
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/17-eeuu-aprueba-la-potencial-venta-de-6000-millones-en-armas-a-polonia
+        featured{array} /content/202202/21-rusia-dice-haber-matado-a-cinco-saboteadores-que-entraron-desde-ucrania
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/17-un-tribunal-ruso-ordena-el-encarcelamiento-del-hermano-del-opositor-navalni
+        featured{array} /content/202202/21-iglesia-espanola-anuncia-auditoria-independiente-para-estudiar-denuncias-de-pederastia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/18-ciberacoso-en-corea-del-sur-empuja-a-las-victimas-al-suicidio
+    featured{array} /content/202202/21-patinadora-taiwanesa-se-expone-a-sancion-por-lucir-un-uniforme-de-china
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202202/17-aqui-perreamos-solas-un-concierto-exclusivo-para-mujeres
+        featured{array} /content/202202/21-richard-clayderman-maestro-de-musica-de-ascensor-saca-nuevo-disco
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/18-neuvos-bombardeos-en-ucrania-aumentan-temor-de-invasion-rusa
+    featured{array} /content/202202/21-rusia-dice-haber-matado-a-cinco-saboteadores-que-entraron-desde-ucrania
 }
 other{kmkv} {
     name Other (Internal)
