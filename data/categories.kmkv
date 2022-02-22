@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/21-iglesia-espanola-anuncia-auditoria-independiente-para-estudiar-denuncias-de-pederastia
+        featured{array} /content/202202/22-alemania-suspende-gasoducto-nord-stream-2-por-crisis-ucraniana
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/21-patinadora-taiwanesa-se-expone-a-sancion-por-lucir-un-uniforme-de-china
+    featured{array} /content/202202/22-paraguay-levanta-restricciones-sanitarias-por-el-covid-19
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202202/21-richard-clayderman-maestro-de-musica-de-ascensor-saca-nuevo-disco
+        featured{array} /content/202202/22-maestro-indio-de-16-anos-vence-a-campeon-mundial-de-ajedrez
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/21-rusia-dice-haber-matado-a-cinco-saboteadores-que-entraron-desde-ucrania
+    featured{array} /content/202202/22-maestro-indio-de-16-anos-vence-a-campeon-mundial-de-ajedrez
 }
 other{kmkv} {
     name Other (Internal)
@@ -116,7 +116,7 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202006/3-opciones-alitas-keto-costarica-laguida
+        featured{array} /content/202202/22-federacion-de-futbol-de-eeuu-se-compromete-a-pagar-por-igual-a-hombres-y-mujeres
     }
     displayOrder{array} 
     featured{array} /content/202006/23-real-madrid
