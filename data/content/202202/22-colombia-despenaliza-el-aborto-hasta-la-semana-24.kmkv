@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>La Corte Constitucional de Colombia despenaliz&oacute; el aborto hasta la semana 24 de embarazo, un fallo in&eacute;dito para este pa&iacute;s de mayor&iacute;a cat&oacute;lica.</li>
+<li>Si bien no se elimin&oacute; el delito del C&oacute;digo Penal, con este fallo las mujeres podr&aacute;n decidir sobre la interrupci&oacute;n del embarazo por cualquier motivo hasta el sexto mes de gestaci&oacute;n sin ser castigadas por ello.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Hasta ahora el aborto s&oacute;lo se permit&iacute;a en caso de violaci&oacute;n, si la salud de la madre estaba en riesgo o cuando el feto ten&iacute;a una malformaci&oacute;n que comprometiera su supervivencia.</li>
+<li>Sumado a eso, seg&uacute;n un fallo del 2006, los m&eacute;dicos que no quisieran interrumpir embarazos, pod&iacute;an acudir a la objeci&oacute;n de conciencia.</li>
+<li>Fuera de esas excepciones, tanto las mujeres como quienes realizaran el procedimiento con su consentimiento, eran castigados con penas de 16 a 54 meses de c&aacute;rcel.</li>
+<li>Con esta sentencia, la "conducta del aborto solo ser&aacute; punible cuando se realice despu&eacute;s de la vig&eacute;simo cuarta (24) semana de gestaci&oacute;n". Pasados los seis meses de embarazo seguir&aacute;n en pie las condiciones ya fijadas por el tribunal.</li>
+</ul>
+<p><strong>- Fallo &uacute;nico-</strong></p>
+<p>Colombia se convierte en el primer pa&iacute;s latinoamericano en despenalizar el aborto hasta la semana 24 y el quinto de la regi&oacute;n en flexibilizar el acceso al aborto, junto a Argentina, Uruguay, Cuba y Guyana. En M&eacute;xico est&aacute; autorizado hasta las 12 semanas en el Estado de Oaxaca, Veracruz, Hidalgo y Ciudad de M&eacute;xico.</p>
+<p>Seg&uacute;n la autoridad carcelaria 24 mujeres est&aacute;n en prisi&oacute;n por abortar.</p>
+}
+title Colombia despenaliza el aborto hasta la semana 24
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/22-colombia-despenaliza-el-aborto-hasta-la-semana-24.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La Corte Constitucional de Colombia despenalizó el aborto hasta la semana 24 de embarazo, un fallo inédito para este país de mayoría católica.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Colombia<b>
+    text1 Colombia despenaliza el aborto hasta la semana 24
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
