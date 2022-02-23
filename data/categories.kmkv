@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/21-rusia-dice-haber-matado-a-cinco-saboteadores-que-entraron-desde-ucrania
+        featured{array} /content/202202/23-incendios-arrasan-humedal-argentino-de-ibera-y-causan-danos-incalculabes
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/22-alemania-suspende-gasoducto-nord-stream-2-por-crisis-ucraniana
+        featured{array} /content/202202/23-ucrania-pide-garantias-de-seguridad-a-occidente-y-rusia
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202202/22-paraguay-levanta-restricciones-sanitarias-por-el-covid-19
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202202/22-maestro-indio-de-16-anos-vence-a-campeon-mundial-de-ajedrez
+        featured{array} /content/202202/23-hallan-un-complejo-ritual-de-9000-anos-en-jordania
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/22-maestro-indio-de-16-anos-vence-a-campeon-mundial-de-ajedrez
+    featured{array} /content/202202/23-ucrania-pide-garantias-de-seguridad-a-occidente-y-rusia
 }
 other{kmkv} {
     name Other (Internal)
