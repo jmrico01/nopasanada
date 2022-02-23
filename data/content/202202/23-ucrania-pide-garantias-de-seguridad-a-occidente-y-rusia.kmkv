@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El presidente ucraniano Volodimir Zelenski pidi&oacute; el mi&eacute;rcoles garant&iacute;as de seguridad a los pa&iacute;ses occidentales y a Mosc&uacute;.</li>
+<li>"Ucrania necesita garant&iacute;as de seguridad claras y concretas, inmediatamente", tanto de los pa&iacute;ses occidentales como de Rusia, dijo Zelenski en una rueda de prensa.</li>
+<li>"Creo que Rusia debe estar entre los pa&iacute;ses que nos den esas garant&iacute;as", insisti&oacute;, recordando que hab&iacute;a propuesto en varias ocasiones reunirse con su hom&oacute;logo Vladimir Putin para buscar soluciones a esta crisis.</li>
+<li>El presidente ucraniano agradeci&oacute; a sus pares polaco y lituano por su apoyo y por las entregas de armas y equipos militares.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>"Estamos unidos en la convicci&oacute;n de que el futuro de la seguridad europea se decide en este momento en nuestra casa, en Ucrania", dijo Zelenski.</li>
+<li>Los pa&iacute;ses occidentales estiman que Rusia, que despleg&oacute; 150.000 soldados en las fronteras con Ucrania, puede llevar a cabo una invasi&oacute;n a gran escala en este pa&iacute;s vecino.</li>
+<li>El lunes, Rusia reconoci&oacute; la independencia de dos regiones separatistas prorrusas del este de Ucrania, las 'rep&uacute;blicas' de Donetsk y Lugansk, y allan&oacute; el camino legal para enviar tropas a esta zona, aunque la decisi&oacute;n no se ha tomado por el momento.</li>
+</ul>
+}
+title Ucrania pide garantías de seguridad a occidente y Rusia
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/23-ucrania-pide-garantias-de-seguridad-a-occidente-y-rusia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El presidente ucraniano Volodimir Zelenski pidió el miércoles garantías de seguridad a los países occidentales y a Moscú.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Ucrania pide garantías de seguridad a occidente y Rusia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

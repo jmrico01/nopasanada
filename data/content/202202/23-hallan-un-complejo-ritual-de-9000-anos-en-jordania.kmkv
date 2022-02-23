@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Arque&oacute;logos franceses y jordanos descubrieron en el desierto de Jordania un complejo ritual de 9.000 a&ntilde;os que podr&iacute;a ser una de las estructuras humanas m&aacute;s antiguas.&nbsp;</li>
+<li>El yacimiento fue desenterrado en 2021 en el desierto de Jibal Al Jashabiyeh, en el sureste de Jordania, seg&uacute;n un comunicado conjunto del Departamento de Antig&uuml;edades de Jordania y el Ministerio de Antig&uuml;edades jordano publicado el martes.&nbsp;</li>
+<li>Fue descubierto por un equipo de arque&oacute;logos franceses y jordanos que trabajan juntos en el Proyecto Arqueol&oacute;gico del Sureste de Badia (SEBAP).&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El complejo, utilizado para los rituales de caza de gacelas, incluye un altar y un modelo en miniatura de una trampa de cacer&iacute;a apodada "cometa del desierto" por su forma.&nbsp;</li>
+<li>En el Neol&iacute;tico, las gacelas eran conducidas por los cazadores hasta grandes muros de piedra y luego hacia un cercado o agujero, donde las mataban.&nbsp;</li>
+<li><span style="font-size: 1.4vw; letter-spacing: 0.01vw;">Seg&uacute;n las autoridades, esta es "la estructura m&aacute;s antigua del mundo construida a gran escala conocida hasta la fecha".&nbsp;</span></li>
+<li>El yacimiento tambi&eacute;n incluye dos estelas con figuras humanas -una de ellas de 1,12 metros de altura-, as&iacute; como s&iacute;lex, estatuillas que representan animales y 150 f&oacute;siles marinos colocados de una forma especial.&nbsp;</li>
+<li>El SEBAP espera profundizar en el conocimiento de "las primeras sociedades pastoriles y n&oacute;madas, as&iacute; como en la evoluci&oacute;n de las estrategias de caza", seg&uacute;n el comunicado.&nbsp;</li>
+</ul>
+}
+title Hallan un complejo ritual de 9.000 años en Jordania
+day 23
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/23-hallan-un-complejo-ritual-de-9000-anos-en-jordania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Arqueólogos franceses y jordanos descubrieron en el desierto de Jordania un complejo ritual de 9.000 años que podría ser una de las estructuras humanas más antiguas .
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Jordania<b>
+    text1 Hallan un complejo ritual de 9.000 años en Jordania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante,noticias-culturales
+videoID 
+titlePoster 
+color #FBFF09
