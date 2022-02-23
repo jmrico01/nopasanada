@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202202/23-ucrania-pide-garantias-de-seguridad-a-occidente-y-rusia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/22-paraguay-levanta-restricciones-sanitarias-por-el-covid-19
+    featured{array} /content/202202/23-ue-busca-que-grandes-empresas-respeten-ddhh-y-normas-ambientales
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202202/23-hallan-un-complejo-ritual-de-9000-anos-en-jordania
