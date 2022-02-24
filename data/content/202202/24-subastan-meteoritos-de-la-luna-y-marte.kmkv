@@ -1,0 +1,47 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Durante una subasta en l&iacute;nea de Christie's, que inici&oacute; el 9 de febrero y termin&oacute; este mi&eacute;rcoles, se pusieron a la venta meteoritos de la Luna y de Marte.</li>
+<li>La pieza m&aacute;s cara de la subasta fue un framento de la Luna, hallado en Marruecos en 2007, que recaud&oacute; 189.000 d&oacute;lares. Otro pedaz&oacute; se vendi&oacute; en&nbsp;69.300 d&oacute;lares.</li>
+<li>"Las piedras provenientes de la Luna est&aacute;n entre las m&aacute;s escasas (...), existen menos de 750 kilogramos de mete&oacute;ritos lunares (sobre la Tierra) y una parte importante es controlada por instituciones gubernamentales", escribi&oacute; Christie's en la presentaci&oacute;n de una de las piedras.</li>
+<li>Eso s&iacute;, aunque la subasta dur&oacute; dos semanas, la pieza principal: una piedra de Marte hallada en el desierto del Sahara y presentada como el tercer mayor pedazo de ese planeta conservado en la Tierra, no se logr&oacute; vender.</li>
+<li>Esta roca volc&aacute;nica de 9 kilos, tiene un valor de entre 500.000 y 800.000 d&oacute;lares.</li>
+<li>Otro lote, el meteorito Gibeon, descubierto en Namibia y estimado en un valor de entre 200.000 y 300.000 d&oacute;lares, tampoco encontr&oacute; comprador.</li>
+<li>Lo que s&iacute; se vendi&oacute; fue el hogar de Rocky, un pastor alem&aacute;n que sali&oacute; ileso tras la ca&iacute;da de una condrita carbonosa en un jard&iacute;n en Aguas Zarcas, Costa Rica, el 23 de abril de 2019. La pieza se vendi&oacute; en 44.100 d&oacute;lares.</li>
+<li>Los fragmentos de meteoritos son codiciados por buscadores que recorren los desiertos para encontrar estas piedras preciosas.</li>
+</ul>
+}
+title Subastan meteoritos de la Luna y Marte
+day 24
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/24-subastan-meteoritos-de-la-luna-y-marte.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Durante una subasta en línea de Christie's, que inició el 9 de febrero y terminó este miércoles, se pusieron a la venta meteoritos de la Luna y de Marte.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Curiosidades<b>
+    text1 Subastan meteoritos de la Luna y Marte
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante,noticias-culturales
+videoID 
+titlePoster 
+color #FBFF09

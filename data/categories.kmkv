@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/23-incendios-arrasan-humedal-argentino-de-ibera-y-causan-danos-incalculabes
+        featured{array} /content/202202/24-china-califica-el-conflicto-en-ucrania-como-precupaciones-razonables
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/23-ucrania-pide-garantias-de-seguridad-a-occidente-y-rusia
+        featured{array} /content/202202/24-lo-que-sabemos-hasta-ahorade-la-invasion-rusa-a-ucrania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/23-ue-busca-que-grandes-empresas-respeten-ddhh-y-normas-ambientales
+    featured{array} /content/202202/24-mas-de-14-millones-de-sirios-necesitan-ayuda-humanitaria
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202202/23-hallan-un-complejo-ritual-de-9000-anos-en-jordania
+        featured{array} /content/202202/24-subastan-meteoritos-de-la-luna-y-marte
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/23-ucrania-pide-garantias-de-seguridad-a-occidente-y-rusia
+    featured{array} /content/202202/24-lo-que-sabemos-hasta-ahorade-la-invasion-rusa-a-ucrania
 }
 other{kmkv} {
     name Other (Internal)
