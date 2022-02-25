@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/24-china-califica-el-conflicto-en-ucrania-como-precupaciones-razonables
+        featured{array} /content/202202/25-italia-dispuesta-a-desplegar-3400-militares-para-la-otan
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/24-lo-que-sabemos-hasta-ahorade-la-invasion-rusa-a-ucrania
+        featured{array} /content/202202/25-temor-de-la-ue-a-quedarse-sin-gas-frena-exclusion-rusa-al-sistema-bancario-swift
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/24-mas-de-14-millones-de-sirios-necesitan-ayuda-humanitaria
+    featured{array} /content/202202/25-biden-nominara-a-ketanji-brown-jackson-como-la-primera-mujer-negra-a-la-corte-suprema
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202202/24-subastan-meteoritos-de-la-luna-y-marte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/24-lo-que-sabemos-hasta-ahorade-la-invasion-rusa-a-ucrania
+    featured{array} /content/202202/25-putin-llama-al-ejercito-ucraniano-a-tomar-el-poder-en-kiev
 }
 other{kmkv} {
     name Other (Internal)

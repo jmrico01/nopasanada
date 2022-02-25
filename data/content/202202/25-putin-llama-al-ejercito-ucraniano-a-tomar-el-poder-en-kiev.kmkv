@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesitas saber?</strong></p>
+<ul>
+<li>El presidente ruso Vladimir Putin llam&oacute; el viernes al ej&eacute;rcito ucraniano a &nbsp;"tomar el poder" en Kiev y derrocar al presidente Volodimir Zelenski y a su entorno, a los que calific&oacute; de "neonazis y drogadictos".&nbsp;</li>
+<li>"Tomen el poder entre sus manos. Me parece que ser&aacute; m&aacute;s f&aacute;cil negociar entre ustedes y yo", lanz&oacute; Putin al ej&eacute;rcito ucraniano en una intervenci&oacute;n en la televisi&oacute;n rusa.&nbsp;</li>
+<li>El presidente ruso afirm&oacute; que no combate a unidades del ej&eacute;rcito sino a formaciones nacionalistas que se comportan "como terroristas" usando a civiles "como escudos humanos", al colocar sus armamentos en zonas civiles.</li>
+<li>"Luego quieren acusar a Rusia de provocar v&iacute;ctimas entre la poblaci&oacute;n civil" agreg&oacute;.</li>
+<li>Putin tambi&eacute;n calific&oacute; al presidente Zelenski y sus ministros de "banda de drogadictos y de neonazis, que se ha instalado en Kiev y toma como reh&eacute;n a todo el pueblo ucraniano".</li>
+<li>Mosc&uacute; califica a las autoridades ucranianas de &nbsp;"neonazis" o de "junta" desde 2014 y el estallido de una guerra en el Este de Ucrania entre separatistas prorrusos y las fuerzas de Kiev, pese a que Zelenski tenga or&iacute;genes jud&iacute;os.</li>
+</ul>
+}
+title Putin incita al ejército ucraniano a "tomar el poder" en Kiev
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/25-putin-llama-al-ejercito-ucraniano-a-tomar-el-poder-en-kiev.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El presidente ruso Vladimir Putin llamó el viernes al ejército ucraniano a  "tomar el poder" en Kiev y derrocar al presidente Volodimir Zelenski y a su entorno, a los que calificó de "neonazis y drogadictos".
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Putin incita al ejército ucraniano a "tomar el poder" en Kiev
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
