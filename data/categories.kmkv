@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/25-italia-dispuesta-a-desplegar-3400-militares-para-la-otan
+        featured{array} /content/202202/28-bielorrusos-aprueban-reformas-que-refuerzan-poderes-de-lukashenko
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/25-temor-de-la-ue-a-quedarse-sin-gas-frena-exclusion-rusa-al-sistema-bancario-swift
+        featured{array} /content/202202/28-mas-de-500000-refugiados-ucranianos-en-paises-fronterizos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/25-biden-nominara-a-ketanji-brown-jackson-como-la-primera-mujer-negra-a-la-corte-suprema
+    featured{array} /content/202202/28-anonymous-reivindica-ciberataque-contra-medios-rusos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202202/24-subastan-meteoritos-de-la-luna-y-marte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/25-putin-llama-al-ejercito-ucraniano-a-tomar-el-poder-en-kiev
+    featured{array} /content/202202/28-ucrania-resiste-invasion-rusa-mientras-putin-ordena-alerta-nucelar
 }
 other{kmkv} {
     name Other (Internal)

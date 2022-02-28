@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>M&aacute;s del 65% de los bielorrusos vot&oacute; este domingo a favor de las enmiendas a la Constituci&oacute;n propuestas por el presidente Alexander Lukashenko, anunci&oacute; la comisi&oacute;n electoral central de esta exrep&uacute;blica sovi&eacute;tica.</li>
+<li>La pregunta sometida a voto se refer&iacute;a a la adopci&oacute;n o no de esas enmiendas que permitir&iacute;an reforzar los poderes de Lukashenko, de 67 a&ntilde;os y que dirige Bielorrusia con pu&ntilde;o de hierro desde 1994.</li>
+<li>El referendo tuvo lugar en momentos en que la vecina Ucrania es v&iacute;ctima de una invasi&oacute;n rusa que comenz&oacute; el 24 de febrero. Negociaciones entre rusos y ucranianos, anunciadas por las dos partes, deben llevarse a cabo en la frontera bielorrusa.</li>
+<li>"65,16% de los electores vot&oacute; a favor de las enmiendas a la Constituci&oacute;n de la Rep&uacute;blica de Bielorrusia", anunci&oacute; en la noche del domingo al lunes el presidente de la comisi&oacute;n electoral central bielorrusa, Igor Karpenko, citado por las agencias de prensa rusas.</li>
+<li>Seg&uacute;n Karpenko, 10,07% vot&oacute; en contra.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Le tasa de participaci&oacute;n fue de 78,63%, seg&uacute;n la misma fuente.</li>
+<li>Para ser adoptadas, las enmiendas necesitaban recibir m&aacute;s de 50% de los votos, y el referendo era considerado v&aacute;lido si hab&iacute;a una participaci&oacute;n de m&aacute;s del 50% de los electores.</li>
+<li>Entre los cambios propuestos est&aacute;n una inmunidad judicial de por vida para los expresidentes y la introducci&oacute;n de un l&iacute;mite de dos mandatos presidenciales para los sucesores de Lukashenko.</li>
+<li>Si la Constituci&oacute;n actual no mencionaba ning&uacute;n l&iacute;mite, esta nueva disposici&oacute;n se aplicar&iacute;a a partir de la entrada en funci&oacute;n de un nuevo presidente, lo que permitir&iacute;a a Lukashenko permanecer en el poder hasta 2035 si resulta reelecto en 2025.</li>
+<li>La Constituci&oacute;n bielorrusa preve&iacute;a que el pa&iacute;s fuera una "zona libre de armas nucleares". Pero este art&iacute;culo fue modificado en la nueva versi&oacute;n propuesta por Lukashenko, que no descarta el despliegue de armas nucleares rusas.</li>
+<li>El presidente bielourruso fue reelegido en 2020 en unos comicios muy criticados que provocaron multitudinarias protestas duramente reprimidas.</li>
+</ul>
+}
+title Bielorrusos aprueban reformas que refuerzan poderes de Lukashenko
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/25-biden-nominara-a-ketanji-brown-jackson-como-la-primera-mujer-negra-a-la-corte-suprema.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Más del 65% de los bielorrusos votó este domingo a favor de las enmiendas a la Constitución propuestas por el presidente Alexander Lukashenko, anunció la comisión electoral central de esta exrepública soviética.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Bielorrusia<b>
+    text1 Bielorrusos aprueban reformas que refuerzan poderes de Lukashenko
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

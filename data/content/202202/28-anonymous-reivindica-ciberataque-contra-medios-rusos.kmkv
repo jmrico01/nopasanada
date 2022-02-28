@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El grupo de piratas inform&aacute;ticos Anonymous reivindic&oacute; el lunes un ciberataque que paraliz&oacute; varios medios rusos, entre ellos las agencias de noticias estatales, despu&eacute;s de los ataques estos d&iacute;as contra varias webs oficiales rusas.</li>
+<li>Durante varios minutos, las p&aacute;ginas de las agencias TASS y RIA Novosti, del diario Kommersant, del peri&oacute;dico pro-Kremlin Izvestia y de la revista Forbes Russia mostraban un mensaje en el que se ped&iacute;a "poner fin" a la invasi&oacute;n rusa de Ucrania.</li>
+<li>"Dentro de unos a&ntilde;os, viviremos como en Corea del Norte. &iquest;Por qu&eacute; necesitamos esto? &iquest;Para que Putin acabe en los libros de Historia? No es nuestra guerra, &iexcl;deteng&aacute;mosla!", rezaba la inscripci&oacute;n.</li>
+<li>"Este mensaje ser&aacute; suprimido y algunos de nosotros seremos despedidos, quiz&aacute;s encarcelados. Pero no podemos m&aacute;s", a&ntilde;ad&iacute;a el texto, acusando de "indiferencia" a los periodistas de los medios en cuesti&oacute;n.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Estos ataques tienen lugar despu&eacute;s de que este mismo grupo llevara a cabo otras acciones el jueves contra las p&aacute;ginas de la cadena de televisi&oacute;n p&uacute;blica rusa RT (ex-Russia Today).&nbsp;</li>
+<li>El s&aacute;bado, las webs del Kremlin, la Duma (c&aacute;mara baja del Parlamento) y el ministerio de Defensa quedaron bloqueados, una operaci&oacute;n tambi&eacute;n reivindicada por Anonymous en Twitter.</li>
+<li>Estos ataques consisten en una "denegaci&oacute;n de servicio" (DDOS), que hace inaccesibles las p&aacute;ginas.</li>
+<li>La organizaci&oacute;n NetBlocks, especializada en la vigilancia de internet en el mundo, tambi&eacute;n se&ntilde;al&oacute; en un informe el s&aacute;bado el acceso lento en las p&aacute;ginas de los principales operadores telef&oacute;nicos rusos, como Rostelecom, MTS, Beeline o Megafon.</li>
+</ul>
+}
+title Anonymous reivindica ciberataque contra medios rusos
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202202/headers/28-anonymous-reivindica-ciberataque-contra-medios-rusos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El grupo de piratas informáticos Anonymous reivindicó el lunes un ciberataque que paralizó varios medios rusos, entre ellos las agencias de noticias estatales, después de los ataques estos días contra varias webs oficiales rusas.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Anonymous<b>
+    text1 Anonymous reivindica ciberataque contra medios rusos
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 02
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
