@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202202/28-bielorrusos-aprueban-reformas-que-refuerzan-poderes-de-lukashenko
+        featured{array} /content/202203/1-zelenski-pide-integrar-a-ucrania-a-ue-y-dice-que-futuro-de-europa-esta-en-juego
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202202/28-mas-de-500000-refugiados-ucranianos-en-paises-fronterizos
+        featured{array} /content/202203/1-zelenski-pide-integrar-a-ucrania-a-ue-y-dice-que-futuro-de-europa-esta-en-juego
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202202/28-anonymous-reivindica-ciberataque-contra-medios-rusos
+    featured{array} /content/202203/1-espana-detiene-a-britanica-mas-buscada-por-fraude-de-1000-millones-de-libras
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202202/24-subastan-meteoritos-de-la-luna-y-marte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202202/28-ucrania-resiste-invasion-rusa-mientras-putin-ordena-alerta-nucelar
+    featured{array} /content/202203/1-inmenso-convoy-militar-ruso-es-captado-cerca-de-kiev-por-imagenes-satelitales
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Im&aacute;genes satelitales tomadas el lunes en Ucrania muestran un inmenso convoy militar ruso que se extiende por m&aacute;s de 60 kil&oacute;metros al noroeste de la capital, Kiev, objetivo militar principal de Rusia en su ofensiva en Ucrania.</li>
+<li>El convoy "se extiende desde los alrededores del aeropuerto Antonov (a unos 25 km del centro de Kiev) al sur, hasta las inmediaciones de Prybirsk, al norte", indic&oacute; el lunes en la noche la sociedad estadounidense de im&aacute;genes satelitales Maxar.</li>
+<li>Desde el inicio de la invasi&oacute;n rusa a Ucrania, este aeropuerto es escenario de violentos combates. El ej&eacute;rcito de Vladimir Putin trata de conquistar esta infraestructura estrat&eacute;gica para tomar la capital.</li>
+<li>En el convoy, de unos 64 kil&oacute;metros, capturado por im&aacute;genes satelitales, "algunos veh&iacute;culos est&aacute;n muy distantes unos de otros, y en otras secciones los equipos militares est&aacute;n posicionados de a dos o tres", a&ntilde;ade Maxar.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las im&aacute;genes muestran decenas y decenas de veh&iacute;culos alineados unos detr&aacute;s de otros sobre las v&iacute;as en los campos de Ucrania, a veces con columnas de humo cercanas, o restos de edificios incendiados, seg&uacute;n la empresa.</li>
+<li>Las im&aacute;genes muestran adem&aacute;s un nuevo despliegue de tropas, con helic&oacute;pteros de ataque y veh&iacute;culos en tierra, en Bielorrusia, a menos de 30 kil&oacute;metros de la frontera con Ucrania.</li>
+<li>Desde el inicio de la ofensiva rusa el jueves, las fuerzas ucranianas mantienen el control del acceso al centro de Kiev, frenando el avance de tropas rusas, que se reagrupan alrededor de la capital, en el quinto d&iacute;a de la invasi&oacute;n,&nbsp;</li>
+<li>Seg&uacute;n dos fuentes consultadas el lunes, una diplom&aacute;tica y otra de seguridad, Mosc&uacute; se alista para lanzar de forma inminente una nueva ofensiva militar.</li>
+<li>El lunes, la principal columna rusa en direcci&oacute;n hacia la capital de Ucrania "avanz&oacute; cerca de cinco kil&oacute;metros" y se encuentra a "unos 25 kil&oacute;metros" de la ciudad, seg&uacute;n estim&oacute; un alto responsable de la defensa estadounidense.</li>
+</ul>
+}
+title Convoy militar ruso de 60 kilómetros captado cerca de Kiev por imágenes satelitales
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/1-inmenso-convoy-militar-ruso-es-captado-cerca-de-kiev-por-imagenes-satelitales.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Imágenes satelitales tomadas el lunes en Ucrania muestran un inmenso convoy militar ruso que se extiende por más de 60 kilómetros al noroeste de la capital, Kiev, objetivo militar principal de Rusia en su ofensiva en Ucrania.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Convoy militar ruso de 60 kilómetros captado cerca de Kiev por imágenes satelitales
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
