@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El &uacute;ltimo informe sobre el expresidente sudafricano Jacob Zuma, publicado el martes por la noche, detalla los recovecos de la corrupci&oacute;n durante su mandato, en el que se entremezclaron el Estado, su partido (ANC) y negocios privados.&nbsp;</li>
+<li>La tercera parte de las conclusiones de una larga investigaci&oacute;n sobre la supuesta corrupci&oacute;n durante su presidencia (2009-2018) fue entregada al presidente, Cyril Ramaphosa. En ella, se detalla c&oacute;mo la empresa privada de servicios Bosasa acab&oacute; mezclada con los m&aacute;s altos niveles del gobierno y del partido Congreso Nacional Africano (ANC), en el poder.</li>
+<li>Todav&iacute;a se espera una cuarta parte de las conclusiones, redactada tras m&aacute;s de cuatro a&ntilde;os de investigaci&oacute;n de una comisi&oacute;n expresamente creada para ello.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El informe establece un dosier jur&iacute;dico e insta a los fiscales a encargarse de la investigaci&oacute;n.</li>
+<li>"La corrupci&oacute;n era el modo de funcionamiento de Bosasa", se&ntilde;ala el documento. La empresa "corrompi&oacute; ampliamente a pol&iacute;ticos, funcionarios, al presidente Jacob Zuma y a otros".</li>
+<li>El partido ANC instal&oacute; su "oficina de guerra" electoral en las dependencias de Bosasa, con el dinero de Bosasa, durante los comicios de 2011, 2014 y 2016.</li>
+<li>Zuma, de 79 a&ntilde;os, debe ser juzgado por otro caso de sobornos supuestamente ocurridos en los a&ntilde;os 1990. &nbsp;</li>
+<li>Sin embargo, procesar a Zuma no est&aacute; exento de riesgos. Como se neg&oacute; a declarar ante la comisi&oacute;n de investigaci&oacute;n el a&ntilde;o pasado, la m&aacute;xima jurisdicci&oacute;n del pa&iacute;s orden&oacute; su encarcelamiento, lo que dio lugar a una serie de disturbios que dejaron m&aacute;s de 350 muertos en julio.</li>
+<li>El expresidente fue liberado dos meses despu&eacute;s por razones de salud.</li>
+</ul>
+}
+title Informe detalla la corrupción durante el mandato de Zuma en Sudáfrica
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/3-informe-detalla-la-corrupcion-durante-el-mandato-de-zuma-en-sudafrica.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El último informe sobre el expresidente sudafricano Jacob Zuma, publicado el martes por la noche, detalla los recovecos de la corrupción durante su mandato, en el que se entremezclaron el Estado, su partido (ANC) y negocios privados.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Sudáfrica<b>
+    text1 Informe detalla la corrupción durante el mandato de Zuma en Sudáfrica
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
