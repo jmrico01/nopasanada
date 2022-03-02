@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202202/8-se-reanuda-caza-furtiva-de-rinocerontes-en-sudafrica
+        featured{array} /content/202203/2-onu-acuerda-lanzar-historica-negociacion-para-pacto-contra-contaminacion-por-plastico
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/1-zelenski-pide-integrar-a-ucrania-a-ue-y-dice-que-futuro-de-europa-esta-en-juego
+        featured{array} /content/202203/3-informe-detalla-la-corrupcion-durante-el-mandato-de-zuma-en-sudafrica
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/1-zelenski-pide-integrar-a-ucrania-a-ue-y-dice-que-futuro-de-europa-esta-en-juego
+        featured{array} /content/202203/2-tropas-rusas-aterizan-en-jarkov-y-anuncian-toma-de-ciudad-en-sur-de-ucrania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/1-espana-detiene-a-britanica-mas-buscada-por-fraude-de-1000-millones-de-libras
+    featured{array} /content/202203/2-onu-acuerda-lanzar-historica-negociacion-para-pacto-contra-contaminacion-por-plastico
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202202/24-subastan-meteoritos-de-la-luna-y-marte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/1-inmenso-convoy-militar-ruso-es-captado-cerca-de-kiev-por-imagenes-satelitales
+    featured{array} /content/202203/2-antivacunas-de-nueva-zelanda-queman-su-campamento-tras-desalojo-policial
 }
 other{kmkv} {
     name Other (Internal)
