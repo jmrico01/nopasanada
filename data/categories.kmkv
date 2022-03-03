@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/3-informe-detalla-la-corrupcion-durante-el-mandato-de-zuma-en-sudafrica
+        featured{array} /content/202203/3-una-delegacion-ucraniana-esta-en-camino-para-negociar-con-rusia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/2-tropas-rusas-aterizan-en-jarkov-y-anuncian-toma-de-ciudad-en-sur-de-ucrania
+        featured{array} /content/202203/3-oiea-pide-cesar-acciones-contra-plantas-nucleares-en-ucrania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/2-onu-acuerda-lanzar-historica-negociacion-para-pacto-contra-contaminacion-por-plastico
+    featured{array} /content/202203/3-una-delegacion-ucraniana-esta-en-camino-para-negociar-con-rusia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202202/24-subastan-meteoritos-de-la-luna-y-marte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/2-antivacunas-de-nueva-zelanda-queman-su-campamento-tras-desalojo-policial
+    featured{array} /content/202203/3-la-desesperacion-de-los-estudiantes-extraeuropeos-a-quienes-impiden-huir-de-ucrania
 }
 other{kmkv} {
     name Other (Internal)

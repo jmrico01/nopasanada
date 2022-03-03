@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Los servicios de emergencia australianos ordenaron la evacuaci&oacute;n de 200.000 personas por el avance de una fuerte tormenta que causaron devastadoras inundaciones y dejaron 13 muertos en la &uacute;ltima semana, mientras que la ciudad de S&iacute;dney se salv&oacute; del temido diluvio.</li>
+<li>Las autoridades emitieron alertas severas por lluvia y viento en una franja de 400 kil&oacute;metros de costa que incluye zonas suburbiales de S&iacute;dney, la mayor ciudad de Australia donde viven 5 millones de personas.</li>
+<li>La impredecible tormenta se ha movido hacia el sur desde el estado de Queensland hasta Nueva Gales del Sur, dejando un rastro de destrozos por las crecidas de r&iacute;os y embalses que han provocado graves inundaciones, con municipios con todas las casas cubiertas hasta los techos.</li>
+<li>La represa de Warragamba, en el suroeste de S&iacute;dney, que aporta 80% del agua a la ciudad, comenz&oacute; a derramarse desde la ma&ntilde;ana de mi&eacute;rcoles.</li>
+<li>Sin embargo, todav&iacute;a hab&iacute;a grandes inundaciones en algunas &aacute;reas al oeste de S&iacute;dney, a lo largo de los r&iacute;os Hawkesbury y Nepean que recorren los suburbios de la ciudad, dijo una portavoz de la oficina meteorol&oacute;gica del estado de Nueva Gales del Sur.</li>
+<li>"Ese es un sistema muy grande y tomar&aacute; un tiempo para que disminuya", adelant&oacute;.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los servicios de emergencia de Nueva Gales del Sur indicaron que todav&iacute;a hay m&aacute;s de 70 &oacute;rdenes de evacuaci&oacute;n en vigor.</li>
+<li>"Mucha gente se est&aacute; despertando hoy para ver parte de su estado bajo el agua", alert&oacute; el jefe de gobierno de Nueva Gales del Sur, Dominic Perrottet.&nbsp;</li>
+<li>"Si son objeto de una de estas &oacute;rdenes de evacuaci&oacute;n, por favor, marchense (...) Las cosas empeorar&aacute;n antes de mejorar", dijo en rueda de prensa.</li>
+<li>Los cient&iacute;ficos aseguran que el cambio clim&aacute;tico est&aacute; aumentando e intensificando los fen&oacute;menos meteorol&oacute;gicos extremos en Australia, como inundaciones, incendios, ciclones o sequ&iacute;as.</li>
+<li>"Australia est&aacute; en el frente del severo cambio clim&aacute;tico", apunt&oacute; la experta medioambiental Hilary Bambrick, de la Universidad de Tecnolog&iacute;a de Queensland.</li>
+<li>"Las temperaturas aumentan m&aacute;s r&aacute;pido en Australia que de promedio en el mundo. Y temperaturas m&aacute;s altas significa que la atm&oacute;sfera retiene m&aacute;s la humedad y que los eventos de precipitaciones son m&aacute;s extremos", explic&oacute;.</li>
+</ul>
+}
+title Australia ordena evacuar a 200.000 personas por tormenta
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/3-australia-ordena-evacuar-a-200000-personas-por-tormenta.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los servicios de emergencia australianos ordenaron la evacuación de 200.000 personas por el avance de una fuerte tormenta que causaron devastadoras inundaciones y dejaron 13 muertos en la última semana, mientras que la ciudad de Sídney se salvó del temido diluvio.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Australia<b>
+    text1 Australia ordena evacuar a 200.000 personas por tormenta
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

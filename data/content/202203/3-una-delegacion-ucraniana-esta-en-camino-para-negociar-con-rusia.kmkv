@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La delegaci&oacute;n ucraniana est&aacute; en camino para reunirse el jueves con representantes de Rusia para negociar un cese el fuego, despu&eacute;s de que Mosc&uacute; lanz&oacute; una invasi&oacute;n la semana pasada, anunci&oacute; un asesor de la presidencia en Twitter.&nbsp;</li>
+<li>"En camino para las negociaciones con la Federaci&oacute;n de Rusia. Ya estamos en los helic&oacute;pteros", escribi&oacute; el asesor de la presidencia Mikhailo Podoliak que public&oacute; una foto de &eacute;l junto el alto cargo parlamentario David Arakhamia, vestidos en tenida militar.</li>
+<li>Arajamia indic&oacute; que en Facebook que Ucrania quiere negociar el establecimiento de "corredores humanitarios".</li>
+<li>"Empezamos en dos horas", escribi&oacute; hacia las 12H00 GMT.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las negociaciones tendr&aacute;n lugar en la regi&oacute;n bielorrusia de Brest, en la localidad de Belov&eacute;zhskaya Pushcha, cerca de la frontera con Polonia.&nbsp;</li>
+<li>El jefe negociador ruso y consejero del Kremlin Vladimir Medinski indic&oacute; que esta localidad conviene a los ucranianos ya que pueden llegar por Polonia.</li>
+<li>Los rusos indicaron que los temas sobre la mesa son el aspecto "militar-t&eacute;cnico", la cuesti&oacute;n humanitaria e internacional y lo pol&iacute;tico, sin dar m&aacute;s precisiones.&nbsp;</li>
+</ul>
+}
+title Una delegación ucraniana está en camino para negociar con Rusia
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/3-una-delegacion-ucraniana-esta-en-camino-para-negociar-con-rusia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La delegación ucraniana está en camino para reunirse el jueves con representantes de Rusia para negociar un cese el fuego, después de que Moscú lanzó una invasión la semana pasada, anunció un asesor de la presidencia en Twitter.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Una delegación ucraniana está en camino para negociar con Rusia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
