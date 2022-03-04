@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El Parlamento ruso adopt&oacute; este viernes un paquete de leyes destinadas a contrarrestar los efectos de las sanciones occidentales sobre la econom&iacute;a del pa&iacute;s tras la invasi&oacute;n de Ucrania.</li>
+<li>Este texto, accesible en el portal internet de la Duma, est&aacute; destinado a "aumentar la estabilidad de la econom&iacute;a rusa y proteger a los ciudadanos frente a las sanciones".</li>
+<li>La ley da la posibilidad al gobierno de aumentar las jubilaciones y el salario m&iacute;nimo "si es necesario".</li>
+<li>Incluye tambi&eacute;n la posibilidad de una moratoria en las inspecciones de las peque&ntilde;as y medianas empresas en 2022, y hasta 2024 para las empresas inform&aacute;ticas.</li>
+<li>El texto incorpora tambi&eacute;n un sistema simplificado de compra de ciertos medicamentos, cuya lista ampl&iacute;a.</li>
+<li>Otra medida es un procedimiento simplificado de "buyback", es decir, de compra por parte de una empresa de sus propias acciones.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los pa&iacute;ses occidentales tomaron medidas sin precedentes contra Rusia, lo que provoc&oacute; una ca&iacute;da vertiginosa del rublo y una fuga masiva de empresas extranjeras con negocios en Rusia, entre otros efectos.</li>
+<li>Como el precio de las acciones de las compa&ntilde;&iacute;as rusas cay&oacute; con fuerza en los &uacute;ltimos d&iacute;as, esto permitir&iacute;a a las empresas comprarlas a un valor bajo.</li>
+<li>La ley suspende el reembolso de las deudas para los ciudadanos y las peque&ntilde;as y medianas empresas en 2022, una medida que ya hab&iacute;a sido aplicada a principios de la pandemia de coronavirus.</li>
+<li>Por &uacute;ltimo, prev&eacute; prolongar una amnist&iacute;a para los capitales que ya est&aacute; en vigencia desde hace varios a&ntilde;os, y que permite a los rusos repatriar bienes y capitales desde el extranjero sin ser objeto de multas o causas judiciales.</li>
+<li>Al ser consultado en el punto de prensa diario, el portavoz del Kremlin, Dmitri Peskov, declar&oacute; que la econom&iacute;a rusa "se encuentra en un entorno agresivo".</li>
+<li>"La econom&iacute;a nos concierne a todos, concierne el bienestar de todos los ciudadanos. Hay golpes contra nuestra econom&iacute;a que deben ser amortiguados y minimizados. Y es sobre lo que se concentran ahora el gobierno y el presidente", explic&oacute;.</li>
+</ul>
+}
+title Rusia adopta un paquete de leyes antisanciones
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/4-rusia-adopta-un-paquete-de-leyes-antisanciones.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El Parlamento ruso adoptó este viernes un paquete de leyes destinadas a contrarrestar los efectos de las sanciones occidentales sobre la economía del país tras la invasión de Ucrania.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Rusia adopta un paquete de leyes antisanciones
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

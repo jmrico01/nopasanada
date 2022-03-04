@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/3-una-delegacion-ucraniana-esta-en-camino-para-negociar-con-rusia
+        featured{array} /content/202203/4-rusia-adopta-un-paquete-de-leyes-antisanciones
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/3-oiea-pide-cesar-acciones-contra-plantas-nucleares-en-ucrania
+        featured{array} /content/202203/4-ucrania-acusa-a-soldados-rusos-de-violar-a-mujeres-ucranianas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/3-una-delegacion-ucraniana-esta-en-camino-para-negociar-con-rusia
+    featured{array} /content/202203/4-inicia-el-juicio-contra-la-opositora-cristiana-chamorro-en-nicaragua
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202202/24-subastan-meteoritos-de-la-luna-y-marte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/3-la-desesperacion-de-los-estudiantes-extraeuropeos-a-quienes-impiden-huir-de-ucrania
+    featured{array} /content/202203/4-ucrania-acusa-a-soldados-rusos-de-violar-a-mujeres-ucranianas
 }
 other{kmkv} {
     name Other (Internal)
