@@ -1,0 +1,62 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>M&aacute;s de 1,7 millones de personas huyeron de Ucrania desde el inicio de la invasi&oacute;n rusa el 24 de febrero, seg&uacute;n las &uacute;ltimas cifras de la ONU publicadas este lunes.</li>
+<li>El Alto Comisionado de Naciones Unidos para los Refugiados (ACNUR) contabiliza 1.735.068 refugiados que huyeron de la guerra de Ucrania, tras un aumento de unos 200.000 desde el domingo, seg&uacute;n los datos publicados este lunes a las 11H00 GMT.</li>
+<li>Las autoridades de la ONU esperan que el flujo aumente, sobre todo en caso de apertura de corredores humanitarios que permtian a los civiles salir de las grandes ciudades.</li>
+<li>"Esta es la crisis de refugiados de m&aacute;s r&aacute;pido crecimiento en Europa desde la Segunda Guerra Mundial", tuite&oacute; el domingo el Alto Comisionado para los Refugiados, Filippo Grandi.</li>
+<li>Las cifras de refugiados incluyen el territorio controlado por Kiev, con m&aacute;s de 37 millones de habitantes, pero no la pen&iacute;nsula de Crimea --anexada por Rusia en 2014-- ni las dos zonas en manos de los separatistas prorrusos en el este del pa&iacute;s.</li>
+<li>Seg&uacute;n la ONU, hasta cuatro millones de personas podr&iacute;an abandonar el pa&iacute;s a causa del conflicto.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Polonia es el pa&iacute;s que ha acogido un mayor n&uacute;mero de refugiados, la mayor&iacute;a de ellos mujeres y ni&ntilde;os, puesto que los hombres en edad de combatir no pueden abandonar el pa&iacute;s.</li>
+<li>En total, fueron 1.027.603, seg&uacute;n el balance de ACNUR, es decir 59,2% de la cifra total.</li>
+<li>El domingo se registr&oacute; otro r&eacute;cord de llegadas, con 142.300 personas.</li>
+<li>Seg&uacute;n los guardias fronterizos polacos, entre medianoche y las 7H00 (23H00 y 6H00 GMT), entraron 42.000 personas en Polonia.</li>
+<li>Antes de esta crisis, en Polonia ya viv&iacute;an 1,5 millones de ucranianos, la mayor&iacute;a para trabajar en este pa&iacute;s miembro de la Uni&oacute;n Europea.</li>
+<li>Hungr&iacute;a acogi&oacute; a 180.163 refugiados, seg&uacute;n ACNUR, un 10,4% del total.</li>
+<li>El pa&iacute;s cuenta con cinco puestos fronterizos con Ucrania y varias ciudades lim&iacute;trofes, como Zahony, pusieron a disposici&oacute;n edificios p&uacute;blicos para alojar a ucranianos.</li>
+<li>Unos 128.169 ucranianos huyeron a Eslovaquia por la guerra, seg&uacute;n la agencia de la ONU, 14.000 m&aacute;s que en los datos anteriores.</li>
+<li>Un total de 82.762 refugiados se encuentran actualmente territorio moldavo, seg&uacute;n ACNUR.</li>
+<li>Tras llegar a Moldavia, un peque&ntilde;o pa&iacute;s de 2,6 millones de habitantes y uno de los m&aacute;s pobres de Europa, una parte de los refugiados siguen su camino hacia Rumania o Hungr&iacute;a, donde suelen tener familia.</li>
+<li>ACNUR contabiliz&oacute; unos 78.977 refugiados procedentes de Ucrania en Rumania, donde se han instalado dos campos, uno en Sighetul y otro en Siret.</li>
+<li>El n&uacute;mero de personas que se refugiaron en Rusia no fue actualizado desde el 3 de marzo, cuando era de 53.300 (un 3,1% del total).</li>
+<li>ACNUR se&ntilde;al&oacute; que, entre el 18 y el 23 de febrero, 96.000 personas pasaron de los territorios separatistas prorrusos de Donetsk y Lugansk a Rusia.</li>
+<li>La agencia de la ONU tambi&eacute;n precis&oacute; que 183.688 personas, un 10,6% del total, se refugiaron en otros pa&iacute;ses europeos, m&aacute;s alejados de las fronteras de Ucrania.</li>
+</ul>
+}
+title Invasión rusa deja más de 1,7 millones de refugiados ucranianos
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/7-mas-de-1-millones-de-refugiados-ucranianos-por-invasion-rusa.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Más de 1,7 millones de personas huyeron de Ucrania desde el inicio de la invasión rusa el 24 de febrero, según las últimas cifras de la ONU publicadas este lunes.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Invasión rusa deja más de 1,7 millones de refugiados ucranianos
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

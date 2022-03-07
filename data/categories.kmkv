@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/4-rusia-adopta-un-paquete-de-leyes-antisanciones
+        featured{array} /content/202203/7-filipinas-eleva-la-edad-de-mayoria-sexual-a-16-anos
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/4-ucrania-acusa-a-soldados-rusos-de-violar-a-mujeres-ucranianas
+        featured{array} /content/202203/7-mas-de-5000-manifestantes-arrestados-en-rusia-por-protestas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/4-inicia-el-juicio-contra-la-opositora-cristiana-chamorro-en-nicaragua
+    featured{array} /content/202203/7-filipinas-eleva-la-edad-de-mayoria-sexual-a-16-anos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202202/24-subastan-meteoritos-de-la-luna-y-marte
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/4-ucrania-acusa-a-soldados-rusos-de-violar-a-mujeres-ucranianas
+    featured{array} /content/202203/7-al-menos-26-heridos-tras-violencia-en-partido-de-futbol-en-mexico
 }
 other{kmkv} {
     name Other (Internal)
