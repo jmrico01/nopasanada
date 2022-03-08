@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Las autoridades iran&iacute;es afirmaron el martes que pusieron en &oacute;rbita un nuevo sat&eacute;lite militar, en un momento en que las negociaciones en Viena destinadas a salvar el acuerdo sobre el programa nuclear de Teher&aacute;n se encuentran en una fase crucial.</li>
+<li>"El segundo sat&eacute;lite militar iran&iacute;, llamado Nour-2, fue enviado al espacio por la lanzadera Qassed, perteneciente a las fuerzas aeroespaciales de los Guardianes [de la Revoluci&oacute;n, ej&eacute;rcito ideol&oacute;gico de Ir&aacute;n] y puesto en &oacute;rbita con &eacute;xito a 500 kil&oacute;metros" de distancia, anunci&oacute; la agencia oficial IRNA.</li>
+<li>Los Guardianes de la Revoluci&oacute;n afirmaron que Nour-2 es un "sat&eacute;lite de reconocimiento", seg&uacute;n un comunicado publicado en su p&aacute;gina oficial, Sepah News.</li>
+<li>En abril de 2020 lanzaron su primer sat&eacute;lite militar, Nour-1. Para Estados Unidos, ese lanzamiento fue la prueba de que el programa espacial iran&iacute; tiene fines militares, m&aacute;s que comerciales.&nbsp;</li>
+<li>El martes, Sepah News indic&oacute; que Nour-1 sigue "activo".</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La Rep&uacute;blica Isl&aacute;mica asegura que no tiene intenci&oacute;n alguna de dotarse de armas nucleares y siempre ha dicho que sus actividades aeroespaciales son pac&iacute;ficas y que se ajustan a una resoluci&oacute;n del Consejo de Seguridad de la ONU.</li>
+<li>El lanzamiento del nuevo sat&eacute;lite se produce en un contexto de declaraciones positivas respecto a un acuerdo inminente en las negociaciones sobre el programa nuclear iran&iacute; que se est&aacute;n llevando a cabo en Viena.</li>
+<li>Esas conversaciones est&aacute;n destinadas a revitalizar el acuerdo internacional alcanzado en 2015. Para ello, se busca que Estados Unidos --que se desvincul&oacute; del pacto de forma unilateral en 2018-- vuelva a adherirse a &eacute;l y que Teher&aacute;n cumpla de nuevo con sus compromisos.</li>
+<li>A mediados de enero, los Guardianes de la Revoluci&oacute;n anunciaron que hab&iacute;an probado "con &eacute;xito" un cohete con un motor de combustible s&oacute;lido capaz de transportar sat&eacute;lites.&nbsp;</li>
+</ul>
+}
+title Irán anuncia la puesta en órbita de un nuevo satélite militar
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/8-iran-anuncia-la-puesta-en-orbita-de-un-nuevo-satelite-militar.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Las autoridades iraníes afirmaron el martes que pusieron en órbita un nuevo satélite militar, en un momento en que las negociaciones en Viena destinadas a salvar el acuerdo sobre el programa nuclear de Teherán se encuentran en una fase crucial.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Irán<b>
+    text1 Irán anuncia la puesta en órbita de un nuevo satélite militar
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
