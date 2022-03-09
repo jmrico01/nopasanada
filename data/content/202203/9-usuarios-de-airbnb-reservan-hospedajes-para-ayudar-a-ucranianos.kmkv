@@ -1,0 +1,47 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Miles de usuarios de Airbnb han reservado arriendos vacacionales en Ucrania, y no para visitar el pa&iacute;s azotado por la guerra, sino para transferir donaciones a los anfitriones locales que luchan por sobrevivir a la invasi&oacute;n rusa.</li>
+<li>Durante un lapso de dos d&iacute;as de la semana pasada, se reservaron m&aacute;s de 61.000 noches de hospedaje en Ucrania por valor de unos 1,9 millones de d&oacute;lares, se&ntilde;al&oacute; un portavoz de la compa&ntilde;&iacute;a a la AFP.</li>
+<li>La avalancha de ayudas lleg&oacute; luego de que Airbnb anunciara la suspensi&oacute;n de sus negocios en Rusia y Bielorrusia, y aunque la empresa no comenz&oacute; la campa&ntilde;a, s&iacute; la apoya activamente.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Airbnb anunci&oacute; la semana pasada que ofrecer&iacute;a estad&iacute;as cortas gratuitas a m&aacute;s de 100.000 personas que huyen de la invasi&oacute;n rusa de Ucrania.</li>
+<li>Cerca de 28.000 anfitriones de Airbnb est&aacute;n ofreciendo hospedaje para los refugiados, y se han recaudado m&aacute;s de 1,2 millones de d&oacute;lares en el fondo que la compa&ntilde;&iacute;a dispuso para su atenci&oacute;n, le dijo la empresa a la AFP.</li>
+</ul>
+}
+title Usuarios de Airbnb reservan hospedajes para ayudar a ucranianos
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/9-usuarios-de-airbnb-reservan-hospedajes-para-ayudar-a-ucranianos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Miles de usuarios de Airbnb han reservado arriendos vacacionales en Ucrania, y no para visitar el país azotado por la guerra, sino para transferir donaciones a los anfitriones locales que luchan por sobrevivir a la invasión rusa.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Usuarios de Airbnb reservan hospedajes para ayudar a ucranianos
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

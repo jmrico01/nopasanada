@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/8-aumenta-presion-contra-empresas-que-siguen-en-rusia
+        featured{array} /content/202203/9-este-8m-mujeres-en-costa-rica-protestan-contra-candidatos-presidenciales-del-patriarcado
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/8-un-8-de-marzo-silencioso-para-las-afganas-bajo-la-represion-taliban
+        featured{array} /content/202203/9-costa-rica-avanza-en-ruta-para-obtener-credito-del-fmi
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/8-capturan-a-10-hombres-por-violencia-en-partido-de-la-liga-mexicana-de-futbol
+    featured{array} /content/202203/9-usuarios-de-airbnb-reservan-hospedajes-para-ayudar-a-ucranianos
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202202/24-subastan-meteoritos-de-la-luna-y-marte
+        featured{array} /content/202203/9-tras-un-siglo-encuentran-los-restos-del-barco-de-ernest-shackleton-el-endurance
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/8-un-8-de-marzo-silencioso-para-las-afganas-bajo-la-represion-taliban
+    featured{array} /content/202203/9-este-8m-mujeres-en-costa-rica-protestan-contra-candidatos-presidenciales-del-patriarcado
 }
 other{kmkv} {
     name Other (Internal)
