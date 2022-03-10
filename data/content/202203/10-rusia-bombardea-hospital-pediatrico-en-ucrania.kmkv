@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete</a><strong><a href="https://mailchi.mp/3eef86616803/nopasanada"> a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El jefe de la diplomacia de la Uni&oacute;n Europea (UE), Josep Borrell, calific&oacute; este jueves de "odioso crimen de guerra" el bombardeo a un hospital pedi&aacute;trico en la ciudad ucraniana de Mari&uacute;pol, que dej&oacute; un saldo de tres muertos y 17 heridos.</li>
+<li>"El bombardeo ruso a un hospital pedi&aacute;trico es un odioso crimen de guerra", dijo Borrell en Twitter, a&ntilde;adiendo que los ataques contra &aacute;reas residenciales y el bloqueo a convoyes de ayuda humanitaria "deben cesar de inmediato".</li>
+<li>De acuerdo con Borrell, Mari&uacute;pol "est&aacute; bajo asedio".</li>
+<li>El bombardeo que afect&oacute; un hospital pedi&aacute;trico provoc&oacute; la muerte de una ni&ntilde;a de corta edad, en un caso que conmovi&oacute; al mundo.</li>
+<li>El jefe de la diplomacia rusa, Serg&eacute;i Lavrov, apunt&oacute; por su parte el edificio serv&iacute;a de base a un batall&oacute;n nacionalista ucraniana.</li>
+<li>El edificio "hab&iacute;a sido tomado desde hace tiempo por el batall&oacute;n Azov y otros radicales. Todas las mujeres en trabajo de parto, las enfermedas y el personal de apoyo hab&iacute;a sido retirado", dijo Lavrov luego de contactos con el canciller de Ucrania, Dmytro Kuleba, en Turqu&iacute;a.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El presidente de Ucrania, Volodimir Zelenski, ya hab&iacute;a calificado el ataque como "un crimen de guerra".</li>
+<li>El jefe del gobierno de Espa&ntilde;a, Pedro S&aacute;nchez, acus&oacute; este jueves a Rusia de cometer probablemente "cr&iacute;menes de guerra" por sus ataques contra la "sociedad civil" en Ucrania.</li>
+</ul>
+}
+title Rusia bombardea hospital pediátrico en Ucrania
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/10-rusia-bombardea-hospital-pediatrico-en-ucrania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El jefe de la diplomacia de la Unión Europea (UE), Josep Borrell, calificó este jueves de "odioso crimen de guerra" el bombardeo a un hospital pediátrico en la ciudad ucraniana de Mariúpol, que dejó un saldo de tres muertos y 17 heridos.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Rusia bombardea hospital pediátrico en Ucrania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

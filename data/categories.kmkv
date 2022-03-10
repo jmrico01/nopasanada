@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/9-este-8m-mujeres-en-costa-rica-protestan-contra-candidatos-presidenciales-del-patriarcado
+        featured{array} /content/202203/10-congreso-de-ecuador-concede-amnistia-a-268-politicos-indigenas-y-ambientalistas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/9-costa-rica-avanza-en-ruta-para-obtener-credito-del-fmi
+        featured{array} /content/202203/10-rusia-bombardea-hospital-pediatrico-en-ucrania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/9-usuarios-de-airbnb-reservan-hospedajes-para-ayudar-a-ucranianos
+    featured{array} /content/202203/10-chile-celebra-primeras-bodas-igualitarias
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/9-tras-un-siglo-encuentran-los-restos-del-barco-de-ernest-shackleton-el-endurance
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/9-este-8m-mujeres-en-costa-rica-protestan-contra-candidatos-presidenciales-del-patriarcado
+    featured{array} /content/202203/10-rusia-bombardea-hospital-pediatrico-en-ucrania
 }
 other{kmkv} {
     name Other (Internal)
