@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202202/17-la-nanomedicina-o-como-usar-lo-diminuto-para-curar-grandes-males
+        featured{array} /content/202203/11-alemania-enfrentada-a-una-situacion-critica-por-aumento-de-casos-covid
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/10-congreso-de-ecuador-concede-amnistia-a-268-politicos-indigenas-y-ambientalistas
+        featured{array} /content/202203/11-zelenski-la-union-europea-tiene-que-hacer-mas-por-ucrania
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/10-rusia-bombardea-hospital-pediatrico-en-ucrania
+        featured{array} /content/202203/11-corea-del-norte-planea-lanzar-un-enorme-misil-en-abril
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/10-chile-celebra-primeras-bodas-igualitarias
+    featured{array} /content/202203/11-rusia-inicia-acciones-contra-meta-por-instar-al-asesinato-de-rusos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/9-tras-un-siglo-encuentran-los-restos-del-barco-de-ernest-shackleton-el-endurance
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/10-rusia-bombardea-hospital-pediatrico-en-ucrania
+    featured{array} /content/202203/11-zelenski-la-union-europea-tiene-que-hacer-mas-por-ucrania
 }
 other{kmkv} {
     name Other (Internal)
