@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/11-zelenski-la-union-europea-tiene-que-hacer-mas-por-ucrania
+        featured{array} /content/202203/14-ucrania-inicia-nueva-ronda-de-conversaciones-dificiles-con-rusia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/11-corea-del-norte-planea-lanzar-un-enorme-misil-en-abril
+        featured{array} /content/202203/14-taiwain-entrena-reservistas-bajo-amenazante-sombra-de-invasion-a-ucrania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/11-rusia-inicia-acciones-contra-meta-por-instar-al-asesinato-de-rusos
+    featured{array} /content/202203/14-chernobil-vuelve-a-quedarse-sin-electricidad
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/9-tras-un-siglo-encuentran-los-restos-del-barco-de-ernest-shackleton-el-endurance
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/11-zelenski-la-union-europea-tiene-que-hacer-mas-por-ucrania
+    featured{array} /content/202203/14-ucrania-inicia-nueva-ronda-de-conversaciones-dificiles-con-rusia
 }
 other{kmkv} {
     name Other (Internal)
