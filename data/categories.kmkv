@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/14-ucrania-inicia-nueva-ronda-de-conversaciones-dificiles-con-rusia
+        featured{array} /content/202203/15-la-onu-denuncia-crimenes-de-iesa-humanidad-en-birmania-tras-golpe-militar
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/14-taiwain-entrena-reservistas-bajo-amenazante-sombra-de-invasion-a-ucrania
+        featured{array} /content/202203/15-rusia-dice-que-recibio-garantias-de-eeuu-sobre-acuerdo-nuclear-con-iran
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/14-chernobil-vuelve-a-quedarse-sin-electricidad
+    featured{array} /content/202203/15-occidente-presiona-a-china-para-que-deje-de-apoyar-a-rusia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/9-tras-un-siglo-encuentran-los-restos-del-barco-de-ernest-shackleton-el-endurance
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/14-ucrania-inicia-nueva-ronda-de-conversaciones-dificiles-con-rusia
+    featured{array} /content/202203/15-mas-de-tres-millones-de-personas-han-huido-de-la-guerra-en-ucrania
 }
 other{kmkv} {
     name Other (Internal)

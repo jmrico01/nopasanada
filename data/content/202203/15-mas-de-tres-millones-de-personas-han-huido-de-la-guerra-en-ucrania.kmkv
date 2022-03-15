@@ -1,0 +1,44 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Mas de tres millones de personas han huido de Ucrania desde que Rusia iniciara la invasi&oacute;n del pa&iacute;s el 24 de febrero, indic&oacute; este martes un organismo de la ONU.</li>
+<li>"Hemos llegado a la cifra de tres millones de personas", asegur&oacute; Paul Dillon, portavoz de la Organizaci&oacute;n Internacional para las Migraciones (OIM), a la prensa en Ginebra.</li>
+<li>De este total, 1,4 millones son ni&ntilde;os, seg&uacute;n la Unicef, y entre ellos tambi&eacute;n hay 157.000 ciudadanos de otros pa&iacute;ses que huyeron de Ucrania, seg&uacute;n la OIM.</li>
+<li>Polonia es el pa&iacute;s que m&aacute;s refugiados de Ucrania ha recibido. En total, 1,79 millones de personas encontraron refugio en Polonia desde el 24 de febrero, seg&uacute;n el Alto Comisionado de la ONU para los Refugiados (ACNUR).</li>
+<li>Rumania, Hungr&iacute;a y Moldavia tambi&eacute;n han acogido a un n&uacute;mero importante de ucranianos que huyen de la ofensiva lanzada por Rusia el 24 de febrero.</li>
+</ul>
+}
+title Más de tres millones de personas han huido de la guerra en Ucrania
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/15-mas-de-tres-millones-de-personas-han-huido-de-la-guerra-en-ucrania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Mas de tres millones de personas han huido de Ucrania desde que Rusia iniciara la invasión del país el 24 de febrero, indicó este martes un organismo de la ONU.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Más de tres millones de personas han huido de la guerra en Ucrania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
