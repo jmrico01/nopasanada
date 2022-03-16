@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202203/3-australia-ordena-evacuar-a-200000-personas-por-tormenta
+        featured{array} /content/202203/16-tras-un-siglo-biologos-de-ecuador-captan-canto-de-un-sapo-considerado-mudo
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/15-la-onu-denuncia-crimenes-de-iesa-humanidad-en-birmania-tras-golpe-militar
+        featured{array} /content/202203/16-zelenski-suplica-al-congreso-de-eeuu-una-zona-de-exclusion-aerea-sobre-ucrania
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/15-rusia-dice-que-recibio-garantias-de-eeuu-sobre-acuerdo-nuclear-con-iran
+        featured{array} /content/202203/16-sismo-de-magnitud-7-3-y-alerta-de-tsunami-en-el-este-de-japon
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/15-occidente-presiona-a-china-para-que-deje-de-apoyar-a-rusia
+    featured{array} /content/202203/16-regulador-ruso-de-telecomunicaciones-bloquea-las-paginas-web-de-al-menos-15-medios
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/9-tras-un-siglo-encuentran-los-restos-del-barco-de-ernest-shackleton-el-endurance
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/15-mas-de-tres-millones-de-personas-han-huido-de-la-guerra-en-ucrania
+    featured{array} /content/202203/16-regulador-ruso-de-telecomunicaciones-bloquea-las-paginas-web-de-al-menos-15-medios
 }
 other{kmkv} {
     name Other (Internal)
