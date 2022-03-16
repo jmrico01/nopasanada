@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El regulador ruso de telecomunicaciones Roskomnadzor bloque&oacute; las p&aacute;ginas de al menos 15 medios, constat&oacute; el mi&eacute;rcoles la AFP, en momentos en que Mosc&uacute; refuerza su control sobre las informaciones publicadas en l&iacute;nea sobre el conflicto en Ucrania.</li>
+<li>Los sitios del medio de investigaci&oacute;n Bellingcat, de medios locales rusos y de medios en ruso con sede en Israel y en Ucrania eran inaccesibles el mi&eacute;rcoles en Rusia sin red privada virtual (VPN), constataron periodistas de la AFP.</li>
+<li>Estas p&aacute;ginas aparecen adem&aacute;s en la lista oficial de las p&aacute;ginas bloqueadas por Roskomnadzor.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Entre las p&aacute;ginas con sede en Rusia que fueron bloqueadas est&aacute; el medio independiente Kavkazki Ouzel (Kavkaz-uzel.eu), que cubre el C&aacute;ucaso, y un medio regional basado en los Urales (permdaily.ru).</li>
+<li>Roskomnadzor suspendi&oacute; tambi&eacute;n el acceso a dos medios rus&oacute;fonos con sede en Israel, donde hay una importante comunidad que migr&oacute; de la antigua Uni&oacute;n Sovi&eacute;tica: 9 TV Channel Israel (www.9tv.co.il) y Vesty Israel (www.vesty.co.il).</li>
+<li>Tambi&eacute;n fueron bloqueados medios ucranianos (novosti.dn.ua; bukinfo.ua) y uno de Estonia, que tiene versi&oacute;n en ruso (Postimees).</li>
+<li>Desde el inicio de la ofensiva contra Ucrania el 24 de febrero, las autoridades rusas multiplican sus esfuerzos para controlar las informaciones publicadas en internet.</li>
+<li>Entre otros, se han bloqueado las redes estadounidenses Twitter, Facebook e Instagram, as&iacute; como otros medios rus&oacute;fonos cr&iacute;ticos con el Kremlin.</li>
+</ul>
+}
+title Regulador ruso de telecomunicaciones bloquea las páginas web de al menos 15 medios
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/16-regulador-ruso-de-telecomunicaciones-bloquea-las-paginas-web-de-al-menos-15-medios.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El regulador ruso de telecomunicaciones Roskomnadzor bloqueó las páginas de al menos 15 medios, constató el miércoles la AFP, en momentos en que Moscú refuerza su control sobre las informaciones publicadas en línea sobre el conflicto en Ucrania.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Regulador ruso de telecomunicaciones bloquea las páginas web de al menos 15 medios
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

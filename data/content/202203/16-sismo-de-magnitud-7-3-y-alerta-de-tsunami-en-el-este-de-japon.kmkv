@@ -1,0 +1,42 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete</a><a href="https://mailchi.mp/3eef86616803/nopasanada"><strong> a</strong> nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Un sismo de magnitud 7,3 sacudi&oacute; este mi&eacute;rcoles por la noche el este de Jap&oacute;n, remeciendo Tokio, y provoc&oacute; un alerta de tsunami en el litoral noreste del archipi&eacute;lago, inform&oacute; la Agencia Meteorol&oacute;gica nipona (JMA).</li>
+<li>El temblor, que dej&oacute; a dos millone de personas sin electricidad, se registr&oacute; a las 23H36 locales (14H36 GMY) frente a las costas de la regi&oacute;n de Fukushima, a 60 km de profundidad, y dio lugar a un alerta de tsunami con olas de hasta un metro en la regi&oacute;n nororiental.</li>
+</ul>
+<p><em>Noticia en desarrollo...</em></p>
+}
+title Sismo de magnitud 7,3 y alerta de tsunami en el este de Japón
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/16-sismo-de-magnitud-7-3-y-alerta-de-tsunami-en-el-este-de-japon.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un sismo de magnitud 7,3 sacudió este miércoles por la noche el este de Japón, remeciendo Tokio, y provocó un alerta de tsunami en el litoral noreste del archipiélago, informó la Agencia Meteorológica nipona (JMA).
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Japón<b>
+    text1 Sismo de magnitud 7,3 y alerta de tsunami en el este de Japón
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
