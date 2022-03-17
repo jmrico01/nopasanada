@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La Agencia Espacial Europea (ESA) confirm&oacute; la suspensi&oacute;n de la misi&oacute;n ruso-europea Exo-Mars y busca alternativas para llevar a cabo otras cuatro misiones, tras la suspensi&oacute;n de la cooperaci&oacute;n con la agencia espacial rusa Roskosmos debido a la guerra en Ucrania.</li>
+<li>En un comunicado, el consejo de gobierno de la ESA encarg&oacute; a su director que lleve a cabo un estudio r&aacute;pido para relanzar ExoMars y buscar alternativas para las otras misiones.&nbsp;</li>
+<li>ExoMars ten&iacute;a previsto lanzar en septiembre un rover con destino Marte, con ayuda de una lanzadera y una estructura de aterrizaje rusas.</li>
+<li>Los lanzamientos de misiones de la ESA depend&iacute;an hasta ahora del uso de la lanzadera rusa Soyuz desde el puerto espacial europeo de Kur&uacute;, en la Guyana Francesa.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Roskosmos suspendi&oacute; los lanzamientos de Soyuz desde Kur&uacute; en reacci&oacute;n a las sanciones europeas impuestas tras la invasi&oacute;n rusa de Ucrania. Tambi&eacute;n ces&oacute; a su equipo, compuesto por unos 100 ingenieros y t&eacute;cnicos.&nbsp;</li>
+<li>Inicialmente previsto en 2020, el lanzamiento de Exo-Mars fue aplazado a septiembre de 2022 por la pandemia.&nbsp;</li>
+<li>El rover de la ESA, Rosalind Franklin, deb&iacute;a ser transportado por una nave Soyuz desde Baikonur en Kazajist&aacute;n y llegar a Marte gracias a la plataforma de aterrizaje "Kazachok", tambi&eacute;n rusa.&nbsp;</li>
+<li>Tambi&eacute;n se suspendieron las otras misiones de la ESA que dependen del uso de la lanzadera Soyuz. Se trata de dos sat&eacute;lites destinados a la constelaci&oacute;n europea de localizaci&oacute;n Galileo, de la misi&oacute;n cient&iacute;fica Euclid y de la misi&oacute;n europea-japonesa de observaci&oacute;n de la tierra EarthCARE.</li>
+</ul>
+}
+title Misión ExoMars queda suspendida por el fin de cooperación con Rusia
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/17-mision-exomars-queda-suspendida-por-el-fin-de-cooperacion-con-rusia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La Agencia Espacial Europea (ESA) confirmó la suspensión de la misión ruso-europea Exo-Mars y busca alternativas para llevar a cabo otras cuatro misiones, tras la suspensión de la cooperación con la agencia espacial rusa Roskosmos debido a la guerra en Ucrania.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>ExoMars<b>
+    text1 Misión ExoMars queda suspendida por el fin de cooperación con Rusia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

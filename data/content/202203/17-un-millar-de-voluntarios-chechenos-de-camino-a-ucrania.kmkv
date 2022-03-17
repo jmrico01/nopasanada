@@ -1,0 +1,41 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Un "millar" de voluntarios chechenos van de camino a Ucrania para combatir, anunci&oacute; este jueves el dirigente de la rep&uacute;blica rusa de Chechenia, Ramzan Kadyrov, tres semanas despu&eacute;s de que empezara la ofensiva de Rusia.</li>
+<li>En su cuenta de Telegram, Kadyrov afirm&oacute; que uno de sus allegados, Apti Alaudinov, est&aacute; "al frente de un millar de voluntarios de la rep&uacute;blica chechena" que van "de camino para participar en la operaci&oacute;n especial para la desnazificaci&oacute;n y la desmilitarizaci&oacute;n de Ucrania".</li>
+</ul>
+}
+title Un "millar" de voluntarios chechenos de camino a Ucrania
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/17-un-millar-de-voluntarios-chechenos-de-camino-a-ucrania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un "millar" de voluntarios chechenos van de camino a Ucrania para combatir, anunció este jueves el dirigente de la república rusa de Chechenia, Ramzan Kadyrov, tres semanas después de que empezara la ofensiva de Rusia.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Un "millar" de voluntarios chechenos de camino a Ucrania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

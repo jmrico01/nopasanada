@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/16-sismo-de-magnitud-7-3-y-alerta-de-tsunami-en-el-este-de-japon
+        featured{array} /content/202203/17-unesco-dara-cascos-y-chalecos-antibalas-a-periodistas-en-ucrania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/16-regulador-ruso-de-telecomunicaciones-bloquea-las-paginas-web-de-al-menos-15-medios
+    featured{array} /content/202203/17-unesco-dara-cascos-y-chalecos-antibalas-a-periodistas-en-ucrania
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/9-tras-un-siglo-encuentran-los-restos-del-barco-de-ernest-shackleton-el-endurance
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/16-regulador-ruso-de-telecomunicaciones-bloquea-las-paginas-web-de-al-menos-15-medios
+    featured{array} /content/202203/17-mision-exomars-queda-suspendida-por-el-fin-de-cooperacion-con-rusia
 }
 other{kmkv} {
     name Other (Internal)
