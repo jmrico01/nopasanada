@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/16-zelenski-suplica-al-congreso-de-eeuu-una-zona-de-exclusion-aerea-sobre-ucrania
+        featured{array} /content/202203/18-biden-habla-con-xi-para-empujar-a-china-a-distanciarse-de-moscu
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/17-unesco-dara-cascos-y-chalecos-antibalas-a-periodistas-en-ucrania
+        featured{array} /content/202203/18-rusia-grava-a-google-y-youtube-por-actividades-terroristas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/17-unesco-dara-cascos-y-chalecos-antibalas-a-periodistas-en-ucrania
+    featured{array} /content/202203/18-mas-de-220-muertos-en-tres-semanas-en-kiev
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/9-tras-un-siglo-encuentran-los-restos-del-barco-de-ernest-shackleton-el-endurance
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/17-mision-exomars-queda-suspendida-por-el-fin-de-cooperacion-con-rusia
+    featured{array} /content/202203/18-biden-habla-con-xi-para-empujar-a-china-a-distanciarse-de-moscu
 }
 other{kmkv} {
     name Other (Internal)

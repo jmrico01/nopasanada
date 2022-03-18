@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Desde el comienzo de la invasi&oacute;n rusa de Ucrania hace tres semanas, 222 personas, incluidos 56 civiles, y de estos, cuatro ni&ntilde;os, han muerto en Kiev, indic&oacute; el viernes el ayuntamiento de la capital ucraniana.</li>
+<li>Tambi&eacute;n han resultado heridas en esta ciudad desde el inicio de la ofensiva el 24 de febrero un total de 889 personas, incluidos 241 civiles, dijeron las autoridades locales en Telegram.</li>
+<li>Entre los heridos se encuentran 18 ni&ntilde;os, tres conductores de ambulancias y un m&eacute;dico de urgencias, seg&uacute;n el ayuntamiento, que tambi&eacute;n report&oacute; da&ntilde;os en 36 edificios residenciales y diez escuelas.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las tropas rusas han tomado el control de algunas &aacute;reas alrededor de la capital, que esperan rodear por completo eventualmente, si bien por el momento su avance se ha estancado, seg&uacute;n el ej&eacute;rcito ucraniano.</li>
+<li>Kiev acusa a las fuerzas rusas de realizar ataques casi diarios contra &aacute;reas residenciales de la capital, la mayor&iacute;a de las veces al amanecer, una t&aacute;ctica denunciada por las autoridades ucranianas como dirigida a aterrorizar a la poblaci&oacute;n y desmoralizar a quienes defienden la ciudad.</li>
+<li>Kiev ten&iacute;a cerca 3,5 millones de habitantes antes de la guerra, pero casi la mitad ha abandonado la ciudad desde el comienzo de la invasi&oacute;n, seg&uacute;n estimaciones de las autoridades ucranianas.</li>
+</ul>
+}
+title Más de 220 muertos en tres semanas en Kiev
+day 18
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/18-mas-de-220-muertos-en-tres-semanas-en-kiev.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Desde el comienzo de la invasión rusa de Ucrania hace tres semanas, 222 personas, incluidos 56 civiles, y de estos, cuatro niños, han muerto en Kiev, indicó el viernes el ayuntamiento de la capital ucraniana.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Más de 220 muertos en tres semanas en Kiev
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
