@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/18-biden-habla-con-xi-para-empujar-a-china-a-distanciarse-de-moscu
+        featured{array} /content/202203/21-quienes-son-los-rohinyas
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/18-rusia-grava-a-google-y-youtube-por-actividades-terroristas
+        featured{array} /content/202203/21-guerra-entra-en-kiev-con-bombardeo-de-un-centro-comercial
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/18-mas-de-220-muertos-en-tres-semanas-en-kiev
+    featured{array} /content/202203/21-boeing-737-con-132-pasajeros-se-estrell-al-suroeste-de-china
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/9-tras-un-siglo-encuentran-los-restos-del-barco-de-ernest-shackleton-el-endurance
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/18-biden-habla-con-xi-para-empujar-a-china-a-distanciarse-de-moscu
+    featured{array} /content/202203/21-rusia-prohibe-facebook-e-instagram-por-extremismo
 }
 other{kmkv} {
     name Other (Internal)
