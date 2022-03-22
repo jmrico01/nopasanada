@@ -59,7 +59,7 @@ featured{kmkv} {
 type article
 subtitle 
 month 03
-tags{array} noticias-loimportante
+tags{array} noticias-loimportante,noticias-politica
 videoID 
 titlePoster 
 color #FBFF09
