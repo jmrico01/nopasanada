@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>M&aacute;s de 3,5 millones de personas han huido de Ucrania desde el inicio de la invasi&oacute;n rusa el 24 de febrero, seg&uacute;n un recuento de la ONU publicado el martes, de los que alrededor del 90% son mujeres y ni&ntilde;os.&nbsp;</li>
+<li>El Alto Comisionado para los Refugiados (ACNUR) contabiliz&oacute; el martes a las 12h00 GMT exactamente 3.557.245 refugiados ucranianos, 67.601 personas m&aacute;s que el lunes.&nbsp;</li>
+<li>"Este es verdaderamente otro hito tr&aacute;gico para el pueblo ucraniano" y se ha producido "en poco menos de un mes", dijo el portavoz de ACNUR, Matthew Saltmarsh, a los periodistas en Ginebra. Europa no hab&iacute;a visto una afluencia tan r&aacute;pida de refugiados desde la Segunda Guerra Mundial.&nbsp;</li>
+<li>Seg&uacute;n Unicef, m&aacute;s de 1,5 millones de ni&ntilde;os se encuentran entre los que huyeron. Esto ha llevado a las agencias de la ONU, pero tambi&eacute;n a Europol, a advertir repetidamente sobre los riesgos de explotaci&oacute;n de mujeres y menores.</li>
+</ul>
+<p><strong>- Refugios -</strong></p>
+<p>Solo Polonia alberga a m&aacute;s de la mitad de todos los refugiados: en torno a seis de cada 10. En total, desde el inicio de la invasi&oacute;n, 2.113.554 personas se han refugiado en este pa&iacute;s, seg&uacute;n el recuento de ACNUR. De ellos, "alrededor de dos tercios quieren quedarse en Polonia&rdquo;, dijo el martes a los periodistas en Ginebra la representante de la Organizaci&oacute;n Mundial de la Salud en Ucrania, Paloma Cuchi.&nbsp;</p>
+<p>Le sigue Ruman&iacute;a, con 543.308 personas, y Moldavia, peque&ntilde;o pa&iacute;s de 2,6 millones de habitantes y uno de los m&aacute;s pobres de Europa, en el que entraron 367.913 personas. Pero en el caso de estos dos Estados, muchos refugiados pretenden seguir adelante.</p>
+<p>Por su parte, Hungr&iacute;a ha recibido 317.863 refugiados hasta el momento, seg&uacute;n la &uacute;ltima actualizaci&oacute;n de Acnur a 21 de marzo. Asimismo, 253.592 ucranianos se refugiaron en Eslovaquia y casi la misma cifra, 252.376, lo hicieron en Rusia.</p>
+<p>La agencia de la ONU se&ntilde;al&oacute; asimismo que otras 113.000 personas hab&iacute;an cruzado al mismo pa&iacute;s desde los territorios separatistas prorrusos de Donetsk y Lugansk.</p>
+}
+title Más de 3,5 millones de refugiados han huido de Ucrania según la ONU
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/22-ucrania-trata-de-evacuar-civiles-y-pone-kiev-en-toque-de-queda.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Más de 3,5 millones de personas han huido de Ucrania desde el inicio de la invasión rusa el 24 de febrero, según un recuento de la ONU publicado el martes, de los que alrededor del 90% son mujeres y niños.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Más de 3,5 millones de refugiados han huido de Ucrania según la ONU
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
