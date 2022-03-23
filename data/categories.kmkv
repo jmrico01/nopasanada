@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/22-ucrania-trata-de-evacuar-civiles-y-pone-kiev-en-toque-de-queda
+        featured{array} /content/202203/23-la-otan-quiere-desplegar-cuatro-nuevos-grupos-de-combate-en-paises-de-su-flanco-oriental
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/22-opositor-ruso-navalni-declarado-culpable-por-fraude-y-desacato
+        featured{array} /content/202203/23-biden-viaja-a-europa-para-reforzar-la-unidad-de-occidente-frente-a-rusia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/22-autoridades-chinas-dicen-no-haber-encontrado-supervivientes-del-accidente-de-avion
+    featured{array} /content/202203/23-rohinyas-esperan-justicia-tras-reconocimiento-de-eeuu-por-genocidio-en-birmania
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/9-tras-un-siglo-encuentran-los-restos-del-barco-de-ernest-shackleton-el-endurance
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/22-autoridades-chinas-dicen-no-haber-encontrado-supervivientes-del-accidente-de-avion
+    featured{array} /content/202203/23-la-otan-quiere-desplegar-cuatro-nuevos-grupos-de-combate-en-paises-de-su-flanco-oriental
 }
 other{kmkv} {
     name Other (Internal)
