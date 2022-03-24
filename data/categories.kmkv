@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/23-la-otan-quiere-desplegar-cuatro-nuevos-grupos-de-combate-en-paises-de-su-flanco-oriental
+        featured{array} /content/202203/24-cumbres-occidentales-en-bruselas-tras-un-mes-de-guerra-en-ucrania
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/23-biden-viaja-a-europa-para-reforzar-la-unidad-de-occidente-frente-a-rusia
+        featured{array} /content/202203/24-corea-del-norte-dispara-misil-intercontinental-en-su-ensayo-mas-potente-desde-2017
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/23-rohinyas-esperan-justicia-tras-reconocimiento-de-eeuu-por-genocidio-en-birmania
+    featured{array} /content/202203/24-corea-del-norte-dispara-misil-intercontinental-en-su-ensayo-mas-potente-desde-2017
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/9-tras-un-siglo-encuentran-los-restos-del-barco-de-ernest-shackleton-el-endurance
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/23-la-otan-quiere-desplegar-cuatro-nuevos-grupos-de-combate-en-paises-de-su-flanco-oriental
+    featured{array} /content/202203/24-las-pistas-para-intentar-hallar-un-tratamiento-definitivo-contra-el-sida
 }
 other{kmkv} {
     name Other (Internal)
