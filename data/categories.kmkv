@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/24-cumbres-occidentales-en-bruselas-tras-un-mes-de-guerra-en-ucrania
+        featured{array} /content/202203/25-ue-y-eeuu-anuncian-medidas-para-reducir-dependencia-europea-del-gas-ruso
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/24-corea-del-norte-dispara-misil-intercontinental-en-su-ensayo-mas-potente-desde-2017
+        featured{array} /content/202203/25-ejercito-ruso-admite-1351-muertos-en-sus-filas-en-ucrania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/24-corea-del-norte-dispara-misil-intercontinental-en-su-ensayo-mas-potente-desde-2017
+    featured{array} /content/202203/25-costa-rica-se-mete-en-la-pelea-por-pase-directo-a-catar-2022
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202203/9-tras-un-siglo-encuentran-los-restos-del-barco-de-ernest-shackleton-el-endurance
+        featured{array} /content/202203/25-nominados-al-oscar-en-las-principales-categorias
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/24-las-pistas-para-intentar-hallar-un-tratamiento-definitivo-contra-el-sida
+    featured{array} /content/202203/25-nominados-al-oscar-en-las-principales-categorias
 }
 other{kmkv} {
     name Other (Internal)

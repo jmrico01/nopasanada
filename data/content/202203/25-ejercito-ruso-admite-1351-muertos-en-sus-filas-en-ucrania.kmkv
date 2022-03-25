@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Rusia reconoci&oacute; el viernes que 1.351 soldados de sus filas murieron desde el inicio de su ofensiva militar en Ucrania hace un mes, y acus&oacute; a los pa&iacute;ses occidentales de cometer un "error" al entregar armas a Kiev.</li>
+<li>"Durante la operaci&oacute;n militar especial, 1.351 militares murieron y 3.825 resultaron heridos", declar&oacute; el jefe de Estado Mayor adjunto del ej&eacute;rcito, Sergu&eacute;i Rudskoy, en una rueda de prensa.</li>
+<li>El anterior balance oficial de Mosc&uacute; publicado el 2 de marzo contabilizaba 498 soldados rusos muertos en Ucrania, pero Kiev afirmaba que Rusia sufri&oacute; p&eacute;rdidas mucho m&aacute;s cuantiosas.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Rudskoy calific&oacute; como un "grave error" la entrega de armas a Ucrania por parte de los pa&iacute;ses occidentales.&nbsp;</li>
+<li>"Esto prolonga el conflicto, aumenta el n&uacute;mero de v&iacute;ctimas y no va a tener ninguna influencia en el resultado de la operaci&oacute;n", afirm&oacute; el militar.</li>
+<li>Adem&aacute;s, Rudskoy indic&oacute; que Rusia "responder&aacute; en consecuencia" si la OTAN instaura una zona de exclusi&oacute;n a&eacute;rea en Ucrania, una petici&oacute;n reiterada por Kiev desde hace varias semanas.</li>
+<li>En tanto, Mija&iacute;l Mizintsev, director del Centro Nacional de Gesti&oacute;n de la Defensa de Rusia inform&oacute; que Rusia ha recibido 419.736 refugiados de Ucrania desde el inicio de la operaci&oacute;n.</li>
+</ul>
+}
+title Ejército ruso admite 1.351 muertos en sus filas en Ucrania
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202203/headers/25-ejercito-ruso-admite-1351-muertos-en-sus-filas-en-ucrania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Rusia reconoció el viernes que 1.351 soldados de sus filas murieron desde el inicio de su ofensiva militar en Ucrania hace un mes, y acusó a los países occidentales de cometer un "error" al entregar armas a Kiev.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Ejército ruso admite 1.351 muertos en sus filas en Ucrania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
