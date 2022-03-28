@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/25-ue-y-eeuu-anuncian-medidas-para-reducir-dependencia-europea-del-gas-ruso
+        featured{array} /content/202203/28-nicaragua-ya-no-tiene-ningun-rasgo-de-democracia-dice-carlos-alvarado
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/25-ejercito-ruso-admite-1351-muertos-en-sus-filas-en-ucrania
+        featured{array} /content/202203/28-ucrania-advierte-de-la-catastrofica-situacion-de-mariupol-antes-de-negociaciones
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/25-costa-rica-se-mete-en-la-pelea-por-pase-directo-a-catar-2022
+    featured{array} /content/202203/28-costa-rica-vence-2-1-a-el-salvador-y-sigue-sonando-con-clasificar-a-catar-2022
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202203/25-nominados-al-oscar-en-las-principales-categorias
+        featured{array} /content/202203/28-estos-son-los-ganadores-del-premio-oscar
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/25-nominados-al-oscar-en-las-principales-categorias
+    featured{array} /content/202203/28-estos-son-los-ganadores-del-premio-oscar
 }
 other{kmkv} {
     name Other (Internal)
@@ -116,7 +116,7 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202202/22-federacion-de-futbol-de-eeuu-se-compromete-a-pagar-por-igual-a-hombres-y-mujeres
+        featured{array} /content/202203/28-costa-rica-vence-2-1-a-el-salvador-y-sigue-sonando-con-clasificar-a-catar-2022
     }
     displayOrder{array} 
     featured{array} /content/202006/23-real-madrid
