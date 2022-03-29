@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/28-nicaragua-ya-no-tiene-ningun-rasgo-de-democracia-dice-carlos-alvarado
+        featured{array} /content/202203/29-presidente-castillo-se-salva-de-ser-destituido-por-el-congreso-de-peru
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/28-ucrania-advierte-de-la-catastrofica-situacion-de-mariupol-antes-de-negociaciones
+        featured{array} /content/202203/29-ataques-rusos-contra-mariupol-son-un-crimen-contra-la-humanidad-dice-zelenski
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/28-costa-rica-vence-2-1-a-el-salvador-y-sigue-sonando-con-clasificar-a-catar-2022
+    featured{array} /content/202203/29-ansiedad-y-estantes-vacios-ante-aumento-de-casos-de-covid-19-en-shanghai
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/28-estos-son-los-ganadores-del-premio-oscar
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/28-estos-son-los-ganadores-del-premio-oscar
+    featured{array} /content/202203/29-ataques-rusos-contra-mariupol-son-un-crimen-contra-la-humanidad-dice-zelenski
 }
 other{kmkv} {
     name Other (Internal)
