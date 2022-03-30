@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202203/16-tras-un-siglo-biologos-de-ecuador-captan-canto-de-un-sapo-considerado-mudo
+        featured{array} /content/202203/30-inundaciones-en-el-mundo-costaron-82000-millones-de-dolares-en-2021
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/29-presidente-castillo-se-salva-de-ser-destituido-por-el-congreso-de-peru
+        featured{array} /content/202203/30-diputado-brasileno-se-atrinchera-en-congreso-y-desobedece-fallo-de-la-corte-suprema
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/29-ataques-rusos-contra-mariupol-son-un-crimen-contra-la-humanidad-dice-zelenski
+        featured{array} /content/202203/30-numero-de-refugiados-ucranianos-supera-los-4-millones
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/29-ansiedad-y-estantes-vacios-ante-aumento-de-casos-de-covid-19-en-shanghai
+    featured{array} /content/202203/30-miedo-y-dolor-en-israel-tras-atentado-cerca-de-tel-aviv
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/28-estos-son-los-ganadores-del-premio-oscar
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/29-ataques-rusos-contra-mariupol-son-un-crimen-contra-la-humanidad-dice-zelenski
+    featured{array} /content/202203/30-inundaciones-en-el-mundo-costaron-82000-millones-de-dolares-en-2021
 }
 other{kmkv} {
     name Other (Internal)
