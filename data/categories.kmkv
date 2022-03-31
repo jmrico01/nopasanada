@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/30-diputado-brasileno-se-atrinchera-en-congreso-y-desobedece-fallo-de-la-corte-suprema
+        featured{array} /content/202203/31-zelenski-exhorta-a-paises-bajos-a-estar-preparados-para-boicotear-energia-rusa
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/30-numero-de-refugiados-ucranianos-supera-los-4-millones
+        featured{array} /content/202203/31-gobierno-ucraniano-envia-45-autobuses-para-evacuar-civiles-de-mariupol
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/30-miedo-y-dolor-en-israel-tras-atentado-cerca-de-tel-aviv
+    featured{array} /content/202203/31-el-telescopio-hubble-detecta-la-estrella-mas-lejana-observada-hasta-ahora
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/28-estos-son-los-ganadores-del-premio-oscar
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/30-inundaciones-en-el-mundo-costaron-82000-millones-de-dolares-en-2021
+    featured{array} /content/202203/31-ciclista-transgenero-emily-bridges-no-elegible-para-carrera-femenina
 }
 other{kmkv} {
     name Other (Internal)
