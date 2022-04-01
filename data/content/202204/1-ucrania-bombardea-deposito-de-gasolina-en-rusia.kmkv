@@ -1,0 +1,58 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Dos helic&oacute;pteros ucranianos bombardearon un dep&oacute;sito de gasolina en territorio ruso en la localidad de B&eacute;lgorod, en el oeste de Rusia, a unos 40 km de la frontera con Ucrania, inform&oacute; el viernes el gobernador local.</li>
+<li>El Kremlin estim&oacute; que el ataque afectar&aacute; las negociaciones bilaterales para poner fin a la ofensiva en Ucrania.</li>
+<li>"Est&aacute; claro que no se puede considerar esto como algo que va a crear las condiciones apropiadas para la continuaci&oacute;n de las negociaciones", dijo Dmitri Peskov, portavoz de la presidencia rusa.</li>
+<li>El ministro de Relaciones Exteriores ucraniano Dmytro Kuleba afirm&oacute; por su parte que no pod&iacute;a confirmar o negar las informaciones de Mosc&uacute;. "Soy un civil", dijo a la prensa en Varsovia.</li>
+<li>Este ataque, el primero de este tipo por parte de la aviaci&oacute;n ucraniana si se confirma, tiene lugar luego de que Rusia afirmase en varias ocasiones que tiene un control total del espacio a&eacute;reo en Ucrania donde realiza lo que denomina una operaci&oacute;n militar especial.</li>
+<li>Seg&uacute;n indic&oacute; en su cuenta Telegram el gobernador de B&eacute;lgorod, Vyacheslav Gladkov, "hubo un incendio en el dep&oacute;sito de petr&oacute;leo debido a un bombardeo lanzado por dos helic&oacute;pteros militares ucranianos, que entraron a territorio ruso volando a baja altitud".</li>
+<li>En otro mensaje, el gobernador indico que los bomberos trabajaban para apagar el incendio y que dos empleados del dep&oacute;sito resultaron heridos. El ministerio ruso de Situaciones de Emergencia afirm&oacute; de su lado que 170 socorristas interven&iacute;an en el lugar.</li>
+<li>El ministerio public&oacute; un video que muestra a bomberos en trajes t&eacute;rmicos apagando las llamas. Dijo haber sido advertido del incendio a las 05H51 (02H51 GMT) y confirm&oacute; el balance de dos heridos.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El gigante energ&eacute;tico Rosneft, propietaria del dep&oacute;sito, inform&oacute; a las agencias rusas que evacu&oacute; a su personal en el lugar.</li>
+<li>Por otra parte, el director de una imprenta cerca de B&eacute;lgorod, Konstantin Lajnov, asegur&oacute; que su empresa fue alcanzada por el fuego de los helic&oacute;pteros.</li>
+<li>"Helic&oacute;pteros dispararon cohetes contra nosotros (...) las ventanas est&aacute;n da&ntilde;adas, el equipo est&aacute; destruido o da&ntilde;ado (...) el techo est&aacute; da&ntilde;ado", dijo a la agencia estatal TASS.</li>
+<li>Tras el ataque, medios de comunicaci&oacute;n locales informaron de filas de veh&iacute;culos en las gasolineras, pero el ministro de Energ&iacute;a, Nikolai Shulguinov, asegur&oacute; que no habr&iacute;a escasez de combustible.</li>
+<li>En las redes sociales se difundieron videos, supuestamente fueron grabados en B&eacute;lgorod, que muestran un helic&oacute;ptero lanzando misiles, y luego la explosi&oacute;n.</li>
+<li>El mi&eacute;rcoles se registraron explosiones en un dep&oacute;sito de municiones de la regi&oacute;n de B&eacute;lgorod, sin que las autoridades rusas explicasen claramente la raz&oacute;n del incidente.</li>
+<li>B&eacute;lgorod est&aacute; ubicada unos 80 km al norte de J&aacute;rkov, una gran ciudad ucraniana atacada por las fuerzas rusas desde el inicio de la ofensiva del Kremlin.</li>
+<li>El 25 de febrero, medios locales y ucranianos informaron de un ataque de Ucrania contra una base a&eacute;rea rusa cerca de Rostov, sin que haya sido confirmado oficialmente.</li>
+</ul>
+}
+title Ucrania bombardea depósito de gasolina en Rusia
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202204/headers/1-ucrania-bombardea-deposito-de-gasolina-en-rusia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Dos helicópteros ucranianos bombardearon un depósito de gasolina en territorio ruso en la localidad de Bélgorod, en el oeste de Rusia, a unos 40 km de la frontera con Ucrania, informó el viernes el gobernador local.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Ucrania bombardea depósito de gasolina en Rusia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

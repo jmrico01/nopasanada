@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202203/31-zelenski-exhorta-a-paises-bajos-a-estar-preparados-para-boicotear-energia-rusa
+        featured{array} /content/202204/1-la-furia-racista-tras-el-ascenso-de-candidata-afro-en-colombia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202203/31-gobierno-ucraniano-envia-45-autobuses-para-evacuar-civiles-de-mariupol
+        featured{array} /content/202204/1-ucrania-bombardea-deposito-de-gasolina-en-rusia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202203/31-el-telescopio-hubble-detecta-la-estrella-mas-lejana-observada-hasta-ahora
+    featured{array} /content/202204/1-costa-rica-va-a-las-urnas-para-elegir-presidente
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/28-estos-son-los-ganadores-del-premio-oscar
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202203/31-ciclista-transgenero-emily-bridges-no-elegible-para-carrera-femenina
+    featured{array} /content/202204/1-costa-rica-va-a-las-urnas-para-elegir-presidente
 }
 other{kmkv} {
     name Other (Internal)
