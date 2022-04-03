@@ -1,3 +1,46 @@
+#livestream {
+    width: 100%;
+    height: 50vw;
+}
+
+#livestreamLeft {
+    display: block;
+    margin: 0;
+    width: 100%;
+    height: 50%;
+}
+
+#livestreamLeft > iframe {
+    width: 100%;
+    height: 70%;
+}
+
+#livestreamText {
+    display: block;
+    width: 100%;
+    height: 30%;
+    text-align: center;
+}
+#livestreamText1 {
+    font-size: 5vw;
+    letter-spacing: 0.1vw;
+    line-height: 5vw;
+}
+#livestreamText2 {
+    font-size: 3vw;
+    letter-spacing: 0.05vw;
+}
+
+#livestreamRight {
+    display: block;
+    width: 100%;
+    height: 50%;
+}
+#livestreamRight > iframe {
+    width: 100%;
+    height: 100%;
+}
+
 #featuredPretitle {
     font-size: 4vw;
     letter-spacing: 0.15vw;

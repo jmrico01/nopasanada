@@ -22,6 +22,55 @@
     position: relative;
 }
 
+#livestream {
+    width: 100%;
+    height: 50vw;
+    color: #fff;
+    background-color: #000;
+}
+
+#livestreamLeft {
+    display: inline-block;
+    margin-left: 5%;
+    width: 65%;
+    height: 75%;
+    vertical-align: top;
+}
+#livestreamLeft > iframe {
+    width: 100%;
+    height: 100%;
+}
+
+#livestreamText {
+    display: inline-block;
+    margin-top: 2vw;
+}
+#livestreamText1 {
+    font-family: eurostile-extended, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 3.5vw;
+    letter-spacing: 0.1vw;
+    line-height: 3.5vw;
+}
+#livestreamText2 {
+    font-family: franklin-gothic-urw, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6vw;
+    letter-spacing: 0.05vw;
+}
+
+#livestreamRight {
+    display: inline-block;
+    width: 25%;
+    height: 100%;
+}
+#livestreamRight > iframe {
+    width: 100%;
+    height: 100%;
+}
+
 #landingImageCycler {
     position: absolute;
     top: 0;

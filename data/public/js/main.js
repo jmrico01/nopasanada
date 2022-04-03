@@ -162,14 +162,24 @@ function OnAspectChanged(narrow)
     }
 }
 
+function onResizeForLivestream()
+{
+    const livestream = document.getElementById("livestream");
+    const header = document.getElementById("header");
+    const height = window.innerHeight;
+    const livestreamHeight = height - header.offsetHeight;
+    livestream.style.height = livestreamHeight.toString() + "px";
+}
+
 function OnResize()
 {
-    // Do nothing. Yay!
+    onResizeForLivestream();
 }
 
 function HandleScroll()
 {
     let headerOpacity = Math.min(document.documentElement.scrollTop / window.innerHeight, 1.0);
+    headerOpacity = 1.0;
     let colorString = "rgba(0%, 0%, 0%, " + headerOpacity * 100.0 + "%)";
     $("#header").css("background-color", colorString);
     $(".headerSubcategories").css("background-color", colorString);
@@ -325,35 +335,35 @@ function OnAllEntriesAndCategoriesLoaded(allEntries, categories)
     }
 
     // Fill global featured images, link up to HTML
-    featuredImages_ = {};
-    for (let category in featuredEntries_) {
-        featuredImages_[category] = [];
-        for (let i = 0; i < featuredEntries_[category].length; i++) {
-            const entry = featuredEntries_[category][i];
-            let images = [];
-            for (let j = 0; j < entry.images.length; j++) {
-                let img = new Image;
-                img._npn_loaded = false;
-                img._npn_loading = false;
-                img.divId = "featuredInfo-" + category + "-" + featuredImages_[category].length.toString() + "-" + j.toString();
-                img.imageUrl = entry.images[j];
-                images.push(img);
-                $("#landingImageCycler").append("<img id=\"" + img.divId + "\" class=\"featuredImage\" src=\"\">");
-            }
-            featuredImages_[category].push(images);
-        }
-    }
+    // featuredImages_ = {};
+    // for (let category in featuredEntries_) {
+    //     featuredImages_[category] = [];
+    //     for (let i = 0; i < featuredEntries_[category].length; i++) {
+    //         const entry = featuredEntries_[category][i];
+    //         let images = [];
+    //         for (let j = 0; j < entry.images.length; j++) {
+    //             let img = new Image;
+    //             img._npn_loaded = false;
+    //             img._npn_loading = false;
+    //             img.divId = "featuredInfo-" + category + "-" + featuredImages_[category].length.toString() + "-" + j.toString();
+    //             img.imageUrl = entry.images[j];
+    //             images.push(img);
+    //             $("#landingImageCycler").append("<img id=\"" + img.divId + "\" class=\"featuredImage\" src=\"\">");
+    //         }
+    //         featuredImages_[category].push(images);
+    //     }
+    // }
 
-    $(".featuredImage").hide();
+    // $(".featuredImage").hide();
 
-    let startCategory = GetCurrentCategory();
-    SetFeaturedInfo(featuredEntries_[startCategory][0]);
-    let startImageSet = featuredImages_[startCategory][0];
-    LoadFeaturedImageSetIfNotLoaded(startImageSet, function() {
-        SetFeaturedImageSet(startImageSet);
-        $(".featuredImage").show();
-        LoadAllFeaturedImageSets();
-    });
+    // let startCategory = GetCurrentCategory();
+    // SetFeaturedInfo(featuredEntries_[startCategory][0]);
+    // let startImageSet = featuredImages_[startCategory][0];
+    // LoadFeaturedImageSetIfNotLoaded(startImageSet, function() {
+    //     SetFeaturedImageSet(startImageSet);
+    //     $(".featuredImage").show();
+    //     LoadAllFeaturedImageSets();
+    // });
 }
 
 function ResetEntries(entries)
@@ -470,6 +480,11 @@ $(document).ready(function() {
     recentVideoTemplate_ = $("#recentVideoTemplate").html();
     $("#recentVideoTemplate").remove();
     $("#collectionArrowLeftButton").hide();
+
+    const domain = window.location.hostname;
+    if (domain.includes("nopasanada.com") || domain === "localhost") {
+        document.getElementById("livestreamEmbedChat").setAttribute("src", "https://www.youtube.com/live_chat?v=PUl-l4ubS3M&embed_domain=" + domain);
+    }
 
     $.ajax({
         type: "GET",
