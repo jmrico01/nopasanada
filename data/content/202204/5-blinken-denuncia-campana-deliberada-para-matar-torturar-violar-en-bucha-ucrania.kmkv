@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El secretario de Estado estadounidense, Antony Blinken, denunci&oacute; este martes una "campa&ntilde;a deliberada para matar, tortura, violar" en la ciudad ucraniana de Bucha, donde se hallaron decenas de cad&aacute;veres tras la retirada de las tropas rusas.</li>
+<li>"Lo que vimos en Bucha no es el acto aislado de una unidad solitaria. Es una campa&ntilde;a deliberada para matar, torturar, violar, cometer atrocidades", declar&oacute; antes de poner rumbo a Bruselas.</li>
+<li>"Esto refuerza nuestra determinaci&oacute;n y la determinaci&oacute;n de pa&iacute;ses de todo el mundo de garantizar que, de alguna manera, un d&iacute;a u otro, quienes cometieron estos actos rindan cuentas", afirm&oacute;.</li>
+<li>Blinken asegur&oacute; que Estados Unidos est&aacute; trabajando, como otros, para "reunir pruebas que respalden los esfuerzos del fiscal general de Ucrania" y los de la comisi&oacute;n de investigaci&oacute;n del Consejo de Derechos Humanos de la ONU.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El secretario de Estado reiter&oacute; la "gran determinaci&oacute;n" de Washington de apoyar a Ucrania en "su valiente lucha para repeler la agresi&oacute;n rusa".</li>
+<li>La difusi&oacute;n en los medios de comunicaci&oacute;n internacionales de fotos tomadas en Bucha en las que se ven cad&aacute;veres en las calles, algunos con las manos atadas detr&aacute;s de la espalda o parcialmente quemados, as&iacute; como fosas comunes, provoc&oacute; una ola de indignaci&oacute;n internacional.</li>
+<li>Kiev acusa a los soldados rusos de haber masacrado a civiles. Mosc&uacute; lo niega y afirma que es un montaje de las autoridades ucranianas.</li>
+<li>El presidente estadounidense, Joe Biden, afirm&oacute; el lunes que quiere un "juicio por cr&iacute;menes de guerra" en Ucrania.</li>
+</ul>
+}
+title Blinken denuncia "campaña deliberada para matar, torturar, violar" en Ucrania
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202204/headers/5-blinken-denuncia-campana-deliberada-para-matar-torturar-violar-en-bucha-ucrania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El secretario de Estado estadounidense, Antony Blinken, denunció este martes una "campaña deliberada para matar, tortura, violar" en la ciudad ucraniana de Bucha, donde se hallaron decenas de cadáveres tras la retirada de las tropas rusas.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Blinken denuncia "campaña deliberada para matar, torturar, violar" en Ucrania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
