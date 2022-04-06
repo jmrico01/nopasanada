@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202204/5-presidente-electo-chaves-quiere-mejorar-acuerdo-de-costa-rica-con-fmi
+        featured{array} /content/202204/6-redada-policial-en-alemania-contra-el-movimiento-neonazi
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202204/5-blinken-denuncia-campana-deliberada-para-matar-torturar-violar-en-bucha-ucrania
+        featured{array} /content/202204/6-imagenes-de-satelite-muestran-realidad-en-bucha-ucrania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/5-el-metaverso-tambien-desafia-la-television-tradicional
+    featured{array} /content/202204/6-redada-policial-en-alemania-contra-el-movimiento-neonazi
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/28-estos-son-los-ganadores-del-premio-oscar
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202204/5-elon-musk-adquiere-el-9-2-de-las-acciones-de-twitter
+    featured{array} /content/202204/6-region-etiope-del-tigre-es-escenario-de-crimenes-de-guerra
 }
 other{kmkv} {
     name Other (Internal)
