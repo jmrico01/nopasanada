@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202204/6-redada-policial-en-alemania-contra-el-movimiento-neonazi
+        featured{array} /content/202204/8-rusia-expulsa-a-45-diplomaticos-polacos
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202204/6-imagenes-de-satelite-muestran-realidad-en-bucha-ucrania
+        featured{array} /content/202204/8-trabajadores-peruanos-marchan-para-exigir-a-castillo-que-cumpla-sus-promesas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/6-redada-policial-en-alemania-contra-el-movimiento-neonazi
+    featured{array} /content/202204/8-la-primera-mision-privada-despega-hacia-la-estacion-espacial-internacional
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/28-estos-son-los-ganadores-del-premio-oscar
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202204/6-region-etiope-del-tigre-es-escenario-de-crimenes-de-guerra
+    featured{array} /content/202204/8-bombardeo-ruso-de-una-estacion-de-trenes-en-ucrania-deja-50-muertos
 }
 other{kmkv} {
     name Other (Internal)

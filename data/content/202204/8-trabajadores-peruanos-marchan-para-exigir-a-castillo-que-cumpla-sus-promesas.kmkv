@@ -1,0 +1,56 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Cientos de trabajadores peruanos marcharon este jueves en Lima para exigir al presidente izquierdista Pedro Castillo que cumpla sus promesas electorales, tras protestas por alzas de precios que han elevado la tensi&oacute;n en el pa&iacute;s.</li>
+<li>"Las Promesas se cumplen presidente Pedro Castillo", dec&iacute;a un cartel alzado por los manifestantes que marcharon desde la c&eacute;ntrica Plaza 2 de Mayo hacia el edificio del Congreso, custodiados por polic&iacute;as.</li>
+<li>La marcha fue convocada por la Confederaci&oacute;n General de Trabajadores del Per&uacute; (CGTP, de izquierda), la mayor central sindical del pa&iacute;s, mientras Per&uacute; vive d&iacute;as de tensi&oacute;n tras un paro de transportistas, bloqueos de rutas y protestas por el alza de los precios de combustibles y alimentos.</li>
+<li>"Exigimos al presidente que cumpla con sus compromisos electorales. Exigirle frente a la crisis que atravesamos los trabajadores que desarrolle un plan que enfrente la inflaci&oacute;n y el costo de los alimentos", dijo el l&iacute;der del magisterio, Lucio Castro.</li>
+<li>"Tenemos mucha decepci&oacute;n porque se ha desentendido de su compromiso con los maestros", agreg&oacute;.</li>
+<li>Castillo no ha instrumentado sus principales promesas de campa&ntilde;a, como cambiar la Constituci&oacute;n y decretar medidas para elevar el nivel de vida de los m&aacute;s pobres, porque su partido Per&uacute; Libre carece de mayor&iacute;a en el Congreso.</li>
+<li>Los manifestantes llevaban tambi&eacute;n carteles pidiendo el "cierre" del Congreso, dominado por la oposici&oacute;n derechista, al que acusan de "obstaculizar" la gesti&oacute;n del mandatario, iniciada hace ocho meses.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>"Desde el primer d&iacute;a que se proclam&oacute; al presidente lo que ha hecho el Congreso es obstaculizar [...]. Ahora lo que quieren es sembrar caos", dijo el secretario general de la CGTP, Ger&oacute;nimo L&oacute;pez.</li>
+<li>Marchas similares hubo tambi&eacute;n en las regiones del Cusco, Arequipa, Loreto, Tacna y Ayacucho, seg&uacute;n medios locales.</li>
+<li>Para apaciguar las protestas, Castillo elimin&oacute; el fin de semana el impuesto a los combustibles y elev&oacute; 10% del sueldo m&iacute;nimo.</li>
+<li>Como las protestas siguieron, el gobierno impuso el martes un toque de queda diurno en la capital, medida ampliamente repudiada.</li>
+<li>El mi&eacute;rcoles un trabajador agr&iacute;cola que participaba en el bloqueo de la ruta Panamericana muri&oacute; en un choque con la polic&iacute;a en Ica, 300 km al sur de Lima. Adem&aacute;s, hubo 15 heridos.</li>
+<li>Castillo levant&oacute; anticipadamente el toque de queda el martes, tras reunirse con los l&iacute;deres del Congreso, en medio de manifestaciones en su contra en Lima.</li>
+<li>Maestro rural de 52 a&ntilde;os, Castillo gan&oacute; la presidencia en balotaje a la derechista Keiko Fujimori, tras una polarizada campa&ntilde;a electoral.</li>
+</ul>
+}
+title Trabajadores peruanos marchan para exigir a Castillo que cumpla sus promesas
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202204/headers/8-trabajadores-peruanos-marchan-para-exigir-a-castillo-que-cumpla-sus-promesas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Cientos de trabajadores peruanos marcharon este jueves en Lima para exigir al presidente izquierdista Pedro Castillo que cumpla sus promesas electorales, tras protestas por alzas de precios que han elevado la tensión en el país.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Perú<b>
+    text1 Trabajadores peruanos marchan para exigir a Castillo que cumpla sus promesas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

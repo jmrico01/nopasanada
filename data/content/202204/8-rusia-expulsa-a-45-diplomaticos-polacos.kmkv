@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Rusia anunci&oacute; el viernes la expulsi&oacute;n de 45 diplom&aacute;ticos polacos en represalia por una medida equivalente decidida a finales de marzo por Polonia.</li>
+<li>"Debido al principio de reciprocidad, 45 colaboradores de la embajada de Polonia y de sus consulados generales en Irkutsk, Kaliningrado y San Petersburgo fueron declarados 'persona non grata'", declar&oacute; el Ministerio de Asuntos Exteriores ruso en un comunicado.</li>
+<li>Estos diplom&aacute;ticos deber&aacute;n abandonar Rusia antes del 13 de abril, seg&uacute;n la misma fuente.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>A finales de marzo, Polonia anunci&oacute; la expulsi&oacute;n de "45 esp&iacute;as rusos que se hac&iacute;an pasar por diplom&aacute;ticos", en el contexto de la ofensiva rusa en Ucrania desde el 24 de febrero.</li>
+<li>Esta medida demuestra una "voluntad consciente de Varsovia de destruir definitivamente las relaciones bilaterales", asegur&oacute; el viernes la diplomacia rusa.</li>
+<li>En los &uacute;ltimos d&iacute;as, decenas de diplom&aacute;ticos rusos han sido expulsados de pa&iacute;ses europeos, en particular de Alemania, Italia, Francia y Espa&ntilde;a.&nbsp;</li>
+<li>Rusia probablemente tome las mismas medidas.</li>
+<li>El viernes, Rusia anunci&oacute; la expulsi&oacute;n de dos diplom&aacute;ticos b&uacute;lgaros en respuesta a una medida similar adoptada en marzo.</li>
+</ul>
+}
+title Rusia expulsa a 45 diplomáticos polacos
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202204/headers/8-rusia-expulsa-a-45-diplomaticos-polacos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Rusia anunció el viernes la expulsión de 45 diplomáticos polacos en represalia por una medida equivalente decidida a finales de marzo por Polonia.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Rusia expulsa a 45 diplomáticos polacos
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
