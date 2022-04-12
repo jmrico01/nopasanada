@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202204/8-rusia-expulsa-a-45-diplomaticos-polacos
+        featured{array} /content/202204/12-mas-de-50-multas-por-fiestas-en-downing-street-durante-el-confinamiento
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202204/8-trabajadores-peruanos-marchan-para-exigir-a-castillo-que-cumpla-sus-promesas
+        featured{array} /content/202204/12-al-menos-13-heridos-en-tiroteo-en-el-metro-de-nueva-york
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/8-la-primera-mision-privada-despega-hacia-la-estacion-espacial-internacional
+    featured{array} /content/202204/12-twitter-considera-una-opcion-para-editar-tuits
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/28-estos-son-los-ganadores-del-premio-oscar
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202204/8-bombardeo-ruso-de-una-estacion-de-trenes-en-ucrania-deja-50-muertos
+    featured{array} /content/202204/12-al-menos-13-heridos-en-tiroteo-en-el-metro-de-nueva-york
 }
 other{kmkv} {
     name Other (Internal)
