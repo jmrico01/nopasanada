@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Un total de 24 personas fueron asesinadas por hombres armados en el estado de Benue, en el centro de Nigeria, en los &uacute;ltimos episodios de violencia hasta la fecha imputados a bandas armadas, dijeron el mi&eacute;rcoles las autoridades locales.</li>
+<li>"Presuntos pastores mataron a ocho personas en Mbadwem, en la zona de Guma, y a otras 16 en Tiortyu, en la zona de Tarka", indic&oacute; el portavoz de las autoridades locales Nathaniel Ikyur.</li>
+<li>"Decenas de personas m&aacute;s resultaron heridas y est&aacute;n siendo tratadas en un hospital estatal", a&ntilde;adi&oacute; Ikyur en un comunicado.</li>
+<li>La polic&iacute;a local s&oacute;lo confirm&oacute; el ataque en Tiortyu, con un saldo de nueve muertos.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El centro del pa&iacute;s m&aacute;s poblado de &Aacute;frica es escenario de numerosos conflictos entre pastores n&oacute;madas, mayoritariamente musulmanes, y agricultores cristianos, en torno al control del agua y de las tierras.&nbsp;</li>
+<li>Con el cambio clim&aacute;tico, los conflictos se multiplicaron y diferentes comunidades han movilizado a grupos armados para garantizar su protecci&oacute;n. Algunos recurren a actividades delictivas.&nbsp;</li>
+<li>Estos "bandidos", como se les conoce en la regi&oacute;n, se dedican a secuestros masivos en las escuelas, saquean las aldeas y matan a los que se resisten o a aquellos cuyas familias no pueden pagar los rescates.</li>
+</ul>
+}
+title Hombres armados asesinan a 24 personas en Nigeria
+day 13
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202204/headers/12-al-menos-13-heridos-en-tiroteo-en-el-metro-de-nueva-york.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un total de 24 personas fueron asesinadas por hombres armados en el estado de Benue, en el centro de Nigeria, en los últimos episodios de violencia hasta la fecha imputados a bandas armadas, dijeron el miércoles las autoridades locales.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Nigeria<b>
+    text1 Hombres armados asesinan a 24 personas en Nigeria
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
