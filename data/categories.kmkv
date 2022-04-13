@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202204/12-al-menos-13-heridos-en-tiroteo-en-el-metro-de-nueva-york
+        featured{array} /content/202204/13-como-se-definen-los-crimenes-de-guerra-de-lesa-humanidad-y-de-genocidio
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/12-twitter-considera-una-opcion-para-editar-tuits
+    featured{array} /content/202204/13-policia-intensifica-busqueda-del-atacante-del-metro-de-nueva-york
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202203/28-estos-son-los-ganadores-del-premio-oscar
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202204/12-al-menos-13-heridos-en-tiroteo-en-el-metro-de-nueva-york
+    featured{array} /content/202204/13-desmantelan-una-plantacion-de-415000-plantas-de-cannabis-en-espana
 }
 other{kmkv} {
     name Other (Internal)
