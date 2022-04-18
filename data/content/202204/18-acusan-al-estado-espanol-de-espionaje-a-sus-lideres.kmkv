@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El movimiento independentista catal&aacute;n acus&oacute; este lunes al Estado central espa&ntilde;ol de haber espiado a decenas de sus l&iacute;deres mediante un programa inform&aacute;tico en sus tel&eacute;fonos m&oacute;viles, un hecho documentado en un informe de un organismo canadiense dado a conocer por The New Yorker y El Pa&iacute;s.</li>
+<li>"Hemos sido espiados de forma masiva e ilegal a trav&eacute;s de un programa que s&oacute;lo pueden tener los Estados. Pol&iacute;ticos, abogados y activistas, v&iacute;ctimas de la guerra sucia del Estado espa&ntilde;ol", denunci&oacute; en Twitter el ex presidente catal&aacute;n, Carles Puigdemont.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los medios estadounidense The New Yorker y espa&ntilde;ol El Pa&iacute;s se hicieron eco este lunes de un informe del Citizen Lab, un organismo canadiense con sede en la Universidad de Toronto, seg&uacute;n el cual al menos 65 destacados independentistas catalanes fueron espiados mediante el software Pegasus.</li>
+<li>Casi todos los incidentes de infecci&oacute;n de los aparatos con ese programa inform&aacute;tico israel&iacute;, que permite leer mensajes y activar de manera remota la c&aacute;mara y el micr&oacute;fono de los tel&eacute;fonos, ocurrieron entre 2017 y 2020.</li>
+<li>Entre los afectados figuran el actual presidente regional catal&aacute;n Pere Aragon&eacute;s (cuando todav&iacute;a era vicepresidente regional), los expresidentes catalanes Quim Torra y Artur Mas, eurodiputados, diputados del Parlamento regional catal&aacute;n y miembros de organizaciones civiles independentistas, seg&uacute;n Citizen Lab.</li>
+<li>Carles Puigdemont, quien se march&oacute; a B&eacute;lgica para evadir la justicia tras la frustrada secesi&oacute;n de Catalu&ntilde;a en octubre de 2017, no fue directamente atacado por el programa inform&aacute;tico, pero s&iacute; muchas personas de su entorno, entre ellas su esposa, agreg&oacute; el organismo canadiense.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>En julio de 2020, el entonces presidente del Parlamento catal&aacute;n, Roger Torrent, denunci&oacute; haber sido espiado mediante Pegasus por el Estado espa&ntilde;ol, una acusaci&oacute;n que el ejecutivo del socialista Pedro S&aacute;nchez rechaz&oacute; de plano en ese momento.</p>
+<p>"El gobierno espa&ntilde;ol debe dar explicaciones de inmediato", exigi&oacute; el lunes en Twitter Pere Aragon&eacute;s, al subrayar el hecho de que "este software de espionaje s&oacute;lo puede ser adquirido por los Estados".</p>
+<p>Desde hace m&aacute;s de una d&eacute;cada, Catalu&ntilde;a ha sido foco de una pugna entre el separatismo, que controla desde hace a&ntilde;os el gobierno y Parlamento regionales, y el ejecutivo central espa&ntilde;ol.</p>
+<p>El pulso tuvo sus momentos &aacute;lgidos en el referendo ilegal de autodeterminaci&oacute;n y la subsiguiente fallida declaraci&oacute;n de independencia de octubre 2017, as&iacute; como la condena a penas de prisi&oacute;n de nueve dirigentes separatistas en octubre de 2019, lo que deriv&oacute; en manifestaciones multitudinarias en Catalu&ntilde;a, algunas de ellas violentas.</p>
+<p>Las tensiones bajaron considerablemente desde que el gobierno S&aacute;nchez lanzara una negociaci&oacute;n con los independentistas en febrero de 2020 e indultara en junio de 2021 a los nueve l&iacute;deres independentistas presos.</p>
+}
+title Acusan al Estado español de espionaje a sus líderes
+day 18
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202204/headers/13-policia-intensifica-busqueda-del-atacante-del-metro-de-nueva-york.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El movimiento independentista catalán acusó este lunes al Estado central español de haber espiado a decenas de sus líderes mediante un programa informático en sus teléfonos móviles, un hecho documentado en un informe de un organismo canadiense dado a conocer por The New Yorker y El País.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>España<b>
+    text1 Acusan al Estado español de espionaje a sus líderes
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
