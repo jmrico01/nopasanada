@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202204/13-como-se-definen-los-crimenes-de-guerra-de-lesa-humanidad-y-de-genocidio
+        featured{array} /content/202204/20-julian-assange-un-paso-mas-cerca-de-ser-extraditado-a-estados-unidos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/13-policia-intensifica-busqueda-del-atacante-del-metro-de-nueva-york
+    featured{array} /content/202204/20-julian-assange-un-paso-mas-cerca-de-ser-extraditado-a-estados-unidos
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202203/28-estos-son-los-ganadores-del-premio-oscar
+        featured{array} /content/202204/20-que-es-el-dia-de-la-marihuan
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202204/elon-musk-poison-pill
+    featured{array} /content/202204/20-que-es-el-dia-de-la-marihuan
 }
 other{kmkv} {
     name Other (Internal)
