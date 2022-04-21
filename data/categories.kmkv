@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202204/12-mas-de-50-multas-por-fiestas-en-downing-street-durante-el-confinamiento
+        featured{array} /content/202204/21-corte-de-la-onu-pide-a-colombia-que-cese-la-interferencia-en-aguas-de-nicaragua
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202204/20-julian-assange-un-paso-mas-cerca-de-ser-extraditado-a-estados-unidos
+        featured{array} /content/202204/21-cual-es-el-polemico-plan-de-reino-unido-de-enviar-refugiados-a-ruanda
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/20-julian-assange-un-paso-mas-cerca-de-ser-extraditado-a-estados-unidos
+    featured{array} /content/202204/21-honduras-extradita-al-expresidente-hernandez-reclamado-por-narcotrafico
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202204/20-que-es-el-dia-de-la-marihuan
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202204/20-que-es-el-dia-de-la-marihuan
+    featured{array} /content/202204/21-la-guerra-en-ucrania-ha-dejado-mas-de-7-7-millones-de-desplazados
 }
 other{kmkv} {
     name Other (Internal)

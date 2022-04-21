@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>M&aacute;s de 7,7 millones de personas han huido de sus hogares en Ucrania debido a la ofensiva rusa, pero han permanecido dentro de las fronteras del pa&iacute;s, inform&oacute; el jueves la ONU.&nbsp;</li>
+<li>Esta cifra publicada por la Organizaci&oacute;n Internacional para las Migraciones (OIM) de la ONU representa un alza con respecto al balance divulgado el 5 de abril que estim&oacute; en 7,1 millones el n&uacute;mero de desplazados internos.</li>
+<li>"Las mujeres y ni&ntilde;os, los ancianos y las personas con discapacidades han sido afectadas de forma desproporcionada y representan un grupo altamente vulnerable", indic&oacute; el director general de la OIM Antonio Vitorino.</li>
+<li>La invasi&oacute;n lanzada el 24 de febrero por Rusia provoc&oacute; la huida de sus hogares de millones de personas, incluyendo cinco millones que dejaron el pa&iacute;s.&nbsp;</li>
+<li>La OIM realiz&oacute; esta tercera encuesta entre el 11 de abril y el 17 y estim&oacute; que hasta el domingo hab&iacute;a 7.707.000 personas desplazadas dentro de Ucrania y un 60% son mujeres.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Seg&uacute;n las estimaciones cerca de 3,47 millones de personas huyeron de la zona del este del pa&iacute;s, 1,77 millones del norte y 1,46 millones dejaron la regi&oacute;n de Kiev.&nbsp;</li>
+<li>Seg&uacute;n la encuesta, un 37% de los desplazados est&aacute; ahora en &aacute;reas relativamente seguras en el oeste del pa&iacute;s.</li>
+<li>La estimaci&oacute;n tambi&eacute;n se&ntilde;al&oacute; que cerca de 2,7 millones de personas volvieron a sus hogares el domingo, tras haberse ausentando un m&iacute;nimo de dos semanas.&nbsp;</li>
+<li>Sin embargo, pese a haber regresado a sus hogares, un 29% de los retornados percibe su lugar actual de residencia como poco seguro y solo un 8,5% se siente completamente seguro.&nbsp;</li>
+<li>"Es prematuro sacar conclusiones con certeza sobre la naturaleza de estos movimientos de retorno y si son permanentes o de naturaleza temporal", indic&oacute; la OIM.&nbsp;</li>
+</ul>
+}
+title La guerra en Ucrania ha dejado más de 7,7 millones de desplazados
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202204/headers/21-la-guerra-en-ucrania-ha-dejado-mas-de-7-7-millones-de-desplazados.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Más de 7,7 millones de personas han huido de sus hogares en Ucrania debido a la ofensiva rusa, pero han permanecido dentro de las fronteras del país, informó el jueves la ONU.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 La guerra en Ucrania ha dejado más de 7,7 millones de desplazados
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
