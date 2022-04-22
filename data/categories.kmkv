@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202204/21-corte-de-la-onu-pide-a-colombia-que-cese-la-interferencia-en-aguas-de-nicaragua
+        featured{array} /content/202204/22-bukele-anuncia-la-detencion-de-mas-de-15000-pandilleros-en-casi-un-mes
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202204/21-cual-es-el-polemico-plan-de-reino-unido-de-enviar-refugiados-a-ruanda
+        featured{array} /content/202204/22-rusia-esta-dispuesta-a-una-tregua-humanitaria-en-zona-industrial-de-mariupol
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/21-honduras-extradita-al-expresidente-hernandez-reclamado-por-narcotrafico
+    featured{array} /content/202204/22-jefe-de-la-junta-birmana-llama-a-negociaciones-de-paz-con-los-grupos-rebeldes
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202204/20-que-es-el-dia-de-la-marihuan
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202204/21-la-guerra-en-ucrania-ha-dejado-mas-de-7-7-millones-de-desplazados
+    featured{array} /content/202204/22-quince-anos-despues-retoman-la-investigacion-por-la-desaparicion-de-maddie
 }
 other{kmkv} {
     name Other (Internal)

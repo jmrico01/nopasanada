@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El jefe de la junta birmana, que no controla importantes porciones del territorio desde el golpe de Estado del a&ntilde;o pasado, llam&oacute; este viernes a varias facciones &eacute;tnicas rebeldes a iniciar conversaciones de paz.</li>
+<li>"Invito a los dirigentes de grupos armados al di&aacute;logo" declar&oacute; Min Aung Hlaing en un discurso divulgado por los medios estatales.&nbsp;</li>
+<li>Agreg&oacute; que se reunir&iacute;a personalmente con ellos, y los invit&oacute; a presentarse antes del 9 de mayo.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Desde la independencia de Birmania en 1948, unas 20 facciones &eacute;tnicas est&aacute;n en conflicto con el gobierno central para obtener m&aacute;s autonom&iacute;a, y el acceso a las numerosas riquezas naturales del pa&iacute;s.</li>
+<li>A partir de 2015, el ej&eacute;rcito suscribi&oacute; un acuerdo nacional de alto el fuego con diez de ellas.</li>
+<li>Pero muchas han vuelto a tomar las armas desde el golpe de Estado del 1 de febrero de 2021 contra Aung San Suu Kyi, y han ofrecido ayuda y entrenamiento militar a las Fuerzas de defensa del pueblo (PDF), las milicias opuestas al r&eacute;gimen.</li>
+<li>Este pa&iacute;s del sureste asi&aacute;tico est&aacute; sumido en el caos desde el golpe de febrero de 2021 y m&aacute;s de 1.700 personas han muerto por la represi&oacute;n contra disidentes, seg&uacute;n un grupo local de monitoreo.</li>
+</ul>
+}
+title Jefe de la junta birmana llama a negociaciones de paz con los grupos rebeldes
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202204/headers/22-jefe-de-la-junta-birmana-llama-a-negociaciones-de-paz-con-los-grupos-rebeldes.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El jefe de la junta birmana, que no controla importantes porciones del territorio desde el golpe de Estado del año pasado, llamó este viernes a varias facciones étnicas rebeldes a iniciar conversaciones de paz.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Birmania<b>
+    text1 Jefe de la junta birmana llama a negociaciones de paz con los grupos rebeldes
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
