@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202203/30-inundaciones-en-el-mundo-costaron-82000-millones-de-dolares-en-2021
+        featured{array} /content/202204/25-indonesia-eleva-el-nivel-de-alerta-por-volcan-formado-por-restos-del-krakatoa
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202204/22-bukele-anuncia-la-detencion-de-mas-de-15000-pandilleros-en-casi-un-mes
+        featured{array} /content/202204/25-francia-reelige-a-macron-ante-una-extrema-derecha-en-aumento
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202204/22-rusia-esta-dispuesta-a-una-tregua-humanitaria-en-zona-industrial-de-mariupol
+        featured{array} /content/202204/25-no-logran-llegar-a-un-acuerdo-para-crear-corredor-humano-en-zona-industrial-de-mariupol
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/22-jefe-de-la-junta-birmana-llama-a-negociaciones-de-paz-con-los-grupos-rebeldes
+    featured{array} /content/202204/25-muere-en-japon-a-los-119-anos-la-persona-mas-vieja-del-mundo
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202204/20-que-es-el-dia-de-la-marihuan
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202204/22-quince-anos-despues-retoman-la-investigacion-por-la-desaparicion-de-maddie
+    featured{array} /content/202204/25-indonesia-eleva-el-nivel-de-alerta-por-volcan-formado-por-restos-del-krakatoa
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Indonesia elev&oacute; este lunes el nivel de alerta por la actividad de un volc&aacute;n derivado del famoso volc&aacute;n Krakatoa, despu&eacute;s de que la formaci&oacute;n entrara en erupci&oacute;n y expulsara una columna de cenizas de 3.000 metros de alto.&nbsp;</li>
+<li>Las autoridades subieron el nivel de alerta del volc&aacute;n Anak Krakatoa, que significa hijo del Krakatoa, a un nivel tres, de una escala que llega hasta el cuatro, despu&eacute;s de observar un violento aumento de la actividad en el &uacute;ltimo mes y tras la primera erupci&oacute;n el domingo.&nbsp;</li>
+<li>Tambi&eacute;n aumentaron la zona de exclusi&oacute;n en torno al cr&aacute;ter, despu&eacute;s de haber advertido a los habitantes que deb&iacute;an usar mascarillas en el exterior debido a las cenizas lanzadas por esta formaci&oacute;n que est&aacute; en el estrecho que separa las islas de Java y de Sumatra.&nbsp;</li>
+<li>"Hemos incrementaron el nivel de alerta del monte Anak Krakatoa desde un nivel dos a un nivel tres y recomendamos que nadie se acerque a un radio de menos de cinco kil&oacute;metros del cr&aacute;ter activo", indic&oacute; Hendra Gunawan, director del Centro de Vulcanolog&iacute;a y Mitigaci&oacute;n de Riesgos Geol&oacute;gicos, en una conferencia de prensa virtual.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El volc&aacute;n emiti&oacute; el 15 de abril 68 toneladas de di&oacute;xido de carbono y m&aacute;s de una semana despu&eacute;s el 23 de abril esta cantidad super&oacute; las 9.000 toneladas.&nbsp;</li>
+<li>Este volc&aacute;n ha estado espor&aacute;dicamente activo desde que emergiera del mar a principios del siglo pasado, en la caldera formada tras la erupci&oacute;n en 1883 del Krakatoa, uno de los mayores desastres de la historia del pa&iacute;s, que dej&oacute; m&aacute;s de 35.000 muertos.</li>
+<li>La &uacute;ltima erupci&oacute;n del Anak Krakatoa fue en 2018 y gener&oacute; un tsunami que dej&oacute; 429 muertos y miles de personas sin hogar.</li>
+<li>Indonesia cuenta con cerca de 130 volcanes activos y forma parte del "Cintur&oacute;n de Fuego" del Pac&iacute;fico, donde se encuentran distintas placas tect&oacute;nicas.&nbsp;</li>
+</ul>
+}
+title Indonesia eleva el nivel de alerta por volcán formado por restos del Krakatoa
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202204/headers/25-indonesia-eleva-el-nivel-de-alerta-por-volcan-formado-por-restos-del-krakatoa.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Indonesia elevó este lunes el nivel de alerta por la actividad de un volcán derivado del famoso volcán Krakatoa, después de que la formación entrara en erupción y expulsara una columna de cenizas de 3.000 metros de alto.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Indonesia<b>
+    text1 Indonesia eleva el nivel de alerta por volcán formado por restos del Krakatoa
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

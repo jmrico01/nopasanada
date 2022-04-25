@@ -1,0 +1,41 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Ucrania afirm&oacute; este lunes que no lleg&oacute; a ning&uacute;n acuerdo con Rusia para crear un corredor humanitario que permita la evacuaci&oacute;n de civiles encerrados con combatientes ucranianos en el complejo metal&uacute;rgico de Azovstal en Mari&uacute;pol, en el sudeste del pa&iacute;s.</li>
+<li>"Declar&oacute; oficial y p&uacute;blicamente que por desgracia no hay ning&uacute;n acuerdo concerniente un corredor humanitario desde Azovstal hoy", escribi&oacute; en Telegram la viceprimera ministra ucraniana Iryna Vereshchuk, poco despu&eacute;s del anuncio por parte de Rusia de que cesar&iacute;a las hostilidades para permitir la evacuaci&oacute;n de civiles.</li>
+</ul>
+}
+title No logran llegar a un acuerdo para crear corredor humanitario en Mariúpol
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202204/headers/25-no-logran-llegar-a-un-acuerdo-para-crear-corredor-humano-en-zona-industrial-de-mariupol.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Ucrania afirmó este lunes que no llegó a ningún acuerdo con Rusia para crear un corredor humanitario que permita la evacuación de civiles encerrados con combatientes ucranianos en el complejo metalúrgico de Azovstal en Mariúpol, en el sudeste del país.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 No logran llegar a un acuerdo para crear corredor humanitario en Mariúpol
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
