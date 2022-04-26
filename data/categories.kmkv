@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202204/25-indonesia-eleva-el-nivel-de-alerta-por-volcan-formado-por-restos-del-krakatoa
+        featured{array} /content/202204/26-34-paises-insisten-en-desarrollar-centrales-de-carbon
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202204/25-no-logran-llegar-a-un-acuerdo-para-crear-corredor-humano-en-zona-industrial-de-mariupol
+        featured{array} /content/202204/26-en-el-twitter-de-musk-queda-en-manos-de-los-usuarios-combatir-trolls-y-desinformacion
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/25-muere-en-japon-a-los-119-anos-la-persona-mas-vieja-del-mundo
+    featured{array} /content/202204/26-el-nivel-de-radiactividad-en-chernobil-es-anormal-dice-jefe-del-oiea
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202204/20-que-es-el-dia-de-la-marihuan
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202204/25-indonesia-eleva-el-nivel-de-alerta-por-volcan-formado-por-restos-del-krakatoa
+    featured{array} /content/202204/26-militares-retirados-admitiran-haber-ejecutado-a-civiles-en-colombia
 }
 other{kmkv} {
     name Other (Internal)

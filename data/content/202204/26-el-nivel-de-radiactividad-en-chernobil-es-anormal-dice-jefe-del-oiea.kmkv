@@ -1,0 +1,54 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El nivel de radioactividad en la central nuclear de Chern&oacute;bil en Ucrania es "anormal" y subi&oacute; despu&eacute;s de que las tropas rusas ocuparon el &aacute;rea, afirm&oacute; el martes el director general del Organismo Internacional de la Energ&iacute;a At&oacute;mica (OIEA).&nbsp;</li>
+<li>"El nivel de radioactividad, yo dir&iacute;a que es anormal", indic&oacute; el jefe del organismo, el argentino Rafael Grossi, durante una visita a la planta.</li>
+<li>"Hubo momentos en los cuales los niveles subieron debido al movimiento de equipamiento pesado que las fuerzas rusas trajeron aqu&iacute; y cuando se fueron. Hemos estado haciendo un seguimiento diario", agreg&oacute;.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El ej&eacute;rcito ruso se hab&iacute;a apoderado de la central nuclear de Chern&oacute;bil el primer d&iacute;a de la ofensiva de Mosc&uacute; contra Ucrania, el 24 de febrero.</li>
+<li>Seg&uacute;n las autoridades ucranianas, los rusos se retiraron el 31 de marzo de Chern&oacute;bil.</li>
+<li>Grossi lleg&oacute; acompa&ntilde;ado por un grupo de expertos "para entregar equipos vitales" (dos&iacute;metros, trajes de protecci&oacute;n) y efectuar "controles radiol&oacute;gicos y de otro tipo", &nbsp;seg&uacute;n el OIEA.</li>
+<li>Estos expertos deben "reparar los sistemas de vigilancia a distancia, que dejaron de transmitir los datos hacia la sede" del OIEA en Viena (Austria) poco despu&eacute;s del inicio de la guerra.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Situada a 150 km al norte de Kiev, en la frontera biolorrusa, la central nuclear de Chern&oacute;bil sufri&oacute;, desde el inicio de la ocupaci&oacute;n rusa, de cortes de electricidad y de redes de comunicaci&oacute;n.&nbsp;</p>
+<p>Grossi ya hab&iacute;a viajado a Ucrania a finales de marzo para sentar las bases de un acuerdo de prestaci&oacute;n de asistencia t&eacute;cnica. Visit&oacute; la planta sur antes de reunirse con altos funcionarios rusos en Kaliningrado, en el mar B&aacute;ltico.</p>
+<p>Ucrania tiene 15 reactores en cuatro plantas activas, adem&aacute;s de dep&oacute;sitos de residuos como el de Chern&oacute;bil. La mayor es la planta situada en Energodar, cerca de la ciudad de Zaporiyia, que, seg&uacute;n los ucranianos, fue alcanzada por dos ataques de misiles rusos el martes.</p>
+<p>Un reactor de la central de Chern&oacute;bil explot&oacute; en 1986, causando la peor cat&aacute;strofe nuclear civil de la historia.</p>
+}
+title El nivel de radiactividad en Chernóbil es "anormal", dice el jefe del OIEA
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202204/headers/26-el-nivel-de-radiactividad-en-chernobil-es-anormal-dice-jefe-del-oiea.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El nivel de radioactividad en la central nuclear de Chernóbil en Ucrania es "anormal" y subió después de que las tropas rusas ocuparon el área, afirmó el martes el director general del Organismo Internacional de la Energía Atómica (OIEA).
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 El nivel de radiactividad en Chernóbil es "anormal", dice el jefe del OIEA
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
