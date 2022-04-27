@@ -764,6 +764,10 @@ int main(int argc, char** argv)
         return 1;
     }
 
+    server.Get("/shop", [](const auto& req, auto& res) {
+                   res.set_redirect("https://shop.nopasanada.com");
+               });
+
     // Backwards compatibility =====================================================================
     server.Get("/el-caso-diet-prada", [](const auto& req, auto& res) {
                    res.set_redirect("/content/201908/el-caso-diet-prada");
