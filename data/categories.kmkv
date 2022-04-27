@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202204/25-francia-reelige-a-macron-ante-una-extrema-derecha-en-aumento
+        featured{array} /content/202204/27-documento-de-la-onu-acusa-a-soldados-congolenos-de-violaciones-de-ddhh
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202204/26-en-el-twitter-de-musk-queda-en-manos-de-los-usuarios-combatir-trolls-y-desinformacion
+        featured{array} /content/202204/27-consejo-de-europa-denuncia-una-erosion-de-la-libertad-de-prensa-en-el-continente
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/26-el-nivel-de-radiactividad-en-chernobil-es-anormal-dice-jefe-del-oiea
+    featured{array} /content/202204/27-condena-a-5-anos-mas-de-carcel-a-aung-san-suu-kyi
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202204/20-que-es-el-dia-de-la-marihuan
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202204/26-militares-retirados-admitiran-haber-ejecutado-a-civiles-en-colombia
+    featured{array} /content/202204/27-incendio-forestal-en-cuba-afecta-150-hectareas-de-pinos
 }
 other{kmkv} {
     name Other (Internal)
