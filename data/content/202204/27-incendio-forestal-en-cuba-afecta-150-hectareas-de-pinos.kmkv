@@ -1,0 +1,46 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<p style="text-align: left;"><em>Foto de Alina Cabrera D</em></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Un incendio forestal de "grandes proporciones" afecta a unas 150 hect&aacute;reas de pinos en la occidental provincia cubana de Pinar del R&iacute;o, sin que a&uacute;n haya podido controlarse, inform&oacute; este mi&eacute;rcoles el diario oficial Granma.</li>
+<li>"El siniestro comenz&oacute; en la tarde noche del lunes y a&uacute;n no ha sido controlado debido a lo dif&iacute;cil que resulta el acceso al lugar" , explic&oacute; Andy Valle, segundo jefe del Cuerpo de guardabosques (CGB) en la provincia, citado por el diario.</li>
+<li>Se trata de una zona conocida como el Campamento, a 15 kil&oacute;metros de la localidad de Minas de Matahambre, de bosques de pinos de unos 25 a&ntilde;os de antig&uuml;edad, con terreno irregular e intrincado, lo que obstaculiza la actuaci&oacute;n de unos 100 bomberos y guardabosques.</li>
+<li>Valle explic&oacute; que el fuego se extendi&oacute; con rapidez, favorecido por la intensa sequ&iacute;a y la velocidad de los vientos.</li>
+<li>En Cuba el per&iacute;odo cr&iacute;tico de incendios forestales va desde el 1 de enero al 31 de mayo, coincidiendo con la etapa de mayor sequ&iacute;a.&nbsp;</li>
+<li>Estos fen&oacute;menos frecuentes representan una amenaza para la biodiversidad en el pa&iacute;s, que cuenta con un patrimonio forestal de cuatro millones de hect&aacute;reas de bosques, seg&uacute;n fuentes oficiales.</li>
+</ul>
+}
+title Incendio forestal en Cuba afecta 150 hectáreas de pinos
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202204/headers/27-incendio-forestal-en-cuba-afecta-150-hectareas-de-pinos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un incendio forestal de "grandes proporciones" afecta a unas 150 hectáreas de pinos en la occidental provincia cubana de Pinar del Río, sin que aún haya podido controlarse, informó este miércoles el diario oficial Granma.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Cuba<b>
+    text1 Incendio forestal en Cuba afecta 150 hectáreas de pinos
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 04
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
