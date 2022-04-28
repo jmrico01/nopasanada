@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202204/28-ucrania-abre-investigacion-contra-diez-soldados-rusos-por-presuntos-crimenes-en-bucha
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/27-condena-a-5-anos-mas-de-carcel-a-aung-san-suu-kyi
+    featured{array} /content/202204/28-fight-club-es-una-realidad-en-bangkok
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202204/28-fight-club-es-una-realidad-en-bangkok
