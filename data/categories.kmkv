@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202204/28-ucrania-abre-investigacion-contra-diez-soldados-rusos-por-presuntos-crimenes-en-bucha
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/28-fight-club-es-una-realidad-en-bangkok
+    featured{array} /content/202204/28-cada-minuto-se-deforesto-10-campos-de-futbol-de-bosque-tropical-primario-en-2021
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202204/28-fight-club-es-una-realidad-en-bangkok
