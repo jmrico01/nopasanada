@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202204/26-34-paises-insisten-en-desarrollar-centrales-de-carbon
+        featured{array} /content/202204/28-cada-minuto-se-deforesto-10-campos-de-futbol-de-bosque-tropical-primario-en-2021
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202204/27-documento-de-la-onu-acusa-a-soldados-congolenos-de-violaciones-de-ddhh
+        featured{array} /content/202204/28-biden-propone-transferir-a-ucrania-bienes-confiscados-a-oligarcas-rusos
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202204/27-consejo-de-europa-denuncia-una-erosion-de-la-libertad-de-prensa-en-el-continente
+        featured{array} /content/202204/28-ucrania-abre-investigacion-contra-diez-soldados-rusos-por-presuntos-crimenes-en-bucha
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202204/27-condena-a-5-anos-mas-de-carcel-a-aung-san-suu-kyi
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202204/20-que-es-el-dia-de-la-marihuan
+        featured{array} /content/202204/28-fight-club-es-una-realidad-en-bangkok
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202204/27-incendio-forestal-en-cuba-afecta-150-hectareas-de-pinos
+    featured{array} /content/202204/28-fight-club-es-una-realidad-en-bangkok
 }
 other{kmkv} {
     name Other (Internal)
