@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202204/28-ucrania-abre-investigacion-contra-diez-soldados-rusos-por-presuntos-crimenes-en-bucha
+        featured{array} /content/202204/29-emiratos-enviara-un-astronauta-al-espacio-en-mision-de-seis-meses
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202204/28-cada-minuto-se-deforesto-10-campos-de-futbol-de-bosque-tropical-primario-en-2021
+    featured{array} /content/202204/29-miles-de-iranie-se-manifiestan-en-apoyo-a-los-palestinos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202204/28-fight-club-es-una-realidad-en-bangkok
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202204/28-fight-club-es-una-realidad-en-bangkok
+    featured{array} /content/202204/29-lo-que-se-sabe-de-los-crimenes-de-guerra-en-bucha
 }
 other{kmkv} {
     name Other (Internal)
