@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/2-sigue-intento-de-rescatar-a-mineros-atrapados-desde-hace-dos-semanas-en-burkina-faso
+        featured{array} /content/202205/3-onu-anuncia-evacuacion-de-101-civiles-de-azovstal
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/2-pedro-sanchez-y-la-ministra-de-defensa-espanola-espiados-por-pegasus
+    featured{array} /content/202205/3-turquia-prepara-el-retorno-a-siria-de-un-millon-de-refugiados
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202204/28-fight-club-es-una-realidad-en-bangkok
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/2-francia-sacrifica-16-millones-de-aves-por-epidemia-de-gripe-aviar
+    featured{array} /content/202205/3-biden-llama-a-defender-el-derecho-fundamental-al-aborto-en-las-urnas-en-eeuu
 }
 other{kmkv} {
     name Other (Internal)

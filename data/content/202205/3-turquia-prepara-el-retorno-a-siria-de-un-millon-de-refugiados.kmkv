@@ -1,0 +1,44 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Turqu&iacute;a, que acoge en su territorio a 3,6 millones de refugiados sirios, prepara el retorno a su pa&iacute;s de un mill&oacute;n de desplazados, anunci&oacute; el martes el presidente Recep Tayyip Erdogan.</li>
+<li>"Estamos preparando un nuevo proyecto que va a permitir el retorno voluntario de un mill&oacute;n de hermanos y hermanas sirios acogidos en nuestro pa&iacute;s", con la ayuda de oeneg&eacute;s y de organizaciones internacionales, declar&oacute; Erdogan.</li>
+<li>Turqu&iacute;a acoge en su territorio a cerca de cinco millones de refugiados, la mayor&iacute;a de ellos sirios y afganos, tras un acuerdo aprobado por la Uni&oacute;n Europea en 2016.&nbsp;</li>
+<li>En estos a&ntilde;os se han registrado algunos incidentes, especialmente a mediados de 2021, cuando hubo enfrentamientos entre refugiados y la poblaci&oacute;n local debido a la crisis econ&oacute;mica y monetaria.&nbsp;</li>
+<li>Varios partidos de la oposici&oacute;n turca piden habitualmente que los refugiados sirios retornen a su pa&iacute;s.</li>
+</ul>
+}
+title Turquía prepara el retorno a Siria de un millón de refugiados
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/3-turquia-prepara-el-retorno-a-siria-de-un-millon-de-refugiados.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Turquía, que acoge en su territorio a 3,6 millones de refugiados sirios, prepara el retorno a su país de un millón de desplazados, anunció el martes el presidente Recep Tayyip Erdogan.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Turquía<b>
+    text1 Turquía prepara el retorno a Siria de un millón de refugiados
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
