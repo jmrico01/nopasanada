@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202203/11-alemania-enfrentada-a-una-situacion-critica-por-aumento-de-casos-covid
+        featured{array} /content/202205/5-regulador-europeo-examina-uso-de-vacuna-anticovid-de-moderna-en-menores-de-5-anos
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202204/28-biden-propone-transferir-a-ucrania-bienes-confiscados-a-oligarcas-rusos
+        featured{array} /content/202205/4-bolsonaro-remonta-en-las-encuestas-a-solo-cinco-meses-de-las-elecciones
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/3-onu-anuncia-evacuacion-de-101-civiles-de-azovstal
+        featured{array} /content/202205/5-pandemia-mato-a-entre-13-3-y-16-6-millones-de-personas-en-2020-y-2021
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/3-turquia-prepara-el-retorno-a-siria-de-un-millon-de-refugiados
+    featured{array} /content/202205/5-manuscrito-de-nostradamus-regresa-a-italia
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202204/28-fight-club-es-una-realidad-en-bangkok
+        featured{array} /content/202205/4-agreden-al-comediante-dave-chappelle-durante-un-espectaculo-en-los-angeles
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/3-biden-llama-a-defender-el-derecho-fundamental-al-aborto-en-las-urnas-en-eeuu
+    featured{array} /content/202205/5-pandemia-mato-a-entre-13-3-y-16-6-millones-de-personas-en-2020-y-2021
 }
 other{kmkv} {
     name Other (Internal)

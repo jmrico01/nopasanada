@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La Agencia Europea de Medicamentos (EMA) declar&oacute; el jueves que comenz&oacute; la evaluaci&oacute;n de la utilizaci&oacute;n de la vacuna de Moderna contra el Covid-19 en menores de entre 6 meses y 5 a&ntilde;os, &uacute;ltima franja de edad que aun no ha sido vacunada.</li>
+<li>"Comenzamos la evaluaci&oacute;n de una aplicaci&oacute;n de Moderna para ampliar la utilizaci&oacute;n de Spikevax a ni&ntilde;os de seis meses a cinco a&ntilde;os, y es la primera aplicaci&oacute;n" para este grupo de edad, declar&oacute; en conferencia de prensa Marco Cavaleri, jefe de la estrategia de vacunaci&oacute;n del EMA.</li>
+<li>La empresa de biotecnolog&iacute;a estadounidense Moderna ya hizo una demanda similar en Estados Unidos la semana pasada luego de que ensayos mostraron que sus inyecciones eran seguras y causaron una fuerte respuesta inmunitaria.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Los ni&ntilde;os son menos vulnerables ante al virus que las personas mayores, pero pueden pese a todo contraerlo y transmitirlo.</li>
+<li>Pueden tener casos graves de S&iacute;ndrome inflamatorio multisist&eacute;mico pedi&aacute;trico (MIS-C).</li>
+<li>La EMA hab&iacute;a aprobado en febrero el uso de la vacuna anti-Covid de Moderna para ni&ntilde;os de 6 a&ntilde;os y m&aacute;s en 27 pa&iacute;ses de la Uni&oacute;n Europea.</li>
+</ul>
+}
+title Regulador europeo examina uso de vacuna anticovid de Moderna en menores de 5 años
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/5-regulador-europeo-examina-uso-de-vacuna-anticovid-de-moderna-en-menores-de-5-anos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La Agencia Europea de Medicamentos (EMA) declaró el jueves que comenzó la evaluación de la utilización de la vacuna de Moderna contra el Covid-19 en menores de entre 6 meses y 5 años, última franja de edad que aun no ha sido vacunada.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>COVID-19<b>
+    text1 Regulador europeo examina uso de vacuna anticovid de Moderna en menores de 5 años
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

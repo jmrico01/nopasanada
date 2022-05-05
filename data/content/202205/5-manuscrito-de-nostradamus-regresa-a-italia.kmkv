@@ -1,0 +1,46 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Un antiguo manuscrito en lat&iacute;n del astr&oacute;logo y adivino Nostradamus, desaparecido hace a&ntilde;os en Italia, fue devuelto por Alemania a la biblioteca de Roma a la que pertenec&iacute;a, anunci&oacute; este jueves la polic&iacute;a italiana.&nbsp;</li>
+<li>El manuscrito "fue robado" de los estantes de un centro de estudios hist&oacute;ricos de una comunidad religiosa con sede en Roma, explic&oacute; el cuerpo de carabineros en un comunicado de prensa.&nbsp;</li>
+<li>La investigaci&oacute;n comenz&oacute; cuando la polic&iacute;a especializada italiana detect&oacute; que el manuscrito estaba a punto de ser subastado en Alemania.</li>
+<li>En una de sus p&aacute;ginas, divulgada por la casa de subastas, aparec&iacute;a un sello que certificaba que el manuscrito pertenec&iacute;a a la biblioteca religiosa de Roma de donde hab&iacute;a desaparecido.&nbsp;</li>
+<li>La subasta, prevista para mayo de 2021, fue bloqueada gracias a la cooperaci&oacute;n judicial entre Italia y Alemania.&nbsp;</li>
+<li>El libro permaneci&oacute; bajo custodia de la polic&iacute;a de la ciudad de Stuttgart hasta este jueves, cuando fue devuelto oficialmente a la biblioteca romana, precis&oacute; la misma fuente.</li>
+<li>Michel de N&ocirc;tre-Dame, usualmente llamado Nostradamus, fue un boticario franc&eacute;s y supuesto adivino del siglo XVI, conocido por su libro que predice eventos futuros, el cual fue publicado primera vez en 1555 y muy popular por prestarse a todo tipo de interpretaciones.&nbsp;</li>
+</ul>
+}
+title Manuscrito de Nostradamus regresa a Italia
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/5-manuscrito-de-nostradamus-regresa-a-italia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un antiguo manuscrito en latín del astrólogo y adivino Nostradamus, desaparecido hace años en Italia, fue devuelto por Alemania a la biblioteca de Roma a la que pertenecía, anunció este jueves la policía italiana.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Italia<b>
+    text1 Manuscrito de Nostradamus regresa a Italia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,noticias-culturales,mas-arteymusica
+videoID 
+titlePoster 
+color #FBFF09
