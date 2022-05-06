@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/5-pandemia-mato-a-entre-13-3-y-16-6-millones-de-personas-en-2020-y-2021
+        featured{array} /content/202205/6-jefe-de-la-oposicion-britanica-investigado-por-supuesta-infraccion-de-normas-anticovid
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/5-manuscrito-de-nostradamus-regresa-a-italia
+    featured{array} /content/202205/6-comunidad-trans-de-cuba-quiere-su-propia-ley
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/4-agreden-al-comediante-dave-chappelle-durante-un-espectaculo-en-los-angeles
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/5-pandemia-mato-a-entre-13-3-y-16-6-millones-de-personas-en-2020-y-2021
+    featured{array} /content/202205/6-el-mercado-de-cocaina-y-metanfetaminas-en-fuerte-expansion-en-la-ue
 }
 other{kmkv} {
     name Other (Internal)
