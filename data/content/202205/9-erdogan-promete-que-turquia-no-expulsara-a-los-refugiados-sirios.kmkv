@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El presidente turco, Recep Tayyip Erdogan, cuyo pa&iacute;s acoge a m&aacute;s de 3,6 millones de refugiados sirios, prometi&oacute; el lunes que nunca los devolver&iacute;a de forma forzada a Siria.</li>
+<li>"Protegeremos hasta el final a nuestros hermanos expulsados de Siria por la guerra (...) Nunca les expulsaremos de este territorio", declar&oacute; el mandatario turco, denunciando los comentarios de los dirigentes de oposici&oacute;n que reclaman el reenvi&oacute; de los sirios a su pa&iacute;s.</li>
+<li>"Nuestras puertas est&aacute;n abiertas de par en par y seguimos acogiendo (a los sirios). No vamos a reenviarlos a la cara de los asesinos", insisti&oacute;, en alusi&oacute;n al r&eacute;gimen del presidente Bashar al Asad en Damasco, ante un grupo de empresarios.</li>
+<li>Varios partidos de la oposici&oacute;n piden reiteradamente que millones de refugiados sirios sean devueltos a su pa&iacute;s.</li>
+<li>La semana pasada, el CHP (Partido Republicano del Pueblo), uno de los m&aacute;s importantes, asegur&oacute; que si llegaba al poder en las elecciones legislativas y presidenciales de junio de 2023, todos los sirios tendr&iacute;an que abandonar Turqu&iacute;a "en dos a&ntilde;os".</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La semana pasada, el jefe de Estado turco anunci&oacute; preparar "el regreso de un mill&oacute;n" de sirios, de forma voluntaria, financiando, con asociaciones y ayuda internacional, viviendas y estructuras adaptadas en el noroeste de siria, &uacute;ltimo reducto rebelde que no est&aacute; bajo control de Damasco.</li>
+<li>Desde 2016 y el inicio de las operaciones militares turcas en Siria, unos 500.000 sirios fueron devueltos en estas "zonas seguras" creadas por Ankara a lo largo de su frontera, seg&uacute;n Erdogan.</li>
+<li>En total, Turqu&iacute;a acoge a casi cinco millones de refugiados, en su mayor&iacute;a sirios y afganos, tras un acuerdo alcanzado con la Uni&oacute;n Europea 2016.</li>
+</ul>
+}
+title Erdogan promete que Turquía "no expulsará" a los refugiados sirios
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/9-erdogan-promete-que-turquia-no-expulsara-a-los-refugiados-sirios.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El presidente turco, Recep Tayyip Erdogan, cuyo país acoge a más de 3,6 millones de refugiados sirios, prometió el lunes que nunca los devolvería de forma forzada a Siria.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Turquía<b>
+    text1 Erdogan promete que Turquía "no expulsará" a los refugiados sirios
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
