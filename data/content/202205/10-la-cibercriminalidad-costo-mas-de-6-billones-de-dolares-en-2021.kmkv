@@ -1,0 +1,49 @@
+text {
+<p style="text-align: left;"><strong>Foto portada: </strong><a href="https://unsplash.com/es/@arget">Arget</a></p>
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La cibercriminalidad ha costado m&aacute;s de 6 billonesde d&oacute;lares (5,7 billones de euros) a la econom&iacute;a del mundo, asegur&oacute; este martes Alessandro Profumo, director ejecutivo del gigante italiano de la aeron&aacute;utica y la defensa Leonardo.&nbsp;</li>
+<li>"Las nuevas amenazas registradas en el campo de la seguridad cibern&eacute;tica en los &uacute;ltimos dos a&ntilde;os son los 'da&ntilde;os colaterales' provocados por la epidemia de covid-19 y la aceleraci&oacute;n de la digitalizaci&oacute;n", explic&oacute; Profumo al inaugurar en Roma un congreso de expertos sobre Cybertech Europe 2022 y la guerra en Ucrania.</li>
+<li>"Los ciberataques son cada vez m&aacute;s numerosos, sofisticados y con un impacto mayor. En 2021, el costo total de los ciberdelitos super&oacute; los 6 billones de d&oacute;lares. Una quinta parte de esos ataques fueron dirigidos contra Europa", se&ntilde;al&oacute; Profumo, citando cifras de la Asociaci&oacute;n Italiana de Seguridad Inform&aacute;tica (Clusit).&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La ciberseguridad se ha convertido en un tema clave para la Comisi&oacute;n Europea y para los miembros de la Uni&oacute;n Europea (UE) con el fin de garantizar la "soberan&iacute;a digital y la autonom&iacute;a estrat&eacute;gica", agreg&oacute;.&nbsp;</li>
+<li>Pero la necesidad de especialistas en ese campo es enorme y "el 55% de las empresas europeas tienen problemas para contratar personal, ya que faltan al menos 200.000 expertos", asegur&oacute;.&nbsp;</li>
+<li>Adem&aacute;s de la falta de expertos tambi&eacute;n hay poca coordinaci&oacute;n. "Nuestro sistema de notificaci&oacute;n de incidentes (TI) no funciona" porque es "demasiado engorroso, demasiado burocr&aacute;tico", reconoci&oacute; hace dos semanas Juhan Lepassaar, director ejecutivo de la Agencia de Ciberseguridad de la UE (Enisa), citado por Euractiv, un sitio de informaci&oacute;n dedicado a los asuntos europeos.&nbsp;</li>
+</ul>
+}
+title La cibercriminalidad costó más de 6 billones de dólares en 2021
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/10-la-cibercriminalidad-costo-mas-de-6-billones-de-dolares-en-2021.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La cibercriminalidad ha costado más de 6 billonesde dólares (5,7 billones de euros) a la economía del mundo, aseguró este martes Alessandro Profumo, director ejecutivo del gigante italiano de la aeronáutica y la defensa Leonardo.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Internet<b>
+    text1 La cibercriminalidad costó más de 6 billones de dólares en 2021
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

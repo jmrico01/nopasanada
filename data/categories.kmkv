@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202205/4-bolsonaro-remonta-en-las-encuestas-a-solo-cinco-meses-de-las-elecciones
+        featured{array} /content/202205/10-sri-lanka-ordena-a-sus-fuerzas-disparar-sin-aviso-previo-para-disperar-disturbios
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/6-jefe-de-la-oposicion-britanica-investigado-por-supuesta-infraccion-de-normas-anticovid
+        featured{array} /content/202205/10-director-de-la-oms-considera-insostenible-la-politica-china-de-covid-cero
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/6-comunidad-trans-de-cuba-quiere-su-propia-ley
+    featured{array} /content/202205/10-director-de-la-oms-considera-insostenible-la-politica-china-de-covid-cero
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/4-agreden-al-comediante-dave-chappelle-durante-un-espectaculo-en-los-angeles
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/6-el-mercado-de-cocaina-y-metanfetaminas-en-fuerte-expansion-en-la-ue
+    featured{array} /content/202205/10-exjefe-de-la-policia-de-honduras-sera-extraditado-a-eeuu-por-narcotrafico
 }
 other{kmkv} {
     name Other (Internal)
