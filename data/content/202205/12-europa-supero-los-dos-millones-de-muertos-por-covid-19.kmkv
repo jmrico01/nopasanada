@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>M&aacute;s de dos millones de personas murieron de covid-19 en Europa, durante mucho tiempo epicentro de la pandemia, anunci&oacute; este jueves la Organizaci&oacute;n Mundial de la Salud (OMS).</li>
+<li>"Una etapa devastadora ha sido franqueada ya que el n&uacute;mero de decesos debido al covid-19 declarados por los pa&iacute;ses de la regi&oacute;n Europa de la OMS super&oacute; los dos millones de personas", indic&oacute; a AFP un portavoz de la agencia sanitaria de la ONU.</li>
+<li>En total, 2.002.058 de personas murieron de covid de los 218.225.294 casos registrados por la organizaci&oacute;n en la zona Europa de la OMS, que abarca hasta Asia central.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Tras un repunte en las dos primeras semanas de marzo, la pandemia de coronavirus ha retrocedido desde entonces en Europa.</li>
+<li>El n&uacute;mero de casos y muertes retrocedi&oacute; respectivamente un 26% y 24% en los &uacute;ltimos siete d&iacute;as.</li>
+<li>M&aacute;s de dos a&ntilde;os despu&eacute;s de las primeras restricciones, la mayor&iacute;a de los pa&iacute;ses europeos pretenden pasar la p&aacute;gina del covid-19 y quedan pocas restricciones.&nbsp;</li>
+<li>En Francia, por ejemplo, a partir del lunes ya no ser&aacute; obligatorio llevar mascarilla para viajar.</li>
+<li>&nbsp;</li>
+</ul>
+}
+title Europa superó los dos millones de muertos por covid-19
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/12-europa-supero-los-dos-millones-de-muertos-por-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Más de dos millones de personas murieron de covid-19 en Europa, durante mucho tiempo epicentro de la pandemia, anunció este jueves la Organización Mundial de la Salud (OMS).
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>COVID-19<b>
+    text1 Europa superó los dos millones de muertos por covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
