@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/10-director-de-la-oms-considera-insostenible-la-politica-china-de-covid-cero
+        featured{array} /content/202205/13-lo-que-sabemos-del-sistema-de-salud-de-corea-del-norte-ante-el-brote-de-covid
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/10-director-de-la-oms-considera-insostenible-la-politica-china-de-covid-cero
+    featured{array} /content/202205/13-elon-musk-anuncia-que-suspende-por-ahora-la-compra-de-twitter
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202205/4-agreden-al-comediante-dave-chappelle-durante-un-espectaculo-en-los-angeles
+        featured{array} /content/202205/13-los-21-filmes-en-competicion-en-el-75-festival-de-cannes
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/12-primera-imagen-del-agujero-negro-supermasivo-en-el-corazon-de-la-via-lactea
+    featured{array} /content/202205/13-lo-que-sabemos-del-sistema-de-salud-de-corea-del-norte-ante-el-brote-de-covid
 }
 other{kmkv} {
     name Other (Internal)
