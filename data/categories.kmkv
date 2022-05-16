@@ -16,11 +16,11 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202205/5-regulador-europeo-examina-uso-de-vacuna-anticovid-de-moderna-en-menores-de-5-anos
+        featured{array} /content/202205/16-inusual-manifestacion-estudiantil-en-pekin-en-contra-de-las-medidas-anti-covid
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202205/11-raya-de-4-metros-de-largo-y-180-kilos-capturada-en-camboya
+        featured{array} /content/202205/16-arabia-saudita-quiere-superar-los-13-millones-de-barriles-de-crudo-por-dia-para-2027
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202205/10-sri-lanka-ordena-a-sus-fuerzas-disparar-sin-aviso-previo-para-disperar-disturbios
+        featured{array} /content/202205/16-suecia-solicitara-su-adhesion-a-la-otan
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/13-lo-que-sabemos-del-sistema-de-salud-de-corea-del-norte-ante-el-brote-de-covid
+        featured{array} /content/202205/16-inusual-manifestacion-estudiantil-en-pekin-en-contra-de-las-medidas-anti-covid
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/13-elon-musk-anuncia-que-suspende-por-ahora-la-compra-de-twitter
+    featured{array} /content/202205/16-arabia-saudita-quiere-superar-los-13-millones-de-barriles-de-crudo-por-dia-para-2027
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/13-los-21-filmes-en-competicion-en-el-75-festival-de-cannes
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/13-lo-que-sabemos-del-sistema-de-salud-de-corea-del-norte-ante-el-brote-de-covid
+    featured{array} /content/202205/16-mas-de-30000-pandilleros-detenidos-en-el-salvador-en-50-dias
 }
 other{kmkv} {
     name Other (Internal)

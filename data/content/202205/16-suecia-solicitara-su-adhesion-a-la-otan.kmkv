@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Suecia solicitar&aacute; su adhesi&oacute;n a la OTAN, anunci&oacute; este lunes la primera ministra, Magdalena Andersson, destacando que eso significa una nueva "era" para el pa&iacute;s escandinavo.</li>
+<li>El gobierno ha decidido informar a la OTAN de la voluntad de Suecia de convertirse en miembro de la alianza", declar&oacute; en una conferencia de prensa, un d&iacute;a despu&eacute;s de que el gobierno finland&eacute;s anunciara su candidatura.&nbsp;</li>
+<li>"Dejamos una era para entrar en una nueva", seg&uacute;n la primera ministra sueca</li>
+<li>El ambajador sueco ante la OTAN transmitir&aacute; en "poco tiempo" la candidatura de Estocolmo, seg&uacute;n Andersson</li>
+<li>Suecia y Finlandia ya anunciaron su deseo de depositar su candidatura de forma simult&aacute;nea.</li>
+<li>"Esperamos que (la adhesi&oacute;n) no tarde m&aacute;s de un a&ntilde;o", con la necesaria ratificaci&oacute;n por los 30 miembros de la Alianza Atl&aacute;ntica, declar&oacute; la jefa del gobierno sueco.</li>
+</ul>
+}
+title Suecia solicitará su adhesión a la OTAN
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/16-suecia-solicitara-su-adhesion-a-la-otan.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Suecia solicitará su adhesión a la OTAN, anunció este lunes la primera ministra, Magdalena Andersson, destacando que eso significa una nueva "era" para el país escandinavo.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Suecia<b>
+    text1 Suecia solicitará su adhesión a la OTAN
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
