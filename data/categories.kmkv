@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202205/16-suecia-solicitara-su-adhesion-a-la-otan
+        featured{array} /content/202205/17-justicia-rusa-aplaza-juicio-de-apelacion-del-opositor-navalni
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/16-inusual-manifestacion-estudiantil-en-pekin-en-contra-de-las-medidas-anti-covid
+        featured{array} /content/202205/17-musk-dice-que-no-comprara-twitter-hasta-tener-garantias-sobre-las-cuentas-falsas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/16-arabia-saudita-quiere-superar-los-13-millones-de-barriles-de-crudo-por-dia-para-2027
+    featured{array} /content/202205/17-la-cpi-enviara-a-42-expertos-para-investigar-los-crimenes-de-guerra-en-ucrania
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/13-los-21-filmes-en-competicion-en-el-75-festival-de-cannes
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/16-mas-de-30000-pandilleros-detenidos-en-el-salvador-en-50-dias
+    featured{array} /content/202205/17-son-realmente-ecologicos-los-carros-electricos-tres-argumentos-verificados
 }
 other{kmkv} {
     name Other (Internal)
