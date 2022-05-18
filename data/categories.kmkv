@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202205/17-justicia-rusa-aplaza-juicio-de-apelacion-del-opositor-navalni
+        featured{array} /content/202205/18-soldado-ruso-se-declara-culpable-en-juicio-por-crimen-de-guerra
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/17-musk-dice-que-no-comprara-twitter-hasta-tener-garantias-sobre-las-cuentas-falsas
+        featured{array} /content/202205/18-indicadores-claves-del-cambio-climatico-batieron-records-en-2021-segun-la-onu
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/17-la-cpi-enviara-a-42-expertos-para-investigar-los-crimenes-de-guerra-en-ucrania
+    featured{array} /content/202205/18-federacion-de-futbol-de-eeuu-anuncia-igual-paga-para-hombres-y-mujeres
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/13-los-21-filmes-en-competicion-en-el-75-festival-de-cannes
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/17-son-realmente-ecologicos-los-carros-electricos-tres-argumentos-verificados
+    featured{array} /content/202205/18-el-mundo-sigue-sin-estar-preparado-para-afrontar-nuevas-pandemias-advierte-informe
 }
 other{kmkv} {
     name Other (Internal)
