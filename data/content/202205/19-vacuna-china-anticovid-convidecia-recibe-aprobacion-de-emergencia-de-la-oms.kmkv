@@ -1,0 +1,41 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La Organizaci&oacute;n Mundial de la Salud anunci&oacute; el jueves la aprobaci&oacute;n de emergencia de la vacuna Convidecia de la empresa china CanSino Biologics, mientras Pek&iacute;n lucha contra el resurgimiento de la pandemia de covid.&nbsp;</li>
+<li>La vacuna se basa en un adenovirus humano modificado, se administra en una sola dosis y est&aacute; recomendada por la OMS para todos los grupos de edad a partir de los 18 a&ntilde;os, seg&uacute;n un comunicado de la OMS.&nbsp;</li>
+</ul>
+}
+title Vacuna china anticovid Convidecia recibe aprobación de emergencia de la OMS
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/19-vacuna-china-anticovid-convidecia-recibe-aprobacion-de-emergencia-de-la-oms.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La Organización Mundial de la Salud anunció el jueves la aprobación de emergencia de la vacuna Convidecia de la empresa china CanSino Biologics, mientras Pekín lucha contra el resurgimiento de la pandemia de covid.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 Vacuna china anticovid Convidecia recibe aprobación de emergencia de la OMS
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

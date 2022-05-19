@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/18-indicadores-claves-del-cambio-climatico-batieron-records-en-2021-segun-la-onu
+        featured{array} /content/202205/19-vacuna-china-anticovid-convidecia-recibe-aprobacion-de-emergencia-de-la-oms
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/18-federacion-de-futbol-de-eeuu-anuncia-igual-paga-para-hombres-y-mujeres
+    featured{array} /content/202205/19-fiscalia-pide-prision-perpetua-contra-soldado-ruso-juzgado-por-crimenes-de-guerra
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/13-los-21-filmes-en-competicion-en-el-75-festival-de-cannes
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/18-el-mundo-sigue-sin-estar-preparado-para-afrontar-nuevas-pandemias-advierte-informe
+    featured{array} /content/202205/19-nasa-anuncia-inminente-fin-de-las-operaciones-del-robot-insight-en-marte
 }
 other{kmkv} {
     name Other (Internal)
