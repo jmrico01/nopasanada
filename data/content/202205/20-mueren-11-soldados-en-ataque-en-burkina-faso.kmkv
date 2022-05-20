@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Once soldados murieron el jueves en Burkina Faso en un ataque de presuntos yihadistas contra un destacamento militar, inform&oacute; el estado mayor del ej&eacute;rcito.</li>
+<li>Un informe previo de fuentes de seguridad y locales del jueves daba un balance de siete soldados muertos.</li>
+<li>"Un ataque complejo - disparos de proyectiles seguidos de fuego directo contra la base - tuvo como objetivo el destacamento militar de Madjoari" en la provincia de Kompienga, en la regi&oacute;n del Este, dijo el comunicado, publicado el jueves por la noche.</li>
+<li>"Once soldados perdieron la vida en el ataque" y "al menos 20 soldados heridos por metralla o proyectiles fueron atendidos por los servicios de salud", a&ntilde;adi&oacute;.</li>
+<li>Los aviones del ej&eacute;rcito intervinieron y "neutralizaron al menos a 15 terroristas que intentaban escapar tras el ataque", seg&uacute;n el ej&eacute;rcito.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Burkina Faso, sobre todo el norte y el este, es blanco de ataques yihadistas desde 2015 por parte de movimientos afiliados a Al Qaida y al Estado Isl&aacute;mico, que han matado a m&aacute;s de 2.000 personas y han desplazado a 1,8 millones.</li>
+<li>El nuevo jefe de Estado, el teniente coronel Paul-Henri Sandaogo Damiba, que derroc&oacute; a finales de enero al presidente electo Roch Marc Christian Kabor&eacute;, al que acus&oacute; de ser ineficaz frente a la violencia yihadista, ha hecho de la seguridad su "prioridad".</li>
+<li>Tras una relativa calma tras asumir el poder, Damiba se enfrenta ahora a un recrudecimiento de los atentados perpetrados por presuntos yihadistas que han causado la muerte de casi 200 civiles y soldados.</li>
+<li>A principios de abril, anunci&oacute; la creaci&oacute;n de comit&eacute;s locales de di&aacute;logo con los grupos yihadistas para intentar frenar la violencia.</li>
+</ul>
+}
+title Mueren 11 soldados en ataque en Burkina Faso
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/20-mueren-11-soldados-en-ataque-en-burkina-faso.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Once soldados murieron el jueves en Burkina Faso en un ataque de presuntos yihadistas contra un destacamento militar, informó el estado mayor del ejército.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Burkina Faso<b>
+    text1 Mueren 11 soldados en ataque en Burkina Faso
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
