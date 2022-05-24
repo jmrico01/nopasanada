@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/23-mas-de-100-millones-de-desplazados-forzosos-en-el-mundo-segun-la-onu
+    featured{array} /content/202205/24-una-fuga-masiva-de-datos-muestra-el-alcance-de-las-detenciones-de-uigures-en-china
 }
 other{kmkv} {
     name Other (Internal)
