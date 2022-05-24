@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202205/23-eeuu-defendera-a-taiwan-en-caso-de-ataque-afirma-biden
+        featured{array} /content/202205/24-altos-funcionarios-rusos-admiten-que-conflicto-en-ucrania-se-prolongara
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/23-rusia-esta-estudiando-el-plan-de-paz-propuesto-por-italia
+        featured{array} /content/202205/24-justicia-rusa-confirma-condena-de-navalni-a-nueve-anos-de-carcel
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/23-corte-de-ucrania-condena-a-soldado-ruso-a-cadena-perpetua-por-crimenes-de-guerra
+    featured{array} /content/202205/24-un-parapentista-se-lanza-por-primera-vez-legalmente-desde-la-cima-del-everest
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/13-los-21-filmes-en-competicion-en-el-75-festival-de-cannes
