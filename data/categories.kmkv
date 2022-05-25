@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202205/16-inusual-manifestacion-estudiantil-en-pekin-en-contra-de-las-medidas-anti-covid
+        featured{array} /content/202205/25-capsula-starliner-de-boeing-se-prepara-para-volver-a-la-tierra
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202205/24-altos-funcionarios-rusos-admiten-que-conflicto-en-ucrania-se-prolongara
+        featured{array} /content/202205/25-familia-de-aung-san-suu-kyi-presenta-denuncia-contra-junta-ante-la-onu
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/24-justicia-rusa-confirma-condena-de-navalni-a-nueve-anos-de-carcel
+        featured{array} /content/202205/25-gobierno-salvadoreno-pedira-a-congreso-extender-regimen-de-excepcion-contra-pandillas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/24-un-parapentista-se-lanza-por-primera-vez-legalmente-desde-la-cima-del-everest
+    featured{array} /content/202205/25-mitad-de-las-mariposas-del-reino-unido-estan-en-peligro-de-extincion
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/13-los-21-filmes-en-competicion-en-el-75-festival-de-cannes
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/24-14-ninos-y-un-maestro-asesinados
+    featured{array} /content/202205/25-mitad-de-las-mariposas-del-reino-unido-estan-en-peligro-de-extincion
 }
 other{kmkv} {
     name Other (Internal)
