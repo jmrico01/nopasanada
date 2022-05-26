@@ -64,10 +64,10 @@ noticias{kmkv} {
         featured{array} /content/202205/25-gobierno-salvadoreno-pedira-a-congreso-extender-regimen-de-excepcion-contra-pandillas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/25-mitad-de-las-mariposas-del-reino-unido-estan-en-peligro-de-extincion
+    featured{array} /content/202205/26-ariel-escalante-el-cine-costarricense-tiene-que-abordar-problemas-sociales
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202205/13-los-21-filmes-en-competicion-en-el-75-festival-de-cannes
+        featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/25-mitad-de-las-mariposas-del-reino-unido-estan-en-peligro-de-extincion
+    featured{array} /content/202205/26-autoridades-piden-exhumar-cuerpo-de-debanhi-para-realizar-nuevos-estudios-forenses
 }
 other{kmkv} {
     name Other (Internal)
