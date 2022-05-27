@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Corea del Norte afirma que el brote de covid-19 est&aacute; bajo control, mientras que los medios de comunicaci&oacute;n estatales informan de un descenso del n&uacute;mero de casos este viernes por s&eacute;ptimo d&iacute;a consecutivo y los trabajadores sanitarios "intensifican" pruebas de detecci&oacute;n y tratamientos.</li>
+<li>Sin embargo, los expertos cuestionan las cifras oficiales, ya que el pa&iacute;s aislado cuenta con de los peores sistemas sanitarios del mundo y probablemente no tiene medicamentos para el tratar el coronavirus ni capacidad para realizar pruebas masivas.</li>
+<li>La Agencia Central de Noticias de Corea (KCNA), dirigida por el Estado, afirm&oacute; que se hicieron "progresos" en el diagn&oacute;stico y tratamiento de los pacientes gracias a "los abnegados esfuerzos" de los trabajadores m&eacute;dicos.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Corea del Norte anunci&oacute; sus primeros casos de covid el 12 de mayo y activ&oacute; un sistema de prevenci&oacute;n de epidemias de m&aacute;xima emergencia.</li>
+<li>El l&iacute;der del gobierno Kim Jong Un culp&oacute; a los funcionarios por la lentitud de la reacci&oacute;n al brote y despleg&oacute; al ej&eacute;rcito para dotar de personal a las farmacias de Pyongyang.</li>
+<li>El fin de semana pasado los medios de comunicaci&oacute;n estatales dijeron que la epidemia est&aacute; controlada, y la KCNA reiter&oacute; el mismo mensaje el martes.&nbsp;</li>
+<li>"Las tasas de mortalidad en todo el pa&iacute;s disminuyeron dr&aacute;sticamente", detall&oacute; la agencia de noticias. El viernes inform&oacute; de algo m&aacute;s de 100.000 nuevos casos de "fiebre", por debajo de los 390.000 diarios registrados a principios de este mes.&nbsp;</li>
+<li>La KCNA tambi&eacute;n inform&oacute; de una muerte suplementaria el viernes, lo que eleva el total a 69, y afirm&oacute; que la tasa de casos fatales sigue siendo del 0,002%.&nbsp;</li>
+<li>Corea del Norte no vacun&oacute; a ninguno de sus aproximadamente 25 millones de habitantes, ya que rechaz&oacute; las vacunas ofrecidas por la Organizaci&oacute;n Mundial de la Salud.&nbsp;</li>
+</ul>
+}
+title Corea del Norte afirma que brote de covid está controlado e "intensifica" el tratamiento
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/27-corea-del-norte-afirma-que-brote-de-covid-esta-controlado-e-intensifica-el-tratamiento.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Corea del Norte afirma que el brote de covid-19 está bajo control, mientras que los medios de comunicación estatales informan de un descenso del número de casos este viernes por séptimo día consecutivo y los trabajadores sanitarios "intensifican" pruebas de detección y tratamientos.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Corea del Norte<b>
+    text1 Corea del Norte afirma que brote de covid está controlado e "intensifica" el tratamiento
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

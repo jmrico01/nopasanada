@@ -16,11 +16,11 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202205/25-capsula-starliner-de-boeing-se-prepara-para-volver-a-la-tierra
+        featured{array} /content/202205/27-corea-del-norte-afirma-que-brote-de-covid-esta-controlado-e-intensifica-el-tratamiento
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202205/16-arabia-saudita-quiere-superar-los-13-millones-de-barriles-de-crudo-por-dia-para-2027
+        featured{array} /content/202205/27-g7-promete-descarbonizar-sector-electrico
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/25-gobierno-salvadoreno-pedira-a-congreso-extender-regimen-de-excepcion-contra-pandillas
+        featured{array} /content/202205/27-g7-promete-descarbonizar-sector-electrico
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/26-ariel-escalante-el-cine-costarricense-tiene-que-abordar-problemas-sociales
+    featured{array} /content/202205/27-la-culpa-del-deshielo-de-los-glaciares-peruanos-se-debate-en-un-tribunal-aleman
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/26-autoridades-piden-exhumar-cuerpo-de-debanhi-para-realizar-nuevos-estudios-forenses
+    featured{array} /content/202205/27-2-9-millones-de-refugiados-ucranianos-dejan-los-paises-fronterizos-segun-la-onu
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Los pa&iacute;ses del G7 se comprometieron el viernes a "descarbonizar" la mayor parte de su sector el&eacute;ctrico "de aqu&iacute; a 2035" y a cesar el financiamiento de proyectos vinculados con las energ&iacute;as f&oacute;siles este a&ntilde;o.&nbsp;</li>
+<li>"Nos comprometemos a lograr un sector el&eacute;ctrico predominantemente descarbonizado para 2035 (...) y a apoyar la aceleraci&oacute;n de la eliminaci&oacute;n mundial del carb&oacute;n", seg&uacute;n una declaraci&oacute;n conjunta tras una reuni&oacute;n de ministros de Clima y Energ&iacute;a en Berl&iacute;n.</li>
+<li>Para lograr este objetivo, el grupo de pa&iacute;ses prometieron "poner fin a las ayudas p&uacute;blicas directas para proyectos sin mitigaci&oacute;n en el sector de las energ&iacute;as f&oacute;siles", indicaron los ministros.&nbsp;</li>
+<li>El t&eacute;rmino "sin mitigaci&oacute;n" se refiere a proyectos que no usen alguna t&eacute;cnica para contrarrestar la contaminaci&oacute;n provocada por las emisiones de di&oacute;xido de carbono.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Esta es la primera vez que las siete potencias industriales (Estados Unidos, Jap&oacute;n, Canad&aacute;, Francia, Italia, el Reino Unido y Alemania) se comprometen a un objetivo en este sentido.&nbsp;</li>
+<li>Cesar los subsidios para proyectos internacionales que usen las energ&iacute;as f&oacute;siles fue una de las resoluciones adoptadas por 20 pa&iacute;ses en la Conferencia del Clima COP26 celebrada en Glasgow el a&ntilde;o pasado.&nbsp;</li>
+<li>Entonces, todos los pa&iacute;ses del G7 menos Jap&oacute;n hab&iacute;an adherido a este compromiso.&nbsp;</li>
+<li>"Es bueno que Jap&oacute;n, que es el principal financista de los combustibles f&oacute;siles en el mundo se haya unido a los otros pa&iacute;ses del G7", indic&oacute; a la AFP Alden Meyer, experto del centro de estudios europeos E3G.</li>
+</ul>
+}
+title G7 promete "descarbonizar" sector eléctrico
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/27-g7-promete-descarbonizar-sector-electrico.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los países del G7 se comprometieron el viernes a "descarbonizar" la mayor parte de su sector eléctrico "de aquí a 2035" y a cesar el financiamiento de proyectos vinculados con las energías fósiles este año.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>G7<b>
+    text1 G7 promete "descarbonizar" sector eléctrico
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
