@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202205/27-g7-promete-descarbonizar-sector-electrico
+        featured{array} /content/202205/30-costa-del-pacifico-mexicano-se-prepara-para-recibir-al-huracan-agatha
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202205/25-familia-de-aung-san-suu-kyi-presenta-denuncia-contra-junta-ante-la-onu
+        featured{array} /content/202205/30-colombia-va-a-segunda-vuelta-electoral-en-un-duelo-por-el-voto-antisistema
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/27-g7-promete-descarbonizar-sector-electrico
+        featured{array} /content/202205/30-comienza-juicio-contra-artistas-cubanos-opositores-otero-alcantara-y-maykel-castillo
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/27-la-culpa-del-deshielo-de-los-glaciares-peruanos-se-debate-en-un-tribunal-aleman
+    featured{array} /content/202205/30-costa-del-pacifico-mexicano-se-prepara-para-recibir-al-huracan-agatha
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/27-2-9-millones-de-refugiados-ucranianos-dejan-los-paises-fronterizos-segun-la-onu
+    featured{array} /content/202205/30-francia-denuncia-fraude-masivo-por-entradas-falsas-en-final-de-champions
 }
 other{kmkv} {
     name Other (Internal)
@@ -116,7 +116,7 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202203/28-costa-rica-vence-2-1-a-el-salvador-y-sigue-sonando-con-clasificar-a-catar-2022
+        featured{array} /content/202205/30-francia-denuncia-fraude-masivo-por-entradas-falsas-en-final-de-champions
     }
     displayOrder{array} 
     featured{array} /content/202006/23-real-madrid

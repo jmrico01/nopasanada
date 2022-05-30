@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><em><strong>Foto portada: Infobae.com</strong></em></p>
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La costa del Pac&iacute;fico mexicano se preparaba este lunes para recibir el impacto de Agatha, que se anticipa toque tierra en el estado de Oaxaca (sur) al final de la tarde como un hurac&aacute;n 2 de la escala Saffir (de 5).</li>
+<li>Seg&uacute;n el bolet&iacute;n de las 12H00 GMT del Centro Nacional de Huracanes de Estados Unidos (NHC), el fen&oacute;meno se localizaba a 110 km de Puerto &Aacute;ngel con vientos sostenidos de 175 km/h y avanzaba hacia el noreste a 9 km/h.</li>
+<li>"Se esperan pocos cambios en la fuerza de sus vientos antes de que alcance la costa de Oaxaca. Se anticipa que se debilite r&aacute;pidamente despu&eacute;s de tocar tierra y se disipe la tarde el martes", detall&oacute; el NHC.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Este es el primer hurac&aacute;n de la temporada en el Pac&iacute;fico, cobr&oacute; fuerza r&aacute;pidamente por las altas temperaturas del mar en el Pac&iacute;fico sur mexicano y los pron&oacute;sticos iniciales no descartaban que llegara a la categor&iacute;a 3.</li>
+<li>"Agatha impactar&iacute;a esta tarde-noche las costas de Oaxaca como hurac&aacute;n categor&iacute;a 2", advirti&oacute; de su lado Protecci&oacute;n Civil de ese estado en avisos en sus redes sociales.</li>
+<li>Las autoridades estatales han abierto 203 refugios temporales con capacidad para albergar a 26.800 personas, mientras que los vecinos Chiapas y Guerrero han cerrado puertos a la navegaci&oacute;n.</li>
+<li>Las autoridades han identificado a 5.240 turistas en la zona de riesgo en Oaxaca, que alberga centros vacacionales como Puerto Escondido y Huatulco, populares entre turistas europeos y estadounidenses aficionados al surf.</li>
+<li>"Se prev&eacute; que este sistema aumente las condiciones para lluvias fuertes a muy fuertes principalmente sobre las cuencas del Papaloapan al Tonal&aacute;", a&ntilde;adi&oacute; el reporte del gobierno estatal.</li>
+</ul>
+}
+title Costa del Pacífico mexicano se prepara para recibir al huracán Agatha
+day 30
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/30-costa-del-pacifico-mexicano-se-prepara-para-recibir-al-huracan-agatha.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La costa del Pacífico mexicano se preparaba este lunes para recibir el impacto de Agatha, que se anticipa toque tierra en el estado de Oaxaca (sur) al final de la tarde como un huracán 2 de la escala Saffir (de 5).
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>México<b>
+    text1 Costa del Pacífico mexicano se prepara para recibir al huracán Agatha
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
