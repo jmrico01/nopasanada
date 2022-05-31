@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><em>Foto portada: infobae.com</em></p>
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Cortes en carreteras, &aacute;rboles y postes ca&iacute;dos dej&oacute; en la costa sur del Pac&iacute;fico de M&eacute;xico el paso de Agatha, que toc&oacute; tierra como hurac&aacute;n categor&iacute;a 2 y este martes se hab&iacute;a degradado a depresi&oacute;n tropical.</li>
+<li>El gobierno del estado mexicano de Oaxaca (sur), que recibi&oacute; directamente el impacto del fen&oacute;meno, inform&oacute; que no se registraron da&ntilde;os personales y que los materiales fueron escasos.</li>
+<li>"La mayor afectaci&oacute;n que tenemos es b&aacute;sicamente en las carreteras, tenemos ciertos impactos, pero hacia el mediod&iacute;a deben estar restablecidas las comunicaciones", dijo a la cadena Televisa Alejandro Murat, gobernador de Oaxaca.</li>
+<li>A las 12H00 GMT, la depresi&oacute;n tropical se encontraba sobre tierra a 90 km del puerto de Salina Cruz. Agatha registraba vientos de 55 km/h y avanzaba a 13 km/h, seg&uacute;n el Centro Nacional de Huracanes (NHC) de Estados Unidos.</li>
+<li>"Se espera que Agatha se debilite a&uacute;n m&aacute;s y por la tarde se disipe en el sur de M&eacute;xico", detall&oacute; en un bolet&iacute;n el NHC.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>El fen&oacute;meno toc&oacute; tierra como hurac&aacute;n 2 de la escala Saffir-Simpson (de 5) la tarde del lunes al oeste de Puerto &Aacute;ngel, una comunidad costera de unos 2.500 habitantes en Oaxaca.</p>
+<p>Autoridades ten&iacute;an ubicados a unos 5.240 turistas en la zona, que alberga centros vacacionales como Puerto Escondido y Huatulco, populares entre turistas europeos y estadounidenses aficionados al surf.&nbsp;</p>
+<p>El Servicio Meteorol&oacute;gico mexicano inform&oacute; que existe un 60% de posibilidades de que, en cinco d&iacute;as, los remanentes de Agatha atraviesen el estrecho de Tehuantepec para salir al Atl&aacute;ntico con potencial de formaci&oacute;n cicl&oacute;nica.</p>
+<p>"Seguir&aacute; dejando lluvias importantes a&uacute;n como remanente", inform&oacute; de su lado Protecci&oacute;n Civil de Oaxaca, que mantiene suspendidas las clases y distintas actividades.</p>
+<p>Agatha es la primera tormenta de la temporada 2022 en el Pac&iacute;fico.</p>
+<p>M&eacute;xico sufre cada a&ntilde;o el embate de ciclones tropicales tanto en su costa Pac&iacute;fica como Atl&aacute;ntica, habitualmente entre mayo y noviembre.</p>
+<p>La temporada 2021 de huracanes, que va del 15 de mayo al 30 de noviembre, fue moderadamente activa con 40 fen&oacute;menos. De ellos, 15 fueron huracanes, seg&uacute;n el Meteorol&oacute;gico mexicano.</p>
+}
+title El paso de Agatha provoca daños en carreteras en la costa del Pacífico mexicano
+day 31
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202205/headers/30-el-paso-de-agatha-provoca-danos-en-carreteras-en-la-costa-del-pacifico-mexicano.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Cortes en carreteras, árboles y postes caídos dejó en la costa sur del Pacífico de México el paso de Agatha, que tocó tierra como huracán categoría 2 y este martes se había degradado a depresión tropical.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>México<b>
+    text1 El paso de Agatha provoca daños en carreteras en la costa del Pacífico mexicano
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 05
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

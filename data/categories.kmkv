@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202205/30-costa-del-pacifico-mexicano-se-prepara-para-recibir-al-huracan-agatha
+        featured{array} /content/202205/30-el-paso-de-agatha-provoca-danos-en-carreteras-en-la-costa-del-pacifico-mexicano
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202205/30-colombia-va-a-segunda-vuelta-electoral-en-un-duelo-por-el-voto-antisistema
+        featured{array} /content/202205/30-grupo-rebelde-birmano-pide-a-la-junta-militar-negociar-la-paz
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/30-comienza-juicio-contra-artistas-cubanos-opositores-otero-alcantara-y-maykel-castillo
+        featured{array} /content/202205/30-el-embargo-al-petroleo-ruso-obligara-a-la-ue-a-buscar-otros-proveedores
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/30-costa-del-pacifico-mexicano-se-prepara-para-recibir-al-huracan-agatha
+    featured{array} /content/202205/30-servicios-de-inteligencia-franceses-alertaron-del-riesgo-de-caos-en-final-de-champions
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/30-francia-denuncia-fraude-masivo-por-entradas-falsas-en-final-de-champions
+    featured{array} /content/202205/30-el-embargo-al-petroleo-ruso-obligara-a-la-ue-a-buscar-otros-proveedores
 }
 other{kmkv} {
     name Other (Internal)
