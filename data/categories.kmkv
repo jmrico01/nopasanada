@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202205/30-el-paso-de-agatha-provoca-danos-en-carreteras-en-la-costa-del-pacifico-mexicano
+        featured{array} /content/202206/1-estas-son-las-dos-que-lideran-la-batalla-contra-la-mineria-en-ecuador
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202205/30-grupo-rebelde-birmano-pide-a-la-junta-militar-negociar-la-paz
+        featured{array} /content/202206/1-eeuu-y-taiwan-desafian-a-pekin-a-iniciar-conversaciones-comerciales
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202205/30-el-embargo-al-petroleo-ruso-obligara-a-la-ue-a-buscar-otros-proveedores
+        featured{array} /content/202206/1-eeuu-y-taiwan-desafian-a-pekin-a-iniciar-conversaciones-comerciales
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202205/30-servicios-de-inteligencia-franceses-alertaron-del-riesgo-de-caos-en-final-de-champions
+    featured{array} /content/202206/1-rusia-trabaja-para-minimizar-impacto-del-embargo-de-la-ue-sobre-petroleo
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202205/30-el-embargo-al-petroleo-ruso-obligara-a-la-ue-a-buscar-otros-proveedores
+    featured{array} /content/202206/1-publicaron-un-nueva-version-definitiva-del-diario-de-ana-frank
 }
 other{kmkv} {
     name Other (Internal)
