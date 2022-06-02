@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202206/1-eeuu-y-taiwan-desafian-a-pekin-a-iniciar-conversaciones-comerciales
+        featured{array} /content/202206/2-francia-vive-su-primera-jornada-de-huelga-en-casi-20-anos
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/1-eeuu-y-taiwan-desafian-a-pekin-a-iniciar-conversaciones-comerciales
+        featured{array} /content/202206/2-china-duplicara-su-capacidad-de-generar-energia-eolica-y-solar-para-2025
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/1-rusia-trabaja-para-minimizar-impacto-del-embargo-de-la-ue-sobre-petroleo
+    featured{array} /content/202206/2-china-duplicara-su-capacidad-de-generar-energia-eolica-y-solar-para-2025
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/1-publicaron-un-nueva-version-definitiva-del-diario-de-ana-frank
+    featured{array} /content/202206/2-miles-de-habitantes-de-shanghai-ven-evaporarse-su-libertad-con-nuevo-confinamiento
 }
 other{kmkv} {
     name Other (Internal)

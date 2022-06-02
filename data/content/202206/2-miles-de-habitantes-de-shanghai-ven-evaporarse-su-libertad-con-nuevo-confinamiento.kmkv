@@ -1,0 +1,59 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Cientos de miles de residentes en Shangh&aacute;i vieron c&oacute;mo sus esperanzas se desvanec&iacute;an este jueves cuando tuvieron que volver a confinarse nada m&aacute;s recuperar la libertad de movimiento, una situaci&oacute;n que contrasta con el triunfalismo mostrado por los medios y las autoridades chinas.</li>
+<li>A finales de marzo, tras convertirse en el epicentro del peor brote de covid-19 desde el inicio de la pandemia, las autoridades confinaron por zonas la metr&oacute;polis, de 25 millones de habitantes.</li>
+<li>En las &uacute;ltimas semanas, el gobierno hab&iacute;a relajado las restricciones y el mi&eacute;rcoles, los residentes en &aacute;reas de bajo riesgo pudieron volver a salir.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Pero mientras muchos celebraban con fiestas y compras esa nueva libertad, otros tuvieron que permanecer nuevamente en casa el jueves por nuevos contagios.&nbsp;</li>
+<li>Liu, una mujer de 29 a&ntilde;os del distrito de Minhang, cont&oacute; a la AFP que su urbanizaci&oacute;n volvi&oacute; a estar confinada tras un caso sospechoso de covid en uno de los edificios.&nbsp;</li>
+<li>En el chat de vecinos, los residentes lamentaban el encierro "interminable", explic&oacute;. Otros esperaban frente a las puertas del complejo para que les entregaran sus ordenadores que hab&iacute;an dejado en la oficina el mi&eacute;rcoles, el primer d&iacute;a de vuelta presencial al trabajo.</li>
+<li>"Solo tuve un d&iacute;a feliz, ayer", resume Liu, que prefiere no dar su apellido.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>En el distrito central de Jing'an, las autoridades cerraron el portal de otra urbanizaci&oacute;n con cadenas. Los residentes se pelearon con los agentes, seg&uacute;n un periodista de la AFP presente en el lugar.</p>
+<p>Seg&uacute;n el Ayuntamiento, m&aacute;s de 500.000 personas siguen sometidas a restricciones. Con cualquier nueva infecci&oacute;n o caso sospechoso, las autoridades vuelven a aislar a las personas.&nbsp;</p>
+<p>China es la &uacute;nica gran econom&iacute;a mundial que persiste en su estrategia "cero covid". Bajo esta estrategia, los casos positivos son aislados. Y a veces, todos los habitantes de un edificio o urbanizaci&oacute;n tienen que cumplir la cuarentena.&nbsp;</p>
+<p>Pero algunas personas est&aacute;n dispuestas a todo para eludir las normas.&nbsp;</p>
+<p>Tras enterarse de que uno de sus empleados era un caso sospechoso, el propietario de un negocio lo escondi&oacute; bajo un puente de carretera para que no lo vieran los servicios sanitarios, seg&uacute;n inform&oacute; el jueves la polic&iacute;a.&nbsp;</p>
+<p>El jefe, que finalmente fue detenido, dijo que le "preocupaba que el negocio de la empresa se viera afectado" por la ausencia del empleado, seg&uacute;n el comunicado.</p>
+<p>Todas estas situaciones contrastan con la cobertura de los medios estatales, que difunden casi solo v&iacute;deos de fiestas, edificios iluminados y el regreso del tr&aacute;fico en el centro de la urbe.</p>
+<p>Nada m&aacute;s lejos de la realidad para Eva de 26 a&ntilde;os, que tiene que cumplir un nuevo confinamiento de dos meses despu&eacute;s de que las autoridades le avisaran el jueves por la ma&ntilde;ana de casos sospechosos en la urbanizaci&oacute;n.</p>
+<p>"Para empezar, esta apertura no me parec&iacute;a real. Despu&eacute;s de todo lo que pasamos los &uacute;ltimos dos meses, ten&iacute;a mis sospechas", dijo a la AFP.</p>
+}
+title Miles de habitantes de Shanghái ven evaporarse su libertad con nuevo confinamiento
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/2-miles-de-habitantes-de-shanghai-ven-evaporarse-su-libertad-con-nuevo-confinamiento.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Cientos de miles de residentes en Shanghái vieron cómo sus esperanzas se desvanecían este jueves cuando tuvieron que volver a confinarse nada más recuperar la libertad de movimiento, una situación que contrasta con el triunfalismo mostrado por los medios y las autoridades chinas.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 Miles de habitantes de Shanghái ven evaporarse su libertad con nuevo confinamiento
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

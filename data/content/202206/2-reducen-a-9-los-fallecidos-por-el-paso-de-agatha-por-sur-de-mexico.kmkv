@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El gobierno del estado de Oaxaca (sur) ajust&oacute; este jueves a nueve muertos y seis desaparecidos el saldo del paso del hurac&aacute;n Agatha por la costa sur del Pac&iacute;fico mexicano, donde deja un panorama de destrucci&oacute;n.</li>
+<li>"Tenemos 9 defunciones confirmadas de manera legal y tenemos 6 personas todav&iacute;a desaparecidas", dijo el gobernador de Oaxaca, Alejandro Murat, en una videollamada durante la conferencia presidencial diaria.</li>
+<li>El mi&eacute;rcoles, las autoridades informaron de 11 fallecidos y 22 desaparecidos, pero el saldo fue ajustado luego de que se consiguiera establecer comunicaci&oacute;n y se llevara ayuda a los poblados afectados, enclavados en monta&ntilde;as de dif&iacute;cil acceso.</li>
+<li>"No est&aacute;n solos los habitantes de Oaxaca afectados por este hurac&aacute;n (...) vamos a apoyarlos, para que se rehabiliten los caminos, para que se mejoren los servicios", dijo de su lado el presidente Andr&eacute;s Manuel L&oacute;pez Obrador.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Agatha, primer hurac&aacute;n de la temporada en el Pac&iacute;fico, toc&oacute; tierra la tarde del lunes como categor&iacute;a 2 en la escala Saffir Simpson (de 5 como m&aacute;ximo) en las cercan&iacute;as de Puerto &Aacute;ngel, dejando inicialmente solo da&ntilde;os materiales.&nbsp;</p>
+<p>Pero remanentes han desatado intensas precipitaciones que afectaron principalmente a la zona monta&ntilde;osa de Oaxaca, donde se localizan numerosos poblados de pocos habitantes.</p>
+<p>Los remanentes del cicl&oacute;n se encontraban la ma&ntilde;ana de este jueves sobre la porci&oacute;n norte de la pen&iacute;nsula de Yucat&aacute;n, donde se localizan los balnearios del Caribe mexicano, con 80% de posibilidades de formaci&oacute;n cicl&oacute;nica a 5 d&iacute;as, seg&uacute;n el Meteorol&oacute;gico mexicano.</p>
+<p>M&eacute;xico sufre cada a&ntilde;o el embate de ciclones tropicales tanto en su costa Pac&iacute;fica como Atl&aacute;ntica, habitualmente entre mayo y noviembre.</p>
+<p>En octubre de 1997, el hurac&aacute;n Paulina impact&oacute; la costa del Pac&iacute;fico mexicano como hurac&aacute;n 4 dejando m&aacute;s de 200 muertos, siendo los estados de Oaxaca y Guerrero los m&aacute;s afectados.</p>
+}
+title Reducen a 9 los fallecidos por el paso de Agatha por sur de México
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/2-reducen-a-9-los-fallecidos-por-el-paso-de-agatha-por-sur-de-mexico.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El gobierno del estado de Oaxaca (sur) ajustó este jueves a nueve muertos y seis desaparecidos el saldo del paso del huracán Agatha por la costa sur del Pacífico mexicano, donde deja un panorama de destrucción.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>México<b>
+    text1 Reducen a 9 los fallecidos por el paso de Agatha por sur de México
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
