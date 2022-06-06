@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/6-al-menos-10-muertos-en-cuatro-tiroteos-en-eeuu-este-fin-de-semana
+    featured{array} /content/202206/hackeos-microsoft
 }
 other{kmkv} {
     name Other (Internal)
