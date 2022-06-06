@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/3-francia-halla-impresionante-arsenal-de-neonazis
+        featured{array} /content/202206/6-cuba-nicaragua-y-venezuela-no-seran-invitados-a-la-cumbre-de-las-americas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/3-panama-gana-2-0-a-costa-rica-a-dias-del-repechaje-para-catar-2022
+    featured{array} /content/202206/6-musk-acusa-a-twitter-de-ocultar-informacion-y-podria-retirar-su-oferta-de-compra
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/3-la-jirafa-macho-desarrollo-un-cuello-largo-para-pelear-por-las-hembras-segun-estudio
+    featured{array} /content/202206/6-al-menos-10-muertos-en-cuatro-tiroteos-en-eeuu-este-fin-de-semana
 }
 other{kmkv} {
     name Other (Internal)
