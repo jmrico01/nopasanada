@@ -1,0 +1,56 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El juez que investiga el espionaje al presidente y varios miembros del gobierno espa&ntilde;ol solicit&oacute; viajar a Israel para tomar declaraci&oacute;n al director ejecutivo de la compa&ntilde;&iacute;a NSO Group, creadora del programa inform&aacute;tico Pegasus, inform&oacute; el martes un alto tribunal.</li>
+<li>Este magistrado de la Audiencia Nacional -que es la jurisdicci&oacute;n encargada de los casos de importancia nacional o internacional- convoc&oacute; a declarar como testigo el 5 de julio al ministro F&eacute;lix Bola&ntilde;os, muy pr&oacute;ximo al presidente del gobierno, Pedro S&aacute;nchez, dentro de su investigaci&oacute;n de este caso de enorme sensibilidad.</li>
+<li>"El magistrado ha acordado ampliar la comisi&oacute;n rogatoria cursada a Israel para que una comisi&oacute;n judicial encabezada por &eacute;l se desplace a aquel pa&iacute;s para tomar declaraci&oacute;n como testigo al CEO de la empresa que comercializa el programa Pegasus", indic&oacute; la Audiencia Nacional.&nbsp;</li>
+<li>Este tipo de peticiones, sin embargo, deben ser aprobadas por las autoridades israel&iacute;es, que pueden demorar meses.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Hasta ahora, la comisi&oacute;n rogatoria solicitaba &uacute;nicamente informaciones a NSO "sobre distintos extremos de esta herramienta inform&aacute;tica".</li>
+<li>"NSO opera bajo un estricto marco legal y conf&iacute;a en que esta ser&aacute; la conclusi&oacute;n a la que llegar&aacute; cualquier investigaci&oacute;n gubernamental", indic&oacute; un portavoz de NSO a AFP.&nbsp;</li>
+<li>Pegasus -a trav&eacute;s del que se puede acceder a los datos o servicios de mensajer&iacute;a de un celular, e incluso activar sus c&aacute;maras y micr&oacute;fonos- y NSO han sido objeto de acusaciones de espionaje en a&ntilde;os recientes.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>El juez Jos&eacute; Luis Calama abri&oacute; su investigaci&oacute;n tras la denuncia formulada por el gobierno espa&ntilde;ol el 2 de mayo, cuando revel&oacute; que los tel&eacute;fonos del presidente y la ministra de Defensa, Margarita Robles, hab&iacute;an sido espiados con Pegasus.&nbsp;</p>
+<p>El ejecutivo, que incluy&oacute; despu&eacute;s el celular del ministro del Interior entre los afectados, asegur&oacute; que se trataba de un "ataque externo", pero que no sab&iacute;a qui&eacute;n estaba detr&aacute;s.</p>
+<p>Varios medios espa&ntilde;oles se&ntilde;alaron entonces a Marruecos, que atravesaba una compleja crisis diplom&aacute;tica con Espa&ntilde;a cuando se produjeron los hechos.</p>
+<p>En su comunicado, la Audiencia Nacional inform&oacute; tambi&eacute;n de que el juez escuch&oacute; ya este viernes el testimonio de la antigua jefa de los servicios de inteligencia espa&ntilde;oles (CNI), Paz Esteban, destituida el 10 mayo tras la pol&eacute;mica.</p>
+<p>El esc&aacute;ndalo hab&iacute;a explotado el 18 de abril, cuando Citizen Lab, un proyecto de ciberseguridad de la Universidad de Toronto, p&uacute;blic&oacute; un informe que identificaba a m&aacute;s de 60 independentistas cuyos tel&eacute;fonos m&oacute;viles habrian sido atacados entre 2017 y 2020 con el software israel&iacute;.</p>
+<p>Poco despu&eacute;s el gobierno reconoci&oacute; que S&aacute;nchez y la ministra Robles hab&iacute;an sido espiados en mayo y junio de 2021 con este programa.</p>
+}
+title Juez español solicita interrogar al jefe del grupo israelí que creó Pegasus
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/7-juez-espanol-solicita-interrogar-al-jefe-del-grupo-israeli-que-creo-pegasus.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El juez que investiga el espionaje al presidente y varios miembros del gobierno español solicitó viajar a Israel para tomar declaración al director ejecutivo de la compañía NSO Group, creadora del programa informático Pegasus, informó el martes un alto tribunal.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>España<b>
+    text1 Juez español solicita interrogar al jefe del grupo israelí que creó Pegasus
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

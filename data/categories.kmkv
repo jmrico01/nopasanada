@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202205/27-corea-del-norte-afirma-que-brote-de-covid-esta-controlado-e-intensifica-el-tratamiento
+        featured{array} /content/202206/7-mexico-reconoce-aumento-de-contagios-de-covid-en-semanas-recientes
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/6-cuba-nicaragua-y-venezuela-no-seran-invitados-a-la-cumbre-de-las-americas
+        featured{array} /content/202206/7-juez-espanol-solicita-interrogar-al-jefe-del-grupo-israeli-que-creo-pegasus
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/6-musk-acusa-a-twitter-de-ocultar-informacion-y-podria-retirar-su-oferta-de-compra
+    featured{array} /content/202206/7-mexico-reconoce-aumento-de-contagios-de-covid-en-semanas-recientes
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/hackeos-microsoft
+    featured{array} /content/202206/7-informe-de-onu-acusa-a-israel-de-ser-la-principal-causa-del-conflicto-con-los-palestinos
 }
 other{kmkv} {
     name Other (Internal)
