@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202206/3-junta-militar-de-birmania-realizara-las-primeras-ejecuciones-judiciales-en-decadas
+        featured{array} /content/202206/8-ucrania-y-rusia-realizan-un-nuevo-intercambio-de-cuerpos-de-soldados
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/7-juez-espanol-solicita-interrogar-al-jefe-del-grupo-israeli-que-creo-pegasus
+        featured{array} /content/202206/8-quienes-son-el-periodista-y-el-indigenista-desaparecidos-en-amazonia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/7-mexico-reconoce-aumento-de-contagios-de-covid-en-semanas-recientes
+    featured{array} /content/202206/8-harvey-weinstei-imputado-por-agresion-sexual-en-reino-unido
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/7-informe-de-onu-acusa-a-israel-de-ser-la-principal-causa-del-conflicto-con-los-palestinos
+    featured{array} /content/202206/8-ucrania-y-rusia-realizan-un-nuevo-intercambio-de-cuerpos-de-soldados
 }
 other{kmkv} {
     name Other (Internal)

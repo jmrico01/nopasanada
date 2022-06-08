@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Ucrania anunci&oacute; el mi&eacute;rcoles un nuevo intercambio de cuerpos de soldados rusos y ucranianos, incluyendo los de algunos defensores de la acer&iacute;a de Azovstal en Mari&uacute;pol.</li>
+<li>"Hubo un nuevo intercambio de cuerpos de militares. Nos entregaron 50 h&eacute;roes muertos", anunci&oacute; el ministerio ucraniano de la Reintegraci&oacute;n. "Entre ellos 37 son de Azovstal", a&ntilde;adi&oacute;.</li>
+<li>El intercambio tuvo lugar en la l&iacute;nea del frente en la regi&oacute;n de Zaporiyia, en el sur de Ucrania "bajo la regla 50 contra 50", dijo el ministerio que anunci&oacute; la semana pasada el primer intercambio de 160 cuerpos de soldados ucranianos contra 160 rusos.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La Asociaci&oacute;n de Familiares de Defensores de Azovstal anunci&oacute; el martes que los cuerpos de sus familiares hab&iacute;an llegado a Kiev.</li>
+<li>"Entre los cuerpos, un tercio son los de los defensores de Azovstal", dijo la asociaci&oacute;n en Telegram, y a&ntilde;adi&oacute; que los familiares estaban esperando a ser citados para un procedimiento de identificaci&oacute;n.</li>
+<li>Los &uacute;ltimos defensores ucranianos de Mari&uacute;pol, atrincherados en la enorme planta sider&uacute;rgica de Azovstal, se rindieron a las fuerzas rusas entre el 16 y el 20 de mayo, tras tres meses de intensos combates.</li>
+<li>Cerca de 2.500 combatientes ucranianos est&aacute;n actualmente retenidos por los rusos, que pretenden juzgarlos como criminales de guerra.</li>
+</ul>
+}
+title Ucrania y Rusia realizan un nuevo intercambio de cuerpos de soldados
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/8-ucrania-y-rusia-realizan-un-nuevo-intercambio-de-cuerpos-de-soldados.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Ucrania anunció el miércoles un nuevo intercambio de cuerpos de soldados rusos y ucranianos, incluyendo los de algunos defensores de la acería de Azovstal en Mariúpol.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Ucrania y Rusia realizan un nuevo intercambio de cuerpos de soldados
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
