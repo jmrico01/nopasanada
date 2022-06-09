@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El ministro polaco del Interior anunci&oacute; el jueves que suprimir&aacute; la zona prohibida de acceso en la frontera entre Polonia y Bielorrusia, impuesta en septiembre de 2021 para impedir la entrada de migrantes a su territorio.</li>
+<li>En aquel momento, el gobierno instaur&oacute; una zona, de unos 3 km de ancho y m&aacute;s de 400 km de longitud, cuyo acceso estaba prohibido a las personas no residentes, incluso a los miembros de las oeneg&eacute;s que ayudaban a los migrantes en esta regi&oacute;n y a los periodistas.</li>
+<li>Polonia, que ha recibido con los brazos abiertos a casi cuatro millones de ucranianos que huyen de la invasi&oacute;n rusa, no ha cambiado nada en su pol&iacute;tica de expulsi&oacute;n de migrantes y refugiados procedentes de Bielorrusia, oriundos en su mayor par de Oriente Medio.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos imnporta?</strong></p>
+<ul>
+<li>La existencia de esta zona cerrada fue denunciada por la justicia, por organizaciones humanitarias y medios de prensa. Varios miembros de la Comisi&oacute;n Europea advirtieron del car&aacute;cter "ilegal" de estas expulsiones.</li>
+<li>La prohibici&oacute;n ser&aacute; suspendida "a partir del 1 de julio", anunci&oacute; el jueves el ministro Mariusz Kaminski.</li>
+<li>Sin embargo, seguir&aacute; estando prohibido acercarse a menos de 200 metros de la l&iacute;nea de la frontera entre los dos pa&iacute;ses, precis&oacute; en un comunicado publicado en Twitter.</li>
+<li>Polonia contin&uacute;a la construcci&oacute;n de una nueva cerca en esta frontera, para bloquear el acceso de migrantes que no desea.</li>
+<li>Los pa&iacute;ses occidentales acusaron al presidente de Bielorrusia, Alexander Lukashenko, de haber orquestado la ola de migrantes y refugiados que intentaban entrar en el bloque, como represalia a las sanciones impuestas por Bruselas tras la represi&oacute;n brutal del r&eacute;gimen bielorruso contra la oposici&oacute;n.</li>
+</ul>
+}
+title Polonia pondrá fin a la zona de acceso prohibido en su frontera con Bielorrusia
+day 09
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/9-polonia-pondra-fin-a-la-zona-de-acceso-prohibido-en-su-frontera-con-bielorrusia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El ministro polaco del Interior anunció el jueves que suprimirá la zona prohibida de acceso en la frontera entre Polonia y Bielorrusia, impuesta en septiembre de 2021 para impedir la entrada de migrantes a su territorio.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Polonia<b>
+    text1 Polonia pondrá fin a la zona de acceso prohibido en su frontera con Bielorrusia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
