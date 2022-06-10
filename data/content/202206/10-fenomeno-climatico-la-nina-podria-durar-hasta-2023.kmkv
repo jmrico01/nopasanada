@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El fen&oacute;meno clim&aacute;tico La Ni&ntilde;a, que afecta a las temperaturas globales y agudiza sequ&iacute;as e inundaciones, continuar&aacute; probablemente durante meses e incluso hasta 2023, advirti&oacute; el viernes la ONU.&nbsp;</li>
+<li>La Ni&ntilde;a, que se produce en periodos de entre dos y siete a&ntilde;os, provoca el enfriamiento a gran escala de las temperaturas superficiales en la zona ecuatorial centro y este del oc&eacute;ano Pac&iacute;fico.&nbsp;</li>
+<li>Seg&uacute;n la Organizaci&oacute;n Meteorol&oacute;gica Mundial (OMM) de la ONU hay un 70% de posibilidades de que La Ni&ntilde;a, que empez&oacute; en septiembre de 2020, contin&uacute;e al menos hasta agosto.</li>
+<li>"Algunas predicciones a largo plazo sugieren incluso que podr&iacute;a persistir hasta 2023", indic&oacute; la OMM en un comunicado.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El fen&oacute;meno tiene grandes repercusiones en el clima de todo el mundo, opuestas al fen&oacute;meno de El Ni&ntilde;o, que tiene efectos de calentamiento en las temperaturas globales.</li>
+<li>Las sequ&iacute;as que afectan al Cuerno de &Aacute;frica y a Sudam&eacute;rica "llevan el sello de La Ni&ntilde;a", dijo la OMM.</li>
+<li>La organizaci&oacute;n tambi&eacute;n cree que las precipitaciones por encima de la media en el sudeste asi&aacute;tico y Australia podr&iacute;an estar relacionadas con el fen&oacute;meno, al igual que las predicciones de una temporada de huracanes m&aacute;s intensa en el Atl&aacute;ntico.&nbsp;</li>
+</ul>
+}
+title Fenómeno climático La Niña podría durar hasta 2023
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/10-fenomeno-climatico-la-nina-podria-durar-hasta-2023.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El fenómeno climático La Niña, que afecta a las temperaturas globales y agudiza sequías e inundaciones, continuará probablemente durante meses e incluso hasta 2023, advirtió el viernes la ONU.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>La Niña<b>
+    text1 Fenómeno climático La Niña podría durar hasta 2023
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202206/7-mexico-reconoce-aumento-de-contagios-de-covid-en-semanas-recientes
+        featured{array} /content/202206/10-el-crecimiento-de-las-zoonosis-eleva-el-riesgo-de-nuevas-pandemias
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202206/8-ucrania-y-rusia-realizan-un-nuevo-intercambio-de-cuerpos-de-soldados
+        featured{array} /content/202206/10-la-onu-teme-una-emergencia-humanitaria-a-gran-escala-en-sri-lanka
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/8-quienes-son-el-periodista-y-el-indigenista-desaparecidos-en-amazonia
+        featured{array} /content/202206/10-el-crecimiento-de-las-zoonosis-eleva-el-riesgo-de-nuevas-pandemias
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/8-harvey-weinstei-imputado-por-agresion-sexual-en-reino-unido
+    featured{array} /content/202206/10-fenomeno-climatico-la-nina-podria-durar-hasta-2023
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/9-eeuu-promete-apoyo-a-latinoamerica-y-el-caribe-en-lucha-contra-cambio-climatico
+    featured{array} /content/202206/10-china-no-dudara-en-iniciar-una-guerra-por-taiwan
 }
 other{kmkv} {
     name Other (Internal)
