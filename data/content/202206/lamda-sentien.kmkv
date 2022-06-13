@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Blake Lemoine trabaja para el segmento de inteligencia artificial en Google. El comenz&oacute; a hablar con LaMDA como parte de su trabajo el a&ntilde;o pasado. El se apunt&oacute; para probar si la inteligencia artificial utilizaba discursos discriminatorios o de odio.</li>
+<li>Conforme pas&oacute; el tiempo, y entre m&aacute;s conversaciones tuvo, noto como la inteligencia artificial expandi&oacute; sus comentarios sobre sus "derechos" y c&oacute;mo esta se identificaba como "un humano."<br />&nbsp;<br />&nbsp;<br />&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El fen&oacute;meno tiene grandes repercusiones en el clima de todo el mundo, opuestas al fen&oacute;meno de El Ni&ntilde;o, que tiene efectos de calentamiento en las temperaturas globales.</li>
+<li>Las sequ&iacute;as que afectan al Cuerno de &Aacute;frica y a Sudam&eacute;rica "llevan el sello de La Ni&ntilde;a", dijo la OMM.</li>
+<li>La organizaci&oacute;n tambi&eacute;n cree que las precipitaciones por encima de la media en el sudeste asi&aacute;tico y Australia podr&iacute;an estar relacionadas con el fen&oacute;meno, al igual que las predicciones de una temporada de huracanes m&aacute;s intensa en el Atl&aacute;ntico.&nbsp;</li>
+</ul>
+}
+title Ingeniero de Google: "I.A de la empresa ha cobrado vida"
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/10-fenomeno-climatico-la-nina-podria-durar-hasta-2023.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description {
+El ingeniero de Google, Blake Lemoine, filtró documentos que aparentan decir que una inteligencia artificial de la empresa ha cobrado vida. 
+
+}
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Inteligencia Artificial<b>
+    text1 Ingeniero de Google filtra que: "I.A de la empresa ha cobrado vida"
+    text2 Por NPN NOTICIAS
+    pretitle NOTICIAS:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
