@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202206/3-la-jirafa-macho-desarrollo-un-cuello-largo-para-pelear-por-las-hembras-segun-estudio
+        featured{array} /content/202206/13-ministros-piden-incluir-la-crisis-climatica-en-las-preocupaciones-de-la-omc
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202206/10-la-onu-teme-una-emergencia-humanitaria-a-gran-escala-en-sri-lanka
+        featured{array} /content/202206/13-indigenas-de-ecuador-protestan-en-contra-del-gobierno
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/10-el-crecimiento-de-las-zoonosis-eleva-el-riesgo-de-nuevas-pandemias
+        featured{array} /content/202206/13-cientificos-cartografian-una-red-cerebral-vinculada-a-las-adicciones
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/10-fenomeno-climatico-la-nina-podria-durar-hasta-2023
+    featured{array} /content/202206/13-cientificos-cartografian-una-red-cerebral-vinculada-a-las-adicciones
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/10-china-no-dudara-en-iniciar-una-guerra-por-taiwan
+    featured{array} /content/202206/13-costa-rica-y-nueva-zelanda-por-el-ultimo-boleto-al-mundial-de-catar-2022
 }
 other{kmkv} {
     name Other (Internal)
@@ -116,7 +116,7 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202206/3-panama-gana-2-0-a-costa-rica-a-dias-del-repechaje-para-catar-2022
+        featured{array} /content/202206/13-costa-rica-y-nueva-zelanda-por-el-ultimo-boleto-al-mundial-de-catar-2022
     }
     displayOrder{array} 
     featured{array} /content/202006/23-real-madrid
