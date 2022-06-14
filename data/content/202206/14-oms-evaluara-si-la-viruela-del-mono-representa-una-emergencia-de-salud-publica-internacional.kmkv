@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La Organizaci&oacute;n Mundial de la Salud (OMS) anunci&oacute; el martes que convocar&aacute; una reuni&oacute;n de su comit&eacute; de urgencia el 23 de junio para evaluar si la viruela del mono representa una "emergencia de salud p&uacute;blica de alcance internacional".</li>
+<li>La proliferaci&oacute;n actual de casos es "inusual y preocupante", declar&oacute; su director Tedros Adhanom Ghebreyesus durante una conferencia de prensa, para justificar esta futura reuni&oacute;n.</li>
+<li>La viruela del mono, que no suele ser mortal, puede causar fiebre, dolores de cabeza, musculares o de espalda, ganglios linf&aacute;ticos inflamados, escalofr&iacute;os y fatiga.&nbsp;</li>
+<li>Luego aparecen erupciones (en la cara, las palmas de las manos, las plantas de los pies), lesiones, p&uacute;stulas y finalmente costras. Sus s&iacute;ntomas suelen desaparecer al cabo de dos o tres semanas.&nbsp;</li>
+<li>Seg&uacute;n la OMS, al 8 de junio el n&uacute;mero de casos confirmados de la enfermedad era de 1.300 en el mundo en pa&iacute;ses no end&eacute;micos.</li>
+<li>La viruela del mono es end&eacute;mica en 11 pa&iacute;ses de &Aacute;frica occidental y en &Aacute;frica central.</li>
+</ul>
+}
+title OMS evaluará si la viruela del mono representa una "emergencia de salud pública internacional"
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/14-oms-evaluara-si-la-viruela-del-mono-representa-una-emergencia-de-salud-publica-internacional.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La Organización Mundial de la Salud (OMS) anunció el martes que convocará una reunión de su comité de urgencia el 23 de junio para evaluar si la viruela del mono representa una "emergencia de salud pública de alcance internacional".
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Salud<b>
+    text1 OMS evaluará si la viruela del mono representa una "emergencia de salud pública internacional"
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

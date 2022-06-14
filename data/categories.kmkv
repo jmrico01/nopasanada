@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202206/10-el-crecimiento-de-las-zoonosis-eleva-el-riesgo-de-nuevas-pandemias
+        featured{array} /content/202206/14-oms-evaluara-si-la-viruela-del-mono-representa-una-emergencia-de-salud-publica-internacional
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202206/13-indigenas-de-ecuador-protestan-en-contra-del-gobierno
+        featured{array} /content/202206/14-onu-acusa-a-la-junta-militar-de-birmania-de-crimenes-contra-la-humanidad
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/13-cientificos-cartografian-una-red-cerebral-vinculada-a-las-adicciones
+        featured{array} /content/202206/14-trasladaron-a-navalni-a-otra-colonia-penitenciaria-en-rusia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/13-cientificos-cartografian-una-red-cerebral-vinculada-a-las-adicciones
+    featured{array} /content/202206/14-trasladaron-a-navalni-a-otra-colonia-penitenciaria-en-rusia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/13-costa-rica-y-nueva-zelanda-por-el-ultimo-boleto-al-mundial-de-catar-2022
+    featured{array} /content/202206/14-australia-clasifica-a-catar-2022-al-ganar-5-4-en-tanda-de-penales-contra-peru
 }
 other{kmkv} {
     name Other (Internal)
@@ -116,8 +116,8 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202206/13-costa-rica-y-nueva-zelanda-por-el-ultimo-boleto-al-mundial-de-catar-2022
+        featured{array} /content/202206/14-australia-clasifica-a-catar-2022-al-ganar-5-4-en-tanda-de-penales-contra-peru
     }
     displayOrder{array} 
-    featured{array} /content/202006/23-real-madrid
+    featured{array} /content/202206/13-costa-rica-y-nueva-zelanda-por-el-ultimo-boleto-al-mundial-de-catar-2022
 }
