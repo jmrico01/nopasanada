@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La Agencia Espacial Europea (ESA) y la NASA anunciaron el mi&eacute;rcoles el refuerzo de su cooperaci&oacute;n en materia de exploraci&oacute;n lunar, y la posibilidad de mandar un astronauta europeo al sat&eacute;lite.</li>
+<li>"Estamos impacientes de ver a un astronauta de la ESA unirse a nosotros en la superficie de la Luna, y continuar reforzando nuestra larga alianza estrat&eacute;gica", declar&oacute; el administrador de la agencia estadounidense, Bill Nelson, tras un consejo de administraci&oacute;n de la ESA en Holanda al que asisti&oacute; en calidad de invitado de honor.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Ambas agencias firmaron un protocolo de acuerdo sobre la misi&oacute;n Lunar Pathfinder, el futuro primer sat&eacute;lite de telecomunicaciones en &oacute;rbita lunar construido por el brit&aacute;nico SSTL por encargo de la ESA.</li>
+<li>A cambio de un acceso a ese sat&eacute;lite, la NASA est&aacute; dispuesta a ponerlo en &oacute;rbita lunar, explic&oacute; la ESA en rueda de prensa.</li>
+<li>Ambas agencias efectuar&aacute;n adem&aacute;s pruebas conjuntas sobre la posibilidad de utilizar sat&eacute;lites de navegaci&oacute;n espec&iacute;ficos para la Luna, como es el caso del Galileo europeo o el GPS estadounidense en Tierra.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>La ESA (22 Estados miembros) est&aacute; implicada en el programa estadounidense Artemisa destinado a enviar astronautas a la Luna en 2025, y a construir una miniestaci&oacute;n en &oacute;rbita luna, el Lunar Gateway. El sector aeroespacial europeo participa en la construcci&oacute;n de los m&oacute;dulos de habitaci&oacute;n y comunicaciones.</p>
+<p>Ambas agencias conversaron igualmente sobre el futuro d ela misi&oacute;n rusoeuropea ExoMars, suspendida por la ESA tras la invasi&oacute;n de Ucrania. En el marco de esa misi&oacute;n, la agencia ten&iacute;a previsto mandar a finales de 2022 un robot destinado al planeta rojo para perforar el subsuelo, a la b&uacute;squeda de vida extraterrestre.</p>
+<p>"La NASA examina los medios m&aacute;s adecuados para ayudar a nuestros amigos europeos de la misi&oacute;n ExoMars", asegur&oacute; Bill Nelson.</p>
+<p>"Las discusiones son intensas, pero van en el buen sentido y conf&iacute;o en que hallaremos una buena asociaci&oacute;n con la NASA en Marte", coment&oacute; Josef Aschbacher, director general de la ESA, quien precis&oacute; que se tomar&aacute;n decisiones en la pr&oacute;xima reuni&oacute;n ministerial del organismo, en el oto&ntilde;o (boreal).</p>
+}
+title La agencia espacial europea y la NASA refuerzan cooperación sobre exploración lunar
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/15-agencia-espacial-europea-y-la-nasa-refuerzan-cooperacinn-sobre-exploracion-lunar.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La Agencia Espacial Europea (ESA) y la NASA anunciaron el miércoles el refuerzo de su cooperación en materia de exploración lunar, y la posibilidad de mandar un astronauta europeo al satélite.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Espacio<b>
+    text1 La agencia espacial europea y la NASA refuerzan cooperación sobre exploración lunar
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

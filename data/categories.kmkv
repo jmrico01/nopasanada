@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202206/14-oms-evaluara-si-la-viruela-del-mono-representa-una-emergencia-de-salud-publica-internacional
+        featured{array} /content/202206/15-agencia-espacial-europea-y-la-nasa-refuerzan-cooperacinn-sobre-exploracion-lunar
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/14-trasladaron-a-navalni-a-otra-colonia-penitenciaria-en-rusia
+        featured{array} /content/202206/15-costa-rica-logra-ultimo-boleto-para-catar-2022
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/14-trasladaron-a-navalni-a-otra-colonia-penitenciaria-en-rusia
+    featured{array} /content/202206/15-twitter-sigue-contando-con-su-adquisicion-por-parte-de-musk
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202205/26-el-show-de-ellen-degeneres-termina-tras-enfrentar-controversias
+        featured{array} /content/202206/15-bts-anuncia-una-separacion-temporal
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/14-australia-clasifica-a-catar-2022-al-ganar-5-4-en-tanda-de-penales-contra-peru
+    featured{array} /content/202206/15-costa-rica-logra-ultimo-boleto-para-catar-2022
 }
 other{kmkv} {
     name Other (Internal)
