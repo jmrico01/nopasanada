@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202206/15-agencia-espacial-europea-y-la-nasa-refuerzan-cooperacinn-sobre-exploracion-lunar
+        featured{array} /content/202206/16-la-controvertida-busqueda-de-la-inteligencia-artificial-consciente
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/15-costa-rica-logra-ultimo-boleto-para-catar-2022
+        featured{array} /content/202206/16-liberaron-a-john-hinckley-tirador-de-ronald-reagan
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/15-twitter-sigue-contando-con-su-adquisicion-por-parte-de-musk
+    featured{array} /content/202206/16-es-oficial-microsoft-desconecto-internet-explorer
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202206/15-bts-anuncia-una-separacion-temporal
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/15-costa-rica-logra-ultimo-boleto-para-catar-2022
+    featured{array} /content/202206/16-la-controvertida-busqueda-de-la-inteligencia-artificial-consciente
 }
 other{kmkv} {
     name Other (Internal)
