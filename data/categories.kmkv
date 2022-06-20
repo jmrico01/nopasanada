@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202206/14-onu-acusa-a-la-junta-militar-de-birmania-de-crimenes-contra-la-humanidad
+        featured{array} /content/202206/20-petro-es-electo-primer-presidente-de-izquierda-en-la-historia-de-colombia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/17-biden-afirma-que-el-cambio-a-energias-renovables-es-un-asunto-de-seguridad-nacional
+        featured{array} /content/202206/20-los-retos-de-petro-militares-empresarios-y-una-colombia-fracturada
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/17-reino-unido-firma-la-extradicion-de-assange-a-eeuu
+    featured{array} /content/202206/20-exfutbolista-eto-o-admite-haber-cometidofraude-fiscal
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202206/15-bts-anuncia-una-separacion-temporal
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/17-onu-pide-actuar-ya-para-evitar-sequias-desastrosas
+    featured{array} /content/202206/20-tres-claves-para-entender-las-protestas-indigenas-en-ecuador
 }
 other{kmkv} {
     name Other (Internal)
