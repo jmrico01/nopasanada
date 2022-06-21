@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/20-los-retos-de-petro-militares-empresarios-y-una-colombia-fracturada
+        featured{array} /content/202206/21-onu-222-millones-de-alumnos-vieron-su-escolaridad-perturbada
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/20-exfutbolista-eto-o-admite-haber-cometidofraude-fiscal
+    featured{array} /content/202206/21-corea-del-sur-lanzo-su-primer-cohete-propio
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202206/15-bts-anuncia-una-separacion-temporal
+        featured{array} /content/202206/21-japon-lanza-una-campana-para-preservar-el-bosque-que-inspiro-totoro
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/20-tres-claves-para-entender-las-protestas-indigenas-en-ecuador
+    featured{array} /content/202206/21-japon-lanza-una-campana-para-preservar-el-bosque-que-inspiro-totoro
 }
 other{kmkv} {
     name Other (Internal)

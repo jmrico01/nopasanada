@@ -1,0 +1,43 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La Corte Suprema de Estados Unidos rechaz&oacute; este martes un recurso de Monsanto, propiedad del grupo alem&aacute;n Bayer, ratificando en forma definitiva la sentencia que le condenaba a pagar 25 millones de d&oacute;lares a un jubilado que atribuye su c&aacute;ncer al herbicida Roundup.</li>
+<li>El tribunal no ha justificado su decisi&oacute;n, que puede acarrear graves consecuencias al grupo, objeto de m&aacute;s de 30.000 denuncias similares. Bayer afirma haber reservado 4.500 millones de d&oacute;lares adicionales para hacer frente a nuevos procedimientos judiciales.</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>Noticia en desarrollo...</em></p>
+}
+title Condenaron a Monsanto por uso de herbicida
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/21-condenaron-a-monsanto-por-uso-de-herbicida.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La Corte Suprema de Estados Unidos rechazó este martes un recurso de Monsanto, propiedad del grupo alemán Bayer, ratificando en forma definitiva la sentencia que le condenaba a pagar 25 millones de dólares a un jubilado que atribuye su cáncer al herbicida Roundup.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 Condenaron a Monsanto por uso de herbicida
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
