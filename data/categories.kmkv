@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202206/20-petro-es-electo-primer-presidente-de-izquierda-en-la-historia-de-colombia
+        featured{array} /content/202206/22-macron-busca-desesperadamente-una-mayoria-legislativa-en-francia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/21-onu-222-millones-de-alumnos-vieron-su-escolaridad-perturbada
+        featured{array} /content/202206/22-las-aguas-turbias-de-la-pesca-ilegal-salpican-el-doble-asesinato-en-brasil
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/21-corea-del-sur-lanzo-su-primer-cohete-propio
+    featured{array} /content/202206/22-ecuador-se-niega-a-derogar-estado-de-excepcion-que-exigen-indigenas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202206/21-japon-lanza-una-campana-para-preservar-el-bosque-que-inspiro-totoro
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/21-japon-lanza-una-campana-para-preservar-el-bosque-que-inspiro-totoro
+    featured{array} /content/202206/22-ecuador-se-niega-a-derogar-estado-de-excepcion-que-exigen-indigenas
 }
 other{kmkv} {
     name Other (Internal)
@@ -116,8 +116,8 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202206/14-australia-clasifica-a-catar-2022-al-ganar-5-4-en-tanda-de-penales-contra-peru
+        featured{array} /content/202206/22-ya-se-vendio-1-2-millones-de-entradas-para-el-mundial-2022
     }
     displayOrder{array} 
-    featured{array} /content/202206/13-costa-rica-y-nueva-zelanda-por-el-ultimo-boleto-al-mundial-de-catar-2022
+    featured{array} /content/202206/22-ya-se-vendio-1-2-millones-de-entradas-para-el-mundial-2022
 }
