@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202206/22-macron-busca-desesperadamente-una-mayoria-legislativa-en-francia
+        featured{array} /content/202206/23-congreso-de-eeuu-examina-intento-de-trump-de-corromper-al-departamento-de-justicia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/22-las-aguas-turbias-de-la-pesca-ilegal-salpican-el-doble-asesinato-en-brasil
+        featured{array} /content/202206/23-descubren-en-israel-una-mezquita-de-mas-de-1200-ano
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/22-ecuador-se-niega-a-derogar-estado-de-excepcion-que-exigen-indigenas
+    featured{array} /content/202206/23-rusia-devuelve-en-rublos-deudas-contraidas-en-dolares
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202206/21-japon-lanza-una-campana-para-preservar-el-bosque-que-inspiro-totoro
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/22-ecuador-se-niega-a-derogar-estado-de-excepcion-que-exigen-indigenas
+    featured{array} /content/202206/23-mas-de-150-sitios-culturales-danados-o-destruidos-en-ucrania
 }
 other{kmkv} {
     name Other (Internal)
