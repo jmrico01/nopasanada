@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202206/17-onu-pide-actuar-ya-para-evitar-sequias-desastrosas
+        featured{array} /content/202206/24-al-parecer-las-tortugas-y-criaturas-de-sangre-fria-no-envejecen
     }
     saludmental{kmkv} {
         name Salud mental
@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202206/23-descubren-en-israel-una-mezquita-de-mas-de-1200-ano
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/23-rusia-devuelve-en-rublos-deudas-contraidas-en-dolares
+    featured{array} /content/202206/24-el-vaticano-publico-cartas-enviadas-por-judios-durante-el-holocausto
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202206/21-japon-lanza-una-campana-para-preservar-el-bosque-que-inspiro-totoro
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/23-mas-de-150-sitios-culturales-danados-o-destruidos-en-ucrania
+    featured{array} /content/202206/24-eeuu-prohibe-la-venta-de-juuls
 }
 other{kmkv} {
     name Other (Internal)
