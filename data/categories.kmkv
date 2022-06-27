@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202206/16-la-controvertida-busqueda-de-la-inteligencia-artificial-consciente
+        featured{array} /content/202206/27-descubrieron-un-mamut-lanudomomificado-en-canada
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202206/23-congreso-de-eeuu-examina-intento-de-trump-de-corromper-al-departamento-de-justicia
+        featured{array} /content/202206/27-corte-suprema-de-estados-unidos-dinamita-el-derecho-al-aborto
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/23-descubren-en-israel-una-mezquita-de-mas-de-1200-ano
+        featured{array} /content/202206/27-activistas-climaticos-bloquean-la-entrada-del-fmi-en-paris
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/24-el-vaticano-publico-cartas-enviadas-por-judios-durante-el-holocausto
+    featured{array} /content/202206/27-josef-schutrz-niega-haber-sido-guardia-de-campo-de-exterminio-nazi
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202206/21-japon-lanza-una-campana-para-preservar-el-bosque-que-inspiro-totoro
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/24-eeuu-prohibe-la-venta-de-juuls
+    featured{array} /content/202206/27-corte-suprema-de-estados-unidos-dinamita-el-derecho-al-aborto
 }
 other{kmkv} {
     name Other (Internal)

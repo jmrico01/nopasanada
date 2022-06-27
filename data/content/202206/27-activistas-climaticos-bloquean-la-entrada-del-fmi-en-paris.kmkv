@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Activistas clim&aacute;ticos bloquearon este lunes con sus manos pegadas a las puertas durante varias horas la entrada a la sede del Fondo Monetario Internacional (FMI) en Par&iacute;s para "reclamar la anulaci&oacute;n de la deuda de los pa&iacute;ses del sur".</li>
+<li>"G7 responsable, FMI culpable, anulemos la deuda para un planeta vivo", rezaba una pancarta desplegada, constat&oacute; un periodista de AFP.</li>
+<li>Decenas de activistas de Extinction Rebellion, de Youth for Climate, Attac o 350.org llevaron a cabo esta acci&oacute;n en el marco de una campa&ntilde;a mundial bautizada "Deuda por clima", con motivo de la cumbre del G7 en Alemania.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Su principal reclamo es la anulaci&oacute;n de la deuda de los pa&iacute;ses m&aacute;s pobres para que puedan afrontar la crisis clim&aacute;tica.</li>
+<li>Algunos militantes se pegaron una mano a las puertas acristaladas de la entrada al edificio en Par&iacute;s, mientras que otros, sentados en el suelo, se encadenaban entre s&iacute; con las manos dentro de tubos para dificultar su desalojo.</li>
+<li>"Tenemos que dar a estos pa&iacute;ses los medios para luchar contra la crisis clim&aacute;tica. Son las primeras v&iacute;ctimas y los &uacute;ltimos responsables", dijo "Chalou", de Extinction Rebellion, mientras sus compa&ntilde;eros lanzaban falsos billetes con el lema "Stop fossil fuels" (Alto a las energ&iacute;as f&oacute;siles).</li>
+<li>Los pa&iacute;ses del Sur "se ven obligados a explotar los combustibles f&oacute;siles para tener dinero en efectivo" y "pagar esta deuda", dijo a AFP "Zita", otra activista, para quien este "c&iacute;rculo vicioso" impide a los pa&iacute;ses m&aacute;s pobres "invertir en soluciones sostenibles".</li>
+<li>"La verdadera deuda es la ecol&oacute;gica de los pa&iacute;ses del Norte hacia los pa&iacute;ses del Sur", dijo Julien Rivoire d'Attac France, que llam&oacute; tambi&eacute;n a "terminar con esta gesti&oacute;n colonial" en pos de una "transici&oacute;n justa".</li>
+</ul>
+}
+title Activistas climáticos bloquean la entrada del FMI en París
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/27-activistas-climaticos-bloquean-la-entrada-del-fmi-en-paris.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Activistas climáticos bloquearon este lunes con sus manos pegadas a las puertas durante varias horas la entrada a la sede del Fondo Monetario Internacional (FMI) en París para "reclamar la anulación de la deuda de los países del sur"
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Francia<b>
+    text1 Activistas climáticos bloquean la entrada del FMI en París
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
