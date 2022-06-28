@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202206/27-descubrieron-un-mamut-lanudomomificado-en-canada
+        featured{array} /content/202206/28-la-nasa-lanza-un-minisatelite-para-intentar-volver-a-la-luna
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202206/27-corte-suprema-de-estados-unidos-dinamita-el-derecho-al-aborto
+        featured{array} /content/202206/28-josef-schutz-es-condenado-a-cinco-anos-de-carcel-por-crimenes-nazis
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/27-activistas-climaticos-bloquean-la-entrada-del-fmi-en-paris
+        featured{array} /content/202206/28-el-opositor-ruso-ilya-yashin-es-condenado-a-15-dias-de-prision
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/27-josef-schutrz-niega-haber-sido-guardia-de-campo-de-exterminio-nazi
+    featured{array} /content/202206/28-rusia-libera-a-17-personas-en-intercambio-de-prisioneros-con-ucrania
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202206/21-japon-lanza-una-campana-para-preservar-el-bosque-que-inspiro-totoro
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/27-corte-suprema-de-estados-unidos-dinamita-el-derecho-al-aborto
+    featured{array} /content/202206/28-la-nasa-lanza-un-minisatelite-para-intentar-volver-a-la-luna
 }
 other{kmkv} {
     name Other (Internal)
