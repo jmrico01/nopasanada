@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La NASA lanz&oacute; el martes un nanosat&eacute;lite apenas m&aacute;s grande que un horno microondas al espacio exterior, como parte de una misi&oacute;n hist&oacute;rica para volver a enviar humanos a la Luna.&nbsp;</li>
+<li>El cohete que transportaba el diminuto m&oacute;dulo CAPSTONE fue lanzado con &eacute;xito desde la pen&iacute;nsula de Mahia, en el este de Nueva Zelanda.</li>
+<li>"&iexcl;Despegamos!" dijo la NASA en un comunicado poco despu&eacute;s del lanzamiento a las 09H55 GMT, descrito por Bradley Smith, director de servicios de lanzamiento, como "absolutamente fant&aacute;stico".&nbsp;</li>
+<li>"Este incre&iacute;ble equipo acaba de enviar a CAPSTONE hacia la &oacute;rbita lunar", destac&oacute;. Si todo va bien, dentro de cuatro meses CAPSTONE estar&aacute; en condiciones de iniciar innovadoras "&oacute;rbitas de halo casi rectil&iacute;neas" alrededor de la Luna.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Con un peso similar al de una maleta, el sat&eacute;lite est&aacute; probando una &oacute;rbita para la estaci&oacute;n espacial "Gateway" de la NASA, que viajar&aacute; alrededor de la Luna y servir&aacute; de punto de partida para la exploraci&oacute;n lunar.</li>
+<li>La &oacute;rbita pasa a menos de 1.000 millas (1.600 kil&oacute;metros) de la Luna en su punto m&aacute;s cercano, antes de catapultarse a 43.500 millas (70.000 kil&oacute;metros) en el punto m&aacute;s lejano.&nbsp;</li>
+<li>Los cient&iacute;ficos esperan utilizar la atracci&oacute;n de la Luna y de la Tierra para minimizar el uso de combustible.</li>
+<li>Como parte del mismo proyecto, Estados Unidos planea tambi&eacute;n enviar a la primera mujer y a la primera persona de color a la Luna.</li>
+</ul>
+}
+title La NASA lanza un minisatélite para intentar volver a la Luna
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/28-la-nasa-lanza-un-minisatelite-para-intentar-volver-a-la-luna.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La NASA lanzó el martes un nanosatélite apenas más grande que un horno microondas al espacio exterior, como parte de una misión histórica para volver a enviar humanos a la Luna.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Nueva Zelanda<b>
+    text1 La NASA lanza un minisatélite para intentar volver a la Luna
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

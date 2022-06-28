@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Un tribunal de Mosc&uacute; conden&oacute; este martes 15 d&iacute;as de c&aacute;rcel a Ilya Yashin, una de las &uacute;ltimas figuras de oposici&oacute;n que quedan en Rusia, quien teme que este sea el inicio de m&aacute;s procesos en su contra.</li>
+<li>Desde el inicio de la ofensiva en Ucrania, el 24 de febrero, las autoridades rusas llevan a cabo una feroz represi&oacute;n contra las pocas voces contrarias al conflicto, obligando a muchas de ellas a huir al exilio, con otras en prisi&oacute;n o con procesos en su contra.&nbsp;</li>
+<li>Yashin, de 38 a&ntilde;os, es una figura conocida de la oposici&oacute;n contra el presidente Vladimir Putin. Hab&iacute;a decidido permanecer en el pa&iacute;s, pese a que conden&oacute; la intervenci&oacute;n en Ucrania.&nbsp;</li>
+</ul>
+<p><strong>En profundidad</strong></p>
+<p>El lunes fue detenido por tres polic&iacute;as mientras paseaba con una amiga.&nbsp;</p>
+<p>Unas horas m&aacute;s tarde este martes fue condenado por un tribunal a 15 d&iacute;as de prisi&oacute;n por "desobediencia a la autoridad", una versi&oacute;n que Yashin niega.&nbsp;</p>
+<p>En el informe, los polic&iacute;as afirmaron que los hab&iacute;a insultado y que les agarr&oacute; los uniformes durante el incidente.&nbsp;</p>
+<p>"No estoy tan loco como para provocar una pelea con tres polic&iacute;as", respondi&oacute; Yashin durante la audiencia, seg&uacute;n una transcripci&oacute;n publicada por su cuenta en Telegram.&nbsp;</p>
+<p>"Los verdaderos motivos de mi arresto son pol&iacute;ticos, evidentemente. Soy un opositor, un diputado (municipal) independiente, un cr&iacute;tico del presidente Putin y contrario a la guerra en Ucrania", agreg&oacute;.&nbsp;</p>
+<p>Yashin indic&oacute; que su actual detenci&oacute;n puede ser el preludio de un intento de procesarlo por la v&iacute;a penal en el futuro.</p>
+}
+title El opositor ruso Ilya Yashin es condenado a 15 días de prisión
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/28-el-opositor-ruso-ilya-yashin-es-condenado-a-15-dias-de-prision.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un tribunal de Moscú condenó este martes 15 días de cárcel a Ilya Yashin, una de las últimas figuras de oposición que quedan en Rusia, quien teme que este sea el inicio de más procesos en su contra.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 El opositor ruso Ilya Yashin es condenado a 15 días de prisión
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
