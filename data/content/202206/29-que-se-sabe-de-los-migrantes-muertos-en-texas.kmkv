@@ -1,0 +1,57 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>51 inmigrantes indocumentados fueron hallados muertos el lunes despu&eacute;s de que el cami&oacute;n con remolque en el que eran ingresados clandestinamente a Estados Unidos los abandonara en las afueras de San Antonio, Texas. Esto es lo que sabemos sobre la tragedia:</li>
+</ul>
+<p><strong>- &iquest;Qui&eacute;nes eran los migrantes? -</strong></p>
+<p>Los funcionarios en el lugar informaron inicialmente que el n&uacute;mero de muertos ascend&iacute;a a 46 y que 16 personas -12 adultos y cuatro ni&ntilde;os- hab&iacute;an sido trasladados al hospital. Luego, la cifra de muertos subi&oacute; a 51 e informes de los medios dijeron que varios hab&iacute;an fallecido en el hospital.</p>
+<p>Especificamente son 27 mexicanos, hondure&ntilde;os 14, guatemaltecos siete, salvadore&ntilde;os dos y un cuerpo sin identificar</p>
+<p>No est&aacute; claro si otras personas lograron escapar antes del remolque.</p>
+<p><strong>- &iquest;Qui&eacute;n los hall&oacute;? -</strong></p>
+<p>El cami&oacute;n con remolque fue abandonado a la vera de una carretera en una zona escasamente poblada a 14 kil&oacute;metros del centro de San Antonio, junto a una v&iacute;a f&eacute;rrea y cerca de varios dep&oacute;sitos de chatarra y negocios de autopartes.</p>
+<p>Asimismo, estaba a poca distancia de la ruta Interestatal 35, que conecta a San Antonio con Laredo, en la frontera entre Texas y M&eacute;xico, 250 kil&oacute;metros al sur.</p>
+<p>El jefe de polic&iacute;a de San Antonio, William McManus, dijo que las autoridades fueron alertadas sobre el cami&oacute;n abandonado por una llamada de emergencia alrededor de las 17H00 (22H50 GMT) del lunes.</p>
+<p>Detall&oacute; que un trabajador de un edificio cercano escuch&oacute; un grito de ayuda y fue a investigar, encontrando el remolque con la puerta parcialmente abierta con los cad&aacute;veres dentro.</p>
+<p><strong>- &iquest;C&oacute;mo murieron? -</strong></p>
+<p>El jefe de bomberos de San Antonio, Charles Hood, dijo que el tr&aacute;iler fue dise&ntilde;ado como un espacio refrigerado pero que no ten&iacute;a una unidad de aire acondicionado en funcionamiento.</p>
+<p>Diecis&eacute;is personas, incluidos cuatro ni&ntilde;os, fueron sacadas vivas del tr&aacute;iler, con golpe de calor agudo y deshidrataci&oacute;n. La temperatura m&aacute;xima en San Antonio el lunes fue de 39,4 grados Celsius.</p>
+<p>Y seg&uacute;n Patterson, firma que refrigera tr&aacute;ilers, la temperatura dentro de un remolque sin ventilaci&oacute;n ni refrigeraci&oacute;n puede subir hasta los 65&ordm;C con tiempo caluroso.</p>
+<p><strong>- &iquest;Qui&eacute;n est&aacute; detr&aacute;s de la tragedia? -</strong></p>
+<p>Aun se desconoce. McManus dio cuenta de tres detenidos, aunque aclar&oacute; a&uacute;n no pudieron determinar si est&aacute;n involucrados.</p>
+<p>Las autoridades fronterizas afirman que las redes de tr&aacute;fico de personas operan con camiones, cobrando grandes sumas de dinero a aquellos que quieren ingresar clandestinamente a Estados Unidos.</p>
+<p>El 14 de junio, se descubrieron 80 personas oriundas de M&eacute;xico, Guatemala, Honduras y El Salvador dentro de un cami&oacute;n con remolque en un ret&eacute;n de carretera al norte de Laredo, Texas. Tres semanas antes, los agentes interceptaron un tr&aacute;iler con 48 personas cerca de Sierra Blanca, tambi&eacute;n en Texas.</p>
+}
+title ¿Qué se sabe de los migrantes muertos en camión en Texas?
+day 29
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/29-que-se-sabe-de-los-migrantes-muertos-en-texas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description 51 inmigrantes indocumentados fueron hallados muertos el lunes después de que el camión con remolque en el que eran ingresados clandestinamente a Estados Unidos los abandonara en las afueras de San Antonio, Texas. Esto es lo que sabemos sobre la tragedia:
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 ¿Qué se sabe de los migrantes muertos en camión en Texas?
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

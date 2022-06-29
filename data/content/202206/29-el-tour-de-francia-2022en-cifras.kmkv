@@ -1,0 +1,83 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Corredores, recorrido, p&uacute;blico, precio, televisi&oacute;n, seguridad... Estas son las cifras de la 109&ordf; edici&oacute;n del Tour de Francia (1 al 24 de julio):</li>
+</ul>
+<p>1: El dorsal de Pogacar, vigente campe&oacute;n</p>
+<p>2: Las etapas contrarreloj (Copenhague, Rocamadour)</p>
+<p>3: Los d&iacute;as de traslado (4 julio) y de descanso (11 y 18 de julio)</p>
+<p>4: Los maillots distintivos (amarillo, verde, a lunares, blanco)</p>
+<p>4: Los pa&iacute;ses que visitar&aacute; (Dinamarca, Francia, B&eacute;lgica, Suiza)</p>
+<p>5: Las llegadas en alto (super Planche des Belles Filles, Granon, Alpe d'Huez, Peyragudes, Hautacam)</p>
+<p>6: Las etapas llanas y las etapas de monta&ntilde;a</p>
+<p>6: Los equipos franceses en la salida</p>
+<p>7: Las etapas accidentadas</p>
+<p>7: Las ascensiones de categor&iacute;as especial (Galibier x 2, Granon, Croix-de-Fer, Alpe d'Huez, Aubisque, Hautacam)</p>
+<p>7: Las ambulancias</p>
+<p>8: Las vueltas al circuito por los Campos El&iacute;seos, el 24 de julio</p>
+<p>8: El n&uacute;mero de corredores por equipo en la salida</p>
+<p>8: Las regiones que visitar&aacute; la carrera</p>
+<p>10: La longitud de la caravana publicitaria</p>
+<p>11: Los m&eacute;dicos presentes permanentemente en el Tour</p>
+<p>16: Los comisarios (jueces, encargados de los tiempos, etc.)</p>
+<p>19: Los kil&oacute;metros de pav&eacute; (19,4 km exactamente)</p>
+<p>21: Las etapas</p>
+<p>22: Los equipos en liza</p>
+<p>23: Los puertos de esta edici&oacute;n (categor&iacute;a especial, primera y segunda categor&iacute;a)</p>
+<p>25: En porcentaje, el retraso m&aacute;ximo concedido en relaci&oacute;n al tiempo del vencedor (en etapas contrarreloj individuales)</p>
+<p>36: Las victorias francesas desde 1903</p>
+<p>53,9: Los kil&oacute;metros de contrarreloj individual</p>
+<p>60: Las cadenas que retransmiten la carrera en directo</p>
+<p>106: Las zonas de recogida de residuos de los corredores</p>
+<p>109: El n&uacute;mero de la edici&oacute;n del Tour 2022</p>
+<p>115,6 km: La distancia de la etapa en l&iacute;nea m&aacute;s corta (Par&iacute;s La D&eacute;fense Arena - Par&iacute;s Champs-Elys&eacute;es)</p>
+<p>150: Los veh&iacute;culos de la caravana publicitaria</p>
+<p>176: Los corredores en liza</p>
+<p>190: Los pa&iacute;ses que retransmiten el Tour</p>
+<p>219,9 km: La etapa m&aacute;s larga (Binche - Longwy)</p>
+<p>500 euros: Cantidad que percibe al d&iacute;a el portador del maillot amarillo</p>
+<p>1.000 euros: El premio m&iacute;nimo para cada corredor que finalice el Tour</p>
+<p>2.642 m: El punto a mayor altitud de esta edici&oacute;n, el Galibier (11&ordf; y 12&ordf;)</p>
+<p>3.449,8 km: La distancia total</p>
+<p>11.000 euros: El premio al ganador de etapa</p>
+<p>20.000 euros: La prima para el corredor m&aacute;s combativo</p>
+<p>28.000: Los gendarmes, polic&iacute;as y bomberos movilizados</p>
+<p>403.200: El n&uacute;mero de pedaladas de media para completar un Tour de Francia (estimaci&oacute;n de Sportlab 2017)</p>
+<p>415.000 km: La distancia aproximada recorrida en las 108 ediciones del Tour desde 1903</p>
+<p>500.000 euros: El premio para el ganador de la general</p>
+<p>2.282.000 euros: La dotaci&oacute;n en premios y primas.</p>
+}
+title El Tour de Francia 2022 en cifras
+day 29
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/29-el-tour-de-francia-2022en-cifras.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Corredores, recorrido, público, precio, televisión, seguridad... Estas son las cifras de la 109ª edición del Tour de Francia (1 al 24 de julio)
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Francia<b>
+    text1 El Tour de Francia 2022 en cifras
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

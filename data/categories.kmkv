@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/28-el-opositor-ruso-ilya-yashin-es-condenado-a-15-dias-de-prision
+        featured{array} /content/202206/29-ucrania-repatrio-a-144-soldados-en-el-mayor-canje-de-presos-con-rusia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/28-rusia-libera-a-17-personas-en-intercambio-de-prisioneros-con-ucrania
+    featured{array} /content/202206/29-el-tour-de-francia-2022en-cifras
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202206/21-japon-lanza-una-campana-para-preservar-el-bosque-que-inspiro-totoro
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/28-la-nasa-lanza-un-minisatelite-para-intentar-volver-a-la-luna
+    featured{array} /content/202206/29-que-se-sabe-de-los-migrantes-muertos-en-texas
 }
 other{kmkv} {
     name Other (Internal)
