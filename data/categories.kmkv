@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202206/28-la-nasa-lanza-un-minisatelite-para-intentar-volver-a-la-luna
+        featured{array} /content/202206/30-nasa-revelara-la-imagen-mas-profunda-del-universo-tomada-por-el-telescopio-james-webb
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/29-ucrania-repatrio-a-144-soldados-en-el-mayor-canje-de-presos-con-rusia
+        featured{array} /content/202206/30-alemania-quiere-facilitar-cambio-de-nombre-para-personas-transgenero
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202206/29-el-tour-de-francia-2022en-cifras
+    featured{array} /content/202206/30-unos-16-millones-de-ucranianos-necesitan-ayuda-humanitaria-segun-la-onu
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202206/21-japon-lanza-una-campana-para-preservar-el-bosque-que-inspiro-totoro
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202206/29-que-se-sabe-de-los-migrantes-muertos-en-texas
+    featured{array} /content/202206/30-r-kelly-condenado-a-30-anos-de-carcel
 }
 other{kmkv} {
     name Other (Internal)

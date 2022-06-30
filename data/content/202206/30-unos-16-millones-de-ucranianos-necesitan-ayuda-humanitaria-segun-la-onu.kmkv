@@ -1,0 +1,46 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">Foto portada: </strong>eACNUR</p>
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Unos 16 millones de ucranianos necesitan ayuda humanitaria y m&aacute;s de seis millones siguen desplazados dentro del pa&iacute;s, declar&oacute; este jueves en Kiev la coordinadora humanitaria de la ONU en este pa&iacute;s en guerra.</li>
+<li>"Casi 16 millones de personas en Ucrania necesitan actualmente ayuda humanitaria: agua, alimentos, servicios de salud" en medio de la guerra desencadenada por la invasi&oacute;n de Rusia, dijo Osnat Lubrani, en una conferencia de prensa.</li>
+<li>"M&aacute;s de seis millones de personas siguen desplazadas dentro del pa&iacute;s. Unos cinco millones de personas han logrado volver a sus hogares, pero muchos saben que podr&iacute;an verse obligados a huir de nuevo", agreg&oacute;.</li>
+<li>Seg&uacute;n la Organizaci&oacute;n Internacional para las Migraciones (OIM), que forma parte del sistema de las Naciones Unidas, esta cifra de retornos se refiere tanto a los desplazados internos como a los repatriados del extranjero.</li>
+<li>Lubrani a&ntilde;adi&oacute; que m&aacute;s de 5,3 millones de ucranianos se han refugiado en el extranjero.</li>
+<li>"Lo que sabemos es que el n&uacute;mero de casi 5.000 civiles muertos y m&aacute;s de 5.000 heridos es solo una fracci&oacute;n de la aterradora realidad", reconoci&oacute;.</li>
+</ul>
+}
+title Unos 16 millones de ucranianos necesitan ayuda humanitaria, según la ONU
+day 30
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202206/headers/30-unos-16-millones-de-ucranianos-necesitan-ayuda-humanitaria-segun-la-onu.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Unos 16 millones de ucranianos necesitan ayuda humanitaria y más de seis millones siguen desplazados dentro del país, declaró este jueves en Kiev la coordinadora humanitaria de la ONU en este país en guerra.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Unos 16 millones de ucranianos necesitan ayuda humanitaria, según la ONU
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 06
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
