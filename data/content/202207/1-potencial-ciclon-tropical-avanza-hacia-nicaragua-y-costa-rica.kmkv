@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Un potencial cicl&oacute;n tropical se desplaza con direcci&oacute;n a las costas caribe&ntilde;as de Nicaragua y Costa Rica, en Centroam&eacute;rica, mientras ciudadanos se preparan para enfrentar las posibles consecuencias de la tempestad.</li>
+<li>El fen&oacute;meno, con vientos m&aacute;ximos de 65 km/h y un movimiento de 31 km/h, se localizaba la noche del jueves a unos 730 km al este de Bluefields, costas de Nicaragua. "No se ha fortalecido, pero a&uacute;n se espera que se convierta en tormenta tropical" precis&oacute; el Centro Nacional de Huracanes (CNH) de Estados Unidos.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La tempestad, que se gener&oacute; frente a las costas de Venezuela y Colombia, "se mover&aacute; a trav&eacute;s del suroeste del mar Caribe (...) cruzar&aacute; el sur de Nicaragua o norte de Costa Rica el viernes por la noche, y emerger&aacute; sobre el Oc&eacute;ano Pac&iacute;fico el s&aacute;bado", indic&oacute; el CNH.</li>
+<li>"Se espera que estas precipitaciones resulten en &aacute;reas de inundaciones repentinas y deslizamientos de tierra que amenazan la vida (...) Condiciones de hurac&aacute;n son posibles a lo largo de la costa de Nicaragua, tarde el viernes", agreg&oacute;.</li>
+<li>En Nicaragua, el gobierno moviliz&oacute; a m&aacute;s de 1.000 miembros de brigadas de rescate para evacuar y socorrer a la poblaci&oacute;n en caso de emergencia.</li>
+<li>Costa Rica declar&oacute; la tarde del jueves una "alerta roja" (m&aacute;ximo nivel de amenaza) en 13 cantones localizados en el norte del pa&iacute;s, bajo "el principio de salvaguardar la vida", ante el impacto que puedan ocasionar las lluvias y vientos de la tempestad, seg&uacute;n la Comisi&oacute;n Nacional de Emergencia (CNE).</li>
+<li>Los sitios bajo alerta roja son La Cruz, Los Chiles, Guatuso, Upala, San Carlos, R&iacute;o Cuarto, Sarapiqu&iacute;, Guacimo, Pococ&iacute;, Siquirres y Matina, donde las autoridades han evacuado de manera preventiva a unas 900 personas.</li>
+<li>Las autoridades costarricenses desplazaron a unos 2.800 efectivos de la Fuerza P&uacute;blica a la zona, donde se produjeron evacuaciones y tambi&eacute;n suspendieron las clases.</li>
+</ul>
+}
+title Potencial ciclón tropical avanza hacia Nicaragua y Costa Rica
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/1-potencial-ciclon-tropical-avanza-hacia-nicaragua-y-costa-rica.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un potencial ciclón tropical se desplaza con dirección a las costas caribeñas de Nicaragua y Costa Rica, en Centroamérica, mientras ciudadanos se preparan para enfrentar las posibles consecuencias de la tempestad.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Costa Rica<b>
+    text1 Potencial ciclón tropical avanza hacia Nicaragua y Costa Rica
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

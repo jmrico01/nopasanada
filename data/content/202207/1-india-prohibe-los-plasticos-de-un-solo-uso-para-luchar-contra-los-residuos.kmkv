@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El gobierno indio prohibi&oacute; el viernes varios tipos de pl&aacute;stico de un solo uso en un intento de luchar contra los residuos que inundan los r&iacute;os y envenenan la fauna del pa&iacute;s, aunque la falta de preparaci&oacute;n de los fabricantes y la reticencia de los consumidores son un obst&aacute;culo, apuntan los expertos.</li>
+<li>India genera en torno a cuatro millones de toneladas de pl&aacute;stico por a&ntilde;o, un tercio del cual no es reciclado y acaba en cursos de agua y vertederos. A menudo se incendian, agravando la contaminaci&oacute;n del aire.</li>
+<li>La mitad de esos desechos proviene de art&iacute;culos de uso &uacute;nico. Una realidad con la que quiere terminar la nueva prohibici&oacute;n</li>
+<li>Quedan exentos de momento productos como bolsas de pl&aacute;stico por debajo de cierto espesor.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La primera prohibici&oacute;n fue introducida en &nbsp;2018 por el primer ministro &nbsp;Narendra Modi, y las autoridades han prometido desde entonces reforzar las reglas.</li>
+<li>Se han desplegado este viernes inspectores para verificar que se respeta la prohibici&oacute;n, so pena de una multa m&aacute;xima de &nbsp;100.000 rupias (1.209 euros, USD 1.260) o una pena de c&aacute;rcel de cinco a&ntilde;os.</li>
+<li>Cerca de la mitad de las regiones de India han tratado de imponer medidas similares, pero, como lo demuestra el estado de r&iacute;os y basureros, el &eacute;xito ha sido muy relativo</li>
+<li>Las empresas de la industria del pl&aacute;stico, que emplean a millones de personas en el pa&iacute;s, objetan que las alternativas son costosas y presionan al gobierno para postergar la prohibici&oacute;n.</li>
+</ul>
+}
+title India prohíbe los plásticos de un solo uso para luchar contra los residuos
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/1-india-prohibe-los-plasticos-de-un-solo-uso-para-luchar-contra-los-residuos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El gobierno indio prohibió el viernes varios tipos de plástico de un solo uso en un intento de luchar contra los residuos que inundan los ríos y envenenan la fauna del país, aunque la falta de preparación de los fabricantes y la reticencia de los consumidores son un obstáculo, apuntan los expertos.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>India<b>
+    text1 India prohíbe los plásticos de un solo uso para luchar contra los residuos
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

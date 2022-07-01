@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202206/24-al-parecer-las-tortugas-y-criaturas-de-sangre-fria-no-envejecen
+        featured{array} /content/202207/1-potencial-ciclon-tropical-avanza-hacia-nicaragua-y-costa-rica
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,7 +61,7 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202206/30-alemania-quiere-facilitar-cambio-de-nombre-para-personas-transgenero
+        featured{array} /content/202207/1-la-desinformacion-inunda-el-debate-electoral-en-brasil
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202206/30-unos-16-millones-de-ucranianos-necesitan-ayuda-humanitaria-segun-la-onu
