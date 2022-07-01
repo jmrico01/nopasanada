@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/1-potencial-ciclon-tropical-avanza-hacia-nicaragua-y-costa-rica
+        featured{array} /content/202207/1-india-prohibe-los-plasticos-de-un-solo-uso-para-luchar-contra-los-residuos
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,7 +61,7 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/1-la-desinformacion-inunda-el-debate-electoral-en-brasil
+        featured{array} /content/202207/1-potencial-ciclon-tropical-avanza-hacia-nicaragua-y-costa-rica
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202206/30-unos-16-millones-de-ucranianos-necesitan-ayuda-humanitaria-segun-la-onu
