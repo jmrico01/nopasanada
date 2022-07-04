@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La tormenta tropical Bonnie que se desplaza por el Pac&iacute;fico de Centroam&eacute;rica y M&eacute;xico, dej&oacute; al menos tres muertos en Nicaragua y El Salvador, cientos de desplazados por el desbordamiento de r&iacute;os, viviendas inundadas y ca&iacute;da de &aacute;rboles, seg&uacute;n un balance preliminar este domingo en los pa&iacute;ses afectados.</li>
+<li>En El Salvador, Maura Carolina Beltr&aacute;n, de 24 a&ntilde;os, falleci&oacute; al ser arrastrada por la corriente de una alcantarilla en una comunidad de San Mart&iacute;n", unos 15 km al este de San Salvador, declar&oacute; a la AFP el portavoz de Comandos de Salvamento, Herbert Vanegas.</li>
+<li>En Nicaragua, Alberto Flores, de 40 a&ntilde;os, falleci&oacute; el s&aacute;bado cuando intentaba cruzar un r&iacute;o crecido y Juan Alem&aacute;n de 38, muri&oacute; el mismo d&iacute;a,&nbsp; mientras ayudaba a rescatar a los pasajeros del autob&uacute;s en que viajaba, cuyo conductor intento cruzar la corriente en otro r&iacute;o, inform&oacute; el Ej&eacute;rcito.&nbsp;</li>
+<li>Las brigadas de salvamento y rescate del Ej&eacute;rcito encontraron el domingo los cuerpos de los fallecidos, ambos en el municipio de Siuna, en el Caribe norte, seg&uacute;n el reporte.&nbsp;</li>
+<li>En tanto, Protecci&oacute;n Civil, de El Salvador, inform&oacute; que el domingo realiz&oacute; un "operativo de b&uacute;squeda" en el r&iacute;o Lempa de un hombre que desapareci&oacute; en la comunidad Los Otero, en el municipio de Nombre de Jes&uacute;s, Chalatenango, norte del pa&iacute;s.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La Tormenta Tropical Bonnie que el s&aacute;bado sali&oacute; al Pac&iacute;fico, tras cruzar desde el Caribe Nicaragua y Costa Rica, se desplaza al oeste-noroeste y sus bandas de vientos y lluvias afectaran las costas de Guatemala y el sur de M&eacute;xico, seg&uacute;n el Centro Nacional de Huracanes (CNH), de Estados Unidos.</li>
+<li>"Los vientos m&aacute;ximos sostenidos han aumentado a cerca de 110 km / h. Se pronostica un fortalecimiento adicional y se espera que Bonnie se convierta en un hurac&aacute;n esta noche (de domingo)", a&ntilde;adi&oacute; el CNH.</li>
+<li>El ministro de Gobernaci&oacute;n, Juan Carlos Bidega&iacute;n, declar&oacute; que 14 comunidades de San Salvador y su periferia afrontaron emergencias por lo que 107 personas fueron evacuadas a nueve albergues.</li>
+<li>Las autoridades tambi&eacute;n atendieron emergencias en los departamentos de Sonsonate (oeste), La Libertad, Caba&ntilde;as y San Vicente, en el centro, y Usulut&aacute;n, en el sureste del pa&iacute;s.</li>
+</ul>
+}
+title Tormenta Bonnie deja tres muertos y daños en Nicaragua y El Salvador
+day 04
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/1-potencial-ciclon-tropical-avanza-hacia-nicaragua-y-costa-rica.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La tormenta tropical Bonnie que se desplaza por el Pacífico de Centroamérica y México, dejaba al menos tres muertos en Nicaragua y El Salvador, cientos de desplazados por el desbordamiento de ríos, viviendas inundadas y caída de árboles, según un balance preliminar este domingo en los países afectados.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Tormenta Bonnie<b>
+    text1 Tormenta Bonnie deja tres muertos y daños en Nicaragua y El Salvador
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
