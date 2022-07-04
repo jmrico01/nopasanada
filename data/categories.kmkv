@@ -16,11 +16,11 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202206/30-nasa-revelara-la-imagen-mas-profunda-del-universo-tomada-por-el-telescopio-james-webb
+        featured{array} /content/202207/4-pandas-vegetarianos
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/1-india-prohibe-los-plasticos-de-un-solo-uso-para-luchar-contra-los-residuos
+        featured{array} /content/202207/4-tormenta-bonnie-deja-tres-muertos-y-danos-en-nicaragua-y-el-salvador
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,11 +57,11 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202206/28-josef-schutz-es-condenado-a-cinco-anos-de-carcel-por-crimenes-nazis
+        featured{array} /content/202207/4-otan-inicia-el-proceso-formal-para-la-adhesion-de-suecia-y-finlandia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/1-la-desinformacion-inunda-el-debate-electoral-en-brasil
+        featured{array} /content/202207/4-sequias-dejan-en-evidencia-secretos-de-la-mafia-en-las-vegas
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202207/1-potencial-ciclon-tropical-avanza-hacia-nicaragua-y-costa-rica
