@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El barco "Ocean Viking" de la oeneg&eacute; humanitaria SOS M&eacute;diterran&eacute;e lanz&oacute; este martes un llamado para poder "desembarcar de manera urgente en un puerto seguro" a 306 migrantes rescatados, algunos de ellos a bordo desde hace 11 d&iacute;as "bajo un calor extremo".</li>
+<li>Desde el 24 de junio, el barco alquilado por la oeneg&eacute; con sede en Francia que opera en asociaci&oacute;n con la Federaci&oacute;n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (IFRC), realiz&oacute; ocho operaciones de rescate frente a las costas de Libia y Malta, indic&oacute; SOS M&eacute;diterran&eacute;e en un comunicado.</li>
+<li>Entre los migrantes se encuentran 53 mujeres, cuatro de ellas embarazadas, y 87 menores no acompa&ntilde;ados.</li>
+<li>En mayo, durante su &uacute;ltima misi&oacute;n en el Mediterr&aacute;neo central, la ruta migratoria m&aacute;s peligrosa del mundo, el "Ocean Viking" rescat&oacute; a unas 300 personas, entre ellas un beb&eacute; de tres meses y seis mujeres embarazadas, pero tuvo que esperar una decena de d&iacute;as hasta obtener permiso para desembarcar en un puerto, en Sicilia (Italia).</li>
+<li>Desde el inicio del a&ntilde;o, 805 migrantes desaparecieron en Mediterr&aacute;neo central, seg&uacute;n la Organizaci&oacute;n Internacional para las Migraciones. La agencia de la ONU estima el n&uacute;mero de muertos y desaparecidos en 1.553 en 2021.</li>
+<li>Cada a&ntilde;o, miles de personas que huyen de conflictos o pobreza intentan llegar a Europa cruzando el Mediterr&aacute;neo a partir de Libia, cuyas cosas est&aacute;n a unos 300 kil&oacute;metros de Italia.</li>
+</ul>
+}
+title Barco humanitario "Ocean Viking" busca puerto mediterráneo para 306 migrantes
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/5-barco-humanitario-ocean-viking-busca-puerto-mediterraneo-para-306-migrantes.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El barco "Ocean Viking" de la oenegé humanitaria SOS Méditerranée lanzó este martes un llamado para poder "desembarcar de manera urgente en un puerto seguro" a 306 migrantes rescatados, algunos de ellos a bordo desde hace 11 días "bajo un calor extremo".
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Francia<b>
+    text1 Barco humanitario "Ocean Viking" busca puerto mediterráneo para 306 migrantes
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

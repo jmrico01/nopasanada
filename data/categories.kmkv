@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/4-tormenta-bonnie-deja-tres-muertos-y-danos-en-nicaragua-y-el-salvador
+        featured{array} /content/202207/5-la-dramatica-sequia-de-eeuu-amenaza-a-la-represa-hoover
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,7 +61,7 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/4-sequias-dejan-en-evidencia-secretos-de-la-mafia-en-las-vegas
+        featured{array} /content/202207/5-barco-humanitario-ocean-viking-busca-puerto-mediterraneo-para-306-migrantes
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202207/1-potencial-ciclon-tropical-avanza-hacia-nicaragua-y-costa-rica
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202207/1-la-desinformacion-inunda-el-debate-electoral-en-brasil
+    featured{array} /content/202207/5-mas-de-5000-casos-de-viruela-del-mono-confirmados-en-el-mundo-anuncia-la-oms
 }
 other{kmkv} {
     name Other (Internal)
