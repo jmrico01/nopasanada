@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El objetivo de la ONU de erradicar el hambre en 2030 se aleja cada vez m&aacute;s, advirti&oacute; el mi&eacute;rcoles la &nbsp;Organizaci&oacute;n para la Alimentaci&oacute;n y la Agricultura (FAO) alertando que ya el a&ntilde;o pasado, antes de la guerra en Ucrania, hubo un "panorama sombr&iacute;o" para la seguridad alimentaria global.</li>
+<li>"Entre 702 y 828 millones de personas sufrieron hambre en 2021", lo que equivale a un 9,8% de la poblaci&oacute;n mundial, indicaron en un informe conjunto la FAO, el Fondo Internacional para el Desarrollo de la Agricultura (FIDA), la Unicef, el Programa Mundial de Alimentos (PAM) y la Organizaci&oacute;n Mundial de la Salud (OMS).</li>
+<li>Esta cifra implica que hubo 46 millones de personas m&aacute;s con hambre con respecto a 2020, un a&ntilde;o en que la situaci&oacute;n ya se hab&iacute;a degradado con respecto al precedente debido a la pandemia del covid-19.</li>
+<li>Seg&uacute;n la FAO, "el mundo se aleja de su objetivo de eliminar el hambre, la inseguridad alimentaria y la desnutrici&oacute;n bajos todas sus formas de aqu&iacute; a 2030", como proyectaba la ONU con su Objetivo de Desarrollo Sostenible ODS-2 'Hambre Cero'.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La organizaci&oacute;n proyecta que 670 millones de personas van a seguir sufriendo hambre para el final de esta d&eacute;cada, "una cifra similar a la de 2015", cuando la comunidad internacional se fij&oacute; el objetivo de erradicaci&oacute;n.&nbsp;</li>
+<li>Si no se adoptan medidas dr&aacute;sticas, "todos nuestros esfuerzos habr&aacute;n servido simplemente a atajar las grandes crisis que hemos vivido", lament&oacute; el presidente del FIDA, Gilbert Houngbo, en una entrevista concedida a la AFP.&nbsp;</li>
+<li>Las cinco organizaciones internacionales alertaron sobre una "intensificaci&oacute;n de los principales motores de la inseguridad alimentaria y de la desnutrici&oacute;n" que son los conflictos, los fen&oacute;menos clim&aacute;ticos extremos y las crisis econ&oacute;micas.</li>
+<li>Para las organizaciones la clave es tomar medidas audaces para reforzar la "resiliencia" frente a crisis futuras, como la ocurrida con la guerra en Ucrania que perturb&oacute; la cadena de aprovisionamiento.&nbsp;</li>
+</ul>
+}
+title El mundo "se aleja del objetivo" de erradicar el hambre en 2030, según la FAO
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/5-barco-humanitario-ocean-viking-busca-puerto-mediterraneo-para-306-migrantes.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El objetivo de la ONU de erradicar el hambre en 2030 se aleja cada vez más, advirtió el miércoles la  Organización para la Alimentación y la Agricultura (FAO) alertando que ya el año pasado, antes de la guerra en Ucrania, hubo un "panorama sombrío" para la seguridad alimentaria global.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>FAO<b>
+    text1 El mundo "se aleja del objetivo" de erradicar el hambre en 2030, según la FAO
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
