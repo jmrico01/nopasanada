@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202207/5-mas-de-5000-casos-de-viruela-del-mono-confirmados-en-el-mundo-anuncia-la-oms
+    featured{array} /content/202207/05-bored-ape
 }
 other{kmkv} {
     name Other (Internal)
