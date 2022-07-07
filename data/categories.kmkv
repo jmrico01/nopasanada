@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202207/6-nuevo-estudio-sobre-covid-ayuda-a-comprender-la-niebla-cerebral
+        featured{array} /content/202207/7-estadounidenses-se-alistan-para-lo-que-vendra-tras-fallo-sobre-el-aborto
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202207/4-otan-inicia-el-proceso-formal-para-la-adhesion-de-suecia-y-finlandia
+        featured{array} /content/202207/7-boris-johnson-dimite-como-lider-del-partido-conservador
     }
     loimportante{kmkv} {
         name Lo Importante
@@ -119,5 +119,5 @@ ludi{kmkv} {
         featured{array} /content/202206/22-ya-se-vendio-1-2-millones-de-entradas-para-el-mundial-2022
     }
     displayOrder{array} 
-    featured{array} /content/202206/22-ya-se-vendio-1-2-millones-de-entradas-para-el-mundial-2022
+    featured{array} /content/202207/7-las-mujeres-transgenero-no-podran-competir-en-triatlones-femeninos-en-reino-nido
 }
