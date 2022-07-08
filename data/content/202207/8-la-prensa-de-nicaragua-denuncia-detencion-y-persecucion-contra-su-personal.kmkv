@@ -1,0 +1,57 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El ex primer ministro japon&eacute;s Shinzo Abe muri&oacute; este viernes en el hospital tras sufrir un ataque con arma de fuego durante un acto de campa&ntilde;a en Nara (oeste), un acto que gener&oacute; gran conmoci&oacute;n en Jap&oacute;n y en el extranjero.</li>
+<li>"Shinzo Abe fue llevado (al hospital) a las 12H20. Estaba en estado de paro cardiorrespiratorio a su llegada. Se intent&oacute; reanimarlo. Desgraciadamente, falleci&oacute; a las 17H03" (08H03 GMT), declar&oacute; Hidetada Fukushima, responsable de medicina de urgencia en el hospital de la universidad m&eacute;dica de Nara (oeste).</li>
+<li>El ataque contra el pol&iacute;tico m&aacute;s conocido del pa&iacute;s, de 67 a&ntilde;os, tuvo lugar en un mitin para las elecciones senatoriales del domingo, y pese a las estrictas leyes en el archipi&eacute;lago contra la tenencia de armas.&nbsp;</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>El ataque se produjo poco antes del mediod&iacute;a en Nara, donde Abe pronunciaba un discurso en el marco de la campa&ntilde;a, cuando se escucharon disparos, indicaron la cadena nacional NHK y la agencia Kyodo.</p>
+<p>"Un hombre que se cree es el atacante est&aacute; bajo custodia", declar&oacute; a periodistas el jefe del gabinete japon&eacute;s, Hirokazu Matsuno.</p>
+<p>Un hombre de unos 40 a&ntilde;os fue detenido por intento de asesinato y se le habr&iacute;a confiscado un arma, inform&oacute; NHK citando fuentes policiales.</p>
+<p>Seg&uacute;n varios medios locales, el sospechoso ser&iacute;a un japon&eacute;s de 41 a&ntilde;os que perteneci&oacute; a la Fuerza mar&iacute;tima de autodefensa japonesa, la marina nipona.</p>
+<p>Im&aacute;genes transmitidas por NHK muestran de pie a Abe en un escenario, cuando se escucha un estallido y se observa humo. Luego se puede ver c&oacute;mo un hombre es inmovilizado por agentes de seguridad.</p>
+<p>Abe se derrumb&oacute; y sangraba del cuello, dijo una fuente de su Partido Liberal Democr&aacute;tico (PLD) a la agencia Jiji.</p>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Abe ten&iacute;a 52 a&ntilde;os cuando asumi&oacute; como primer ministro en 2006, convirti&eacute;ndose en la persona m&aacute;s joven en ocupar el cargo.</li>
+<li>Su primer per&iacute;odo fue turbulento, acosado por esc&aacute;ndalos y disputas, y termin&oacute; con su abrupta renuncia un a&ntilde;o despu&eacute;s.</li>
+<li>Se postul&oacute; nuevamente, y volvi&oacute; a la jefatura de gobierno como un salvador en diciembre de 2012.</li>
+<li>Golpeado por los efectos del tsunami en 2011 y el posterior desastre nuclear de Fukushima, Jap&oacute;n encontr&oacute; en Abe una mano confiable.</li>
+<li>Abe se hizo conocer en el extranjero por su estrategia de reactivaci&oacute;n econ&oacute;mica, conocida como los "abenomics", lanzada a partir de 2012, en la que mezclaba flexibilizaci&oacute;n monetaria, masiva reactivaci&oacute;n presupuestaria y reformas estructurales.</li>
+</ul>
+}
+title Asesinaron al ex primer ministro japonés Shinzo Abe
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/7-boris-johnson-dimite-como-lider-del-partido-conservador.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El ex primer ministro japonés Shinzo Abe murió este viernes en el hospital tras sufrir un ataque con arma de fuego durante un acto de campaña en Nara (oeste), un acto que generó gran conmoción en Japón y en el extranjero.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Japón<b>
+    text1 Asesinaron al ex primer ministro japonés Shinzo Abe
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
