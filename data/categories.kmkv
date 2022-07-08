@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/5-la-dramatica-sequia-de-eeuu-amenaza-a-la-represa-hoover
+        featured{array} /content/202207/8-miles-de-millones-de-personas-en-el-mundo-dependen-de-las-especies-silvestres
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,7 +61,7 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/6-barril-de-petroleo-brent-cae-por-debajo-de-los-100-dolares
+        featured{array} /content/202207/8-la-prensa-de-nicaragua-denuncia-detencion-y-persecucion-contra-su-personal
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202207/1-potencial-ciclon-tropical-avanza-hacia-nicaragua-y-costa-rica
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202207/05-bored-ape
+    featured{array} /content/202207/8-onu-denuncia-estancamiento-de-investigacion-del-asesinato-de-jovenel-moise
 }
 other{kmkv} {
     name Other (Internal)
