@@ -1,0 +1,50 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El gasoducto ruso Nord Stream suspendi&oacute; hoy y hasta el pr&oacute;ximo d&iacute;a 21 el suministro de gas a Alemania por "mantenimiento", inform&oacute; la operadora de la infraestructura Nord Stream AG.</li>
+<li>Desde junio pasado el gasoducto, tendido por el fondo del mar B&aacute;ltico, opera al 40 % de su capacidad debido, seg&uacute;n Rusia, aunque Canad&aacute;, por las sanciones que pesan sobre Mosc&uacute; por su "operaci&oacute;n militar especial" en Ucrania, no ha devuelto unas turbinas que se encontraban en reparaci&oacute;n y que se precisan para el bombeo del combustible.</li>
+<li>El a&ntilde;o pasado las labores de mantenimiento del Nord Stream se realizaron entre el 13 y el 23 de julio.</li>
+<li>Seg&uacute;n Nord Stream AG, el bombeo de gas se suspendi&oacute; a las 07.00 hora de Mosc&uacute; (04.00 GMT).</li>
+<li>En las anteriores 24 horas se suministraron 63,4 millones de m3 de gas, lo que representa el 40 % de la capacidad diaria de la infraestructura.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Rusia anunci&oacute; en junio pasado dos reducciones consecutivas de los suministros de gas a trav&eacute;s del Nord Stream, primero una de un 40 % y luego otra adicional del 33 %, que el gigante gas&iacute;stico ruso Gazprom justific&oacute; con problemas con las revisiones t&eacute;cnicas de las turbinas de la empresa alemana Siemens que se emplean en las estaciones de bombeo.</li>
+<li>El Kremlin ha rechazado cualquier insinuaci&oacute;n sobre el uso por parte de Rusia del petr&oacute;leo y el gas como un arma de presi&oacute;n pol&iacute;tica, en referencia a la parada del gasoducto Nord Stream por problemas t&eacute;cnicos.</li>
+<li>"Nadie se ha inventado ning&uacute;n tipo de nuevos trabajos (en el gasoducto Nord Stream). Si las turbinas regresan tras su reparaci&oacute;n, esto permitir&aacute; incrementar el volumen de suministro", afirm&oacute; el portavoz de la Presidencia rusa, Dmitri Peskov en referencia a las turbinas retenidas en Canad&aacute;.</li>
+</ul>
+}
+title El gasoducto ruso Nord Stream supende suministro por "mantenimiento"
+day 11
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/11-el-gasoducto-ruso-nord-stream-supende-suministro-por-mantenimiento.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El gasoducto ruso Nord Stream suspendió hoy y hasta el próximo día 21 el suministro de gas a Alemania por "mantenimiento", informó la operadora de la infraestructura Nord Stream AG.
+year 2022
+author EFE | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 El gasoducto ruso Nord Stream supende suministro por "mantenimiento"
+    text2 Por EFE Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

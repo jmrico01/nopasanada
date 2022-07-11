@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/8-miles-de-millones-de-personas-en-el-mundo-dependen-de-las-especies-silvestres
+        featured{array} /content/202207/11-advierten-de-calor-excesivo-en-el-oeste-de-estados-unidos
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,13 +61,13 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/8-la-prensa-de-nicaragua-denuncia-detencion-y-persecucion-contra-su-personal
+        featured{array} /content/202207/11-el-gasoducto-ruso-nord-stream-supende-suministro-por-mantenimiento
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202207/1-potencial-ciclon-tropical-avanza-hacia-nicaragua-y-costa-rica
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202206/21-japon-lanza-una-campana-para-preservar-el-bosque-que-inspiro-totoro
+        featured{array} /content/202207/11-mexico-recupera-mas-de-500000-objetos-patrimoniales-en-obra-del-tren-maya
     }
     video{kmkv} {
         name Video

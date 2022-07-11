@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El Servicio Meteorol&oacute;gico Nacional (NSW, en ingl&eacute;s) advirti&oacute; este lunes sobre condiciones de "calor excesivo" en Arizona, California y tambi&eacute;n en Texas, donde las autoridades pidieron reducir hoy la demanda de electricidad que se incrementa debido a las altas temperaturas.</li>
+<li>Despu&eacute;s de un fin de semana con temperaturas que alcanzaron niveles altos sin precedentes en Texas, el NWS pronostic&oacute; que estas podr&iacute;an llegar hoy a los 45 grados Celsius (113 Fahrenheit), en los condados Washington, Waller, Austin, Colorado y Grimes.</li>
+<li>"El calor y la humedad extremos incrementar&aacute;n significativamente el potencial de malestares relacionados con el calor, en particular para quienes trabajen o participen en actividades al aire libre", advirti&oacute; la agencia.</li>
+<li>Los meteor&oacute;logos esperan que la temperatura superar&aacute; los 38 grados Celsius (100F) en Grand Canyon y desde Indian Garden hasta Phantom Ranch, en el suroeste de Arizona, con marcas similares en desde Ocotillo Wells hasta Lucerne Valley en California.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>El Consejo de Confiabilidad El&eacute;ctrica de Texas (ERCOT), que opera la red de suministro de energ&iacute;a en ese estado ha pedido a la poblaci&oacute;n que reduzca su demanda de electricidad este lunes, especialmente entre las horas 14.00 y 20.00.</p>
+<p>La agencia se&ntilde;al&oacute; que no anticipa la necesidad de apagones y calcula que la demanda de electricidad sobrepasar&aacute; hoy los 79 gigavatios, lo cual ser&iacute;a otra marca sin precedentes.</p>
+<p>Pero no es solo el calor m&aacute;s intenso y prolongado el que aqueja a la red de suministro de energ&iacute;a de Texas: en febrero de 2021 el estado atraves&oacute; una crisis energ&eacute;tica como resultado de las tormentas que afectaron el sur de Estados Unidos.</p>
+<p>M&aacute;s de 4,5 millones de hogares y negocios quedaron sin suministro de energ&iacute;a el&eacute;ctrica por varios d&iacute;as y el Departamento de Servicios de Salud del estado calcul&oacute; que al menos 246 personas murieron debido a las nevadas y las tormentas.</p>
+<p>NWS tambi&eacute;n advirti&oacute; sobre temperaturas entre 32 y 38 grados Celsius (90 y 100 F) en la mayor parte de Texas, en el norte de Oklahoma y sur de Kansas, en el norte de California y el sur de Oreg&oacute;n.&nbsp;</p>
+}
+title Advierten de "calor excesivo" en el oeste de Estados Unidos
+day 11
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/11-advierten-de-calor-excesivo-en-el-oeste-de-estados-unidos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El Servicio Meteorológico Nacional (NSW, en inglés) advirtió este lunes sobre condiciones de "calor excesivo" en Arizona, California y también en Texas, donde las autoridades pidieron reducir hoy la demanda de electricidad que se incrementa debido a las altas temperaturas.
+year 2022
+author EFE | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 Advierten de "calor excesivo" en el oeste de Estados Unidos
+    text2 Por EFE Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
