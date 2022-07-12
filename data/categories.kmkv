@@ -61,7 +61,7 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/11-el-gasoducto-ruso-nord-stream-supende-suministro-por-mantenimiento
+        featured{array} /content/202207/12-ong-tildan-de-insuficiente-extension-de-6-meses-de-ayuda-al-noroeste-sirio
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202207/1-potencial-ciclon-tropical-avanza-hacia-nicaragua-y-costa-rica
@@ -116,7 +116,7 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202206/22-ya-se-vendio-1-2-millones-de-entradas-para-el-mundial-2022
+        featured{array} /content/202207/12-canada-vence-a-costa-rica-2-0
     }
     displayOrder{array} 
     featured{array} /content/202207/7-las-mujeres-transgenero-no-podran-competir-en-triatlones-femeninos-en-reino-nido

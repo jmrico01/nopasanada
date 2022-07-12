@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La estatal cubana Uni&oacute;n El&eacute;ctrica (UNE) inform&oacute; este martes que el pa&iacute;s afrontar&aacute; una nueva jornada con cortes en el suministro con un d&eacute;ficit del 19 % en el horario de m&aacute;ximo consumo.</li>
+<li>Esta situaci&oacute;n se presentar&aacute; durante &ldquo;toda la madrugada&rdquo;, seg&uacute;n destac&oacute; la empresa en un comunicado difundido por la prensa oficial de la isla. El d&eacute;ficit a lo largo de la jornada ser&aacute; de hasta el 22 %.</li>
+<li>&ldquo;Las condiciones anteriores est&aacute;n dadas por una disponibilidad de 2.469 megavatios (MW) y una demanda m&aacute;xima de 2.950 MW&rdquo; durante el horario pico, se&ntilde;al&oacute; la UNE.</li>
+<li>Asimismo, indic&oacute; que el lunes hubo afectaciones desde las 5.00 de la madrugada y que continuaron durante todo el d&iacute;a.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>La UNE ha dado cuenta de cortes el&eacute;ctricos en al menos 54 d&iacute;as desde mediados de marzo de 2022 hasta el pasado fin de semana. Los apagones han sido pr&aacute;cticamente a diario desde junio, seg&uacute;n un recuento realizado por Efe a partir de comunicados de la empresa.</p>
+<p>Desde finales de mayo, la Presidencia cubana ha informado diariamente sobre la generaci&oacute;n y la demanda energ&eacute;tica en el pa&iacute;s, lo que refleja la importancia de este asunto en t&eacute;rminos econ&oacute;micos y tambi&eacute;n pol&iacute;ticos.</p>
+<p>Las autoridades aseguran que se est&aacute; trabajando a marchas forzadas para que todo quede en orden para julio y agosto. En ambos meses la demanda se incrementa considerablemente por el uso de los aires acondicionados en los hogares.</p>
+<p>Los apagones fueron uno de los factores detr&aacute;s de las protestas antigubernamentales de las que este lunes se cumple un a&ntilde;o, junto a la escasez de productos b&aacute;sicos, la inflaci&oacute;n y la proliferaci&oacute;n de las tiendas en divisas, as&iacute; como las quejas de corte pol&iacute;tico.</p>
+}
+title Cuba sumará otro día de apagones
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/12-cuba-sumara-otro-dia-de-apagones.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La estatal cubana Unión Eléctrica (UNE) informó este martes que el país afrontará una nueva jornada con cortes en el suministro con un déficit del 19 % en el horario de máximo consumo.
+year 2022
+author EFE | NPN Noticias
+featured{kmkv} {
+    title <b>Cuba<b>
+    text1 Cuba sumará otro día de apagones
+    text2 Por EFE Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
