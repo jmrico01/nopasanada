@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/11-advierten-de-calor-excesivo-en-el-oeste-de-estados-unidos
+        featured{array} /content/202207/13-expertos-piden-no-relegar-a-segundo-plano-lucha-contra-cambio-climatico
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202207/7-boris-johnson-dimite-como-lider-del-partido-conservador
+        featured{array} /content/202207/13-onu-pide-esfuerzos-para-lograr-transicion-politica-pacifica-en-sri-lanka
     }
     loimportante{kmkv} {
         name Lo Importante
