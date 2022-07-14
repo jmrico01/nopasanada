@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202207/7-estadounidenses-se-alistan-para-lo-que-vendra-tras-fallo-sobre-el-aborto
+        featured{array} /content/202207/14-oms-estudiara-si-declara-emergencia-internacional-por-viruela-de-mono
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202207/13-onu-pide-esfuerzos-para-lograr-transicion-politica-pacifica-en-sri-lanka
+        featured{array} /content/202207/14-ortega-cesa-a-embajador-en-costa-rica-que-renuncio-al-servicio-diplomatico
     }
     loimportante{kmkv} {
         name Lo Importante
