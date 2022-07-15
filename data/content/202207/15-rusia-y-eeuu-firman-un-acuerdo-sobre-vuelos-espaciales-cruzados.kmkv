@@ -1,0 +1,44 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La agencia espacial rusa Roscosmos y la NASA firmaron un acuerdo sobre vuelos cruzados a la Estaci&oacute;n Espacial Internacional (EEI), inform&oacute; este viernes la parte rusa.</li>
+<li>"Este jueves, 14 de julio de 2022, la corporaci&oacute;n estatal Roscosmos y la Administraci&oacute;n Nacional de Aeron&aacute;utica y el Espacio (NASA) firmaron un acuerdo sobre vuelos cruzados en veh&iacute;culos de transporte tripulados rusos y estadounidenses", dijo Roscosmos en su canal de Telegram.</li>
+<li>La cosmonauta Anna Kikina se sumar&aacute; a la tripulaci&oacute;n de la nave Crew Dragon para la misi&oacute;n Crew-5, como estaba previsto antes de la firma del acuerdo. Su lugar en la tripulaci&oacute;n de la nave espacial rusa Soyuz MS-22 lo ocupar&aacute; el astronauta de la NASA Francisco Rubio.</li>
+<li>El pasado 12 de abril Rusia anunci&oacute; que estaba cerca de la firma del acuerdo sobre vuelos cruzados con EEUU, ya que la mayor&iacute;a de las instituciones rusas implicadas en el proceso ya hab&iacute;an aprobado el correspondiente proyecto.</li>
+<li>"El acuerdo tiene como objetivo garantizar que, en caso de una situaci&oacute;n de emergencia relacionada con la cancelaci&oacute;n o un retraso significativo en el lanzamiento de una nave espacial rusa o estadounidense, est&eacute;n presentes a bordo de la EEI al menos un cosmonauta de Roscosmos y un astronauta de la NASA para ocuparse de los segmentos ruso y estadounidense (de la plataforma orbital), respectivamente", explicaron en Roscosmos.</li>
+</ul>
+}
+title Rusia y EEUU firman un acuerdo sobre vuelos espaciales cruzados
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/15-rusia-y-eeuu-firman-un-acuerdo-sobre-vuelos-espaciales-cruzados.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La agencia espacial rusa Roscosmos y la NASA firmaron un acuerdo sobre vuelos cruzados a la Estación Espacial Internacional (EEI), informó este viernes la parte rusa.
+year 2022
+author EFE | NPN Noticias
+featured{kmkv} {
+    title <b>EEI<b>
+    text1 Rusia y EEUU firman un acuerdo sobre vuelos espaciales cruzados
+    text2 Por EFE Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

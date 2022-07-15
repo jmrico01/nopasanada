@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202207/14-oms-estudiara-si-declara-emergencia-internacional-por-viruela-de-mono
+        featured{array} /content/202207/15-rusia-y-eeuu-firman-un-acuerdo-sobre-vuelos-espaciales-cruzados
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202207/14-ortega-cesa-a-embajador-en-costa-rica-que-renuncio-al-servicio-diplomatico
+        featured{array} /content/202207/15-parlamento-de-nicaragua-cierra-otras-100-ongsy-suman-1058-disueltas
     }
     loimportante{kmkv} {
         name Lo Importante
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202207/dictador-roevswade-mas
+    featured{array} /content/202207/15-putin-firma-ley-de-represalias-a-restriccion-de-medios-rusos-en-extranjero
 }
 other{kmkv} {
     name Other (Internal)
@@ -116,7 +116,7 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202207/12-canada-vence-a-costa-rica-2-0
+        featured{array} /content/202207/15-estados-unidos-golea-a-costa-rica
     }
     displayOrder{array} 
     featured{array} /content/202207/7-las-mujeres-transgenero-no-podran-competir-en-triatlones-femeninos-en-reino-nido

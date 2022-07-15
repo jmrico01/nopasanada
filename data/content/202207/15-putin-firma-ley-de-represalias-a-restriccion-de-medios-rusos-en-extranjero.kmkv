@@ -1,0 +1,46 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El presidente de Rusia, Vlad&iacute;mir Putin, firm&oacute; una ley sobre la respuesta rusa a la restricci&oacute;n del funcionamiento de medios rusos en el extranjero, que permite cerrar corresponsal&iacute;as y revocar las acreditaciones a los periodistas for&aacute;neos.</li>
+<li>&ldquo;En caso de la prohibici&oacute;n (o restricci&oacute;n) en el territorio de un pa&iacute;s extranjero de las actividades de un medio de comunicaci&oacute;n ruso, como medida de respuesta y en base a una decisi&oacute;n del fiscal general de la Federaci&oacute;n Rusa o sus adjuntos, las actividades de un medio de comunicaci&oacute;n extranjero (...) pueden ser prohibidas (o restringidas)", dice el documento, publicado en el portal oficial de informaci&oacute;n legal de este pa&iacute;s.</li>
+<li>La norma permite tambi&eacute;n a las autoridades rusas prohibir un medio por publicar "informaci&oacute;n falsa" sobre la actuaci&oacute;n del Ej&eacute;rcito ruso.</li>
+<li>El Parlamento ruso dio previamente su visto bueno a la ley que otorga a la Fiscal&iacute;a la autoridad de cerrar medios extranjeros en respuesta a las restricciones impuestas por los "pa&iacute;ses inamistosos".</li>
+<li>"Se tratar&iacute;a de un acto de justicia respecto a nuestros periodistas que han sido objeto de discriminaci&oacute;n", indic&oacute; el diputado del partido del Kremlin, Rusia Unida, Vasili Piskariov, uno de los autores de la norma.</li>
+<li>Seg&uacute;n Piskariov, la "permitir&aacute; a los &oacute;rganos competentes rusos reaccionar r&aacute;pidamente y dar una respuesta sim&eacute;trica a las acciones hostiles" contra medios rusos en el exterior.</li>
+<li>El pasado fin de semana el regulador de las comunicaciones ruso bloque&oacute; la web del peri&oacute;dico alem&aacute;n Die Welt a petici&oacute;n de la Fiscal&iacute;a general del pa&iacute;s por publicar "informaci&oacute;n falsa que crea amenaza para la vida y la salud de los ciudadanos, as&iacute; como para la seguridad social".</li>
+</ul>
+}
+title Putin firma ley de represalias a restricción de medios rusos en extranjero
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/15-putin-firma-ley-de-represalias-a-restriccion-de-medios-rusos-en-extranjero.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El presidente de Rusia, Vladímir Putin, firmó una ley sobre la respuesta rusa a la restricción del funcionamiento de medios rusos en el extranjero, que permite cerrar corresponsalías y revocar las acreditaciones a los periodistas foráneos.
+year 2022
+author EFE | NPN Noticias
+featured{kmkv} {
+    title <b>Rusia<b>
+    text1 Putin firma ley de represalias a restricción de medios rusos en extranjero
+    text2 Por EFE Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
