@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Las autoridades francesas decidieron este lunes la evacuaci&oacute;n preventiva de unas 11.500 personas m&aacute;s por los dos incendios que se declararon al sur de Burdeos el martes de la semana pasada y que ya han quemado cerca de 15.000 hect&aacute;reas.</li>
+<li>La Prefectura (delegaci&oacute;n del Gobierno) anunci&oacute; esta tarde en su cuenta de Twitter el desalojo preventivo las localidades de Villandraut, Noaillan y L&eacute;ogeats, pr&oacute;ximas a Landiras, el municipio donde se inici&oacute; un fuego que "progresa", y que ya ha calcinado 10.500 hect&aacute;reas, 500 m&aacute;s de las que se hab&iacute;an contabilizado por la ma&ntilde;ana.</li>
+<li>En esos tres pueblos viven unas 8.000 personas y se sumar&aacute;n a las alrededor de 3.500 que tuvieron que evacuar por la ma&ntilde;ana en los barrios de Miquelots y Pilat, en La Teste de Buch, donde se encuentra el otro gran incendio del departamento de Gironde, donde han ardido 4.300 hect&aacute;reas.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Hasta este lunes ya hab&iacute;an tenido que ser desalojadas 16.000 personas de sus domicilios y de c&aacute;mpings. No ha habido ninguna v&iacute;ctima mortal aunque s&iacute; que han sido pasto de las llamas algunas viviendas, restaurantes y otros edificios.</li>
+<li>En las labores de extinci&oacute;n de ambos frentes est&aacute;n movilizados 1.700 bomberos, apoyados desde el cielo por seis hidroaviones de tipo Canadair y tres aviones bombarderos de agua de tipo Dash.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Todo esto se produce en medio de una ola de calor que lleva m&aacute;s de una semana afectando al sur de Francia y que este lunes alcanza su pico con una quincena de departamentos de la fachada atl&aacute;ntica en alerta roja por la can&iacute;cula.</p>
+<p>Los servicios meteorol&oacute;gicos han anticipado temperaturas que pueden alcanzar o superar en esa regi&oacute;n el umbral de los 40 grados, en particular en ciudades como Burdeos o Mont de Marsan.</p>
+<p>De hecho, a primera hora de la tarde ya se hab&iacute;a registrado alg&uacute;n r&eacute;cord hist&oacute;rico de temperatura, como en el puerto de Brest, en Breta&ntilde;a, con 35,8 grados, por encima del anterior m&aacute;ximo que se hab&iacute;a dado en 1949 con 35,2 grados.</p>
+}
+title Francia evacúa a 11.000 personas más por los dos incendios al sur de Burdeos
+day 18
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/13-expertos-piden-no-relegar-a-segundo-plano-lucha-contra-cambio-climatico.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Las autoridades francesas decidieron este lunes la evacuación preventiva de unas 11.500 personas más por los dos incendios que se declararon al sur de Burdeos el martes de la semana pasada y que ya han quemado cerca de 15.000 hectáreas.
+year 2022
+author EFE | NPN Noticias
+featured{kmkv} {
+    title <b>Francia<b>
+    text1 Francia evacúa a 11.000 personas más por los dos incendios al sur de Burdeos
+    text2 Por EFE Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
