@@ -45,10 +45,10 @@ text {
 <p>Personas en la provincia de San Jos&eacute; con un 43.3%.</p>
 <p>$image/sanjose43$</p>
 <p style="text-align: center;"><em>Para esta pregunta adem&aacute;s se realizaron una serie de otras preguntas m&aacute;s especificas sobre la labor del actual gobierno.</em></p>
-<p style="text-align: center;"><em>$image/bienomalgrande$</em></p>
 <p style="text-align: left;"><strong>El mayor porcentaje, un 22%</strong> de las personas que respondieron que el gobierno si esta haciendo las cosas bien por qu&eacute; <strong>"ha hecho varias cosas en poco tiempo", seguido por un 13.1%</strong> lo afirm&oacute; por qu&eacute; <strong>"tiene car&aacute;cter para tomar decisiones" y de igual forma otro 13.1%&nbsp;</strong>dijo que lo pensaba por qu&eacute; "<strong>Va por buen camino se ve bueno".&nbsp;</strong></p>
+<p style="text-align: left;"><strong>$image/bienomalgrande$</strong></p>
 <p style="text-align: left;">Por otro lado de las personas que respondieron que no piensan que el gobierno esta haciendo bien las cosas, <strong>un 29.2%dijo pensarlo por qu&eacute; "Todo sigue aumentando de precio"&nbsp;</strong>seguido por "<strong>todo sigue igual"&nbsp;</strong>en un<strong> 15.4%</strong> y <strong>"son los mismos de siempre todos los gobiernos son iguales" </strong>en otro <strong>15.4%.&nbsp;</strong></p>
-<p style="text-align: left;"><strong>$image/chi$</strong></p>
+<p style="text-align: left;"><strong>$image/completos$</strong></p>
 <hr />
 <p style="text-align: center;"><span style="text-decoration: underline;"><strong>Aumento salarios a los ministros</strong></span></p>
 <p style="text-align: center;"><span style="text-decoration: underline;"><strong>$image/salarioministros$</strong></span></p>
@@ -88,10 +88,10 @@ text {
 <hr /><hr />
 <p style="text-align: center;"><strong><span style="text-decoration: underline;">Sobre diferencias con OPOL Constulres y El Mundo</span></strong></p>
 <p style="text-align: center;"><strong><span style="text-decoration: underline;">$image/opol2$</span></strong></p>
-<p style="text-align: left;">Ahora, como dijimos al principio NO PASA NADA no es un medio de investigaci&oacute;n, aqu&iacute; simplemente estamos publicando los datos que se nos brindan. Por lo mismo, no sobra decir que esta investigaci&oacute;n que se nos entreg&oacute; difiere directamente con la encuesta realizada <strong>por OPOL Consultores para su empresa hermana, el medio digital "El Mundo"</strong></p>
+<p style="text-align: left;">No sobra decir que esta investigaci&oacute;n que se nos entreg&oacute; puede aparentar diferir con la encuesta realizada <strong>por OPOL Consultores para su empresa hermana, el medio digital "El Mundo".&nbsp;</strong></p>
 <p style="text-align: left;"><strong>$image/encuesta$</strong></p>
 <p style="text-align: left;"><strong>La encuesta realizada para El Mundo dio con que un <a href="https://www.elmundo.cr/costa-rica/encuesta-respaldo-de-los-costarricenses-a-rodrigo-chaves-se-dispara/"><span style="text-decoration: underline;">91% de los costarricenses "Apoyan la gestion del presidente Rodrigo Chaves" </span></a>Lo cual se ha interpretado ampliamente como que el presidente cuenta con un 91% de aprobaci&oacute;n en el pa&iacute;s.&nbsp;</strong></p>
-<p style="text-align: left;">A pesar de que ambas encuestas aparentan darle un porcentaje alto de aprobaci&oacute;n al presidente, hay una diferencia enorme entre la encuesta realizada por OPOL Consultores y la investigaci&oacute;n de API Research Analytics. <strong>Nosotros no podemos dar por cual cual encuesta se apega m&aacute;s a la realidad del pa&iacute;s. Simplemente exponemos los datos que se nos brindaron y la diferencia entre ambos estudios.&nbsp;</strong></p>
+<p style="text-align: left;">A pesar de que ambas encuestas aparentan darle un porcentaje alto de aprobaci&oacute;n al presidente, hay diferencias entre la encuesta realizada por OPOL Consultores y la investigaci&oacute;n de API Research Analytics.</p>
 <p style="text-align: left;">Hay que considerar que:</p>
 <ul>
 <li style="text-align: left;">La pregunta de OPOL Consultores fue: &iquest;Apoya usted la gesti&oacute;n del presidente Rodrigo Chaves?</li>
@@ -99,7 +99,8 @@ text {
 <li style="text-align: left;">La muestra de OPOL fue de 1200 personas.</li>
 <li style="text-align: left;">La muestra de API fue de: 210 personas.&nbsp;</li>
 </ul>
-<p style="text-align: left;"><strong>La mejor manera de tener una idea aproximada de la realidad es encontrar un consenso entre multiples encuestadoras<em>. NO PASA NADA no cuenta con los recursos para realizar una encuesta, pero si alguna empresa encuestadora realiza otra investigaci&oacute;n recibimos la informaci&oacute;n a info@nopasanada.co</em>m</strong></p>
+<p>Nosotros no podemos decir cual cual encuesta se apega m&aacute;s a la realidad del pa&iacute;s en cuanto a un sentimiento de "aprobaci&oacute;n" al presidente Rodrigo Chaves o su gesti&oacute;n. Aqu&iacute; simplemente exponemos los datos que se nos brindaron y la diferencia entre ambos estudios.&nbsp;</p>
+<p style="text-align: left;"><strong>La mejor manera de tener una idea aproximada de la realidad es encontrar un consenso entre multiples encuestadoras<em>. NO PASA NADA no cuenta con los recursos para realizar una encuesta o investigaci&oacute;n de opini&oacute;n popular, pero si alguna empresa encuestadora realiza otra investigaci&oacute;n recibimos la informaci&oacute;n a info@nopasanada.co</em>m</strong></p>
 <hr />
 <p style="text-align: center;"><span style="text-decoration: underline;"><strong>"El Opolazo" y se&ntilde;alamientos sobre encuestas pasadas:</strong></span></p>
 <p style="text-align: left;"><span style="text-decoration: underline;"><strong>$image/opolazo$</strong></span></p>
@@ -133,6 +134,7 @@ media{kmkv} {
     justificadostotal /images/202207/encuesta-opinion-rodrigo-chaves/justificadostotal.jpg
     bien60 /images/202207/encuesta-opinion-rodrigo-chaves/bien60.jpg
     injustosedad /images/202207/encuesta-opinion-rodrigo-chaves/injustosedad.jpg
+    completos /images/202207/encuesta-opinion-rodrigo-chaves/completos.jpg
     protest /images/202006/urgente-cuatro-oficiales/protest.jpg
     totalinjustos /images/202207/encuesta-opinion-rodrigo-chaves/totalinjustos.jpg
     trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
