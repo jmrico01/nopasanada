@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/13-expertos-piden-no-relegar-a-segundo-plano-lucha-contra-cambio-climatico
+        featured{array} /content/202207/18-francia-evacua-a-11000-personas-mas-por-los-dos-incendios-al-sur-de-burdeos
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,7 +61,7 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/12-ong-tildan-de-insuficiente-extension-de-6-meses-de-ayuda-al-noroeste-sirio
+        featured{array} /content/202207/18-comienza-la-fase-de-sentencia-del-juicio-por-el-tiroteo-en-parkland
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202207/1-potencial-ciclon-tropical-avanza-hacia-nicaragua-y-costa-rica
