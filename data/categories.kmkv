@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/18-francia-evacua-a-11000-personas-mas-por-los-dos-incendios-al-sur-de-burdeos
+        featured{array} /content/202207/19-omm-alerta-que-olas-de-calor-seran-frecuentes-al-menos-40-anos-mas
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202207/15-parlamento-de-nicaragua-cierra-otras-100-ongsy-suman-1058-disueltas
+        featured{array} /content/202207/19-abren-investigacion-contra-ministro-de-la-produccion-de-peru
     }
     loimportante{kmkv} {
         name Lo Importante
@@ -116,7 +116,7 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202207/15-estados-unidos-golea-a-costa-rica
+        featured{array} /content/202207/19-jamaico-vencio-1-0-a-costa-rica
     }
     displayOrder{array} 
     featured{array} /content/202207/7-las-mujeres-transgenero-no-podran-competir-en-triatlones-femeninos-en-reino-nido
