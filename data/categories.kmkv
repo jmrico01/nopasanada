@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202207/15-rusia-y-eeuu-firman-un-acuerdo-sobre-vuelos-espaciales-cruzados
+        featured{array} /content/202207/20-casos-de-viruela-del-mono-ascienden-a-14000-en-mas-de-70-paises
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/18-comienza-la-fase-de-sentencia-del-juicio-por-el-tiroteo-en-parkland
+        featured{array} /content/202207/20-rusia-mantiene-a-europa-en-vilo-sobre-el-futuro-del-gasoducto-nord-stream
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202207/1-potencial-ciclon-tropical-avanza-hacia-nicaragua-y-costa-rica
+    featured{array} /content/202207/20-el-hambre-provoca-mas-de-1660-muertos-desde-febrero-en-el-noreste-de-uganda
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202207/11-mexico-recupera-mas-de-500000-objetos-patrimoniales-en-obra-del-tren-maya
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202207/15-putin-firma-ley-de-represalias-a-restriccion-de-medios-rusos-en-extranjero
+    featured{array} /content/202207/20-oms-advierte-que-casos-globales-de-covid-se-han-duplicado-en-seis-semanas
 }
 other{kmkv} {
     name Other (Internal)

@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Los casos globales de viruela del mono ascienden ya casi a 14.000 en m&aacute;s de 70 pa&iacute;ses, alert&oacute; hoy la Organizaci&oacute;n Mundial de la Salud (OMS), un d&iacute;a antes de que sus expertos en la enfermedad se re&uacute;nan por segunda vez para debatir si se declara una emergencia internacional por este brote.</li>
+<li>Al menos cinco personas han muerto por la enfermedad, todas en &Aacute;frica, la zona donde es end&eacute;mica, indic&oacute; en rueda de prensa el director general de la OMS, Tedros Adhanom Ghebreyesus.</li>
+<li>El m&aacute;ximo responsable de la organizaci&oacute;n a&ntilde;adi&oacute; que la mayor&iacute;a de los afectados siguen siendo hombres que mantienen sexo con otros hombres, y que los pa&iacute;ses con m&aacute;s casos por el actual brote se sit&uacute;an en Europa.</li>
+<li>Tambi&eacute;n indic&oacute; que algunos pa&iacute;ses no tienen suficientes herramientas para diagnosticar nuevos casos, lo que "hace que el brote sea m&aacute;s dif&iacute;cil de controlar y de parar".</li>
+<li>Respecto a la reuni&oacute;n del comit&eacute; de emergencia de la OMS ma&ntilde;ana jueves, Tedros indic&oacute; que "independientemente de las recomendaciones que emita, la OMS continuar&aacute; haciendo todo lo posible para ayudar a los pa&iacute;ses a detener la transmisi&oacute;n y salvar vidas".</li>
+<li>Una emergencia internacional se puede declarar cuando una enfermedad contagiosa se expande en muchos pa&iacute;ses de forma descontrolada, y con ello se requiere a los gobiernos a adoptar medidas preventivas especiales para frenar su expansi&oacute;n.</li>
+</ul>
+}
+title Casos de viruela del mono ascienden a 14.000 en más de 70 países
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/20-casos-de-viruela-del-mono-ascienden-a-14000-en-mas-de-70-paises.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los casos globales de viruela del mono ascienden ya casi a 14.000 en más de 70 países, alertó hoy la Organización Mundial de la Salud (OMS), un día antes de que sus expertos en la enfermedad se reúnan por segunda vez para debatir si se declara una emergencia internacional por este brote.
+year 2022
+author EFE | NPN Noticias
+featured{kmkv} {
+    title <b>OMS<b>
+    text1 Casos de viruela del mono ascienden a 14.000 en más de 70 países
+    text2 Por EFE Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong style="font-size: 1.4vw; letter-spacing: 0.01vw;">&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Los casos globales de covid se han duplicado en el &uacute;ltimo mes y medio, desde unos tres millones semanales a seis millones actualmente, advirti&oacute; este mi&eacute;rcoles el director general de la Organizaci&oacute;n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus.</li>
+<li>"Un aumento de casos significa que puede haber m&aacute;s hospitalizaciones y fallecimientos en las semanas venideras", destac&oacute; en rueda de prensa Tedros, quien indic&oacute; que la mayor parte de los contagios actuales parecen pertenecer al sublinaje BA.5 de la variante &oacute;micron, "por ahora el m&aacute;s contagioso conocido".</li>
+<li>El m&aacute;ximo responsable de la OMS afirm&oacute; que el virus "continuar&aacute; evolucionando y debemos estar preparados para lo que traiga", por lo que volvi&oacute; a insistir en la necesidad de no relajarse en la respuesta a la pandemia.</li>
+<li>"Algunos pa&iacute;ses ya han desmantelado partes de su plan de respuesta y con ello est&aacute;n asumiendo grandes riesgos", afirm&oacute; el experto et&iacute;ope.</li>
+<li>Tedros a&ntilde;adi&oacute; que "ahora es el momento, cuando los hospitales a&uacute;n no est&aacute;n saturados, para afrontar las carencias en seguimiento, inmunizaci&oacute;n, personal sanitario y resiliencia".</li>
+<li>"Continuaremos viendo olas de contagios, pero no queremos que se conviertan tambi&eacute;n en olas de hospitalizaci&oacute;n y muertes", destac&oacute; el director general de la OMS, quien insisti&oacute; en la necesidad de vacunar a trabajadores sanitarios y personas mayores en todos los pa&iacute;ses.</li>
+</ul>
+}
+title OMS advierte que casos globales de covid se han duplicado en seis semanas
+day 20
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/20-oms-advierte-que-casos-globales-de-covid-se-han-duplicado-en-seis-semanas.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los casos globales de covid se han duplicado en el último mes y medio, desde unos tres millones semanales a seis millones actualmente, advirtió este miércoles el director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus.
+year 2022
+author EFE | NPN Noticias
+featured{kmkv} {
+    title <b>OMS<b>
+    text1 OMS advierte que casos globales de covid se han duplicado en seis semanas
+    text2 Por EFE Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
