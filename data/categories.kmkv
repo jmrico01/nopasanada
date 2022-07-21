@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/19-omm-alerta-que-olas-de-calor-seran-frecuentes-al-menos-40-anos-mas
+        featured{array} /content/202207/21-los-tigres-salvajes-son-mas-numerosos-de-lo-que-se-pensaba
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/20-rusia-mantiene-a-europa-en-vilo-sobre-el-futuro-del-gasoducto-nord-stream
+        featured{array} /content/202207/21-facebook-cierra-cuentas-de-medios-afganos-controlados-por-talibanes
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202207/20-el-hambre-provoca-mas-de-1660-muertos-desde-febrero-en-el-noreste-de-uganda
+    featured{array} /content/202207/21-la-falta-de-combustible-y-electricidad-se-extiende-por-haiti
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202207/11-mexico-recupera-mas-de-500000-objetos-patrimoniales-en-obra-del-tren-maya
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202207/20-oms-advierte-que-casos-globales-de-covid-se-han-duplicado-en-seis-semanas
+    featured{array} /content/202207/21-los-tigres-salvajes-son-mas-numerosos-de-lo-que-se-pensaba
 }
 other{kmkv} {
     name Other (Internal)
