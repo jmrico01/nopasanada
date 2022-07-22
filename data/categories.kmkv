@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/21-los-tigres-salvajes-son-mas-numerosos-de-lo-que-se-pensaba
+        featured{array} /content/202207/22-japon-aprueba-verter-agua-contaminada-de-fukushima-al-oceano
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202207/19-abren-investigacion-contra-ministro-de-la-produccion-de-peru
+        featured{array} /content/202207/22-momentos-memorables-de-las-audiencias-sobre-el-asalto-al-capitolio
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/21-facebook-cierra-cuentas-de-medios-afganos-controlados-por-talibanes
+        featured{array} /content/202207/22-foto-motivo-asesinato-de-periodista-britanico-e-indigenista-en-amazonia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202207/21-la-falta-de-combustible-y-electricidad-se-extiende-por-haiti
+    featured{array} /content/202207/22-cij-se-declara-competente-para-juzgar-acusacion-de-genocidio-en-birmania
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202207/11-mexico-recupera-mas-de-500000-objetos-patrimoniales-en-obra-del-tren-maya
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202207/21-los-tigres-salvajes-son-mas-numerosos-de-lo-que-se-pensaba
+    featured{array} /content/202207/22-japon-aprueba-verter-agua-contaminada-de-fukushima-al-oceano
 }
 other{kmkv} {
     name Other (Internal)

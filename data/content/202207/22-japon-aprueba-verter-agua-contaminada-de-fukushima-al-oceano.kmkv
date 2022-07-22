@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El regulador nuclear de Jap&oacute;n aprob&oacute; este viernes un plan para liberar m&aacute;s de un mill&oacute;n de toneladas de agua contaminada de la planta de Fukushima al oc&eacute;ano, lo que provoc&oacute; el malestar de China.</li>
+<li>Este proyecto ha sido adoptado por el gobierno y respaldado por la Agencia Internacional de Energ&iacute;a At&oacute;mica (OIEA), pero el operador de la planta, Tepco, a&uacute;n debe convencer a las comunidades locales para seguir adelante.</li>
+<li>El plan consiste en verter de forma paulatina al oc&eacute;ano Pac&iacute;fico m&aacute;s de un mill&oacute;n de toneladas de agua contaminada con tritio, un radionucleido que no puede ser eliminado por las tecnolog&iacute;as actuales, pero cuya diluci&oacute;n en el mar ya se practica en Jap&oacute;n y en el extranjero en instalaciones nucleares en funcionamiento.&nbsp;</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Esta agua tritiada proviene de la lluvia, aguas subterr&aacute;neas o inyecciones de agua necesarias para enfriar los n&uacute;cleos de varios reactores nucleares de Fukushima que se fusionaron debido al tsunami del 11 de marzo de 2011.</p>
+<p>Se instalaron m&aacute;s de mil dep&oacute;sitos alrededor de la planta para almacenar esta agua tritiada tras operaciones de depuraci&oacute;n destinadas a eliminar otras sustancias radiactivas. Pero la capacidad de almacenamiento se saturar&aacute; pronto.</p>
+<p>Seg&uacute;n los expertos, el tritio solo es peligroso para los humanos en dosis muy concentradas, situaci&oacute;n a priori excluida en caso de que se produzca una liberaci&oacute;n en el mar a lo largo de varias d&eacute;cadas, tal y como prev&eacute; Tepco.&nbsp;</p>
+<p>El OIEA tambi&eacute;n cree que este proyecto se realizar&aacute; "en pleno cumplimiento de los est&aacute;ndares internacionales" y que "no causar&aacute; da&ntilde;os al medio ambiente".&nbsp;</p>
+<p>Tepco tiene previsto iniciar la operaci&oacute;n en la primavera de 2023, tras la construcci&oacute;n de un conducto submarino para transportar agua tritiada a aproximadamente un kil&oacute;metro de la costa.</p>
+<p>Pero el operador todav&iacute;a tiene que obtener las autorizaciones previas del departamento de Fukushima y los municipios cercanos a la planta, al mismo tiempo que est&aacute; tratando de disipar las preocupaciones de los pescadores locales, por temor a las consecuencias negativas sobre la reputaci&oacute;n de su pescado entre los consumidores.</p>
+<p>El proyecto tambi&eacute;n fue criticado por sus vecinos, China y Corea del Sur, as&iacute; como por organizaciones ambientales como Greenpeace.&nbsp;</p>
+<p>"Si Jap&oacute;n sigue poniendo sus propios intereses por encima del inter&eacute;s general internacional, si insiste en dar (este) paso peligroso, definitivamente pagar&aacute; el precio de su comportamiento irresponsable y dejar&aacute; una mancha en la historia", declar&oacute; este viernes el portavoz del Ministerio de Exteriores de China, Wang Wenbin.</p>
+}
+title Japón aprueba verter agua contaminada de Fukushima al océano
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/22-japon-aprueba-verter-agua-contaminada-de-fukushima-al-oceano.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El regulador nuclear de Japón aprobó este viernes un plan para liberar más de un millón de toneladas de agua contaminada de la planta de Fukushima al océano, lo que provocó el malestar de China.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Japón<b>
+    text1 Japón aprueba verter agua contaminada de Fukushima al océano
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
