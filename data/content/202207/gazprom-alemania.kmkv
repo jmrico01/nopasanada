@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesita saber?</strong></p>
+<ul>
+<li>El gigante ruso Gazprom reducir&aacute; las entregas diarias de gas a partir del mi&eacute;rcoles &ldquo;por la necesidad de mantenimiento de una turbina.&rdquo;</li>
+<li>La capacidad productiva de la estaci&oacute;n de compresi&oacute;n de Portovaya pasar&aacute; al 20% de la capacidad del gasoducto, frente al 40% actual.</li>
+<li>Para el gobierno alem&aacute;n, se trata de una decisi&oacute;n "pol&iacute;tica" y un "pretexto" para presionar a Occidente en el marco del conflicto de Ucrania.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En junio, Rusia ya hab&iacute;a recortado en dos ocasiones el volumen de entregas, alegando que el gasoducto no pod&iacute;a funcionar de manera normal sin una turbina que estaba en reparaci&oacute;n en Canad&aacute; y no hab&iacute;a vuelto a Rusia debido a las sanciones impuestas por los Occidentales por su invasi&oacute;n de Ucrania.</li>
+<li>"Seg&uacute;n nuestras informaciones, no hay ninguna raz&oacute;n t&eacute;cnica para reducir las entregas", dijo una portavoz del Ministerio alem&aacute;n de Econom&iacute;a a la AFP.</li>
+<li>Los pa&iacute;ses occidentales acusan a Mosc&uacute; de usar su energ&iacute;a como arma en respuesta a las sanciones adoptadas por la invasi&oacute;n.</li>
+<li>El Kremlin, en cambio, asegura que las sanciones son el origen de los problemas t&eacute;cnicos que tiene el gasoducto.&nbsp;</li>
+<li>En un comunicado anterior de Gazprom el lunes, el grupo gasista dijo que la entrega de la primera turbina en el centro de la disputa estaba bloqueada y se refiri&oacute; a "problemas (debido a) las sanciones de la UE y el Reino Unido".</li>
+<li>"Su resoluci&oacute;n es importante para permitir la entrega del motor a Rusia y para llevar a cabo las reparaciones completas y urgentes de otros motores de turbina de gas para la estaci&oacute;n de compresi&oacute;n de Portovaya", a&ntilde;adi&oacute;</li>
+</ul>
+}
+title Gigante Ruso “Gazprom” reduce entrega de gas a Europa
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/gazprom-alemania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El gigante ruso Gazprom reducirá las entregas diarias de gas a partir del miércoles “por la necesidad de mantenimiento de una turbina" pero Alemania dice que no hay evidencia para hacerlo.
+year 2022
+author AFP | NO PASA NADA
+featured{kmkv} {
+    title <b>Reducen Gas a Europa<b>
+    text1 Gigante Ruso “Gazprom” reduce entrega de gas a Europa
+    text2 AFP | NO PASA NADA
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09

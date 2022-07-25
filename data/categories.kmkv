@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202207/22-momentos-memorables-de-las-audiencias-sobre-el-asalto-al-capitolio
+        featured{array} /content/202207/trump-juicio
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/22-foto-motivo-asesinato-de-periodista-britanico-e-indigenista-en-amazonia
+        featured{array} /content/202207/militar-birmania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202207/22-cij-se-declara-competente-para-juzgar-acusacion-de-genocidio-en-birmania
+    featured{array} /content/202207/reeelcion-bolsonaro
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202207/11-mexico-recupera-mas-de-500000-objetos-patrimoniales-en-obra-del-tren-maya
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202207/22-japon-aprueba-verter-agua-contaminada-de-fukushima-al-oceano
+    featured{array} /content/202207/reeelcion-bolsonaro
 }
 other{kmkv} {
     name Other (Internal)
