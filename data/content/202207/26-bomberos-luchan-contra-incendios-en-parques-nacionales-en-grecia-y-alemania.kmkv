@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<p><em>Foto de AP News</em></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Cientos de bomberos griegos luchaban contra el fuego el martes, por sexto d&iacute;a consecutivo, para salvar uno de los parques nacionales m&aacute;s importantes del pa&iacute;s, que alberga tres de las cuatro especies de buitres de Europa.</li>
+<li>"Se est&aacute; ampliando el operativo para controlar el incendio (en el parque nacional de Dadia)", dijo a la prensa Dimitris Petrovits, vicegobernador de la amplia regi&oacute;n de Evros, en el noreste de Grecia.&nbsp;</li>
+<li>Se calcula que ya se han perdido m&aacute;s de 2.500 hect&aacute;reas de bosque de pinos a causa de las llamas que estallaron el pasado jueves.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El parque alberga tres de las cuatro especies de buitres de Europa -el buitre negro, el buitre leonado y el alimoche- y 36 de las 38 especies de rapaces de Europa.&nbsp;</li>
+<li>Sus variados h&aacute;bitats albergan tambi&eacute;n 104 especies de mariposas, 13 de anfibios, 29 de reptiles y unas 65 de mam&iacute;feros, 24 de los cuales son murci&eacute;lagos.&nbsp;</li>
+<li>M&aacute;s de 300 bomberos, cuatro aviones y seis helic&oacute;pteros est&aacute;n activos en la zona, indic&oacute; un portavoz de los bomberos.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>En Alemania, las autoridades locales planeaban m&aacute;s evacuaciones el martes, mientras los incendios forestales asolan el este del pa&iacute;s, a ra&iacute;z de la ola de calor.&nbsp;</p>
+<p>El gobierno de la regi&oacute;n oriental de Sajonia activ&oacute; una "alerta de cat&aacute;strofe" en la zona de Bad Schandau, ya que los incendios forestales se extendieron en el parque nacional de la Suiza sajona.</p>
+<p>Los cient&iacute;ficos afirman que el cambio clim&aacute;tico est&aacute; haciendo que las olas de calor en todo el mundo sean m&aacute;s frecuentes e intensas, lo que aumenta el riesgo de incendios.</p>
+<p>La alarma se debe a la "continua y terrible situaci&oacute;n de los incendios forestales" en el parque, que est&aacute; cerca de la frontera con la Rep&uacute;blica Checa, indicaron las autoridades.&nbsp;</p>
+<p>Alrededor de 350 personas participan en la lucha contra el fuego, que se extendi&oacute; hasta cubrir 850 hect&aacute;reas, seg&uacute;n la misma fuente.</p>
+}
+title Bomberos luchan contra incendios en parques nacionales en Grecia y Alemania
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/26-bomberos-luchan-contra-incendios-en-parques-nacionales-en-grecia-y-alemania.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Cientos de bomberos griegos luchaban contra el fuego el martes, por sexto día consecutivo, para salvar uno de los parques nacionales más importantes del país, que alberga tres de las cuatro especies de buitres de Europa.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Europa<b>
+    text1 Bomberos luchan contra incendios en parques nacionales en Grecia y Alemania
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

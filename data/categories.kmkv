@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202207/20-casos-de-viruela-del-mono-ascienden-a-14000-en-mas-de-70-paises
+        featured{array} /content/202207/26-rusia-dejara-de-participar-en-la-estacion-espacial-internacional-despues-de-2024
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202207/trump-juicio
+        featured{array} /content/202207/26-comite-de-auschwitz-horrorizado-por-declaraciones-de-primer-ministro-hungaro
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/militar-birmania
+        featured{array} /content/202207/26-gigantesco-incendio-forestal-se-propaga-en-california
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202207/reeelcion-bolsonaro
+    featured{array} /content/202207/26-bomberos-luchan-contra-incendios-en-parques-nacionales-en-grecia-y-alemania
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202207/11-mexico-recupera-mas-de-500000-objetos-patrimoniales-en-obra-del-tren-maya
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202207/reeelcion-bolsonaro
+    featured{array} /content/202207/26-bomberos-luchan-contra-incendios-en-parques-nacionales-en-grecia-y-alemania
 }
 other{kmkv} {
     name Other (Internal)
