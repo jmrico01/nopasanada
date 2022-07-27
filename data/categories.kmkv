@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202207/26-rusia-dejara-de-participar-en-la-estacion-espacial-internacional-despues-de-2024
+        featured{array} /content/202207/27-jugar-videojuegos
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202207/26-comite-de-auschwitz-horrorizado-por-declaraciones-de-primer-ministro-hungaro
+        featured{array} /content/202207/27-ucrania-designa-nuevo-fiscal-general-para-juzgar-criminales-de-guerra
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/26-gigantesco-incendio-forestal-se-propaga-en-california
+        featured{array} /content/202207/27-cuatro-manifestantes-mueren-electrocutados-en-el-este-de-rd-congo
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202207/26-bomberos-luchan-contra-incendios-en-parques-nacionales-en-grecia-y-alemania
+    featured{array} /content/202207/27-familia-de-periodista-palestina-asesinada-pide-una-investigacion-creible
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202207/11-mexico-recupera-mas-de-500000-objetos-patrimoniales-en-obra-del-tren-maya
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202207/26-bomberos-luchan-contra-incendios-en-parques-nacionales-en-grecia-y-alemania
+    featured{array} /content/202207/27-jugar-videojuegos
 }
 other{kmkv} {
     name Other (Internal)
