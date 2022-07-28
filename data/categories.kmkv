@@ -16,11 +16,11 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202207/27-jugar-videojuegos
+        featured{array} /content/202207/28-antibiotico-tomado-tras-sexo-sin-proteccion-reduce-drasticamente-ets-segun-estudio
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/22-japon-aprueba-verter-agua-contaminada-de-fukushima-al-oceano
+        featured{array} /content/202207/28-gran-ola-de-calor-marina-debilita-el-mediterraneo-occidental
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202207/27-ucrania-designa-nuevo-fiscal-general-para-juzgar-criminales-de-guerra
+        featured{array} /content/202207/28-hrw-denuncia-tecnicas-de-represion-en-marruecos-contra-opositores
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/27-cuatro-manifestantes-mueren-electrocutados-en-el-este-de-rd-congo
+        featured{array} /content/202207/28-antibiotico-tomado-tras-sexo-sin-proteccion-reduce-drasticamente-ets-segun-estudio
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202207/27-familia-de-periodista-palestina-asesinada-pide-una-investigacion-creible
+    featured{array} /content/202207/28-nasa-revela-plan-para-traer-devuelta-muestras-marcianas-en-2033
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202207/11-mexico-recupera-mas-de-500000-objetos-patrimoniales-en-obra-del-tren-maya
