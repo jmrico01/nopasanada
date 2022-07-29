@@ -16,11 +16,11 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202207/28-antibiotico-tomado-tras-sexo-sin-proteccion-reduce-drasticamente-ets-segun-estudio
+        featured{array} /content/202207/29-aborto-eeuu
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/28-gran-ola-de-calor-marina-debilita-el-mediterraneo-occidental
+        featured{array} /content/202207/29-muertos-por-inundaciones-en-eeuu-aumentan-a-15
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202207/28-hrw-denuncia-tecnicas-de-represion-en-marruecos-contra-opositores
+        featured{array} /content/202207/29-israel-exige-disolucion
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/28-antibiotico-tomado-tras-sexo-sin-proteccion-reduce-drasticamente-ets-segun-estudio
+        featured{array} /content/202207/29-aborto-eeuu
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202207/28-nasa-revela-plan-para-traer-devuelta-muestras-marcianas-en-2033
+    featured{array} /content/202207/29-tigres-nepal
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202207/11-mexico-recupera-mas-de-500000-objetos-patrimoniales-en-obra-del-tren-maya
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202207/27-jugar-videojuegos
+    featured{array} /content/202207/29-tigres-nepal
 }
 other{kmkv} {
     name Other (Internal)

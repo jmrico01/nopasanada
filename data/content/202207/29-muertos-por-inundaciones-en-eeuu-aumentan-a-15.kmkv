@@ -1,0 +1,46 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Las inundaciones causadas por torrenciales lluvias en Kentucky dejan al menos 15 muertos y la cantidad puede duplicarse, dijo el viernes el gobernador de ese estado del centro-sur de Estados Unidos.</li>
+<li>"Es devastador. Ahora la cantidad de kentuckianos que hemos perdido es de 15 y se espera que se duplique y ahora incluir&aacute; algunos ni&ntilde;os", dijo a CNN el gobernador Andy Beshear.</li>
+<li>Inform&oacute; que cientos de personas fueron rescatadas en botes y medio centenar por helic&oacute;pteros de la Guardia Nacional.</li>
+<li>"El este de Kentucky se inunda mucho pero nunca vimos algo as&iacute;", dijo Besher.</li>
+<li>"Gente que se encarga de estas cosas desde hace 20 a&ntilde;os dice que nunca vio tanta altura de agua", agreg&oacute;.</li>
+<li>Algunas zonas el diluvio dej&oacute; hasta 20 cent&iacute;metros de agua en 24 horas.</li>
+<li>En Whitesburg el nivel del agua del r&iacute;o North Fgeorth Kentucky subi&oacute; a 6 metros superando el r&eacute;cord de 4,4 metros.&nbsp;</li>
+</ul>
+}
+title Muertos por inundaciones en EEUU aumentan a 15
+day 29
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202207/headers/29-muertos-por-inundaciones-en-eeuu-aumentan-a-15.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Las inundaciones causadas por torrenciales lluvias en Kentucky dejan al menos 15 muertos y la cantidad puede duplicarse, dijo el viernes el gobernador de ese estado del centro-sur de Estados Unidos.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 Muertos por inundaciones en EEUU aumentan a 15
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 07
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
