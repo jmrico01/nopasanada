@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202207/29-muertos-por-inundaciones-en-eeuu-aumentan-a-15
+        featured{array} /content/202208/1-miles-obligados-a-evacuar-en-california-por-el-mayor-incendio-del-ano
     }
     saludmental{kmkv} {
         name Salud mental
@@ -28,7 +28,7 @@ mas{kmkv} {
     }
     arteymusica{kmkv} {
         name Arte y música
-        featured{array} /content/202202/21-richard-clayderman-maestro-de-musica-de-ascensor-saca-nuevo-disco
+        featured{array} /content/202208/1-bad-bunny-arrasa-con-la-taquilla-del-2022
     }
 }
 displayOrder{array} noticias, opinion, guida, venus, ludi, mas
@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202207/29-israel-exige-disolucion
+        featured{array} /content/202208/1-biden-llama-a-rusia-y-china-a-negociar-el-control-de-armas-nucleares
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202207/29-aborto-eeuu
+        featured{array} /content/202208/1-espana-podria-estar-comenzando-su-tercera-ola-de-calor-del-verano
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202207/29-tigres-nepal
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202207/11-mexico-recupera-mas-de-500000-objetos-patrimoniales-en-obra-del-tren-maya
+        featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202207/29-tigres-nepal
+    featured{array} /content/202208/1-espana-podria-estar-comenzando-su-tercera-ola-de-calor-del-verano
 }
 other{kmkv} {
     name Other (Internal)

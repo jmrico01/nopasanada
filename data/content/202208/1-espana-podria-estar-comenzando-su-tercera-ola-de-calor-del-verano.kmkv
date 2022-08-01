@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Tras una breve tregua, las temperaturas volvieron a subir en Espa&ntilde;a desde el domingo, cuando varios puntos superaron los 40 grados, dejando el pa&iacute;s en el principio de lo que podr&iacute;a ser la tercera ola de calor de este verano.</li>
+<li>"Es posible que desde el domingo 31 de julio hasta al menos el mi&eacute;rcoles 3 o jueves 4 de agosto se superen los umbrales de intensidad, persistencia y extensi&oacute;n necesarios para poder catalogar a este episodio de altas temperaturas como ola de calor, que ser&iacute;a la tercera de este verano de 2022", explic&oacute; este lunes el portavoz de la Agencia Estatal de Meteorolog&iacute;a (AEMET), Rub&eacute;n del Campo.</li>
+<li>Este nuevo episodio de fuerte calor no ser&aacute;, sin embargo, tan potente como la extensa ola de julio que, seg&uacute;n datos provisionales, fue una de las m&aacute;s intensas de las que hay registros.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Despu&eacute;s de la m&aacute;xima de 42,5 grados alcanzada en Montoro, en Andaluc&iacute;a (sur), para este lunes se proyectaban, de nuevo, term&oacute;metros por encima de los 40 grados en varias zonas del oeste y el sur del pa&iacute;s.</li>
+<li>Tambi&eacute;n se esperan noches tropicales, en las que no se baje de los 20 grados, en varias zonas del este y el sur del pa&iacute;s durante varios d&iacute;as, potenciadas por la elevada temperatura del agua del Mediterr&aacute;neo, que est&aacute; entre 3 y 4 grados por encima de lo normal, de acuerdo con AEMET.</li>
+<li>Con menor intensidad prevista que la ola anterior, hacia el jueves podr&iacute;a comenzar a notarse un ligero alivio, aunque las previsiones no son concluyentes.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Las altas temperaturas registradas entre, al menos, el 9 y el 18 julio dejaron m&aacute;s de 500 muertes ligadas al calor, seg&uacute;n indic&oacute; entonces el presidente del gobierno, Pedro S&aacute;nchez.&nbsp;</p>
+<p>Casi 230.000 hect&aacute;reas han ardido en Espa&ntilde;a desde el inicio del a&ntilde;o, seg&uacute;n el Sistema Europeo de Informaci&oacute;n sobre Incendios Forestales (EFFIS, en ingl&eacute;s), el peor registro del continente en extensi&oacute;n, por delante de Ruman&iacute;a y Portugal.</p>
+<p>Los datos provisionales de junio - con una temprana ola de calor - y julio hacen prever que este verano pueda terminar entre los m&aacute;s c&aacute;lidos de los que hay registros en Espa&ntilde;a, dependiendo del comportamiento de agosto, seg&uacute;n apuntan desde AEMET.&nbsp;</p>
+<p>El aumento de las olas de calor es, seg&uacute;n los cient&iacute;ficos, una consecuencia directa de la crisis clim&aacute;tica, ya que las emisiones de gases de efecto invernadero incrementan su intensidad, duraci&oacute;n y frecuencia.</p>
+}
+title España podría estar comenzando su tercera ola de calor del verano
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/1-espana-podria-estar-comenzando-su-tercera-ola-de-calor-del-verano.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Tras una breve tregua, las temperaturas volvieron a subir en España desde el domingo, cuando varios puntos superaron los 40 grados, dejando el país en el principio de lo que podría ser la tercera ola de calor de este verano.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>España<b>
+    text1 España podría estar comenzando su tercera ola de calor del verano
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<p>Seg&uacute;n datos de Latinometrics, un bolet&iacute;n semanal con datos sobre la econom&iacute;a, mercados y empresas de Am&eacute;rica Latina; Bad Bunnh es el artista m&aacute;s taquillero de este 2022, superando a gigantes como Elton John, Coldplay, BTS y Genesis.</p>
+<p>En lo que va de este a&ntilde;o, la gira de San Benito ha generado un estimado de $120 millones.</p>
+<p>Para ponerlo en perspectiva con otros artistas de la regi&oacute;n, las &uacute;nicas giras de artistas latinos que se han acercado a esas cifras desde 2010 son:</p>
+<p>Luis Miguel con $ 44 millones en 2018.</p>
+<p>Shakira con $ 40 millones en 2011.</p>
+<p>Aventura con $ 24 millones en 2020.</p>
+<p>Si esto no fuera suficiente,&nbsp;San Benito ya logr&oacute; ser el artista m&aacute;s reproducido de Spotify a nivel mundial en 2020 y 2021 y lanz&oacute; el primer &aacute;lbum completamente en espa&ntilde;ol que encabez&oacute; la lista Top 200 de Billboard.</p>
+<p>&nbsp;</p>
+}
+title Bad Bunny arrasa en la taquilla de este 2022
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/1-bad-bunny-arrasa-con-la-taquilla-del-2022.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description 
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Bad Bunny<b>
+    text1 Bad Bunny arrasa en la taquilla de este 2022
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-arteymusica
+videoID 
+titlePoster 
+color #FBFF09

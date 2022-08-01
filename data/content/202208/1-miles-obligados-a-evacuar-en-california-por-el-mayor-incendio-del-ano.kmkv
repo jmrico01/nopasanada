@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El mayor incendio en lo que va del a&ntilde;o en el estado de California est&aacute; obligando la evacuaci&oacute;n de miles de personas mientras destruye viviendas y arrasa el terreno seco del estado, azotado el domingo por fuertes vientos y tormentas el&eacute;ctricas.</li>
+<li>El incendio McKinney segu&iacute;a incontenible mientras ard&iacute;a en el Bosque Nacional de Klamath, en el norte de California, indic&oacute; el Departamento Forestal y de Protecci&oacute;n contra Incendios del estado, extendi&eacute;ndose m&aacute;s de 51.000 acres cerca de la ciudad de Yreka.</li>
+<li>Es el mayor incendio de California en lo que va del a&ntilde;o, en un estado que de por si lucha contra varias conflagraciones este verano.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>El gobernador de California, Gavin Newsom, declar&oacute; el estado de emergencia el s&aacute;bado y advirti&oacute; que el fuego "destruy&oacute; viviendas" y "amenaza infraestructura cr&iacute;tica", tras dispararse el viernes.</p>
+<p>El fuego se "intensific&oacute; y propag&oacute; por los combustibles secos, las condiciones de sequ&iacute;a extrema, altas temperaturas, vientos y tormentas el&eacute;ctricas", detall&oacute; en un comunicado.</p>
+<p>M&aacute;s de 2.000 habitantes recibieron la orden de evacuar, seg&uacute;n la Oficina de Servicios de Emergencia de California (OES), sobre todo en el condado de Siskiyou.</p>
+<p>Unas 650 personas trabajaban para apagar el fuego el domingo, de acuerdo con el Grupo Nacional de Coordinaci&oacute;n de Incendios Forestales.</p>
+<p>California enfrenta una sequ&iacute;a extrema y a&uacute;n tiene que superar meses de la temporada de incendios.</p>
+<p>En los &uacute;ltimos a&ntilde;os, California y otras partes del oeste de Estados Unidos han sido afectadas por enormes incendios de r&aacute;pida propagaci&oacute;n, impulsados por el cambio clim&aacute;tico.</p>
+}
+title Miles obligados a evacuar en California por el mayor incendio del año
+day 01
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/1-miles-obligados-a-evacuar-en-california-por-el-mayor-incendio-del-ano.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El mayor incendio en lo que va del año en el estado de California está obligando la evacuación de miles de personas mientras destruye viviendas y arrasa el terreno seco del estado, azotado el domingo por fuertes vientos y tormentas eléctricas.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 Miles obligados a evacuar en California por el mayor incendio del año
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
