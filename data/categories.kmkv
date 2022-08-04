@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202208/1-biden-llama-a-rusia-y-china-a-negociar-el-control-de-armas-nucleares
+        featured{array} /content/202208/4-el-ejercito-ucraniano-puso-en-peligro-a-los-civiles-advierte-amnistia-internacional
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202208/1-espana-podria-estar-comenzando-su-tercera-ola-de-calor-del-verano
+        featured{array} /content/202208/4-ue-condena-el-cierre-de-radios-catolicas-en-nicaragua
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202207/29-tigres-nepal
+    featured{array} /content/202208/4-celulas-y-organos-de-cerdos-muertos-reviven-durante-unas-horas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202208/1-espana-podria-estar-comenzando-su-tercera-ola-de-calor-del-verano
+    featured{array} /content/202208/4-la-gran-barrera-de-coral-ve-un-fragil-resurgir-de-su-arrecife
 }
 other{kmkv} {
     name Other (Internal)
