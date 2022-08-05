@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202207/29-aborto-eeuu
+        featured{array} /content/202208/5-embriones-sinteticos-una-perspectiva-lejana-pero-creciente
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202208/4-el-ejercito-ucraniano-puso-en-peligro-a-los-civiles-advierte-amnistia-internacional
+        featured{array} /content/202208/5-taiwan-y-china-que-son-la-adiz-y-la-linea-media
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202208/4-ue-condena-el-cierre-de-radios-catolicas-en-nicaragua
+        featured{array} /content/202208/5-taiwan-y-china-que-son-la-adiz-y-la-linea-media
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202208/4-celulas-y-organos-de-cerdos-muertos-reviven-durante-unas-horas
+    featured{array} /content/202208/5-familiares-de-mineros-atrapados-en-mexico-conservan-la-fe-en-verlos-vivos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202208/4-la-gran-barrera-de-coral-ve-un-fragil-resurgir-de-su-arrecife
+    featured{array} /content/202208/5-la-mitad-de-especies-con-estado-de-conservacion-desconocido-podrian-desaparecer
 }
 other{kmkv} {
     name Other (Internal)
