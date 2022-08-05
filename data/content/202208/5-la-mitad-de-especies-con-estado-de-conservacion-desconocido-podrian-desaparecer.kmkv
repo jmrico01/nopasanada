@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>M&aacute;s de la mitad de las especies cuyo estado de conservaci&oacute;n no puede evaluarse, debido a la falta de datos, est&aacute;n probablemente amenazadas de extinci&oacute;n, seg&uacute;n un estudio publicado el jueves en la revista cient&iacute;fica Communications Biology.</li>
+<li>La Uni&oacute;n Internacional para la Conservaci&oacute;n de la Naturaleza (UICN), que elabora una lista roja mundial de especies amenazadas, posee por el momento datos relativos a 150.000 especies vegetales y animales, de las cuales aproximadamente 41.000 est&aacute;n amenazadas de extinci&oacute;n, es decir 28% del total.</li>
+<li>Esto representa 41% de los anfibios, 38% de los tiburones y rayas y 27% de los mam&iacute;feros.&nbsp;</li>
+<li>Pero para miles de otras especies, la UICN carece de datos para evaluar su estado de conservaci&oacute;n, que puede ir de "preocupaci&oacute;n menor" a "en peligro cr&iacute;tico", o incluso "extinguida".</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Los investigadores de la universidad de Ciencia y Tecnolog&iacute;a de Noruega utilizaron un algoritmo de aprendizaje autom&aacute;tico para obtener estimaciones de 7.699 especies para las que se carec&iacute;a de datos.&nbsp;</p>
+<p>De ellas, se desprende que 4.336, es decir, m&aacute;s de la mitad, estar&iacute;an probablemente en peligro de extinci&oacute;n, de los cuales el 85% de los anfibios de esta lista complementaria y 61% de los mam&iacute;feros.&nbsp;</p>
+<p>"Vemos que en la mayor&iacute;a de las zonas terrestres y costeras de todo el mundo, la tasa de extinci&oacute;n podr&iacute;a ser m&aacute;s alta incluyendo las especies para las que no tenemos datos", se preocupa el autor principal del estudio, Jan Borgelt, en la AFP.</p>
+<p>Este an&aacute;lisis tambi&eacute;n pone de relieve algunas regiones en las que el riesgo es mayor, como Madagascar, con una fauna &uacute;nica, o el sur de India.&nbsp;</p>
+<p>Un informe de la ONU publicado en 2019 advirti&oacute; que un mill&oacute;n de especies est&aacute;n amenazadas de extinci&oacute;n a medio y largo plazo, debido a la p&eacute;rdida de h&aacute;bitats, el cambio clim&aacute;tico, las especies invasoras invasoras o su sobreexplotaci&oacute;n.</p>
+}
+title La mitad de especies con estado de conservación desconocido podrían desaparecer
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/5-la-mitad-de-especies-con-estado-de-conservacion-desconocido-podrian-desaparecer.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Más de la mitad de las especies cuyo estado de conservación no puede evaluarse, debido a la falta de datos, están probablemente amenazadas de extinción, según un estudio publicado el jueves en la revista científica Communications Biology.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Naturaleza<b>
+    text1 La mitad de especies con estado de conservación desconocido podrían desaparecer
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
