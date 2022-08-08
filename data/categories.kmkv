@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202208/1-miles-obligados-a-evacuar-en-california-por-el-mayor-incendio-del-ano
+        featured{array} /content/202208/8-las-temperaturas-elevadas-de-decadas-pasadas-no-desacreditan-el-cambio-climatico
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202208/5-taiwan-y-china-que-son-la-adiz-y-la-linea-media
+        featured{array} /content/202208/8-acuerdo-europeo-para-reducir-consumo-de-gas-ruso-entrara-en-vigor-el-martes
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202208/5-taiwan-y-china-que-son-la-adiz-y-la-linea-media
+        featured{array} /content/202208/8-gustavp-petro-asumio-la-presidencia-de-colombia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202208/5-familiares-de-mineros-atrapados-en-mexico-conservan-la-fe-en-verlos-vivos
+    featured{array} /content/202208/8-confirman-la-muerte-de-campeon-mundial-de-jiu-jitsu-brasileno
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202208/5-la-mitad-de-especies-con-estado-de-conservacion-desconocido-podrian-desaparecer
+    featured{array} /content/202208/8-las-temperaturas-elevadas-de-decadas-pasadas-no-desacreditan-el-cambio-climatico
 }
 other{kmkv} {
     name Other (Internal)
