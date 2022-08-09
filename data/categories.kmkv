@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202208/8-acuerdo-europeo-para-reducir-consumo-de-gas-ruso-entrara-en-vigor-el-martes
+        featured{array} /content/202208/9-hay-cada-vez-mas-pruebas-de-crimenes-de-lesa-humanidad-en-birmania-dice-la-onu
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202208/8-gustavp-petro-asumio-la-presidencia-de-colombia
+        featured{array} /content/202208/9-julio-de-2022-fue-uno-de-los-mas-calidos-jamas-registrados
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202208/8-confirman-la-muerte-de-campeon-mundial-de-jiu-jitsu-brasileno
+    featured{array} /content/202208/9-serena-williams-asegura-que-la-cuenta-atras-para-retirarse-ha-comenzado
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202208/8-las-temperaturas-elevadas-de-decadas-pasadas-no-desacreditan-el-cambio-climatico
+    featured{array} /content/202208/9-rusia-lanza-el-satelite-irani
 }
 other{kmkv} {
     name Other (Internal)
