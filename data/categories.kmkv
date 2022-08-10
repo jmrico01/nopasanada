@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202208/5-embriones-sinteticos-una-perspectiva-lejana-pero-creciente
+        featured{array} /content/202208/10-regulador-europeo-contempla-aprobar-vacuna-de-pfizer-para-variantes-del-covid
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202208/9-julio-de-2022-fue-uno-de-los-mas-calidos-jamas-registrados
+        featured{array} /content/202208/10-regulador-europeo-contempla-aprobar-vacuna-de-pfizer-para-variantes-del-covid
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202208/9-serena-williams-asegura-que-la-cuenta-atras-para-retirarse-ha-comenzado
+    featured{array} /content/202208/10-tribunal-chino-rechaza-recurso-del-primer-caso-del-movimiento-me-too
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202208/9-rusia-lanza-el-satelite-irani
+    featured{array} /content/202208/10-regulador-europeo-contempla-aprobar-vacuna-de-pfizer-para-variantes-del-covid
 }
 other{kmkv} {
     name Other (Internal)
@@ -119,5 +119,5 @@ ludi{kmkv} {
         featured{array} /content/202207/19-jamaico-vencio-1-0-a-costa-rica
     }
     displayOrder{array} 
-    featured{array} /content/202207/7-las-mujeres-transgenero-no-podran-competir-en-triatlones-femeninos-en-reino-nido
+    featured{array} /content/202208/10-el-futbol-femenino-sub-20-abre-paso-a-los-mundiales-tras-paron-por-la-pandemia
 }
