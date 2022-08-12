@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202208/10-regulador-europeo-contempla-aprobar-vacuna-de-pfizer-para-variantes-del-covid
+        featured{array} /content/202208/12-el-artico-se-calienta-cuatro-veces-mas-rapido-que-el-resto-del-planeta
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202208/10-tribunal-chino-rechaza-recurso-del-primer-caso-del-movimiento-me-too
+    featured{array} /content/202208/12-una-buena-parte-de-inglaterra-declarada-en-estado-de-sequia
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202208/10-regulador-europeo-contempla-aprobar-vacuna-de-pfizer-para-variantes-del-covid
+    featured{array} /content/202208/12-huellas-de-la-edad-de-hielo-arrojan-luz-sobre-primeros-habitantes-de-america-del-norte
 }
 other{kmkv} {
     name Other (Internal)
