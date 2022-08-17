@@ -1,0 +1,61 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>En una localidad del norte de Escocia, Debbie Banks mira a la pantalla de su ordenador, haciendo clic de forma met&oacute;dica en una base de datos con fotograf&iacute;as de pieles de tigre.</li>
+<li>Hay miles de im&aacute;genes, incluyendo alfombras, carcasas y espec&iacute;menes disecados.</li>
+<li>Banks, responsable de la campa&ntilde;a contra el crimen de la Agencia de Investigaci&oacute;n Ambiental (EIA), una organizaci&oacute;n ben&eacute;fica con sede en Londres, est&aacute; revisando las im&aacute;genes con la esperanza de identificar a los grandes felinos individuales a partir de sus rayas.</li>
+<li>Cuando un tigre es identificado, el investigador puede marcar de d&oacute;nde viene.</li>
+<li>"Las rayas de un tigre son tan &uacute;nicas como las huellas digitales de un humano", explica Banks a la AFP.</li>
+<li>"Usamos im&aacute;genes para compararlas con otras de tigres cautivos que han podido ser criados para comerciar" con ellos.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Actualmente se trata de una ardua tarea manual, pero el Alan Turing Institute, el instituto nacional de ciencia de datos y de inteligencia artificial (IA) del Reino Unido, est&aacute; desarrollando una nueva herramienta que previsiblemente har&aacute; la vida de Banks y a las autoridades que luchan contra el tr&aacute;fico ilegal mucho m&aacute;s f&aacute;cil.</li>
+<li>El proyecto en marcha tiene por objetivo desarrollar y probar tecnolog&iacute;a de IA que pueda analizar las rayas de los tigres para identificarlos.</li>
+<li>"Tenemos una base de datos con im&aacute;genes de tigres que han sido ofrecidos para la venta o que han sido capturados", se&ntilde;ala Banks.</li>
+<li>"Cuando nuestros investigadores reciben nuevas im&aacute;genes, tenemos que compararlas con los de la base de datos".</li>
+<li>Se espera que la nueva tecnolog&iacute;a ayude a determinar de d&oacute;nde provienen las pieles de tigre y que esto les permita investigar las redes transnacionales involucradas en el tr&aacute;fico de diferentes tigres.&nbsp;</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Una vez que los funcionarios conocen los or&iacute;genes de las pieles y productos de tigre confiscados, pueden saber si el animal fue criado en granjas o cazado furtivamente en un &aacute;rea protegida.&nbsp;</p>
+<p>Seg&uacute;n la AIE, las incautaciones de productos de vida silvestre y la informaci&oacute;n comercial muestran que la caza furtiva, impulsada por la demanda de los consumidores, sigue siendo una gran amenaza para la supervivencia de la especie.&nbsp;</p>
+<p>Las pieles y partes del cuerpo del tigre son buscadas, en parte debido a su uso en la medicina tradicional china.&nbsp;</p>
+<p>Se estima que 4.500 tigres permanecen en estado salvaje en toda Asia.</p>
+<p>"La poblaci&oacute;n de tigres ha sufrido una disminuci&oacute;n masiva en los &uacute;ltimos 120 a&ntilde;os, as&iacute; que queremos hacer todo lo posible para acabar con el tr&aacute;fico", explica Banks.</p>
+<p>La investigadora llama a cualquier persona, ya sean acad&eacute;micos, fot&oacute;grafos o simples amantes de los animales- a enviar fotos de rayas de tigres a la AIE para mejorar su base de datos con inteligencia artificial.</p>
+<p>"Necesitamos miles de im&aacute;genes" para "desarrollar, entrenar y poner a prueba al algoritmo".</p>
+}
+title Inteligencia artificial para luchar contra el tráfico ilegal de tigres
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/17-inteligencia-artificial-para-luchar-contra-el-trafico-ilegal-de-tigres.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description En una localidad del norte de Escocia, Debbie Banks mira a la pantalla de su ordenador, haciendo clic de forma metódica en una base de datos con fotografías de pieles de tigre, para compararlas con otras de tigres cautivos que han sido criados para comerciar.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Reino Unido<b>
+    text1 Inteligencia artificial para luchar contra el tráfico ilegal de tigres
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

@@ -1,0 +1,56 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Unos 300 bomberos pasaron una noche dram&aacute;tica combatiendo un gran incendio en la provincia de Alicante, en el sureste de Espa&ntilde;a, que ha quemado ya cerca de 10.000 hect&aacute;reas en una zona monta&ntilde;osa y de dif&iacute;cil acceso, indicaron las autoridades este martes.</li>
+<li>El fuego se vio originado por un rayo en el Vall d'Ebo, en la provincia de Alicante, la noche del s&aacute;bado. Desde entonces se extendi&oacute; r&aacute;pidamente, con ayuda de fuertes vientos, y oblig&oacute; a desalojar a m&aacute;s de 1.000 vecinos de la zona, indic&oacute; el gobierno de la regi&oacute;n de Valencia.</li>
+<li>"La noche ha sido muy complicada porque tenemos dos frentes muy activos", dijo al canal Antena 3 la consejera regional valenciana de Interior, Gabriela Bravo, y a&ntilde;adi&oacute; que unos 300 bomberos estaban tratando de controlar el incendio, con ayuda de 24 aviones cisterna y helic&oacute;pteros.</li>
+<li>"En este momento estamos hablando ya de m&aacute;s de 9.500 hect&aacute;reas quemadas con un per&iacute;metro de 65 kil&oacute;metros", dijo el presidente regional de Valencia, Ximo Puig, que describi&oacute; el incendio como de "caracter&iacute;sticas enormes".</li>
+<li>"Es una situaci&oacute;n muy complicada", ya que el fuego "se desarrolla con unas dificultades absolutamente imposibles de atajar con la velocidad que se quisiera", a&ntilde;adi&oacute; el dirigente.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En la misma regi&oacute;n, los bomberos luchaban contra otros dos incendios al norte de la ciudad de Valencia, con apoyo de al menos 10 aviones cisterna, seg&uacute;n las autoridades locales.</li>
+<li>En el norte de Espa&ntilde;a, en la regi&oacute;n de Arag&oacute;n, los bomberos lograron por otro lado estabilizar un gran incendio que arranc&oacute; el s&aacute;bado y quem&oacute; m&aacute;s de 6.000 hect&aacute;reas, aunque segu&iacute;an vigilando para evitar reproducciones. Unas 1.500 personas fueron evacuadas, pero el fuego al menos no lleg&oacute; al parque natural del Moncayo, la monta&ntilde;a que domina la zona.</li>
+<li>En el vecino Portugal, en tanto, se reactiv&oacute; azuzado por fuertes vientos el incendio que la semana pasada afect&oacute; el parque natural de la Serra da Estrela, reconocido por la UNESCO, y que hab&iacute;a sido "controlado" la noche del viernes, indic&oacute; este martes Protecci&oacute;n Civil.</li>
+<li>M&aacute;s de 1.000 bomberos fueron enviados al lugar para tratar de acabar con este incendio en el centro del pa&iacute;s, que ha quemado ya m&aacute;s de 15.000 hect&aacute;reas seg&uacute;n datos provisionales de las autoridades portuguesas.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>En lo que va de a&ntilde;o, Espa&ntilde;a ha sufrido 391 incendios, alimentados por temperaturas muy altas, en ocasiones de m&aacute;s de 40 grados, y una sequ&iacute;a pertinaz.</p>
+<p>Seg&uacute;n los &uacute;ltimos datos del sistema europeo de informaci&oacute;n sobre incendios forestales (EFFIS), los fuegos quemaron este a&ntilde;o m&aacute;s de 270.000 hect&aacute;reas en Espa&ntilde;a, el pa&iacute;s de Europa m&aacute;s castigado.</p>
+<p>Los incendios en Espa&ntilde;a han sido especialmente devastadores este a&ntilde;o, ya que han destruido en lo que va de 2022 m&aacute;s del triple de la superficie quemada en el conjunto de 2021, cuando fueron 84.827 hect&aacute;reas.</p>
+<p>En Portugal ha habido este a&ntilde;o 195 incendios, que destruyeron 84.717 hect&aacute;reas, seg&uacute;n los datos del EFFIS.</p>
+}
+title Un incendio en España quema cerca de 10.000 hectáreas
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/12-una-buena-parte-de-inglaterra-declarada-en-estado-de-sequia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Unos 300 bomberos pasaron una noche dramática combatiendo un gran incendio en la provincia de Alicante, en el sureste de España, que ha quemado ya cerca de 10.000 hectáreas en una zona montañosa y de difícil acceso, indicaron las autoridades este martes.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>España<b>
+    text1 Un incendio en España quema cerca de 10.000 hectáreas
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

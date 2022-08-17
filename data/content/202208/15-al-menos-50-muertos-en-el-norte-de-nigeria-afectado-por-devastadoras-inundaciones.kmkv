@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Al menos 50 personas murieron en inundaciones causadas por lluvias &nbsp;excepcionalmente torrenciales en el Estado norte&ntilde;o de Nigeria de Jigawa, desde que se iniciara la temporada h&uacute;meda en junio, indicaron el lunes fuentes oficiales.</li>
+<li>Jigawa, igual que otras regiones agrarias de la regi&oacute;n, registra cada a&ntilde;o importantes inundaciones, pero &eacute;ste ha sido el peor diluvio sufrido, seg&uacute;n la agencia estatal de gesti&oacute;n de emergencias &nbsp;(SEMA).</li>
+<li>"En total hemos registrado 50 muertos debido a las inundaciones (...)" en toda la regi&oacute;n, afirm&oacute; el lunes a la AFP Yusuf Sani, que dirige la SEMA de Jigawa</li>
+<li>"Los &uacute;ltimos d&iacute;as han sido muy duros, pues la lluvia cay&oacute; incesantemente durante tres d&iacute;as", agreg&oacute;.</li>
+<li>Los responsables del organismo en &nbsp;Jigawa expresaron su preocupaci&oacute;n de que las situaci&oacute;n podr&iacute;a empeorar en los pr&oacute;ximos d&iacute;as, ya que se pronostican m&aacute;s lluvias torrenciales.</li>
+<li>En 2020 al menos 40 personas murieron y m&aacute;s de 100.000 hect&aacute;reas de cultivos fueron destruidos en el Estado debido a las inundaciones, seg&uacute;n la SEMA.</li>
+</ul>
+}
+title Al menos 50 muertos en el norte de Nigeria afectado por devastadoras inundaciones
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/12-una-buena-parte-de-inglaterra-declarada-en-estado-de-sequia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Al menos 50 personas murieron en inundaciones causadas por lluvias  excepcionalmente torrenciales en el Estado norteño de Nigeria de Jigawa, desde que se iniciara la temporada húmeda en junio, indicaron el lunes fuentes oficiales.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Nigeria<b>
+    text1 Al menos 50 muertos en el norte de Nigeria afectado por devastadoras inundaciones
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

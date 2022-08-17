@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La OTAN considera "urgente" que el organismo de control nuclear de la ONU realice una inspecci&oacute;n de la planta ucraniana de Zaporiyia, que se halla bajo control militar de Rusia, afirm&oacute; el mi&eacute;rcoles el secretario general de la Alianza Atl&aacute;ntica, Jens Stoltenberg.</li>
+<li>"Resulta urgente autorizar una inspecci&oacute;n por parte del Organismo Internacional de Energ&iacute;a At&oacute;mica (OIEA) y garantizar la retirada de todas las fuerzas rusas" del lugar, declar&oacute; Stoltenberg en una conferencia de prensa en Bruselas.</li>
+<li>La ocupaci&oacute;n rusa de la central de Zaporiya (en el sur de Ucrania) "plantea una amenaza seria para las instslaciones [y] eleva el riesgo de un accidente o un incidente nuclear", advirti&oacute;.</li>
+<li>La central nuclear de Zaporiyia, la mayor de Europa, fue tomada por las tropas rusas poco despu&eacute;s del inicio de la invasi&oacute;n de Ucrania el 24 de febrero.</li>
+<li>Desde fines de julio, el &aacute;rea ha sido blanco de bombardeos, que Mosc&uacute; y Kiev se incriminan mutuamente.</li>
+<li>Ucrania acusa adem&aacute;s a Rusia de usar la planta como base para realizar ataques sobre zonas controladas por Kiev y como arsenal.</li>
+</ul>
+}
+title La OTAN reclama inspección "urgente" de central nuclear ucraniana de Zaporiyia
+day 17
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/17-la-otan-reclama-inspeccion-urgente-de-central-nuclear-ucraniana-de-zaporiyia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La OTAN considera "urgente" que el organismo de control nuclear de la ONU realice una inspección de la planta ucraniana de Zaporiyia, que se halla bajo control militar de Rusia, afirmó el miércoles el secretario general de la Alianza Atlántica, Jens Stoltenberg.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 La OTAN reclama inspección "urgente" de central nuclear ucraniana de Zaporiyia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,noticias-politica
+videoID 
+titlePoster 
+color #FBFF09
