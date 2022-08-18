@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202208/10-regulador-europeo-contempla-aprobar-vacuna-de-pfizer-para-variantes-del-covid
+        featured{array} /content/202208/18-la-oms-investiga-si-rapidez-de-propagacion-de-viruela-del-mono-se-debe-a-mutaciones
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202208/12-el-artico-se-calienta-cuatro-veces-mas-rapido-que-el-resto-del-planeta
+        featured{array} /content/202208/18-el-cambio-climatico-afecta-a-los-abejorros-segun-un-estudio-britanico
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202208/12-una-buena-parte-de-inglaterra-declarada-en-estado-de-sequia
+    featured{array} /content/202208/18-el-financiero-del-genocidio-de-ruanda-ira-a-juicio-en-la-haya-en-septiembre
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202208/12-huellas-de-la-edad-de-hielo-arrojan-luz-sobre-primeros-habitantes-de-america-del-norte
+    featured{array} /content/202208/18-la-oms-investiga-si-rapidez-de-propagacion-de-viruela-del-mono-se-debe-a-mutaciones
 }
 other{kmkv} {
     name Other (Internal)
@@ -116,7 +116,7 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202207/19-jamaico-vencio-1-0-a-costa-rica
+        featured{array} /content/202208/18-fifa-anuncia-venta-de-2-45-millones-de-entradas-para-mundial-de-catar-antes-de-ultima-fase
     }
     displayOrder{array} 
     featured{array} /content/202208/10-el-futbol-femenino-sub-20-abre-paso-a-los-mundiales-tras-paron-por-la-pandemia
