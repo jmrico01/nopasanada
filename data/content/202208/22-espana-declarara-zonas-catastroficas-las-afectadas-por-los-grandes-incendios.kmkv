@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Los territorios afectados por los grandes incendios de este verano en Espa&ntilde;a ser&aacute;n declarados "zona cat&aacute;strofica", facilitando las ayudas a los afectados, anunci&oacute; este lunes el presidente del gobierno espa&ntilde;ol, Pedro S&aacute;nchez.</li>
+<li>El martes "procederemos a aprobar la declaraci&oacute;n" de "zona catastr&oacute;fica a todos aquellos territorios que han sido asolados por los grandes incendios que llevamos a lo largo de este a&ntilde;o", anunci&oacute; S&aacute;nchez en una visita a Bej&iacute;s, en la regi&oacute;n de Valencia, en el este del pa&iacute;s.</li>
+<li>Bej&iacute;s, en la provincia de Castell&oacute;n, sufri&oacute; la semana pasada un gran incendio que fue finalmente controlado tras quemar m&aacute;s de 17.500 hect&aacute;reas de bosques, seg&uacute;n el sistema geoespacial europeo Copernicus, y obligar a la evacuaci&oacute;n de 2.200 personas.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La catalogaci&oacute;n de zona catastr&oacute;fica permite al Estado desplegar una serie de medidas para paliar un desastre natural, como dar ayudas econ&oacute;micas a particulares por da&ntilde;os en sus viviendas, compensaciones a los ayuntamientos por los gastos extraordinarios, o subvenciones para reparar infraestructuras, entre otras.</li>
+<li>En lo que va de a&ntilde;o, Espa&ntilde;a ha sufrido casi 400 incendios forestales, seg&uacute;n las &uacute;ltimas cifras del Sistema Europeo de Informaci&oacute;n sobre Incendios Forestales (EFFIS), que devastaron ya m&aacute;s de 287.000 hect&aacute;reas de terreno, m&aacute;s del triple de la superficie total destruida en 2021.&nbsp;</li>
+<li>La media anual de hect&aacute;reas quemadas por incendios forestales en Espa&ntilde;a, entre 2006 y 2021, fue de casi 67.000, cuatro veces menos, seg&uacute;n esta fuente.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>El vecino Portugal, que este lunes se encontraba en estado de alerta por los incendios, ha visto como 94.000 hect&aacute;reas eran devoradas por las llamas en lo que se lleva de 2022, la mayor superficie desde los letales incendios que en 2017 causaron un centenar de muertos, seg&uacute;n el &uacute;ltimo balance del Instituto para la Conservaci&oacute;n de la Naturaleza y los Bosques (ICNF).&nbsp;</p>
+<p>S&aacute;nchez lament&oacute; el "golpe psicol&oacute;gico que para muchos vecinos y vecinas (...) representan la p&eacute;rdida de enseres, de bienes patrimoniales", as&iacute; como "la biodiversidad que se pierde" en los incendios.</p>
+<p>El tiempo extremo sufrido este verano en Espa&ntilde;a, donde las olas de calor se han sucedido casi sin tregua, as&iacute; como la sequ&iacute;a, han jugado un papel determinante en los incendios.</p>
+<p>"Por desgracia, lo que nos dice la ciencia es que estos pr&oacute;ximos veranos van a ser de temperaturas a&uacute;n m&aacute;s calurosas. Por tanto, nos estamos enfrentando una emergencia clim&aacute;tica", sentenci&oacute; el presidente socialista.</p>
+}
+title España declarará zonas catastróficas las afectadas por los grandes incendios
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/22-espana-declarara-zonas-catastroficas-las-afectadas-por-los-grandes-incendios.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los territorios afectados por los grandes incendios de este verano en España serán declarados "zona catástrofica", facilitando las ayudas a los afectados, anunció este lunes el presidente del gobierno español, Pedro Sánchez.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>España<b>
+    text1 España declarará zonas catastróficas las afectadas por los grandes incendios
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
