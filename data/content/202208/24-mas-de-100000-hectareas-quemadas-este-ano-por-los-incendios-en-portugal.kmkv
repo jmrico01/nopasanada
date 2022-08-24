@@ -1,0 +1,43 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Los incendios ya han consumido este a&ntilde;o en Portugal cerca de &nbsp;104.000 hect&aacute;reas, en medio de una excepcional sequ&iacute;a, seg&uacute;n la &uacute;ltima estimaci&oacute;n oficial publicada el mi&eacute;rcoles</li>
+<li>Se trata de la mayor superficie quemada desde los mort&iacute;feros incendios de 2017, que dejaron un centenar de v&iacute;ctimas y devastaron 537.000 hect&aacute;reas a lo largo de todo el a&ntilde;o, seg&uacute;n el m&aacute;s reciente balance del Instituto para la Conservaci&oacute;n de la Naturaleza y los Bosques (ICNF).</li>
+<li>En su informe, el instituto p&uacute;blico explica que, hasta el 15 de agosto, Portugal tuvo "12% de incendios menos pero una superficie quemada 30% superior" respecto al nivel registrado en los &uacute;ltimos diez a&ntilde;os.</li>
+<li>Este a&ntilde;o el incendio forestal m&aacute;s importante del pa&iacute;s se produjo en el parque natural de la Serra da Estrela (centro), que quem&oacute; 25.000 hect&aacute;reas de vegetaci&oacute;n en 11 d&iacute;as</li>
+</ul>
+}
+title Más de 100.000 hectáreas quemadas este año por los incendios en Portugal
+day 24
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/24-mas-de-100000-hectareas-quemadas-este-ano-por-los-incendios-en-portugal.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los incendios ya han consumido este año en Portugal cerca de 104.000 hectáreas, en medio de una excepcional sequía, según la última estimación oficial publicada el miércoles
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Portugal<b>
+    text1 Más de 100.000 hectáreas quemadas este año por los incendios en Portugal
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

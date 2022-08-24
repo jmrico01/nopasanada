@@ -16,11 +16,11 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202208/18-la-oms-investiga-si-rapidez-de-propagacion-de-viruela-del-mono-se-debe-a-mutaciones
+        featured{array} /content/202208/24-todo-listo-para-que-artemis-l-emprenda-su-viaje-hacia-la-luna
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202208/8-las-temperaturas-elevadas-de-decadas-pasadas-no-desacreditan-el-cambio-climatico
+        featured{array} /content/202208/24-mas-de-100000-hectareas-quemadas-este-ano-por-los-incendios-en-portugal
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202208/22-magnate-de-prensa-jimmy-lai-no-sera-juzgado-por-jurado-en-hong-kong
+        featured{array} /content/202208/24-vuelven-los-combates-al-norte-de-etiopia-tras-una-tregua-de-5-meses
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202208/22-los-interrogantes-que-persisten-sobre-la-viruela-del-mono
+    featured{array} /content/202208/24-alemania-inaugura-la-primera-flota-de-trenes-de-hidrogeno-del-mundo
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202208/22-espana-declarara-zonas-catastroficas-las-afectadas-por-los-grandes-incendios
+    featured{array} /content/202208/24-todo-listo-para-que-artemis-l-emprenda-su-viaje-hacia-la-luna
 }
 other{kmkv} {
     name Other (Internal)
