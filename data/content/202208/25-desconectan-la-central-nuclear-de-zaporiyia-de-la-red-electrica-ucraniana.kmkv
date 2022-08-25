@@ -1,0 +1,44 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>Foto portada:&nbsp;</strong>DW.com</p>
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La central nuclear ucraniana de Zaporiyia, ocupada por tropas rusas, fue desconectada este jueves de la red el&eacute;ctrica nacional, inform&oacute; el operador de las plantas nucleares de Ucrania, Energoatom.</li>
+<li>"Los dos reactores en funcionamiento de la central fueron desconectados de la red. En consecuencia, las acciones del invasor acarrearon la desconexi&oacute;n total [de la central de Zaporiyia] de la red el&eacute;ctrica, por primera vez en su historia", se&ntilde;al&oacute; Energoatom en Telegram.</li>
+</ul>
+<p><em>Noticia en desarrollo...</em></p>
+<p>&nbsp;</p>
+}
+title Desconectan la central nuclear de Zaporiyia de la red eléctrica ucraniana
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/25-desconectan-la-central-nuclear-de-zaporiyia-de-la-red-electrica-ucraniana.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La central nuclear  ucraniana de Zaporiyia, ocupada por tropas rusas, fue desconectada este jueves de la red eléctrica nacional, informó el operador de las plantas nucleares de Ucrania.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Desconectan la central nuclear de Zaporiyia de la red eléctrica ucraniana
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

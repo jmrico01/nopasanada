@@ -1,0 +1,58 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La mitad del territorio de China est&aacute; sufriendo una sequ&iacute;a, incluidas partes de la g&eacute;lida meseta del T&iacute;bet, indican los datos oficiales en medio de una ola de calor sin precedentes en el pa&iacute;s que debe continuar este jueves.</li>
+<li>Un gr&aacute;fico del Centro Nacional del Clima mostraba el mi&eacute;rcoles que amplios sectores del sur de China, incluidas partes del T&iacute;bet, se encontraban en condiciones de sequ&iacute;a de "grave" a "extraordinaria".</li>
+<li>En la zona m&aacute;s afectada, la cuenca del r&iacute;o Yangts&eacute;, desde la provincia de Sichuan en el suroeste hasta Shangh&aacute;i en la costa este, viven alrededor de 370 millones de personas y acoge grandes centros industriales, como la megaciudad de Chongqing.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>La segunda econom&iacute;a mundial se vio afectada recientemente por temperaturas r&eacute;cord, inundaciones y sequ&iacute;as, unos fen&oacute;menos extremos que los cient&iacute;ficos aseguran que ser&aacute;n m&aacute;s intensos y frecuentes por el cambio clim&aacute;tico.</li>
+<li>El sur de China atraviesa su ola de calor m&aacute;s larga y sostenida desde que empezaron a registrarse datos meteorol&oacute;gicos hace m&aacute;s de 60 a&ntilde;os, indic&oacute; esta semana el ministerio de Agricultura.</li>
+<li>Los expertos se&ntilde;alan que la intensidad, la extensi&oacute;n y la duraci&oacute;n de esta ola de calor pueden convertirla en una de las peores del mundo.</li>
+<li>La Administraci&oacute;n Meteorol&oacute;gica de China prev&eacute; que las altas temperaturas se mantengan el jueves por encima de los 40 &ordm;C en Chongqing y en las provincias de Sichuan, Jiangxi y Zhejiang.</li>
+<li>En Sichuan alcanzaron el mi&eacute;rcoles la temperatura r&eacute;cord de 43,9 &ordm;C, indic&oacute; el servicio meteorol&oacute;gico provincial.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Algunas regiones tuvieron un alivio del calor. Partes del suroeste de Sichuan recibieron fuertes lluvias por la noche, lo cual oblig&oacute; a evacuar a casi 30.000 personas, seg&uacute;n la televisi&oacute;n estatal CCTV.</p>
+<p>En el sureste del pa&iacute;s, el tif&oacute;n Ma-on toc&oacute; tierra la ma&ntilde;ana de jueves en la provincia costera de Guangdong y Hong Kong, donde se registraron aguaceros.</p>
+<p>El Consejo de Estado de China anunci&oacute; el mi&eacute;rcoles subsidios de 10.000 millones de yuanes (1.450 millones de d&oacute;lares) para ayudar a los productores de arroz afectados por la sequ&iacute;a que, seg&uacute;n las autoridades, supone una "grave amenaza" a la cosecha de oto&ntilde;o.</p>
+<p>Las autoridades abogaron por "asegurar el agua potable para la poblaci&oacute;n y garantizar el agua para el riego agr&iacute;cola".</p>
+<p>La red CCTV mostr&oacute; el mi&eacute;rcoles im&aacute;genes de camiones suministrando agua a ciudadanos y agricultores en las zonas rurales de Sichuan y Chongqing.</p>
+<p>Estas regiones tambi&eacute;n han luchado desde la semana pasada con incendios forestales, exacerbados por las altas temperaturas y la falta de agua.</p>
+<p>Temperaturas de hasta 45 &ordm;C llevaron a varias provincias chinas a restringir el suministro de energ&iacute;a a las f&aacute;bricas para garantizar el servicio a individuales, cuya demanda se dispar&oacute; por el uso del aire acondicionado.</p>
+}
+title La mitad de China sufre sequía en medio de ola de calor récord
+day 25
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/25-la-mitad-de-china-sufre-sequia-en-medio-de-ola-de-calor-record.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La mitad del territorio de China está sufriendo una sequía, incluidas partes de la gélida meseta del Tíbet, indican los datos oficiales en medio de una ola de calor sin precedentes en el país que debe continuar este jueves.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 La mitad de China sufre sequía en medio de ola de calor récord
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
