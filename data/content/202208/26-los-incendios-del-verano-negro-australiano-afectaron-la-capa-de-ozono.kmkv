@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Los numerosos incendios ocurridos durante el catastr&oacute;fico "verano negro" de Australia, entre finales de 2019 y principios de 2020, ensancharon el agujero en la capa de ozono de la Tierra, seg&uacute;n un nuevo estudio publicado el viernes.</li>
+<li>El informe aparecido en la revista Scientific Reports de Nature establece un v&iacute;nculo entre el humo sin precedentes desprendido por los incendios con el agujero de la capa de ozono sobre la Ant&aacute;rtida.</li>
+<li>Los incendios que calcinaron unos 5,8 millones de hect&aacute;reas en el este de Australia fueron tan intensos que provocaron la formaci&oacute;n de decenas de nubes pirocumulonimbo infundidas de humo.</li>
+<li>Las nubes pirocumulonimbo, denominadas por la NASA como "la nube del drag&oacute;n que escupe fuego", son tan poderosas que pueden afectar el clima local, causando tornados de fuego y tormentas el&eacute;ctricas.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Durante el "verano negro", estas nubes enviaron m&aacute;s humo que nunca a las partes altas de la atm&oacute;sfera.</p>
+<p>El resultado fue "millones de toneladas de humo y gases asociados inyectadas en la alta troposfera y la baja estratosfera", seg&uacute;n los investigadores de las universidades inglesas de Exeter y Manchester.</p>
+<p>Y esta acumulaci&oacute;n de part&iacute;culas de humo provoc&oacute; que la baja estratosfera se calentara hasta niveles no vistos desde la erupci&oacute;n del volc&aacute;n Pinatubo en Filipinas en 1991.</p>
+<p>Este calentamiento ensanch&oacute; el agujero en la capa de ozono que aparece cada primavera austral en la Ant&aacute;rtida y que alcanz&oacute; "niveles r&eacute;cord en las observaciones de 2020".</p>
+<p>Este agujero fue creado por la contaminaci&oacute;n humana, especialmente de los clorofluorocarbonos (CFC) antes emitidos por muchos refrigeradores, pero la cooperaci&oacute;n global reciente da esperanzas de que pueda volver a cerrarse.</p>
+<p>El protocolo de Montreal firmado en 1987 y ratificado por 195 pa&iacute;ses redujo la cantidad de CFC emitidos, con lo que la capa se puede recuperar completamente en 2060 seg&uacute;n modelos de la ONU.</p>
+<p>Sin embargo, los investigadores advierten que el incremento de la frecuencia y la intensidad de los incendios por el cambio clim&aacute;tico puede revertir la tendencia.</p>
+<p>"Esto puede llevar a m&aacute;s eventos como el de 2020, lo que a su vez podr&iacute;a llevar a una mayor reducci&oacute;n de la capa de ozono", dijo a AFP el profesor James Haywood.</p>
+<p>"As&iacute; que los considerables esfuerzos que hemos realizado para proteger el agujero de la capa de ozono podr&iacute;an verse frustrados por el calentamiento global", advirti&oacute;.</p>
+}
+title Los incendios del "verano negro" australiano afectaron la capa de ozono
+day 26
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/26-los-incendios-del-verano-negro-australiano-afectaron-la-capa-de-ozono.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Los numerosos incendios ocurridos durante el catastrófico "verano negro" de Australia, entre finales de 2019 y principios de 2020, ensancharon el agujero en la capa de ozono de la Tierra, según un nuevo estudio publicado el viernes.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Australia<b>
+    text1 Los incendios del "verano negro" australiano afectaron la capa de ozono
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 08
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

@@ -16,11 +16,11 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202208/24-todo-listo-para-que-artemis-l-emprenda-su-viaje-hacia-la-luna
+        featured{array} /content/202208/26-james-webb-detecto-por-primera-vez-co2-en-un-exoplaneta
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202208/24-mas-de-100000-hectareas-quemadas-este-ano-por-los-incendios-en-portugal
+        featured{array} /content/202208/26-batallan-en-la-onu-por-un-tratado-que-proteja-la-biodiversidad-en-altamar
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202208/9-hay-cada-vez-mas-pruebas-de-crimenes-de-lesa-humanidad-en-birmania-dice-la-onu
+        featured{array} /content/202208/26-eeuu-crea-puesto-de-embajador-en-el-artico-para-enfrentar-a-china-y-rusia
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202208/24-vuelven-los-combates-al-norte-de-etiopia-tras-una-tregua-de-5-meses
+        featured{array} /content/202208/26-eeuu-crea-puesto-de-embajador-en-el-artico-para-enfrentar-a-china-y-rusia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202208/24-alemania-inaugura-la-primera-flota-de-trenes-de-hidrogeno-del-mundo
+    featured{array} /content/202208/26-batallan-en-la-onu-por-un-tratado-que-proteja-la-biodiversidad-en-altamar
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202208/24-todo-listo-para-que-artemis-l-emprenda-su-viaje-hacia-la-luna
+    featured{array} /content/202208/26-batallan-en-la-onu-por-un-tratado-que-proteja-la-biodiversidad-en-altamar
 }
 other{kmkv} {
     name Other (Internal)
