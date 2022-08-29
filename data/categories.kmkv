@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202208/26-eeuu-crea-puesto-de-embajador-en-el-artico-para-enfrentar-a-china-y-rusia
+        featured{array} /content/202208/29-que-le-espera-ahora-a-boris-johnson
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202208/26-eeuu-crea-puesto-de-embajador-en-el-artico-para-enfrentar-a-china-y-rusia
+        featured{array} /content/202208/29-elon-musk-pide-mas-bebes-y-mas-petroleo
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202208/26-batallan-en-la-onu-por-un-tratado-que-proteja-la-biodiversidad-en-altamar
+    featured{array} /content/202208/29-nasa-cancela-lanzamiento-de-megacohete-a-la-luna
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202208/26-batallan-en-la-onu-por-un-tratado-que-proteja-la-biodiversidad-en-altamar
+    featured{array} /content/202208/29-hallado-en-portugal-un-enorme-dinosaurio-sauropodo
 }
 other{kmkv} {
     name Other (Internal)
