@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202208/29-elon-musk-pide-mas-bebes-y-mas-petroleo
+        featured{array} /content/202208/30-la-sequia-en-espana-hace-aflorar-viejos-monumentos-sumergidos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202208/29-nasa-cancela-lanzamiento-de-megacohete-a-la-luna
+    featured{array} /content/202208/30-un-tercio-de-pakistan-esta-bajo-el-agua-con-mas-de-1130-muertos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202208/29-hallado-en-portugal-un-enorme-dinosaurio-sauropodo
+    featured{array} /content/202208/29-la-crisis-energetica-pone-en-primer-plano-el-debate-sobre-costos-del-cambio-climatico
 }
 other{kmkv} {
     name Other (Internal)
