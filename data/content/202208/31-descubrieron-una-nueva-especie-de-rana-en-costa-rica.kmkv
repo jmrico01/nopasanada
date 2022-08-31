@@ -31,11 +31,11 @@ media{kmkv} {
 }
 description El fenómeno climático La Niña, que afecta a las temperaturas globales y agudiza sequías e inundaciones, se podría prolongar hasta finales de año y tener una duración inédita para este siglo, informó la ONU el miércoles.
 year 2022
-author AFP | NPN Noticias
+author Fundación Costa Rica Wildlife
 featured{kmkv} {
     title <b>Costa Rica<b>
     text1 Descubrieron una nueva especie de rana en Costa Rica
-    text2 Por AFP Y NPN NOTICIAS
+    text2 Por Fundación Costa Rica Wildlife
     pretitle LO IMPORTANTE:
     highlightColor #FBFF09
 }
