@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202208/26-james-webb-detecto-por-primera-vez-co2-en-un-exoplaneta
+        featured{array} /content/202209/1-descubren-en-peru-tumba-de-sacerdote-de-3000-anos-de-antiguedad
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202208/29-que-le-espera-ahora-a-boris-johnson
+        featured{array} /content/202209/1-exprimera-dama-de-malasia-condenada-a-10-anos-de-prision-por-corrupcion
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202208/30-la-sequia-en-espana-hace-aflorar-viejos-monumentos-sumergidos
+        featured{array} /content/202209/1-cinco-puntos-clave-del-informe-de-la-onu-sobre-los-uigures
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202208/30-un-tercio-de-pakistan-esta-bajo-el-agua-con-mas-de-1130-muertos
+    featured{array} /content/202208/31-descubrieron-una-nueva-especie-de-rana-en-costa-rica
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202208/29-la-crisis-energetica-pone-en-primer-plano-el-debate-sobre-costos-del-cambio-climatico
+    featured{array} /content/202209/1-nivel-record-de-gases-de-efecto-invernadero-en-el-planeta-en-2021
 }
 other{kmkv} {
     name Other (Internal)
