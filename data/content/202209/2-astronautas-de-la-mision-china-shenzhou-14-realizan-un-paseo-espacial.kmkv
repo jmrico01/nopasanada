@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Dos astronautas a bordo de la estaci&oacute;n espacial china Tiangong, que participan en la misi&oacute;n Shenzhou-14, completaron con &eacute;xito un paseo espacial de seis horas el viernes, anunci&oacute; la agencia nacional de vuelos espaciales tripulados.</li>
+<li>Chen Dong y Liu Yang regresaron a su m&oacute;dulo de cabina en las primeras horas del viernes, dijo la Agencia Espacial Tripulada de China (CMSA), que asegur&oacute; que la primera caminata espacial de Shenzhou-14, una misi&oacute;n de seis meses, fue un "&eacute;xito total".</li>
+<li>Im&aacute;genes de los medios estatales mostraron a la pareja abriendo la escotilla del m&oacute;dulo y utilizando un brazo rob&oacute;tico para maniobrar el equipo, con la Tierra en rotaci&oacute;n de fondo. &nbsp;</li>
+<li>"Hola a todos. He salido del m&oacute;dulo. Me siento bien", dijo Chen, un expiloto militar, en un v&iacute;deo.</li>
+<li>Los dos astronautas completaron una serie de tareas que inclu&iacute;an la instalaci&oacute;n de piezas externas al m&oacute;dulo y probar sus funciones, mientras el astronauta restante, Cai Xuzhe, coordinaba desde el interior de la cabina, inform&oacute; la agencia oficial de noticias Xinhua.</li>
+<li>China lanz&oacute; la nave Shenzhou-14 el 5 de junio con tres astronautas que tienen la misi&oacute;n de completar la construcci&oacute;n de la estaci&oacute;n espacial Tiangong, cuyo nombre significa "palacio celestial" y que deber&iacute;a estar totalmente operativa a finales de a&ntilde;o.</li>
+</ul>
+}
+title Astronautas de la misión china Shenzhou-14 realizan un paseo espacial
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202208/headers/29-nasa-cancela-lanzamiento-de-megacohete-a-la-luna.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Dos astronautas a bordo de la estación espacial china Tiangong, que participan en la misión Shenzhou-14, completaron con éxito un paseo espacial de seis horas el viernes, anunció la agencia nacional de vuelos espaciales tripulados.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 Astronautas de la misión china Shenzhou-14 realizan un paseo espacial
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

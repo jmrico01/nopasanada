@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La explosi&oacute;n de una bomba el viernes en una de las mayores mezquitas del oeste de Afganist&aacute;n, &nbsp;la mezquita de Gazargah, en la ciudad de Herat, caus&oacute; la muerte de al menos 18 personas, entre ellas un influyente im&aacute;n que hab&iacute;a pedido decapitar a quienes cometieran "el m&aacute;s m&iacute;nimo acto" contra el gobierno.&nbsp;</li>
+<li>Al menos 18 personas murieron y 23 resultaron heridas en la explosi&oacute;n del viernes, dijo Hameedullah Motawakel, portavoz del gobernador de la provincia de Herat, en un mensaje a los medios.&nbsp;</li>
+<li>El portavoz del gobierno, Zabihullah Mujahid, confirm&oacute; que Mujib ur Rahman Ansari, el im&aacute;n de la mezquita, estaba entre los fallecidos.&nbsp;</li>
+<li>"Un erudito religioso fuerte y valiente de este pa&iacute;s muri&oacute; como m&aacute;rtir en un brutal ataque", afirm&oacute; en Twitter.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Se trata del segundo cl&eacute;rigo protalib&aacute;n que muere en una explosi&oacute;n en menos de un mes, despu&eacute;s de que Rahimullah Haqqani falleciera en un ataque suicida en su madrasa de Kabul.&nbsp;</li>
+<li>Haqqani era conocido por sus violentos discursos contra el EI, que posteriormente reivindic&oacute; su muerte. Tambi&eacute;n se hab&iacute;a pronunciado a favor de permitir a las ni&ntilde;as asistir a la escuela secundaria, a pesar de que el gobierno les proh&iacute;be asistir a clase en la mayor&iacute;a de las provincias.&nbsp;</li>
+<li>Varias mezquitas de todo el pa&iacute;s han sido objeto de ataques en lo que va de a&ntilde;o, algunos de ellos reivindicados por el EI.&nbsp;</li>
+<li>El 17 de agosto, al menos 21 personas murieron y decenas resultaron heridas cuando una explosi&oacute;n destruy&oacute; una mezquita llena de fieles en Kabul.&nbsp;</li>
+<li>El EI atenta principalmente contra comunidades minoritarias, como los chiitas, los suf&iacute;es y los sijs.&nbsp;</li>
+<li>Aunque el EI es un grupo islamista de confesi&oacute;n sunita, como los talibanes, ambos son rivales y difieren mucho en cuanto a su ideolog&iacute;a.&nbsp;</li>
+</ul>
+}
+title Al menos 18 muertos en la explosión de una mezquita en Afganistán
+day 02
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202209/headers/1-exprimera-dama-de-malasia-condenada-a-10-anos-de-prision-por-corrupcion.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La explosión de una bomba el viernes en una de las mayores mezquitas del oeste de Afganistán causó la muerte de al menos 18 personas, entre ellas un influyente imán que había pedido decapitar a quienes cometieran "el más mínimo acto" contra el gobierno. 
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Afganistán<b>
+    text1 Al menos 18 muertos en la explosión de una mezquita en Afganistán
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
