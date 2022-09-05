@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202209/1-exprimera-dama-de-malasia-condenada-a-10-anos-de-prision-por-corrupcion
+        featured{array} /content/202209/5-cinco-claves-para-entender-triunfo-del-rechazo-en-chile
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202209/1-cinco-puntos-clave-del-informe-de-la-onu-sobre-los-uigures
+        featured{array} /content/202209/5-cinco-claves-para-entender-triunfo-del-rechazo-en-chile
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202208/31-descubrieron-una-nueva-especie-de-rana-en-costa-rica
+    featured{array} /content/202209/5-comienza-ultima-etapa-de-juicio-contra-kirchner-en-argentina
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202209/1-nivel-record-de-gases-de-efecto-invernadero-en-el-planeta-en-2021
+    featured{array} /content/202209/5-las-mujeres-en-el-poder-en-europa
 }
 other{kmkv} {
     name Other (Internal)
