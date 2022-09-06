@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202208/26-batallan-en-la-onu-por-un-tratado-que-proteja-la-biodiversidad-en-altamar
+        featured{array} /content/202209/6-china-cierra-su-agosto-mas-caluroso-desde-que-hay-registros
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202209/5-cinco-claves-para-entender-triunfo-del-rechazo-en-chile
+        featured{array} /content/202209/6-que-se-sabe-del-atentado-contra-la-vicepresidenta-argentina-kirchner
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202209/5-cinco-claves-para-entender-triunfo-del-rechazo-en-chile
+        featured{array} /content/202209/6-que-se-sabe-del-atentado-contra-la-vicepresidenta-argentina-kirchner
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202209/5-comienza-ultima-etapa-de-juicio-contra-kirchner-en-argentina
+    featured{array} /content/202209/6-la-conservadora-liz-truss-asume-como-primera-ministra-britanica
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202209/5-las-mujeres-en-el-poder-en-europa
+    featured{array} /content/202209/6-china-cierra-su-agosto-mas-caluroso-desde-que-hay-registros
 }
 other{kmkv} {
     name Other (Internal)

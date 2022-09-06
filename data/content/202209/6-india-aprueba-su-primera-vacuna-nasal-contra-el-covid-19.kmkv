@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>India aprob&oacute; el martes su primera vacuna nasal, sin aguja, contra el covid-19 para uso de emergencia, dando un nuevo impulso a su gigantesca campa&ntilde;a de vacunaci&oacute;n, anunci&oacute; el ministro indio de Salud.</li>
+<li>El domingo, China aprob&oacute; la primera vacuna inhalable del mundo, administrada como dosis de refuerzo de emergencia, por v&iacute;a nasal, a trav&eacute;s de un pulverizador. Fue fabricada por el grupo chino CanSino Biologics.</li>
+<li>El fabricante de la nueva vacuna india es el grupo Bharat Biotech, que ya hab&iacute;a desarrollado una vacuna intravenosa contra el covid-19, aprobada por la Organizaci&oacute;n Mundial de la Salud (OMS) el pasado noviembre.</li>
+<li>"Esta etapa fortalecer&aacute; a&uacute;n m&aacute;s nuestra lucha colectiva contra la pandemia", declar&oacute; en Twitter el ministro de Salud, Mansukh Mandaviya.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Bharat Biotech llev&oacute; a cabo sus ensayos en tercera fase en 14 lugares de India y comprob&oacute; que su seguridad era "altamente comparable" a la de otras vacunas, indic&oacute; la compa&ntilde;&iacute;a india en un comunicado.</li>
+<li>La vacuna fue aprobada por la autoridad india de medicamentos para uso de emergencia pero todav&iacute;a no se precis&oacute; cu&aacute;ndo estar&aacute; a disposici&oacute;n del p&uacute;blico.&nbsp;</li>
+<li>El a&ntilde;o pasado, India se vio azotada por una ola de covid-19 que oficialmente dej&oacute; m&aacute;s de 200.000 muertos en unas semanas, aunque los expertos apuntan que el balance real probablemente fuera mucho mayor.</li>
+</ul>
+}
+title India aprueba su primera vacuna nasal contra el covid-19
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202209/headers/6-india-aprueba-su-primera-vacuna-nasal-contra-el-covid-19.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description India aprobó el martes su primera vacuna nasal, sin aguja, contra el covid-19 para uso de emergencia, dando un nuevo impulso a su gigantesca campaña de vacunación, anunció el ministro indio de Salud.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>India<b>
+    text1 India aprueba su primera vacuna nasal contra el covid-19
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

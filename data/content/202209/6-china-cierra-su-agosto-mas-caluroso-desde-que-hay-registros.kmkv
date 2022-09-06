@@ -1,0 +1,60 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>China vivi&oacute; su agosto m&aacute;s caluroso desde que se iniciaron los registros en 1961, tras semanas de una ola de calor sin precedentes que probablemente se repita y ponga en peligro las cosechas.</li>
+<li>Las olas de calor en pleno verano no son inusuales en China, especialmente en el oeste &aacute;rido y en el sur del pa&iacute;s.&nbsp;</li>
+<li>Pero el gigante asi&aacute;tico se enfrenta este a&ntilde;o a un clima extremo, agravado por el calentamiento global, apuntan los cient&iacute;ficos.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El mes pasado, la temperatura media en China fue de 22,4&deg;C, inform&oacute; el martes la cadena estatal CCTV, citando al servicio meteorol&oacute;gico. Esta cifra es 1,2&deg;C m&aacute;s alta que el anterior r&eacute;cord hist&oacute;rico.</li>
+<li>En agosto, unas 267 estaciones de control de toda China igualaron o batieron r&eacute;cords de temperatura, seg&uacute;n CCTV.</li>
+<li>Este verano, "el n&uacute;mero de d&iacute;as de calor ha sido anormalmente alto", dijo el servicio meteorol&oacute;gico a la cadena, explicando que los efectos se segu&iacute;an notando.&nbsp;</li>
+<li>Varias ciudades importantes registraron los d&iacute;as m&aacute;s calurosos de su historia y, debido a la falta de precipitaciones, muchos r&iacute;os se secaron, como el Yangts&eacute;, el mayor del pa&iacute;s. &nbsp;</li>
+<li>Desde agosto las temperaturas bajaron pero el clima ha colocado en situaci&oacute;n delicada a la red el&eacute;ctrica porque millones de personas encendieron su aire acondicionado.&nbsp;</li>
+<li>Varias provincias tuvieron que racionar la electricidad, lo que afecta gravemente a la actividad comercial y a las empresas y tambi&eacute;n a los h&aacute;bitos de una parte de la poblaci&oacute;n.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Agosto tambi&eacute;n fue el tercer mes m&aacute;s seco registrado en el pa&iacute;s, con un promedio de precipitaciones un 23,1% inferior a lo habitual, seg&uacute;n CCTV.&nbsp;</p>
+<p>Esta sequ&iacute;a sin precedentes est&aacute; poniendo ahora en peligro los cultivos.&nbsp;</p>
+<p>"Es una advertencia", dijo un funcionario del centro clim&aacute;tico chino, Zhang Daquan.</p>
+<p>Esta ola de calor viene "a recordar que debemos tener una comprensi&oacute;n m&aacute;s profunda del cambio clim&aacute;tico" y su impacto, dijo el funcionario citado por el Diario del Pueblo, el &oacute;rgano del Partido Comunista en el poder.</p>
+<p>Un funcionario del servicio meteorol&oacute;gico chino advirti&oacute; el martes que se esperan temperaturas m&aacute;s altas de lo habitual en China durante septiembre.&nbsp;</p>
+<p>La sequ&iacute;a es especialmente problem&aacute;tica para los cultivos de arroz y soja, que requieren mucha agua.&nbsp;</p>
+<p>El mes pasado, la mitad del vasto territorio de China se vio afectada en mayor o menor medida por la falta de lluvias.&nbsp;</p>
+<p>En este contexto, el gobierno lanz&oacute; una dotaci&oacute;n especial de 10.000 millones de yuanes (casi 1.500 millones de d&oacute;lares) para apoyar a los agricultores ante la sequ&iacute;a.</p>
+}
+title China cierra su agosto más caluroso desde que hay registros
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202209/headers/6-china-cierra-su-agosto-mas-caluroso-desde-que-hay-registros.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description China vivió su agosto más caluroso desde que se iniciaron los registros en 1961, tras semanas de una ola de calor sin precedentes que probablemente se repita y ponga en peligro las cosechas.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 China cierra su agosto más caluroso desde que hay registros
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
