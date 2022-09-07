@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202209/6-que-se-sabe-del-atentado-contra-la-vicepresidenta-argentina-kirchner
+        featured{array} /content/202209/07-bolsonaro-y-lula
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202209/6-que-se-sabe-del-atentado-contra-la-vicepresidenta-argentina-kirchner
+        featured{array} /content/202209/07-partido-de-putin-propone-referendos
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202209/6-la-conservadora-liz-truss-asume-como-primera-ministra-britanica
+    featured{array} /content/202209/07-25-cumpleanos-de-la-tortuga-bicefala-janus
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202209/6-china-cierra-su-agosto-mas-caluroso-desde-que-hay-registros
+    featured{array} /content/202209/07-elon-musk-y-twitter
 }
 other{kmkv} {
     name Other (Internal)
