@@ -1,0 +1,47 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Cientos de documentos confidenciales enviados por la OTAN a Portugal fueron hallados a la venta en el darkweb tras un acto de pirater&iacute;a contra el Estado Mayor de las Fuerzas Armadas portuguesas y los servicios de inteligencia militar, inform&oacute; el jueves el Diario de Noticias.&nbsp;</li>
+<li>"Fue un ciberataque prolongado e indetectable, llevado a cabo por bots programados para detectar este tipo de documentos", dijo una de las fuentes an&oacute;nimas citadas por el diario online.</li>
+<li>Seg&uacute;n el Diario de Noticias, el incidente fue descubierto por la inteligencia estadounidense y comunicado a las autoridades portuguesas en agosto a trav&eacute;s de la embajada en Lisboa.</li>
+<li>La investigaci&oacute;n de las agencias de ciberseguridad portuguesas habr&iacute;a identificado al Estado Mayor de las Fuerzas Armadas, a la inteligencia militar y a un departamento del ministerio de Defensa como objetivos del ciberataque, seg&uacute;n el peri&oacute;dico.</li>
+<li>"El gobierno puede asegurar que el ministerio de Defensa Nacional y las Fuerzas Armadas trabajan diariamente para que la credibilidad de Portugal como miembro fundador de la Alianza Atl&aacute;ntica permanezca intacta", dijo a AFP la oficina del primer ministro Antonio Costa.</li>
+<li>"Cada vez que hay una sospecha de intrusi&oacute;n (...) se analiza detenidamente la situaci&oacute;n", a&ntilde;adi&oacute; el gobierno, sin confirmar ni desmentir que se hayan robado documentos.</li>
+<li>Seg&uacute;n el Diario de Noticias, los documentos en cuesti&oacute;n se mandaron entre diferentes servicios portugueses a trav&eacute;s de l&iacute;neas de comunicaci&oacute;n no seguras.</li>
+</ul>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+}
+title Roban cientos de documentos confidenciales de la OTAN
+day 08
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202209/headers/6-que-se-sabe-del-atentado-contra-la-vicepresidenta-argentina-kirchner.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Cientos de documentos confidenciales enviados por la OTAN a Portugal fueron hallados a la venta en el darkweb tras un acto de piratería contra el Estado Mayor de las Fuerzas Armadas portuguesas y los servicios de inteligencia militar, informó el jueves el Diario de Noticias. 
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>OTAN<b>
+    text1 Roban cientos de documentos confidenciales de la OTAN
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
