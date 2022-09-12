@@ -16,11 +16,11 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202209/1-descubren-en-peru-tumba-de-sacerdote-de-3000-anos-de-antiguedad
+        featured{array} /content/202209/12-corea-del-norte-empezara-campana-de-vacunacion-anticovid-en-noviembre
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202209/8-las-colibries-hembras-se-disfrazan-de-machos-para-competir-por-el-nectar
+        featured{array} /content/202209/12-guardias-indigenas-de-ecuador-los-defensores-de-la-selva-amazonica
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202209/8-humanidad-retrocedio-cinco-anos-por-el-covid-y-otras-crisis
+        featured{array} /content/202209/12-comienza-juicio-de-apelacion-por-atentado-contra-charlie-hebdo
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202209/8-australia-aprueba-historico-proyecto-de-ley-sobre-cambio-climatico
+    featured{array} /content/202209/12-guardias-indigenas-de-ecuador-los-defensores-de-la-selva-amazonica
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202209/que-es-london-bridge-is-down
+    featured{array} /content/202209/12-expectacion-ante-un-cambio-decisivo-en-la-criptomoneda-ethereum
 }
 other{kmkv} {
     name Other (Internal)
