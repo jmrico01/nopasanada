@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El lanzamiento del nuevo cohete de la NASA a la Luna, ya abortado dos veces por problemas t&eacute;cnicos, tendr&aacute; lugar no antes del 27 de septiembre, anunci&oacute; el lunes la agencia espacial estadounidense.</li>
+<li>Este muy esperado vuelo de prueba de la misi&oacute;n Artemis 1, sin tripulaci&oacute;n a bordo, busca probar al cohete SLS (Space Launch System), as&iacute; como a la c&aacute;psula Orion en su parte superior, que transportar&aacute; a los astronautas en el futuro.</li>
+<li>La fecha depender&aacute; de que los equipos de ingenier&iacute;a puedan completar exitosamente una prueba de tanqueo con combustible del SLS, y de que reciban una exenci&oacute;n especial para evitar volver a probar las bater&iacute;as en un sistema de destrucci&oacute;n de cohetes de emergencia.&nbsp;</li>
+<li>Sin esta exenci&oacute;n, el cohete tendr&aacute; que regresar al edificio de ensamblaje, lo que retrasar&iacute;a el cronograma varias semanas.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>La ventana de lanzamiento del 27 de septiembre se abrir&aacute; a las 11H37 hora local durante 70 minutos, con un final de misi&oacute;n programado para el 5 de noviembre. Una posible segunda ventana est&aacute; programada para el 2 de octubre, dijo la NASA en una publicaci&oacute;n de blog.</p>
+<p>El lanzamiento del nuevo cohete hab&iacute;a sido cancelado el lunes 29 de agosto, y luego nuevamente el s&aacute;bado 3 de septiembre, debido a problemas t&eacute;cnicos, un contratiempo que retrasa el inicio efectivo del programa estadounidense de regreso a la Luna, Artemis.</p>
+<p>El SLS, un megacohete naranja y blanco, que nunca ha volado antes, ha estado en desarrollo desde hace m&aacute;s de una d&eacute;cada.</p>
+<p>Para esta primera misi&oacute;n, Ori&oacute;n se aventurar&aacute; hasta 64.000 kil&oacute;metros detr&aacute;s de la Luna, m&aacute;s lejos que cualquier otra nave espacial tripulada hasta el momento.</p>
+<p>Uno de los objetivos principales de la misi&oacute;n es probar el escudo t&eacute;rmico de la c&aacute;psula, el m&aacute;s grande jam&aacute;s construido. En su regreso a la atm&oacute;sfera terrestre, deber&aacute; soportar una velocidad de 40.000 km/h y una temperatura equivalente a la mitad de la que se registra en la superficie del sol.</p>
+<p>La pr&oacute;xima misi&oacute;n, Artemis 2, en 2024, transportar&aacute; astronautas pero no alunizar&aacute;. Ese honor ser&aacute; reservado para la tripulaci&oacute;n de Artemis 3, que ser&aacute; lanzada no antes de 2025. Despu&eacute;s, la NASA espera realizar aproximadamente una misi&oacute;n al a&ntilde;o.</p>
+<p>El plan de la agencia estadounidense es construir una estaci&oacute;n espacial en la &oacute;rbita lunar, llamada Gateway, y una base en la superficie de la Luna.</p>
+<p>La NASA aspira a probar all&iacute; las tecnolog&iacute;as necesarias para enviar a los primeros humanos a Marte: nuevos trajes, un veh&iacute;culo para desplazarse o un posible uso del agua lunar, entre otros objetivos.</p>
+<p>Seg&uacute;n el director de la agencia espacial, Bill Nelson, un viaje de ida y vuelta a Marte a bordo de Ori&oacute;n, que durar&iacute;a varios a&ntilde;os, podr&iacute;a intentarse a fines de la d&eacute;cada de 2030.</p>
+}
+title La NASA vuelve a posponer el lanzamiento de su nuevo cohete a la Luna
+day 13
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202209/headers/13-la-nasa-vuelve-a-posponer-el-lanzamiento-de-su-nuevo-cohete-a-la-luna.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El lanzamiento del nuevo cohete de la NASA a la Luna, ya abortado dos veces por problemas técnicos, tendrá lugar no antes del 27 de septiembre, anunció la agencia espacial estadounidense.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 La NASA vuelve a posponer el lanzamiento de su nuevo cohete a la Luna
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
