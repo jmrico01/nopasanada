@@ -16,11 +16,11 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202209/12-corea-del-norte-empezara-campana-de-vacunacion-anticovid-en-noviembre
+        featured{array} /content/202209/14-siete-muertos-en-siria-en-primera-gran-epidemia-de-colera-en-anos
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202209/12-guardias-indigenas-de-ecuador-los-defensores-de-la-selva-amazonica
+        featured{array} /content/202209/14-jefa-de-la-comision-europea-presenta-plan-para-enfrentar-crisis-energetica
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202209/12-comienza-juicio-de-apelacion-por-atentado-contra-charlie-hebdo
+        featured{array} /content/202209/14-jefa-de-la-comision-europea-presenta-plan-para-enfrentar-crisis-energetica
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202209/12-guardias-indigenas-de-ecuador-los-defensores-de-la-selva-amazonica
+    featured{array} /content/202209/14-isabel-ii-funeral
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202209/12-expectacion-ante-un-cambio-decisivo-en-la-criptomoneda-ethereum
+    featured{array} /content/202209/14-justicia-europea-desestima-recurso-de-google-contra-multa-record
 }
 other{kmkv} {
     name Other (Internal)
