@@ -1,0 +1,52 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La criptomoneda Ethereum, la segunda m&aacute;s importante en el mundo tras el bitc&oacute;in, complet&oacute; este jueves una mutaci&oacute;n tecnol&oacute;gica clave para su futuro, que le permitir&aacute; reducir pr&aacute;cticamente en un 99% su consumo de energ&iacute;a.</li>
+<li>"&iexcl;Se acab&oacute;! (...) A todos los que han contribuido al &eacute;xito de The Merge ('fusion'): pueden sentirse muy orgullosos hoy" tuite&oacute; &nbsp;Vitalik Buterin, cofundador de esta cadena de bloques.</li>
+<li>Como todas las criptomonedas, Ethereum empez&oacute; a funcionar mediante una cadena de bloques de instrucciones encriptadas, que son creadas de forma incesante por miles de ordenadores en todo el mundo, de forma aut&oacute;noma y autom&aacute;tica.</li>
+<li>Con esta operaci&oacute;n la moneda, que representa el 20% del mercado (40% para bitc&oacute;in) pasa de un sistema conocido como "proof of work" ("prueba de trabajo"), que certifica que la inscripci&oacute;n ha sido realizada por esos ordenadores, a la "prueba de participaci&oacute;n" ("proof of stake"), en la que b&aacute;sicamente se recompensa a los que aportan financieramente su capital.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Es un cambio complejo que desde el punto de vista ecol&oacute;gico tiene un impacto enorme en el mundo de las criptomonedas. Se calcula que el funcionamiento de Ethereum hasta ahora consum&iacute;a anualmente la misma cantidad de electricidad que Nueva Zelanda.</li>
+<li>"Todo sucedi&oacute; exactamente como estaba previsto", indic&oacute; a la AFP Simon Polrot, especialista en la cadena de bloques y ex presidente de la Asociaci&oacute;n para el Desarrollo de los activos digitales.</li>
+<li>La cotizaci&oacute;n de ethereum volvi&oacute; a reanudarse en las plataformas de criptomonedas este jueves, como CoinMarket, donde su precio evolucionaba ligeramente a la baja, a 1.588 d&oacute;lares por unidad (-0,88%).</li>
+<li>Las criptomonedas son una creaci&oacute;n totalmente inform&aacute;tica y virtual, que se basa &uacute;nicamente en la fiabilidad de su solvencia en los mercados gracias a las cadenas de bloques, que se suponen que son infalsificables.</li>
+<li>Ethereum es clave en ese mercado, muy vol&aacute;til, porque pr&aacute;cticamente todos los intercambios en el mundo del arte digital se realizan con esa moneda.</li>
+<li>La pr&aacute;ctica totalidad de los tokens no fungibles (NFT), que son una especie de t&iacute;tulo de propiedad de las obras de arte digital, son creados en la cadena de bloques de Ethereum.</li>
+</ul>
+}
+title Ethereum culmina con éxito su mutación para consumir menos energía
+day 15
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202209/headers/15-ethereum-culmina-con-exito-su-mutacion-para-consumir-menos-energia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La criptomoneda Ethereum, la segunda más importante en el mundo tras el bitcóin, completó este jueves una mutación tecnológica clave para su futuro, que le permitirá reducir prácticamente en un 99% su consumo de energía.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ethereum<b>
+    text1 Ethereum culmina con éxito su mutación para consumir menos energía
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
