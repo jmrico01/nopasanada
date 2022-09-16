@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Alaska se preparaba el viernes para la llegada de una "peligrosa tormenta" que podr&iacute;a generar las peores inundaciones en el estado en 50 a&ntilde;os, seg&uacute;n advirti&oacute; el Servicio Meteorol&oacute;gico de Estados Unidos (NWS).&nbsp;</li>
+<li>"Esta es una tormenta peligrosa, que se espera que cause importantes inundaciones costeras al sur del Estrecho de Bering. Es probable que el agua alcance niveles no vistos en casi 50 a&ntilde;os", advirtieron el jueves por la noche los servicios meteorol&oacute;gicos de Fairbanks, la segunda ciudad m&aacute;s grande de Alaska.&nbsp;</li>
+<li>Provocada por los restos del tif&oacute;n Merbok, la tormenta traer&aacute; durante el fin de semana r&aacute;fagas de viento de hasta m&aacute;s de 140 km/h y fuertes lluvias en el estado m&aacute;s septentrional de Estados Unidos, seg&uacute;n el NWS.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>El agua podr&iacute;a superar el nivel normal de la marea alta entre 2 y 3,5 metros en algunos lugares.&nbsp;</li>
+<li>Los servicios meteorol&oacute;gicos pidieron a los residentes que se preparen antes de que las condiciones se deterioren, a partir del viernes al mediod&iacute;a en ciertas &aacute;reas de Alaska.&nbsp;</li>
+<li>"Este es casi el peor de los escenarios posibles en t&eacute;rminos de inundaciones en la costa norte del mar de Bering", tuite&oacute; el viernes Rick Thoman, cient&iacute;fico del clima de la Universidad de Alaska.&nbsp;</li>
+<li>"Ser&aacute; probablemente la tormenta m&aacute;s fuerte en m&aacute;s de una d&eacute;cada", dijo a CNN el meteor&oacute;logo del NWS Jonathan Christiest, que compar&oacute; este evento meteorol&oacute;gico con una tormenta que en 2011 provoc&oacute; importantes inundaciones y cortes de energ&iacute;a en el estado.</li>
+</ul>
+}
+title Tormenta  de Alaska podría provocar las peores inundaciones en 50 años
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202209/headers/16-tormenta-de-alaska-podria-provocar-las-peores-inundaciones-en-50-anos.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Alaska se preparaba el viernes para la llegada de una "peligrosa tormenta" que podría generar las peores inundaciones en el estado en 50 años, según advirtió el Servicio Meteorológico de Estados Unidos (NWS).
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Alaska<b>
+    text1 Tormenta  de Alaska podría provocar las peores inundaciones en 50 años
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09
