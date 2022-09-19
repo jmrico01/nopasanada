@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202209/16-la-fifa-desestima-recursos-de-chile-y-peru-ecuador-sigue-en-el-mundial
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202208/1-bts-podria-seguir-conciertos-pese-a-servicio-militar-obligatorio
+        featured{array} /content/202209/19-brad-pitt-esculturas
     }
     video{kmkv} {
         name Video
