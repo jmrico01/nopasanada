@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202209/nayib-bukele-anuncia-reelecion
+    featured{array} /content/202209/19-sismo-de-7-grados-sacude-al-centro-de-mexico
 }
 other{kmkv} {
     name Other (Internal)

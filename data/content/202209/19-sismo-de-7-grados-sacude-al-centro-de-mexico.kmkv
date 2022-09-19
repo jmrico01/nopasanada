@@ -1,0 +1,49 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Un sismo de 7,4 grados de magnitud sacudi&oacute; este lunes el centro de M&eacute;xico justo cuando se conmemoraban dos poderosos terremotos que dejaron miles de muertos en 1985 y 2017, informaron las autoridades.</li>
+<li>El Sismol&oacute;gico Nacional, que originalmente ubic&oacute; la magnitud en 6,8 grados, detall&oacute; en Twitter que el epicentro se localiz&oacute; 59 km al sur de Coalcoman (estado de Michoac&aacute;n), en la costa del Pac&iacute;fico.</li>
+<li>Protecci&oacute;n Civil descart&oacute; el riesgo de tsunami.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>El temblor activ&oacute; la alerta s&iacute;smica, que suena un minuto antes de la ocurrencia del fen&oacute;meno, provocando escenas de p&aacute;nico en varios sectores de la capital, de 9,2 millones de habitantes.</p>
+<p>"Hasta ahora no se reportan da&ntilde;os", escribi&oacute; en su cuenta de Twitter la alcaldesa de Ciudad de M&eacute;xico, Claudia Sheinbaum.</p>
+<p>"Se sinti&oacute; terrible. Nos bajamos en cuanto lo sentimos, cuando son&oacute; la alarma", declar&oacute; a la AFP Karina Su&aacute;rez, de 37 a&ntilde;os, afuera del edificio donde vive en la Colonia Roma.</p>
+<p>La alerta s&iacute;smica, seguida del temblor, son&oacute; menos de una hora despu&eacute;s de que millones de personas participaran en un simulacro nacional, que se realiza todos los 19 de septiembre.</p>
+<p>Este es el tercer sismo que se registra un 19 de septiembre en la historia de M&eacute;xico luego del ocurrido en 1985, con magnitud de 8,1 grados y que dej&oacute; m&aacute;s de 10.000 muertos, la gran mayor&iacute;a en la capital.</p>
+<p>El mismo d&iacute;a de 2017 otro sismo de 7,1 grados golpe&oacute; al centro del pa&iacute;s con saldo de 369 fallecidos.</p>
+}
+title Sismo de 7,4 grados sacude al centro de México
+day 19
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202209/headers/19-sismo-de-7-grados-sacude-al-centro-de-mexico.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un sismo de 7,4 grados de magnitud sacudió este lunes el centro de México justo cuando se conmemoraban dos poderosos terremotos que dejaron miles de muertos en 1985 y 2017, informaron las autoridades.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>México<b>
+    text1 Sismo de 7,4 grados sacude al centro de México
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
