@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202209/16-luna-perdida-hace-mucho-tiempo-podria-ser-responsable-de-los-anillos-de-saturno
+        featured{array} /content/202209/22-artemis-i-completa-con-exito-prueba-en-tierra-tras-reparaciones
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202209/16-la-fifa-desestima-recursos-de-chile-y-peru-ecuador-sigue-en-el-mundial
+        featured{array} /content/202209/22-rusia-prepara-anexion-de-territorios-ucranianos-pese-a-indignacion-internacional
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202209/16-la-fifa-desestima-recursos-de-chile-y-peru-ecuador-sigue-en-el-mundial
+    featured{array} /content/202209/22-artemis-i-completa-con-exito-prueba-en-tierra-tras-reparaciones
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202209/19-brad-pitt-esculturas
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202209/19-sismo-de-7-grados-sacude-al-centro-de-mexico
+    featured{array} /content/202209/22-iran-bloquea-acceso-a-redes-sociales-por-protestas-que-ya-cobraron-17-vidas
 }
 other{kmkv} {
     name Other (Internal)

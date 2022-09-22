@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Un sismo de magnitud 6,9 sacudi&oacute; la &nbsp;la madrugada de este jueves a gran parte de M&eacute;xico, con balance de dos fallecidos en la capital, cuyos habitantes se lanzaron a la calle con ropa de dormir, algunos sumidos en el p&aacute;nico.</li>
+<li>El temblor se registr&oacute; a las 1h16 locales (06h16 GMT), con epicentro en el Pac&iacute;fico y se trat&oacute; de la r&eacute;plica m&aacute;s fuerte de las casi 1.300 que se han contabilizado desde el terremoto de 7,7 del pasado lunes y que dej&oacute; tambi&eacute;n dos muertos y m&aacute;s de 3.000 inmuebles averiados, seg&uacute;n datos del Servicio Sismol&oacute;gico Nacional.</li>
+<li>Los fallecidos en la capital son un hombre que sufri&oacute; un infarto y una mujer que se golpe&oacute; la cabeza al caer de las escaleras de su domicilio, tras la activaci&oacute;n de la alerta s&iacute;smica, report&oacute; la alcald&iacute;a local.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>El sismo sorprendi&oacute; a los habitantes de Ciudad de M&eacute;xico cuando ya estaban dormidos. Muchos de ellos salieron corriendo al escuchar la alerta vistiendo sus pijamas y algunos cargando a sus perros, que no cesaban de ladrar.&nbsp;</p>
+<p>El epicentro estuvo ubicado a 84 km de Coalcom&aacute;n, en el estado de Michoac&aacute;n (oeste), donde se origin&oacute; el evento principal del lunes. Inicialmente, el Servicio Sismol&oacute;gico hab&iacute;a estimado una magnitud de 6,5 para el movimiento de este jueves.</p>
+<p>Poco despu&eacute;s de la sacudida, el presidente Andr&eacute;s Manuel L&oacute;pez Obrador dijo que el sismo se sinti&oacute; en Ciudad de M&eacute;xico y en los estados de Michoac&aacute;n, Colima, Jalisco y Guerrero, todos con costa en el Pac&iacute;fico.</p>
+<p>Tras el temblor, Sheinbaum inform&oacute; que helic&oacute;pteros oficiales sobrevolaban la ciudad y que no hab&iacute;a reporte de da&ntilde;os.&nbsp;</p>
+<p>&nbsp;</p>
+}
+title Sismo de magnitud 6,9 deja dos fallecidos en México
+day 22
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202209/headers/22-sismo-de-magnitud-6-9-deja-dos-fallecidos-en-mexico.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un sismo de magnitud 6,9 sacudió la  la madrugada de este jueves a gran parte de México, con balance de dos fallecidos en la capital, cuyos habitantes se lanzaron a la calle con ropa de dormir, algunos sumidos en el pánico.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>México<b>
+    text1 Sismo de magnitud 6,9 deja dos fallecidos en México
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
