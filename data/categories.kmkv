@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202209/16-bukele-anuncia-que-buscara-reeleccion-en-el-salvador-en-2024
+        featured{array} /content/202209/23-investigadores-de-la-onu-afirman-que-se-cometieron-crimenes-de-guerra-en-ucrania
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202209/22-rusia-prepara-anexion-de-territorios-ucranianos-pese-a-indignacion-internacional
+        featured{array} /content/202209/23-jovenes-sudafricanos-construyen-un-tren-solar-ante-los-cortes-de-electricidad
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202209/22-artemis-i-completa-con-exito-prueba-en-tierra-tras-reparaciones
+    featured{array} /content/202209/23-investigadores-de-la-onu-afirman-que-se-cometieron-crimenes-de-guerra-en-ucrania
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202209/19-brad-pitt-esculturas
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202209/22-iran-bloquea-acceso-a-redes-sociales-por-protestas-que-ya-cobraron-17-vidas
+    featured{array} /content/202209/23-el-agujero-negro-en-el-centro-de-la-via-lactea-genero-una-burbuja-de-gas
 }
 other{kmkv} {
     name Other (Internal)
@@ -116,8 +116,8 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202209/16-la-fifa-desestima-recursos-de-chile-y-peru-ecuador-sigue-en-el-mundial
+        featured{array} /content/202209/23-15-jugadoras-renunciaron-a-la-aseleccion-de-futbol-de-espana
     }
     displayOrder{array} 
-    featured{array} /content/202208/10-el-futbol-femenino-sub-20-abre-paso-a-los-mundiales-tras-paron-por-la-pandemia
+    featured{array} /content/202209/23-15-jugadoras-renunciaron-a-la-aseleccion-de-futbol-de-espana
 }
