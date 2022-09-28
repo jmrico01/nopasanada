@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202209/23-investigadores-de-la-onu-afirman-que-se-cometieron-crimenes-de-guerra-en-ucrania
+        featured{array} /content/202209/28-las-diferentes-hipotesis-de-sabotaje-de-los-gasoductos-nord-stream
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202209/23-jovenes-sudafricanos-construyen-un-tren-solar-ante-los-cortes-de-electricidad
+        featured{array} /content/202209/28-las-diferentes-hipotesis-de-sabotaje-de-los-gasoductos-nord-stream
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202209/23-investigadores-de-la-onu-afirman-que-se-cometieron-crimenes-de-guerra-en-ucrania
+    featured{array} /content/202209/28-huracan-ian-se-dirige-a-florida-que-espera-consecuencias-catastroficas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202209/19-brad-pitt-esculturas
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202209/23-el-agujero-negro-en-el-centro-de-la-via-lactea-genero-una-burbuja-de-gas
+    featured{array} /content/202209/28-familia-de-mahsa-amini-querello-contra-autores-de-detencion
 }
 other{kmkv} {
     name Other (Internal)
