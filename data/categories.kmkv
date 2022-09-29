@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202209/28-las-diferentes-hipotesis-de-sabotaje-de-los-gasoductos-nord-stream
+        featured{array} /content/202209/29-rusos-huyen-a-finlandia-temiendo-una-frontera-cerrada-para-siempre
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202209/28-las-diferentes-hipotesis-de-sabotaje-de-los-gasoductos-nord-stream
+        featured{array} /content/202209/29-corea-del-norte-dispara-su-tercer-misil-balistico-en-menos-de-una-semana
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202209/28-huracan-ian-se-dirige-a-florida-que-espera-consecuencias-catastroficas
+    featured{array} /content/202209/29-rapero-estadounidense-coolio-muere-a-los-59-anos
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202209/19-brad-pitt-esculturas
+        featured{array} /content/202209/29-hace-cinco-anos-nacio-el-movimiento-me-too
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202209/28-familia-de-mahsa-amini-querello-contra-autores-de-detencion
+    featured{array} /content/202209/29-rapero-estadounidense-coolio-muere-a-los-59-anos
 }
 other{kmkv} {
     name Other (Internal)

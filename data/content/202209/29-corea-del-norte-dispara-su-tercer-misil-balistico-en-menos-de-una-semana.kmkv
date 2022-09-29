@@ -1,0 +1,46 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Corea del Norte dispar&oacute; un misil bal&iacute;stico, inform&oacute; el jueves el ej&eacute;rcito surcoreano, el tercer lanzamiento de Pyongyang en menos de una semana, que tuvo lugar horas despu&eacute;s de que la vicepresidenta de Estados Unidos, Kamala Harris, abandonara Corea del Sur.</li>
+<li>"Corea del Norte dispar&oacute; un misil bal&iacute;stico en el mar del Este", dijo en un comunicado el Estado Mayor Conjunto de Se&uacute;l, en alusi&oacute;n al m&aacute;s conocido como mar de Jap&oacute;n.</li>
+<li>Los guardacostas de Jap&oacute;n tambi&eacute;n confirmaron el aparente lanzamiento de un misil bal&iacute;stico desde Corea del Norte, citando informaciones del ministerio de Defensa japon&eacute;s.</li>
+<li>En Corea del Sur, Harris visit&oacute; la zona desmilitarizada en la frontera con el Norte, como parte de su viaje para reforzar su alianza de seguridad con Se&uacute;l.</li>
+<li>Hablando en la zona desmilitarizada (DMZ) que separa estos dos pa&iacute;ses t&eacute;cnicamente en guerra, Harris dijo que los soldados estadounidenses y surcoreanos "sirven hombro con hombro (...) para mantener la seguridad y la estabilidad de esta regi&oacute;n".</li>
+<li>Estados Unidos tiene unos 28.500 soldados en Corea del Sur para ayudar a proteger al pa&iacute;s del vecino septentrional. Esta semana ambos aliados est&aacute;n realizando ejercicios navales conjuntos para demostrar su fuerza.</li>
+<li>En los d&iacute;as previos a la visita de Harris, Corea del Norte realiz&oacute; dos pruebas de misiles, una de ellas en la v&iacute;spera, que se suman a la serie r&eacute;cord de ensayos armament&iacute;sticos de este a&ntilde;o.</li>
+</ul>
+}
+title Corea del Norte dispara su tercer misil balístico en menos de una semana
+day 29
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202209/headers/29-corea-del-norte-dispara-su-tercer-misil-balistico-en-menos-de-una-semana.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Corea del Norte disparó un misil balístico, informó el jueves el ejército surcoreano, el tercer lanzamiento de Pyongyang en menos de una semana, que tuvo lugar horas después de que la vicepresidenta de Estados Unidos, Kamala Harris, abandonara Corea del Sur.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Corea del Norte<b>
+    text1 Corea del Norte dispara su tercer misil balístico en menos de una semana
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 09
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
