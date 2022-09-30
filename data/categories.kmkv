@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202209/23-el-agujero-negro-en-el-centro-de-la-via-lactea-genero-una-burbuja-de-gas
+        featured{array} /content/202209/30-la-nasa-y-spacex-estudian-prolongar-vida-util-del-telescopio-espacial-hubble
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202209/29-rusos-huyen-a-finlandia-temiendo-una-frontera-cerrada-para-siempre
+        featured{array} /content/202209/30-brasil-llega-a-las-urnas-con-lula-como-favorito-para-vencer-a-bolsonaro
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202209/29-corea-del-norte-dispara-su-tercer-misil-balistico-en-menos-de-una-semana
+        featured{array} /content/202209/30-putin-formaliza-la-anexion-a-rusia-de-cuatro-regiones-de-ucrania
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202209/29-rapero-estadounidense-coolio-muere-a-los-59-anos
+    featured{array} /content/202209/30-los-asesinatos-de-ambientalistas-bajan-en-2021-pero-america-latina-concentra-la-mayoria
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202209/29-hace-cinco-anos-nacio-el-movimiento-me-too
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202209/29-rapero-estadounidense-coolio-muere-a-los-59-anos
+    featured{array} /content/202209/30-brasil-llega-a-las-urnas-con-lula-como-favorito-para-vencer-a-bolsonaro
 }
 other{kmkv} {
     name Other (Internal)
