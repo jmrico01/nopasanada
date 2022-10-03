@@ -57,17 +57,17 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202209/30-brasil-llega-a-las-urnas-con-lula-como-favorito-para-vencer-a-bolsonaro
+        featured{array} /content/202210/3-brasil-ira-a-segunda-ronda-electoral-con-lula-y-bolsonaro
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202209/30-putin-formaliza-la-anexion-a-rusia-de-cuatro-regiones-de-ucrania
+        featured{array} /content/202210/3-al-menos-32-ninos-entre-los-125-fallecidos-en-estampida-de-estadio-de-futbol-en-indonesia
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202209/30-los-asesinatos-de-ambientalistas-bajan-en-2021-pero-america-latina-concentra-la-mayoria
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202209/29-hace-cinco-anos-nacio-el-movimiento-me-too
+        featured{array} /content/202210/3-un-video-inedito-de-los-beatles-sale-a-la-luz-en-japon
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202209/30-brasil-llega-a-las-urnas-con-lula-como-favorito-para-vencer-a-bolsonaro
+    featured{array} /content/202210/3-la-nasa-volvera-a-tratar-de-lanzar-el-artemis-l-en-noviembre
 }
 other{kmkv} {
     name Other (Internal)

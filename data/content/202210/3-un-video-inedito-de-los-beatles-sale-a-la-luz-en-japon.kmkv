@@ -1,0 +1,46 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Im&aacute;genes de un video de la &uacute;nica gira de los Beatles en Jap&oacute;n en 1966 han salido a la luz tras una larga batalla judicial en el pa&iacute;s.</li>
+<li>El filme, sin sonido y en blanco y negro, dura 35 minutos y se encuentra actualmente en acceso libre en YouTube. Fue realizado en aquel entonces por la polic&iacute;a japonesa para temas de seguridad.</li>
+<li>En las im&aacute;genes se puede ver a los cuatro m&uacute;sicos descender sonrientes del avi&oacute;n, vestidos con kimonos, y luego tocar delante de una multitud enloquecida en la sala del Nippon Budokan en Tokio.</li>
+<li>Estos archivos tienen, sin embargo, un detalle curioso: a parte de los rostros de los Beatles, las caras de las otras personas filmadas est&aacute;n borrosas, por razones de respeto de la vida privada.</li>
+<li>Durante a&ntilde;os, la cuesti&oacute;n de los derechos de imagen de estas personas grabadas fue un escollo entre los seguidores japoneses de los Beatles y los defensores del derecho a la informaci&oacute;n y la polic&iacute;a local.</li>
+<li>Los fans recurrieron a la Corte Suprema de Jap&oacute;n para intentar autorizar una versi&oacute;n no censurada, alegando que se trataba de un "documento hist&oacute;rico" y considerando absurdo querer difuminar los rostros grabados hace m&aacute;s de 50 a&ntilde;os, casi imposibles de identificar hoy en d&iacute;a, seg&uacute;n ellos.</li>
+<li>Pero el tribunal rechaz&oacute; estos argumentos en 2018 y finalmente se impuso la propuesta de la polic&iacute;a de hacer p&uacute;blico el documento con las caras borrosas.</li>
+</ul>
+}
+title Un video inédito de los Beatles sale a la luz en Japón
+day 03
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202210/headers/3-un-video-inedito-de-los-beatles-sale-a-la-luz-en-japon.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Imágenes de un video de la única gira de los Beatles en Japón en 1966 han salido a la luz tras una larga batalla judicial en el país.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>The Beatles<b>
+    text1 Un video inédito de los Beatles sale a la luz en Japón
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,noticias-culturales,mas-arteymusica
+videoID 
+titlePoster 
+color #FBFF09
