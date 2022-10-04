@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202210/3-brasil-ira-a-segunda-ronda-electoral-con-lula-y-bolsonaro
+        featured{array} /content/202210/4-parlamento-europeo-aprobo-adopcion-de-cargador-universal-para-dispositivos-portatiles
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202210/3-al-menos-32-ninos-entre-los-125-fallecidos-en-estampida-de-estadio-de-futbol-en-indonesia
+        featured{array} /content/202210/4-quince-presos-muertos-y-21-heridos-en-nueva-matanza-carcelaria-en-ecuador
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202209/30-los-asesinatos-de-ambientalistas-bajan-en-2021-pero-america-latina-concentra-la-mayoria
+    featured{array} /content/202210/4-chile-protegera-como-parque-nacional-fenomeno-de-floracion-en-desierto-de-atacama
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202210/3-un-video-inedito-de-los-beatles-sale-a-la-luz-en-japon
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/3-la-nasa-volvera-a-tratar-de-lanzar-el-artemis-l-en-noviembre
+    featured{array} /content/202210/4-quince-presos-muertos-y-21-heridos-en-nueva-matanza-carcelaria-en-ecuador
 }
 other{kmkv} {
     name Other (Internal)
