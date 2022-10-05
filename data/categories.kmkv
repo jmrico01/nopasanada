@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202209/30-la-nasa-y-spacex-estudian-prolongar-vida-util-del-telescopio-espacial-hubble
+        featured{array} /content/202210/5-brote-de-ebola-deja-29-muertos-en-uganda
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202210/4-quince-presos-muertos-y-21-heridos-en-nueva-matanza-carcelaria-en-ecuador
+        featured{array} /content/202210/5-el-mundo-no-podra-eliminar-la-pobreza-extrema-en-2030-alerta-banco-mundial
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202210/4-chile-protegera-como-parque-nacional-fenomeno-de-floracion-en-desierto-de-atacama
+    featured{array} /content/202210/5-los-cinco-cientificos-premiados-dos-veces-con-un-nobel
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202210/3-un-video-inedito-de-los-beatles-sale-a-la-luz-en-japon
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/4-quince-presos-muertos-y-21-heridos-en-nueva-matanza-carcelaria-en-ecuador
+    featured{array} /content/202210/5-alec-baldwin-anuncia-acuerdo-con-familia-de-halyna-hutchins
 }
 other{kmkv} {
     name Other (Internal)
