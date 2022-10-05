@@ -1,0 +1,44 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Un total de 29 personas, entre ellas cuatro trabajadores sanitarios, han muerto de &eacute;bola en Uganda desde que las autoridades anunciaran hace dos semanas un brote en el centro del pa&iacute;s, inform&oacute; el mi&eacute;rcoles la Organizaci&oacute;n Mundial de la Salud.</li>
+<li>"Sesenta y tres casos confirmados y probables se han reportado, incluidos 29 decesos. Diez trabajadores de la salud han sido infectados y cuatro han muerto", dijo en una conferencia de prensa el jefe de la OMS, Tedros Adhanom Ghebreyesus.</li>
+<li>"Las vacunas utilizadas con &eacute;xito para frenar las recientes epidemias de &eacute;bola en Rep&uacute;blica Democr&aacute;tica del Congo (RDC) no son eficaces contra el tipo de virus de &eacute;bola responsable de esta epidemia" agreg&oacute;.</li>
+<li>Esta enfermedad es a menudo mortal, pero existen vacunas y tratamientos &nbsp;contra esta fiebre hemorr&aacute;gica que se transmite al hombre por animales infectados</li>
+<li>La OMS ha destinado dos millones de d&oacute;lares de su Fondo de reserva para las situaciones de emergencia y trabaja con socios para ayudar a las autoridades a reforzar la respuesta al brote, enviando especialistas y material m&eacute;dico</li>
+</ul>
+}
+title Brote de ébola deja 29 muertos en Uganda
+day 05
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202210/headers/5-brote-de-ebola-deja-29-muertos-en-uganda.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un total de 29 personas, entre ellas cuatro trabajadores sanitarios, han muerto de ébola en Uganda desde que las autoridades anunciaran hace dos semanas un brote en el centro del país, informó el miércoles la Organización Mundial de la Salud.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Uganda<b>
+    text1 Brote de ébola deja 29 muertos en Uganda
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
