@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Al menos 23 personas murieron en los naufragios de dos barcos con migrantes a bordo en Grecia, a pocas horas entre el mi&eacute;rcoles y el jueves, seg&uacute;n un nuevo balance de la guardia costera griega el viernes.&nbsp;</li>
+<li>Al menos cinco cuerpos fueron encontrados en la isla de Citera, al sur de la pen&iacute;nsula del Peloponeso, donde un velero con 95 migrantes a bordo encall&oacute; en la noche del mi&eacute;rcoles al jueves, dijo a la AFP un portavoz de la guardia costera griega.&nbsp;</li>
+<li>Al menos 18 personas, en su mayor&iacute;a mujeres, murieron en otro naufragio ocurrido el jueves en las primeras horas del d&iacute;a frente a la isla de Lesbos, en el Mediterr&aacute;neo oriental, seg&uacute;n la misma fuente.&nbsp;</li>
+<li>Las dos embarcaciones improvisadas, sobrecargadas, se encontraron atrapadas en fuertes vientos y un mar salvaje.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En Citera, 80 personas fueron rescatadas del ahogamiento, mientras que en la costa de Lesbos se encontraron 28 personas.&nbsp;</li>
+<li>Seg&uacute;n la cadena p&uacute;blica griega ERT, estas &uacute;ltimas son de nacionalidad somal&iacute;.</li>
+<li>En total, hab&iacute;a unas 40 personas a bordo de este barco, pero solo diez de ellas llevaban chalecos salvavidas, a&ntilde;ade la cadena.&nbsp;</li>
+<li>En Citera, decenas de supervivientes, varados al pie de un acantilado con un mar desmontado, tuvieron que ser elevados por los socorristas con maquinaria especializada.</li>
+<li>El primer ministro griego, Kyriakos Mitsotakis, pidi&oacute; el jueves que "se erradique completamente a los traficantes que atacan a personas inocentes, personas desesperadas" que intentan entrar a la Uni&oacute;n Europea en embarcaciones que no est&aacute;n en condiciones de navegar.</li>
+<li>Mitsotakis hizo la declaraci&oacute;n desde Praga, donde participa en conversaciones con otros l&iacute;deres europeos.&nbsp;</li>
+<li>Los datos precisos sobre las v&iacute;ctimas suelen ser dif&iacute;ciles de establecer, ya que algunos cuerpos nunca se recuperan o son encontrados en la orilla semanas m&aacute;s tarde.</li>
+</ul>
+}
+title Al menos 23 migrantes murieron en dos naufragios frente a Grecia
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202210/headers/7-al-menos-23-migrantes-murieron-en-dos-naufragios-frente-a-grecia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Al menos 23 personas murieron en los naufragios de dos barcos con migrantes a bordo en Grecia, a pocas horas entre el miércoles y el jueves, según un nuevo balance de la guardia costera griega el viernes.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Grecia<b>
+    text1 Al menos 23 migrantes murieron en dos naufragios frente a Grecia
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

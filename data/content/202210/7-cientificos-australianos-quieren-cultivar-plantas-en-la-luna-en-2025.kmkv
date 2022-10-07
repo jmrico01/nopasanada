@@ -1,0 +1,47 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Un grupo de cient&iacute;ficos australianos quiere cultivar plantas en la Luna en 2025 en una misi&oacute;n presentada el viernes que, en su opini&oacute;n, puede allanar el camino a una futura colonia.</li>
+<li>El bi&oacute;logo Brett Williams, de la Universidad de Tecnolog&iacute;a de Queensland, explic&oacute; que las semillas viajar&aacute;n en la nave Beresheet 2, una misi&oacute;n privada israel&iacute;.</li>
+<li>Una vez alunizada la nave, las semillas ser&aacute;n irrigadas en una c&aacute;mara sellada, donde los cient&iacute;ficos podr&aacute;n seguir las se&ntilde;ales de germinaci&oacute;n y crecimiento.</li>
+<li>Williams explic&oacute; que elegir&aacute;n las plantas en base a su resistencia a condiciones extremas y a su velocidad de germinaci&oacute;n.</li>
+<li>"El proyecto es un paso tempranero hacia el cultivo de plantas para alimentaci&oacute;n, medicina y producci&oacute;n de ox&iacute;geno, cruciales para que la vida humana se establezca en la Luna", dijeron los cient&iacute;ficos en un comunicado.</li>
+<li>Caitlin Byrt, investigadora asociada de la Universidad Nacional Australiana en Canberra, dijo que la investigaci&oacute;n pod&iacute;a ser tambi&eacute;n relevante por los temores de seguridad alimentaria causados por el cambio clim&aacute;tico.</li>
+<li>"Si puedes crear un sistema para cultivar plantas en la Luna, entonces puedes crear un sistema para cultivar alimento en algunos de los entornos m&aacute;s dif&iacute;ciles de la Tierra", explic&oacute; en un comunicado.</li>
+<li>El proyecto est&aacute; gestionado por Lunaria One, que implica a cient&iacute;ficos de Australia e Israel.</li>
+</ul>
+}
+title Científicos australianos quieren cultivar plantas en la Luna en 2025
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202210/headers/7-cientificos-australianos-quieren-cultivar-plantas-en-la-luna-en-2025.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Un grupo de científicos australianos quiere cultivar plantas en la Luna en 2025 en una misión presentada el viernes que, en su opinión, puede allanar el camino a una futura colonia.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Luna<b>
+    text1 Científicos australianos quieren cultivar plantas en la Luna en 2025
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

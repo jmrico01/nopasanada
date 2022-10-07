@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202210/5-brote-de-ebola-deja-29-muertos-en-uganda
+        featured{array} /content/202210/7-cientificos-australianos-quieren-cultivar-plantas-en-la-luna-en-2025
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202210/5-el-mundo-no-podra-eliminar-la-pobreza-extrema-en-2030-alerta-banco-mundial
+        featured{array} /content/202210/7-al-menos-23-migrantes-murieron-en-dos-naufragios-frente-a-grecia
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202210/5-los-cinco-cientificos-premiados-dos-veces-con-un-nobel
+    featured{array} /content/202210/7-mas-de-1-millon-de-desplazados-desde-el-golpe-de-estado-en-birmania
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202210/3-un-video-inedito-de-los-beatles-sale-a-la-luz-en-japon
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/5-alec-baldwin-anuncia-acuerdo-con-familia-de-halyna-hutchins
+    featured{array} /content/202210/7-cientificos-australianos-quieren-cultivar-plantas-en-la-luna-en-2025
 }
 other{kmkv} {
     name Other (Internal)
