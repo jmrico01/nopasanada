@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202209/16-tormenta-de-alaska-podria-provocar-las-peores-inundaciones-en-50-anos
+        featured{array} /content/202210/10-regiones-enteras-se-volveran-inhabitables-por-olas-de-calor-en-las-proximas-decadas
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202210/7-al-menos-23-migrantes-murieron-en-dos-naufragios-frente-a-grecia
+        featured{array} /content/202210/10-regiones-enteras-se-volveran-inhabitables-por-olas-de-calor-en-las-proximas-decadas
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202210/7-mas-de-1-millon-de-desplazados-desde-el-golpe-de-estado-en-birmania
+    featured{array} /content/202210/10-tormenta-julia-suma-cuatro-muertos-y-avanza-en-el-pacifico
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202210/3-un-video-inedito-de-los-beatles-sale-a-la-luz-en-japon
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/7-cientificos-australianos-quieren-cultivar-plantas-en-la-luna-en-2025
+    featured{array} /content/202210/10-juicio-contra-harvey-weinstein-por-agresion-sexual-comienza-en-los-angeles
 }
 other{kmkv} {
     name Other (Internal)
