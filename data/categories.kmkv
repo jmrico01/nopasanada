@@ -12,7 +12,7 @@ mas{kmkv} {
     }
     historias{kmkv} {
         name Historias
-        featured{array} /content/202003/26-historias-humanas
+        featured{array} /content/202210/11-cincuenta-anos-del-accidente-de-los-andes-la-tragedia-que-se-convirtio-en-milagro
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202210/10-regiones-enteras-se-volveran-inhabitables-por-olas-de-calor-en-las-proximas-decadas
+        featured{array} /content/202210/11-tormenta-julia-ya-disipada-deja-al-menos-26-muertos-en-centroamerica
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202210/4-parlamento-europeo-aprobo-adopcion-de-cargador-universal-para-dispositivos-portatiles
+        featured{array} /content/202210/11-irak-celebrara-sesion-parlamentaria-el-jueves-para-elegir-presidente
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202210/10-regiones-enteras-se-volveran-inhabitables-por-olas-de-calor-en-las-proximas-decadas
+        featured{array} /content/202210/11-irak-celebrara-sesion-parlamentaria-el-jueves-para-elegir-presidente
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202210/10-tormenta-julia-suma-cuatro-muertos-y-avanza-en-el-pacifico
+    featured{array} /content/202210/11-sospechoso-de-asesinato-de-maddie-mccann-acusado-de-cinco-nuevos-cargos-sexuales
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202210/3-un-video-inedito-de-los-beatles-sale-a-la-luz-en-japon
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/10-juicio-contra-harvey-weinstein-por-agresion-sexual-comienza-en-los-angeles
+    featured{array} /content/202210/11-tormenta-julia-ya-disipada-deja-al-menos-26-muertos-en-centroamerica
 }
 other{kmkv} {
     name Other (Internal)
