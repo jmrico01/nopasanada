@@ -1,0 +1,51 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El lanzamiento de un cohete japon&eacute;s que transportaba varios sat&eacute;lites fracas&oacute; este mi&eacute;rcoles y la nave tuvo que ser destruida tras el despegue, inform&oacute; la Agencia Japonesa de Exploraci&oacute;n Aeroespacial (Jaxa), que sufri&oacute; un duro rev&eacute;s para su programa espacial.&nbsp;</li>
+<li>Este es el primer lanzamiento fallido desde 2003 y el primer fracaso para el cohete Epsilon, que utiliza combustible s&oacute;lido y que ha estado operativo desde 2013. Desde entonces, ha tenido cinco lanzamientos exitosos.</li>
+<li>Jaxa interrumpi&oacute; bruscamente la retransmisi&oacute;n del lanzamiento en directo de Epsilon-6 desde el Centro Espacial de la regi&oacute;n sure&ntilde;a de Kagoshima.</li>
+<li>La orden para la autodestruccci&oacute;n fue enviada al cohete diez minutos despu&eacute;s del despegue debido a "anomal&iacute;as en el posicionamiento", declar&oacute; Yasuhiro Funo, director de este proyecto espacial.&nbsp;</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>En una conferencia de prensa, Funo explic&oacute; que se detect&oacute; un problema t&eacute;cnico antes de la tercera y la &uacute;ltima etapa del lanzamiento, justo en el momento en el que iba a encenderse el &uacute;ltimo propulsor.&nbsp;</li>
+<li>"Activamos al orden de autodestrucci&oacute;n del cohete, ya que si no podemos colocarlo en la &oacute;rbita prevista, no sabemos hacia d&oacute;nde va", explic&oacute;.&nbsp;</li>
+<li>Tras el fracaso de la misi&oacute;n, cayeron trozos del cohete en el mar, al este de Filipinas.&nbsp;</li>
+<li>El cohete iba a poner en &oacute;rbita varios sat&eacute;lites, y est&aacute; dise&ntilde;ado para un lanzamiento en tres etapas.</li>
+<li>El presidente de Jaxa, Hiroshi Yamakawa, present&oacute; sus disculpas por el fracaso y declar&oacute; que la agencia estaba "muy apenada por no haber podido cumplir con las expectativas de la poblaci&oacute;n japonesa".</li>
+</ul>
+}
+title Ordenan destruir cohete espacial japonés tras lanzamiento fallido
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202210/headers/12-ordenan-destruir-cohete-espacial-japones-tras-lanzamiento-fallido.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El lanzamiento de un cohete japonés que transportaba varios satélites fracasó este miércoles y la nave tuvo que ser destruida tras el despegue, informó la Agencia Japonesa de Exploración Aeroespacial (Jaxa), que sufrió un duro revés para su programa espacial.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Japón<b>
+    text1 Ordenan destruir cohete espacial japonés tras lanzamiento fallido
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

@@ -16,11 +16,11 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202210/7-cientificos-australianos-quieren-cultivar-plantas-en-la-luna-en-2025
+        featured{array} /content/202210/12-bebe-recibe-el-primer-trasplante-mundial-de-intestino
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202210/11-tormenta-julia-ya-disipada-deja-al-menos-26-muertos-en-centroamerica
+        featured{array} /content/202210/12-pese-a-fenomenos-extremos-el-calentamiento-es-tabu-en-zonas-mineras-de-eeuu
     }
     saludmental{kmkv} {
         name Salud mental
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202210/11-irak-celebrara-sesion-parlamentaria-el-jueves-para-elegir-presidente
+        featured{array} /content/202210/12-pese-a-fenomenos-extremos-el-calentamiento-es-tabu-en-zonas-mineras-de-eeuu
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202210/11-sospechoso-de-asesinato-de-maddie-mccann-acusado-de-cinco-nuevos-cargos-sexuales
+    featured{array} /content/202210/12-la-impresion-de-armas-3d-de-fantasia-a-amenaza-potencial
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202210/3-un-video-inedito-de-los-beatles-sale-a-la-luz-en-japon
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/11-tormenta-julia-ya-disipada-deja-al-menos-26-muertos-en-centroamerica
+    featured{array} /content/202210/12-ordenan-destruir-cohete-espacial-japones-tras-lanzamiento-fallido
 }
 other{kmkv} {
     name Other (Internal)
