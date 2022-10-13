@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>La NASA dijo el mi&eacute;rcoles que intentar&aacute; lanzar nuevamente su megacohete hacia la Luna el 14 de noviembre, con fechas alternativas esa misma semana.</li>
+<li>La misi&oacute;n no tripulada Artemis 1 se posterg&oacute; debido a problemas t&eacute;cnicos, incluidas fugas de gas, y luego por el hurac&aacute;n Ian que azot&oacute; Florida, desde donde debe despegar el cohete.</li>
+<li>"Las inspecciones y los an&aacute;lisis de la semana pasada confirmaron que se requiere un trabajo m&iacute;nimo para preparar al cohete y a la nave espacial para su lanzamiento desde la plataforma 39B en el Centro Espacial Kennedy", escribi&oacute; la agencia espacial estadounidense en una publicaci&oacute;n de su blog.&nbsp;</li>
+<li>La nueva ventana de lanzamiento, con una duraci&oacute;n de 69 minutos, se abrir&aacute; el 14 de noviembre a las 00H07 locales (04H07 GMT), con fechas de respaldo el 16 de noviembre a las 01H04, y el 19 de noviembre a las 01H45 locales.</li>
+<li>Cincuenta a&ntilde;os despu&eacute;s de la &uacute;ltima misi&oacute;n del programa Apolo, Artemis es el nuevo programa insignia de la NASA.&nbsp;</li>
+<li>La misi&oacute;n Artemis 1 busca garantizar que la c&aacute;psula de Orion, en la parte superior del cohete, sea segura para transportar humanos a la Luna en el futuro.</li>
+</ul>
+}
+title NASA intentará lanzar el Artemis I el 14 de noviembre
+day 13
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202210/headers/13-nasa-intentara-lanzar-el-artemis-l-el-14-de-noviembre.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description La NASA dijo que intentará lanzar nuevamente su megacohete hacia la Luna el 14 de noviembre, con fechas alternativas esa misma semana
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>EEUU<b>
+    text1 NASA intentará lanzar el Artemis I el 14 de noviembre
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

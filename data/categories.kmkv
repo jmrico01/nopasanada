@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202210/12-bebe-recibe-el-primer-trasplante-mundial-de-intestino
+        featured{array} /content/202210/13-implantan-celulas-del-cerebro-humano-en-ratas-para-estudiar-desordenes-psiquiatricos
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -61,10 +61,10 @@ noticias{kmkv} {
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202210/12-pese-a-fenomenos-extremos-el-calentamiento-es-tabu-en-zonas-mineras-de-eeuu
+        featured{array} /content/202210/13-investigacion-de-presunto-sabotaje-de-gasoductos-se-complica
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202210/12-la-impresion-de-armas-3d-de-fantasia-a-amenaza-potencial
+    featured{array} /content/202210/13-implantan-celulas-del-cerebro-humano-en-ratas-para-estudiar-desordenes-psiquiatricos
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202210/3-un-video-inedito-de-los-beatles-sale-a-la-luz-en-japon
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/12-ordenan-destruir-cohete-espacial-japones-tras-lanzamiento-fallido
+    featured{array} /content/202210/13-neuronas-de-laboratorio-aprendieron-a-jugar-un-videojuego
 }
 other{kmkv} {
     name Other (Internal)
