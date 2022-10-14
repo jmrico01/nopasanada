@@ -1,0 +1,37 @@
+text {
+<p style="text-align: center;">$youtube/CBp78xYNWVs$<br /><br />El legendario productor Rick Rubin apareci&oacute; en la experiencia de Joe Rogan donde habl&oacute; sobre el s&eacute;ptimo &aacute;lbum de The Strokes y c&oacute;mo lo grabaron en Costa Rica.</p>
+<p style="text-align: left;">"Hace unos meses estaba en Costa Rica, grabando un nuevo &aacute;lbum con The Strokes, y alquilamos esta casa en la cima de una monta&ntilde;a y montamos la banda afuera.</p>
+<p style="text-align: left;">&ldquo;As&iacute; que est&aacute;n tocando&hellip; Es como si estuvieran dando un concierto para el oc&eacute;ano, en la cima de una monta&ntilde;a. Fue incre&iacute;ble. E hicimos eso todos los d&iacute;as, jugando al aire libre, y no quer&iacute;an irse. Fue, como, la mejor experiencia&rdquo;.</p>
+}
+title The Strokes graban su último disco en una montaña costarricense
+day 14
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202210/headers/strokes-costa-rica.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El legendario productor Rick Rubin apareció en la experiencia de Joe Rogan donde habló sobre el séptimo álbum de The Strokes y cómo lo grabaron en Costa Rica.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>The Strokes graban su último disco en una montaña costarricense<b>
+    text1 "Es como si estuvieran dando un concierto para el océano"
+    text2 Por NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
