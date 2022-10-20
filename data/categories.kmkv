@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202210/18-budabot-para-llegar-a-la-iluminacion-con-la-ia
+        featured{array} /content/202210/20-telescopio-james-webb-capturo-los-iconicos-pilares-de-la-creacion
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202210/18-primera-ministra-britanica-liz-truss-lucha-por-mantenerse-en-el-cargo
+        featured{array} /content/202210/20-los-posibles-reemplazos-de-liz-truss
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202210/18-china-planea-apurar-incorporacion-de-taiwan
+        featured{array} /content/202210/20-primera-ministra-britanica-liz-truss-dimite-tras-seis-semanas-en-el-cargo
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202210/18-neymar-niega-irregularidades-en-juicio-por-traspaso-al-barcelona
+    featured{array} /content/202210/20-telescopio-james-webb-capturo-los-iconicos-pilares-de-la-creacion
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202210/17-kanye-west-quiere-comprar-parler
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/18-budabot-para-llegar-a-la-iluminacion-con-la-ia
+    featured{array} /content/202210/20-primera-ministra-britanica-liz-truss-dimite-tras-seis-semanas-en-el-cargo
 }
 other{kmkv} {
     name Other (Internal)
