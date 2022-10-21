@@ -1,0 +1,53 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Las emisiones de CO2 de combustibles f&oacute;siles, que causan el efecto invernadero, crecer&aacute;n apenas un 1% este a&ntilde;o, asegur&oacute; este mi&eacute;rcoles la Agencia Internacional de la Energ&iacute;a (AIE).</li>
+<li>La AIE considera que esas emisiones de CO2 representar&aacute;n 33.800 millones de toneladas en 2022, poco m&aacute;s de 300 millones de toneladas m&aacute;s que en 2021.</li>
+<li>Ese incremento es netamente inferior al aumento de m&aacute;s de 2.000 millones de toneladas que el mundo experiment&oacute; el a&ntilde;o pasado, cuando la econom&iacute;a se reactiv&oacute; tras el par&oacute;n de la pandemia, explic&oacute; la agencia.</li>
+<li>Las emisiones causadas por el carb&oacute;n aumentar&aacute;n este a&ntilde;o a causa de la guerra en Ucrania, que provoc&oacute; un alza de precios del crudo y el gas natural.</li>
+<li>Pero esas emisiones ser&aacute;n equilibradas por el mayor uso de las fuentes de energ&iacute;a renovables.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Las emisiones causadas por el carb&oacute;n registrar&aacute;n un incremento del 2% este a&ntilde;o (200 millones de toneladas de CO2).</li>
+<li>Seg&uacute;n los cient&iacute;ficos clim&aacute;ticos, el mundo debe recortar a la mitad sus emisiones de CO2 de aqu&iacute; a 2030 para mantener viva la esperanza de controlar el aumento de la temperatura del planeta a un m&aacute;ximo de 1,5&ordm;C.</li>
+<li>Aproximadamente un mill&oacute;n de toneladas de CO2 no fueron enviadas a la atm&oacute;sfera gracias a esas tecnolog&iacute;as limpias.</li>
+<li>"Esto significa que las emisiones de CO2 est&aacute;n creciendo mucho menos r&aacute;pidamente este a&ntilde;o de lo que se tem&iacute;a - y que las pol&iacute;ticas gubernamentales est&aacute;n provocando cambios estructurales reales", explic&oacute; el director ejecutivo de la AIE, Fatih Birol.</li>
+<li>La producci&oacute;n de energ&iacute;a de origen solar y e&oacute;lica creci&oacute; m&aacute;s de 700 teravatios en 2022, una cifra r&eacute;cord, seg&uacute;n la AIE.</li>
+<li>El mayor emisor de CO2, China, se mantendr&aacute; en los mismos niveles en 2022, explic&oacute; la AIE.</li>
+</ul>
+}
+title Las emisiones de CO2 de combustibles fósiles aumentaron poco en 2022
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202210/headers/21-las-emisiones-de-co2-de-combustibles-fosiles-aumentaron-poco-en-2022.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Las emisiones de CO2 de combustibles fósiles, que causan el efecto invernadero, crecerán apenas un 1% este año, aseguró este miércoles la Agencia Internacional de la Energía (AIE).
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ambiente<b>
+    text1 Las emisiones de CO2 de combustibles fósiles aumentaron poco en 2022
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,mas-ambiente
+videoID 
+titlePoster 
+color #FBFF09

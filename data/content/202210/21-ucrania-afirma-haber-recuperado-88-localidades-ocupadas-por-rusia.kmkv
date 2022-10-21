@@ -1,0 +1,45 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Ucrania afirm&oacute; este viernes que recuper&oacute; 88 localidades en la regi&oacute;n de Jers&oacute;n, en el sur del pa&iacute;s, cuando la administraci&oacute;n de ocupaci&oacute;n prorrusa est&aacute; evacuando a miles de civiles a ra&iacute;z de esta contraofensiva.</li>
+<li>"Regi&oacute;n de Jers&oacute;n: 88 localidades recuperadas", indic&oacute; en Telegram un consejero de la presidencia ucraniana, Kirilo Timoshenko. Un anterior balance, el 13 de octubre, informaba de 75 ciudades y pueblos recuperados por Ucrania.</li>
+<li>No est&aacute; claro cu&aacute;ndo fueron exactamente recuperadas estas localidades.</li>
+<li>Las autoridades rusas prometieron transformar la ciudad principal de la regi&oacute;n, tambi&eacute;n llamada Jers&oacute;n, en una "fortaleza" a trav&eacute;s de la construcci&oacute;n de defensas.</li>
+<li>La administraci&oacute;n de ocupaci&oacute;n rusa dijo el jueves que unas 15.000 personas fueron evacuadas de la regi&oacute;n de Jers&oacute;n que Rusia asegur&oacute; haber anexado.</li>
+</ul>
+}
+title Ucrania afirma haber recuperado 88 localidades ocupadas por Rusia
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202210/headers/21-ucrania-afirma-haber-recuperado-88-localidades-ocupadas-por-rusia.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    victor /images/202210/6-diputados-uruguayos-aprueban-proyecto-para-legalizar-la-eutanasia/victor.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Ucrania afirmó este viernes que recuperó 88 localidades en la región de Jersón, en el sur del país, cuando la administración de ocupación prorrusa está evacuando a miles de civiles a raíz de esta contraofensiva.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Epidemia de viruela del mono retrocede pero no desapareciózz
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
