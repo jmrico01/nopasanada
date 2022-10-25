@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202210/21-los-detenidos-en-iran-amenazados-de-tortura-y-muerte-segun-ongs
+        featured{array} /content/202210/25-primera-ministra-meloni-niega-simpatia-con-el-fascismo
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202210/21-ucrania-afirma-haber-recuperado-88-localidades-ocupadas-por-rusia
+        featured{array} /content/202210/24-rishi-sunak-nuevo-primer-ministro-britanico
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202210/21-epidemia-de-viruela-del-mono-retrocede-pero-no-desaparecio
+    featured{array} /content/202210/25-adidas-rompe-con-kanye-west-tras-sus-comentarios-antisemitas
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202210/17-kanye-west-quiere-comprar-parler
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/20-telescopio-james-webb-capturo-los-iconicos-pilares-de-la-creacion
+    featured{array} /content/202210/25-whatsapp-se-restablece-tras-apagon-global
 }
 other{kmkv} {
     name Other (Internal)
@@ -116,7 +116,7 @@ ludi{kmkv} {
     }
     futbol{kmkv} {
         name Fútbol
-        featured{array} /content/202210/18-neymar-niega-irregularidades-en-juicio-por-traspaso-al-barcelona
+        featured{array} /content/202210/25-catar-denuncia-campana-de-criticas-sin-precedentes-por-mundial-de-futbol
     }
     displayOrder{array} 
     featured{array} /content/202209/23-15-jugadoras-renunciaron-a-la-aseleccion-de-futbol-de-espana
