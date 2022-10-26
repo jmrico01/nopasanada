@@ -20,7 +20,7 @@ mas{kmkv} {
     }
     ambiente{kmkv} {
         name Medio ambiente
-        featured{array} /content/202210/21-las-emisiones-de-co2-de-combustibles-fosiles-aumentaron-poco-en-2022
+        featured{array} /content/202210/26-onu-advierte-que-compromisos-climaticos-estan-muy-lejos-de-limitar-el-calentamiento-global
     }
     saludmental{kmkv} {
         name Salud mental
@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202210/25-primera-ministra-meloni-niega-simpatia-con-el-fascismo
+        featured{array} /content/202210/25-alemania-allana-el-camino-de-legalizacion-del-cannabis-para-uso-recreativo
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202210/24-rishi-sunak-nuevo-primer-ministro-britanico
+        featured{array} /content/202210/26-onu-advierte-que-compromisos-climaticos-estan-muy-lejos-de-limitar-el-calentamiento-global
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202210/25-adidas-rompe-con-kanye-west-tras-sus-comentarios-antisemitas
+    featured{array} /content/202210/25-ninos-gamers-muestran-mejor-rendimiento-cognitivo-segun-estudio
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202210/17-kanye-west-quiere-comprar-parler
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/25-whatsapp-se-restablece-tras-apagon-global
+    featured{array} /content/202210/25-estudio-revela-que-mas-de-50-animales-mudos-comunican-vocalmente
 }
 other{kmkv} {
     name Other (Internal)
