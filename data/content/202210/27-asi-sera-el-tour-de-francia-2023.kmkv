@@ -1,0 +1,64 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>El Tour de Francia 2023, cuyo recorrido fue desvelado este jueves en Par&iacute;s, visitar&aacute; del 1 al 23 de julio los cinco macizos monta&ntilde;osos del pa&iacute;s galo, y presenta una distancia total de 3.404 kil&oacute;metros.</li>
+</ul>
+<p>Estas ser&aacute;n las etapas del Tour de Francia 2023:</p>
+<p><strong>1 de julio:</strong> 1&ordf; etapa Bilbao (Espa&ntilde;a) - Bilbao, 182 km</p>
+<p><strong>2 de julio:</strong> 2&ordf; etapa Vitoria-Gasteiz (Espa&ntilde;a) - San Sebasti&aacute;n (Espa&ntilde;a), 209 km</p>
+<p><strong>3 de julio:</strong> 3&ordf; etapa Amorebieta-Etxano (Espagne) - Bayonne, 185 km</p>
+<p><strong>4 de julio:</strong> 4&ordf; etapa Dax - Nogaro, 182 km</p>
+<p><strong>5 de julio:</strong> 5&ordf; etapa Pau - Laruns, 165 km</p>
+<p><strong>6 de julio:</strong> 6&ordf; etapa Tarbes - Cauterets-Cambasque, 145 km</p>
+<p><strong>7 de julio:</strong> 7&ordf; etapa Mont-de-Marsan - Burdeos, 170 km</p>
+<p><strong>8 de julio:</strong> 8&ordf; etapa Libourne - Limoges, 201 km</p>
+<p><strong>9 de julio:</strong> 9&ordf; etapa Saint-L&eacute;onard-de-Noblat - Puy de D&ocirc;me, 184 km</p>
+<p><strong>10 de julio:</strong> descanso en Clermont-Ferrand</p>
+<p><strong>11 de julio:</strong> 10&ordf; etapa Vulcania - Issoire, 167 km</p>
+<p><strong>12 de julio:</strong> 11&ordf; etapa Clermont-Ferrand - Moulins, 180 km</p>
+<p><strong>13 de julio:</strong> 12&ordf; etapa Roanne - Belleville-en-Beaujolais, 169 km</p>
+<p><strong>14 de julio:</strong> 13&ordf; etapa Ch&acirc;tillon-sur-Chalaronne - Grand Colombier, 138 km</p>
+<p><strong>15 de julio:</strong> 14&ordf; etapa Annemasse - Morzine Les Portes du Soleil, 152 km</p>
+<p><strong>16 de julio:</strong> 15&ordf; etapa Les Gets Les Portes du Soleil - Saint-Gervais Mont-Blanc, 180 km</p>
+<p><strong>17 de julio:</strong> descanso en Saint-Gervais Mont-Blanc</p>
+<p><strong>18 de julio:</strong> 16&ordf; etapa Passy - Combloux (contrarreloj individual), 22 km</p>
+<p><strong>19 de julio:</strong> 17&ordf; etapa Saint-Gervais Mont-Blanc - Courchevel, 166 km</p>
+<p><strong>20 de julio:</strong> 18&ordf; etapa Mo&ucirc;tiers - Bourg-en-Bresse, 186 km</p>
+<p><strong>21 de julio:</strong> 19&ordf; etapa Moirans-en-Montagne - Poligny, 173 km</p>
+<p><strong>22 de julio:</strong> 20&ordf; etapa Belfort - Le Markstein, 133 km</p>
+<p><strong>23 de julio:</strong> 21&ordf; etapa Saint-Quentin-en-Yvelines - Par&iacute;s Campos El&iacute;seos, 115 km</p>
+}
+title Así será el Tour de Francia 2023
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202210/headers/27-asi-sera-el-tour-de-francia-2023.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description El Tour de Francia 2023, cuyo recorrido fue desvelado este jueves en París, visitará del 1 al 23 de julio los cinco macizos montañosos del país galo, y presenta una distancia total de 3.404 kilómetros.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>Tour de Francia 2023<b>
+    text1 Así será el Tour de Francia 2023
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,ludi
+videoID 
+titlePoster 
+color #FBFF09

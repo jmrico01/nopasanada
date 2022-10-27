@@ -57,14 +57,14 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202210/25-alemania-allana-el-camino-de-legalizacion-del-cannabis-para-uso-recreativo
+        featured{array} /content/202210/27-matrimonio-igualitario-ya-es-legal-en-todo-mexico
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202210/26-onu-advierte-que-compromisos-climaticos-estan-muy-lejos-de-limitar-el-calentamiento-global
+        featured{array} /content/202210/27-la-invasion-de-ucrania-podria-haber-acelerado-la-transicion-energetica-del-planeta
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202210/25-ninos-gamers-muestran-mejor-rendimiento-cognitivo-segun-estudio
+    featured{array} /content/202210/27-asi-sera-el-tour-de-francia-2023
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202210/17-kanye-west-quiere-comprar-parler
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/25-estudio-revela-que-mas-de-50-animales-mudos-comunican-vocalmente
+    featured{array} /content/202210/27-musk-dice-comprar-twitter-para-permitir-debates-saludables-en-internet
 }
 other{kmkv} {
     name Other (Internal)
@@ -119,5 +119,5 @@ ludi{kmkv} {
         featured{array} /content/202210/25-catar-denuncia-campana-de-criticas-sin-precedentes-por-mundial-de-futbol
     }
     displayOrder{array} 
-    featured{array} /content/202209/23-15-jugadoras-renunciaron-a-la-aseleccion-de-futbol-de-espana
+    featured{array} /content/202210/27-asi-sera-el-tour-de-francia-2023
 }
