@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202210/21-epidemia-de-viruela-del-mono-retrocede-pero-no-desaparecio
+        featured{array} /content/202210/28-nasa-escucha-en-vivo-impacto-de-meteorito-en-marte
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -64,7 +64,7 @@ noticias{kmkv} {
         featured{array} /content/202210/28-fiscalia-de-ecuador-allana-despacho-de-ministro-por-presunta-corrupcion
     }
     displayOrder{array} loimportante, video, culturales, politica
-    featured{array} /content/202210/27-asi-sera-el-tour-de-francia-2023
+    featured{array} /content/202210/28-nasa-escucha-en-vivo-impacto-de-meteorito-en-marte
     culturales{kmkv} {
         name Culturales
         featured{array} /content/202210/17-kanye-west-quiere-comprar-parler

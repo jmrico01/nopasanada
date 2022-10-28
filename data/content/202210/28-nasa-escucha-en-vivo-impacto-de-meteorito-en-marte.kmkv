@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>Una grata sorpresa se llevaron los cient&iacute;ficos de la NASA que estudian Marte al percibir el impacto de un meteorito sobre el planeta rojo.</li>
+<li>El fen&oacute;meno se registr&oacute; el 24 de diciembre de 2021, cuando el impacto provoc&oacute; sacudidas de magnitud 4 en la superficie marciana.</li>
+<li>Estas fueron detectadas gracias a la sonda Insight y su sism&oacute;metro, que aterriz&oacute; en Marte hace casi cuatro a&ntilde;os, a unos 3.500 kil&oacute;metros del lugar del impacto.</li>
+<li>Pero el origen de este temblor marciano solo fue confirmado cuando la nave llamada Mars Reconnaissance Orbiter (MRO), en &oacute;rbita alrededor del planeta, tom&oacute; im&aacute;genes del cr&aacute;ter reci&eacute;n formado, menos de 24 horas despu&eacute;s.</li>
+<li>La impresionante imagen muestra bloques de hielo que fueron proyectados en la superficie y un cr&aacute;ter de unos 150 metros de di&aacute;metro y 20 de profundidad, el m&aacute;s grande observado desde la puesta en servicio del orbitador MRO, hace 16 a&ntilde;os.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Incluso cuando los impactos de meteoritos no son raros en Marte "jam&aacute;s hubi&eacute;ramos pensado presenciar algo tan grande", dijo el jueves en rueda de prensa Ingrid Daubar, del equipos de misiones de la sonda Insight y del MRO.</li>
+<li>Los investigadores estiman que el meteorito deb&iacute;a tener unos 12 metros, con lo que en la Tierra se habr&iacute;a desintegrado en la atm&oacute;sfera.</li>
+<li>"Es simplemente el impacto en la superficie m&aacute;s grande de meteorito que haya sido escuchado desde que la ciencia cuenta con sism&oacute;grafos o sism&oacute;metros", explic&oacute; a la AFP Philippe Lognonn&eacute;, profesor en planetolog&iacute;a que particip&oacute; en dos estudios producto de estas observaciones y que fueron publicados el jueves en la revista Science.</li>
+<li>La NASA tambi&eacute;n difundi&oacute; la grabaci&oacute;n de audio del sismo, obtenida acelerando las vibraciones recogidas por el sism&oacute;metro para hacerlas audibles.</li>
+<li>La presencia de hielo, en especial, fue calificada de "sorprendente" por Daubar. "Es el punto m&aacute;s caliente de Marte, el m&aacute;s pr&oacute;ximo al ecuador, donde se ha visto hielo alguna vez".</li>
+<li>Adem&aacute;s es de inter&eacute;s cient&iacute;fico para el estudio del clima marciano pues la presencia de hielo en estas latitudes podr&iacute;a ser "muy &uacute;til" para futuros exploradores, dijo Lori Glaze, directora de ciencias planetarias en la NASA.</li>
+<li>Las informaciones recolectadas deben permitir afinar el conocimiento del interior de Marte y la historia de su formaci&oacute;n.</li>
+<li>La sonda Insight ha detectado m&aacute;s de 1.300 temblores en Marte, algunos causados por meteoritos m&aacute;s peque&ntilde;os.</li>
+</ul>
+}
+title NASA escucha en vivo impacto de meteorito en Marte
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202210/headers/28-nasa-escucha-en-vivo-impacto-de-meteorito-en-marte.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Una grata sorpresa se llevaron los científicos de la NASA que estudian Marte al percibir el impacto de un meteorito sobre el planeta rojo.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>NASA<b>
+    text1 NASA escucha en vivo impacto de meteorito en Marte
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
