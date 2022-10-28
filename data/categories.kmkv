@@ -57,11 +57,11 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202210/27-matrimonio-igualitario-ya-es-legal-en-todo-mexico
+        featured{array} /content/202210/28-marido-de-nancy-pelosi-atacado-violentamente-en-su-casa
     }
     loimportante{kmkv} {
         name Lo Importante
-        featured{array} /content/202210/27-la-invasion-de-ucrania-podria-haber-acelerado-la-transicion-energetica-del-planeta
+        featured{array} /content/202210/28-fiscalia-de-ecuador-allana-despacho-de-ministro-por-presunta-corrupcion
     }
     displayOrder{array} loimportante, video, culturales, politica
     featured{array} /content/202210/27-asi-sera-el-tour-de-francia-2023
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/27-musk-dice-comprar-twitter-para-permitir-debates-saludables-en-internet
+    featured{array} /content/202210/28-todos-los-ojos-puestos-en-twitter-al-iniciarse-la-era-de-musk
 }
 other{kmkv} {
     name Other (Internal)
