@@ -1,0 +1,62 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><strong>&iquest;Qu&eacute; necesit&aacute;s saber?</strong></p>
+<ul>
+<li>China lanz&oacute; con &eacute;xito este lunes el &uacute;ltimo m&oacute;dulo de su estaci&oacute;n espacial en construcci&oacute;n Tiangong, que debe permitir que la estructura est&eacute; completamente operativa, como parte de su ambicioso programa en el espacio.</li>
+<li>El deseo de China de construir su propia estaci&oacute;n espacial se nutri&oacute; en parte del rechazo de Estados Unidos a aceptar a chinos en el programa de la Estaci&oacute;n espacial internacional (ISS), una iniciativa conjunta entre Estados Unidos, Rusia, Canad&aacute;, Europa y Jap&oacute;n.</li>
+<li>El m&oacute;dulo llamado Mengtian ("sue&ntilde;o de los cielos") fue lanzado a las 15H27 (07H27 GMT) por un cohete LM 5B desde la isla tropical de Hainan (sur), seg&uacute;n la televisi&oacute;n p&uacute;blica CCTV.</li>
+<li>"El m&oacute;dulo experimental Mengtian ha entrado con precisi&oacute;n en la &oacute;rbita predefinida", indic&oacute; unos minutos m&aacute;s tarde a la televisi&oacute;n un responsable de la misi&oacute;n, Deng Hongqin.</li>
+<li>"Declaro que este lanzamiento es un &eacute;xito absoluto", dijo Deng, rodeado de sus compa&ntilde;eros entusiastas en la sala de control.</li>
+<li>Mengtian es el tercer y &uacute;ltimo elemento importante de la estaci&oacute;n espacial Tiangong en forma de T.</li>
+</ul>
+<p><strong>&iquest;Por qu&eacute; nos importa?</strong></p>
+<ul>
+<li>Tiangong ("Palacio celeste"), de tama&ntilde;o similar a la antigua estaci&oacute;n ruso-sovi&eacute;tica Mir, deber&iacute;a tener una vida &uacute;til de al menos 10 a&ntilde;os.</li>
+<li>Tambi&eacute;n debe permitir que China mantenga una presencia humana a largo plazo en el espacio.</li>
+<li>Su montaje ha necesitado un total de once misiones. La &uacute;ltima este lunes permiti&oacute; el traslado de equipos cient&iacute;ficos de &uacute;ltima generaci&oacute;n.</li>
+<li>"El primer reloj at&oacute;mico fr&iacute;o" tambi&eacute;n fue enviado al espacio, celebr&oacute; la agencia oficial de noticias Xinhua.</li>
+<li>El dispositivo permitir&aacute; a largo plazo tener una medici&oacute;n del tiempo m&aacute;s precisa.</li>
+</ul>
+<p><strong>En Profundidad</strong></p>
+<p>Desde junio, tres astronautas, entre ellos una mujer, est&aacute;n en la estaci&oacute;n espacial china, para una misi&oacute;n de unos seis meses.</p>
+<p>Aunque China no prev&eacute; una cooperaci&oacute;n internacional para su estaci&oacute;n, Pek&iacute;n asegur&oacute; que est&aacute;n abiertos a una colaboraci&oacute;n extranjera.</p>
+<p>El gigante asi&aacute;tico invierte desde hace varias d&eacute;cadas miles de millones de d&oacute;lares en su programa espacial, lo que le ha permitido recuperar mayor parte de su retraso con respecto a los estadounidenses y a los rusos.</p>
+<p>China envi&oacute; a su primer astronauta al espacio en 2003.</p>
+<p>En 2019 coloc&oacute; un dispositivo en la cara oculta de la Luna, algo in&eacute;dito.</p>
+<p>En 2020, el pa&iacute;s trajo muestras de la Luna y termin&oacute; Beidou, su sistema de navegaci&oacute;n por sat&eacute;lite - rival del GPS estadounidense.</p>
+<p>El a&ntilde;o siguiente consigui&oacute; aterrizar un peque&ntilde;o robot en Marte.</p>
+<p>China prev&eacute; enviar hombres a la Luna de aqu&iacute; a 2030.</p>
+}
+title China lanza el último módulo de su estación espacial
+day 31
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202210/headers/31-china-lanza-el-ultimo-modulo-de-su-estacion-espacial.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description China lanzó con éxito este lunes el último módulo de su estación espacial en construcción Tiangong, que debe permitir que la estructura esté completamente operativa, como parte de su ambicioso programa en el espacio.
+year 2022
+author AFP | NPN Noticias
+featured{kmkv} {
+    title <b>China<b>
+    text1 China lanza el último módulo de su estación espacial
+    text2 Por AFP Y NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 10
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09

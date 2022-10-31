@@ -16,7 +16,7 @@ mas{kmkv} {
     }
     saludyciencia{kmkv} {
         name Salud y ciencia
-        featured{array} /content/202210/28-nasa-escucha-en-vivo-impacto-de-meteorito-en-marte
+        featured{array} /content/202210/31-china-lanza-el-ultimo-modulo-de-su-estacion-espacial
     }
     ambiente{kmkv} {
         name Medio ambiente
@@ -57,7 +57,7 @@ noticias{kmkv} {
     name Noticias
     politica{kmkv} {
         name Política
-        featured{array} /content/202210/28-marido-de-nancy-pelosi-atacado-violentamente-en-su-casa
+        featured{array} /content/202210/31-lula-enfrenta-un-mandato-complicado-cuales-son-sus-retos
     }
     loimportante{kmkv} {
         name Lo Importante
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202210/28-todos-los-ojos-puestos-en-twitter-al-iniciarse-la-era-de-musk
+    featured{array} /content/202210/31-activistas-ecologistas-pintan-de-naranja-edificios-emblematicos-de-londres
 }
 other{kmkv} {
     name Other (Internal)
