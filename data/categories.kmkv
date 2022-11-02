@@ -39,7 +39,7 @@ guida{kmkv} {
         featured{array} /content/202007/la-guida-servicio-expres
     }
     displayOrder{array} comida, bebidas, recomendado
-    featured{array} /content/202009/1-estudiantes-bielorrusos-marchan-contra-lukashenko
+    featured{array} /content/202009/1-trump-viaja-a-kenosha-foco-de-protestas-antirracistas
     bebidas{kmkv} {
         name Bebidas
         featured{array} /content/202008/laguida-cafe-guia
