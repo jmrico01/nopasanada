@@ -67,7 +67,7 @@ noticias{kmkv} {
     featured{array} /content/202210/28-nasa-escucha-en-vivo-impacto-de-meteorito-en-marte
     culturales{kmkv} {
         name Culturales
-        featured{array} /content/202210/17-kanye-west-quiere-comprar-parler
+        featured{array} /content/202211/18-taylor-swift
     }
     video{kmkv} {
         name Video
@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202211/2-la-nueva-era-del-twitter-de-elon-musk
+    featured{array} /content/202211/21-ucrania-bombardeo-central
 }
 other{kmkv} {
     name Other (Internal)

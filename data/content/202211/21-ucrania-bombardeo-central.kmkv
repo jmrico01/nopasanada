@@ -1,0 +1,48 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p>A s&oacute;lo 500 km del lugar donde se produjo la cat&aacute;strofe de Chornobyl, la guerra en Ucrania ha vuelto a levantar las preocupaciones por un accidente nuclear de esa magnitud.</p>
+<p>El director del Organismo Internacional de la Energ&iacute;a At&oacute;mica dijo que la central de Zaporizhzhia, la m&aacute;s grande de Europa, sufri&oacute; el bombardeo m&aacute;s intenso de los &uacute;ltimos meses este fin de semana, luego de que se reportaron hasta m&aacute;s de una docena de explosiones en 40 minutos</p>
+<p><strong>- &iquest;Hubo da&ntilde;os? -</strong></p>
+<p>S&iacute;, m&iacute;nimos al menos.&nbsp;</p>
+<p>Se reportan da&ntilde;os en un edificio de almacenamiento y de residuos radiactivos, sistemas de rociadores del estanque de refrigeraci&oacute;n, en un puente entre otro reactor y sus edificios auxiliares, entre otros.</p>
+<p>Eso s&iacute;, el suministro de energ&iacute;a externa no se vio afectado y los niveles de radiaci&oacute;n en la planta se mantuvieron normales.</p>
+<p>El riesgo est&aacute; en el sobrecalentamiento del combustible nuclear, que podr&iacute;a ocurrir si se cortara la energ&iacute;a que impulsa los sistemas de refrigeraci&oacute;n.</p>
+<p>Y los bombardeos han cortado repetidamente las l&iacute;neas el&eacute;ctricas.</p>
+<p><strong>- &iquest;Qui&eacute;n bombarde&oacute; la central? -</strong></p>
+<p>Para sorpresa de nadie, Rusia y Ucrania se culparon mutuamente de haber bombardeado la central, pero no se ha podido verificar de manera independiente qui&eacute;n dice la verdad.</p>
+<p>Seg&uacute;n Rusia, Ucrania dispar&oacute; 11 proyectiles de gran calibre contra la planta el 19 de noviembre y 12 proyectiles de gran calibre entre las 9:15 y las 9:45 de la ma&ntilde;ana, hora local, del domingo, y luego dos m&aacute;s contra las l&iacute;neas el&eacute;ctricas.</p>
+<p>Mientras que la empresa ucraniana de energ&iacute;a nuclear Energoatom dijo que los militares rusos bombardearon la planta, al menos 12 veces el domingo.</p>
+}
+title Lo que sabemos del bombardeo a una central nuclear ucraniana
+day 21
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202211/headers/21-ucrania-bombardeo-central.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description A sólo 500 km del lugar donde se produjo la catástrofe de Chornobyl, la guerra en Ucrania ha vuelto a levantar las preocupaciones por un accidente nuclear de esa magnitud, luego de una serie de bombardeos contra la central de Zaporizhzhia.
+year 2022
+author Sergio Salazar
+featured{kmkv} {
+    title <b>Ucrania<b>
+    text1 Lo que sabemos del bombardeo a una central nuclear ucraniana
+    text2 NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 11
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
