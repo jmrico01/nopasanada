@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202211/21-ucrania-bombardeo-central
+    featured{array} /content/202212/12-artemis-l-nasa
 }
 other{kmkv} {
     name Other (Internal)

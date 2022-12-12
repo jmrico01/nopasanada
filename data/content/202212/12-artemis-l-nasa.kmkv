@@ -1,0 +1,56 @@
+text {
+<p style="text-align: left;">Foto: NASA.gov</p>
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p>Luego de m&aacute;s de 2,3 millones de kil&oacute;metros y 25 d&iacute;as, la C&aacute;psula Orion de la misi&oacute;n Artemis I de la NASA, est&aacute; de regreso en la Tierra.</p>
+<p>Esta c&aacute;psula amerizado en el Oc&eacute;ano Pac&iacute;fico, frente a la costa de Baja California y si bien todo apunta a que fue un &eacute;xito, se tienen que hacer m&aacute;s an&aacute;lisis para determinar si todos los sistemas sirvieron.</p>
+<p><strong>- Un viaje con baches -</strong></p>
+<p>Esta misi&oacute;n ha sido toda una odisea.&nbsp;</p>
+<p>La idea era lanzarla a finales de Agosto pero hubo varias fugas, luego a finales de septiembre se vino un hurac&aacute;n y estuvo m&aacute;s de 1 mes guardada mientras arreglaban todos los fallos.</p>
+<p>Una vez en el espacio, experiment&oacute; algunos contratiempos como las lecturas an&oacute;malas de los rastreadores estelares de navegaci&oacute;n de la c&aacute;psula y la p&eacute;rdida de comunicaci&oacute;n por un periodo.</p>
+<p><strong>- &iquest;Por qu&eacute; es importante? -</strong></p>
+<p>Primero, el cohete gener&oacute; 8,8 millones de libras de empuje en el despegue, lo que lo convierte en el lanzador m&aacute;s potente que jam&aacute;s haya volado con &eacute;xito.&nbsp;</p>
+<p>Segundo, el 26 de noviembre, la nave se alej&oacute; de la Tierra m&aacute;s que ninguna otra nave espacial dise&ntilde;ada para transportar seres humanos. Ori&oacute;n alcanz&oacute; una distancia m&aacute;xima r&eacute;cord de 432.210 km.</p>
+<p>Y tercero, logr&oacute; cumplir su objetivo principal: probar el escudo t&eacute;rmico.</p>
+<p>Durante su reingreso a la Tierra, este escudo soport&oacute; temperaturas de unos 2.800 grados Celsius, aproximadamente la mitad que la superficie del sol.</p>
+<p>Incluso, se prob&oacute; una "maniobra de salto" nunca antes intentada, que consisti&oacute; en que la c&aacute;psula rebotara en las capas superiores de aire como una roca que salta sobre la superficie de un estanque.</p>
+<p>Esto les permite aterrizar con mayor precisi&oacute;n durante la reentrada</p>
+<p><strong>- &iquest;Qu&eacute; significa para el futuro? -</strong></p>
+<p>Si los an&aacute;lisis posteriores al vuelo no revelan ning&uacute;n problema grave, la NASA podr&iacute;a empezar a prepararse para el primer vuelo tripulado del programa Artemis: Artemis 2, que tiene previsto lanzar astronautas alrededor de la Luna en 2024.</p>
+<p>Luego, entre el 2025 o 2026, la misi&oacute;n Artemis 3 pretende que un grupo de astronautas aterricen cerca del polo sur de la Luna.</p>
+<p>Y a partir de ah&iacute;, la idea es establecer un puesto de investigaci&oacute;n en la regi&oacute;n polar sur y una peque&ntilde;a estaci&oacute;n espacial en &oacute;rbita lunar llamada Gateway para apoyar las actividades de Artemis.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+}
+title Regresó la misión Artemis I a la Tierra
+day 12
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202212/headers/12-artemis-l-nasa.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+}
+description Luego de más de 2,3 millones de kilómetros y 25 días, finalizó la misión Artemis de la NASA ¿Qué significa para la humanidad?
+year 2022
+author Sergio Salazar
+featured{kmkv} {
+    title <b>Artemis I<b>
+    text1 Regresó la misión Artemis I a la Tierra
+    text2 NPN NOTICIAS
+    pretitle LO IMPORTANTE:
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante,mas-saludyciencia
+videoID 
+titlePoster 
+color #FBFF09
