@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202212/12-artemis-l-nasa
+    featured{array} /content/202212/13-sam-bankman-fried
 }
 other{kmkv} {
     name Other (Internal)
