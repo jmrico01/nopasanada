@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202212/13-sam-bankman-fried
+    featured{array} /content/202212/after-hours-nuevo-show
 }
 other{kmkv} {
     name Other (Internal)

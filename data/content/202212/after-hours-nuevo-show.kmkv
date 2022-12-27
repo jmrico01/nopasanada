@@ -1,0 +1,52 @@
+text {
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p><em><strong>NO PASA NADA estrena su nuevo show: After Hours. Un programa en el que se busca contar cuales son los mejores bares, cantinas y barras en restaurantes por medio de los bartenders que m&aacute;s destacan en estas.&nbsp;</strong></em></p>
+<p>$image/fun$</p>
+<p>El programa quiere contar qu&eacute; est&aacute; pasando hoy en la escena de la mixolog&iacute;a costarricense, ya que si bien en Costa Rica la escena gastron&oacute;mica ha crecido, mucho del enfoque en la escena ha sido solo en la comida, no en los tragos, que son una parte esencial de la escena gastron&oacute;mica de un pa&iacute;s.&nbsp;</p>
+<p>Lo cual hace que nos preguntemos: &ldquo;&iquest;D&oacute;nde quedaron los c&oacute;cteles? &iquest;Qui&eacute;n nos habla de los traguitos? &iquest;D&oacute;nde est&aacute; la mejor barra? &iquest;En qu&eacute; lugar me gustar&iacute;a tomar el &uacute;ltimo sarpe de la noche?&rdquo; Y es justamente gracias a esa pregunta que nace After Hours.&nbsp;</p>
+<p><br />El show original fue hecho posible gracias a una colaboraci&oacute;n con Johnny Walker y en su temporada piloto estrena con tres episodios. El concepto del programa es averiguar cuales son los mejores bares del pa&iacute;s preguntando a los mejores bartenders a d&oacute;nde van ellos. De esta manera no es NO PASA NADA diciendo que es bueno, pero en vez esa voz de autoridad le corresponde a los profesionales en la industria.&nbsp;</p>
+<p>As&iacute; mismo, destacamos no solo los lugares ad&oacute;nde vamos, sino a un mix&oacute;logo, bartender o cantinero por episodio, que son quien nos lleva a cada uno de estos lugares. Conociendo sus proyectos, propuestas y habilidades.&nbsp;</p>
+<p>$image/sun$</p>
+<p>La idea del programa es crear una gu&iacute;a para que las personas incursionen a probar cosas diferentes y salgan no solo a tomarse lo mismo de siempre, pero en vez preguntar por qu&eacute; han creado las creativas y h&aacute;biles mentes detr&aacute;s de la barra. Con la esperanza de que el programa pueda agregar valor a la industria y despertar un inter&eacute;s por la escena de la cocteler&iacute;a en Costa Rica.&nbsp;</p>
+<p>El primer episodio estrena ( fecha ) en el canal de youtube de no pasa nada: youtube.com/nopasanadaoficial&nbsp;</p>
+}
+title After Hours: Conozca los mejores bares por medio de los bartenders que más destacan en Costa Rica.
+day 27
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    sun /images/202212/after-hours-nuevo-show/sun.jpg
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202212/headers/after-hours-nuevo-show.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+    fun /images/202212/after-hours-nuevo-show/fun.jpg
+}
+description {
+En Costa Rica la escena gastronómica ha crecido de manera fantástica. Para el mundo de la gastronomía hay un sinnúmero de excelentes blogs, influencers y páginas dedicadas a encontrar donde ir a comer pero…. No solo de pan vive el hombre.
+
+La comida es solo una parte de lo que hace o deshace la gastronomía de un país. ¿Dónde quedaron los cócteles? ¿Quién nos habla de los traguitos? ¿Dónde está la mejor barra? ¿En qué lugar me gustaría tomar el último sarpe?
+}
+year 2022
+author Pietro Cercone
+featured{kmkv} {
+    title <b>AFTER HOURS<b>
+    text1 Conozca los mejores bares por medio de los bartenders que más destacan en Costa Rica.
+    text2 NPN
+    pretitle NUEVO SHOW
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 12
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
