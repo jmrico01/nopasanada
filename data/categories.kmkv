@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202212/after-hours-nuevo-show
+    featured{array} /content/202301/noticias-2022-afectan-2023
 }
 other{kmkv} {
     name Other (Internal)
