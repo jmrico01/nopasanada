@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202301/09-brasil-ataque
+    featured{array} /content/202301/aaron-swartz-suicidio-aniversario
 }
 other{kmkv} {
     name Other (Internal)
