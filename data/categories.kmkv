@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202301/caminar-nos-salva-la-vida
+    featured{array} /content/202301/16-mafioso-italia
 }
 other{kmkv} {
     name Other (Internal)
