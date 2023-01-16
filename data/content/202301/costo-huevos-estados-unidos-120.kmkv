@@ -1,0 +1,61 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p>Los precios de los huevos han subido m&aacute;s del 120 % en algunos lugares de EE. UU.</p>
+<p>$image/filler$</p>
+<p>Resulta que el huevo de oro es solo un huevo de gallina normal. Los precios de los huevos en los EE. UU. se han vuelto locos con huevos de cart&oacute;n que superan los cinco, seis e incluso siete d&oacute;lares. Con una tortilla en un restaurante normal que llega a los quince d&oacute;lares en algunos lugares.</p>
+<p>Los expertos apuntan a una combinaci&oacute;n de inflaci&oacute;n y la gripe aviar como los principales culpables.</p>
+<p>En 2020, tanto EE. UU. como Europa est&aacute;n experimentando el peor brote de gripe aviar de la historia. Solo en los EE. UU., la gripe ha matado a alrededor de 57,8 millones de pollos, en su mayor&iacute;a gallinas ponedoras. El r&eacute;cord anterior fue de 50,5 millones en 2015.</p>
+<p>Por supuesto, esto tambi&eacute;n ha afectado el precio del pollo.</p>
+<p>Esto sucede al mismo tiempo que los precios de los comestibles se mantienen obstinadamente altos (y casi el doble de la tasa de inflaci&oacute;n general) en un 11,8 % a&ntilde;o tras a&ntilde;o, seg&uacute;n datos publicados el jueves por la Oficina de Estad&iacute;sticas Laborales.</p>
+}
+title Los precios de los huevos han subido más del 120 % en algunos lugares de EE. UU.
+day 16
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    sun /images/202212/after-hours-nuevo-show/sun.jpg
+    pandemia /images/202301/noticias-2022-afectan-2023/pandemia.jpg
+    electrolit /images/202301/goma-nuevo/electrolit.jpg
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202301/headers/costo-huevos-estados-unidos-120.jpg
+    pot /images/202301/goma-nuevo/pot.jpg
+    polar /images/202301/noticias-2022-afectan-2023/polar.jpg
+    alien /images/202301/goma-nuevo/alien.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    inflacion /images/202301/noticias-2022-afectan-2023/inflacion.jpg
+    pill /images/202301/goma-nuevo/pill.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    egg /images/202301/goma-nuevo/egg.jpg
+    filler /images/202301/costo-huevos-estados-unidos-120/filler.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+    iran /images/202301/noticias-2022-afectan-2023/iran.jpg
+    wade /images/202301/noticias-2022-afectan-2023/wade.jpg
+    ucrania /images/202301/noticias-2022-afectan-2023/ucrania.jpg
+    fun /images/202212/after-hours-nuevo-show/fun.jpg
+    workout /images/202301/goma-nuevo/workout.jpg
+}
+description {
+Resulta que el huevo de oro es solo un huevo de gallina normal. Los precios de los huevos en los EE. UU. se han vuelto locos con huevos de cartón que superan los cinco, seis e incluso siete dólares. Con una tortilla en un restaurante normal que llega a los quince dólares en algunos lugares.
+
+}
+year 2023
+author NPN
+featured{kmkv} {
+    title <b>Precios de huevos han subido más del 120 % en algunos lugares de EE. UU.<b>
+    text1 El huevo de oro era de gallina
+    text2 NPN
+    pretitle EEUU
+    highlightColor #FBFF09
+}
+type article
+subtitle ¿Qué esta pasando?
+month 01
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
