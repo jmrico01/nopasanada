@@ -17,7 +17,7 @@ text {
 </ul>
 <p>&ldquo;En comparaci&oacute;n con estar sentado todo el d&iacute;a, una caminata ligera de 5 minutos cada media hora redujo la sensaci&oacute;n de fatiga y mejor&oacute; el estado de &aacute;nimo. As&iacute; que, m&aacute;s all&aacute; de mejorar su salud f&iacute;sica, las caminatas regulares para descansar lo pondr&aacute;n de mejor humor y lo ayudar&aacute;n a sentirse con m&aacute;s energ&iacute;a&rdquo;.</p>
 }
-title Pasar sentados nos esta matando. Caminar nos puede empezar a salvar<
+title Pasar sentados nos esta matando. Caminar nos puede empezar a salvar.
 day 16
 text1 
 text2 
@@ -48,10 +48,7 @@ media{kmkv} {
     fun /images/202212/after-hours-nuevo-show/fun.jpg
     workout /images/202301/goma-nuevo/workout.jpg
 }
-description {
-Estudios publicados muestran que la vida sedentaria es una receta para el desastre. Se está acumulando evidencia epidemiológica que indica que pasar más tiempo en un comportamiento sedentario se asocia con un aumento de la morbilidad y mortalidad cardiovascular y por todas las causas en adultos.
-
-}
+description Estudios publicados muestran que la vida sedentaria es una receta para el desastre. Se está acumulando evidencia epidemiológica que indica que pasar más tiempo en un comportamiento sedentario se asocia con un aumento de la morbilidad y mortalidad cardiovascular y por todas las causas en adultos.
 year 2023
 author NPN
 featured{kmkv} {
