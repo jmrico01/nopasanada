@@ -1,0 +1,46 @@
+html, body {
+	background: #000000;
+}
+
+#website {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+#content {
+	width: 600pt;
+	margin-bottom: 72pt;
+}
+
+#content > img {
+	margin-top: 50pt;
+	margin-left: 10%;
+	width: 80%;
+}
+
+.qrCategory {
+	margin-top: 50pt;
+	width: 100%;
+	font-family: FuturaPTDemi;
+	color: #fff;
+}
+.qrCategoryTitle {
+	font-size: 28pt;
+}
+.qrCategorySubtitle {
+	font-size: 16pt;
+}
+.qrCategoryImage {
+	width: 100%;
+	margin-top: 12pt;
+}
+.qrLinks {
+	margin-top: 16pt;
+	display: flex;
+	height: 40pt;
+}
+.qrLinks > a > img {
+	margin-right: 20pt;
+	height: 40pt;
+}

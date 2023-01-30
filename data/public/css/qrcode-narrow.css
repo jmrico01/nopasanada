@@ -1,0 +1,26 @@
+#content {
+	width: 80%;
+}
+#content > img {
+	margin-top: 42pt;
+	margin-left: 0;
+	width: 100%;
+}
+
+.qrCategory {
+	margin-top: 24pt;
+}
+.qrCategoryTitle {
+	font-size: 18pt;
+}
+.qrCategorySubtitle {
+	font-size: 12pt;
+}
+.qrLinks {
+	margin-top: 12pt;
+	height: 7vw;
+}
+.qrLinks > a > img {
+	margin-right: 5vw;
+	height: 7vw;
+}
