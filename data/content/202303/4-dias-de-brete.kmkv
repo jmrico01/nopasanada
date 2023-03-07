@@ -1,0 +1,72 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p style="text-align: left;"><strong>&iquest;Qu&eacute; pas&oacute;?</strong></p>
+<p style="text-align: left;">La semana laboral de cuatro d&iacute;as (la de 36 horas, en caso de que ciertos congresistas se confundan) puede estar sobre nosotros. Un estudio global realizado por 4 Day Week Global ha presentado sus &uacute;ltimos hallazgos. La organizaci&oacute;n encabezada por Andrew Barnes, un empresario de Nueva Zelanda, y Charlotte Lockhar<a href="https://www.4dayweek.com/">t publicaron el estudio este febrero de 2023. Esto es lo que necesita saber.</a></p>
+<p style="text-align: left;"><strong>&iquest;Qui&eacute;n lo estudi&oacute;?</strong></p>
+<p style="text-align: left;">La investigaci&oacute;n global presentada en este informe fue realizada por la profesora Juliet Schor, el profesor Wen Fan y Guolin Gu del Boston College, en colaboraci&oacute;n con la profesora Orla Kelly del University College Dublin.</p>
+<p style="text-align: left;"><strong>&iquest;Qu&eacute; es importante? - Para companias</strong></p>
+<ul>
+<li style="text-align: left;">61 empresas y aproximadamente 2.900 trabajadores se inscribieron para probar una semana laboral reducida durante seis meses seg&uacute;n el modelo 100-80-100TM: 100% del salario, durante el 80% del tiempo, a cambio de un compromiso de entrega del 100% de La salida.</li>
+<li style="text-align: left;">El 92% de las organizaciones contin&uacute;an con una semana de 4 d&iacute;as. De las cinco empresas que no lo est&aacute;n, dos han optado por ampliar sus ensayos y tres est&aacute;n en pausa por el momento</li>
+<li style="text-align: left;">Las empresas calificaron su experiencia general de la prueba con un 8.3/10</li>
+<li style="text-align: left;">Los ingresos aumentaron un 1,4 % en promedio durante la prueba (ponderado por el tama&ntilde;o de la empresa en las organizaciones encuestadas)</li>
+<li style="text-align: left;">El n&uacute;mero de abandonos del personal se redujo en un 57 % durante el per&iacute;odo de prueba.<br />&nbsp;<br />&nbsp;</li>
+</ul>
+<p><strong>&iquest;Qu&eacute; es importante? - Para Trabajadores</strong></p>
+<ul>
+<li>El 90% de los empleados dijeron que definitivamente quieren continuar con una semana de 4 d&iacute;as, y nadie dijo que definitivamente no quiere continuar.</li>
+<li>El 73% de los trabajadores dijeron que estaban m&aacute;s satisfechos con su tiempo</li>
+<li>El 71% de los empleados hab&iacute;an reducido los niveles de agotamiento al final de la prueba</li>
+<li>El 55% report&oacute; un aumento en su habilidad en el trabajo</li>
+<li>El 54% dijo que sinti&oacute; una reducci&oacute;n en las emociones negativas.</li>
+<li><strong>El 15% dijo que ninguna cantidad de dinero les har&iacute;a aceptar un horario de cinco d&iacute;as en su pr&oacute;ximo trabajo.<br /></strong></li>
+</ul>
+<p>La satisfacci&oacute;n general con el trabajo y la vida es mayor, y los empleados informan tasas m&aacute;s bajas de agotamiento y una mejor salud f&iacute;sica y mental. Las personas tambi&eacute;n tienen menos problemas para dormir y hacen m&aacute;s ejercicio.<br />&nbsp;<br />&nbsp;<br />&nbsp;</p>
+}
+title Sali en un nuevo show de NO PASA NADA
+day 07
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    sun /images/202212/after-hours-nuevo-show/sun.jpg
+    pandemia /images/202301/noticias-2022-afectan-2023/pandemia.jpg
+    electrolit /images/202301/goma-nuevo/electrolit.jpg
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202303/headers/4-dias-de-brete.jpg
+    pot /images/202301/goma-nuevo/pot.jpg
+    polar /images/202301/noticias-2022-afectan-2023/polar.jpg
+    alien /images/202301/goma-nuevo/alien.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    inflacion /images/202301/noticias-2022-afectan-2023/inflacion.jpg
+    pill /images/202301/goma-nuevo/pill.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    egg /images/202301/goma-nuevo/egg.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+    iran /images/202301/noticias-2022-afectan-2023/iran.jpg
+    wade /images/202301/noticias-2022-afectan-2023/wade.jpg
+    ucrania /images/202301/noticias-2022-afectan-2023/ucrania.jpg
+    fun /images/202212/after-hours-nuevo-show/fun.jpg
+    workout /images/202301/goma-nuevo/workout.jpg
+}
+description Perspectivas es un show de NO PASA NADA en el cual personas con puntos de vista diferentes vienen a conversar sobre temas importantes. ¡Aplica para participar!
+year 2023
+author Sergio Salazar
+featured{kmkv} {
+    title <b>NUEVO SHOW<b>
+    text1 Perspectivas de NO PASA NADA
+    text2 NPN
+    pretitle NO PASA NADA
+    highlightColor #FBFF09
+}
+type article
+subtitle Participa en el nuevo show de NO PASA NADA
+month 03
+tags{array} home,noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
