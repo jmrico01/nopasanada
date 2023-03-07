@@ -24,7 +24,7 @@ text {
 </ul>
 <p>La satisfacci&oacute;n general con el trabajo y la vida es mayor, y los empleados informan tasas m&aacute;s bajas de agotamiento y una mejor salud f&iacute;sica y mental. Las personas tambi&eacute;n tienen menos problemas para dormir y hacen m&aacute;s ejercicio.<br />&nbsp;<br />&nbsp;<br />&nbsp;</p>
 }
-title Sali en un nuevo show de NO PASA NADA
+title La semana laboral de cuatro días 
 day 07
 text1 
 text2 
@@ -53,18 +53,18 @@ media{kmkv} {
     fun /images/202212/after-hours-nuevo-show/fun.jpg
     workout /images/202301/goma-nuevo/workout.jpg
 }
-description Perspectivas es un show de NO PASA NADA en el cual personas con puntos de vista diferentes vienen a conversar sobre temas importantes. ¡Aplica para participar!
+description La mayor prueba de semana laboral de 4 días fue un éxit
 year 2023
-author Sergio Salazar
+author Pietro Cercone
 featured{kmkv} {
-    title <b>NUEVO SHOW<b>
-    text1 Perspectivas de NO PASA NADA
+    title <b>La Semana 4 Días<b>
+    text1 La mayor prueba de semana laboral de 4 días fue un éxito
     text2 NPN
     pretitle NO PASA NADA
     highlightColor #FBFF09
 }
 type article
-subtitle Participa en el nuevo show de NO PASA NADA
+subtitle Se viene un cambio laboral
 month 03
 tags{array} home,noticias-loimportante
 videoID 
