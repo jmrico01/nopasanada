@@ -1,0 +1,61 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p>&iexcl;Ronaldinho volvi&oacute; a las canchas! Pero <strong>&iquest;qu&eacute; es la Kings League en la que est&aacute; jugando?</strong></p>
+<p>La Kings League es una liga de f&uacute;tbol fundada por el exjugador y amante de los casios, Gerard Piqu&eacute;, en colaboraci&oacute;n con el streamer Ibai Llanos.</p>
+<p>En general las reglas son muy sencillas, <strong>son partidos 7 contra 7 de 40 minutos,</strong> divididos en dos tiempos.</p>
+<p>Hasta el momento todo normal &iquest;cierto?</p>
+<p>Bueno, <strong>hay un par de cosillas escondidas bajo la manga.</strong></p>
+<p>Primero, <strong>los partidos no pueden quedar empate,</strong> para resolverlos se juega una ronda de 5 penaltis, lanzados 1 contra 1 entre el portero y el atacante. En el instante en el que el portero toque la bola, el tiro se cuenta como anulado.</p>
+<p>Adem&aacute;s, <strong>el saque inicial no es el com&uacute;n,</strong> en esta liga cada equipo se queda en la porter&iacute;a y el jugador m&aacute;s r&aacute;pido de cada equipo corre hasta el centro para luchar el bal&oacute;n.</p>
+<p>Pero la principal diferencia es que existe <strong>un comod&iacute;n llamado Cartas.&nbsp;</strong></p>
+<p>En resumen cada equipo tiene 20 cartas a su disposici&oacute;n s&oacute;lo pudiendo usar una a lo largo del partido. Las cartas van desde robar una carta al contrincante, pasando por lanzar un penalti en cualquier momento hasta marcar un gol doble.</p>
+<p>&iquest;Ustedes qu&eacute; equipos de la Kings League siguen?</p>
+<p>&nbsp;</p>
+}
+title ¿De qué trata la Kings League de la que todos hablan?
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    sun /images/202212/after-hours-nuevo-show/sun.jpg
+    pandemia /images/202301/noticias-2022-afectan-2023/pandemia.jpg
+    electrolit /images/202301/goma-nuevo/electrolit.jpg
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202302/headers/03-globos.jpg
+    pot /images/202301/goma-nuevo/pot.jpg
+    polar /images/202301/noticias-2022-afectan-2023/polar.jpg
+    alien /images/202301/goma-nuevo/alien.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    inflacion /images/202301/noticias-2022-afectan-2023/inflacion.jpg
+    pill /images/202301/goma-nuevo/pill.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    egg /images/202301/goma-nuevo/egg.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+    iran /images/202301/noticias-2022-afectan-2023/iran.jpg
+    wade /images/202301/noticias-2022-afectan-2023/wade.jpg
+    ucrania /images/202301/noticias-2022-afectan-2023/ucrania.jpg
+    fun /images/202212/after-hours-nuevo-show/fun.jpg
+    workout /images/202301/goma-nuevo/workout.jpg
+}
+description ¡Ronaldinho volvió a las canchas! Pero ¿qué es la Kings League en la que está jugando?
+year 2023
+author Sergio Salazar
+featured{kmkv} {
+    title <b>Kings League<b>
+    text1 ¿De qué trata la Kings League de la que todos hablan?
+    text2 NPN
+    pretitle Nerdvana
+    highlightColor #FBFF09
+}
+type article
+subtitle ¡Ronaldinho volvió a las canchas! Pero ¿qué es la Kings League en la que está jugando?
+month 03
+tags{array} home,noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

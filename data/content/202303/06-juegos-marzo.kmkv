@@ -1,0 +1,59 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p>&nbsp;Estos son 4 juegos que se estrenan en marzo y que deber&iacute;an tener en su radar.</p>
+<p>El <strong>3 de marzo</strong> sale <em><strong>Wo Long: Fallen Dynasty</strong> </em>para PS4, PS5, Xbox One, Series X y PC.</p>
+<p>Es un juego de fantas&iacute;a ambientado en el periodo de los Tres Reinos de China, al mejor estilo souls. De hecho, le est&aacute;n llamando el sucesor espiritual de Nioh,entonces ya saben qu&eacute; pueden esperar.</p>
+<p>El <strong>17 de marzo</strong>, apenas unos meses despu&eacute;s de su &uacute;ltimo estreno, se viene <em><strong>Bayonetta Origins: Cereza and the Lost Demon</strong></em> para la Nintendo Switch.</p>
+<p>En realidad se desv&iacute;a un poco de la f&oacute;rmula a la que los fans de Bayonetta est&aacute; acostumbrados combinado una sus caracter&iacute;sticos combates con un doble protagonista y la est&eacute;tica como si fuera un cuento de hadas.</p>
+<p>El <strong>24 de marzo</strong> se estrena el remake del famoso <em><strong>Resident Evil 4</strong></em> para PS4, PS5, Series X, S y PC.</p>
+<p>Considerado uno de los mejores survival horror de la historia.</p>
+<p>Y por &uacute;ltimo, otro remake/remaster que se estrena este mes es <em><strong>The Last of Us Parte 1,</strong></em> que est&aacute; muy de moda ahorita.</p>
+<p>Van a poder descargarlo <strong>a partir del 28</strong> para PC en Steam, Epic Games o la plataforma que prefieran.</p>
+}
+title Estos son 4 juegos que se estrenan en marzo
+day 06
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    sun /images/202212/after-hours-nuevo-show/sun.jpg
+    pandemia /images/202301/noticias-2022-afectan-2023/pandemia.jpg
+    electrolit /images/202301/goma-nuevo/electrolit.jpg
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202302/headers/03-globos.jpg
+    pot /images/202301/goma-nuevo/pot.jpg
+    polar /images/202301/noticias-2022-afectan-2023/polar.jpg
+    alien /images/202301/goma-nuevo/alien.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    inflacion /images/202301/noticias-2022-afectan-2023/inflacion.jpg
+    pill /images/202301/goma-nuevo/pill.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    egg /images/202301/goma-nuevo/egg.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+    iran /images/202301/noticias-2022-afectan-2023/iran.jpg
+    wade /images/202301/noticias-2022-afectan-2023/wade.jpg
+    ucrania /images/202301/noticias-2022-afectan-2023/ucrania.jpg
+    fun /images/202212/after-hours-nuevo-show/fun.jpg
+    workout /images/202301/goma-nuevo/workout.jpg
+}
+description Estos son 4 juegos que se estrenan en marzo y que deberían tener en su radar.
+year 2023
+author Sergio Salazar
+featured{kmkv} {
+    title <b>Nerdvana<b>
+    text1 Estos son 4 juegos que se estrenan en marzo
+    text2 NPN
+    pretitle Nerdvana
+    highlightColor #FBFF09
+}
+type article
+subtitle Estos son 4 juegos que se estrenan en marzo y que deberían tener en su radar.
+month 03
+tags{array} home,noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
