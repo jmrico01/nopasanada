@@ -1,0 +1,55 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p>Seg&uacute;n inform&oacute; el New York Times todo apunta a que el gasoducto Nord Stream fue saboteado.</p>
+<p>Al parecer, funcionarios estadounidenses revisaron los datos de inteligencia y se dieron cuenta que es muy probable que haya sido obra de un grupo proucraniano. Eso s&iacute;, no quisieron llegar a una conclusi&oacute;n final sobre si el grupo era conformado por ucranianos, rusos o ambos.</p>
+<p>Lo que s&iacute; dijeron es que <strong>no hay pruebas de que el presidente Volodymyr Zelenskyy</strong> o su c&iacute;rculo cercano estuvieran implicados.</p>
+<p>Incluso, dijeron <strong>que no se encontr&oacute; pruebas</strong> de que el sabotaje se hiciera bajo la direcci&oacute;n de alg&uacute;n funcionario del gobierno ucraniano.</p>
+<p>Lo curioso de todo esto es que hasta el momento no se ha podido verificar de forma independiente el informe, los autores no han querido decir de d&oacute;nde ni c&oacute;mo obtuvieron la informaci&oacute;n, ha sido muy dif&iacute;cil que los estadounidenses lo comenten y ni Rusia ni la empresa Gazprom han querido hablar del tema.</p>
+}
+title ¿Quién saboteó el Nord Stream?
+day 10
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    sun /images/202212/after-hours-nuevo-show/sun.jpg
+    pandemia /images/202301/noticias-2022-afectan-2023/pandemia.jpg
+    electrolit /images/202301/goma-nuevo/electrolit.jpg
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202303/headers/10-nordstream.jpg
+    pot /images/202301/goma-nuevo/pot.jpg
+    polar /images/202301/noticias-2022-afectan-2023/polar.jpg
+    alien /images/202301/goma-nuevo/alien.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    inflacion /images/202301/noticias-2022-afectan-2023/inflacion.jpg
+    pill /images/202301/goma-nuevo/pill.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    egg /images/202301/goma-nuevo/egg.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+    iran /images/202301/noticias-2022-afectan-2023/iran.jpg
+    wade /images/202301/noticias-2022-afectan-2023/wade.jpg
+    ucrania /images/202301/noticias-2022-afectan-2023/ucrania.jpg
+    fun /images/202212/after-hours-nuevo-show/fun.jpg
+    workout /images/202301/goma-nuevo/workout.jpg
+}
+description ¿Quién saboteó el Nord Stream? Según informó el New York Times todo apunta a que el gasoducto Nord Stream fue saboteado.
+year 2023
+author Sergio Salazar
+featured{kmkv} {
+    title <b>¿Quién saboteó el Nord Stream?<b>
+    text1 Según informó el New York Times todo apunta a que el gasoducto Nord Stream fue saboteado.
+    text2 NPN
+    pretitle Rusia vs Ucrania
+    highlightColor #FBFF09
+}
+type article
+subtitle 
+month 03
+tags{array} noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09

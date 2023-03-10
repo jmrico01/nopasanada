@@ -78,7 +78,7 @@ coleccion{kmkv} {
     name Colección
 }
 home{kmkv} {
-    featured{array} /content/202302/07-turquia-siria-terremoto
+    featured{array} /content/202303/10-nordstream
 }
 other{kmkv} {
     name Other (Internal)
