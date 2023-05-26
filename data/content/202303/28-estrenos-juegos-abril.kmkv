@@ -1,0 +1,61 @@
+text {
+<p style="text-align: center;"><strong><a href="https://mailchi.mp/3eef86616803/nopasanada">S&uacute;scribete a nuestro bolet&iacute;n diario</a> | <a href="https://www.patreon.com/nopasanadaoficial">Apoy&aacute; a NO PASA NADA</a></strong></p>
+<hr />
+<p>Si les pregunto c&oacute;mo sirve el wifi &iquest;Cu&aacute;ntos podr&iacute;an levantar la mano y decir que lo saben?</p>
+<p>Si no lo saben, no se preocupen que hoy les explicamos.</p>
+<p>El internet como lo conocemos se cre&oacute; en 1982, poco a poco las cosas han ido avanzando y dejamos atr&aacute;s la era de conectar un cable y dejar a toda la casa sin poder usar el tel&eacute;fono &iquest;se acuerdan de esa &eacute;poca?</p>
+<p>Y conforme fuimos dejando los cables atr&aacute;s, lleg&oacute; el&nbsp;m&aacute;gico wifi, que entenderlo en realidad no es ciencia de cohetes como uno podr&iacute;a pensar.</p>
+<p>El wifi utiliza una serie de ondas de radio que se transmiten desde un router, que es la caja esta que nos conecta a internet.</p>
+<p>Cada vez que ustedes quieren conectarse al wifi para ver un montaje de Pedro Pascal -ustedes saben qui&eacute;nes somos- sus tel&eacute;fonos, laptops o lo que sea, le env&iacute;an una se&ntilde;al al router.</p>
+<p>El router, que est&aacute; conectado por un cable a la red, les responde enviando datos a trav&eacute;s de una se&ntilde;al de radio que tiene una frecuencia y canal espec&iacute;ficos.</p>
+<p>Sus dispositivos reciben y decodifican estas se&ntilde;ales para conectarse al internet y voil&aacute;, edits de Pedro Pascal para todos.</p>
+<p>Ahora, la pregunta m&aacute;s importante es &iquest;cu&aacute;l es una velocidad decente de internet?</p>
+<p>Y la verdad es que depende mucho de factores como la calidad de la se&ntilde;al, la distancia a la que est&aacute; el router, la cantidad de dispositivos que est&eacute;n conectados y m&aacute;s.</p>
+<p>Entonces es dif&iacute;cil saberlo, lo que s&iacute; les podemos decir es que el internet de fibra &oacute;ptica de Telecable es la mejor opci&oacute;n. Con su internet sim&eacute;trico pueden dejar de preocuparse de banalidades como la velocidad y pueden navegar hasta a 1 giga de velocidad sim&eacute;trica.</p>
+}
+title ¿Cómo funciona el wifi?
+day 28
+text1 
+text2 
+text3 
+text4 
+customTop 
+media{kmkv} {
+    sun /images/202212/after-hours-nuevo-show/sun.jpg
+    pandemia /images/202301/noticias-2022-afectan-2023/pandemia.jpg
+    electrolit /images/202301/goma-nuevo/electrolit.jpg
+    kennedy /images/202009/trump-biden-joerogan/kennedy.jpg
+    header /images/202302/headers/03-globos.jpg
+    pot /images/202301/goma-nuevo/pot.jpg
+    polar /images/202301/noticias-2022-afectan-2023/polar.jpg
+    alien /images/202301/goma-nuevo/alien.jpg
+    protest /images/202006/urgente-cuatro-oficiales/protest.jpg
+    inflacion /images/202301/noticias-2022-afectan-2023/inflacion.jpg
+    pill /images/202301/goma-nuevo/pill.jpg
+    trumptweet /images/202009/trump-biden-joerogan/trumptweet.jpg
+    banksy /images/202006/10-banksy/banksy.jpg
+    egg /images/202301/goma-nuevo/egg.jpg
+    ivan /images/202009/25-senador-que-sobrevivio-a-mafia-ahora-plantea-legalizar-cocaina-en-colombia/ivan.jpg
+    iran /images/202301/noticias-2022-afectan-2023/iran.jpg
+    wade /images/202301/noticias-2022-afectan-2023/wade.jpg
+    ucrania /images/202301/noticias-2022-afectan-2023/ucrania.jpg
+    fun /images/202212/after-hours-nuevo-show/fun.jpg
+    workout /images/202301/goma-nuevo/workout.jpg
+}
+description Si les preguntamos cómo funciona el Wifi ¿Cuántos podrían levantar la mano y decir que lo saben? Sí no, hoy les contamos.
+year 2023
+author Sergio Salazar
+featured{kmkv} {
+    title <b>Nerdvana<b>
+    text1 ¿Cómo funciona el wifi?
+    text2 NPN
+    pretitle Nerdvana
+    highlightColor #FBFF09
+}
+type article
+subtitle Si les preguntamos cómo funciona el Wifi ¿Cuántos podrían levantar la mano y decir que lo saben? Sí no lo saben, hoy les contamos.
+month 03
+tags{array} home,noticias-loimportante
+videoID 
+titlePoster 
+color #FBFF09
